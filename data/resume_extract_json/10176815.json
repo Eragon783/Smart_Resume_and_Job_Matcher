@@ -1,0 +1,106 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Seeking a challenging position where my existing skills and experience contribute to your company while expanding my technical abilities.",
+    "skills": [
+        "academic",
+        "Adobe",
+        "Articulate",
+        "attention to detail",
+        "AutoCAD",
+        "calibration",
+        "Canvas",
+        "content",
+        "credit",
+        "delivery",
+        "electrical schematics",
+        "English",
+        "forms",
+        "HTML",
+        "inspect",
+        "inspector",
+        "instructional design",
+        "inventory",
+        "LabVIEW",
+        "laser",
+        "logic",
+        "materials",
+        "MATLAB",
+        "Access",
+        "Excel",
+        "Microsoft Office",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "radar",
+        "multimeters",
+        "Navy",
+        "communicator",
+        "navigation",
+        "organizational",
+        "oscilloscopes",
+        "problem solver",
+        "quality",
+        "quality assurance",
+        "radio",
+        "recording",
+        "repairs",
+        "repairing",
+        "schematics",
+        "servers",
+        "signal generators",
+        "test equipment",
+        "troubleshooting",
+        "UHF",
+        "upgrades",
+        "VHF",
+        "wiring",
+        "Spanish"
+    ],
+    "experience": [
+        {
+            "title": "Instructional Designer",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2015-01",
+            "description": "Used the instructional design process to plan and develop online courses in partnership with faculty SMEs, then building courses using a standardized template in the Blackboard LMS environment. Utilized a variety of technology tools, including Canvas, Blackboard, Respondus, StudyMate, TurnItIn, SnagIt, Camtasia, HTML and others to create instructional media. Facilitated in the transfer and development of online courses from Blackboard LMS to Canvas LMS. Collaborated with remote faculty to prepare high-quality, interactive online courses, for academic and non-credit delivery. Conducted quality assurance reviews of courses and other instructional materials Edited and organized electronic information to create high- quality course content that is suited to the adult online learner. Worked with Blackboard System Administrators to troubleshoot issues with online courses in the LMS system, prepare for system upgrades by testing the LMS on staging servers."
+        },
+        {
+            "title": "Aviation Electronics Technician",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "Present",
+            "description": "Troubleshoot radar systems, communication systems, navigation equipment, radar altimeter warning systems, instrument landing system equipment, electronic support measure systems, electro-optical sensors (IR turret), search radar and synthetic aperture radar. Test electronic circuits using commercial and industry-standard equipment, such as oscilloscopes, digital multi-meters, logic analyzers, DAC converters, spectrum analyzers and signal generators and time delay reflectometers to isolate faults and defects. Work side by side with Quality assurance as a collateral duty inspector, responsible for writing quality deficiency reports, technical discrepancies and engineering investigations. Maintain and repair in-flight navigation and detection systems on aircrafts , radar systems, radar and tactical displays, IFF/SIF equipment, radar altimeters, Doppler navigation equipment, radio navigation systems, analog computing devices, electronic countermeasures equipment, laser and fiber-optic infrared devices, digital recorder systems and aircraft digital systems, use basic RF electronic test equipment and specialized system test equipment. Completed maintenance action forms, keep an inventory of parts and supplies, maintain a technical library and perform avionics corrosion control. Troubleshoot and repair antisubmarine warfare sensors, electronic warfare, data link, fire control and tactical displays with associated equipment, UHF and VHF receivers and transmitters, made repairs on antennas, repair and install electrical connectors, inspect and install pressurized equipment, waveguide components, avionics gaskets and seals, calibrate test equipment, interpret computer languages and computer equipment."
+        },
+        {
+            "title": "Aviation Electronics Technician",
+            "company": "Company Name",
+            "start_date": "2003-01",
+            "end_date": "2007-01",
+            "description": "Worked in the Navy's largest intermediate maintenance department providing component level repair exceeding 260,000 components annually and valued at $557 million. Incorporated and ensured strict attention to detail in repairing electrical aircraft systems using commercial and industry-standard equipment, such as oscilloscopes, digital multi-meters, logic analyzers, DAC converters, spectrum analyzers and signal generators all while contributing to 55% percent reduction in backlog. Analyzed and resolved intricate automated test equipment problems and debugged complex computer generated data all while supporting 19 F/A-18 squadrons and 11 aircraft carriers. Assembled, checked, handled, inspected, maintained, operated, reprogrammed, repaired and processed over 2,900 maintenance actions annually on classified F/A-18 specialized repair assemblies all while maintaining a 95% ready for issue rate. Utilized technical manuals, wiring schematics, block diagrams, electrical schematics and drawings to rapidly isolate malfunctions in system wiring, sub assemblies and other components."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Aeronautical Science Applied Meteorology",
+            "school": "Embry-Riddle Aeronautical University",
+            "year": 2016
+        },
+        {
+            "degree": "Associate of Science: Electronic Engineering Technology",
+            "school": "Tidewater Community College",
+            "year": 2008
+        }
+    ],
+    "certifications": [
+        "Airline Dispatcher Certified",
+        "FAA Class 1 Medical",
+        "DOD Secret Clearance"
+    ],
+    "languages": [
+        "Spanish",
+        "English"
+    ]
+}

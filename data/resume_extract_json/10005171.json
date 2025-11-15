@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Chattanooga, TN",
+    "summary": "Results-oriented media relations and event planning specialist with extensive experience in campus communications, writing and editing, and program marketing. Proven ability to boost media coverage and interviews for campus administrators, host and coordinate events, and produce promotional videos and documentaries. Recognized with national advertising and PR awards.",
+    "skills": [
+        "academic",
+        "ads",
+        "advertising",
+        "banners",
+        "brochures",
+        "budget",
+        "conferences",
+        "special events",
+        "market research",
+        "marketing",
+        "materials",
+        "newspaper",
+        "office manager",
+        "personnel",
+        "press",
+        "press releases",
+        "publication",
+        "radio",
+        "recruitment",
+        "scripts",
+        "strategy",
+        "strategic planning",
+        "television",
+        "website content"
+    ],
+    "experience": [
+        {
+            "title": "Media Activities Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "2013-09",
+            "end_date": "Present",
+            "description": "Organize major campus events by overseeing security, media services, food services, and marketing. Notable speakers include Neil de Grasse Tyson and Dr. Michio Kaku. Assist academic departments with conferences and smaller events. Create videos for various departments on campus for academic and recruitment purposes."
+        },
+        {
+            "title": "Marketing Coordinator",
+            "company": "Chattanooga State Community College",
+            "start_date": "1996-03",
+            "end_date": "2013-08",
+            "description": "Engaged in strategic planning with deans and department heads to increase enrollment and public awareness of new academic programs. Utilized focus groups, surveys, and market research to develop strategy. Supported branding via press releases, copy for radio and TV ads, extensive website content and print ads, brochures, fliers, posters, and billboards. Managed advertising budget up to $500,000. Proofed and edited materials for publication. Supervised staff of seven comprised of three graphic artists, three web designers, and the office manager. Recruited and mentored students who represented the college at special events. Wrote scripts and recruited talent for the College's radio and television commercials. Worked with local production companies to create commercials for TV and radio. Developed scripts for recruitment and instructional videos for various academic departments. Produced a series of \"How To\" videos to guide students through the registration process for the Student Services department. Increased media presence at press conferences and campus events. Hosted a television show focused on campus and community events and served as the primary media contact and spokesperson when needed."
+        },
+        {
+            "title": "Continuing Education Coordinator",
+            "company": "Chattanooga State Community College",
+            "start_date": "1994-03",
+            "end_date": "1996-03",
+            "description": "Created personal interest classes for the community, recruited instructors, organized schedules, and marketed courses. Recruited instructors, organized schedules, and promoted courses. Organized first Spanish language classes for ER personnel in local hospitals."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Radio, Television & Motion Pictures",
+            "school": "University of North Carolina",
+            "year": "1994"
+        },
+        {
+            "degree": "Writers Guild of America Internship (Radio, Television & Motion Pictures)",
+            "school": "Paramount Pictures",
+            "year": "Summer 1993"
+        },
+        {
+            "degree": "Bachelor of Arts in Human Services",
+            "school": "University of Tennessee",
+            "year": "1975"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

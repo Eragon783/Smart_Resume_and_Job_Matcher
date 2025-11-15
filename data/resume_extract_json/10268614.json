@@ -1,0 +1,60 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly-motivated Nutritionist with a masters degree seeking a career position in the healthcare field. Goal-oriented and high-achieving professional with advanced knowledge and skills in nutrition. Highly effective at evaluating the nutritional needs of both adults and children with various diseases. Self-starter, energetic, enthusiastic and dependable individual with outstanding leadership and management skills. A creative and organized key team player with strong interpersonal and communication skills.",
+    "skills": [
+        "Genetic nutrition background",
+        "Adult, adolescent and child nutrition",
+        "Use of anthropometric measurements",
+        "Proficient speaker of Arabic and English",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Team leadership",
+        "Confident public speaker"
+    ],
+    "experience": [
+        {
+            "title": "Fitness Attendant",
+            "company": "Company Name, City, State",
+            "start_date": "March 2014",
+            "end_date": "May 2015",
+            "description": "Supervised and guided members in safe exercise and use of machines. Contributed to the operation of a clean, friendly and well-maintained recreation center. Encouraged and motivated members to attend group fitness classes. Contributed in selecting, interviewing and training of new employees. Work evaluation improved from 3.36/4 to 3.79/4."
+        },
+        {
+            "title": "Nutritionist",
+            "company": "Company Name, City, State",
+            "start_date": "July 2012",
+            "end_date": "July 2013",
+            "description": "Assessed almost 5,000 patients' overall physical health with body composition scale measurements and In Body Machine. Recommended appropriate feeding schedules and methods to meet nutritional needs in line with patients' age, gender, diagnosis, cultural background and religious practices. Encouraged patients and caregivers to follow recommended food guidelines for well-balanced diets. Consulted regularly with physicians on patients' weight and recommended specialized laboratory tests to assess and monitor nutritional status. Counseled more than 800 postpartum patients regarding special dietary needs to enhance recovery and efficient breastfeeding. Coordinated successful school and other public events to increase health awareness and marketing of nutrition supplements. Emphasized nutrition supplements' features to pharmacists to increase awareness and sales of product."
+        },
+        {
+            "title": "Trainee in food services and in healthy and therapeutic nutrition",
+            "company": "Company Name, City, State",
+            "start_date": "February 2012",
+            "end_date": "March 2012",
+            "description": "Manage tray line, checking and setting up trays to ensure patient food orders are correct according to their dietary need and disease status. Utilize sanitation procedures at all times with food interaction and handling. Work with specialized diets, kidney dialysis patients. Screen all newly admitted patients for nutrition concerns. Daily round on patients for nutrition concerns and risks. Provide special diet menu options for inpatients."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Human Nutrition",
+            "school": "University of New Haven",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelor of Science: Human Nutrition and Dietetics",
+            "school": "University of Jordan",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        "First Aid/ CPR/AED (current)"
+    ],
+    "languages": [
+        "Arabic",
+        "English"
+    ]
+}

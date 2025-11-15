@@ -1,0 +1,90 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Successful administrative professional with 15 years of experience.",
+    "skills": [
+        "accounting",
+        "accounts payable",
+        "Adobe Acrobat",
+        "A/P",
+        "agency",
+        "attention to detail",
+        "billing",
+        "bookkeeping",
+        "C Programming",
+        "Clerical",
+        "conferences",
+        "content",
+        "Prepare contract",
+        "Credit",
+        "clients",
+        "Detail oriented",
+        "Editing",
+        "focus",
+        "letters",
+        "Logic",
+        "Excel",
+        "mail",
+        "Outlook",
+        "PowerPoint",
+        "Microsoft Word",
+        "newsletters",
+        "newspaper",
+        "payroll",
+        "PDF",
+        "Philosophy",
+        "processes",
+        "Proofreading",
+        "quality",
+        "sales",
+        "specification",
+        "spreadsheets",
+        "phones",
+        "phone",
+        "Make travel arrangements",
+        "Travel arrangements",
+        "making travel arrangements",
+        "Type",
+        "websites",
+        "workshops"
+    ],
+    "experience": [
+        {
+            "title": "Corporate Administrator",
+            "company": "Company Name City , State",
+            "start_date": "January 2009",
+            "end_date": "January 2017",
+            "description": "Light accounting/bookkeeping; Travel arrangements; Meeting agendas and minutes; Editing/Proofreading; Meticulously proofread; Ensure content consistency; Structure; Revise for clarity; Review style format; Bidding Administration: prepare 'front-end docs'; Familiar with various loaning agency requirements; carry out bid process from start to finish; Construction Administration: assist approximately 15 engineers in our water/wastewater department working on multi-million dollar projects; Document Processing: Proofread, revise, format, PDF, and produce master plans, planning studies, specifications and plans, technical memos, letters, meeting minutes, and O&M manuals for municipalities and cities; Bidding Administration: distribute plans/specifications, maintain planholders' lists, issue and confirm receipt of addenda, and complete bid tabulations; Construction Administration: prepare contract documents; receive and return submittals and RFIs; maintain logs; Additional tasks: make travel arrangements; coordinating lunch and learns; conference and workshop registrations; master specifications/standards committee: create monthly meeting agendas and minutes; log, track, and implement master specification change requests; answer and route phone calls; distribute incoming mail; prepare outgoing mail and UPS packages; run company errands."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name City , State",
+            "start_date": "January 2006",
+            "end_date": "January 2009",
+            "description": "Provided full account servicing for the Sears Credit Cards Portfolio via incoming calls, including billing and payment inquiries and disputes; account maintenance; lost/stolen cards. Consistently met and exceeded quality and sales goals."
+        },
+        {
+            "title": "Administrative Assistant/Bookkeeper",
+            "company": "Addus HealthCare",
+            "start_date": "January 2000",
+            "end_date": "January 2003",
+            "description": "Completed monthly billing reports and Branch Manager's Report; billed over $500,000 monthly to contracting state agencies and clients; Reconciled billing, posted payments to clients' accounts, and prepared deposits; Prepared and approved accounts payable bills; Created documents, spreadsheets, and monthly newsletters; included developing new spreadsheets for A/R and A/P purposes; Completed several processes of payroll; Assisted in planning company functions; Provided support to the area manager, branch manager, and 12 other branches throughout Washington and Oregon; Supervised part-time assistant."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Coursework (45 credits)",
+            "school": "Boise State University",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Kuna High School",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Robert M. Buch",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "Growth strategies / opportunity identification",
+        "Scientific strategy and excellence",
+        "Research and product development",
+        "Cross-functional collaboration (regulatory affairs, marketing, licensing, legal, clinical)",
+        "Consumer healthcare (OTCs and medical devices)",
+        "New product development (NPD)",
+        "Consumer testing and translation of consumer needs to products",
+        "Ideation, innovation, and claims generation",
+        "Leadership of cross-functional, global teams",
+        "Open innovation and licensing",
+        "Due diligence and acquisition support",
+        "Regulatory liaison (FDA, CHPA, CTFA, ADA)",
+        "Marketing and business development support",
+        "Patent and claims development",
+        "Data visualization and publication development",
+        "Global growth strategy development",
+        "Non-destructive analysis and analytical methods",
+        "Biosensor technology",
+        "Microscopy (SEM, Polarized Light)",
+        "Project management and budgeting",
+        "QA and manufacturing liaison"
+    ],
+    "experience": [
+        {
+            "title": "Director, New Product Research and R&D Liaison, Global Oral Healthcare R&D, Consumer Healthcare R&D",
+            "company": "GlaxoSmithKline (GSK)",
+            "start_date": "2011-01",
+            "end_date": "Present",
+            "description": "Developed and implemented systems to drive scientific excellence worldwide; reviewed major scientific programs to ensure scientific excellence; managed cross-category strategic programs; leveraged scientific programs to support novel claims; coordinated scientific visualization and communication programs; aligned R&D with commercial objectives; planning and managing scientific engagement with external experts and organizations; developing and managing extensive networks of experts; review and development of talent within R&D; involved in Rx to OTC switches; liaison with FDA and industry associations; creation of external research collaborations and consultants network; responsible for growth strategies and due diligence for acquisitions."
+        },
+        {
+            "title": "Associate Director/Category R&D Liaison, Oral Healthcare R&D, Consumer Healthcare R&D",
+            "company": "GlaxoSmithKline (GSK)",
+            "start_date": "1996-01",
+            "end_date": "2002-01",
+            "description": "All oral healthcare innovation initiatives in North America; liaising with FDA, CHPA, CTFA, ADA, and other agencies; development and evaluation of external resources and collaborations; development of technical and business cases for new opportunities; oversight of product development, patents, and claims; support for Rx to OTC switches; lead in licensing activities and due diligence for acquisitions."
+        },
+        {
+            "title": "Scientist, Analytical Technology Group, Analytical R&D, CPR&D",
+            "company": "GlaxoSmithKline (GSK)",
+            "start_date": "1995-01",
+            "end_date": "1996-01",
+            "description": "All investigational research relating to Oral Care; development of novel technology platforms and physico-chemical models; product development, patent and claims generation; mentoring of junior scientists; support to QA, Manufacturing, and Licensing; leadership in multiple development projects."
+        },
+        {
+            "title": "Research Assistant, Hawaii Biosensor Laboratory",
+            "company": "Hawaii Biosensor Laboratory",
+            "start_date": "1989-01",
+            "end_date": "1990-01",
+            "description": "Neuronal biosensor research; microdiagnostic sensor development; training of new graduate students in biosensor research."
+        },
+        {
+            "title": "Teaching Assistant, Department of Chemistry and Biochemistry",
+            "company": "University of Delaware",
+            "start_date": "1986-01",
+            "end_date": "1989-01",
+            "description": "Development and study of intact chemoreceptor-based biosensors; laboratory instruction for General Chemistry and Instrumental Analysis."
+        },
+        {
+            "title": "Quality Control Analyst",
+            "company": "Unknown",
+            "start_date": "1981-01",
+            "end_date": "1984-01",
+            "description": "Analysis and release of finished pharmaceutical and consumer products; analysis and release of raw materials; manufacturing investigations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "PhD in Analytical Chemistry",
+            "school": "University of Delaware, Department of Chemistry and Biochemistry",
+            "year": 1990
+        },
+        {
+            "degree": "MS in Analytical Chemistry",
+            "school": "University of Delaware, Department of Chemistry and Biochemistry",
+            "year": 1987
+        },
+        {
+            "degree": "B.A. in Chemistry",
+            "school": "Franklin and Marshall College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "CTFA",
+        "ACS Certified"
+    ],
+    "languages": []
+}

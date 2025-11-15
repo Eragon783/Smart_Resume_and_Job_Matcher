@@ -1,0 +1,56 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Personable Customer Service Associate with floral design experience and a strong focus on customer service, inventory control, cash handling, and store operations. Proven ability to multi-task, open/close the store, and create appealing displays.",
+    "skills": [
+        "Inventory control",
+        "Employee scheduling",
+        "Cash handling and banking",
+        "Floral design",
+        "Organizational skills",
+        "Placing orders (in person and over the phone)",
+        "Customer service",
+        "Multi-tasking"
+    ],
+    "experience": [
+        {
+            "title": "Floral designer",
+            "company": "Company Name",
+            "start_date": "June 2013",
+            "end_date": "March 2016",
+            "description": "Designed floral arrangements for weddings and corporate events; performed prep work and maintained showroom display."
+        },
+        {
+            "title": "Floral designer",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "December 2012",
+            "description": "Opened and closed the store; counted cash drawers and made bank deposits. Helped customers select products that fit their needs, as well as floral designing."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "April 2008",
+            "end_date": "August 2009",
+            "description": "Handled cashier duties; helped unload trucks, stocked shelves, and carried merchandise to the floor. Marked clearance products with updated price tags."
+        },
+        {
+            "title": "Manager/Floral designer",
+            "company": "Company Name",
+            "start_date": "October 2002",
+            "end_date": "April 2008",
+            "description": "Opened and closed the store; counted cash drawers and made bank deposits. Maintained visually appealing displays; answered customer questions and addressed problems and complaints in person and via phone. Designed floral arrangements for cooler displays and outgoing orders."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Medical Assistant",
+            "school": "Northwestern College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

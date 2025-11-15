@@ -1,0 +1,110 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Summary I am a U.S. citizen who is authorized to work in the US for any employer. I have worked 8 years as an Office Clerk, 2 years as a Student Intern/Office Assistant, and 4 years as a Contractor. I am applying for the Data Entry Clerk position (Advert ID# 224278 Advert ID# 224278). My skills and experiences include: Administrative Support, Auditing, File Management, Meeting Facilitation, Office Materials Management, & Inventory Management. Highlights COMPUTER SKILLS: Microsoft Word, MS Excel, MS Outlook, MS PowerPoint, PeopleSoft. TYPING SKILLS: 40-60 WPM. ADDITIONAL SKILLS: Administrative Support, Auditing, Clerical, Copy, Customer Service, Data Entry, Delivery, Documentation, Fax, File Management, Letters, Meeting Facilitation, Organizational Skills, Proofreading, Receptionist, Research, Scanning, Scheduling, Secretarial, Telephone Skills, Office Equipment Maintenance, and Inventory Management.",
+    "skills": [
+        "Administrative Support",
+        "Auditing",
+        "Clerical",
+        "Clerical Support",
+        "Data Entry",
+        "Documentation",
+        "File Management",
+        "Inventory Management",
+        "Meeting Facilitation",
+        "Office Clerk",
+        "Office Assistant",
+        "Office Supplies",
+        "Faxing",
+        "Incoming Mail",
+        "Legal Documents",
+        "Mail Clerk",
+        "Stamping",
+        "Audit",
+        "Auditing",
+        "Cases",
+        "Copying",
+        "Documenting",
+        "FBI",
+        "File",
+        "Finishing",
+        "NRC",
+        "Scheduling",
+        "Correspondence",
+        "Database",
+        "HR",
+        "Human Resources",
+        "PeopleSoft",
+        "Teaching",
+        "Inventory",
+        "60 WPM",
+        "Customer Service",
+        "Equipment Maintenance",
+        "Excel",
+        "Microsoft Word",
+        "MS Excel",
+        "MS Outlook",
+        "Organizational Skills",
+        "Outlook",
+        "PowerPoint",
+        "Proofreading",
+        "Receptionist",
+        "Retail Sales",
+        "Scanning",
+        "Secretarial",
+        "Telephone Skills",
+        "Typing",
+        "Word"
+    ],
+    "experience": [
+        {
+            "title": "HR Personnel Assistant",
+            "company": "Company Name City , State",
+            "start_date": "03/2013",
+            "end_date": "04/2014",
+            "description": "Supported human resources staff with new hire orientations and monthly departmental meetings. Entered updated personnel and subcontractor data into a central database. Reviewed human resource paperwork for accuracy and completeness by verifying, collecting and correcting additional employee data. Composed and drafted all outgoing correspondence and reports for managers. Answered and managed incoming and outgoing calls while recording accurate messages. Maintained Heavy Filing of HR Personnel Action Forms to include new hire letters, awards, certifications and promotions, providing a stronger framework for consistency and detail. Assisted Senior Personnel supervisors in Coordinating and conducted new hire pre-interviews. Developed and maintained an internal new hire filing system. Received, maintained and filed appropriate paperwork as back up for all HR Office transactions. Typed memorandums, forms, and letters using software applications to complete HR office assignments and projects given on a regular basis. Utilized and Navigated PeopleSoft (HRS) to input, manage and research data. Operated fax and copy machines to complete tasks as needed. Initiated and maintained email correspondence with teachers, principals, VPs, and other members of NPS regarding personal ID information, teaching background & certification info, and criminal history clearance."
+        },
+        {
+            "title": "Assistant Store Clerk",
+            "company": "Company Name City , State",
+            "start_date": "05/2011",
+            "end_date": "01/2012",
+            "description": "Selling merchandise and providing customer services for patrons. Monitoring patrons to assist the store in loss and theft prevention. Restocking shelves. Improving data maintenance of produce inventory. Maintaining the appearance of the store. Assisting with maintenance of produce inventory."
+        },
+        {
+            "title": "Office Clerk/ Federal Contractor",
+            "company": "Company Name City , State",
+            "start_date": "06/2008",
+            "end_date": "10/2009",
+            "description": "Checking and validating Retirement & NRC files in NFTS and CIS systems. Calling Applicant to Counter Window to Sign Certificate. Completing File Maintenance of Riders, Mergers, and Certificates. Finishing and documenting 3-Box Audit for Weekly Systems Update. Filing of FBI background report on Applicants. Assign scheduled appointments to appointed legal officers. Clerical Reception of Scheduled Applicants. Auditing Confidential Department Files. Composing & Mailing out appointment letters. Finalizing Pick list Printouts for Examinations/Cases. Completing NFTS Data Systems updates. Performing Clerical tasks regarding Naturalization ceremonies, including: A. Scheduling, Preparing, and Distribution of Certificates. B. Retrieval of Documentation from Applicants. Using Computer Terminal to update DHS Automated Systems. Providing Administrative Support in Processing. Performing Daily tasks of filing, recording, copying, and maintaining records."
+        },
+        {
+            "title": "Office Clerk/Federal Contractor",
+            "company": "Company Name City , State",
+            "start_date": "07/2005",
+            "end_date": "01/2007",
+            "description": "Performing Data Entry of Legal Documents and Court Case Dates. Mail Clerk and Online Mail Information Updating Setting Schedules for Staff or Private Meetings Filing and Faxing of Confidential Court Documents Metering outgoing and stamping incoming mail Reestablishing protocols for office supplies storage and maintenance Providing clerical support to Office administrators & Managers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's of Arts in Political Science and Law",
+            "school": "Montclair State University",
+            "year": "2007"
+        },
+        {
+            "degree": "Bachelor's of Arts Degree in Political Science and Law",
+            "school": "Montclair State University",
+            "year": "1998-2007"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Our Lady of Good Counsel High School",
+            "year": "1995-1998"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

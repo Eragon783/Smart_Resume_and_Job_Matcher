@@ -1,0 +1,92 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Achievement driven and results-oriented professional seeking opportunities in Business Management or Sales. Quick learner with attention to detail, strong problem-solving, leadership, intrapersonal and interpersonal skills. Flexible and open to new challenges.",
+    "skills": [
+        "MS Office Suite",
+        "SalesForce.com",
+        "Pipedrive.com",
+        "Birst/Intradiem Reports",
+        "CPR Certification (2012)",
+        "Mailchimp",
+        "Self-motivated",
+        "Dedicated team player",
+        "Highly competitive",
+        "Interpersonal skills",
+        "Sales",
+        "Telemarketing",
+        "Customer service",
+        "Marketing",
+        "Pricing",
+        "Real estate",
+        "Underwriting",
+        "Reporting",
+        "Research",
+        "Website",
+        "Data dictionary",
+        "Meetings",
+        "Networking"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Representative",
+            "company": "Company Name",
+            "start_date": "2017-05",
+            "end_date": "Present",
+            "description": "Increased gross revenue by 6% per month. Generate new business by adding new retailers and working with existing retailers to strengthen and grow the relationship. Develop relationships with retailers via outbound cold calls and email campaigns to decision makers. Follow 7 touches in 7 days plan for new prospects to set appointments. Strengthen existing accounts by growing product feed and improving pricing. Demonstrate solution and configure website integration."
+        },
+        {
+            "title": "Sales Development Representative",
+            "company": "Company Name",
+            "start_date": "2017-09",
+            "end_date": "Present",
+            "description": "Maintain positive energy on the sales floor. Achieved 160% of monthly quota and grew sales to $90K during Q1, earning title as top SDR globally in revenue and demos generated Q1 2018. Completed 130+ daily cold calls, with an average of 2.5 hours talk time. Increased KPI's 2 fold month to month during first 90 days of employment. Participate in all training and continuing education opportunities offered by management."
+        },
+        {
+            "title": "Senior Sales Producer",
+            "company": "Company Name",
+            "start_date": "2015-02",
+            "end_date": "2017-05",
+            "description": "Consistently surpassed the agency standard of 20 policies per month. Establish a referral network based on loan originators, real estate agents, new/used car and motorsports salesmen and my own personal network. Developed marketing and partnership campaigns using a mix of targeted mailers, telemarketing and email drip campaigns. Followed typical sales procedures on both internet and inbound sales leads. Probed for life and financial service opportunities for all customers. Provided customers with the utmost understanding during a loss and stood as a liaison between the customer and the claims department. Completed all customer service requests in a timely manner. Solved underwriting obstacles for customers and new business."
+        },
+        {
+            "title": "Business Development",
+            "company": "Company Name",
+            "start_date": "2017-03",
+            "end_date": "2017-08",
+            "description": "Successfully implemented company wide business development process, which led to a 6% per month increase in gross revenue. (target set by CEO was 2.5%) Prospect for new retailers via outbound cold calls and email campaigns to decision makers. Met quota of on-boarding 2 new vendors per month. Strengthen existing accounts by proactively growing vendor product feed and improving pricing. Followed call and email cadence throughout the entire sales cycle. Demonstrate solution and configure website integration."
+        },
+        {
+            "title": "Success Management and Reporting Analyst",
+            "company": "Company Name",
+            "start_date": "2012-12",
+            "end_date": "2015-02",
+            "description": "Documented new reports engine data dictionary and report content. Ran monthly and weekly adoption reports for upper management review. Ran reports and organized data into a presentable document for client meetings. Upload weekly reports to Salesforce.com for companywide viewing. Conducted classroom training on reporting system. Created web help videos. Sales and Operations Support. Worked with minimal supervision on a variety of assignments across several departments. Completed all assignments accurately and ahead of deadlines. Organized SalesForce.com accounts into correct business categories and updated contact information from marketing campaigns. Managed SalesForce.com console and manage outbound calls to business directors and executives. Conducted telephone surveys via outbound calls to customers and industry workers. Created and maintained data for sales demo environment. Managed and assigned training courses for new employees. Research customer data in new markets."
+        },
+        {
+            "title": "Business Development & Success Management",
+            "company": "Company Name",
+            "start_date": "2012-11",
+            "end_date": "2015-02",
+            "description": "Managed SalesForce.com console and prospected via outbound calls to business directors and executives. Conducted telephone surveys via outbound calls to customers and industry workers. Created and maintained data for sales demo environment. Managed and assigned training courses for new employees. Research customer data in new markets. Documented new reports engine data dictionary and report content. Ran monthly and weekly adoption reports for upper management review. Organized data from Birst reporting into a presentable document for client meetings. Upload weekly reports to Salesforce.com for companywide viewing. Conducted classroom training on reporting system. Created web help videos."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors",
+            "school": "KENNESAW STATE UNIVERSITY, Coles College of Business",
+            "year": "2017"
+        },
+        {
+            "degree": "Ph.D. in Professional Sales",
+            "school": "KENNESAW STATE UNIVERSITY, Coles College of Business",
+            "year": "2019"
+        }
+    ],
+    "certifications": [
+        "CPR Certification, 2012"
+    ],
+    "languages": []
+}

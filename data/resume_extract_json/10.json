@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Kharkiv, Ukraine; Nitzana, Israel",
+    "summary": "Web Frontend Developer with 5 years of experience in frontend development. Proficient with JavaScript and TypeScript, PHP; strong skills in HTML, CSS/SASS, Pug/Jade, Haml, NodeJS, Gulp, Webpack. Experienced with React, React Native, Angular; libraries such as jQuery, Redux, RxJS, Chart.js, Anime.js, TinyMCE, Material UI, Bootstrap, Tailwind. Familiar with PhpStorm, VS Code, GitHub; design tools like Adobe Photoshop and Figma. Working with MySQL on Windows, Linux and macOS.",
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "PHP",
+        "HTML",
+        "CSS",
+        "SASS",
+        "Pug/Jade",
+        "Haml",
+        "NodeJS",
+        "Gulp",
+        "Webpack",
+        "React",
+        "React Native",
+        "Angular",
+        "jQuery",
+        "Redux",
+        "RxJS",
+        "Chart.js",
+        "Anime.js",
+        "TinyMCE",
+        "Material UI",
+        "Bootstrap",
+        "Tailwind",
+        "MySQL",
+        "Windows",
+        "Linux",
+        "macOS",
+        "Adobe Photoshop",
+        "Figma"
+    ],
+    "experience": [
+        {
+            "title": "Frontend developer",
+            "company": "WPG",
+            "start_date": "2021",
+            "end_date": "present",
+            "description": "Remote, part-time role; support and development of game sites for cryptocurrencies casino. Development of a constructor and panel of social polls 'Lemur'. Improvement of functionality for entering other markets."
+        },
+        {
+            "title": "Frontend developer",
+            "company": "WPG",
+            "start_date": "2017",
+            "end_date": "2021",
+            "description": "Support and development of the functionality for a large network of auto parts stores. Support and development of game sites for cryptocurrencies casino. Development of new games with CSS and JavaScript animations. For one game, developed an additional server part on NodeJS using WebSocket. Development of a constructor and panel of social polls 'Lemur'. Direct participation in the creation of a product, concept, and implementation for online panels (web, iOS, Android); constructors, offline applications for surveys without Internet. Development of an online panel application for surveys of respondents for iOS/Android using React Native. Sometimes outsourcing of small projects."
+        },
+        {
+            "title": "HTML markup",
+            "company": "WPG",
+            "start_date": "2016",
+            "end_date": "2017",
+            "description": "Website layout with pixel-perfect, responsive CSS and JS animations."
+        },
+        {
+            "title": "HTML markup",
+            "company": "Freelance",
+            "start_date": "2016",
+            "end_date": "2016",
+            "description": "PSD to HTML; WordPress plugins development."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma in Engineering, Heat supply, gas supply and ventilation",
+            "school": "O.M. Beketov National University of Urban Economy in Kharkiv",
+            "year": "2012-2017"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

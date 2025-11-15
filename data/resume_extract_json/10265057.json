@@ -1,0 +1,100 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced RF systems engineer with multidisciplinary background in RF hardware designs, manufacturing operations and data analytics. Skilled in EVT/DVT/PVT verifications and FA-based root-cause analysis from system to unit level. Team leader for end-to-end technical project design, development, testing and validation. Manages test/production readiness reviews and drives quality requirements for post-ramp qualification. Capable of managing multiple projects simultaneously with innovation and strong attention to detail.",
+    "skills": [
+        "big data",
+        "C",
+        "C++",
+        "charts",
+        "Circuit design",
+        "hardware",
+        "Data acquisition",
+        "data analyst",
+        "data collection",
+        "data mining",
+        "databases",
+        "dBm",
+        "DTI",
+        "design software",
+        "documentation",
+        "functional",
+        "GSM",
+        "innovation",
+        "Java",
+        "LabView",
+        "Team leader",
+        "Logic Analyzer",
+        "Mac",
+        "manufacturing processes",
+        "Matlab",
+        "Excel",
+        "Microsoft Office",
+        "Office",
+        " Microwave",
+        "Radar",
+        "NCs",
+        "Network",
+        "dB",
+        "packaging",
+        "pivot tables",
+        "Programming",
+        "project design",
+        "proposals",
+        "Publication",
+        "Python",
+        "quality",
+        "requirement",
+        "research",
+        "SAS",
+        "self-starter",
+        "Spectrum analyzer",
+        "SPSS",
+        "SQL",
+        "SSL",
+        "statistics",
+        "surveys",
+        "system design",
+        "troubleshooting",
+        "validation"
+    ],
+    "experience": [
+        {
+            "title": "RF Systems Engineer",
+            "company": "Company Name",
+            "start_date": "May 2014",
+            "end_date": "Present",
+            "description": "Multidisciplinary background: RF hardware designs, manufacturing operations and data analyst. Develop hardware's DFM procedures, checklists and requirements to subcontractors. Perform EVT, DVT, PVT verifications and utilize FA process to drive root cause from system to unit level. Team leader on multiple end-to-end technical project design, development, testing and validation. Manage Test/Production readiness reviews and drives quality requirement for post-ramp qualification. Ability to manage multiple projects simultaneously, self-starter with innovation and sharp attention to details. Activities include: new RF systems introduction on satellite communication architecture designs and proposals; define RF hardware unit DFM procedures for Antenna, receivers, filters, and amplifiers; lead suppliers by providing technical design specifications and testing requirements to meet SSL standards; utilize FA process to monitor overall project field performance; audits and DFM reviews on-site with suppliers; investigated the algorithm to optimize the overall RF system performance for design, manufacturing and testing; perform EVT, DVT and PVT validations and quality measurements for satellite assembly at system and unit levels; drive and track closure on RF components and modules NCs and issues impacting production readiness; work with cross-functional teams to execute completion of satellite system design to fulfill contract requirements; generate cascade RF performance prediction analyses (e.g., NF, Gain, IP3, 1dB-Comp, spurious); exercises independent judgment in developing methods and evaluation criteria; monitor and measure manufacturing processes to reduce losses, decrease time span and improve quality."
+        },
+        {
+            "title": "System Data Analyst",
+            "company": "Company Name",
+            "start_date": "August 2011",
+            "end_date": "December 2013",
+            "description": "Prioritized and extracted big data from Purdue University's SQL database and maintained its accuracy and completeness. Develop and implement data collection systems strategies that optimize statistical efficiency and data quality. Data manipulation using SQL commands; utilized statistical tools including Excel, SAS, and SPSS. Create complex charts and temporary databases, perform data mining, and develop pivot tables for publication. Design and customize reports based upon data structure and determine additional data collection requirements. Provide documentation based on audit and report criteria to investigators and research staff. Serve as a resource for non-routine inquiries such as requests for statistics or surveys."
+        },
+        {
+            "title": "Electrical/Validation Engineer",
+            "company": "Company Name",
+            "start_date": "May 2011",
+            "end_date": "August 2011",
+            "description": "Develop and maintain data requirement for PCBA EVT, DVT, and PVT assembly for touch-pads. Design and implement automated tests for sensitivity, packrat, hovering, profiles, ripple, GSM, EMI, and ESD. Monitor manufacturer IC packaging test yields and field return failure data to identify root cause. Develop in-depth reliability testing procedures: storage, thermal stock, drop and tap tests. Perform debug and troubleshooting of product in house and at contract manufacturer site for support. Contribute to manufacturing diagnostic reviews to improve overall debug process more efficiently and effectively. Support internal and external customer related to lab data collection and verification of an application issue."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. in Electrical and Computer Engineering",
+            "school": "Purdue University",
+            "year": 2013
+        },
+        {
+            "degree": "B.S. in Electrical and Computer Engineering",
+            "school": "Purdue University",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

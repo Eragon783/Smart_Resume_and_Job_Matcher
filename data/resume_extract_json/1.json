@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Bat Yam",
+    "summary": "Java full stack developer with 3+ years of full-stack experience and 5+ years total software development experience, specializing in backend Java (Spring) and frontend Web technologies, with hands-on expertise in RESTful services, microservices, and database integrations (MySQL, MongoDB).",
+    "skills": [
+        "Java",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "jQuery",
+        "Bootstrap",
+        "Eclipse",
+        "IntelliJ IDEA",
+        "GitHub",
+        "Git",
+        "SQL",
+        "MySQL",
+        "MongoDB",
+        "NoSQL",
+        "OOP",
+        "AOP",
+        "Spring MVC",
+        "JPA",
+        "Hibernate",
+        "JDBC",
+        "Spring Boot",
+        "Spring Security",
+        "Spring Web",
+        "REST",
+        "JSON",
+        "Maven",
+        "JUnit",
+        "Postman",
+        "Linux",
+        "Windows"
+    ],
+    "experience": [
+        {
+            "title": "Backend JAVA developer",
+            "company": "Unknown (Israel, Rehovot)",
+            "start_date": "2020",
+            "end_date": "Present",
+            "description": "Developed backend RESTful web services within a microservice architecture for a system storing educational information. Implemented authentication/authorization with Spring Security, worked with MongoDB and MySQL, wrote and ran JUnit tests, and fixed defects. Implemented JSON Web Token-based user authentication; used Swagger UI for API exploration. Technologies used: Spring Boot, Spring Security, Hibernate ORM, JSON, REST, MySQL, MongoDB, JPA, Maven, JDBC, Apache Tomcat, JUnit, HTML5, CSS3."
+        },
+        {
+            "title": "Full stack JAVA developer",
+            "company": "Bank Otkritie",
+            "start_date": "2017",
+            "end_date": "2019",
+            "description": "Prepared non-standard reports by executing queries on SQL databases. Built a simple web interface for entering a request and displaying results in a user-friendly form (HTML, CSS, Bootstrap, JavaScript). Performed hardware and software installations and provided high-level customer care, training, and technical support."
+        },
+        {
+            "title": "Software R-Style language developer",
+            "company": "Privatbank",
+            "start_date": "2005",
+            "end_date": "2017",
+            "description": "Performed hardware and software installations and provided high-level customer care, training, and technical support. Introduced changes to the terms of service for bank products into the business logic of the program code (R-Style Language)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's degree in Computer Science and Information Technology",
+            "school": "National Technical University of Ukraine",
+            "year": "2005"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hebrew",
+        "Russian",
+        "Ukrainian"
+    ]
+}

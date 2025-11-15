@@ -1,0 +1,103 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Self-motivated nurse executive with 12 years in healthcare and 9 years in nursing, leading infection control, risk management, and quality improvement initiatives; proven ability to drive accreditation, enterprise reporting, staffing optimization, and patient safety across multiple facilities; experienced speaker and EMR system implementation leader.",
+    "skills": [
+        "ASC",
+        "QA",
+        "EMR",
+        "Pharmacy",
+        "Infection Control",
+        "Risk Management",
+        "Metrics",
+        "Patient Safety",
+        "Staffing",
+        "Process Improvement",
+        "Quality Assurance",
+        "Nursing",
+        "ICU",
+        "Critical Care",
+        "Cardiac",
+        "Cardiovascular",
+        "Medical Device",
+        "Operations",
+        "Training",
+        "Auditing",
+        "Instrumentation",
+        "Integration",
+        "Scheduling",
+        "Team Leadership",
+        "CPR",
+        "Instructor",
+        "MVP",
+        "Healthcare",
+        "ACLS"
+    ],
+    "experience": [
+        {
+            "title": "RN/RN Team Lead",
+            "company": "Company Name",
+            "start_date": "September 2010",
+            "end_date": "Current",
+            "description": "Providing nursing leadership and ASC operations guidance to 7 facilities nationwide including staffing metrics and OR efficiency, accreditation preparation, state regulation compliance, infection control, risk management, patient safety, peer review, life safety, governing body and medical quality assurance reporting, quality assurance and performance improvement studies and benchmarking; led initial DOH licensure for ASCs in 3 states within 70 days with 5 successful DOH/Pharmacy surveys and 1 AAAHC reaccreditation for 4 facilities (deficiency-free); developed internal enterprise reporting for remote auditing of DON compliance; implemented enterprise QA/QI calendar across enterprise sites; improved risk management and QA reporting; enhanced patient outcome reporting by integrating Clinic and Patient Services reporting; led AAAHC accreditations across sites; developed policies and staffing metrics; created leadership ladder; facilitated enterprise studies and process improvements; presented nationally on infection control, quality improvement, patient satisfaction, and spine surgery integration in an ASC; managed QA/QI, risk management, life safety, and infection control to maintain AAAHC and DOH compliance."
+        },
+        {
+            "title": "CVICU RN w/Med-Surg ICU Float",
+            "company": "Company Name",
+            "start_date": "August 2006",
+            "end_date": "December 2008",
+            "description": "High-acuity step-down unit with 1:2 nurse-to-patient ratio; post-surgical transplant and cancer reconstruction patients; MI/post-cath management, chest pain, arrhythmia, GI bleed, stroke; medication drips and titration (BP, insulin, heparin, etc.); respiratory distress management including ventilation; central line and arterial line care; ICP monitoring; cardiovascular ICU interventions; code team participation; tracheostomy care and post-surgical cardiovascular care."
+        },
+        {
+            "title": "Aquatic & Fitness Director",
+            "company": "Company Name",
+            "start_date": "March 2003",
+            "end_date": "August 2004",
+            "description": "Managed 38 fitness and aquatic programs with 28 direct reports; helped develop a medically-based wellness proposal with a local hospital partnership; secured funding for a 1.8M expansion; head swim coach for Rapids Swim Team; First Aid/CPR & Lifeguard Instructor."
+        },
+        {
+            "title": "Exercise Physiologist",
+            "company": "Company Name",
+            "start_date": "August 2002",
+            "end_date": "March 2003",
+            "description": "Developed and progressed cardiac rehab exercise programs and education; developed personal training program; assisted in corporate wellness programming and health fairs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Nursing / MBA",
+            "school": "University of Phoenix",
+            "year": ""
+        },
+        {
+            "degree": "Master of Science in Nursing / MBA - Healthcare",
+            "school": "University of Phoenix",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Science in Nursing",
+            "school": "Valparaiso University",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Science in Exercise Science",
+            "school": "Ball State University",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "RN license - AZ",
+        "RN license - PA",
+        "RN license - FL",
+        "RN license - MO",
+        "Licensed Healthcare Risk Manager",
+        "BLS",
+        "ACLS",
+        "CEO Service Award (2009)"
+    ],
+    "languages": [
+        "English"
+    ]
+}
