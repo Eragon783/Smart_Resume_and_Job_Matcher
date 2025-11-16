@@ -1,0 +1,84 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A high performing and energetic portfolio, program, and project management professional with proven track record and consistent commendations for delivering large-size mission critical programs and projects of excellent quality in very political and lean environments. Innovative leader and very adept in agile strategic planning and analysis to optimize operations and push forward new business initiatives through a winning collaborative approach. Highlights Management information systems Project development and lifecycle Process improvement Risk management Natural leader Quality assurance and control Unsurpassed work ethic Cost reduction and containment Systems implementation",
+    "skills": [
+        "Management information systems",
+        "Project development and lifecycle",
+        "Process improvement",
+        "Risk management",
+        "Natural leader",
+        "Quality assurance and control",
+        "Unsurpassed work ethic",
+        "Cost reduction and containment",
+        "Systems implementation"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Information Technology (IT) Director",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "Current",
+            "description": "Led the organization towards eligibility in the eHealth Exchange Information Network which will allow the county providers to exchange patient information with other federal agencies non- federal organizations through a secure, trusted, and interoperable network. Completed detailed survey of the county's privacy, security, confidentiality, and information exchange policies as part of the onboarding process and execution of the Data Use and Reciprocal Agreement. Facilitated the processing of the Entrust Subscriber Agreement (public certificates and keys) documents. Outcome: Upon submission of the application, the eHealth Exchange Committee awarded the county immediately as eligible to participate in the eHealth Exchange Network due to the comprehensiveness documentation. Accelerated the organizations participation in nationwide quality efforts and maturity surveys energizing our staff, enhancing the organization's status, and improving customer services in the process. Outcome: Application and review processes were expedited. Organization was awarded Stage 6 Maturity (from Stage 2) for Electronic Medical Record (EMR) Adoption in less than 3 months."
+        },
+        {
+            "title": "IT Supervisor",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "December 2010",
+            "description": "Executed the enterprise information technology strategy and worked closely and partnered with the Health Services CIO and stakeholders (clinical, business, detention) to establish project and program governance, understand and document the business needs, advocate effective application deployment strategies, and develop high level project road maps. Outcome: Clear project prioritization throughout the enterprise which addressed limited resource issues. Sample projects: Appointment Reminder System, Document Imaging System, Timekeeping System, Wristband ID Deployment, Dictation System, Materials Management. Supervised, led, coached, and mentored approximately 12 - 25 Application Support and Project Management staff in all phases of the IT operations and project lifecycle using Lean and agile project management methodologies. Outcome: Stronger project visibility and customer relationships; maturity in terms of organizational project management and service management methodologies; expedited help desk ticket resolution minimizing project risks. Sample Project-related skills shared with staff: Project Charter, Project Timeline, Resource Allocation, Issues Documentation, Communications Technique, Lessons Learned, Release Checklist, and others."
+        },
+        {
+            "title": "Senior Management Information Systems Analyst",
+            "company": "Company Name",
+            "start_date": "July 2005",
+            "end_date": "December 2006",
+            "description": "Developed a comprehensive map and fit-gap review and analysis of the clinical workflow and electronic medical records requirements at the different ambulatory and detention facilities in Santa Clara County. Outcome: Enhanced staff awareness of existing processes and steps needed to attain towards the future state for better clinical flow, improved inmate care and effective implementation of the electronic medical record (EMR). Led a cross-functional and multi-dimensional Lean Six Sigma process improvement team composed of clinical and business staff and completed a gap analysis to streamline and expedite the Operating Room (OR) scheduling and billing processes. Outcome: Bills were resubmitted and processed within the same week which improved the revenue dramatically."
+        },
+        {
+            "title": "Program Administrator",
+            "company": "Company Name",
+            "start_date": "December 2000",
+            "end_date": "June 2005",
+            "description": "Defined, managed, and owned the three year IT project and program roadmap, project and features prioritization, and release strategy of the web enablement of a 20/7 statewide enterprise case management, reporting, and payment system (for over 6,000 health and human services providers from the public and private sectors) including the successful on-boarding of tenants and 300% expansion of user database with very minimal workflow interruption. Outcome: Public and private service providers were able to use the case management system and they were able to provide same day services to our clients in need without duplication of services. Initiated and led the inclusion of HIPAA guidelines, Privacy Rule, and IT Security policies to the department workflow and applications by actively collaborating with Washington State's lawyers and IT security staff so that that the appropriate language and/or workflow can be included and leveraged in confidentiality agreements, service level agreements (SLAs), vendor contracts, and online alerts/ notices, and training. Outcome: 100% Department Compliance with regulations; Staff were comfortable with the tool."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MS Guidance & Counseling",
+            "school": "De La Salle University",
+            "year": null
+        },
+        {
+            "degree": "BS Psychology",
+            "school": "Assumption College",
+            "year": null
+        },
+        {
+            "degree": "Agile Management",
+            "school": "UC Berkeley Extension",
+            "year": null
+        },
+        {
+            "degree": "Advanced Project Management Program",
+            "school": "Stanford University (SCPM)",
+            "year": null
+        },
+        {
+            "degree": "Project Management",
+            "school": "San Jose State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Certified Lean Six Sigma Black Belt in Lean Six Sigma Quality and Operational Excellence – Harrington Institute",
+        "Certified ScrumMaster (CSM)",
+        "Certified Scrum Product Owner (CSPO) – Scrum Alliance",
+        "Foundation Certificate in IT Service Management v2 – ITIL, EXIN",
+        "Project Management Professional (PMP) – PMI",
+        "Certified Professional in Health Information Management Systems (CPHIMS) – HIMSS"
+    ],
+    "languages": []
+}

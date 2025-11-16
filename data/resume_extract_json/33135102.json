@@ -1,0 +1,56 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dedicated results-oriented business professional experienced in customer service and financial aid administration. Superior communication and training skills, builds positive relations with internal and external clients. Versatile problem solver who implements plans that exceed objectives. Technically proficient in Sunguard's Banner and Ellucian's Datatel Colleague student information systems as well as Microsoft business applications: Additional capabilities in: Customer Service Budget Management Business Analysis Problem Resolution Productivity Improvements Process Enhancements Training Documentation Planning/Organization",
+    "skills": [
+        "budget",
+        "client",
+        "data collection",
+        "documentation",
+        "financial",
+        "financial management",
+        "grants",
+        "negotiations",
+        "policies",
+        "problem resolution",
+        "processes",
+        "report writing",
+        "research",
+        "retail",
+        "workflow analysis"
+    ],
+    "experience": [
+        {
+            "title": "Financial Aid Specialist",
+            "company": "Company Name",
+            "start_date": "January 2012",
+            "end_date": "Current",
+            "description": "Counsels and advises students concerning financial aid opportunities, application processes and financial management strategies. Educates students in the identification of all sources of financial aid available, including the requirements and regulations within programs. Successfully manages $30,000 annual childcare assistance budget. Interprets, implements and ensures the College is in compliance with state and federal agencies by maintaining a thorough knowledge of federal and state financial aid, scholarship rules and regulations. Determines eligibility and awards financial aid applicants utilizing various software packages. This includes processing applications and corrections, document tracking, completing the verification process, generating tracking and award notifications. Develops and maintains effective working relationships with client/customer in order to initiate, facilitate, and complete work in assigned student service program area. Prepares, updates and coordinates policies and procedures for administering the Federal Pell Grant, North Carolina Community College Grants, Education Lottery Scholarship, and childcare assistance fund programs. Performs research, data collection, and analysis of information, and report writing. Utilizes, reconciles, and manipulates data from different internal and external software."
+        },
+        {
+            "title": "Student Services Specialist/Financial Aid Counselor",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "January 2012",
+            "description": "Counsels prospective and enrolled students, parents and community members on all aspects of financial aid. Reconciles differences that arise between what was awarded and what the student is eligible to receive for state and federal student aid. Communicates and works with employees to gain understanding of a commitment to set work standards, processes, and procedures. Develops and maintains effective working relationships with client/customer in order to initiate, facilitate, and complete work in assigned student service program area. Performs research, data collection, and analysis of information, and report writing. Utilizes, reconciles, and manipulates data from different internal and external software systems."
+        },
+        {
+            "title": "Special Assets Adjuster 1",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "January 2010",
+            "description": "Minimizes delinquency rates on retail loans through successful negotiations and problem resolution with clients. Improves processes in management of delinquent loans-through thorough analysis-preventing foreclosures, charge-offs, and repossessions. Updates management and branch lenders with regular reports on project progress and outcomes. Ensures accurate, up-to-date processing and documentation after review of loan services files."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Administration - Finance; Management Information Systems",
+            "school": "University of North Carolina at Pembroke",
+            "year": "2008"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,90 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Oklahoma, United States",
+    "summary": "Human services degree with ARCOM award; budget and administration experience in the Oklahoma National Guard training department; proficient in Microsoft Office; experienced in budgeting, research, policy analysis; capable of mentoring others; improved financial records to meet National Guard Bureau standards; strong leadership and teamwork.",
+    "skills": [
+        "accounting",
+        "administrative",
+        "analyst",
+        "army",
+        "budgets",
+        "budget",
+        "conferences",
+        "cost analysis",
+        "credit",
+        "dts",
+        "staff training",
+        "english",
+        "financial",
+        "financial management",
+        "forecasting",
+        "forms",
+        "funds",
+        "letters",
+        "managing",
+        "meetings",
+        "microsoft excel",
+        "microsoft office",
+        "excel",
+        "powerpoint",
+        "word",
+        "oil",
+        "organizing",
+        "payroll",
+        "personnel",
+        "police",
+        "policies",
+        "processes",
+        "proposals",
+        "maintain records",
+        "safety",
+        "sap",
+        "scheduling",
+        "statistics",
+        "supervisor",
+        "surveys",
+        "technician",
+        "answering phones",
+        "phone",
+        "training programs",
+        "typing"
+    ],
+    "experience": [
+        {
+            "title": "Management and Program Analysis",
+            "company": "State Aviation Office (SAO)",
+            "start_date": "2011-08",
+            "end_date": "2015-12",
+            "description": "Maintain detailed records of budgetary transactions for the annual SAO budget; manage accounting operations, close, reporting and reconciliations; prepare financial and regulatory reports; complete bank reconciliations for multiple entities; prepare expense forecasts; restructure and analyze software to improve budget reporting; revise and streamline inefficient procedures with automation software; analyze costs and revenues to project future trends."
+        },
+        {
+            "title": "Budget Technician",
+            "company": "Oklahoma National Guard Aviation Flying Hour Program",
+            "start_date": "2011-01",
+            "end_date": "2011-08",
+            "description": "Analyze funding for aviation programs and training periods; conduct surveys and studies of current and past operations; review obligations and expenditures; prepare aviation summaries; summarize data for aviation plans, standards, and actions; identify deficiencies in resource consumption, training, workload, and scheduling; advise management on manpower authorizations; develop annual budget for aviation program; review funding trends and provide funding recommendations; develop annual training budget data and cost analyses; proficient with AFCOS, SAP, STANFINS, Defense Travel System, Excel, and Word."
+        },
+        {
+            "title": "Budget Assistant",
+            "company": "Oklahoma National Guard",
+            "start_date": "2007-10",
+            "end_date": "2011-01",
+            "description": "Developed procedures and administrative processes for mobilization and training budgets totaling over $100 million; reviewed fund requests, monitored budget balances and obligations; conducted monthly reviews of unliqudated obligations; consolidated statistics for fiscal years; verified payroll totals and reconciled differences; developed budget estimates including Mid-Year reviews; monitored fund requests to ensure funding limits; systems knowledge in SIDPERS, AFCOS, GFEBS, FTSMCS, DTS; proficient with Microsoft Office."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Human Services",
+            "school": "University of Phoenix",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "ARCOM award"
+    ],
+    "languages": [
+        "English"
+    ]
+}

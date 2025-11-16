@@ -1,0 +1,101 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Skilled relationship-builder who is able to establish easy rapport with customers, building trust and respect. Highly service-oriented individual who is responsive to need and thorough in follow-through. Organized, effective multitasker with excellent coordination skills and a keen attention to detail.",
+    "skills": [
+        "analyst",
+        "Banking",
+        "Benefits",
+        "Cashier",
+        "CD",
+        "coach",
+        "coaching",
+        "com",
+        "credit",
+        "clients",
+        "Customer Service",
+        "debit",
+        "email",
+        "Issue receipts",
+        "legal",
+        "meetings",
+        "access",
+        "money",
+        "mortgage loans",
+        "navigation",
+        "policies",
+        "processes",
+        "progress",
+        "quality",
+        "reading",
+        "surveys",
+        "tax",
+        "Telephone",
+        "phone skills",
+        "phone",
+        "trouble shooting",
+        "website"
+    ],
+    "experience": [
+        {
+            "title": "Member Services Representative",
+            "company": "Company Name City, State",
+            "start_date": "03/2015",
+            "end_date": "Current",
+            "description": "Promoted from Cashier to Lead Cashier to help train staff and facilitate morning huddles. Among the top 10% advisers in Telephone Banking in 2011 and 2012. Peer coach for new and existing employees; led and facilitated team meetings in the absence of a manager; promoted self-service and provided guidance on OPERS benefits and services; focusing on timely and quality service."
+        },
+        {
+            "title": "Risk Operations Analyst II",
+            "company": "Company Name City, State",
+            "start_date": "08/2014",
+            "end_date": "02/2015",
+            "description": "Pinpointed fraud trends specific to online money movement; researched monetary transactions on Chase.com to ensure validity and security of customer accounts; collaborated across lines of business to improve service and reduce delays in online money movement."
+        },
+        {
+            "title": "Risk Operations Analyst",
+            "company": "Company Name City, State",
+            "start_date": "07/2013",
+            "end_date": "08/2014",
+            "description": "Handled high-volume inbound calls from internal Chase colleagues and account holders needing assistance with deposits, fraud, AML, KYC, and related processes; detected fraud to prevent losses; provided peer coaching and SME support to analysts and new hires."
+        },
+        {
+            "title": "Senior Service Specialist",
+            "company": "Company Name City, State",
+            "start_date": "12/2012",
+            "end_date": "06/2013",
+            "description": "De-escalated customer issues; investigated and solved complex problems; collaborated with site leaders to investigate complaints and implement improvements; maintained records of correspondence and discussions; identified issues affecting policies and processes."
+        },
+        {
+            "title": "Customer Service Specialist",
+            "company": "Company Name City, State",
+            "start_date": "01/2010",
+            "end_date": "11/2012",
+            "description": "Maintained up-to-date knowledge of products, services, and policies; participated in special projects; managed inbound calls (80-150 daily); assisted customers with products and services; processed orders, online troubleshooting, and claims; achieved monthly goals and participated in team meetings; provided peer coaching."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name City, State",
+            "start_date": "06/2008",
+            "end_date": "08/2008",
+            "description": "Developed packets about social service agencies and programs; wrote reports describing offenders' progress."
+        },
+        {
+            "title": "Customer Service Specialist",
+            "company": "Company Name City, State",
+            "start_date": "10/2004",
+            "end_date": "02/2010",
+            "description": "Monitored checkout stations and ensured adequate cash; processed payments; assisted customers with information and resolutions; handled receipts, refunds, and exchanges; sold tickets; performed merchandise returns; managed cash handling and customer inquiries; provided online assistance and navigation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts in Criminal Justice Sociology",
+            "school": "Wright State University",
+            "year": "2008"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

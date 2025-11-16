@@ -1,0 +1,80 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Topeka, Kansas",
+    "summary": "HR Director with over 20 years of experience in recruiting, 15+ years in HR executive management, and 5 years in HRIS development and maintenance, with healthcare experience and a track record of policy development and process improvements.",
+    "skills": [
+        "Recruiting",
+        "FMLA/EEO/FLSA",
+        "HRIS Development",
+        "Benefit Administration",
+        "Policy Development",
+        "Web Page Development",
+        "Desktop Publishing",
+        "Newsletter productions",
+        "Database Management",
+        "Leadership Training",
+        "OSHA",
+        "Workers Compensation",
+        "PageMaker",
+        "Agency Automation",
+        "Backup",
+        "Benefits",
+        "Budget management",
+        "Corel Suite",
+        "Harvard Graphics",
+        "Access",
+        "Excel",
+        "Microsoft Publisher",
+        "MS Word",
+        "Quark Express",
+        "Quattro Pro",
+        "Strategic Planning",
+        "WordPerfect"
+    ],
+    "experience": [
+        {
+            "title": "HR Director",
+            "company": "Company Name",
+            "start_date": "09/2016",
+            "end_date": "Current",
+            "description": "Developed New Website for Agency, payroll processing changes, and implementation of new HRIS System. Oversaw the employment process taking the lead role in clinician, physician and management team recruitment initiatives. Developed, maintained and interpreted HR policy. Authored the Employee Handbook. Provided coaching and support to management and supervisors on performance management and other related issues. Maintained in-depth knowledge of legal requirements related to day-to-day management of employees, reducing legal risks and ensuring regulatory compliance. Evaluated and recommended changes to the employee benefits plan. Oversaw day-to-day administration of benefits."
+        },
+        {
+            "title": "HR Director",
+            "company": "Company Name",
+            "start_date": "04/2009",
+            "end_date": "09/2016",
+            "description": "Developed Supervisory Education, SHRO Website, SHRO HRIS System and Automation of payroll processing. Established and directed a comprehensive statewide human resource program for both classified and unclassified State employees/positions in the Adjutant General's Department. Resolved non-routine HR related issues; reviewed documents and approved hires and promotions; reviewed and approved, modified and/or disapproved wage/salary requests; reviewed significant changes to position descriptions and determined if reclassification should be pursued. Consulted with the TAG and both military and state managers/supervisors to provide guidance on addressing sensitive or complex employee and organizational issues; aided them in achieving program goals and provided innovative ideas for staffing. Served as the administration's management representative in labor negotiations with the local KAPE unit at the 190th Fire Department."
+        },
+        {
+            "title": "HR Manager/Sr. Recruiter",
+            "company": "Company Name",
+            "start_date": "10/2003",
+            "end_date": "06/2006",
+            "description": "Created an HRIS tracking system used for recruitment. Responsible for ramp up and hiring of all customer service agents, and other positions as needed. Placement and development of all advertising. Met and exceeded all hiring goals. Responsible for recruitment of 950 new employees. Coordinated and facilitated manpower planning, recruitment and retention, career development and training, staff relations, compensation and benefits, compliance with local, state and federal regulations, public programs, and regulatory audit procedures. Served as a resource to administration, mid-level management and staff regarding HR."
+        },
+        {
+            "title": "Human Resources Coordinator",
+            "company": "Company Name",
+            "start_date": "03/1996",
+            "end_date": "02/2000",
+            "description": "Developed HRIS database from ground up for employee records and monitoring. Instrumental in reducing the use of agency staffing for hospital. Coordinated manpower planning, recruitment and retention, career development and training, staff relations, compensation and benefits, compliance with local, state and federal regulations, public programs, and regulatory audit procedures. Coordinated hiring procedures, appraisals, pay increases, promotions, transfers, terminations, job postings, and corrective actions; One Person Office, responsible for OSHA, Work Comp, Benefits, payroll, etc."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's Degree",
+            "school": "Friends University",
+            "year": 2005
+        },
+        {
+            "degree": "Bachelor of Science",
+            "school": "Friends University",
+            "year": 2000
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

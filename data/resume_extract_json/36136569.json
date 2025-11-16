@@ -1,0 +1,94 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Results-oriented Project Administrator with 14+ years' experience in the toy manufacturing industry. Proven ability to manage diverse needs in deadline-driven environments, lead cross-functional teams, and deliver projects on time and on budget.",
+    "skills": [
+        "Project management",
+        "Agile",
+        "Budgets",
+        "Budgeting",
+        "Costing",
+        "Vendor management",
+        "Purchasing",
+        "Purchase requisitions",
+        "Scheduling",
+        "Travel arrangements",
+        "Multitasking",
+        "Administrative support",
+        "Office management",
+        "Event coordination",
+        "Microsoft Office",
+        "Communication",
+        "Team collaboration",
+        "Product development",
+        "Data management",
+        "Meeting coordination",
+        "Expense reporting",
+        "Inventory"
+    ],
+    "experience": [
+        {
+            "title": "Sr. Project Management Associate",
+            "company": "Barbie Product Development",
+            "start_date": "November 2010",
+            "end_date": "Present",
+            "description": "Manage projects from original concept through final implementation for moderately complex toys and high volume SKUs; meet milestones and deadlines; ensure projects stay on budget; projects generate over $2M in annual sales; facilitate weekly cross-functional team meetings; travel to China and Indonesia plants; utilize Agile platform to track milestones in product lifecycle."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Girls Inc. Design",
+            "start_date": "April 2008",
+            "end_date": "November 2010",
+            "description": "Design VP, Director and three Design Managers calendar management; coordinate meetings and special projects; manage travel arrangements; create purchase requisitions and process AP; coordinate events; monthly budget tracking; general office support."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Nissan/Infiniti account team",
+            "start_date": "May 2007",
+            "end_date": "August 2007",
+            "description": "Executive support for 4 Client Communications Directors; coordinate appointments and events; office-wide point of contact for calls; manage travel; maintain files and databases; process travel expenses."
+        },
+        {
+            "title": "Intern, Office Manager Assistant",
+            "company": "Barbie Product Development",
+            "start_date": "September 2006",
+            "end_date": "January 2007",
+            "description": "Maintain high-end fashion showroom; assist fashion stylist and celebrity clientele; prepare press kits; manage client database; inventory control; support special projects."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Barbie Product Development",
+            "start_date": "March 2006",
+            "end_date": "September 2006",
+            "description": "Customer service; set up visual merchandising; meet sales targets; product knowledge; teamwork."
+        },
+        {
+            "title": "Project Administrator",
+            "company": "Barbie Product Development/Samples Administrator",
+            "start_date": "October 1999",
+            "end_date": "February 2006",
+            "description": "Manage Mainline Barbie product development; liaison with Orient Plant and Vendor Operations; sourcing, purchasing, and tooling; maintain cost targets; support marketing with advertising and events; coordinate toy fairs; manage samples and shipping to subsidiaries; received awards for Best New Product launch (2004) and Excellent Customer Service."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science Degree: Business Management",
+            "school": "University of Phoenix",
+            "year": "2010"
+        },
+        {
+            "degree": "Merchandising and Design",
+            "school": "American Intercontinental University",
+            "year": "2007"
+        },
+        {
+            "degree": "Business Administration Marketing",
+            "school": "California State University",
+            "year": "1998"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Engineering Technician with an impressive blend of technical expertise and people skills. Committed to providing quality and consistent technical support.",
+    "skills": [
+        "GIS",
+        "Lighting design",
+        "AutoCAD",
+        "Microsoft Excel",
+        "Microsoft Project",
+        "Microsoft Visio",
+        "PowerPoint",
+        "Access",
+        "Visual Professional",
+        "Microsoft Office"
+    ],
+    "experience": [
+        {
+            "title": "Lighting Field Engineering Technician",
+            "company": "Company Name",
+            "start_date": "2014-10",
+            "end_date": "2016-01",
+            "description": "Supports Tampa Electric Company's lighting system construction and maintenance projects. Designs the most electrically efficient and cost effective outdoor lighting systems for new and existing residential and commercial customers. Designs the expansion, relocation or maintenance of existing distribution facilities required to serve the outdoor lighting system. Serves as the main point of contact to customers, governmental agencies, TEC departments and contractors. Processes work requests in TEC's work management system WMS, determines customer requirements, completes designs and distribution map maintenance in TEC's geographical interface system GIS, calculates estimates, obtains necessary work permits and coordinates activities with TEC departments and contractors to ensure in the successful scheduling and completion of projects."
+        },
+        {
+            "title": "Administrative Technical Aide",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2014-10",
+            "description": "Assembles all new engineering work packages, consisting of applicable work requests, engineering drawings and maps, and distributes to the appropriate departments. Processes permit documents as needed and includes in the appropriate packages. Maintains the central filing system of active and closed work requests. Serves as the Records Coordinator for the assigned Service Area, following the schedule for records retention and purging. In WorkPro, routinely enters layout information as indicated for TEC's service entrance for underground residential distribution URD services and meters. Using TEC's geographical information system GIS, draws proposed URD services and meters, ensuring correct electrical connectivity and owned correctly to their supporting structures. Process and administer Work Request from various sources. Assess requirements and assign Work Request to DDT/FE's, U.G. Coordinators and Service Crews. Schedule Service Crew work in WorkPro and produce Daily Service Route Sheet."
+        },
+        {
+            "title": "Customer Service Professional",
+            "company": "Company Name",
+            "start_date": "2012-08",
+            "end_date": "2013-06",
+            "description": "Serve as initial point of contact for both external and internal customers. Educate customers regarding all aspects of company services. Responds to all customers' general billing questions, high bills, emergency situations, credit questions, including accounts receivables and collectables and all other inquiries in a professional manner. Generates service orders for turn-ons, turn-offs, transfers, restores, and meter sets. Responds to gas emergencies and serves as a liaison between the company, the customer and emergency agencies. Uses CIS, E-bill, Fetch, and Pragma CAD applications on a daily basis."
+        },
+        {
+            "title": "Business Cooperative Education Student- Customer Care",
+            "company": "Company Name",
+            "start_date": "2011-06",
+            "end_date": "2012-08",
+            "description": "Provide assistance to and back up department Senior Admin Specialist for various duties including payroll, budgeting, forecasts, ordering of supplies and material, organizational structure updating and helping employees with cost center financials. Provide answers and updates to inquiries sent to the A-team or CI-SF Mailboxes. Answer general questions from management team pertaining to off phone trends and activities. Responsible for maintaining agent statistics for Ybor Call Center performance coaches, for 100+ representatives and data entry into the Workforce Management application to provide trending information for the leadership team. Responsible for ad hoc requests, such as compiling reports for the scheduling and forecasting team."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Information Technology",
+            "school": "University of South Florida",
+            "year": 2017
+        },
+        {
+            "degree": "Associate Degree",
+            "school": "Hillsborough Community College",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        "Microsoft Office Certified Associate (Excel, PowerPoint, Word and Access) – May 2011",
+        "Microsoft Office Certification – Excel, PowerPoint, Word and Access – May 2012"
+    ],
+    "languages": []
+}

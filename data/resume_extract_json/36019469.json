@@ -1,0 +1,112 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dynamic professional driven to foster learning and leadership across communities. Experienced in student databases, Microsoft Office Suite, training, public speaking, and teaching diverse populations. Passionate educator with professionalism and integrity, known for creative problem solving and improving student outcomes and leadership opportunities.",
+    "skills": [
+        "Academic",
+        "Administrative",
+        "Branding",
+        "Budget Management",
+        "Coaching",
+        "Communication Skills",
+        "Customer Service Skills",
+        "Data Analysis",
+        "Database",
+        "Fundraising",
+        "Hiring",
+        "Instructor",
+        "Team Building",
+        "Leadership Skills",
+        "Logistics",
+        "Directing",
+        "Marketing",
+        "Management",
+        "Mentoring",
+        "Microsoft Office Suite",
+        "Newsletter",
+        "Programming",
+        "Recruitment",
+        "Relationship Building",
+        "Scheduling",
+        "Spanish",
+        "Strategic Planning",
+        "Teaching",
+        "Training",
+        "Vision Planning",
+        "Website"
+    ],
+    "experience": [
+        {
+            "title": "Community Outreach Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "2014-07",
+            "end_date": "Present",
+            "description": "Liaison for Junior Board; directed content for social media, newsletters, and website; created organization brochures; secured larger-scale marketing with partnerships; recruited over 90 mentors and 75 volunteers; increased mentor retention by 50% in 9 months; collaborated on Discover Your Future program; supported strategic planning with the Executive Director and Board."
+        },
+        {
+            "title": "Exceed Program Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2013-09",
+            "end_date": "2014-02",
+            "description": "Planned a 4-day intensive retreat; facilitated mentor-mentee relationships; built partnerships with high school administrators and counselors; trained staff and volunteers to meet goals; implemented program recruiting and onboarding; served as mentor coach; planned curriculum and logistics for monthly workshops; maintained program records and evaluated effectiveness."
+        },
+        {
+            "title": "Spanish Teacher/Language Arts Teacher 7-8 Grades",
+            "company": "Company Name, City, State",
+            "start_date": "2008-07",
+            "end_date": "2013-06",
+            "description": "Developed innovative course plans using Core Curriculum Standards; taught learner-centered lessons; coordinated with academic departments; served on District Curriculum Planning Committee; managed department budget; performed administrative duties (grade entry, data analysis); implemented behavior and grade management plans; organized Zumba days."
+        },
+        {
+            "title": "Spanish Teacher/Reading Teacher Grades 6-8",
+            "company": "Company Name, City, State",
+            "start_date": "2003-07",
+            "end_date": "2008-05",
+            "description": "Implemented rigorous teaching methods; by one year, 90% of students tested in top 10% of district on High School Placement Test; led Girl Power Club; volunteered as Mini Town Counselor to promote inclusion and diversity."
+        },
+        {
+            "title": "Assistant Manager/Local Store Marketing",
+            "company": "Company Name, City, State",
+            "start_date": "1995-09",
+            "end_date": "2003-08",
+            "description": "Managed store hiring, interviewing, scheduling and training; led in-store nonprofit fundraising; conducted grassroots outreach with schools and local businesses; organized community events; oversaw guest relations and satisfaction; budget management; ensured OSHA and food handling standards."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Elementary Education",
+            "school": "Arizona State University",
+            "year": ""
+        },
+        {
+            "degree": "Elementary Education Certificate",
+            "school": "Arizona State University",
+            "year": ""
+        },
+        {
+            "degree": "Secondary Spanish Education Certificate",
+            "school": "Arizona State University",
+            "year": ""
+        },
+        {
+            "degree": "Structured English Immersion Certificate",
+            "school": "Arizona State University",
+            "year": ""
+        },
+        {
+            "degree": "Middle School Language Arts Certificate",
+            "school": "Arizona State University",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "DPS Fingerprint Clearance Current Status",
+        "Licensed Zumba and Zumba Kids Instructor"
+    ],
+    "languages": [
+        "Spanish (Native)",
+        "Italian (Conversational)"
+    ]
+}

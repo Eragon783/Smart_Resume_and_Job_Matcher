@@ -1,0 +1,80 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Bachelors of Health Science with 7+ years experience in social services and medical health settings, working with diverse populations in the military, and public health care fields. Creative and resourceful social service professional talented at quickly mastering new skills and processing new information.",
+    "skills": [
+        "Epidemiology",
+        "Disease surveillance",
+        "Outbreak investigations",
+        "Data management",
+        "Emergency management",
+        "Incident Command Systems (ICS)",
+        "Cooperative and professional attitude for relationship building",
+        "Prioritizing and organizing multiple tasks",
+        "HIV and STD experience",
+        "Electronic Medical Record (EMR)",
+        "Management Information System (MIS)",
+        "Sendss Case Management",
+        "VHN",
+        "Disease Intervention Specialist (DIS)",
+        "Interpreting HIV rapid test results",
+        "Client case management",
+        "Public health clinic and field experience",
+        "Communication skills",
+        "Teamwork",
+        "Problem solving",
+        "Adaptability",
+        "Confidential information handling"
+    ],
+    "experience": [
+        {
+            "title": "Communicable Disease Specialist",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "December 2015",
+            "description": "Assists in the implementation of timely disease intervention strategies to decrease the prevalence of communicable diseases. Performs investigations, data collection, analysis, and interpretation. Performs reporting and surveillance activities. Prepares documentation of all communicable disease case investigations occurring within the district. Provides case management to clients with various communicable diseases such as sexually transmitted diseases and HIV/AIDS. Provides direct diagnostic and therapeutic services for public health clients both in the clinic and field setting. Provides educational programs, outreach events sessions to enhance public understanding of sexually transmitted diseases and HIV/AIDS."
+        },
+        {
+            "title": "Placement Specialist",
+            "company": "Company Name",
+            "start_date": "February 2013",
+            "end_date": "December 2013",
+            "description": "Assessed the level of risk to children by conducting face-to-face interviews with the alleged child victims and their caretakers. Collaborated with law enforcement when children were physically removed from caretakers. Testified in court as to the level of risk to children placed in the agency's legal custody. Ensured that the children were placed in permanent stable families within as short a time frame as possible. Supervised visits between children and parents and testified regarding the status of the agency and/or parent's progress towards the court approved placement. Provided support to the families by providing early intervention and referrals to community services as well as providing resources for family counseling, mental health, food banks, and substance abuse programs in order for families to become self sufficient."
+        },
+        {
+            "title": "Sexual Assault Response Coordinator",
+            "company": "Company Name",
+            "start_date": "August 2010",
+            "end_date": "May 2011",
+            "description": "Ensured that victims of sexual assault received appropriate and responsive care. Tracked the services provided from the initial report through the final disposition. Advocated to ensure the views of the victim were considered in the decision-making process. Provided commanders with broader understanding of sexual assault through annual sexual assault prevention and response training. Conducted sexual assault case management to ensure all services offered or received were documented. Chaired the monthly case management meeting to improve reporting effectiveness. Provided tracking and reporting sexual assault numbers and dispositions of all military sexual assault cases monthly, quarterly, and annually."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "November 2009",
+            "end_date": "August 2010",
+            "description": "Performs administrative support including word processing, mail preparation, copying, distribution, telephone calls, and travel orders for child youth personnel. Prepared a variety of correspondence, memorandums, and other reports in a timely manner required for day-to-day operation. Assisted in the maintenance of leave records, and time and attendance records on a weekly basis. Electronically sent and retrieved messages and ensured risk management procedures (i.e., abuse prevention, identification, and reporting procedures; accident prevention) were followed. Demonstrated the ability to communicate effectively, orally and in writing."
+        },
+        {
+            "title": "Healthcare Finder",
+            "company": "Company Name",
+            "start_date": "October 2007",
+            "end_date": "August 2008",
+            "description": "Triaged all incoming specialty health care referrals/authorizations in order of priority for processing. Electronically entered TRICARE beneficiaries' medical information into a government database. Coordinated authorizations with physicians/or case managers according to established Humana contract and guidelines to include timely data entry. Monitored outstanding pended authorization referrals for timely completion. Communicated with all disciplines of the medical and military community. Identified and directed military family members to the most appropriate, cost effective medical care. Connected with customers to deliver an optimal customer experience."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Health Science",
+            "school": "Columbus State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Six Sigma Lean Professional (SSLP) — 2014",
+        "HIPAA Certified Professional (HCP) — 2013"
+    ],
+    "languages": []
+}

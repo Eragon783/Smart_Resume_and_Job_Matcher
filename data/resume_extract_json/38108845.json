@@ -1,0 +1,89 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "High-energy manager skilled at building and motivating dynamic teams; cultivates a culture that encourages staff to share questions and ideas; driven to cut costs and boost revenue through innovative management; organized and diligent with strong written, oral, and interpersonal communication skills.",
+    "skills": [
+        "Outstanding Leadership",
+        "Problem Solving",
+        "Motivation",
+        "Dependable",
+        "Interpersonal Skills",
+        "Communication"
+    ],
+    "experience": [
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "2017-05",
+            "end_date": "Present",
+            "description": "Developed a comprehensive facility operations manual and monthly/yearly management reports; reported issues to clients; managed payroll; maintained monthly inventory; wrote articles or press releases; recruited staff for Spa, Food & Beverage, Fitness, Sales, Maintenance, Aquatics, and Operations; conducted regular staff meetings and training; directed all facility operations to achieve sales and profitability; developed annual strategic plan; implemented membership programs."
+        },
+        {
+            "title": "Regional General Manager and National Sales Manager",
+            "company": "Company Name",
+            "start_date": "2017-01",
+            "end_date": "2017-04",
+            "description": "Direct and coordinate daily operations over two clubs; drive sales, service, and financial performance; train and develop a sales team to achieve budgeted membership goals; manage budgets, variance statements, and audits; lead initiatives to improve member satisfaction and operational excellence."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "2016-12",
+            "description": "Managed 70 health club employees, including a sales team and an operations team; hired, trained, and coached staff; led sales calls and strategic initiatives; built relationships with members; reduced payroll and supply costs; created a culture of accountability and trust; oversaw maintenance and supplier orders."
+        },
+        {
+            "title": "Fitness Service Director",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2014-05",
+            "description": "Presented personal training packages to new members; paired clients with trainers; consistently exceeded monthly goals."
+        },
+        {
+            "title": "Insurance Agent",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2013-12",
+            "description": "Provided service to clients' insurance needs by selling health, dental, accident, travel, and indemnity plans; engaged 75 clients weekly; developed long-term client sources via referrals and groups; consistently exceeded sales goals."
+        },
+        {
+            "title": "Sales Director",
+            "company": "Company Name",
+            "start_date": "2009-09",
+            "end_date": "2012-10",
+            "description": "Set and met quotas; maintained sales records; trained and managed membership staff; led weekly meetings; built strong relationships with members; contributed to innovative strategies to acquire new members; awarded Top Sales Director in 2009, 2010, and 2011."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2006-04",
+            "end_date": "2009-08",
+            "description": "Reached monthly sales goals; toured and priced potential new members; performed weekly follow-up calls and emails; managed hundreds of leads; earned recognition as a top performer."
+        },
+        {
+            "title": "Customer Service Manager",
+            "company": "Company Name",
+            "start_date": "2005-03",
+            "end_date": "2006-03",
+            "description": "Managed Customer Service and Operations staff; hiring, training, and disciplinary actions; ensured member support and satisfaction; organized member activities and handled complaints."
+        },
+        {
+            "title": "General Manager",
+            "company": "Power Shack Fitness",
+            "start_date": "1998-07",
+            "end_date": "2004-12",
+            "description": "Maintained the Power Shack Fitness facilities; managed departmental managers; created annual budgets and contributed to the company’s financial success; oversaw operations during the company’s peak years (2002-2004)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "The Ohio State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

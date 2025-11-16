@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Independent and results driven Design Professional with an extensive background in the design process. Proficient in taking initiative, along with a desire to achieve client satisfaction, for a record of accomplished results.",
+    "skills": [
+        "Space Planning",
+        "Workplace Strategy",
+        "Project Coordination",
+        "FF&E Expertise",
+        "Problem Resolution",
+        "ADA & Building Codes",
+        "Written & Verbal Communication",
+        "Product Specification",
+        "AutoCAD",
+        "MS Office Suite",
+        "Salesforce",
+        "Budgets",
+        "Change management",
+        "Creativity",
+        "Customer satisfaction",
+        "Direction",
+        "Documentation",
+        "Innovation",
+        "Interior design",
+        "Team lead",
+        "Leadership",
+        "Materials",
+        "Meetings",
+        "Office",
+        "Organizational",
+        "Personnel",
+        "Presentations",
+        "Processes",
+        "Procurement",
+        "Programming",
+        "Real Estate",
+        "Retail",
+        "Sales",
+        "Strategy"
+    ],
+    "experience": [
+        {
+            "title": "Independent Designer",
+            "company": "Company Name – City, State",
+            "start_date": "04/2020",
+            "end_date": "Current",
+            "description": "Create Site and Fixture Plans utilizing AutoCAD for Walgreens, Chipotle, and Aspen Dental for use by Real Estate Developers and Property Investors. Perform on-site surveys to produce AutoCAD floor plan drawings of existing spaces for electronic documentation, in addition to providing space improvement solutions and options."
+        },
+        {
+            "title": "Specifications Manager",
+            "company": "Company Name – City, State",
+            "start_date": "01/2015",
+            "end_date": "03/2020",
+            "description": "Traveled extensively throughout my territory creating and conducting product presentations/meetings for Architects, Designers, Builders, Furniture Manufacturers, Facility Managers, Retail and Commercial End Users. Initiated new business and grew existing accounts by 40 percent while maintaining/nurturing relationships. Identified and targeted high value projects in planning stages to drive specifications, resulting in exceeded sales goals."
+        },
+        {
+            "title": "Workplace Consultant",
+            "company": "Company Name – City, State",
+            "start_date": "01/2003",
+            "end_date": "01/2015",
+            "description": "Worked as team lead in creating well-connected workplaces utilizing design processes from programming and design analysis to space planning and aesthetics, while adhering to applicable building and ADA codes. Reduced Office Real Estate by introducing new ways of working by making use of change management skills. Introduced to stake-holders organizational agility and flexibility resulting in improved communication, collaboration, creativity, innovation and employee satisfaction. Developed Corporate wide standards for efficiency of space management and procurement. Supervised furniture installation, materials and equipment for large commercial projects with budgets in excess of $1,000,000. Coordinated projects ranging from 1000 sf up to 1,000,000 sf throughout Corporate Real Estate portfolio. Provided leadership in planning, development and execution of large personnel relocations and reconfigurations, resulting in successful and timely completion, minimum disruption and successful customer satisfaction based on post-occupancy evaluations."
+        },
+        {
+            "title": "Senior Interior Designer",
+            "company": "Company Name – City, State",
+            "start_date": "01/1994",
+            "end_date": "01/2003",
+            "description": "Utilized interior design process across conceptual, schematic, design development and construction document phases. Created professional presentations to communicate design intent and direction."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Interior Design",
+            "school": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "NATIONAL COUNCIL FOR INTERIOR DESIGN QUALIFICATION Certificate #009891",
+        "STATE OF ILLINOIS LICENSE, Registered Interior Designer #161.000401"
+    ],
+    "languages": []
+}

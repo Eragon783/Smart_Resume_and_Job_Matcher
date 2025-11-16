@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Competent and reliable professional, committed to excellence with proven team leading and team building skills, who sees challenges as an opportunity to grow and develop. Ability to lead a team of people from diverse backgrounds, by communicating clear goals and objectives, and understanding and resolving the needs of the team to ensure that targets are met. Responsible, analytical, results oriented, effective, efficient and flexible work attitude which aims to achieve and surpass set goals. Highly confidential, honest, pro-active individual who operates with integrity in all aspects of life, possessing expertise in Accounting, Supervisory Management and Training skills.",
+    "skills": [
+        "ACCPAC accounting skills",
+        "Analytical reasoning",
+        "Budget analysis",
+        "Account reconciliations",
+        "Bank reconciliations",
+        "Analysis",
+        "Bonds",
+        "Cash Flow",
+        "General Ledger",
+        "Inventory",
+        "Investments",
+        "Interest Payable & Savings",
+        "Payroll",
+        "Schedules",
+        "Sales",
+        "Customer Service"
+    ],
+    "experience": [
+        {
+            "title": "Finance Officer",
+            "company": "Company Name City , State",
+            "start_date": "May 2011",
+            "end_date": "January 2016",
+            "description": "G/L Reporting & Preparation of Audit Schedules; Daily General Ledger postings and accounting journals for: Investigated and put together Savings & Interest Payable Reconciliations to show the aggregate net savings and liabilities position of the organization year to date; Staff Loans & Statutory Deductions; Investment Accounting; Compiled, analyzed and prepared Interest Income, and Price Volume Budget Analysis to assist the Budget Analyst in gaining a comprehensive depiction of the actual interest derived from investments on a monthly and year to date basis in comparison to the budgeted figures; Gathered information for Accretion & Amortization Schedules to determine bonds that are tax exempted."
+        },
+        {
+            "title": "Payroll Assistant",
+            "company": "Company Name City , State",
+            "start_date": "November 2010",
+            "end_date": "December 2010",
+            "description": "Preparation of Bank reconciliations. Ensured that bank reconciliations were prepared in a timely manner and outstanding items were effectively researched and cleared promptly."
+        },
+        {
+            "title": "Accounts Officer",
+            "company": "Company Name City , State",
+            "start_date": "January 2007",
+            "end_date": "January 2009",
+            "description": "Daily General Ledger postings and accounting journals for bank reconciliations; Analyzing and implementing procedures to resolve unreconciled items on assigned bank accounts; Prepared scheduled reports with Cash Flow Statements."
+        },
+        {
+            "title": "Supervisor & Senior Accounts Clerk",
+            "company": "Company Name City , State",
+            "start_date": "January 1997",
+            "end_date": "January 2007",
+            "description": "Supervised a staff of eleven persons; Regular scheduled inventory updates and reconciliations each month; Prepared Payroll for weekly and monthly staff using Turbo Pay software; Daily scheduled directives for inventory to deliver island wide; Trained staff regarding standard operating procedures; Resolved differences between team members and ensured an atmosphere of unity and respect; Maintained dialogue with customers in order to promote the company's sales & to develop a good rapport with the customers; Organized and streamlined the routine procedures for the sales representatives; Ensured that both monthly & annual Returns prepared and submitted in a timely manner."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science Degree: Business Administration Finance",
+            "school": "Northern Caribbean University",
+            "year": "2009"
+        },
+        {
+            "degree": "Certificate of Management Studies",
+            "school": "St. Hugh's High School Sixth form",
+            "year": null
+        },
+        {
+            "degree": "Business Certificate",
+            "school": "University of the West Indies",
+            "year": "2002"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Dave Umino",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Biological Science Technician with over 4 years of experience in vineyard and property maintenance. Customer service experience as well.",
+    "skills": [
+        "Strong interpersonal skills",
+        "Customer service skills",
+        "Dependable worker",
+        "Excellent attention to detail"
+    ],
+    "experience": [
+        {
+            "title": "Driver",
+            "company": "Company Name",
+            "start_date": "July 2017",
+            "end_date": "Current",
+            "description": "Driver"
+        },
+        {
+            "title": "Biological Science Technician",
+            "company": "Company Name",
+            "start_date": "February 2016",
+            "end_date": "June 2017",
+            "description": "Caretaker of plant specimens for research project. Planting, maintaining, and harvesting seed from plants. Supervisor: Roger Thilmony, roger.thilmony@ars.usda.gov"
+        },
+        {
+            "title": "Courier",
+            "company": "Company Name",
+            "start_date": "May 2015",
+            "end_date": "January 2016",
+            "description": "Independent contractor for app-based delivery service. Picked up food and other items from retailers and delivered them to customers."
+        },
+        {
+            "title": "Laborer",
+            "company": "Company Name",
+            "start_date": "September 2003",
+            "end_date": "July 2008",
+            "description": "Completed all repairs and maintenance work to company standards. Planned work and determined appropriate tools and equipment. Took care of facility grounds. Kept supervisor informed of job progress and material requirements."
+        },
+        {
+            "title": "Owner",
+            "company": "umonovineyards.com",
+            "start_date": "",
+            "end_date": "",
+            "description": "Owner of Umino Vineyards (as referenced in CV)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts: Political Science",
+            "school": "Contra Costa College",
+            "year": "2013"
+        },
+        {
+            "degree": "Associate of Arts: Liberal Arts: Social and Behavioral Sciences",
+            "school": "Contra Costa College",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,113 @@
+{
+    "name": "Leah Adler",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Two years of experience as a fine jewelry CAD designer and seven years as an illustrator jewelry designer; founder and lead designer of Z LIU Design. Certified in Matrix 8 and T-Splines; proficient in Matrix CAD/CAM, Adobe Creative Suite, and Microsoft Office. Strong attention to detail and organizational skills. Bachelor of Fine Arts and Audio-Visual Editing.",
+    "skills": [
+        "3D",
+        "Adobe Creative Suite",
+        "photo",
+        "ad",
+        "Arts",
+        "attention to detail",
+        "CAD/CAM",
+        "catalogs",
+        "designing",
+        "E-Commerce",
+        "English",
+        "fashion",
+        "drawing",
+        "Illustrator",
+        "MAC",
+        "Microsoft Office applications",
+        "Photography",
+        "presentations",
+        "retail",
+        "sales",
+        "sketching",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Fine Jewelry CAD Designer",
+            "company": "Company Name City , State",
+            "start_date": "May 2016",
+            "end_date": "September 2016",
+            "description": "Create original and complex CAD designs for stock and Neiman Marcus."
+        },
+        {
+            "title": "Fine Jewelry CAD Designer",
+            "company": "Company Name City , State",
+            "start_date": "October 2015",
+            "end_date": "February 2016",
+            "description": "Design custom-made fine jewelry in CAD using Matrix 8. Create photo realistic CAD renders for customer approval. Satisfy customer needs and increase sales. Operate Solid-Scape for daily 3D print."
+        },
+        {
+            "title": "Fine Jewelry CAD Designer",
+            "company": "Company Name City , State",
+            "start_date": "March 2015",
+            "end_date": "August 2016",
+            "description": "Design classic fine jewelry in CAD using Matrix 8. Ensure designs can be manufactured; produce water-tight STL files ready for 3D printing."
+        },
+        {
+            "title": "Jewelry Image Retoucher",
+            "company": "Company Name City , State",
+            "start_date": "October 2011",
+            "end_date": "May 2013",
+            "description": "MAC environment; create realistic presentations for fashion and retail-focused catalogs and E-Commerce in a high-paced studio environment."
+        },
+        {
+            "title": "Jewelry Designer",
+            "company": "Company Name City , State",
+            "start_date": "August 2008",
+            "end_date": "October 2010",
+            "description": "Developed new original designs and interfaced with factory production overseas. Specializing in designing fine bridal diamond jewelry for JCPenney, Zales, Macy's, etc."
+        },
+        {
+            "title": "Founder, Jewelry Designer, Retoucher",
+            "company": "Company Name City , State",
+            "start_date": "February 2005",
+            "end_date": "August 2008",
+            "description": "Created original 18K fine jewelry that was carried by Stanley Korshak from 2008 to 2010. Ms. Leah Adler and Ms. Sue Spielberg ordered 18K semi-precious original design earrings after seeing our ad in New Yorker Magazine."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate: Advanced Matrix 8 and T-Splines",
+            "school": "Academy Gemvision",
+            "year": 2015
+        },
+        {
+            "degree": "Matrix 7.5 Comprehensive CAD/CAM Certificate; GIA Colored Stone Essential Certificate",
+            "school": "GIA",
+            "year": 2014
+        },
+        {
+            "degree": "High-end Photography Retouching Certificate",
+            "school": "University of the Arts London",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Arts in Fine Arts Drawing, Jewelry Technology",
+            "school": "Brookhaven College",
+            "year": 2003
+        },
+        {
+            "degree": "Bachelor of Fine Arts and Audio-Visual Editing",
+            "school": "Navy Education University",
+            "year": 1993
+        }
+    ],
+    "certifications": [
+        "Advanced Matrix 8",
+        "T-Splines",
+        "Matrix 7.5 Comprehensive CAD/CAM Certificate",
+        "GIA Colored Stone Essential Certificate",
+        "High-end Photography Retouching Certificate"
+    ],
+    "languages": [
+        "English",
+        "Chinese"
+    ]
+}

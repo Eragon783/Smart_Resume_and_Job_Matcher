@@ -1,0 +1,98 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Real Estate / Development / Construction Executive Versatile executive with 38 years experience in the real estate and construction industries possessing a combination of hands on technical experience coupled with strong organizational and leadership skills to manage project teams from concept to completion. Honest and thoughtful style results in loyal teams that work toward a common goal. Strategic thinker and planner with analytical skills and proven aptitude to manage complex and numerous projects and coordinate the efforts of corporate departments, landlords, designers, consultants, and contractors to turn over successful projects. Honest and pragmatic approach to conflict resolution and problem solving. Immense pursuit and tireless effort to produce successful and timely results. Strong real estate aptitude allows for thorough Due Diligence and market analysis, for contract, purchase and lease administration. Commercial and Residential project management - Development - Estimating - Budget Preparation and Implementation - Profit & Loss responsibility - Value Engineering - Cost Control - Team Building - Employee training - Site Selection -- Land Use Entitlement - Permitting - Design and Plan Review - Bidding and Negotiation - Purchase and Lease negotiation - Purchase, Lease and Contract Administration Construction Manager familiar with preparing and negotiating contracts with clients and suppliers. Innovative Construction Manager adept at finding engaging ways to motivate construction teams to exceed expectations and maintain high standards.",
+    "skills": [
+        "assembly",
+        "branding",
+        "budgets",
+        "Carpenter",
+        "cost control",
+        "drafting",
+        "Due Diligence",
+        "graphics",
+        "marketing",
+        "merchandising",
+        "office",
+        "negotiation",
+        "operations Management",
+        "progress",
+        "Reporting",
+        "retail",
+        "seminars"
+    ],
+    "experience": [
+        {
+            "title": "Director of Development",
+            "company": "Company Name",
+            "start_date": "1999-05",
+            "end_date": "Present",
+            "description": "Management of multiple projects in Georgia and Florida ranging to 3/4 million square feet annually; Management of construction of high end health club facilities ranging to $10 million each; Management of a remote corporate office with budgets up to $60 million and a staff of 5; Oversight of Construction Managers, designers, consultants, contractors, and landlords; site analysis, purchase and lease negotiation; due diligence, entitlement processing, and permitting; reporting to corporate office, project schedules, progress, and coordination of FF&E; led company for projects completed and cost control; initiated interior and exterior branding graphics; reviewed plans and specs during schematic design; coordinated utility service providers; obtained building and specialty permits; conducted weekly production and operations meetings; performed regular job site observations and pre-installation conferences; digitally archived knowledge base photographs; assisted operations with warranty service repairs."
+        },
+        {
+            "title": "Construction Manager",
+            "company": "Company Name",
+            "start_date": "1996-06",
+            "end_date": "1999-05",
+            "description": "Managed multiple Motel projects across the United States up to $4 million; supervised 4 Construction Managers in field operations; delivered construction training seminars; conducted site evaluation, coordination of design, permitting, budgets, and contractor negotiations; reported to corporate office; reviewed plans and specs; coordinated utility services; obtained building and specialty permits."
+        },
+        {
+            "title": "Construction Manager",
+            "company": "Company Name",
+            "start_date": "1992-12",
+            "end_date": "1996-06",
+            "description": "Managed landlords and general contractors in the construction of approximately 45 retail stores per year throughout the Southeastern United States; coordinated with marketing, merchandising and turnover to operations; reported to corporate office; project schedules and FF&E coordination; reviewed plans and specs; weekly contractor meetings; site observations; pre-installation conferences; oversaw building turnover and quality audits; initiated corrective actions."
+        },
+        {
+            "title": "Construction Superintendent",
+            "company": "Company Name",
+            "start_date": "1989-02",
+            "end_date": "1992-12",
+            "description": "Supervised construction and remodel of retail and restaurant projects, ranging $200k - $4 million; Design Craft Properties."
+        },
+        {
+            "title": "Owner Developer",
+            "company": "Company Name",
+            "start_date": "1986-02",
+            "end_date": "1989-02",
+            "description": "Full responsibilities of operating a single family home building company; developed two multi-unit subdivisions and over 100 single family homes."
+        },
+        {
+            "title": "Construction Superintendent",
+            "company": "Company Name",
+            "start_date": "1983-06",
+            "end_date": "1986-02",
+            "description": "Managed construction and turnover of single family custom homes; managed construction of commercial office facilities."
+        },
+        {
+            "title": "Carpenter / Foreman",
+            "company": "Company Name",
+            "start_date": "1980-10",
+            "end_date": "1983-06",
+            "description": "Carpenter and Carpenter Foreman on heavy industrial projects in Wyoming, Tennessee and South Carolina."
+        },
+        {
+            "title": "Draftsman / Field Service Supervisor",
+            "company": "Company Name",
+            "start_date": "1975-08",
+            "end_date": "1980-10",
+            "description": "Design and drafting of air structures and dome roofs; field service to owners in the assembly and erection of air structures and dome roofs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS Building Construction Design and Technology",
+            "school": "Eastern Kentucky University",
+            "year": 1975
+        },
+        {
+            "degree": "Building Construction Trades Certificate",
+            "school": "Eastern Kentucky University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

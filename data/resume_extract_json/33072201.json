@@ -1,0 +1,127 @@
+{
+    "name": "Nicole Westfall",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dynamic marketing executive with 15+ years of experience across marketing, branding, PR, events and sales. Known for driving ROI, building strategic relationships, and leading cross-functional teams to grow brand presence and revenue. Proven track record of expanding client bases, managing budgets, and delivering integrated campaigns across media and digital channels.",
+    "skills": [
+        "Marketing",
+        "Advertising",
+        "Public Relations",
+        "ROI",
+        "Budgeting",
+        "Media Strategy",
+        "Social Media Strategy",
+        "Content Creation",
+        "Forecasting",
+        "Strategic Planning",
+        "Teaching",
+        "Buying",
+        "Sales",
+        "Media Buying",
+        "Branding",
+        "Account Management",
+        "Tradeshow Management",
+        "Event Management",
+        "Product Marketing",
+        "Sales Presentations",
+        "Distributor Sales",
+        "National Accounts",
+        "Regional Sales",
+        "Corporate Sales",
+        "Pricing",
+        "CRM",
+        "Crisis Management",
+        "Channel Management",
+        "Web 2.0/Interactive Media",
+        "Adobe InDesign",
+        "Illustrator",
+        "Photoshop",
+        "PowerPoint",
+        "Web Content",
+        "Oracle",
+        "Lotus Notes",
+        "Camtasia",
+        "Video Editing",
+        "Audio Editing"
+    ],
+    "experience": [
+        {
+            "title": "Director of Marketing",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Head of the marketing department; provide strategy and leadership for brand preservation and growth. Manage public relations, advertising, media buying, collateral materials. Write collateral and articles for media placement and publication. Manage tradeshows, events, distributor sales conferences and professional trade meetings. Create and manage apparel, merchandise and giveaways. Collaborate with sales to maximize ROI. Manage website redesign and ongoing marketing activities. Oversee outside agencies and vendors; manage marketing budget; present strategic initiatives to the board."
+        },
+        {
+            "title": "Specialist",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2014-01",
+            "description": "Primary contact to distributors, corporate accounts and key large customers. Managed growth of $120M in key account sales; $20M in additional key accounts. Planned and executed distributor national/regional/corporate meetings; managed rewards programs (ISR, OSR, RSM); trained Field Key Account Managers; managed budgets and rebates; partnered with Marketing and Sales to implement programs; prepared monthly sales forecasts and competitive data; coordinated media buying and collateral materials; created PR content and social media strategy; liaised across departments and with French HQ; managed national/international trade shows."
+        },
+        {
+            "title": "CEO",
+            "company": "Company Name",
+            "start_date": "2003-01",
+            "end_date": "2014-01",
+            "description": "Managed communications outreach for national/international programs across multiple accounts; PR, brand building, event management, social media strategy; strategic planning and forecasting; ROI analysis and market effectiveness; managed staff and media outreach; website/content development and web 2.0 initiatives; tripled client base and revenue within a year, sustained long-term client retention; led cross-functional collaboration with international headquarters; directed sponsorships and marketing campaigns."
+        },
+        {
+            "title": "Senior Account Executive",
+            "company": "Company Name",
+            "start_date": "2001-01",
+            "end_date": "2003-01",
+            "description": "Managed branding/marketing/media efforts for six clients; developed and executed strategic media plans; led staff and client training; drove ROI and revenue growth; managed timelines, budgets and vendor relationships; supported new business development."
+        },
+        {
+            "title": "Crisis Account Executive",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2001-01",
+            "description": "Account management for bankruptcy department including press release creation, media outreach, list generation, clip monitoring, and crisis communications planning; developed proposals and crisis procedures; trained executives in crisis response."
+        },
+        {
+            "title": "Junior Associate",
+            "company": "Company Name",
+            "start_date": "1998-01",
+            "end_date": "2000-01",
+            "description": "Developed, wrote and edited marketing materials; coordinated media events; conducted celebrity interviews; supervised assistants and vendors; oversaw budgeting and media buying; contributed to PR and media outreach and event planning."
+        },
+        {
+            "title": "Freelance Booker",
+            "company": "Company Name",
+            "start_date": "1998-01",
+            "end_date": "1999-01",
+            "description": "Directed guest management and relations; coordinated guest bookings; pre-interviews; travel arrangements; on-site guest support; maintained contact databases."
+        },
+        {
+            "title": "Reporter / Associate Producer / Editor",
+            "company": "Company Name",
+            "start_date": "1996-01",
+            "end_date": "1998-01",
+            "description": "Reported weekend news; produced weekend newscasts; sourced stories; edited video; operated Chyron and studio cameras; created news content."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in International Business Management",
+            "school": "University of Texas",
+            "year": 2012
+        },
+        {
+            "degree": "Graduate Certificate in Asian Business Studies",
+            "school": "Tongji University",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Communications",
+            "school": "Baylor University",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        "Graduate Certificate-Asian Business Studies, Tongji University, Shanghai, China"
+    ],
+    "languages": []
+}

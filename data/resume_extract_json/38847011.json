@@ -1,0 +1,94 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Staff Accountant with extensive payroll and accounting experience across multiple organizations, proficient in payroll processing, timekeeping systems (Kronos, Nextgen, ADP/eTime), general ledger, accounts payable, benefits, tax compliance, and payroll auditing; skilled at process improvement and implementing automated payroll solutions.",
+    "skills": [
+        "accounting software",
+        "accounts payable",
+        "ADP 5.30",
+        "ADP",
+        "benefits",
+        "budgets",
+        "Ceridian",
+        "Contracts",
+        "documentation",
+        "Edge",
+        "Equity",
+        "forms",
+        "funds",
+        "general ledger",
+        "insurance",
+        "Kronos",
+        "Microsoft Office Suite",
+        "networks",
+        "Payroll",
+        "payroll processing",
+        "personnel",
+        "policies",
+        "processes",
+        "publications",
+        "SAP 6.20",
+        "taxes",
+        "training material"
+    ],
+    "experience": [
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "2014-08",
+            "end_date": "Current",
+            "description": "Review, verify and input personnel action forms; process Kronos-based time sheets for school employees; manage annual payroll over $18 million; process time sheets for bus/shuttle drivers; enter direct deposit, W-4, and A-4 forms using Nextgen; ensure accurate monthly payroll processing and corrections; analyze reports to identify variances; ensure prorated salary changes per policy; support standardized payroll processes per school board policies."
+        },
+        {
+            "title": "Payroll Administrator",
+            "company": "Company Name, City, State",
+            "start_date": "2009-07",
+            "end_date": "2014-01",
+            "description": "Responsible for all payroll functions; updated payroll records and deductions; provided timesheet training and access credentials for new hires; maintained payroll policies; ensured compliance with federal, state, and local regulations; prepared post-payroll tax GL entries; supported annual payroll audit; prepared documents for Sox audits; maintained confidentiality."
+        },
+        {
+            "title": "Payroll Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "2001-03",
+            "end_date": "2005-03",
+            "description": "Developed and processed confidential payroll documentation for ~300 employees; managed payroll budget over $45 million; served as POC for ADP and eTime for Blood Services Division; improved timesheet input accuracy and payroll output; trained timekeepers; authored a user-friendly payroll manual; issued W-2s for the region; supported year-end close."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "1999-06",
+            "end_date": "2001-03",
+            "description": "Processed bi-weekly and semi-monthly payroll for 180 employees nationwide; analyzed benefit elections; executed garnishments and child support orders; reconciled payroll bank accounts; processed AP checks; prepared journal entries and GL adjustments for month-end close."
+        },
+        {
+            "title": "Payroll Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "1997-09",
+            "end_date": "1999-06",
+            "description": "Managed payroll for nearly 400 employees in Retail; verified applicant packets; input data in ADP system; registered new associates for accurate compensation; handled job verifications from businesses and creditors."
+        },
+        {
+            "title": "Payroll Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "1996-09",
+            "end_date": "1997-09",
+            "description": "Reviewed confidential contract offer letters for tenured and part-time professors; negotiated contracts; tracked labor funding and ensured budget compliance; coordinated insurance and retirement benefits for faculty and staff; allocated funds for contracts and matched final disbursements."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "school": "University of Phoenix",
+            "year": "2010"
+        },
+        {
+            "degree": "B.S. in Business Administration",
+            "school": "Alabama A&M University",
+            "year": "1992"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

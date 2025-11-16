@@ -1,0 +1,100 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Russia / Israel",
+    "summary": "",
+    "skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Kafka",
+        "Flask",
+        "NumPy",
+        "Pandas",
+        "Docker",
+        "Airflow",
+        "Celery",
+        "Kubernetes",
+        "Aerospike",
+        "MongoDB",
+        "XML",
+        "CSS",
+        "QSS",
+        "QWebSocket",
+        "Windows AD",
+        "win32api",
+        "PySide",
+        "Java",
+        "Spring",
+        "JavaScript",
+        "EXT.js",
+        "Node.js",
+        "SOAP",
+        "SVN",
+        "Ant",
+        "HTML",
+        "TypeScript",
+        "Hibernate",
+        "HQL",
+        "Django",
+        "Stripe API"
+    ],
+    "experience": [
+        {
+            "title": "Senior Software Developer (Python)",
+            "company": "TINKOFF BANK (tinkoff.ru)",
+            "start_date": "2012-11",
+            "end_date": "2022-02",
+            "description": "Was supporting legacy code and implementing new features. Stack: Python, FastAPI, PostgreSQL, Kafka."
+        },
+        {
+            "title": "Python Developer",
+            "company": "MTS GROUP (mts.ru)",
+            "start_date": "2020-06",
+            "end_date": "2021-08",
+            "description": "Created an API for ML model. Stack: Python, Flask, PostgreSQL, NumPy, Pandas, Docker. Developed an infrastructure service with microservice architecture. Involved in creation of DAGs for Airflow, tasks for Celery. Worked with PostgreSQL and Aerospike; developed producers and consumers for Kafka and manifests for Kubernetes."
+        },
+        {
+            "title": "Python Developer",
+            "company": "FIRST LINE SOFTWARE (firstlinesoftware.com)",
+            "start_date": "2019-08",
+            "end_date": "2020-06",
+            "description": "Integrated the back-end of Django-based online shop with Stripe API. Developed an algorithm for making a graph acyclic by deleting a minimal number of edges. Increased speed of classification in ML model by optimizing Python code base. Proposed additional validation of ML models and improved F-score from 80 to 92%."
+        },
+        {
+            "title": "Python Developer",
+            "company": "KINODANZA (kinodanz.ru)",
+            "start_date": "2017-12",
+            "end_date": "2019-08",
+            "description": "Created an application for distributed processing of 3-D models in local network (simplified analogue of FTrack). This involved designing network and database architecture, developing a GUI and client-server interaction. Stack: Python 2.7, PySide, MongoDB, XML, CSS(QSS), QWebSocket. Enhanced the security of internal data by creating a Python module for Windows (using Windows AD, win32api)."
+        },
+        {
+            "title": "Web-Developer",
+            "company": "AISA (aisa.ru)",
+            "start_date": "2017-07",
+            "end_date": "2017-12",
+            "description": "Improved company's product by finding and fixing logical bugs. Worked with: Java, Spring, JS, EXT.js, Node.js, SOAP, SVN. Made project build on Ant."
+        },
+        {
+            "title": "SWE Intern",
+            "company": "MAPPING",
+            "start_date": "2016-07",
+            "end_date": "2016-09",
+            "description": "Created a web page for the company site using HTML, CSS and TypeScript. Involved in back-end development. Learned basics of Java Spring, Hibernate, HQL."
+        },
+        {
+            "title": "Assistant in Department of Demand Planning",
+            "company": "DANONE",
+            "start_date": "2013-09",
+            "end_date": "2014-05",
+            "description": "Was preparing datasets for demand forecasting. Worked with visualization tools (mostly Deductor) to present forecasting results to the management."
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "languages": [
+        "Russian (Native)",
+        "English (Upper-Intermediate)"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To further my career in sales, customer satisfaction and grow in business development.",
+    "skills": [
+        "billing",
+        "credit",
+        "customer service",
+        "FileMaker",
+        "Managing Major Accounts",
+        "VIP Customers",
+        "Media Production",
+        "managing new construction properties",
+        "great selling skills",
+        "supervisor",
+        "exceptional customer services skills"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "September 2017",
+            "end_date": "Current",
+            "description": "Exceed sales goals by up to 224% by implementing strategic sales tactics; generate new leads through professional relationships within the OTF community and B2B/community outreach; provide exceptional member experience; assist Studio Manager in keeping the team motivated; increase revenue in retail; onboarding OTF clients via the Client Intake Form; handoffs with coaches."
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name",
+            "start_date": "July 2016",
+            "end_date": "September 2016",
+            "description": "Established new customer accounts; updated database with customer and sales information; generated high volume of referrals; cold-called prospective customers to build relationships."
+        },
+        {
+            "title": "Residential Sales Specialist",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "January 2016",
+            "description": "Sold TV, cable, internet and phone services onsite; increased revenue penetration to 97% across multiple properties; managed VIP and major accounts; upsold add-on services; trained sales teams; prepared monthly commission payrolls for 10+ representatives; developed annual sales plans for Miami and West Palm territories; monitored market conditions and adjusted sales approach."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Media Production",
+            "school": "The Art Institute of Ft. Lauderdale",
+            "year": 2004
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Coconut Creek High School",
+            "year": 2002
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Durham, NC, United States",
+    "summary": "Dedicated and focused Office Manager/Supervisor with 20+ years of experience in high-level executive support and revenue cycle roles. Skilled in Microsoft Office, Epic, Emdeon, Signature, Excel, reporting, billing and coding, and insurance eligibility verifications. Experienced in coordinating large teams, training staff, meeting planning, and process improvements with a detail-oriented, professional approach.",
+    "skills": [
+        "Office management",
+        "Revenue cycle management",
+        "Epic",
+        "Epicare",
+        "Emdeon",
+        "Signature",
+        "Payment Manager",
+        "Microsoft Office",
+        "Excel",
+        "Word",
+        "Data entry",
+        "Billing and coding",
+        "Insurance eligibility verification",
+        "Medicaid",
+        "Medicare",
+        "Claims appeals",
+        "Financial assistance",
+        "Patient account management",
+        "Meeting planning",
+        "Report writing",
+        "Report development",
+        "Medical terminology",
+        "Workers' compensation knowledge",
+        "Database management",
+        "Training and staff education",
+        "Customer service",
+        "Office administration",
+        "Project coordination",
+        "Team leadership"
+    ],
+    "experience": [
+        {
+            "title": "Revenue Cycle Advocate",
+            "company": "Company Name, City, State",
+            "start_date": "2011-06",
+            "end_date": "Present",
+            "description": "Planned travel arrangements for 2 executives and 10+ staff. Trained clinics and hospital departments on Epic, Signature, MS Word, Excel, Emdeon, and Payment Manager. Assisted staff with Work Queue assignments. Monitored trends and provided system updates. Assisted with patient account merges and financial assistance; prepared and conducted meetings, wrote reports, and communicated trends to clinical managers. Managed payments in Epic and supported planning for financial assistance programs."
+        },
+        {
+            "title": "Payment Reconciliation Rep",
+            "company": "Company Name, City, State",
+            "start_date": "2009-09",
+            "end_date": "2011-06",
+            "description": "Researched unidentified payments across Epic, Signature, Emdeon, Payment Manager, and vendor sites. Created PDFs and established naming conventions for electronic files. Managed electronic postings and lockbox denials/receipts. Followed up with clinics and insurers for missing remits. Prepared meeting agendas, coordinated materials, and supported office operations; maintained departmental charts and vendor access."
+        },
+        {
+            "title": "Patient Accounts Rep III",
+            "company": "Company Name, City, State",
+            "start_date": "2007-06",
+            "end_date": "2009-09",
+            "description": "Insurance follow-up for denied claims and self-pay. Created and maintained advanced Excel reports. Managed daily office operations and equipment. Produced balance and follow-up reports; handled appeals for medical necessity."
+        },
+        {
+            "title": "Medical Insurance Specialist III",
+            "company": "Company Name, City, State",
+            "start_date": "2002-10",
+            "end_date": "2007-06",
+            "description": "Insurance follow-up and customer service; central point of contact for outside vendors. Managed copies, faxes, and correspondence; organized files, developed spreadsheets, and scanned documents."
+        },
+        {
+            "title": "Medical Billing / Recovery Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "2000-01",
+            "end_date": "2002-06",
+            "description": "Billing and collections; insurance follow-up for denied claims and self-pay balances. Verified demographics, processed credits/refunds, and verified CPT/ICD-9 codes for max reimbursement. Handled inbound/outbound calls and used an automated dialer; applied medical terminology knowledge."
+        },
+        {
+            "title": "Health Unit Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "1990-09",
+            "end_date": "1997-09",
+            "description": "Administrative duties including multi-line phones, scheduling, and supplies. Coordinated with Medicare/Medicaid and private insurers on billing issues. Maintained office operations, spreadsheets, faxes/mail, signature processes, and department org charts. Drafted meeting agendas, admitted patients, coordinated billing, and prepared discharge instructions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Northern High School",
+            "year": "1990"
+        },
+        {
+            "degree": "Business Diploma: Medical Billing & Coding",
+            "school": "Georgia Medical (Everest University)",
+            "year": "2002"
+        },
+        {
+            "degree": "Bachelor of Science in Business Administration Management",
+            "school": "Walden University",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

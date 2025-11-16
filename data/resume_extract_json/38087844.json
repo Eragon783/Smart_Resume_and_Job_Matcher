@@ -1,0 +1,97 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Brickell, Miami, FL, USA",
+    "summary": "Experienced sales professional with leadership, project management, and contract management expertise. Proven track record in timeshare, real estate, and startup ventures. Skilled at client relations, closing, negotiations, and driving sales results. Based in Brickell, FL; originally from NYC.",
+    "skills": [
+        "Sales and marketing",
+        "Microsoft Office",
+        "Leasing and market conditions",
+        "Contract management",
+        "Relationship building",
+        "Excellent communicator",
+        "Team leadership",
+        "Negotiation and closing",
+        "Start-up experience",
+        "Social media savvy",
+        "Project management",
+        "Customer service",
+        "Invoicing",
+        "Accounting principles",
+        "People management",
+        "Quality assurance",
+        "Problem solving",
+        "Marketing",
+        "Excel",
+        "Policies"
+    ],
+    "experience": [
+        {
+            "title": "Timeshare Sales",
+            "company": "Company Name, City, State",
+            "start_date": "2016-05",
+            "end_date": "Present",
+            "description": "Presentation of the Wyndham Vacation Ownership product to pre-qualified potential new owners and guests. Generated exceptional sales through initiating transactions and utilizing proper closing techniques. Provided follow up with each new owner to ensure ultimate customer satisfaction."
+        },
+        {
+            "title": "REALTOR",
+            "company": "Company Name, City, State",
+            "start_date": "2015-10",
+            "end_date": "Present",
+            "description": "Rent, buy, or sell property for clients. Performed duties such as studying property listings, engaging with prospective clients, accompanying clients to property sites, discussing conditions of sale, and drawing up real estate contracts."
+        },
+        {
+            "title": "Founder/CEO",
+            "company": "Company Name, City, State",
+            "start_date": "2014-11",
+            "end_date": "Present",
+            "description": "Start-Up Motor Coach Transportation Company. Provided luxury transportation for hotels, stadiums and convention centers in Miami. Transferred large groups of 50 people or more to corporate events, team-building outings, sporting events and more. Managed a wide variety of customer service and administrative tasks to get the business up and running with all licenses, insurance, capital and loan programs. Informed customers about sales and promotions in a friendly and engaging manner."
+        },
+        {
+            "title": "Founder/CEO",
+            "company": "Company Name, City, State",
+            "start_date": "2010-01",
+            "end_date": "2014-10",
+            "description": "Excelled at arranging unique experiences such as deep sea shark diving, exotic car rentals, luxury vacation home accommodations, luxury yachts, jet charters and events. Created sales pitches for the sales team and led the team from 30 to up to 200 sales per day. Conducted all PR, sales and client relations. Mentored and trained sales team."
+        },
+        {
+            "title": "Contracts Project Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2006-03",
+            "end_date": "2009-09",
+            "description": "Site consisted of 86 Whole Ownership Residences (Price Range: $1M - $17M) and 212 Fractional Ownership Residences (Price Point: $100,000 - $550,000 for a 1/12 Interest). Direct supervision of the Contract Supervisor and indirect supervision of the Contracts processing team along with supervision of support to sales and marketing team. Timely notification to sales executives and follow through on special circumstances, cancellations, defaults. Training of contracts processors regarding procedures, policies and responsibilities; ensured legal requirements at point of sale. Leadership and supervisory direction to administrative support personnel for sales executives and management. Monitored QA in Quality Assurance Department. Problem solving, account management, client relations, sales closer, customer service/sales, people management, accounting principles and practices."
+        },
+        {
+            "title": "Contracts Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2005-01",
+            "end_date": "2006-03",
+            "description": "Hired and directed processing team for the company's largest conversion project of 848 units. Directed team to prepare all condo documents. Liaison between escrow company, bank, appraisers, customer and the developer. Planned initiatives and developed workflow for positive results including overall corporate sales. One-on-One consultation with customers regarding their purchase contract. Unit walkthroughs. On-site technical support to server structure due to technical career history."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Company Name, City, State",
+            "start_date": "1999-01",
+            "end_date": "2004-11",
+            "description": "Negotiated Voice & Data contracts with clients and Fortune 500 service providers. Developed new business procedures and adjusted business plan to reflect effective sales results. Hired and developed a technical and sales savvy workforce. Coached and trained employees to follow business procedures. Responsible for a large percent of the firm's revenue growth in 2000-2001 fiscal year. Exceptional project management delivering workflow and managing developers with project direction. Awarded #1 in Sales by NTT/VERIO in 2001."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Administration",
+            "school": "Pace University",
+            "year": 2000
+        },
+        {
+            "degree": "High School Diploma - Marketing",
+            "school": "Murry Bergtraum HS for Business Careers",
+            "year": 1996
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

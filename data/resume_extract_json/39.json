@@ -1,0 +1,93 @@
+{
+    "name": "Fedor Ezeev",
+    "email": "",
+    "phone": "",
+    "location": "Moscow, Russia",
+    "summary": "Experienced Python Developer",
+    "skills": [
+        "Python",
+        "Python3",
+        "Bash",
+        "Perl",
+        "Java",
+        "C++",
+        "Flask",
+        "Django",
+        "Mojolicious",
+        "Selenium",
+        "pytest",
+        "unittest",
+        "MySQL",
+        "PostgreSQL",
+        "MSSQL",
+        "Redis",
+        "NoSQL",
+        "1C:Enterprise",
+        "Git",
+        "CVS",
+        "GitHub",
+        "Bitbucket",
+        "Jira",
+        "Bugzilla",
+        "Trello",
+        "MediaWiki",
+        "Waka Wiki",
+        "Linux",
+        "Windows"
+    ],
+    "experience": [
+        {
+            "title": "Freelance Software Developer",
+            "company": "Freelance / Wordpress",
+            "start_date": "February 2012",
+            "end_date": "Present",
+            "description": "Developed custom Python tools for managing large-scale server fleets; built Selenium-based automation; wrote pytest and unittest suites; integrated Yandex Alice with smart-home projects; developed Flask-based components (Teplomonitor) with MySQL and PostgreSQL; created Selenium automation tests for ERP systems (MSSQL) and improved Perl/Mojolicious-based applications; performed project management and system administration; created data transfer tools from 1C:Enterprise to MSSQL for OLAP."
+        },
+        {
+            "title": "Product Manager",
+            "company": "Anti-Corruption Foundation / RosYama",
+            "start_date": "June 2011",
+            "end_date": "November 2013",
+            "description": "Managed RosYama project development; coordinated between users, lawyers, Megaplan programmers, system administrators and donors; built a stable user base and a forum-based self-moderated community; liaised with Moscow city authorities for integration with mos.ru."
+        },
+        {
+            "title": "QA Team Leader",
+            "company": "Yandex Ltd",
+            "start_date": "January 2010",
+            "end_date": "March 2012",
+            "description": "Developed automated testing framework for 1C:Enterprise 8.0; created ~1000 automated tests; contributed to localization and testing in Russian, English and Hebrew."
+        },
+        {
+            "title": "Head of IT Department",
+            "company": "Alterplast Ltd",
+            "start_date": "July 2001",
+            "end_date": "December 2009",
+            "description": "Led IT operations; built and managed IT infrastructure; implemented Bugzilla, CVS and internal Wiki (Waka Wiki); implemented 1C:Enterprise integration; supported and nurtured IT processes and developer community."
+        },
+        {
+            "title": "Software Developer",
+            "company": "C: Automatisation",
+            "start_date": "November 1998",
+            "end_date": "June 2001",
+            "description": "Developed new features for 1C:Enterprise using its internal programming language; worked on MSSQL-based distributed networks; integrated 1C code storage with version control; contributed to CVS and Git workflows."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Chemistry",
+            "school": "Moscow State University",
+            "year": "1994-1997"
+        },
+        {
+            "degree": "High School Education",
+            "school": "High School #218, Moscow, Russia",
+            "year": "1984-1994"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Russian",
+        "English",
+        "Hebrew"
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Accomplished healthcare executive with over 20 years of experience, including 16 years managing full-service home healthcare facilities, with P&L responsibility, clinical and operational leadership, and a focus on quality improvement and business development.",
+    "skills": [
+        "Accounting",
+        "agency",
+        "attention to detail",
+        "billing",
+        "Budgeting",
+        "business development",
+        "case management",
+        "charts",
+        "interpersonal communication",
+        "Contract Negotiations",
+        "Client",
+        "clients",
+        "customer service",
+        "decision-making",
+        "Delivery",
+        "directing",
+        "documentation",
+        "employee relations",
+        "Finance",
+        "Financial",
+        "home health",
+        "home healthcare",
+        "Human Resources",
+        "HR",
+        "infection control",
+        "insurance",
+        "Team Building",
+        "Leadership",
+        "leadership skills",
+        "law",
+        "regulatory compliance",
+        "managing",
+        "marketing",
+        "market",
+        "market development",
+        "meetings",
+        "office",
+        "negotiations",
+        "nursing",
+        "operations management",
+        "Organizational",
+        "Patient Care",
+        "Direct patient",
+        "personnel",
+        "Pricing",
+        "Problem-Solving",
+        "processes",
+        "profit and loss",
+        "proofing",
+        "quality",
+        "quality improvement",
+        "Quality Assurance",
+        "recruiting",
+        "Sales",
+        "scheduling",
+        "staff supervision",
+        "Strategic Planning",
+        "supervising",
+        "surveys",
+        "teaching"
+    ],
+    "experience": [
+        {
+            "title": "Administrator",
+            "company": "Company Name",
+            "start_date": "2005-01",
+            "end_date": "2015-01",
+            "description": "Develop and implement short and long term plans; establish clear objectives; coordinate efforts for business success. Full P&L responsibility; sales and market development; financial status; patient care delivery; client services; strategic planning and profitability; accountable for all operations and programs. Drove business growth through marketing programs and increased agency census from 31 to 240 over 9 years. Expanded Private Duty market through performance and productivity improvements; contract negotiations and reimbursement strategies; prepared and analyzed weekly/monthly reports to maximize reimbursement and improve operational efficiencies. Built relationships with area hospitals, vendors/suppliers and payer sources. Led state and federal regulatory surveys. Improved and maintained efficiency in HR functions, billing management and clinical operations through effective communication and leadership abilities."
+        },
+        {
+            "title": "Director of Healthcare Services",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2007-01",
+            "description": "Responsible for staff providing daily patient care and related office activities conducted in accordance with applicable law and regulation. Ensured effective and efficient delivery of all clinical services in accordance with agency standards and values through clinical management, billing functions and management; regulatory compliance; staff supervision and training, documentation and Quality Assurance management. Maintained high quality of patient care through constant communication with staff and leadership in implementing Best Practices."
+        },
+        {
+            "title": "Clinical Director/Branch Manager",
+            "company": "Company Name",
+            "start_date": "2002-01",
+            "end_date": "2004-01",
+            "description": "Leadership in ensuring effective and efficient agency operations through clinical management; billing functions and management; regulatory compliance; staff supervision/training; documentation management; HR functions; Medicare Conditions of Participation compliance. Improved methods of communication among staff to ensure coordinated care and maintained regulatory compliance. Promoted a positive work environment to meet company goals."
+        },
+        {
+            "title": "Authorization Specialist",
+            "company": "Company Name",
+            "start_date": "2001-01",
+            "end_date": "2002-01",
+            "description": "Follow up of pre-certification/authorization payer requirements for multiple home healthcare agencies in a nationwide company. Ensured authorization for planned care and home health visits prior to service dates. Participated in implementation and rollout of new verification and authorization processes. Negotiated visit bill rates with payer sources/case managers; managed caseload of 140-240 patients; established ongoing relationships with agency and insurance case managers."
+        },
+        {
+            "title": "Clinical Manager",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2001-01",
+            "description": "Direct patient care and directing a team of clinicians. Staff scheduling and needs, monthly Pre-bill and UR audits, infection control logs, chart management, delegation to staff, coordinating team conferences, on-call schedule, case managing a patient load of 45-50, and implementation of Medicare PPS reimbursement policy."
+        },
+        {
+            "title": "Staff RN",
+            "company": "Company Name",
+            "start_date": "1998-01",
+            "end_date": "2000-01",
+            "description": "Direct patient care in the home setting; maintenance of a patient load of 7-10/day; on-call scheduling and weekly Case Conferences; making allied health referrals; planning patient care from start of care to discharge; providing care plans and goals; patient teaching; supporting other staff and managers."
+        },
+        {
+            "title": "Staff RN",
+            "company": "Company Name",
+            "start_date": "1996-01",
+            "end_date": "1998-01",
+            "description": "Direct patient care as directed by physicians; promote and restore patient health by collaborating with physicians and multidisciplinary teams; provide support to patients, coworkers and supervising team members; ensure quality of care and outcomes."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Healthcare Administration",
+            "school": "University of Phoenix",
+            "year": 2005
+        },
+        {
+            "degree": "Healthcare Administration BS",
+            "school": "Northwest Mississippi Community College",
+            "year": 1996
+        },
+        {
+            "degree": "Registered Nurse Diploma",
+            "school": "Methodist Hospital School of Nursing",
+            "year": null
+        },
+        {
+            "degree": "Nursing - Registered Nurse",
+            "school": "Southwest Tennessee Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Registered Nurse license, State of Mississippi (1998)"
+    ],
+    "languages": []
+}

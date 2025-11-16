@@ -1,0 +1,60 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Summary of Skills: OSHA inspections; Exceptional interpersonal skills; New hire orientation; Compensation/payroll; Recruiting; Hiring and retention; Training and development; Regulatory compliance; Personnel records maintenance; Exceptional time management skills; Adaptable.",
+    "skills": [
+        "administrative",
+        "cash registers",
+        "clerical",
+        "credit",
+        "excellent customer service",
+        "Inventory",
+        "Exchange",
+        "money",
+        "nursing",
+        "organizational skills",
+        "reporting",
+        "sales",
+        "supervision",
+        "telephones"
+    ],
+    "experience": [
+        {
+            "title": "Sales Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "12/2013",
+            "end_date": "06/2014",
+            "description": "Greeted customers and ascertained what each customer wanted or needed. Compute sales prices, total purchases and receive and process cash or credit payment. Answered questions regarding the store and its merchandise. Prepared merchandise for purchase or rental. Monitored security risks and theft prevention. Restocked and requisitioned inventory. Tagged, arranged and displayed merchandise to promote sales. Exchanged merchandise for customers and accepted returns. Opened and closed cash registers, counting money, separating charge slips, coupons, and vouchers, balancing cash drawers, and making deposits."
+        },
+        {
+            "title": "Nursing Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "05/2006",
+            "end_date": "10/2012",
+            "description": "Communicated with patients to ascertain feelings or needs for assistance or social and emotional support. Documented observations of patient behavior, complaints, or physical symptoms to nurses. Assisted with feeding and hydration. Measured and recorded food and liquid intake, urinary and fecal output, reporting changes to medical or nursing staff. Observed patients to detect symptoms requiring medical attention. Prepared or served food trays. Provided physical support for activities of daily living. Reminded patients to take medications or nutritional supplements."
+        },
+        {
+            "title": "Front Desk Manager",
+            "company": "Company Name, City, State",
+            "start_date": "04/2001",
+            "end_date": "07/2008",
+            "description": "Carefully selected, developed and retained qualified staff; trained new staff annually. Evaluated patient care procedures for effectiveness. Created annual goals, objectives and budget; made recommendations to reduce costs. Performed clerical/administrative tasks, including ordering and maintaining supplies. Assisted in the design and execution of programs contributing to organization growth. Conducted probationary and annual performance evaluations of nursing staff. Developed continuing education opportunities for staff. Supervised and evaluated activities of medical, nursing, technical, clerical, service, maintenance and other personnel. Analyzed facility activities and data for risk management and service improvement. Conducted daily rounds in the nursing department to ensure standards; reviewed nursing notes for accuracy. Created system-wide communications about service excellence. Served as advisory resource for patient/family experience. Monitored infection control procedures. Assigned staff to meet patient care needs and productivity standards. Kept abreast of advances in medicine and regulations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma",
+            "school": "Stone Mountain High",
+            "year": null
+        },
+        {
+            "degree": "Certificate",
+            "school": "Georgia Medical",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

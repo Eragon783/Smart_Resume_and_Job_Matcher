@@ -1,0 +1,88 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Carrollton, Georgia",
+    "summary": "Medical Billing Specialist with experience in coding (ICD-9, ICD-10, CPT, HCPCS II), charge entry, denial resolution, and HIPAA compliance. Proficient in PrimeSUITE and Microsoft Office; strong administrative support and customer service skills in multi-specialty medical environments.",
+    "skills": [
+        "Microsoft Office (Word, Excel, Access, PowerPoint)",
+        "Typing speed: 60 words per minute",
+        "Face-to-face customer service",
+        "Email and conference call communications with external clients",
+        "Record keeping and documentation",
+        "Reading medical documents (insurance forms, EOBs, procedure notes)",
+        "ICD-9, ICD-10, CPT, HCPCS II coding",
+        "Medical terminology",
+        "HIPAA Privacy and Security Regulations",
+        "PrimeSUITE software",
+        "Charge entry and submission of charges",
+        "Denial management",
+        "AR coordination with insurance reps",
+        "Billing by insurance type (commercial, state/federal, private)",
+        "Administrative support for physicians",
+        "Multispecialty practice experience"
+    ],
+    "experience": [
+        {
+            "title": "Medical Billing Specialist",
+            "company": "Company Name",
+            "start_date": "2014-07",
+            "end_date": "2015-12",
+            "description": "Run daily report of charges ready to post for claims; understand CPT, HCPCS II, ICD-9, and ICD-10; re-code CPT codes; add modifiers; submit charges in RVU order following NCCI guidelines; coordinate with facility contacts via email and conference calls; inform contacts of nearing timely filing limits; use PrimeSUITE for charge entry; work with Insurance AR reps to resolve denials; knowledge of billing by insurance type; assigned additional diagnosis codes; accurate coding and posting; HIPAA compliance; administrative support; post charges, payments and adjustments."
+        },
+        {
+            "title": "Imaging Specialist I",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "2013-03",
+            "description": "Processed payments for medical offices, sorting and counting mail; prepared live check payments; scanned checks and correspondences; mailed out rejected payments; maintained client mail logs for monthly billing; quality checks on batches."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "2011-09",
+            "end_date": "2012-01",
+            "description": "Handled customer transactions and large cash amounts; assisted customers with product insurance and rewards programs; directed calls to correct department."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "2010-05",
+            "end_date": "2010-11",
+            "description": "Processed sales and returns; answered phones; offered insurance and rewards; directed customers to correct department; restocked items as needed."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "2006-04",
+            "end_date": "2006-08",
+            "description": "Processed sales and returns; greeted customers; handled cash; answered telephone inquiries; maintained store cleanliness and organization; restocked shelves."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Northgate High School",
+            "year": "2006"
+        },
+        {
+            "degree": "Associate in Healthcare Information Technology Management",
+            "school": "West Georgia Technical",
+            "year": "Present"
+        },
+        {
+            "degree": "Associate in Computer Networking",
+            "school": "West Georgia Technical",
+            "year": "Present"
+        },
+        {
+            "degree": "",
+            "school": "Columbus State University",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

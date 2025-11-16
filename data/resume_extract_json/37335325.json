@@ -1,0 +1,121 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Engineering Manager with 20+ years of experience in test and validation of software and hardware across multiple platforms. Led geographically dispersed teams, implemented CI/CD and test automation, and defined robust test strategies across Agile, V-model and Waterfall environments.",
+    "skills": [
+        "audio",
+        "automation",
+        "C",
+        "C++",
+        "CD-ROMs",
+        "Ceridian",
+        "cisco",
+        "Hardware",
+        "cost reduction",
+        "clients",
+        "drivers",
+        "executive management",
+        "Functional",
+        "inspection",
+        "Intel",
+        "Java",
+        "Linux",
+        "MAC",
+        "Managing",
+        "marketing and sales",
+        "C#",
+        "Windows",
+        "Windows XP",
+        "multimedia",
+        "Objective C",
+        "OS",
+        "policies",
+        "printers",
+        "processes",
+        "product development",
+        "quality",
+        "quality assurance",
+        "quest",
+        "sales",
+        "scanners",
+        "Scheduling",
+        "scrum",
+        "scripts",
+        "software development",
+        "software testing",
+        "sound cards",
+        "sun",
+        "test tools",
+        "USB",
+        "validation",
+        "video",
+        "Vista"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Manager",
+            "company": "Company Name",
+            "start_date": "September 2011",
+            "end_date": "Present",
+            "description": "Scrum master for multiple concurrent scrum teams. Facilitate and organize all scrum ceremonies including daily stand-up, retrospectives, demos, release planning and backlog grooming. Support the team to mitigate impediments and resolve conflicts. Manage tool usage (Jira, Rally, Clear Quest, Quality Center, ProtexIP, Sub-version, GIT, RTC, Bugzilla, Jenkins, Gerrit, and others). Experience in testing Software as a Service (SaaS) applications. Design performance and stress testing of peer-to-peer / device-to-device network applications and cloud XMPP servers. Led a 15+ person multidisciplinary team developing device-to-device and IoT automation framework, and 10 SDK test tools across 5 OS platforms (Windows, Windows Store, Android, iOS, Linux). Established outsourced validation operation in Bangalore, enabling follow-the-sun testing and cost reductions. Collaborated with executives to estimate validation for features/releases. Implemented cross-OS test automation framework and 10 SDK tools in C/C++, C#, Java, and Objective C. Defined OIC/IoTivity compliance and certification test cases for the open source community. Implemented CI for automated builds and tests, improving code quality and reducing regression cycles. Drove offshore development integration and incremental automated feature testing across wired and wireless technologies."
+        },
+        {
+            "title": "Director of Quality Assurance",
+            "company": "Company Name",
+            "start_date": "July 2009",
+            "end_date": "September 2011",
+            "description": "Responsible for testing Qwarq transport-agnostic wireless connectivity framework. Developed test strategies and ensured traceability from requirements. Established QA department, hired and trained engineers, and planned resources and cross-company test activities. Worked with development, and support to implement quality policies and processes. Coordinated with multiple PC OEMs to meet quality criteria and requirements. Procured hardware and software for test and development. Conducted usability tests."
+        },
+        {
+            "title": "Director of Quality Assurance",
+            "company": "Company Name",
+            "start_date": "November 2006",
+            "end_date": "July 2009",
+            "description": "Established QA department and managed resource planning. Collaborated with development, support, marketing and sales to implement quality policies and systems. Tested Ultra Wideband (Wireless USB) PHY, MAC, drivers and applications for Windows and embedded OS. Tested Bluetopia Bluetooth stack and profiles and performed WIFI (802.11a/b/g/N) testing. Contributed to Microsoft WHQL driver certification for Stonestreet One Ultra Wideband and Bluetooth drivers."
+        },
+        {
+            "title": "Quality Assurance Manager",
+            "company": "Company Name",
+            "start_date": "May 2004",
+            "end_date": "November 2006",
+            "description": "Managed, mentored and trained QA engineers responsible for testing (SaaS) time and attendance products. Developed quality processes to improve code quality and stability, reducing internal and customer-reported defects by over 50%. Managed defect tracking, created and executed test cases, performed defect postmortems, and implemented preventive changes. Managed testing lab."
+        },
+        {
+            "title": "Lead Test Engineer",
+            "company": "Company Name",
+            "start_date": "August 2001",
+            "end_date": "February 2003",
+            "description": "Created manual and automated test cases, set up and maintained test environment, and executed functional, regression, stress, and load testing."
+        },
+        {
+            "title": "Lead Test Engineer",
+            "company": "Company Name",
+            "start_date": "July 1995",
+            "end_date": "December 1999",
+            "description": "Led a group of QA engineers testing and validating ITU H26X family codecs (H263, H263 Plus, I263, H261) and AEC audio codecs for Intel videophone. Scheduled regular bug scrubs, assigned defect owners, prioritized defects, and conducted code inspections and design reviews early in the software development cycle."
+        },
+        {
+            "title": "Owner / President",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Installed requested software and tested compatibility of new multimedia software and hardware. Tested and debugged multimedia products (sound cards, video recorders, video capture cards, CD-ROMs). Developed functional tests for stress, volume and continuity testing. Configured systems with peripherals (scanners, printers, video digitizers). Reproduced bugs, compiled results, and produced test reports."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Computer Resource Information Management",
+            "school": "Webster University",
+            "year": "2004"
+        },
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "school": "Kabul University",
+            "year": "1992"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

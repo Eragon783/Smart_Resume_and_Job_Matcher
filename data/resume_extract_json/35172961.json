@@ -1,0 +1,76 @@
+{
+    "name": "Kebin Gu",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "PhD-level cleanroom expert with hands-on experience in MEMS fabrication and semiconductor process development. Proficient in plasma etching, photolithography, wet etching, and PVD, with strong SPC/DOE background. Experienced in developing automated inline reports and documentation; seeking a full-time module/process engineer role at Lam Research.",
+    "skills": [
+        "Photolithography",
+        "Plasma etching",
+        "Wet etching",
+        "PVD (Physical Vapor Deposition)",
+        "Sputtering",
+        "RIE (Reactive Ion Etching)",
+        "Deep RIE",
+        "MEMS fabrication",
+        "DOE",
+        "SPC",
+        "Edge exclusion standardization",
+        "Process optimization",
+        "Documentation",
+        "Spin coating",
+        "Laser and fiber optics",
+        "Metrology",
+        "SEM",
+        "Optical profiler",
+        "Profilometer",
+        "Nanospec",
+        "CMP",
+        "Piranha cleaning",
+        "RCA Clean",
+        "HF/BOE",
+        "Cleanroom operations"
+    ],
+    "experience": [
+        {
+            "title": "Process Engineering Intern",
+            "company": "Company Name, City, State",
+            "start_date": "2014-06",
+            "end_date": "2014-08",
+            "description": "Worked on short-loop study for qualifying new metal etch platform. Performed edge exclusion standardization for measurement tools in Etch/CMP/Wet Etch area. Wrote 'Klarity ACE' recipes to provide scheduled/automated reports for inline parameters capability, tool-tool (chamber-chamber) matching, and PT-Inline cross-correlations for plasma etch module engineers. Generated internal documentation for sampling plans in Etch/CMP/Wet Etch area."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Washington Nanofabrication Facility, University of Washington",
+            "start_date": "2008-01",
+            "end_date": "Present",
+            "description": "Project: 'A NEW INTEGRATED ENDOSCOPE SYSTEM'. Developed a full MEMS fabrication process of a mechanical resonance based scanning device. Integrated with Laser and fiber optics to enable in 2D micro-displays scanning system. Setup benchtop spin coater (SCS 6800) and sputter (Denton Desk V) in lab."
+        },
+        {
+            "title": "Graduate Researcher",
+            "company": "University of Washington",
+            "start_date": "2003-01",
+            "end_date": "2005-01",
+            "description": "Graduate research role in Mechanical Engineering; engaged in MEMS-related investigations and related coursework."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. in Mechanical Engineering",
+            "school": "University of Washington",
+            "year": "2015"
+        },
+        {
+            "degree": "M.S. in Bio-Industrial Mechatronics Engineering",
+            "school": "National Taiwan University",
+            "year": "2006"
+        },
+        {
+            "degree": "B.S. in Mechanical Engineering",
+            "school": "National Central University, Taiwan",
+            "year": "2003"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,65 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Israel",
+    "summary": "PHP/NodeJS full-stack developer with a BA in Economics and Management from Ariel University. Analytical, motivated, and results-driven. Experienced in front-end and back-end development, CMS (WordPress), Linux/Windows environments, and e-commerce projects. Seeking a challenging development role involving advanced technologies.",
+    "skills": [
+        "HTML",
+        "CSS",
+        "SASS",
+        "JavaScript (ES6+)",
+        "PHP 7+",
+        "Laravel",
+        "NodeJS",
+        "Bash",
+        "React",
+        "Express",
+        "JQuery",
+        "Bootstrap 4+",
+        "PureCSS",
+        "WordPress",
+        "Linux",
+        "Windows",
+        "Webpack",
+        "MariaDB/MySQL",
+        "MongoDB",
+        "AJAX",
+        "Git",
+        "GitHub",
+        "Bitbucket",
+        "CSS3 (SCSS)"
+    ],
+    "experience": [
+        {
+            "title": "Developer and Coordinator",
+            "company": "Alternative Languages",
+            "start_date": "Dec 2017",
+            "end_date": "Jul 2019",
+            "description": "Development and maintenance of the website alternative.help; client-side logic for applying/submitting forms (JS, AJAX, PHP); creation of a content management portal and implemented admin Russian interface for the MySQL database; project construction, management and representation; conducted job interviews for professionals and volunteers."
+        },
+        {
+            "title": "Full-stack Developer",
+            "company": "Actvtec",
+            "start_date": "Sep 2019",
+            "end_date": "Present",
+            "description": "Front-end and back-end development (HTML, CSS(SASS), JavaScript ES6+; PHP 7+ (Laravel), NodeJS, Bash); React, Express, JQuery; Developed e-commerce website (both back-end and front-end); Maintained WordPress projects; Webpack; CMS WordPress integration; Databases MariaDB/MySQL, MongoDB; Git (Github, Bitbucket); CSS3(SCSS), Bootstrap; Linux/Windows; misrot.com project."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Economics and Management",
+            "school": "Ariel University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Cisco Network Academy"
+    ],
+    "languages": [
+        "English",
+        "Hebrew",
+        "Russian",
+        "Azerbaijani"
+    ]
+}

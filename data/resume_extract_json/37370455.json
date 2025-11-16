@@ -1,0 +1,99 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Selangor, Malaysia",
+    "summary": "Financial Accountant specializing in financial planning, reporting and analysis in both private and public sectors. Capable Accountant with experience managing multiple projects and meeting deadlines under pressure. Extensive knowledge of accounting software and processes. Detail-oriented bookkeeping professional with 3+ years of experience applying financial and managerial accounting practices.",
+    "skills": [
+        "accounting",
+        "Accounting software",
+        "accounting system",
+        "Accounts Payable and Receivable",
+        "accounts receivables",
+        "AP",
+        "AR",
+        "AS 400",
+        "balance sheet",
+        "banking",
+        "billing",
+        "budget preparation",
+        "budgeting",
+        "Budget",
+        "cash flow",
+        "closing",
+        "Cost Accounting",
+        "Credit",
+        "English",
+        "external auditor",
+        "Finance",
+        "Financial",
+        "Financial Accounting",
+        "financial and management",
+        "Financial Reporting",
+        "financial statements",
+        "funds",
+        "GL",
+        "government",
+        "Hyperion",
+        "local government",
+        "Managing",
+        "Excel",
+        "Microsoft Office",
+        "Office",
+        "Power Point",
+        "Word",
+        "month end closing",
+        "payroll",
+        "processes",
+        "programmer",
+        "reporting",
+        "sales analysis",
+        "SAP",
+        "statutory accounts",
+        "tax compliance",
+        "tax planning",
+        "tax",
+        "Treasury",
+        "Written"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Financial Services",
+            "start_date": "07/2012",
+            "end_date": "08/2015",
+            "description": "Monthly salary: MYR 7,300. Responsible for daily operations, development and improvement of accounting processes including budget preparation, balance sheet, accounts receivable and payable transactions, payments and credit control. Preparation of all financial and management reporting and budgeting. Ensured accurate and timely monthly, quarterly and year-end close. Monitored treasury functions including funds management, cash flow planning and projection. Drafted full set audited financial statements and addressed audit queries. Responsible for tax computation, tax compliance and tax planning. Implemented GST and quarterly submissions. Liaised with auditors, tax agents, company secretary, bankers, external IT programmer and other authorities. Implemented new accounting system, HSBC online banking, CTOS and Polymath contract system. Managed withholding tax, intercompany billing. Monitored bad debts and trained staff as needed."
+        },
+        {
+            "title": "Assistant Finance Manager",
+            "company": "Manufacturing & General Trading",
+            "start_date": "05/2005",
+            "end_date": "07/2012",
+            "description": "Managed subsidiaries' month-end closing and consolidation; ensured accuracy, completeness and deadlines. Prepared, reviewed and submitted monthly, quarterly and annual financial reporting for subsidiaries. Prepared yearly budgets and consolidation of the division budget. Implemented financial consolidation system (BPC-SAP); provided training, support and maintenance for local and overseas subsidiaries. Data mapping and testing. Prepared draft statutory accounts and addressed audit issues. Credit control and collections. Treasury – trade finance, banking facilities, BA, bank guarantees and cash flow monitoring. Liaised with external auditors, company secretary, bankers, tax agents, lawyers and government authorities. Ensured timely tax computations and submissions. Led and supervised accounts staff on monthly management accounts. Oversaw taxation matters."
+        },
+        {
+            "title": "Accounts Executive / Junior Executive",
+            "company": "General Trading",
+            "start_date": "01/2000",
+            "end_date": "05/2005",
+            "description": "Prepared full set of accounts (GL, AR, AP), financial statements, monthly sales analysis, management reports, cash flow, payroll for management staff. Performed month-end closing and reconciled financial accounts; generated daily invoices and monthly intercompany billing and reconciliation. Supervised Accounts Payable and Receivable Officer. Reconciled bank statements, and monitored trade finance facilities (banker acceptance and letters of credit)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Finance",
+            "school": "Oklahoma State University",
+            "year": 1997
+        },
+        {
+            "degree": "Diploma: Banking",
+            "school": "Mara Institute of Technology (UITM)",
+            "year": 1995
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Bahasa Malaysia",
+        "English"
+    ]
+}

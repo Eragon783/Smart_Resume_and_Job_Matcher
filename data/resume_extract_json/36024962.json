@@ -1,0 +1,54 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Beloit, WI",
+    "summary": "Team-oriented accountant with experience in budgeting, forecasting, account reconciliation, and cash management. Proficient in QuickBooks, Intacct, financial statement reporting, Excel and Word; strong organizational and managerial skills.",
+    "skills": [
+        "accounting",
+        "AP",
+        "AR",
+        "balance sheet",
+        "Benefits",
+        "billing",
+        "cash flow",
+        "Cash Management",
+        "credit",
+        "Client",
+        "Finance",
+        "financials",
+        "Director",
+        "Payroll",
+        "year-end"
+    ],
+    "experience": [
+        {
+            "title": "General Accountant",
+            "company": "Comply365",
+            "start_date": "2016-01",
+            "end_date": "2016-11",
+            "description": "Managed accounting operations including AP, AR, and Payroll/Benefits; assisted with monthly/year-end close and annual audit; cash management - produced cash forecast and managed cash flow; assisted the CFO with the production of monthly financials, management reports, and board packages; maintained confidential information; prepared monthly and annual expense forecasts; analyzed costs and revenues to project future trends; prepared and maintained Cap Table."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Comply365",
+            "start_date": "",
+            "end_date": "",
+            "description": "AR: Prepared client invoices and researched/resolved collections and billing disputes. AP: Processed invoices and researched and resolved billing and invoice issues. Reconciled all bank and credit card accounts. Processed payroll, electronic deposits and employee pay adjustments. Reduced time and costs and increased efficiency by introducing new accounting procedures and software. Conducted month-end balance sheet reviews and reconciled any variances."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Accounting",
+            "school": "Upper Iowa University",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Science in Business Administration",
+            "school": "University of Illinois",
+            "year": "2015-16"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,61 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Recent graduate and highly motivated 15 year veteran of the construction industry looking to build a new career in the web development field. Passionate about taking a vision and making it a reality. Seeking an entry level position with a respected company to polish the skills I gained while pursuing my degree and to develop new ones.",
+    "skills": [
+        "Web Development",
+        "HTML",
+        "XHTML",
+        "CSS",
+        "XML",
+        "JavaScript",
+        "ASP.NET",
+        "ActionScript 3.0",
+        "PHP",
+        "Visual Basic",
+        "C#",
+        "Java",
+        "Adobe Flash",
+        "Adobe Photoshop",
+        "Adobe Dreamweaver",
+        "Microsoft Word",
+        "Microsoft Powerpoint",
+        "Microsoft Excel",
+        "Microsoft Visual Studio",
+        "Eclipse"
+    ],
+    "experience": [
+        {
+            "title": "Construction Worker",
+            "company": "Company Name, City, State",
+            "start_date": "2006-08",
+            "end_date": "Present",
+            "description": "Calculated needed materials and estimated time to complete tasks. Reviewed plans and requirements and translated those into goals. Measured, fabricated, and installed various building materials. Reduced job site errors and waste by implementing a more systematic and mathematical approach to the building process."
+        },
+        {
+            "title": "Property Maintenance Technician",
+            "company": "Company Name, City, State",
+            "start_date": "2004-05",
+            "end_date": "2006-06",
+            "description": "Performed structural repairs and upgrades at multiple rental properties. Ensured that the interior, exterior, and landscape of properties were clean and visually appealing. Resolved tenant complaints in a timely manner."
+        },
+        {
+            "title": "Painter",
+            "company": "Company Name, City, State",
+            "start_date": "2000-01",
+            "end_date": "2004-03",
+            "description": "Prepared surfaces to receive coatings in accordance to specifications. Applied the appropriate primer coatings for substrate and finish. Applied finish coatings in accordance with manufacturer and customer specifications."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : IT - Web Multimedia and Animation",
+            "school": "Kaplan University",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

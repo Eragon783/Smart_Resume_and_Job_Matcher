@@ -1,0 +1,84 @@
+{
+    "name": "Owen B Headman",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly skilled retired United States Army Sergeant with over 20 years of military experience in aviation and ammunitions supply management. Seeking a challenging career opportunity in aviation supply administration where my expertise in acquisitions, distribution, and accountability can be effectively applied towards achieving organizational objectives.",
+    "skills": [
+        "Accounting",
+        "ADR",
+        "Army",
+        "Budgeting",
+        "Oral Communication",
+        "Data entry",
+        "Documentation",
+        "Financial",
+        "Government",
+        "Inventory",
+        "Materials",
+        "Office",
+        "ESS",
+        "Monitors",
+        "Enterprise",
+        "Organizational",
+        "Processes",
+        "Purchasing Research",
+        "Safety",
+        "Stock Control",
+        "Written",
+        "Sales Software",
+        "Salesforce.com",
+        "TapScan",
+        "Public Relations Software",
+        "Bacon's MediaSource",
+        "Factiva",
+        "Desktop Publishing Software",
+        "Photoshop",
+        "Illustrator",
+        "HTML"
+    ],
+    "experience": [
+        {
+            "title": "Aviation Supply Specialist",
+            "company": "Aviation Supply Specialists",
+            "start_date": null,
+            "end_date": null,
+            "description": "Supervised highly technical functions in aviation supply management, including regulating and coordinating organizational supplies, equipment, and materials. Used automated material management systems for planning, provisioning, requirement determination, acquisition, distribution, and issue. Performed MICAP verification and related reports; managed fiscal accounting and purchasing procedures in compliance with Federal Acquisition regulations. Oversaw movement and storage of aviation supplies, procured military and commercial aviation equipment, and ensured proper storage and distribution. Operated warehouse management systems, asset accounting, and budgeting. Oversaw hazardous materials handling in compliance with regulatory guidelines. Conducted Supply Point inventories, reconciled discrepancies, and monitored item status. Processed LM MICAPs and reconciliations; handled DIFM listings and reconciliation with maintenance and supply customers; performed physical reconciliation; maintained bench stocks and performed other duties as assigned."
+        },
+        {
+            "title": "Ammunition Specialist",
+            "company": "Ammunition Stock and Control Manager",
+            "start_date": null,
+            "end_date": null,
+            "description": "Supervised receipt, storage, issue, and preparation of ammunition components and explosives valued at approximately five million dollars; supervised ammunition stock control and accounting; conducted munitions inspections and tests; developed organizational guidelines for ammunitions operations; ensured proper execution of combat training requiring the use of explosives and ammunitions. Maintained 100% accountability of ammunitions valued at $286 million during joint operations with U.S. and Honduran military; maintained a 100% accident-free record as Ammunition Stock Control Manager; severed with distinction in the United States Marine Corps and Army and retired with an honorable rating."
+        },
+        {
+            "title": "Hazardous Material and Handling",
+            "company": "Hazardous Material and Handling",
+            "start_date": null,
+            "end_date": null,
+            "description": "Extensive hazardous materials compliance management experience; familiar with inventory procedures; strong knowledge of equipment requisitioning and storage; extensive safety standards. Conducted environmental matters applicable to operational hazardous material/hazardous waste turn-ins; maintained accurate stock records and schedules; conducted monthly, quarterly and yearly inventories; inspected material conditions and recommended preservation, modification, laboratory analysis, or disposition. Implemented safety initiatives and oversaw the handling, storage, and disposal of hazardous materials in compliance with regulatory guidelines."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Hudson High School",
+            "year": 1992
+        },
+        {
+            "degree": "Undergraduate Coursework",
+            "school": "Park University",
+            "year": null
+        },
+        {
+            "degree": "Undergraduate Coursework",
+            "school": "University of Maryland University College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Secret Clearance"
+    ],
+    "languages": []
+}

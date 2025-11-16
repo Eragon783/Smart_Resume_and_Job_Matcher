@@ -1,0 +1,130 @@
+{
+    "name": "Tim",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Tim has been involved in user centered design for over 20 years, with a focus on human factors and usability. He is an expert with Heuristic evaluation, usability, developing and evaluating user interfaces (GUI design), iterative design methodology and human computer interaction (HCI).",
+    "skills": [
+        "User Centered Design",
+        "Human Computer Interaction (HCI)",
+        "Usability & Interaction Design",
+        "Usability engineering",
+        "Standards and guideline review",
+        "User interface design standards",
+        "Usability testing/Focus groups",
+        "Cognitive walkthroughs",
+        "Heuristic evaluation",
+        "Pluralistic walkthroughs",
+        "Website design",
+        "Interaction design",
+        "Personas",
+        "Use cases",
+        "Scenarios",
+        "Contextual Inquiries",
+        "Affinity Diagrams",
+        "Contextual Design",
+        "Ethnography",
+        "wireframes",
+        "user flows",
+        "Prototyping",
+        "Software development standards",
+        "Software testing",
+        "HTML authoring",
+        "3D modeling and programming",
+        "Advanced image manipulation and analysis",
+        "3D interfaces",
+        "Interactive digital prototyping",
+        "Artificial Intelligence",
+        "touch input",
+        "SQL",
+        "Agile Development",
+        "Security clearance",
+        "HIPAA",
+        "Healthcare",
+        "Medical Diagnostic Imaging systems",
+        "Electronic Medical Records",
+        "Training and instructional design",
+        "Project Management"
+    ],
+    "experience": [
+        {
+            "title": "Lead Interaction Designer",
+            "company": "Company Name",
+            "start_date": "2012-05",
+            "end_date": "Present",
+            "description": "Lead interaction designer on a nine person Agile software development team creating software for use in healthcare facilities. One of three BAs conducting user testing and interviews, data gathering, persona development, wire-framing, story writing, interface analysis, and usability evangelism. NHSN point of contact ensuring CDC compliance. Two-week sprint updates and increasing team velocity. Also on Wellness and Safety committees as floor warden and first responder."
+        },
+        {
+            "title": "VP of Engineering / Product Development Director",
+            "company": "Company Name",
+            "start_date": "2009-09",
+            "end_date": "2012-04",
+            "description": "Managed current suite of virtual reality software; designed future software and hardware offerings; vendor relations; client support; systems design; sensor design; quality control and QA; technology specialist; usability evangelist. Drove new technology opportunities and vision; developed online community around new products."
+        },
+        {
+            "title": "Innovation Engineer",
+            "company": "Company Name",
+            "start_date": "2009-09",
+            "end_date": "2012-04",
+            "description": "Bridged gap between need and technology. Created unique solutions for client needs. Projects included Intoxiclock ( migrated to multimedia netbook app; USB HID ), custom dynamic printouts; GermBot (UV-C retrofit for sterilization)."
+        },
+        {
+            "title": "Sr. Usability Engineer",
+            "company": "Company Name",
+            "start_date": "2007-02",
+            "end_date": "2009-09",
+            "description": "Resident usability expert in development of commercial and consumer fitness equipment. Migrated platform consoles from LED displays to advanced GUIs on LCDs. Produced interactive prototypes and conducted user testing. Developed tools to aid production and testing; created a multi-screen interactive kiosk for tradeshows. Built relationships with clients and partners."
+        },
+        {
+            "title": "Sr. Usability Specialist",
+            "company": "Company Name",
+            "start_date": "2006-04",
+            "end_date": "2007-02",
+            "description": "Sole User Centered Design person on a small team in emerging medical field. Managed UCD process and IEC 60601-1-6 usability requirements. Created personas, workflows, task lists, use cases, and engineering requirements. Used Macromedia Director to create high-fidelity prototype; ported to FLEX; conducted observational research and affinity diagramming."
+        },
+        {
+            "title": "Human Factors and Usability Engineer",
+            "company": "Company Name",
+            "start_date": "2003-10",
+            "end_date": "2005-03",
+            "description": "Human factors and usability design specialist and systems engineer for an electronic oral feedback device. Led design and development of clinical testing software and data visualization software. Developed patient-tracking database; GUI design and data visualization; iterative design with user feedback; 2D/3D visualization and simulation."
+        },
+        {
+            "title": "Project Manager and Human Factors / Usability Engineer consultant",
+            "company": "Company Name",
+            "start_date": "2001-08",
+            "end_date": "2002-09",
+            "description": "Defined GUI standards and software lifecycle from inception to delivery. Defined user interface for Palm and Windows CE devices. Detailed requirements gathering and client needs review."
+        },
+        {
+            "title": "Product Manager / Sr. Engineer",
+            "company": "Company Name",
+            "start_date": "2000-09",
+            "end_date": "2001-08",
+            "description": "Responsible for development cycle of Video Pics and Paparazzi Pics products. Defined products via prototypes and concepts; generated product specifications; served as a Human Factors advocate. Involved in heuristic evaluation, QA/QC, compatibility testing, version control, customer service, demos, online store setup, and partner relations."
+        },
+        {
+            "title": "Scientist",
+            "company": "Company Name",
+            "start_date": "1997-11",
+            "end_date": "2000-09",
+            "description": "Human factors and usability engineer on multiple projects. Designed TacGraph for Global 2000 wargames; studied 2D/3D interfaces; developed GUI for nurses' orders system for VA hospital; contributed to TacSAT interface design and experiments on decision making and multimodal perception."
+        },
+        {
+            "title": "Software Engineer and Human Factors / Usability Engineer",
+            "company": "Company Name",
+            "start_date": "1993-11",
+            "end_date": "1998-03",
+            "description": "Prototyping and user-centered design of GUI for Internet TV set top box; lead prototype engineering and project management for Timelapse; contributed to 9 cross-platform edutainment titles; led usability evangelism, focus groups, and field trials; managed marketing-ready demos and prototypes."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Cognitive Science",
+            "school": "University of California",
+            "year": "1993"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

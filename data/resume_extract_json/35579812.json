@@ -1,0 +1,64 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Hampton Cove, Alabama",
+    "summary": "Professional Summary: I have worked in fine dining, in hotels, for more than half of my career, and I also have experience in the hospital setting. I have been in the elderly care field for the last 20 years. I have menu creativity, and I can work a small budget or a large one. I don't believe in waste, therefore I will use leftovers to create wonderful soups, sauces and salads. Expert in managing kitchen staff and preparing foods at reduced cost without compromising quality and taste.",
+    "skills": [
+        "Team leadership",
+        "Budgeting and finance",
+        "Self-motivated",
+        "Strong verbal communication",
+        "Staff development",
+        "Employee training and development",
+        "Fine-dining expertise",
+        "Ordering and invoicing",
+        "CPR certification",
+        "ServSafe Certification",
+        "Process implementation",
+        "Institutional and batch cooking",
+        "Beautiful presentation of food",
+        "Strong attention to safe food handling procedures",
+        "Effective planner",
+        "Food presentation talent",
+        "Training personnel",
+        "Outgoing and energetic"
+    ],
+    "experience": [
+        {
+            "title": "Dining Services Coordinator",
+            "company": "Brookdale Hampton Cove",
+            "start_date": "2016-07",
+            "end_date": "Present",
+            "description": "Expertly estimating purchasing needs and buying through approved suppliers. Managing daily product inventory, purchasing and receiving. Effectively managed kitchen staff in producing food for banquets, catered events and member dining areas. Ensured a clean and safe environment by adhering to federal, state and local sanitation and safety requirements. Coordinated with the registered dietitian to comply with state regulations. Assisted with in-service trainings, cooked and coordinated with staff; stayed within budget and ordered all supplies and food for housekeeping, nurses, and kitchen staff. Also assisted with special dinners and holiday events; maintained food quality and safety."
+        },
+        {
+            "title": "Healthcare Kitchen Manager",
+            "company": "Unknown",
+            "start_date": "2011-10",
+            "end_date": "2015-01",
+            "description": "Established and maintained open, collaborative relationships with the kitchen team. Collaborated with the Food and Beverage Director to conduct staff meetings and resolve service, product and personnel issues. Collaborated with interdisciplinary care team to meet the nutritional needs of residents. Established healthful and therapeutic meal plans and menus. Coordinated nutrition care with other health care team members and delegated responsibilities."
+        },
+        {
+            "title": "Dining Services Director",
+            "company": "Unknown",
+            "start_date": "2007-07",
+            "end_date": "2011-10",
+            "description": "Communicated openly and honestly with the management team during each shift to ensure it ran smoothly. Focused on developing staff, ensuring resident satisfaction, and maintaining quality food service within regulatory guidelines."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Human Resources Management",
+            "school": "Faulkner University",
+            "year": "1998"
+        }
+    ],
+    "certifications": [
+        "ServSafe Certification",
+        "Serve Safe Management Certification",
+        "CPR Certification",
+        "Substance Abuse Counseling Certification (online)"
+    ],
+    "languages": []
+}

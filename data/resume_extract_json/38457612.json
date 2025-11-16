@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Mira Road, Thane, Maharashtra, India",
+    "summary": "Techno-functional IT professional with over 10 years of experience in IT infrastructure, security, network administration and data centre operations. Experienced in ISO 27001:2005 implementation, vulnerability assessment, and managing enterprise security solutions across multiple sites. Proven track record in planning, deploying and securing enterprise networks, managing backups, AD administration, and leading technical teams.",
+    "skills": [
+        "Active Directory",
+        "AD",
+        "Architect",
+        "CCNA",
+        "Cisco Certified",
+        "Clustering",
+        "Hardware",
+        "DHCP",
+        "DNS",
+        "Facilities Management",
+        "Firewall",
+        "IDS",
+        "IPS",
+        "Information Security",
+        "ISO 27001",
+        "Managing",
+        "Microsoft Certified",
+        "Mail",
+        "Office",
+        "Windows",
+        "Enterprise",
+        "Network Security",
+        "Network",
+        "Networking",
+        "Operating Systems",
+        "Proxy",
+        "Servers",
+        "Symantec",
+        "Systems Administration",
+        "Web Content Filtering",
+        "Barracuda Spam Firewall",
+        "Load Balancers",
+        "Blue Coat Web Content Filtering"
+    ],
+    "experience": [
+        {
+            "title": "Information Security Analyst / Consultant",
+            "company": "Jaiprakash Associates Limited (Jaypee Group)",
+            "start_date": "December 2008",
+            "end_date": "Present",
+            "description": "GAP analysis, policy and procedure management, OS hardening, information asset classification, managing SOA, vulnerability assessment, security operations, and deployment of security solutions. Implemented ISO 27001:2005 information security framework; deployed Symantec Endpoint Management, Juniper firewall, Radware Load Balancer, Barracuda Spam Firewall; managed Barracuda Spam Firewall and Blue Coat Web Content Filtering for remote sites. Conducted internal/external vulnerability assessments; led technology integration and group policy deployment; enforced application and device control; led a team of security professionals; provided end-user training; Active Directory health monitoring, DNS/DHCP, and AD replication."
+        },
+        {
+            "title": "System Engineer",
+            "company": "Vishnuprayag, Joshimath, Uttarakhand",
+            "start_date": "2002-07",
+            "end_date": "2004-06",
+            "description": "Hardware & network support."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "2004-06",
+            "end_date": "2008-03",
+            "description": "EDP/Facilities Management; interacted with 60 core sites for sourcing client security products and solutions; maintained asset database, tracked asset movements, software/hardware asset control; OS and application deployment; server/network/power monitoring."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering in Computer Science & Engineering",
+            "school": "Jawaharlal Institute of Technology (JIT), Rajiv Gandhi Proudyogiki Vishwavidhalaya, Bhopal",
+            "year": 2001
+        }
+    ],
+    "certifications": [
+        "CCNA (2006)",
+        "Microsoft Certified IT Professional (MCITP) (2011)",
+        "Symantec Certified Specialist (SCS) (2011)",
+        "Certified Ethical Hacker (CEH) (2013)"
+    ],
+    "languages": []
+}

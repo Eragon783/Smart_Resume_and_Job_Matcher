@@ -1,0 +1,81 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "English Teacher with excellent communication skills. Organized and driven with the innate ability to stay on task. Uses effective and efficient methods of teaching while focusing on the individual needs of each student. Highlights: Lesson planning expertise, MS Office proficient, Schedule creation and maintenance, Academic performance evaluations. Accomplishments: Served as Head Cheer Coach for 10 students in seventh and eighth grade; Co-sponsored Student Council and yearbook.",
+    "skills": [
+        "MS Office",
+        "Lesson planning",
+        "Schedule creation and maintenance",
+        "Academic performance evaluations",
+        "Curriculum development",
+        "Assessment data analysis",
+        "Classroom management",
+        "Parent and student relationships",
+        "Newsletter creation",
+        "Microsoft Word",
+        "Budgeting",
+        "Fundraising",
+        "Leadership",
+        "Professional development",
+        "Coaching (cheerleading)",
+        "Student council and yearbook coordination",
+        "Team collaboration",
+        "Special events planning"
+    ],
+    "experience": [
+        {
+            "title": "4th/5th Grade Teacher",
+            "company": "Company Name",
+            "start_date": "September 2015",
+            "end_date": "Current",
+            "description": "Create lesson plans and curriculum. Develop and use a variety of assessment data to refine curricula and instructional practice. Evaluate academic achievement through detailed analysis of student performance. Develop and maintain cohesive and positive classroom atmosphere and culture. Manage student behavior to ensure all students are fully engaged in learning. Prepare lesson plans and special instructions for substitutes. Build and maintain strong relationships with students and parents. Provide continual assessment of student progress and maintain student education records and secured data. Create monthly classroom newsletter to keep parents informed of class activities."
+        },
+        {
+            "title": "Eighth Grade English/Language Arts Teacher",
+            "company": "Company Name",
+            "start_date": "July 2011",
+            "end_date": "May 2015",
+            "description": "Create lesson plans and curriculum based on AZCCR Standards. Develop and use a variety of assessment data to refine curricula and instructional practice. Evaluate academic achievement through detailed analysis of student performance. Develop and maintain cohesive and positive classroom atmosphere and culture. Manage student behavior to ensure all students are fully engaged in learning. Prepare lesson plans and special instructions for substitutes. Build and maintain strong relationships with students and parents. Provide continual assessment of student progress and maintain student education records and secured data. Collaborate with resource specialists to meet the needs of all students. Attend and implement professional development training and learning throughout the school year. Highly-qualified in subject matter due to exceptional knowledge. worked with administration to put together student's schedule Create monthly classroom newsletter to keep parents up to date. Coach 7/8th grade cheerleading squad and serve as student council advisor. Planned and implemented fundraising efforts for both extracurricular activities and philanthropic organizations."
+        },
+        {
+            "title": "Site Director",
+            "company": "Company Name",
+            "start_date": "April 2008",
+            "end_date": "January 2011",
+            "description": "Supervise and interact with staff and children grades k-12 Create and implement RULES Insure that site meets DHS licensing standards Help to keep multipurpose room and storage area organized Greet parents and keep them informed of daily events Sign-in and account for all kids in program daily Keep bulletin board both up to date with DHS standards Create and implement duty roster Keep site files up to date and in order Evaluate and review staff performance Participate in bi-weekly staff meetings Supervise and plan special events. Plan and implement designed curriculum."
+        },
+        {
+            "title": "Activity Leader",
+            "company": "Company Name",
+            "start_date": "April 2007",
+            "end_date": "April 2008",
+            "description": "Supervise and interact with staff and children ages K-6 Create and implement incentive program for homework club and program Create and implement STAFF and KIDS RULES Insure that site meets DHS licensing standards Help to keep multipurpose room and storage area organized Greet parents and keep them informed of daily events Sign-in and account for all kids in program daily Keep bulletin board both up to date with DHS standards Create and implement duty roster Keep site files up to date and in order Evaluate and review staff performance Keep track of budget Attend and participate in management workshops Prepare for camps Received Fingerprint Clearance Card and DHS Directorship."
+        },
+        {
+            "title": "Program Manager",
+            "company": "Company Name",
+            "start_date": "January 2003",
+            "end_date": "December 2006",
+            "description": "Supervise, interact and evaluate staff and children ages K-5 Create and implement incentive program for homework club and program Plan and execute special events for kids and their families Help to keep multipurpose room, and supply closet organized Greet parents and keep them informed on daily events Sign-in and account for all kids in program daily Keep bulletin board both up to date and presentable at all times Create and implement duty roster and daily activities Keep site files up to date and organized Ensure that site meets DHS licensing standards Create monthly newsletter using Microsoft Word Keep track of budget and order supplies Attend and participate in leadership workshops Provide nutrition education as part of AzNN partnership Received DHS Directorship."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in English Literature Adolescence Community and Education",
+            "school": "University of Arizona",
+            "year": 2013
+        },
+        {
+            "degree": "Associate of Arts in General Education",
+            "school": "Central Arizona College",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "Fingerprint Clearance Card",
+        "DHS Directorship"
+    ],
+    "languages": []
+}

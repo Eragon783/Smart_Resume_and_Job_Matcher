@@ -1,0 +1,101 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Paradise Island, Bahamas",
+    "summary": "Summary Objective: To successfully implement my communication and engineering skills into a strong and growing company.",
+    "skills": [
+        "Electrical systems",
+        "Electrical maintenance",
+        "HVAC",
+        "Water treatment",
+        "Fire safety and security systems (Fire Alarm, CCTV)",
+        "Plumbing",
+        "Mechanical repairs",
+        "Troubleshooting and diagnostics",
+        "Preventive maintenance",
+        "Project management",
+        "Budgeting and cost control",
+        "Staff training and leadership",
+        "Vendors and contract management",
+        "Energy efficiency optimization",
+        "Generator load evaluation",
+        "Reading technical drawings and wiring diagrams",
+        "Carpentry and painting",
+        "Kitchen equipment repair",
+        "Laundry equipment repair",
+        "Safety compliance and regulatory knowledge (National Electrical Code)"
+    ],
+    "experience": [
+        {
+            "title": "Director of Engineering",
+            "company": "DoubleTree Suites by Hilton",
+            "start_date": "2014-01",
+            "end_date": "2016-01",
+            "description": "Familiar with hotel mission and standards; maintenance of kitchen and refrigeration equipment; troubleshooting and repair of commercial laundry; read and interpret technical information; manage maintenance staff; plan, schedule, and supervise; supervise tasks and projects; maintain safety compliance; oversee emergency and security systems; provide training; coordinate with vendors; budget and manpower planning; on-call manager on duty."
+        },
+        {
+            "title": "Director of Engineer",
+            "company": "Atlantis Paradise Island",
+            "start_date": "1993-01",
+            "end_date": "2010-01",
+            "description": "Oversee day-to-day operations of engineering; lead teams across multiple kitchens and restaurants; safety and sanitation inspections; manage inventories; oversee 400 guest rooms, pools, spas, laundries, boilers, chillers, generators; manage budgets; staff training; safety compliance; coordinate with property operations on Paradise Island; maintain capital and engineering budgets."
+        },
+        {
+            "title": "Chief Engineer",
+            "company": "Continental Luxury Property Management",
+            "start_date": "2016-01",
+            "end_date": "",
+            "description": "Evaluate electrical systems; install/repair electrical and air conduction systems; mentor maintenance staff on safety; develop positive customer relationships; monitor generator load; contribute to company's star rating."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Course: Revisions for the National Electrical Code, loads, Service, and Over current Protection",
+            "school": "Penn Foster School",
+            "year": "2014"
+        },
+        {
+            "degree": "EPA Section 608 Type Universal Certification",
+            "school": "Mainstream Engineering Corporation",
+            "year": ""
+        },
+        {
+            "degree": "Associate Degree",
+            "school": "Central Piedmont College",
+            "year": ""
+        },
+        {
+            "degree": "Mold Awareness & Inspection Certificate",
+            "school": "Mold Awareness & Inspection",
+            "year": "1993"
+        },
+        {
+            "degree": "ECM Maintenance Certificate",
+            "school": "ECM Maintenance",
+            "year": ""
+        },
+        {
+            "degree": "Certificate",
+            "school": "Florida Solar Energy School",
+            "year": ""
+        },
+        {
+            "degree": "Certificate",
+            "school": "Ashworth College",
+            "year": ""
+        },
+        {
+            "degree": "Training: Management Course",
+            "school": "Ritz Carlton Hotel",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "EPA Section 608 Type Universal Certification",
+        "Mold Awareness & Inspection Certificate",
+        "ECM Maintenance Certificate",
+        "Ritz Carlton Hotel Training: Management Course"
+    ],
+    "languages": []
+}

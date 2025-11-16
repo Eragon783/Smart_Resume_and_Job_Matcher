@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Organized, task oriented professional with experience in customer support. Background includes skilled active listener, strong customer service experience and ability to respond to the end-user in a business professional manner. I am highly effective in using technical domain knowledge. Self-starter committed to taking ownership and capable of completing assigned projects independently and in a team environment.",
+    "skills": [
+        "Data Entry",
+        "10-key data entry",
+        "Microsoft Excel",
+        "Microsoft Outlook",
+        "Microsoft Word",
+        "PC and MAC OS",
+        "Office Equipment",
+        "Administrative Services",
+        "Google Mail",
+        "Accounts payable",
+        "Accounts receivable",
+        "Customer Service",
+        "Inbound and outbound calls",
+        "Content Management",
+        "Data collection",
+        "Decision making",
+        "Delivery",
+        "Financial",
+        "Inventory",
+        "Loss prevention",
+        "MAC OS",
+        "Managing",
+        "Marketing",
+        "Mail",
+        "Proposals",
+        "Quality",
+        "Radio",
+        "Reporting",
+        "Researching",
+        "Sales",
+        "Statistics",
+        "Telephone",
+        "Web site"
+    ],
+    "experience": [
+        {
+            "title": "Telephone Interviewer",
+            "company": "The National Agricultural Statistics Service (NASS)",
+            "start_date": "04/2013",
+            "end_date": "Current",
+            "description": "Performs telephone interviews for surveys and censuses; telephones respondents to gain cooperation; obtains and records data on survey instruments; reviews information for completeness and assists in clerical processing of collected information; migrated thousands of documents into ECM and sunset legacy Intranet Server into a SharePoint environment; contributed to document categorization, metadata application and publishing for internal viewing; explained SharePoint concepts and facilitated collaboration and information sharing."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Credit Control, LLC",
+            "start_date": "05/2011",
+            "end_date": "12/2012",
+            "description": "Handled customer questions, complaints, and billing inquiries; resolved issues with one-call resolution; proactively offered alternative solutions to retain business; managed activations of new customer accounts; communicated with customers; frequently made financial decisions to protect/collect revenues and adjust customer accounts."
+        },
+        {
+            "title": "Sales Executive",
+            "company": "Company Name",
+            "start_date": "10/2010",
+            "end_date": "05/2011",
+            "description": "Secured potential client information to establish new internet service; monitored and reported on sales activities; advised customers on forthcoming product developments and promotions; reviewed personal sales performance, aimed to meet or exceed targets, and ensured customer satisfaction and quality of product and service delivery."
+        },
+        {
+            "title": "Stocking Associate",
+            "company": "Walmart",
+            "start_date": "12/2008",
+            "end_date": "11/2010",
+            "description": "Received materials into the store and prepared for shelves; checked deliveries for accuracy; organized stock room for labeling and placement; contributed to reducing store shrinkage by researching inventory discrepancies; communicated with partners about new arrivals, overages/shortages, and delivery delays; supported loss prevention efforts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Gateway Institute of Technology",
+            "year": 2012
+        },
+        {
+            "degree": null,
+            "school": "St. Louis Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

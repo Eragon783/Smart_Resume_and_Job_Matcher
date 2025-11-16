@@ -1,0 +1,114 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Florida, USA",
+    "summary": "Outgoing Gourmet Chef with 21 years of experience in FOH and BOH operations, specializing in hospitality etiquette, food preparation, and superior customer service. Proven ability in team building, project management, cross-functional leadership, and a broad range of culinary roles including gourmet, pastry, grill, and line cooking.",
+    "skills": [
+        "Team Building",
+        "Project Management",
+        "Cross Functional Team Leadership",
+        "Food Preparation",
+        "Cooking",
+        "Crew Leadership",
+        "Team Player",
+        "Gourmet Cooking",
+        "Pastry",
+        "Baker",
+        "Food Service",
+        "Sous Chef",
+        "Line Cook",
+        "Prep Cook",
+        "Executive Chef",
+        "Grill Cook",
+        "Deep Fryer",
+        "Beverage Designer",
+        "Menu Development",
+        "Restaurant Management",
+        "Hospitality Management",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "MCP",
+        "Windows 2000",
+        "Food Safety",
+        "ServSafe",
+        "Safe-Serv",
+        "Food Handlers Card"
+    ],
+    "experience": [
+        {
+            "title": "Food Preparation Workers/GRILL CHEF",
+            "company": "CONNECT",
+            "start_date": "2013-08",
+            "end_date": "2014-08",
+            "description": "Food preparation and grill duties; Food & Beverage Service; Gourmet @YOUR SERVICE. On-call 24/7."
+        },
+        {
+            "title": "Pastry Chef",
+            "company": "Company Name",
+            "start_date": "2013-07",
+            "end_date": "2014-06",
+            "description": "Prepare all foods for the line; Cook/Sous Chef; Serve finished meals on the front line; dishwasher, etc."
+        },
+        {
+            "title": "Grill Chef",
+            "company": "Unknown",
+            "start_date": "2010-03",
+            "end_date": "2013-05",
+            "description": "Prepared all line foods and desserts; per customer request."
+        },
+        {
+            "title": "Grill Master",
+            "company": "Unknown",
+            "start_date": "2001-04",
+            "end_date": "2010-08",
+            "description": "Grill all steaks to perfection; per customer orders and special requests."
+        },
+        {
+            "title": "Prep Chef",
+            "company": "Davie, FL",
+            "start_date": "2008-02",
+            "end_date": "2009-10",
+            "description": "Prep chef; sales vendor; team sales flyers; display menu development/specials."
+        },
+        {
+            "title": "Crew Leader and Kitchen Manager",
+            "company": "Unknown",
+            "start_date": "1995-09",
+            "end_date": "2000-12",
+            "description": "Assisted guests with menu choices; maintained knowledge of current menu; delivered exceptional service; suggested additional items; answered questions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "school": "Johnson & Wales University",
+            "year": "2010"
+        },
+        {
+            "degree": "Associate Degree",
+            "school": "Le Cordon Bleu Culinary College",
+            "year": "2007"
+        },
+        {
+            "degree": "Certification",
+            "school": "McFatter Technical College",
+            "year": "2006"
+        },
+        {
+            "degree": "Associate Degree",
+            "school": "Richard J. Daley College",
+            "year": "1977"
+        }
+    ],
+    "certifications": [
+        "ServSafe Food Protection Manager",
+        "Safe-Serv Food Safety",
+        "Food Handlers Card",
+        "MCP (Microsoft Certified Professional)",
+        "Microsoft Windows 2000 Certified Professional"
+    ],
+    "languages": [
+        "English"
+    ]
+}

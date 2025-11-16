@@ -1,0 +1,96 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Bilingual Account Executive with over 15 years of experience in sales leadership, managing up to 120 retail wireless doors for corporate indirect channels. Proven track record of exceeding sales goals, delivering customer-focused solutions, and training thousands of clients within Fortune 500 environments. Skilled in metrics, market analysis, forecasting, Salesforce, SaaS, and fluent in Spanish.",
+    "skills": [
+        "Account Management",
+        "Customer Service",
+        "Prospecting",
+        "Cold Calling",
+        "Strategic Account Development",
+        "Salesforce",
+        "SaaS",
+        "Market Analysis",
+        "Forecasting",
+        "Bilingual Spanish",
+        "Relationship Building",
+        "Training",
+        "Sales Leadership"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name – City, State",
+            "start_date": "November 2014",
+            "end_date": "Present",
+            "description": "More than 20 years of going above and beyond client expectations, providing sales training for thousands of clients within Fortune 500 corporations. Exceeding sales goals year after year, almost 3M in sales volume in 2014, and expanding knowledge into the International field in sales."
+        },
+        {
+            "title": "Sales",
+            "company": "Company Name – City, State",
+            "start_date": "July 2013",
+            "end_date": "October 2014",
+            "description": "Top Producer in July 2014; 1.8M in Sales Volume; earned CIPS certification (Certified International Property Specialist); licensing covering 40 countries to accommodate client needs looking to purchase outside the US or International clients looking to purchase within the United States."
+        },
+        {
+            "title": "Portfolio Manager, Real Estate Investments",
+            "company": "Company Name – City, State",
+            "start_date": "March 2011",
+            "end_date": "July 2013",
+            "description": "Portfolio Manager for local, national accounts. Provided training for Real Estate investors, first time home buyers. Provided market analysis, forecast, problem solve, enable a smooth transaction."
+        },
+        {
+            "title": "Sales",
+            "company": "Company Name – City, State",
+            "start_date": "November 2006",
+            "end_date": "March 2011",
+            "description": "Over 2 million in volume sold within first year. Generate leads and referrals through prospecting, cold calling, networking. Provide training for Real Estate investors, first time home buyers. Provide market analysis, forecast, problem solve, enable a smooth transaction."
+        },
+        {
+            "title": "Territory Field Representative",
+            "company": "Company Name – City, State",
+            "start_date": "August 2009",
+            "end_date": "February 2010",
+            "description": "Business development, managed a portfolio of up to 120 account doors. Exceeded monthly sales quota objectives by acquiring and managing small to medium sized businesses. Provided training for businesses, customers enabling a smooth transition to support team and reduced churn."
+        },
+        {
+            "title": "Indirect Account Field Representative",
+            "company": "Company Name – City, State",
+            "start_date": "November 2002",
+            "end_date": "October 2006",
+            "description": "Corporate Indirect Operations; Training and Indirect Account Management Training completed in 2004, 2005, 2006 Irvine, CA Campus. Business development, sales/product training, metrics/market/competitive analysis, sales, special events, trade shows, generating leads by cold calling, relationship building and networking. Provided training for new accounts, provided problem solving training, retention training and training on reducing churn, enabling a smooth transition to the internal Verizon support team."
+        },
+        {
+            "title": "Retail Sales Representative",
+            "company": "Company Name – City, State",
+            "start_date": "December 1999",
+            "end_date": "December 2002",
+            "description": "Multiple Awards for Sales Excellence, Customer Service and Top Sales Producer. Recommended wireless solutions to new and existing accounts. Provided training to new accounts, new customers including sales training for new employees."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Real Estate Sales License",
+            "school": "Austin Institute of Real Estate",
+            "year": "2006"
+        },
+        {
+            "degree": "General Education/ Communications",
+            "school": "Purdue University",
+            "year": ""
+        },
+        {
+            "-degree": "Communications/ Marketing",
+            "school": "Long Beach City College",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "CIPS Certification (Certified International Property Specialist)"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

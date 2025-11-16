@@ -1,0 +1,52 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Customer Service Representative who maintains a high level of professionalism, patience and efficiency to minimize customer dissatisfaction and increase customer loyalty.",
+    "skills": [
+        "High customer service standards",
+        "Call center management experience",
+        "Proficient in customer account software",
+        "Strong problem solving ability",
+        "Conflict resolution proficiency",
+        "Customer Relationship Management software (CRM)",
+        "Professional",
+        "Friendly",
+        "Compassionate",
+        "Active listener",
+        "Multi-task"
+    ],
+    "experience": [
+        {
+            "title": "Advisor",
+            "company": "Company Name",
+            "start_date": "2007-02",
+            "end_date": "2016-08",
+            "description": "Supervise a team of over 10 employees. Make adjustments on customer accounts as needed. Assist itune customers by adding or deleting services and products. As an adviser I am the customer's first point of contact representing Apple Support many popular products like iPhones, iPads, MacBooks, and desktop Macs."
+        },
+        {
+            "title": "Healthcare Representative",
+            "company": "Company Name",
+            "start_date": "2005-08",
+            "end_date": "2007-02",
+            "description": "Looked up members charts to give lab results upon request. Assisted Members with appointments, referrals and transferring to a nurse. Maintained 100% compliance with all hospital and government regulations (HIPPA). Confirmed and updated personal information every call to make sure Kaiser member accounts were up to date."
+        },
+        {
+            "title": "Billing Specialist Supervisor",
+            "company": "Company Name",
+            "start_date": "2001-04",
+            "end_date": "2005-08",
+            "description": "Supervised 10-15 call center employees. Provided employee training as needed to my team. Assisted Comcast customers with billing inquiries and disputes. Implemented employee incentives to keep up employee morale."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Business Management",
+            "school": "University of Phoenix",
+            "year": 2017
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

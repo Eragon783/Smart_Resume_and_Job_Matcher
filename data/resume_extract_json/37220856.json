@@ -1,0 +1,92 @@
+{
+    "name": null,
+    "email": null,
+    "phone": "7184650651",
+    "location": null,
+    "summary": "Dedicated Activity Specialist and educator with 10+ years of vocal training and 8+ years of teaching experience. Experience in music education, special education, and hands-on learning. Skilled collaborator with teachers and parents, strong communicator and problem-solver, proficient with MS Office suite and design/education tools. Passionate about helping students reach their full potential.",
+    "skills": [
+        "Vocal instruction",
+        "Music education",
+        "Special education",
+        "Classroom management",
+        "First Aid and CPR",
+        "Smartboard technology",
+        "Scheduling proficiency",
+        "Microsoft Word",
+        "Photoshop",
+        "Filemaker",
+        "HTML",
+        "MS Office",
+        "Peer Counseling",
+        "Customer Service",
+        "Retail/Sales",
+        "Supervision",
+        "Dramatic Theater",
+        "Leadership",
+        "Lesson planning",
+        "Arts curriculum development",
+        "Autism awareness",
+        "Bilingual education"
+    ],
+    "experience": [
+        {
+            "title": "Activity Specialist",
+            "company": "Company Name, City , State",
+            "start_date": "June 2001",
+            "end_date": "August 2013",
+            "description": "Counselor for ages 6-12; supervision of children and tutor in music and recreational activities. Routinely met with students' parents regarding in-class issues and learning interruptions to discuss solutions. Performed student background reviews to develop tailored lessons based on student needs. Created and enforced child-based hands-on curriculum to promote student interest and receptive learning. Earned positive verbal/written feedback from parents regarding classroom instruction and student learning success. Developed course plans to meet academic, intellectual and social needs of students."
+        },
+        {
+            "title": "Lead Teacher Chorus",
+            "company": "Company Name, City , State",
+            "start_date": "January 2009",
+            "end_date": "September 2011",
+            "description": "Set up and conducted school choir in numerous productions of vocal music. Provided aural training through performance of music, talks, discussions, use of audiovisual equipment, practical vocal music and written assignments. Trained students for vocal performances in school and abroad at the Colonial Theatre in Pittsfield, Massachusetts for two consecutive years."
+        },
+        {
+            "title": "Activity Specialist / Lead Teacher",
+            "company": "Company Name, City , State",
+            "start_date": "January 2009",
+            "end_date": "September 2011",
+            "description": "Created a learning environment for students by stimulating purposeful assignments conducive to their immediate environments. Guided students to create food drives, recycling campaigns, and help provide aid to countries in need."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name, City , State",
+            "start_date": "September 2004",
+            "end_date": "September 2011",
+            "description": "Retail services in Shoe department. Participated in daily operational functions of the store. Delivered superior quality service while adhering to corporate, regulatory and audit guidelines. Provided timely and efficient completion of client transactions while maintaining accurate customer service and thorough handling of all sales."
+        },
+        {
+            "title": "Classroom Teacher",
+            "company": "Company Name, City , State",
+            "start_date": "January 2007",
+            "end_date": "June 2008",
+            "description": "Facilitate classroom training to both English and bilingual students in vocal music, music history, and school productions. Headed the performing arts department in design, development, costuming and maintenance of art materials as well as set design by evaluating the effectiveness of the performing arts through instrumental/vocal music, dance, drama, art and technology. Co-facilitated weekly meetings and helped implement changes to improve student growth."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Professional Music",
+            "school": "Berklee College of Music, Boston, MA",
+            "year": 2006
+        },
+        {
+            "degree": "Minor in Music Education",
+            "school": "Berklee College of Music",
+            "year": 2006
+        },
+        {
+            "degree": "Music Diploma - Voice and Music Theory",
+            "school": "Bayside High School",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        "Substitute Teaching Certificate",
+        "First Aid and CPR Certified"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Administrative professional with extensive experience in academia, sales, customer service in a number of venues. Highly competent in persuasive customer communication as particularly evidenced in the six years of serving as an on-line sales consultant and business owner. Desires a position in customer service where compelling communication plays a strong role.",
+    "skills": [
+        "Customer service",
+        "Excel",
+        "Microsoft Office",
+        "Reports generation and analysis",
+        "Contract negotiation/review/drafting",
+        "Quick learner",
+        "Training and development",
+        "Academic adviser and analyst",
+        "Grant writing",
+        "Leadership",
+        "Marketing strategies",
+        "Office skills",
+        "Sales",
+        "Published and technical writing"
+    ],
+    "experience": [
+        {
+            "title": "Adjunct Instructor, Volunteer Career Adviser",
+            "company": "Company Name",
+            "start_date": "2013-10",
+            "end_date": "Present",
+            "description": "Teach courses on American and International Politics. Work with career staff to assist undecided and graduating seniors."
+        },
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "Present",
+            "description": "Began consultancy as a professional and academic writer specializing in grant writing projects. Currently completing coursework in the extension program at the University California at Irvine program for certification as an Independent Educational Consultant."
+        },
+        {
+            "title": "Organizational Culture Advisor, Customer Service Agent (Project work)",
+            "company": "Company Name",
+            "start_date": "2014-07",
+            "end_date": "2014-10",
+            "description": "Performed all duties related to the sales and promotion of architectural products. Worked with Vice-President on conceptualizing new ways in workforce training."
+        },
+        {
+            "title": "Apparel Associate -Seasonal Position",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2014-01",
+            "description": "Maintained organization of fitting rooms. Managed return purchases. Worked the register at times of peak business."
+        },
+        {
+            "title": "Secretary to the Board of Directors",
+            "company": "Company Name",
+            "start_date": "2012-10",
+            "end_date": "2013-10",
+            "description": "Liaison for the Board to ameliorate tensions between parties during the time the Theatre closed."
+        },
+        {
+            "title": "Director of Education Programs",
+            "company": "Company Name",
+            "start_date": "2005-10",
+            "end_date": "2009-01",
+            "description": "Conceptualized and designed a program to retain Millennial and Boomer talent at early career stages and facilitate cross-generational collaboration. Worked with CEO in development of national marketing strategies and product for Millennial 'at-risk' students, responsible for assessments and debriefings of key client stakeholders."
+        },
+        {
+            "title": "Director of Career Services",
+            "company": "Company Name",
+            "start_date": "2002-07",
+            "end_date": "2005-10",
+            "description": "Changed career services office to career development/service learning model based on Cognitive Information Processing model (one of only 16 such centers nationwide). Realized 40% increase in student usage of services and 67% increase in job placement. Developed a Leadership Fellows Program for national experiential learning opportunities. Changed curriculum to include course for rising sophomores/transitioning juniors: \"Seminar on Career Development and Professionalism\" combining both theory and extensive praxis Received institutional recognition based on Center achievements. Personally recognized as one of only 3 departmental directors to achieve highest levels of performance excellence, i.e. pushing University forward."
+        },
+        {
+            "title": "Graduation Auditor/Adjunct Assistant Professor",
+            "company": "Company Name",
+            "start_date": "2001-10",
+            "end_date": "2002-04",
+            "description": "Served as assistant registrar in addition to responsibilities of auditing every senior for suitability to graduate. Also taught courses as Visiting Assistant Professor."
+        },
+        {
+            "title": "Adjunct Associate Professor/Academic Advisor",
+            "company": "Company Name",
+            "start_date": "1996-10",
+            "end_date": "2001-04",
+            "description": "Taught 6 classes on Organizational Behavior and Politics. Advised over 100 students."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A., Middle East Studies",
+            "school": "Fordham University",
+            "year": "1986"
+        },
+        {
+            "degree": "M.A., Political Science",
+            "school": "Fordham University",
+            "year": "1989"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

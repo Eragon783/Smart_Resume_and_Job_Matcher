@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "318-243-9294",
+    "location": "Louisiana, USA",
+    "summary": "Experienced elementary school teacher with a B.A. in History and Music Education and alternative certification (K-5). Over seven years of classroom experience in culturally diverse Title I settings. Strong commitment to inclusive teaching, engaging lessons, and applying 21st-century skills to prepare students for national and international competition.",
+    "skills": [
+        "academic",
+        "charts",
+        "delivery",
+        "equity",
+        "instruction",
+        "Lesson Planning",
+        "Math",
+        "Microsoft Office",
+        "progress",
+        "Reporting"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "August 2015",
+            "end_date": "Current",
+            "description": "Implemented diverse approaches to ensure understanding of course material and overall academic success. Analyzed student learning and planned and administered a variety of appropriate assessments. Ensured effective and positive parent communication. Participated in ongoing planning, development, and evaluation of curriculum. Used a variety of instructional strategies to provide equity and excellence to students of all ability levels. Worked cooperatively with other teachers in developing and sharing curriculum strategies."
+        },
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "August 2010",
+            "end_date": "May 2015",
+            "description": "4th grade Math, ELA. Planned, implemented, monitored and assessed a classroom instructional program which was consistent with the Jackson Parish School Board regulations and Louisiana Board of Education. Worked with other teachers and administrators to evaluate and revise elementary school programs. Encouraged students with special academic interests to fully pursue those subjects. Planned, implemented and thoroughly monitored 504 and Special Education accommodations for students with learning exceptionalities. Presented various techniques and strategies for delivery of classroom instructions using manipulative and hands-on approaches in Math, and Science."
+        },
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "August 2007",
+            "end_date": "July 2010",
+            "description": "Worked with interdisciplinary team members to evaluate children's progress and recommend appropriate learning plans. Monitored students' educational progress with individual charts and files. Nurtured a supportive learning environment that was often used as a model for other classrooms."
+        },
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "May 2008",
+            "end_date": "September 2008",
+            "description": "Coordinated communications between students and school administration to create an effective and culturally-sensitive learning environment. Developed and taught a curriculum to improve students' conversational abilities. Improved instruction methods by using a variety of assessment tools and strategies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Elementary Education (1-5)",
+            "school": "Grambling State University",
+            "year": "2010"
+        },
+        {
+            "degree": "Bachelor of Arts: History, Music Education",
+            "school": "Louisiana Tech University",
+            "year": "2007"
+        }
+    ],
+    "certifications": [
+        "Alt. Certification (K-5)",
+        "Certified Elementary School Teacher (Grades 1-5) Level 2 Teaching Certification (Louisiana)"
+    ],
+    "languages": []
+}

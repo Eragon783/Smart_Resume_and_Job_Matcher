@@ -1,0 +1,62 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Military professional with 11 years of experience in team management, administrative accountability and supply management in aviation. Managed over $300 million in equipment with 100% accountability; experienced in warehousing, logistics planning, data management, and customer service. Skilled leader with Six Sigma Inventory Specialist capabilities, HAZMAT handling, emergency response, and CPR certification; holds a Secret Security Clearance and a CA driver license.",
+    "skills": [
+        "Six Sigma",
+        "Inventory management",
+        "Logistics planning",
+        "Data management",
+        "HAZMAT handling",
+        "Emergency response",
+        "CPR certified",
+        "Secret Security Clearance",
+        "CA driver license",
+        "Team leadership",
+        "Warehouse management",
+        "Customer service",
+        "Fiscal accounting",
+        "Purchasing procedures"
+    ],
+    "experience": [
+        {
+            "title": "Aviation Supply Specialist",
+            "company": "Company Name",
+            "start_date": "2002-05",
+            "end_date": "2013-07",
+            "description": "The supply administration and operations field includes aviation supply specialists who supervise, lead, or perform highly technical functions in aviation unique applications of managing, regulating, coordinating, or otherwise exercising control over supplies, equipment, or other material. The work includes automated material management including initial planning, provisioning and requirements determination, acquisition and distribution, accountability, and ultimate issue for consumption, retention or disposal. Fiscal accounting and purchasing procedures are performed in accordance with Federal Acquisition Regulations. Qualifications required include personal computer operation skills, familiarity with terminology, proficiency in keyboarding, basic understanding of data entry, application, and manipulation. Duties involved administrative and government specific procedures for the use of material."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BASIC LEADERSHIP AND MILITARY STUDIES",
+            "school": "Marine Corps Institute",
+            "year": 2013
+        },
+        {
+            "degree": "Military Leadership",
+            "school": "Marine Corps Institute",
+            "year": 2006
+        },
+        {
+            "degree": "NAVAL AVIATION SURVIVAL TRAINING",
+            "school": "Marine Corps Institute",
+            "year": 2006
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Monroe Senior High",
+            "year": 2001
+        }
+    ],
+    "certifications": [
+        "CPR certified",
+        "Secret Security Clearance",
+        "CA driver license",
+        "HAZMAT handling",
+        "Six Sigma"
+    ],
+    "languages": []
+}

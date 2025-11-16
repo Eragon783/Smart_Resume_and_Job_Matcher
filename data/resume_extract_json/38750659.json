@@ -1,0 +1,131 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "An experienced human resource training professional with demonstrated success in developing, delivering and evaluating, corporate training programs, 2+ years of work with newly developed tools for rapid e-learning development. Special skills in online training for a variety of audiences. Recognized for alignment of training solutions with business goals, management of project and people, process improvement, needs analysis and training evaluation.",
+    "skills": [
+        "Microsoft Words",
+        "Outlook",
+        "Internet",
+        "PowerPoint",
+        "ADDIE MODEL",
+        "Microsoft Office",
+        "Adobe Photoshop",
+        "Audacity",
+        "Sound Booth",
+        "Moodle",
+        "AdobeCS5",
+        "Captivate",
+        "Adobe Premier",
+        "Flash",
+        "Blackboard 9.1",
+        "PeopleSoft",
+        "Benefits",
+        "communication skills",
+        "conferences",
+        "Curriculum Development",
+        "Human Resource",
+        "instruction",
+        "Lesson planning",
+        "lesson plans",
+        "materials",
+        "office",
+        "needs assessment",
+        "progress",
+        "proposal writing",
+        "quality",
+        "sales training",
+        "Sound",
+        "supervisor",
+        "training material",
+        "training programs"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "January 2016",
+            "description": "Performed regular classroom instruction based on a departmentalized third grade curriculum. Maintained a classroom environment conducive to learning. Conducted conferences with parents. Monitored and evaluated student progress. Developed curriculum; prepared goals and objectives; created lesson plans."
+        },
+        {
+            "title": "Instructional Designer",
+            "company": "Company Name",
+            "start_date": "January 2009",
+            "end_date": "January 2013",
+            "description": "Designed/ developed training programs and curriculum. Digital learning technology. ADDIE Model training specialist. Administration workforce morale training specialist."
+        },
+        {
+            "title": "Employment, Training & Development Manager",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "January 2009",
+            "description": "Worked in a virtual environment, created blended learning solutions that helped move Circuit City Stores to an enthusiasm for e-learning. Learned a complex product and created face-to-face sales training materials on this product, delivering within a very short deadline. Recognized for the quality of the training material. Designed and implemented human resource and digital training programs for 350 employees. Using collaborative software, designed Web-based experiences for practicing and perfecting job skills."
+        },
+        {
+            "title": "Human Resource Generalist",
+            "company": "Company Name",
+            "start_date": "January 2000",
+            "end_date": "January 2007",
+            "description": "Implemented effective HR policies to ensure all practices are in compliance with labor and employment regulations. Administered new employee orientation training. Increased employee retention above 90% by rigorously maintaining a positive work environment. Developed user friendly application forms and questionnaires to be used by the organization during staff recruiting and interviewing. Created a website with an embedded database and functionality to enable online recruitment for organization and reducing recruitment cost by 20%. Conducted several seminars for hospital employees to update them on employee benefits options."
+        },
+        {
+            "title": "Academic Advisor",
+            "company": "Company Name",
+            "start_date": "January 2003",
+            "end_date": "January 2005",
+            "description": "Operations administrator. Student transcript/records review. Dynamic knowledge base of outstanding communication skills: report/proposal writing and person-to-person."
+        },
+        {
+            "title": "Fourth Grade Teacher",
+            "company": "Company Name",
+            "start_date": "January 2000",
+            "end_date": "January 2003",
+            "description": "Lesson planning. Communication with parents, administration and colleagues. Student assessment."
+        },
+        {
+            "title": "Fourth Grade Teacher",
+            "company": "Company Name",
+            "start_date": "January 1998",
+            "end_date": "January 2000",
+            "description": "Lesson planning. Communication with parents, administration& colleagues. Student assessment."
+        },
+        {
+            "title": "Human Resource Specialist",
+            "company": "Company Name",
+            "start_date": "January 1991",
+            "end_date": "September 2000",
+            "description": "Invited 20 motivational speakers and industry experts to give lectures and speeches to employees on new industry standards and how to build confidence and morale in the workplace. Updated 100+ employee records and job assignment daily. Conducted several seminars for insurance employees to update them on employee benefit options. Arbitrate labor dispute in collaboration with the legal department."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma in Instructional Design",
+            "school": "Walden University",
+            "year": null
+        },
+        {
+            "degree": "Master's Degree in Education",
+            "school": "Texas A&M University",
+            "year": null
+        },
+        {
+            "degree": "Master's Degree in Training & Development",
+            "school": "Texas A&M University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science in Liberal Arts",
+            "school": "Excelsior College",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science in Business Management",
+            "school": "University of the Virgin Islands",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

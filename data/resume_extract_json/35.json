@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Ramat Gan",
+    "summary": "Mobile Developer with 3 years of experience. Proficient in Java, Kotlin, Swift and C#. Experienced with Android and iOS platforms, Unity, MVVM/MVP patterns, Dagger, Architecture components, OOP/SOLID, REST, Web Sockets, and Git flow.",
+    "skills": [
+        "Java",
+        "Kotlin",
+        "Swift",
+        "C#",
+        "Android",
+        "iOS",
+        "Unity",
+        "MVVM",
+        "MVP",
+        "Dagger",
+        "Architecture components",
+        "OOP",
+        "SOLID",
+        "REST",
+        "Web Sockets",
+        "Git flow"
+    ],
+    "experience": [
+        {
+            "title": "Mobile Developer (part time)",
+            "company": "KeepIn Ltd.",
+            "start_date": "2019-10",
+            "end_date": "present",
+            "description": "KeepIn: implement localization, work with contacts synchronization, refactor code. Stack: Java, Swift, REST API, MVC"
+        },
+        {
+            "title": "Mobile Developer",
+            "company": "Key-Group",
+            "start_date": "2017-07",
+            "end_date": "2019-10",
+            "description": "Gettransfer: developed app for Android with 1+ million downloads and 4+ rating; led project (task management, code review, time estimation, app reliability, build delivery). Stack: Kotlin, Clean Architecture, MVVM, Google API, Rest API, Socket IO, Kotlin Coroutines, CI"
+        },
+        {
+            "title": "Mobile Developer",
+            "company": "Key-Group",
+            "start_date": "2017-07",
+            "end_date": "2019-10",
+            "description": "Areal: developed from scratch to release iOS AR app with 3D map of Saint-Petersburg. Was featured by App Store. Stack: C#, Unity Engine, ARKit 1.5, MapBox SDK"
+        },
+        {
+            "title": "Mobile Developer",
+            "company": "Key-Group",
+            "start_date": "2017-07",
+            "end_date": "2019-10",
+            "description": "SuperSale: in both, Android and iOS, improved code base, integrated SDK for monetization, redesigned UI according to Material. Stack: Java, Swift, MVP/MVC, Google API, REST API, Dagger"
+        },
+        {
+            "title": "Student (Java and Android developer)",
+            "company": "Tel-Ran",
+            "start_date": "2016-09",
+            "end_date": "2017-06",
+            "description": "MarketPlace: developed Android app for services at home, designed service architecture. Stack: Java, MVC, RxJava, Google API, REST API"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Information System Engineer",
+            "school": "Moscow University of geo data",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English (fluent)",
+        "Hebrew (beginner)",
+        "Russian (native)"
+    ]
+}

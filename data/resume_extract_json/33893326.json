@@ -1,0 +1,94 @@
+{
+    "name": "Ale Deiulii",
+    "email": null,
+    "phone": null,
+    "location": "Milan, Italy",
+    "summary": "Media Buying and Optimization professional with experience since 2011 in digital advertising, including telemarketing, campaign planning, email marketing, affiliation marketing, and performance analysis. Proficient in DEM, SEO/SEM, web analytics, and campaign optimization with a track record across major brands.",
+    "skills": [
+        "Telemarketing",
+        "Web Marketing",
+        "Display Advertising",
+        "Direct Email Marketing",
+        "Microsoft Office",
+        "NetBox",
+        "AdRelevance",
+        "Nielsen Audiweb",
+        "Amnet platform",
+        "Mobile advertising",
+        "Tablet advertising",
+        "Competitive analysis",
+        "Strategy and performance analysis",
+        "SEO",
+        "SEM",
+        "Web Analytics",
+        "E-Commerce",
+        "Mobile Commerce",
+        "Social Commerce",
+        "Email Marketing",
+        "Facebook Marketing",
+        "Inbound Marketing",
+        "Lead Generation",
+        "Public relations"
+    ],
+    "experience": [
+        {
+            "title": "JR Publisher Manager",
+            "company": "Clickpoint",
+            "start_date": "2014-01",
+            "end_date": "2014-03",
+            "description": "Planning Direct Email Marketing campaigns; Managing relationships with publishers; define online campaigns pipelines; suggest campaigns for reference database; define remuneration models; DEM campaigns on targeted databases; monitor previews and approvals; marketing analysis; campaign optimization."
+        },
+        {
+            "title": "JR Digital Media Planner",
+            "company": "Aegis Media",
+            "start_date": "2011-11",
+            "end_date": "2013-11",
+            "description": "Planning advertising campaigns on desktop and mobile/tablet; data-mining of competition data; drafting proposals for space planning and budget allocation; purchasing and booking ad spaces; campaign processing and optimization; post-campaign evaluation."
+        },
+        {
+            "title": "Business developer",
+            "company": "ART STUDIO 3 s.n.c.",
+            "start_date": "2011-10",
+            "end_date": "2011-11",
+            "description": "Acquisition of potential clients; telemarketing activities; preparing and sending presentations; managing customers portfolio."
+        },
+        {
+            "title": "Assistant to bank clerks",
+            "company": "Banca Popolare di Milano",
+            "start_date": "2006-06",
+            "end_date": "2006-07",
+            "description": "Assistance to the heads of financial transactions; gained knowledge of roles and working dynamics within the financial department."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master, Digital & Social Media Marketing",
+            "school": "Digital-Coach Institute",
+            "year": 2014
+        },
+        {
+            "degree": "Diploma, Accounting, Commercial and Coder",
+            "school": "Istituto Tecnico Commerciale G. Maggiolini - Milan (ITALY)",
+            "year": 2007
+        },
+        {
+            "degree": "ECDL European Computer Driving Licence Certificate",
+            "school": "Istituto Tecnico Commerciale G. Maggiolini - Milan (ITALY)",
+            "year": 2007
+        },
+        {
+            "degree": "Degree in Advertising and Public Relations",
+            "school": "Advertising and Public Relations",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "Waystage 3 Certificate - English Language",
+        "ECDL European Computer Driving Licence Certificate"
+    ],
+    "languages": [
+        "Italian (native)",
+        "English (intermediate)",
+        "Spanish (moderate)"
+    ]
+}

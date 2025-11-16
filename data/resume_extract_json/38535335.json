@@ -1,0 +1,60 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "I desire to work for a company that provides career advancement opportunities in a friendly environment. I would like to develop skills that make me proficient in my job and an asset to the company. I have a varied skill set and enjoy learning new techniques.",
+    "skills": [
+        "Word",
+        "SAP",
+        "Time Approval",
+        "Excel",
+        "Travel Arranger",
+        "Access",
+        "Database",
+        "Purchase Reqs in SAP",
+        "OutLook",
+        "IOs in SAP",
+        "Pcard purchases",
+        "Royalty Agreement Tracking"
+    ],
+    "experience": [
+        {
+            "title": "ENGINEERING COORDINATOR",
+            "company": "Company Name, City, State",
+            "start_date": "Jul 1996",
+            "end_date": "Jul 2016",
+            "description": "Proprietary Software License Administrator, Created database for internal and external customer tracking SAP Labor entry and approval for Systems R&D and Destructive Technology Groups SAP IO creation and Purchase requisitions Travel arranger for various group members Purchase Card for general and project supplies Patent meeting organization and award banquet dinners Meeting & Travel scheduling."
+        },
+        {
+            "title": "FACILITIES TEMP",
+            "company": "Company Name, City, State",
+            "start_date": "Nov 1995",
+            "end_date": "Jul 1996",
+            "description": ""
+        },
+        {
+            "title": "FACILITIES ADMINISTRATOR",
+            "company": "Company Name, City, State",
+            "start_date": "Oct 1993",
+            "end_date": "Nov 1995",
+            "description": "Ordered parts and supplies. Maintained budget plan. Received several achievement awards."
+        },
+        {
+            "title": "BULK TELLER",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 1990",
+            "end_date": "Oct 1992",
+            "description": "Vault commercial account teller. Bulk teller."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts, Administrative Assistance",
+            "school": "Oklahoma Jr. College",
+            "year": 1990
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

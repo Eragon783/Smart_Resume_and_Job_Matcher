@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State, Philippines",
+    "summary": "Results oriented, dependable and motivated professional with 15 years of various experience in the field of accounting, payroll, tax, procurement and administration. Desires a challenging role in business processes.",
+    "skills": [
+        "Accounting",
+        "accounting system",
+        "accounts payable",
+        "accounts receivable",
+        "acquisitions",
+        "benefits",
+        "billings",
+        "bookkeeping",
+        "budget",
+        "budgets",
+        "cash flow",
+        "coaching",
+        "contracts",
+        "corporate accounting",
+        "client",
+        "clients",
+        "documentation",
+        "drivers",
+        "due diligence",
+        "external audits",
+        "financial",
+        "develops financial models",
+        "financial statements",
+        "prepares financial statement",
+        "fixed assets",
+        "general ledger",
+        "government reports",
+        "prepare invoices",
+        "legal",
+        "meetings",
+        "Microsoft Dynamics",
+        "Microsoft Office",
+        "Monitors",
+        "Oracle Financials",
+        "payroll",
+        "Peach Tree",
+        "performance reviews",
+        "policies",
+        "pricing",
+        "proposals",
+        "purchasing",
+        "variance analysis",
+        "managing cash flow"
+    ],
+    "experience": [
+        {
+            "title": "Finance Director",
+            "company": "Company Name, City, State",
+            "start_date": "June 2003",
+            "end_date": "January 2014",
+            "description": "Managed all aspects of accounting operations, overseeing day to day transactions related to general ledger, accounts payable, accounts receivable, fixed assets, cash accounts, payroll and purchasing. Reviewed financial statements and results of operations, ensured proper reporting to program head to understand revenue and cost drivers and define appropriate reports for monitoring improvement. Prepared project pricing and budget. Developed financial models for comparative analysis of vendor proposals, compensation package, client pricing and budget proposals. Managed cash flow. Signed checks based on assigned approval authority. Maintained corporate accounting, payroll and purchasing policies. Ensured records maintained in accordance with GAAP and IFRASB. Handled external audits and regulatory exams. Reviewed and approved payroll. Regularly reviewed template of employee contracts and benefits to ensure that it is updated based on approved compensation package and labor requirements. Assisted in job grading projects. Reviewed and approves purchase orders based on assigned approval authority, recommended approval of capital improvements and purchases. Developed team members by setting objectives, providing performance reviews and coaching. Monitored team adherence to department scheduled reports and deliverables and control procedures. Managed external relationships with banks, auditors, lawyers, vendors/service providers and government representatives. Assisted in due diligence for company acquisitions. Implemented accounting system. Reviewed contracts with vendors and ensured coverage of all discussed clauses. Acts as the Corporate Secretary signing the minutes of Board of Directors meetings."
+        },
+        {
+            "title": "Finance Officer",
+            "company": "Company Name, City, State",
+            "start_date": "October 2000",
+            "end_date": "May 2013",
+            "description": "Prepared financial statements of regional headquarters. Consolidated financial statements of companies and reported to higher management. Reviewed financial statements and schedules of operating company. Provided variance analysis against approved budget. Managed cash flow and projections. Oversaw preparation of client invoices and supporting documentation. Ensured compliance of billings with contractual terms. Ensured timely payment to vendors. Preparation of tax schedules, returns, information and other regulatory reports. Prepared payroll and tax documents of higher management. Reviewed regular payroll and tax documentation. Maintained regular review of accounting policies, ensures proper implementation and creation of new policies in case of need. Handles performance review and coaching of the accounting team and payroll teams. Regularly coordinates with other departments on support required from the accounting team. Maintains relationship with banks, government agencies, clients and service providers. Handles coordination with auditors, lawyers and consultants on regular audits and legal matters."
+        },
+        {
+            "title": "Accounting Staff",
+            "company": "Company Name, City, State",
+            "start_date": "January 1999",
+            "end_date": "October 2000",
+            "description": "Prepare invoices and follow-up on payments. Prepare payments to vendors. Prepare tax returns and other regulatory reports. Process payroll. Handles bank transactions. Handles bookkeeping and preparation of financial statements and schedules."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Accountancy",
+            "school": "Miriam College Foundation Inc",
+            "year": 1997
+        }
+    ],
+    "certifications": [
+        "Certified Public Accountant (Philippines)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,98 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Marseille, France",
+    "summary": "Interpersonal skills, public relations.",
+    "skills": [
+        "Project management",
+        "Change management",
+        "writing skills",
+        "Media planning"
+    ],
+    "experience": [
+        {
+            "title": "Public Relations Manager",
+            "company": "Company Name",
+            "start_date": "2009-05",
+            "end_date": "2012-03",
+            "description": "Organizing events for the employees (celebrations, trainings, meetings); Promoting Internships; Internal and External communication"
+        },
+        {
+            "title": "Public Relations Officer",
+            "company": "La Poste regional Direction",
+            "start_date": "2008-06",
+            "end_date": "2008-12",
+            "location": "Marseille, France",
+            "description": "Organizing events for the employees; promoting the organization development strategy; maintaining a good level of satisfaction at work; promoting new services offered by La Poste to important clients in the region; animate intranet; writing articles for Jourpost; press releases; sales pitches to heads of departments."
+        },
+        {
+            "title": "Public Relations Officer",
+            "company": "Company Name",
+            "start_date": "2007-05",
+            "end_date": "2015-07",
+            "location": "City, State",
+            "description": "Contributed to organize the annual fair event PAPIER 2007; find artists, catering, spot; promoted AGAC to find sponsors to support the Association during the annual recurrent fair event Papier; suggested a marketing strategy plan to appeal to private as well as public donors."
+        },
+        {
+            "title": "Photography Assistant",
+            "company": "Paris Match, Hachette Filipacchi Medias",
+            "start_date": "2005-01",
+            "end_date": "2005-05",
+            "location": "Paris",
+            "description": "Manage the archives of photos; analyse the new photographs to be bought or rejected; communicate with the photographers."
+        },
+        {
+            "title": "Promotions/Marketing Assistant",
+            "company": "Kedge-Business School (Euromed-Marseille)",
+            "start_date": "2004-06",
+            "end_date": "2004-06",
+            "description": "Promote the school to prospective students; communicate with future students; organize the interviews order; provide assistance to the jury; manage the supply stocks for the event; participate in tours of the city."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Gestion Lastchance",
+            "start_date": "2007-05",
+            "end_date": "2007-07",
+            "description": "Project management responsibilities related to Gestion Lastchance."
+        },
+        {
+            "title": "Regional Communication Manager",
+            "company": "Company Name",
+            "start_date": "2013-02",
+            "end_date": "2014-02",
+            "description": "Develop and follow the executive communication strategy for all the Chambers; press relations (advertising campaigns, press kits, press releases); events (speech writing, managing service providers); drafting corporate and executive communication media; define with a graphic agency the new signature of the CRMA PACA and roll it out to all of the Chambers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Marketing Communications",
+            "school": "East Tennessee State University",
+            "year": "2006"
+        },
+        {
+            "degree": "Master of Science in Communication",
+            "school": "IAE d'Aix-en-Provence",
+            "year": "2008"
+        },
+        {
+            "degree": "Master of Science in Change Management (Human Resources)",
+            "school": "IAE d'Aix-en-Provence",
+            "year": "2008/2009"
+        },
+        {
+            "degree": "Bachelor of Science in Marketing",
+            "school": "Kedge Business School",
+            "year": "2006"
+        }
+    ],
+    "certifications": [
+        "Cambridge Advanced Certificate of English (2001)",
+        "Cambridge First Certificate of English (2000)"
+    ],
+    "languages": [
+        "English",
+        "French",
+        "Spanish"
+    ]
+}

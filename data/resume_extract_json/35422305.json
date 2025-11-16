@@ -1,0 +1,73 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Healthcare executive with 16+ years of progressive experience in acute and post-acute care settings. Experienced in clinical operations, process improvement, quality, population health management, clinical integration, business development and marketing strategy in for-profit and nonprofit health systems. Strong in the design and development of value-based solutions and collaborative approaches in healthcare delivery with physicians, health systems, and related organizations.",
+    "skills": [
+        "Clinical operations",
+        "Process improvement",
+        "Quality management",
+        "Population health management",
+        "Clinical integration",
+        "Healthcare administration",
+        "Business development",
+        "Marketing strategy",
+        "Stakeholder collaboration",
+        "Program design and implementation",
+        "Data analysis",
+        "Gap analysis",
+        "Policy and documentation improvement"
+    ],
+    "experience": [
+        {
+            "title": "National Administrator, Population Health and Associate Director",
+            "company": "Visit Clinical Practice",
+            "start_date": "2014-03",
+            "end_date": "Present",
+            "description": "Designed and implemented population health initiatives across 100 service offices, promoted cross-continuum collaboration with physician practices, health systems, payors, accountable care and community organizations. Led initiatives that reduced rehospitalizations and improved STAR outcomes, increased admissions per day, and generated additional revenue. Implemented career pathing programs for specialized care teams; developed 461 cardiac leads and 3000 trained health professionals nationwide. Developed COPD program recognized by the National COPD Foundation; designed CJR and bundled protocol programs for CABG, AMI, and Heart Failure. Built 15+ provider/payor relationships to integrate care, conducted organization-wide gap analyses, overhauled clinical documentation, and led QAPI-focused safety improvements. Led the design of a Palliative Care educational/operational program."
+        },
+        {
+            "title": "Resident, Executive Administration",
+            "company": "Main Line Health",
+            "start_date": "2013-02",
+            "end_date": "2014-02",
+            "description": "Participated in process improvement initiatives, service line development, patient-centered care, and strategic planning. Facilitated opening of the OBS unit; supported transition to Patient-Centered Medical Home (PCMH) and enhanced access. Led patient flow optimization, redesigned work layouts, and reduced patient wait time. Developed performance measurement standards and enhanced patient satisfaction scores; conducted leader rounding to promote efficiency and strengthen supplier-customer relationships."
+        },
+        {
+            "title": "Healthcare Consultant",
+            "company": "NIH-funded Public Health Coalition (Upper Merion Area)",
+            "start_date": "2012-08",
+            "end_date": "2012-12",
+            "description": "Evaluated organizational sustainability and management processes for NIH-funded public health coalition; reported results to key stakeholders and recommended actions to senior leadership. Developed strategies to increase utilization of expertise, improve access to priority populations, reduce service redundancy, and support membership growth."
+        },
+        {
+            "title": "Director, Department of General Medicine & Consultative Services; General Physician",
+            "company": "General Physician",
+            "start_date": "2005-11",
+            "end_date": "2012-06",
+            "description": "Managed clinical and quality operations for a 280-bed hospital with 30,000 outpatient visits annually; oversaw 70 FTE clinicians and maintained physician relationships. Led establishment of a primary care clinic and supporting diagnostics; directed planning and construction of three deaddiction and rehabilitation centers. Organized yearly medical camps serving ~900 patients. Created an international staffing platform for worldwide physician recruitment. Led community health needs assessment, established cultural competency training for health professionals, and collaborated with Finance to develop system-wide unit reporting for turnover and budgets. Participated in multiple hospital committees, including Patient Safety, Physician Leadership Assembly, and Strategic Planning."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master Certificate in Lean Six Sigma, Healthcare",
+            "school": "Villanova University",
+            "year": 2015
+        },
+        {
+            "degree": "MPH - Master of Public Health, Healthcare Administration",
+            "school": "West Chester University",
+            "year": 2012
+        },
+        {
+            "degree": "M.D. in Medicine",
+            "school": "Saint Petersburg State Medical Academy",
+            "year": 2001
+        }
+    ],
+    "certifications": [
+        "Master Certificate in Lean Six Sigma, Healthcare"
+    ],
+    "languages": []
+}

@@ -1,0 +1,105 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Self-starter, customer-focused and detail-oriented business professional with multi-industry business development experience complemented by staffing industry and Human Resources experience. Specializes in business implementation and recruiting. Proven track record of exceeding objectives and quotas. Highly articulate and persuasive communicator capable of liaising between clients, HR, sales, and management. Strong writing, editing, and presentation skills with extensive experience in networking, building customer relationships, sales & marketing, and project coordination.",
+    "skills": [
+        "Administrative duties",
+        "ADP Payroll",
+        "advertising",
+        "Arts",
+        "benefits",
+        "budgets",
+        "business development",
+        "contracts",
+        "client",
+        "clients",
+        "delivery",
+        "Direct Sales",
+        "English",
+        "fashion",
+        "hiring",
+        "human resources",
+        "Internet applications",
+        "regulatory compliance",
+        "Market",
+        "Microsoft Office Programs",
+        "SharePoint",
+        "Network",
+        "networking",
+        "PeopleSoft",
+        "personnel",
+        "policies",
+        "rapport",
+        "Reading",
+        "record keeping",
+        "Recruiting",
+        "recruitment",
+        "Research",
+        "selling",
+        "Sales",
+        "Spanish",
+        "staffing",
+        "Teacher"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Consultant",
+            "company": "Company Name",
+            "start_date": "01/2015",
+            "end_date": "Current",
+            "description": "Provide Human Resources, Recruiting, Screening, and staffing services to employers in assigned areas. Maintain and build relationships with new and existing clients by providing services, maintaining contact, attending networking events, and being actively involved with targeted professional organizations. Network through industry contacts, association memberships, and online. Maintain an understanding of employment and business related activities in assigned areas by analyzing data to identify business development opportunities. Understand clients' human resource-based needs and suggest appropriate products, provide advice, or otherwise address the issue. Follow-up with clients to ensure effective delivery of services and products rendered. Develop and process client contracts, renewals, and terminations."
+        },
+        {
+            "title": "Recruiting Specialist",
+            "company": "Company Name",
+            "start_date": "01/2014",
+            "end_date": "01/2015",
+            "description": "Develop and execute recruiting plans. Market and advertise to reach a broader and wider market of candidates. Network through industry contacts, association memberships, and online. Implementation of programs, policies, and procedures towards workforce management. New employee on-boarding, Training and development. Administrative duties and record keeping related to the hiring process."
+        },
+        {
+            "title": "Owner",
+            "company": "Company Name",
+            "start_date": "02/2011",
+            "end_date": "08/2013",
+            "description": "Operated a small business selling fashion accessories both locally, as well as online. Direct Sales and Business to Business Sales. Developed excellent rapport with all my clients. Increased revenue by 25% in less than 3 months."
+        },
+        {
+            "title": "Language Arts and Intensive Reading Teacher; Spanish Club Sponsor",
+            "company": "Company Name",
+            "start_date": "09/2006",
+            "end_date": "06/2010",
+            "description": "Implemented community service to help benefit needy local residents with programs such as Coats off Our Backs, Can the Principal, Spring School Supply Drive, A Christmas Carol, Military Shoeboxes, and Club Clean-up. Successful in advancing students reading level by 88% in a period of one school year. Developed and taught lessons following the Voyager Instructional Model to improve students' reading skills. Taught all aspects of Reading, English Literature, Grammar, and Writing. Prepared students for the Florida's Comprehensive Assessment Test (FCAT)."
+        },
+        {
+            "title": "Human Resources Manager",
+            "company": "Company Name",
+            "start_date": "08/2003",
+            "end_date": "08/2006",
+            "description": "Developed job announcements, carried out and coordinated advertising, recruitment, interview and selection process. Administration of employee compensation and benefits, personnel policies, regulatory compliance, and performed quarterly reviews. Investigated, documented and resolved personnel issues and complaints at all levels within the hotel. Conducted final interview, reviews, reprimands, and exit interviews in order to ensure all labor laws were followed. Prepared and followed budgets for personnel operations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Business Administration Management",
+            "school": "University of Houston",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts in English Literature/Spanish",
+            "school": "University of Texas",
+            "year": null
+        },
+        {
+            "degree": "Teaching Certificate with Reading Endorsement",
+            "school": "City",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

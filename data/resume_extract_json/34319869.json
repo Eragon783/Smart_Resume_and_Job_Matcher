@@ -1,0 +1,81 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "New Media & Digital Music/Film & TV experienced professional with strong transitional skills while providing an effective multi-tasking work ethic. Bring leadership skills by consistently incorporating new ideas to keep ahead in this fast-paced quickly evolving, Digital Music Industry.",
+    "skills": [
+        "Mac OS/OS X",
+        "Salesforce (CRM & Jobscience)",
+        "GitHub",
+        "FileZilla",
+        "TextWrangler",
+        "SAP Business Objects",
+        "Adobe Acrobat",
+        "Tableau",
+        "MicroStrategy",
+        "Jira",
+        "Zendesk",
+        "Microsoft Word",
+        "Microsoft Outlook",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Microsoft Access",
+        "SharePoint"
+    ],
+    "experience": [
+        {
+            "title": "Content Distribution Specialist",
+            "company": "Global Digital Servicing",
+            "start_date": "03/2016",
+            "end_date": "01/2017",
+            "description": "Managed external client/partner relationships and their digital content while insuring timely delivery of digital assets (i.e: Audio/Video, subtitles, and dubbing) per technical spec to distribute globally. Analyzed delivery & trend metrics to identify and troubleshoot systematic issues while ensuring timely and quality asset deliveries. Maintained highly-aligned with internal cross-functional teams, including but not limited to, content acquisitions, finance, localization, QC, encoding, engineering, product, and marketing to facilitate all partner/client needs. Assisted in improving and scaling systematic workflows, processes and tools while curating the digital catalog of assets for the best customer experience."
+        },
+        {
+            "title": "Global Reporting Manager",
+            "company": "Global Content Licensing & Catalog",
+            "start_date": "06/2014",
+            "end_date": "01/2016",
+            "description": "Manager & Lead in Global Reporting finances, revenue & activity metrics for Music Labels, Publishers, Licensor's & External Partnerships. Managed, Maintained and Conceptualized procedural & contractual requirements for Labels & Publishers. Technical Specifications Liaison for internal Legal & Licensing/Finance/Engineering/Product teams to facilitate all external music label & partnership reporting related requirements & request. Primary subject matter expert for Reporting leading initiatives in new business partnerships, products services, technical & systematic enhancements."
+        },
+        {
+            "title": "Sr. Digital Account Manager",
+            "company": "New Media Solutions",
+            "start_date": "01/2011",
+            "end_date": "06/2012",
+            "description": "Managed the distribution and maintenance of digital content (audio, video, mobile) for over 20 digital service providers which involved developing client relationships and facilitating all requests, system troubleshooting and reporting data. Project managed newly integrated digital systems while analyzing business needs, gathered user requirements, and conceptualizing system analysis based on reporting data. Proficient in internal digital systems by creating and extracting customized reports on data based on distribution management, sales/revenue analysis, and partner troubleshooting research. Designated and oversaw day-to-day workload for account coordinators insuring data reporting is up-to-date, creating and facilitating new processes and assuring assistance in researching/tracking client requests."
+        },
+        {
+            "title": "Global Account Manager",
+            "company": "Global Digital Operations",
+            "start_date": "06/2008",
+            "end_date": "01/2011",
+            "description": "Liaison between music recording labels & digital service providers in distribution and monitoring of digital content (audio/video/mobile) i.e. RED Distribution, Nashville Records; iTunes, Rhapsody, Napster, Microsoft/Zune, eMusic etc. Administered requirements & user acceptance testing through complex data analysis for internal digital reporting systems. Defined policies and product requirements based on client relationships and needs in offering digital systematic support to clients & partners based on digital innovative products and services."
+        },
+        {
+            "title": "Production Management Associate",
+            "company": "VH1 Production Management",
+            "start_date": "01/2007",
+            "end_date": "06/2008",
+            "description": "Coordinated numerous production shoots (on-site and office based tasks) for upcoming television broadcast show. i.e. VH1 series, 60min all access specials, VH1 documentaries. Managed & organized pre and post-production budget for various television broadcasts' by balancing expenses and cost through excel and internal accounting systems and services. Directed the logistics for on-site production shoots; coordinated schedules, obtained necessary legal documents, hired staff and gathered supplies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Communication – Media Management",
+            "school": "State University of New York at New Paltz",
+            "year": "2007"
+        },
+        {
+            "degree": "Project Management Training",
+            "school": "AMA Executive Conference Center",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "Project Management Training (AMA Executive Conference Center, 2012)"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

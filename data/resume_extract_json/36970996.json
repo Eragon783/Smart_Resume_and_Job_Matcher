@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Motivated retail sales professional with 6 years of progressive experience in high-volume environments. Proven track record in closing sales, building customer relationships, and delivering exceptional service. Skilled in inventory management, merchandising, upselling, and reporting; adept at using POS systems and Excel to drive revenue and improve operations.",
+    "skills": [
+        "Inventory control",
+        "Customer service",
+        "Top sales performer",
+        "Strategic sales",
+        "Conflict resolution",
+        "Credit card processing",
+        "Creative problem solver",
+        "Consistently meets sales goals",
+        "Credit card transactions",
+        "Retail sales",
+        "Computer literacy",
+        "Natural leader",
+        "Product knowledge",
+        "Merchandising",
+        "Multi-tasking",
+        "Time management",
+        "Relationship building",
+        "Upselling techniques",
+        "POS systems knowledge",
+        "Excel reporting"
+    ],
+    "experience": [
+        {
+            "title": "Sales Consultant",
+            "company": "Zimmer Brothers",
+            "start_date": null,
+            "end_date": null,
+            "description": "Left for a better opportunity at Zimmer Brothers. Identified prospects' needs and developed appropriate responses along with information on products and services that would be suitable."
+        },
+        {
+            "title": "Sales Consultant",
+            "company": "Company Name",
+            "start_date": "2005-01-01",
+            "end_date": "2008-01-01",
+            "description": "I worked hard in this high end jewelry store. Described products, explained care and details of merchandise; recommended and located in-demand items; performed cashier duties and provided excellent customer service. Generated sales and inventory reports in Excel with data from various sources; followed up on shipping and special orders; engaged with vendors on back orders."
+        },
+        {
+            "title": "Floral Helper",
+            "company": "Sabellicos Greenhouses and flower shop",
+            "start_date": null,
+            "end_date": null,
+            "description": "Assisted in flower shop operations, floral sales, POS usage, and basic floral design; handled weddings and funeral pieces; worked with a wide variety of flowers, greens, and stems."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2015-02-01",
+            "end_date": "2017-11-01",
+            "description": "Worked with jewelry lines including Simon G, Alawand Vahan, Cheri Dori, Dia Dori, Pandora, Charles Garnier and Charles Krypell. Performed insurance and fair market appraisals; managed weights, stone identifications, color and clarity; maintained constant contact lists; introduced new jewelry lines; performed case displays, advertising, inventory, and repairs; assisted with customer requests and repairs; tracked shipments and inventory."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2016-11-01",
+            "end_date": "Current",
+            "description": "Prepared merchandise for sales floor; directed merchandise placement; suggested accessories and complementary purchases; processed returns; negotiated and finalized sales contracts; mentored new associates; maintained merchandising standards; supervised shipment processing and inventory; answered customer inquiries and maintained a positive customer-focused environment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "John Jay High School",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        "Diamond Essentials",
+        "Diamond and Diamond Grading",
+        "Diamond Lab Class",
+        "Gem Essentials",
+        "AGS Certified Sales Associate",
+        "GIA Education Diamond Essentials Certification",
+        "Graduate Diamond Certification",
+        "Diamond Grading Lab Certification",
+        "Colored Stone Essentials Certification"
+    ],
+    "languages": []
+}

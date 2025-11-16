@@ -1,0 +1,110 @@
+{
+    "name": "Sugandha kumar",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [
+        "business operations",
+        "C",
+        "contracts",
+        "Credit",
+        "clients",
+        "documentation",
+        "Drafting",
+        "Finance",
+        "financing",
+        "financial",
+        "funds",
+        "insurance",
+        "Law",
+        "legal",
+        "legal Research",
+        "letters",
+        "Managing",
+        "marketing",
+        "meetings",
+        "Mergers and Acquisitions",
+        "Exchange",
+        "office",
+        "procurement",
+        "research",
+        "sales",
+        "Securities",
+        "Tax",
+        "team management"
+    ],
+    "experience": [
+        {
+            "title": "Experience Consultant",
+            "company": "Asset Finance",
+            "start_date": "2013-04",
+            "end_date": "",
+            "description": "Drafting legal documentation necessary for cross-border aircraft financing and leasing transactions, with particular emphasis on clients based in the Asia Pacific region involving major global financial institutions, operating lessors and investment funds. My experience includes acting for clients on commercial financings, operating leasing, aircraft sales, asset backed securitization and portfolio sales and financings. Co-lead the Cape Town transactions support team comprising of 6 India qualified lawyers including transaction management, team management and providing subject matter expertise."
+        },
+        {
+            "title": "Senior Executive Compliance",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "2012-03",
+            "description": "Acting as in-house counsel and preparing legal letters and notices and drafting and vetting service agreements, non-disclosure agreements, digital marketing partners engagement agreements, broker agreements, intermediary agreements, procurement agreements, employment contracts, licensing agreements etc. Extending opinion and advises on host of operational, regulatory and legal issues concerning business operations. Also responsible for preparing agendas for board meetings, preparing analysis reports, departmental summaries, performance summary of the company and drafting other communications as required by the management of the company. Managing correspondence with the regulatory authority: drafting replies to show cause notices, maintaining record of communications, managing response and submissions to insurance regulators circulars and notifications."
+        },
+        {
+            "title": "Legal Research Intern",
+            "company": "Lakshmikumaran & Sridharan, Mumbai",
+            "start_date": "2011-05-16",
+            "end_date": "2011-06-14",
+            "description": "Legal research on Finance Act viz. Importation of Services and Taxation of various Services, Operating Lease, Finance Lease and reversal of Cenvat Credit. Preparing first draft of legal opinions and appeals to the Appellate Tribunal."
+        },
+        {
+            "title": "Intern",
+            "company": "Khaitan and Partners, Kolkata",
+            "start_date": "2011-04-18",
+            "end_date": "2011-05-14",
+            "description": "A team of three interns and an associate were involved in the study of legal formalities to be complied with by a foreign listed company willing to establish an office in India. This involved an extensive research on Companies Act, Competition Laws and Securities and Compliance Laws, Securities and Exchange Board of India and Reserve Bank of India Acts, Rules and Guidelines and other Tax Treaties. It further involved relevant case study and finally drafting roadmap documentation for establishing such business in India. The final leg of the internship involved drafting standard documentation of various legal filings for permissions and company's incorporation documents which were then taken up for tailored amendments and execution by Senior Associates and Partners."
+        },
+        {
+            "title": "Legal Intern",
+            "company": "Vaish Associates, Gurgaon",
+            "start_date": "2010-05-10",
+            "end_date": "2010-05-28",
+            "description": "The internship involved legal Research on Company Law, Joint Venture rules, Mergers and Acquisitions laws and Securities and Exchange Board of India Regulations and finally preparing a presentation on required filings, permissions, disclosures and minimum eligibility criterion."
+        },
+        {
+            "title": "Intern",
+            "company": "Delhi (Unknown Company)",
+            "start_date": "2008-05",
+            "end_date": "2008-06",
+            "description": "The internship involved assisting a team of qualified stakeholders in research and preparing a report on the Value Added Tax provisions of the proposed Goods and Service Tax Bill by studying and identifying the provisions in the existing legislation which are impacting the ease of doing business as well as identifying the areas and provision of the Act for simplification in the light of existing jurisprudence."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Post Graduation Diploma: Cyber Laws",
+            "school": "Asian School of Cyber City",
+            "year": "2010"
+        },
+        {
+            "degree": "Diploma: Human Rights and Law",
+            "school": "ILS Law College",
+            "year": "2009"
+        },
+        {
+            "degree": "BSL LLB (V Years Aggregate)",
+            "school": "Pune University I.L.S. Law College",
+            "year": ""
+        },
+        {
+            "degree": "Class XII",
+            "school": "C.B.S.E ITL Public School, New-Delhi",
+            "year": ""
+        },
+        {
+            "degree": "Class X",
+            "school": "C.B.S.E ITL Public School, New-Delhi",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

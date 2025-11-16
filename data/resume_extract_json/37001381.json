@@ -1,0 +1,99 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To obtain a full-time position in a healthcare environment leveraging 16 years of experience in healthcare, including customer relations, claims, coding, billing, human resources and employee management.",
+    "skills": [
+        "Maintains strict confidentiality",
+        "Knowledge of HMOs, Medicare and Medi-Cal",
+        "Extensive anatomy/physiology knowledge",
+        "Electronic Medical Record (EMR) software",
+        "ICD-9 coding",
+        "CPT and HCPCS coding",
+        "Neurology billing expertise",
+        "Certified coding instructor",
+        "HIPAA compliance",
+        "Medical billing software",
+        "Medisoft Billing Software",
+        "ARCommand Billing Software",
+        "CAD",
+        "Advanced knowledge in HMO and Managed Care",
+        "Strong planning skills",
+        "Strong work ethic",
+        "Team player with positive attitude",
+        "Deadline-driven",
+        "Excellent written and verbal communication",
+        "Microsoft Word and Excel",
+        "High typing speed (70+ wpm)",
+        "Business management",
+        "Employee supervision",
+        "Billing/Accounts Receivable management",
+        "Customer Service"
+    ],
+    "experience": [
+        {
+            "title": "Business Office Manager",
+            "company": "Company Name",
+            "start_date": "January 2009",
+            "end_date": "Present",
+            "description": "Oversee employee management, new-hire training, policy development, and departmental procedures; manage accounts receivable, Medicare/Medi-Cal processes, insurance appeals and grievances; supervise medical records, HIPAA compliance, and continuing education; coordinate subpoenas and legal communications; ensure accuracy and cash flow; provide leadership to staff."
+        },
+        {
+            "title": "Healthcare Administrator",
+            "company": "Company Name",
+            "start_date": "January 2008",
+            "end_date": "January 2010",
+            "description": "Manage ambulance licensing and documentation, EMT/DMV checks, and employee file accuracy; oversee business office operations, medical records, contracts and proposals; ensure HIPAA compliance; update staff on HIPAA; coordinate dialysis patient transport and ambulance services."
+        },
+        {
+            "title": "Business Office Supervisor",
+            "company": "Company Name",
+            "start_date": "January 2000",
+            "end_date": "January 2008",
+            "description": "Supervised billing department staff; ensured deadlines; Medicare/Medi-Cal and major insurance billing; manage EOBs, data entry, and AR/AP; create contracts with major insurers; CPT/ICD-9/HCPCS coding; attended Medicare/Medi-Cal workshops; prepared medical necessity letters for ambulance services."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Health Administration",
+            "school": "University of Phoenix",
+            "year": "2009"
+        },
+        {
+            "degree": "Associate of Arts in Chemistry",
+            "school": "LA Valley College",
+            "year": "2005"
+        },
+        {
+            "degree": "Certificate-Diploma in Medical Claims and Billing Specialist",
+            "school": "Concord College",
+            "year": "1999"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Ulysses S. Grant High School",
+            "year": "1993"
+        },
+        {
+            "degree": "Certificate in Computer",
+            "school": "ANC Computer School",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Certified Medical Billing Specialist",
+        "Health Information Management Certificate",
+        "Certificate in Electronic Medical Records",
+        "Medical Office Admin Certificate",
+        "Certified Coding Instructor",
+        "CPT and HCPCS coding training",
+        "HIPAA compliance training"
+    ],
+    "languages": [
+        "Armenian",
+        "Russian",
+        "English",
+        "Spanish"
+    ]
+}

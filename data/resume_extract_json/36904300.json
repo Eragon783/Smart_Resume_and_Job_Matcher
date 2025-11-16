@@ -1,0 +1,100 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Enthusiastic, reliable and well-organized Office Assistant with a solid background in data entry, communication, telephone and customer service skills. Capable of managing daily office functions and juggling multiple projects simultaneously. Demonstrates a professional attitude and appearance, strong phone etiquette, excellent communication, effective time management, organization, and multitasking. Quick to learn, dependable, able to work independently or collaboratively, customer service-oriented, detail-minded, and able to work under pressure to meet strict deadlines. Proficient with multi-line phone systems, filing and data archiving, and Microsoft Office (Word, Excel, PowerPoint, Outlook) and QuickBooks.",
+    "skills": [
+        "Sales",
+        "Telephone",
+        "Inventory",
+        "Point Of Sale",
+        "Credit",
+        "Cash",
+        "Customer Service",
+        "Receptionist",
+        "Retail Sales",
+        "Answering",
+        "Merchandising",
+        "New Hires",
+        "POS System",
+        "Reconciliation",
+        "Recruiting",
+        "Scheduling",
+        "Staffing",
+        "Time Management",
+        "Visual Merchandising",
+        "Payments",
+        "Invoices",
+        "Data Entry",
+        "Documentation",
+        "Excel",
+        "Filing",
+        "Microsoft Word",
+        "Ordering",
+        "Outlook",
+        "QuickBooks",
+        "Sales Service",
+        "Scanning",
+        "Shipping",
+        "Bank Teller",
+        "Change Orders",
+        "Loans",
+        "Multitasking",
+        "Accounting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "General Ledger",
+        "Purchase Orders",
+        "Archiving",
+        "Data Archiving",
+        "Detail Oriented",
+        "Etiquette",
+        "Excellent Communication Skills",
+        "Multi-line",
+        "Office Assistant",
+        "Phone Etiquette",
+        "PowerPoint",
+        "Microsoft Office",
+        "Ms Office"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name, City, State",
+            "start_date": "Feb 2008",
+            "end_date": "Jun 2014",
+            "description": "In this small, family-owned business there were a lot of hats to be worn. With just 4 employees—a store manager, two salespeople and a jeweler—this was more than a typical sales role. Responsibilities included greeting and assisting customers, locating desired items, providing after-sales service with thank-you letters and reminders, and follow-up calls. Managed behind-the-scenes operations by ordering supplies (jewelry boxes, gift bags, watch batteries, and office/shipping supplies), assisted in ordering new merchandise and creating styles through custom jewelry design. Used POS data entry for sales, researched transaction history, and entered inventory into the store database. Utilized Outlook, Word, Excel, and QuickBooks for communications, documents, inventory, and payments. Handled shipping (UPS, FedEx, USPS), document scans, photocopies, faxes and filing. Created new vendor files and purged year-end storage. Answered multi-line telephone system, took messages, and routed calls to the owner."
+        },
+        {
+            "title": "Sales / Assistant Manager / Manager",
+            "company": "Company Name, City, State",
+            "start_date": "Nov 1996",
+            "end_date": "Feb 2008",
+            "description": "A Jewelry Sales Associate role focused on entertaining customers, answering questions, demonstrating merchandise, and facilitating trials. Responsibilities included processing payments (cash, credit, or in-house financing), visual merchandising, store cleanliness, and inventory management (daily/nightly counts, receiving/inputting new inventory, restocking). Reported any suspicious activity or missing merchandise. As Assistant Manager, aided in managing staff, scheduling, and acted as manager in absence. As Store Manager, trained and managed a team, set quotas, and drove store performance. Managed a team of approximately 6 sales associates and an assistant manager. Handled cash deposits, weekly mall recruiting, reviewed applications, conducted interviews, and staffing decisions. Trained on POS system and sales tactics; attended monthly district management meetings; conducted evaluations for promotions or terminations; led weekly store meetings. Reordered inventory to maintain stock; conducted store inventories and reconciliations; generated repeat business via excellent customer service and staff training."
+        },
+        {
+            "title": "Accounts Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 1993",
+            "end_date": "Nov 1994",
+            "description": "Managed and processed vendor invoices and ensured integrity of all payments. Matched invoices and checks; coordinated with suppliers and maintained payment status records. Prepared checks to pay subcontractors weekly; posted receipts to general ledger; reconciled discrepancies between accounts receivable ledgers and trial balance; researched and resolved accounts payable discrepancies. Coded and entered invoices daily; reconciled vendor statements and handled payment complaints. Supervised invoice processing, purchase orders, expense reports, credit memos and payment transactions. Communicated effectively with management, supervisors, vendors, suppliers, subcontractors and field staff. Managed incoming calls and daily mail; sorted and delivered to departments."
+        },
+        {
+            "title": "Bank Teller",
+            "company": "Company Name, City, State",
+            "start_date": "Feb 1991",
+            "end_date": "Aug 1993",
+            "description": "Handled cash operations, check cashing, deposits and withdrawals with accurate balancing. Prepared customer and ATM cash/change orders; maintained 100% accuracy. Managed teller window and drive-thru duties, including quarterly vault and ATM audits with zero errors. Collected loan payments, sold cashier's checks and money orders, and answered inquiries about banking products. Spent time as a floating teller, traveling to different locations and customers to maintain service levels."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma, General/Business Studies",
+            "school": "Miami Coral Park Senior High, Miami, FL",
+            "year": "1985"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

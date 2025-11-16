@@ -1,0 +1,81 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Seeking an Account Manager role that offers a vibrant workplace where I can use my 13 years of account management experience.",
+    "skills": [
+        "business development",
+        "relationship selling",
+        "proven sales track record",
+        "recruiter training",
+        "sales management",
+        "team leadership",
+        "sales coaching",
+        "Salesforce",
+        "Siebel",
+        "Fox",
+        "Bullhorn",
+        "CRM/ATS experience"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Manager",
+            "company": "Company Name",
+            "start_date": "2016-07",
+            "end_date": "Present",
+            "description": "Positioning information security solutions to large Commercial and Public Sector clientele; Ability to effectively profile target accounts; Professional networking to build relationships with C-level executives and decision making managers at targeted clients; Continuing education on evolving networking, unified communication, virtualization, and storage technology."
+        },
+        {
+            "title": "Engineering/IT Account Manager",
+            "company": "Company Name",
+            "start_date": "2016-02",
+            "end_date": "2016-07",
+            "description": "Responsible for the day to day activities necessary for billable headcount, revenue, and margin growth. To ensure client satisfaction and service delivery through New Business Development, Account Management, Recruiting and Leadership/Mentorship of a dedicated team of Technical Recruiters. Train and develop recruiters. Recruit as necessary in order to fill strategic positions."
+        },
+        {
+            "title": "Account Executive",
+            "company": "Company Name",
+            "start_date": "2010-09",
+            "end_date": "2016-01",
+            "description": "Industry: Healthcare IT Project, Technology & Staffing Solutions. Responsibilities: Identify, prospect and secure business opportunities to support new revenue growth for specific geographic area; Develop and implement sales/recruiting strategies for new account prospects focusing primarily on higher margin retail prospects and new business opportunities within active and inactive accounts; Drive activity/results through the leveraging and consistent application of best practice sales processes and initiatives; Work primarily within the Healthcare industry (payers, providers and life science). Lead, develop and mentor recruiters."
+        },
+        {
+            "title": "Business Development Manager",
+            "company": "Company Name",
+            "start_date": "2009-08",
+            "end_date": "2010-09",
+            "description": "IT Project, Technology & Staffing Solutions. Responsibilities: Identify, prospect and secure business opportunities to support new revenue growth for specific geographic area; Develop and implement sales strategies for new account prospects focusing primarily on higher margin retail prospects and new business opportunities within active and inactive accounts; Work with Regional Director and VP to plan, conduct and follow up on sales calls; Drive activity/results through the leveraging and consistent application of best practice sales processes and initiatives."
+        },
+        {
+            "title": "Senior Account Manager",
+            "company": "Company Name",
+            "start_date": "2005-05",
+            "end_date": "2009-08",
+            "description": "Civil Engineering, A&E, Environmental and GC. Responsibilities: Specialized in contract staffing for the civil engineering, environmental, architectural and construction industries; Responsible for the entire sales process, including prospecting, selling, negotiation, and closing; Sales forecasting, lead generation and prospecting; Strategically manage call cycles; Expand and maintain territory business by working with accounts to meet and exceed annual sales objectives; Maintain superior relationships with contacts and decision-makers; Consistently maintain monthly sales quota and revenue goals; Maintain activity standards (number of sales calls, quantity of face to face meetings, time spent prospecting, account renewals, etc.); Maintaining sales activity in the Siebel database for reporting purposes; Train and develop recruiting teams to fulfill delivery."
+        },
+        {
+            "title": "Senior Recruiter",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2005-05",
+            "description": "Consulting with client hiring managers to thoroughly understand the clients' needs; Developing creative sourcing strategies and leveraging resources to recruit high caliber candidates through online social networking, direct sourcing, community involvement, professional networking, and local media resources; Interviewing and assessing candidate qualifications through a combination of behavioral interviews and competency based evaluations; Developing a network of ready to work candidates to meet the current and anticipated needs of clients; Facilitating interviews between the candidate and client, including candidate preparation and client briefing; Conduct debriefing with candidates and customers following interviews; Develop long term relationships with employees while on assignment and providing career coaching; Maintaining and updating thorough, accurate, and compliant documentation of all client, candidate and temporary interactions via technology solutions."
+        },
+        {
+            "title": "Managing Director",
+            "company": "Company Name",
+            "start_date": "1999-05",
+            "end_date": "2003-04",
+            "description": "Sheet/coil steel sales; Secure new and existing business; Supervise warehouse staff; Organize loads for delivery/collection; Maintain inventory."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Technology and Management",
+            "school": "University of Bradford",
+            "year": 1999
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

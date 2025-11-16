@@ -1,0 +1,115 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Las Vegas, NV, USA",
+    "summary": "Experienced floral designer and educator with AIFD mentorship, extensive history of owning and operating floristry businesses in Las Vegas, including Tropicana Hotel Florist and Caesar's Palace venues. Skilled in national and international flower auctions, trend analysis, event and hotel floristry, wedding chapel management, and teaching.",
+    "skills": [
+        "Floral design",
+        "Event floral design",
+        "Hotel/venue floristry",
+        "Wedding and chapel floristry",
+        "Business ownership and entrepreneurship",
+        "Hiring and staff management",
+        "Inventory management",
+        "Procurement",
+        "Negotiation with hotel management",
+        "Market research and trend analysis",
+        "National and international flower auctions",
+        "Prototype and design development",
+        "Training and mentoring",
+        "Customer relationship management",
+        "Teaching and classroom management",
+        "Store layout and merchandising",
+        "Contract management",
+        "Budgeting and forecasting"
+    ],
+    "experience": [
+        {
+            "title": "Owner/Operator Tropicana Hotel Florist",
+            "company": "Tropicana Hotel Florist (Las Vegas)",
+            "start_date": "1986-04",
+            "end_date": "1993-12",
+            "description": "Promoted and operated the Tropicana Hotel Florist; hired and terminated employees; procured inventory; negotiated lease terms with hotel management; interfaced with purchasing; produced prototypes of floral designs; managed store layout and hours; oversaw taxes and regulatory compliance."
+        },
+        {
+            "title": "Owner/Operator Garden of the Nile Flower Shop at Caesar's Palace",
+            "company": "Garden of the Nile Flower Shop, Caesar's Palace (Las Vegas)",
+            "start_date": "1991-10",
+            "end_date": "1995-06",
+            "description": "Owned and operated Garden of the Nile Flower Shop; managed inventory and procurement; kept up with floral industry trends; negotiated with hotel management and purchasers; led design prototyping and quality checks."
+        },
+        {
+            "title": "President Island Wedding Chapel",
+            "company": "Island Wedding Chapel at the Tropicana Hotel",
+            "start_date": "1990-09",
+            "end_date": "1993-12",
+            "description": "Negotiated lease for the freestanding wedding chapel; formed corporation; oversaw location, architecture, and construction; hired manager and staff; coordinated hotel accommodations, receptions, catering, and wedding operations."
+        },
+        {
+            "title": "Owner/Operator Las Vegas Hilton Florist",
+            "company": "Las Vegas Hilton Florist",
+            "start_date": "1989-04",
+            "end_date": "1993-08",
+            "description": "Hired and terminated employees; procured inventory for fresh floral arrangements; interfaced with hotel management and purchasing; produced floral design prototypes; managed store layout and hours."
+        },
+        {
+            "title": "Owner/Operator Desert Flower",
+            "company": "Desert Flower, Las Vegas",
+            "start_date": "1988-01",
+            "end_date": "1993-06",
+            "description": "Acquired fresh flowers from national and international growers; managed store layout; procured containers and props; studied market trends; prepared employees; interfaced with flower auctions; ensured compliance and operations."
+        },
+        {
+            "title": "Owner Frowners R Us",
+            "company": "Frowners R Us",
+            "start_date": "1986-01",
+            "end_date": "1992-06",
+            "description": "Promoted and performed design work; negotiated leases; procured inventory; designed shop layout; interfaced with hotel management and purchasing; led staff training and design development; ensured compliance and operation."
+        },
+        {
+            "title": "Guest Teacher",
+            "company": "Various schools (Clark County area)",
+            "start_date": "2012-10",
+            "end_date": "2015-10",
+            "description": "Presented class material and policies across multiple classes; supported students; classroom management and instruction; maintained attendance and behavior monitoring."
+        },
+        {
+            "title": "Lead Floral Designer",
+            "company": "Unknown / Various (Las Vegas)",
+            "start_date": "2005-06",
+            "end_date": "2011-04",
+            "description": "Led floral design projects; managed inventory and procurement; interfaced with hotel management and purchasing; produced design prototypes; managed store layout and operations."
+        },
+        {
+            "title": "High School Substitute Teacher",
+            "company": "Clark County Schools",
+            "start_date": "2012-10",
+            "end_date": "2015-10",
+            "description": "Substituted high school classes; assisted with assignments and student supervision; maintained classroom routines and behavior; supported students' understanding of subject matter."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Mixology",
+            "school": "National Bartender's School",
+            "year": 2012
+        },
+        {
+            "degree": "Advanced Licensed Certified Floral Designer",
+            "school": "Louisiana State University and Agricultural & Mechanical College",
+            "year": 1978
+        },
+        {
+            "degree": "Bachelor of Arts: Secondary Education",
+            "school": "Southeastern Louisiana University",
+            "year": 1971
+        }
+    ],
+    "certifications": [
+        "Floral Designer – Advanced Licensed Certified Floral Designer (1978)",
+        "Floral Exam – Passed with perfect score (LSU A&M)",
+        "National Bartender's School Mixology certification (2012)"
+    ],
+    "languages": []
+}

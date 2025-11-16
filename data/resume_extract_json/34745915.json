@@ -1,0 +1,107 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Savvy teacher with superb Problem Solving, SEO, Analytics and Microsoft Office skills. Reliable, organized and personable.",
+    "skills": [
+        "Microsoft Office",
+        "Problem Solving",
+        "SEO",
+        "Analytics",
+        "Customer Service",
+        "Typing (58 WPM)",
+        "File/Records Maintenance",
+        "Team Player",
+        "Active Listener",
+        "Organizational Skills",
+        "Quick Learner",
+        "Computer Proficiency"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name City , State",
+            "start_date": "2014-12",
+            "end_date": "Present",
+            "description": "Applied the positive reinforcement method to redirect negative behaviors. Conducted small group and individual classroom activities based on differentiated learning needs. Wrote daily and weekly lesson plans. Supported students in developing strategies for individual needs and classroom group dynamics. Developed and implemented interesting and interactive learning mediums to increase student understanding of course materials. Assisted four to six students per station during small group learning periods Supplied one-on-one attention to each student, while maintaining overall focus on the entire group."
+        },
+        {
+            "title": "Paraprofessional",
+            "company": "Company Name City , State",
+            "start_date": "2014-01",
+            "end_date": "2014-12",
+            "description": "Helped prepare daily lesson plans for activities and lessons Applied the positive reinforcement method to redirect negative behaviors Observed students to supply teachers with feedback regarding potential learning blocks and opportunities for support Assisted four to six students per station during small group learning periods Supplied one-to-one attention to each student, while maintaining overall focus on the entire group."
+        },
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name City , State",
+            "start_date": "2013-09",
+            "end_date": "2014-01",
+            "description": "Supported students in developing strategies for individual needs and classroom group dynamics. Physically and verbally interacted with students throughout the day to keep them engaged. Encouraged students to be understanding of and helpful to others. Communicated effectively with educators from various grade levels."
+        },
+        {
+            "title": "Customer Solution Specialist",
+            "company": "Company Name City , State",
+            "start_date": "2012-07",
+            "end_date": "2014-06",
+            "description": "Answered customers' questions and addressed problems and complaints in person and via phone. Educated customers on product and service offerings Offered exceptional customer service to differentiate and promote the company brand. Collaborated with customer service team members to give exceptional service throughout the entire shopping and purchasing experience Built customer confidence by actively listening to their concerns and giving appropriate feedback. Offered direction and gave constructive feedback to motivate team members. Marked clearance products with updated price tags. Maintained knowledge of current promotions, policies regarding payment and exchanges, and security practices. Operated a cash register to process, cash, check and credit card transactions. Helped customers select products that best fit their personal needs."
+        },
+        {
+            "title": "Teacher",
+            "company": "Company Name City , State",
+            "start_date": "2013-05",
+            "end_date": "2013-08",
+            "description": "Applied the postitive reinforcement method to redirect negative behaviors. Conducted small grooup and individual classroom activities based on differeniated learning needs. Wrote daily and weekly lesson plans. Supported students in developing strategies for individual needs and classroom group dynamics. Developed and implemented interesting and interactive learning mediums to increase student understanding of course materials."
+        },
+        {
+            "title": "Server",
+            "company": "Company Name City , State",
+            "start_date": "2011-07",
+            "end_date": "2012-07",
+            "description": "Accepted payment from customers and made change as necessary. Apportioned and served food to facility residents, employees, or patrons. Assisted diners with seating as needed. Checked patrons' identification to ensure that they met minimum age requirements for consumption of alcoholic beverages Cleaned and maintained the beverage area, display cases, equipment, and order transaction area. Cleaned bars, work areas, and tables. Cleaned up spilled food, drink and broken dishes, and removed empty bottles and trash."
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name City , State",
+            "start_date": "2008-05",
+            "end_date": "2011-08",
+            "description": "Answered customers' questions and addressed problems and complaints in person and via phone. Educated customers on product and service offerings Offered exceptional customer service to differentiate and promote the company brand. Collaborated with customer service team members to give exceptional service throughout the entire shopping and purchasing experience Built customer confidence by actively listening to their concerns and giving appropriate feedback. Offered direction and gave constructive feedback to motivate team members. Marked clearance products with updated price tags. Maintained knowledge of current promotions, policies regarding payment and exchanges, and security practices. Operated a cash register to process, cash, check and credit card transactions. Helped customers select products that best fit their personal needs."
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name City , State",
+            "start_date": "2011-05",
+            "end_date": "2011-07",
+            "description": "Answered customers' questions and addressed problems and complaints in person and via phone. Educated customers on product and service offerings Offered exceptional customer service to differentiate and promote the company brand. Collaborated with customer service team members to give exceptional service throughout the entire shopping and purchasing experience Built customer confidence by actively listening to their concerns and giving appropriate feedback. Offered direction and gave constructive feedback to motivate team members. Marked clearance products with updated price tags. Maintained knowledge of current promotions, policies regarding payment and exchanges, and security practices. Operated a cash register to process, cash, check and credit card transactions. Helped customers select products that best fit their personal needs."
+        },
+        {
+            "title": "LIBRARIAN ASSOCIATE",
+            "company": "Company Name City , State",
+            "start_date": "2010-09",
+            "end_date": "2011-05",
+            "description": "Maintained an inventory of contents for the rare books and archives collections. Reshevled books to maintain a neat and tidy reading area. Monittored the lending or reserved course materials. Troubleshooted technical problems with library computers and other technology. Answered patrons' questions at the circulation desk. Enforced circulation policies and procedures. Maintained complete and accurate records of all library transactions."
+        },
+        {
+            "title": "Barista",
+            "company": "Company Name City , State",
+            "start_date": "2007-07",
+            "end_date": "2007-08",
+            "description": "Accepted payment from customers and made change as necessary. Apportioned and served food to facility residents, employees, or patrons. Assisted diners with seating as needed. Cleaned and maintained the beverage area, display cases, equipment, and order transaction area. Cleaned bars, work areas, and tables. Cleaned up spilled food, drink and broken dishes, and removed empty bottles and trash."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in History & Social Studies Education",
+            "school": "Longwood University",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        "Virginia Professional Teaching License",
+        "Florida Professional Teaching License"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Dynamic leader, with outstanding experience in major gifts, fundraising, event management, donor relations, government and community relations, public relations and marketing, board management and development, and strategic planning.",
+    "skills": [
+        "Strong verbal communication",
+        "Budgeting and finance",
+        "Project management",
+        "Process implementation",
+        "Extremely organized",
+        "Client assessment and analysis",
+        "Team leadership",
+        "Self-motivated"
+    ],
+    "experience": [
+        {
+            "title": "Director of Donor Relations",
+            "company": "Montclair State University Office of Advancement",
+            "start_date": "03/2016",
+            "end_date": "Current",
+            "description": "Lead a $1.2 million fundraising budget and a three-person direct report team; designed and coordinated an institution-wide donor relations and stewardship program; managed key fundraising events; achieved 100% of Annual Golf Outing goal and 133% of Annual Scholarship Dinner goal; implemented donor acknowledgement policies and integrated donor relations programs."
+        },
+        {
+            "title": "Director of Development",
+            "company": "Immaculate Heart Academy (IHA)",
+            "start_date": "09/2014",
+            "end_date": "03/2016",
+            "description": "Managed $1.2 million budget for department; oversaw annual fund, capital campaign, scholarship, marketing initiatives and stewardship programs; modernized external branding; managed staff of 2; redesigned annual fund program; achieved 100%+ of capital campaign goals; established Alumnae giving and Reunion Giving; managed portfolio of 250+ major gift prospects; achieved 100%+ FY15 goals."
+        },
+        {
+            "title": "Donor Relations Manager",
+            "company": "Saint Peter's University Office of Advancement",
+            "start_date": "10/2013",
+            "end_date": "09/2014",
+            "description": "Responsible for $250,000 fundraising budget; oversaw donor stewardship, scholarship endowment, and portfolio of 100+ prospects; led Board of Regents engagement; implemented customized relationship management for leadership-level donors; managed donor scholarships and pledge processes; supported regional fundraising efforts."
+        },
+        {
+            "title": "Annual Fund and Special Events Manager",
+            "company": "Englewood Hospital and Medical Center Foundation",
+            "start_date": "11/2010",
+            "end_date": "10/2013",
+            "description": "Oversaw $2.5 million Annual Fund; increased corporate and community sponsorships by 45%; managed major gifts portfolio; expanded Breast Cancer Walk; established Business Partner and Physician Partners programs; managed donor programs and events; negotiated advertising program; recognized with awards."
+        },
+        {
+            "title": "Special Events & Annual Fund Manager",
+            "company": "American Cancer Society",
+            "start_date": "04/2010",
+            "end_date": "11/2010",
+            "description": "Managed annual events in North Jersey; achieved fundraising goals for Golf Classic, Gala, and Making Strides; helped transform and grow Walking events and sponsorships."
+        },
+        {
+            "title": "Director of Special Events",
+            "company": "American Cancer Society",
+            "start_date": "03/2009",
+            "end_date": "04/2010",
+            "description": "Directed all annual events in the North Jersey Region; achieved goals within budget; expanded Walking events and increased sponsorships; recruited board members to revitalize committees."
+        },
+        {
+            "title": "Director of Fund Development",
+            "company": "Oasis",
+            "start_date": "01/2006",
+            "end_date": "03/2009",
+            "description": "Responsible for a $1.5 million fundraising budget; modernized external brand and digital presence; closed $500K budget gap through board initiatives; achieved goals on signature events; established long-term fund development plan; expanded donor and campaign initiatives."
+        },
+        {
+            "title": "Senior Marketing Communications Manager",
+            "company": "Sony Electronics",
+            "start_date": "11/1997",
+            "end_date": "10/2004",
+            "description": "Developed and managed client portfolios; increased sales portfolio by 75%; awarded Customer Service Award in 2008 and 2009; managed branding and marketing initiatives for Sony's consumer and professional markets."
+        },
+        {
+            "title": "Digital Media Specialist, Senior Marketing Communications Specialist, Senior Market Analyst",
+            "company": "Sony Electronics",
+            "start_date": "01/2002",
+            "end_date": "09/2002",
+            "description": "Implemented online product launches for B2B and B2C; managed production and tradeshow coordination; received award for NAB first CDR; managed internal sales awards program; maintained confidential information and updated programs' websites."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in Political Science",
+            "school": "Montclair State University",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}
