@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "It is my desire to advance my professional development through marrying the management, purchasing, and guest-oriented skills honed over a 20 year professional career in educational musical sales with a teaching passion that began with 6 plus years as an educator. Highlights include innovative teaching methods, leadership/communication skills, IMEA and Board of Education membership, client account management, Midwest Band and Orchestra Annual Clinic Exhibitor experience, employee and vendor relations, self-motivation, commitment to cultivating a successful team, and a customer-oriented approach. Accomplishments include increasing sales 53% from 2013 to 2014 as National Sales Manager at Universal Melody Distribution, and developing profitable relationships with many well-known music industry manufacturers.",
+    "skills": [
+        "Sales",
+        "Sales Management",
+        "Wholesale Sales",
+        "Business Development",
+        "Internet Sales",
+        "School Sales",
+        "Music Education",
+        "Drum Set Performance",
+        "Vibraphone Performance"
+    ],
+    "experience": [
+        {
+            "title": "National Sales Manager",
+            "company": "Universal Melody Distribution",
+            "start_date": "January 2009",
+            "end_date": "Present",
+            "description": "Oversee the daily operations of Universal Melody Distribution and its online sales division; manage institutional bids, drive sales opportunities as leader of a sales team; develop quarterly sales goals and implement plans; oversee the daily operations of the retail sales division; oversee the daily operations of our warehousing staff; analyze sales history for merchandise and submit purchase orders to vendors; attend the annual winter NAMM show as a buyer; negotiate special pricing for high volume items with vendors; develop and maintain strong working relationships with vendors; observe sales trends for new merchandise and incorporate new items into quarterly sales goals."
+        },
+        {
+            "title": "Director of Educational Services/Bids Administration",
+            "company": "Cascio Interstate Music",
+            "start_date": "January 2001",
+            "end_date": "January 2009",
+            "description": "Complete and submit institutional bids to school districts throughout the nation. Solve complicated customer service issues related to bid sales. Develop and maintain a successful team of Educational Services Representatives that visit approximately 90 schools each week. Develop and maintain business relationships with primary, middle and high school music educators in South East/South Central Wisconsin. Implement new ideas for promoting the educational services division of Cascio Interstate Music. Improve overall net profit of school music related income such as rental income, repair income and capital expenditure income. Rental collection. Retail customer sales and service. Maintain the 'look and feel' of the retail Band and Orchestra Department. Maintain a high level of customer satisfaction throughout the retail division. Assist with the daily administration of the retail division."
+        },
+        {
+            "title": "Educational Services Representative",
+            "company": "Cascio Interstate Music",
+            "start_date": "January 1997",
+            "end_date": "January 2001",
+            "description": "Captured 55%+ market share with band-related sales. Customer sales and service. Developing and maintaining business relationships with primary, middle and high school music educators in West Central Indiana and Eastern Illinois. Created a successful instrument rental program, generating a 300% revenue increase in the 1st year alone. Inventory purchasing. Band and orchestral instrument and accessory sales."
+        },
+        {
+            "title": "Fine Arts Coordinator",
+            "company": "Unknown",
+            "start_date": "January 1992",
+            "end_date": "January 1997",
+            "description": "Observed and assessed student performance and kept thorough records of student progress. Managed classrooms of 12 to 70 students during tenure as coordinator, responsible for both musical development and implemented a variety of teaching methods such as lectures, discussions and demonstrations. Established clear objectives for all lessons, units and projects. Encouraged students to persevere with challenging tasks, designed to build leadership in all grade levels. Set and communicated ground rules for the classroom based on respect and personal responsibility. Tutored children individually and in small groups to help them with difficult subjects. Taught after-school and summer enrichment programs. Established positive relationships with students, parents, fellow teachers and school administrators. Scheduled and held parent-teacher conferences to keep parents up-to-date on children's academic performance. Mentored and counseled students with adjustment and academic problems. Collaborated with other staff members to plan and schedule lessons promoting learning and student engagement. Coordinated all fine arts performances. Director of bands grades five through twelve. Director of choirs grade nine through twelve. General music instructor grades kindergarten through eight."
+        },
+        {
+            "title": "Assistant Band Director",
+            "company": "Unknown",
+            "start_date": "January 1990",
+            "end_date": "January 1992",
+            "description": "Assisted band program with instructional activities and program coordination."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters: Music Education",
+            "school": "Indiana State University",
+            "year": "1992"
+        },
+        {
+            "degree": "Bachelor of Science: Music Education",
+            "school": "Indiana State University",
+            "year": "1990"
+        },
+        {
+            "degree": "Associate's degree: Fine Arts",
+            "school": "Vincennes University",
+            "year": "1986"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

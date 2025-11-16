@@ -1,0 +1,84 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Food Production Management with K12 chef management experience, National School Lunch Program oversight, food safety champion, culinary innovation, and proven team leadership. Skilled in training and development, contract management, inventory and ordering, procurement analysis, auditing, waste management, food cost and labor management, catering and restaurant management, communication, and budget/invoice processes. Proficient with MS Office, QuickBooks, Quicken, Newton POS, Cater Trax, and various menu software; experienced with food allergy management and sanitation.",
+    "skills": [
+        "Food spoilage prevention",
+        "Kitchen Management",
+        "Menu planning",
+        "Recruiting and Hiring",
+        "Cooking skills",
+        "Supply ordering",
+        "Budgeting",
+        "Food plating and presentation",
+        "Signature dish creation",
+        "Forecasting and planning",
+        "Baking and broiling skills",
+        "Recipes and menu planning",
+        "Sanitation guidelines",
+        "Workflow optimization",
+        "Food inventories",
+        "Performance assessments",
+        "Adaptability",
+        "Cultural awareness",
+        "Written communication",
+        "MS Office Proficient",
+        "QuickBooks",
+        "Quicken",
+        "Newton POS",
+        "Cater Trax knowledgeable",
+        "Menu Software Proficient",
+        "Waste management savvy",
+        "Food Allergy/medical condition trained"
+    ],
+    "experience": [
+        {
+            "title": "Chef Manager",
+            "company": "Company Name",
+            "start_date": "08/2020",
+            "end_date": "Present",
+            "description": "Placed food orders with suppliers on a weekly basis, considering kitchen budget and expected demands. Hired, trained and managed all kitchen staff, including development, disciplinary actions and performance reviews. Ensured safety compliance to reduce illness or accidents. Scheduled and received deliveries, adhering to food cost and budget. Contributed on line during peak times. Verified product quality and quantity upon delivery. Addressed dietary concerns and allergies by creating suitable dishes. Properly handled and stored food to prevent cross-contamination. Collaborated with Lusher Elementary on menu production or modification."
+        },
+        {
+            "title": "Chef Manager",
+            "company": "Company Name",
+            "start_date": "08/2019",
+            "end_date": "03/2020",
+            "description": "Placed weekly food orders with suppliers, considering kitchen budget and expected demands. Hired, trained and managed all kitchen staff, including development, disciplinary actions and performance reviews. Recruited and hired employees to build an effective culinary team for a $1.5 million annual revenue-producing restaurant in New Orleans. Prevented cross-contamination from utensils, surfaces and pans when cooking and plating meals for food allergy sufferers. Evaluated inventory levels weekly and restocked cooler and dry items. Prepared meals from scratch to generate repeat business. Maintained a $0.98 per unit food production cost while feeding over two thousand children. Achieved 83% participation rate (enrollment) for breakfast and snack meals. Managed USDA/DOD funds. Experienced with union workers and practices."
+        },
+        {
+            "title": "General Manager of Operations",
+            "company": "Company Name",
+            "start_date": "01/2017",
+            "end_date": "07/2017",
+            "description": "Created, managed and executed business plans and communicated company vision to motivate teams. Improved productivity and reduced staffing and operational costs by 7.5%. Recruited, interviewed, hired and developed team members who reflect company culture and values. Conducted performance appraisals, coaching, counseling, and recognition activities. Led trainings on procedures and safety to improve productivity. Closed store without lease penalties and maintained excellent standing with building management."
+        },
+        {
+            "title": "Operations Manager",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "11/2016",
+            "description": "Devised and implemented processes to boost long-term success and profitability. Set and enforced internal policies to maintain efficiency. Reduced average contract expenses by 16% through aggressive vendor negotiations. Grew sales revenues to over $450,000 annually. Collaborated with team to win multiple awards (e.g., Small Business of the Year, King Cake of the Year, Best of the Rest). Documented safety action plans, quality initiatives, and team performances."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "school": "University of New Orleans",
+            "year": "2009"
+        },
+        {
+            "degree": "Bachelor of Science",
+            "school": "Northwestern State University of Louisiana",
+            "year": "2005"
+        }
+    ],
+    "certifications": [
+        "Certified Servsafe, Expiration 2024",
+        "Member of the American Institute of Culinary Professionals 2019",
+        "Culinary Innovation of America Jr Board member"
+    ],
+    "languages": []
+}

@@ -1,0 +1,98 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Summary Mental Health Counselor specializing in Art and Play Therapies. Responsible self-starter who communicates well and is dedicated to improving the well-being of clients. Mental health professional driven to help others overcome personal obstacles. Comfortable working autonomously or in a team-based setting. Clinically certified Mental Health Therapist skilled at motivating, communicating and advocating for clients dealing with mental health and emotional disorders. Expert in DBT and psychotherapy. Seasoned mental health practitioner with demonstrated track record of successfully working with diverse client populations in one-on-one and group settings. Skilled Therapist with expertise on the identification and management of youth mental illnesses. Seasoned mental health practitioner with demonstrated track record of successfully working with diverse client populations in one-on-one and group settings. Mental health professional driven to help others overcome personal obstacles. Comfortable working autonomously or in a team-based setting.",
+    "skills": [
+        "Mental Health Counseling",
+        "Art Therapy",
+        "Play Therapy",
+        "DBT (Dialectical Behavior Therapy)",
+        "Psychotherapy",
+        "Family Therapy",
+        "Grief Counseling",
+        "Parenting Skills Education",
+        "Community Resources",
+        "Suicide Risk Assessment",
+        "Suicide Precautions",
+        "Medicaid Familiarity",
+        "Psychiatric Population Familiarity",
+        "Outreach Programming",
+        "Solution-Focused Counseling",
+        "DSM-IV Knowledge",
+        "Clinical Documentation",
+        "Case Management",
+        "Crisis Intervention",
+        "Anger Management",
+        "Relaxation Techniques",
+        "Impulse Control",
+        "Social Skills Training",
+        "Emotional Coping Skills",
+        "Functional Living Skills",
+        "Master Treatment Planning",
+        "Discharge Planning",
+        "Medication Liaison/Management",
+        "Behavioral Therapy Techniques",
+        "Education/Training",
+        "Teaching/Mentoring",
+        "NASW Member",
+        "Mood Disorders Specialist",
+        "Dual Diagnosis Expertise",
+        "CPS Knowledge",
+        "In-Home Assessments",
+        "Crisis Response"
+    ],
+    "experience": [
+        {
+            "title": "Co-Founder/Therapist and Teaching Artist",
+            "company": "Company Name",
+            "start_date": "August 2014",
+            "end_date": "October 2015",
+            "description": "Served as lead clinician for patients with bipolar, depression, anxiety and personality disorders. Used therapies including psychodynamic, family systems, cognitive behavioral and lifespan integration psychotherapy. Consulted on treatment and rehabilitation plans for dually diagnosed clients. Recorded patient histories and coordinated plans with multi-disciplinary teams. Diagnosed mental health, emotional and substance abuse disorders. Implemented risk assessments and mitigation strategies. Led individual, family, group and marital therapy; evaluated need for inpatient transfer. Guided clients in understanding illnesses and treatment plans. Created master treatment and discharge plans; referred clients to other programs and community agencies. Organized treatment projects focused on problem solving and creative thinking. Coordinated with psychiatrists on medication changes and efficacy. Worked with parents and teachers to implement consistent behavior therapy techniques at home and school. Taught anger management, relaxation, impulse control, social skills, emotional coping skills and functional living skills. Developed comprehensive treatment plans for accurate diagnosis and behavioral treatment. Collaborated with clinical staff and external resources; conducted outreach, advocacy and rehabilitative services for regular and crisis cases. Documented service plans and progress notes. Conducted comprehensive in-home psychosocial assessments prior to wraparound meetings. Managed time and caseloads with 50+ sessions per week. Ensured safety by checking facilities for hazards and maintaining client files."
+        },
+        {
+            "title": "CPS Specialist III",
+            "company": "Company Name",
+            "start_date": "June 2012",
+            "end_date": "March 2014",
+            "description": "Effectively managed time and caseloads based on 50+ sessions per week. Charted and recorded information in client files. Tracked client movement on and off the unit and responded to crisis situations. Conducted initial in-home psychosocial assessments prior to wraparound meetings. Gathered information from families and social services agencies to inform treatment plans. Documented all patient information including service plans, treatment reports and progress notes. Conducted outreach, advocacy and rehabilitative services for regular cases and crisis intervention. Collaborated with treatment teams to coordinate client care services; interacted with clinical staff and external resources. Developed comprehensive treatment plans focusing on accurate diagnosis and behavioral treatment. Taught clients anger management, relaxation, impulse control, social skills, emotional coping skills and functional living skills. Worked with parents and teachers to implement consistent behavior therapy techniques; consulted with psychiatrists about medication changes and adherence. Created and reviewed master treatment and discharge plans; guided clients in understanding illnesses and treatment plans. Developed policies for identification of medically-related social and emotional needs. Assisted clients with scheduling home visits and calls; monitored effectiveness. Evaluated patients for psychiatric services and psychotropic medications; administered medications when needed. Conducted psychiatric evaluations and medication management for inpatient and outpatient facilities."
+        },
+        {
+            "title": "Therapist",
+            "company": "Company Name",
+            "start_date": "August 2008",
+            "end_date": "May 2011",
+            "description": "Effectively managed time and caseloads based on 50+ sessions per week. Charted and recorded information in client files. Responded quickly to crisis situations. Conducted comprehensive initial in-home psychosocial assessments prior to wraparound meetings. Gathered information from families and social services agencies to inform treatment plans. Documented all patient information including service plans, treatment reports and progress notes. Conducted outreach, advocacy and rehabilitative services for regular cases and crisis intervention. Collaborated with treatment teams to coordinate client care services. Taught clients anger management techniques, relaxation skills, impulse control, social skills, emotional coping skills and functional living skills. Worked with parents and teachers to implement consistent behavior therapy techniques at home and school. Consulted with psychiatrists about medication changes and adherence. Created and reviewed master treatment and discharge plans; guided clients in understanding illnesses and treatment plans. Developed policies for medically-related social and emotional needs of clients. Assisted clients with scheduling home visits and calls; monitored effectiveness. Evaluated patients for psychiatric services and psychotropic medications; administered medications as needed. Conducted psychiatric evaluations and medication management for both inpatient and outpatient facilities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. in Education (Special Education specialization)",
+            "school": "Northcentral University",
+            "year": "2020"
+        },
+        {
+            "degree": "Master of Science in Homeland Security (Emergency Management and Public Health specialization)",
+            "school": "Colorado Technical University",
+            "year": "2017"
+        },
+        {
+            "degree": "Master of Arts in Teaching",
+            "school": "University of Southern California",
+            "year": "2012"
+        },
+        {
+            "degree": "Master of Social Work",
+            "school": "University of Pennsylvania",
+            "year": "2008"
+        },
+        {
+            "degree": "Bachelor of Arts in Urban Studies",
+            "school": "Rutgers University",
+            "year": "2006"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

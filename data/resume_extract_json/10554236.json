@@ -1,0 +1,102 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Financial Accountant specializing in financial planning, reporting and analysis within the Department of Defense. Highlights Account reconciliations Results-oriented Financial reporting Critical thinking Accomplishments Accounting operations professional Analysis of financial systems ERP (Enterprise Resource Planning) software. Excellent facilitator Served on a tiger team which identified and resolved General Ledger postings in DEAMS totaling $360B in accounting adjustments. This allowed for the first successful fiscal year-end close for 2012. In collaboration with DFAS Europe, developed an automated tool that identified duplicate obligations. This tool allowed HQ USAFE to deobligate over $5M in duplicate obligations.",
+    "skills": [
+        "Accounting",
+        "General Accounting",
+        "Accounts Payable",
+        "Program Management"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Defense Enterprise Accounting and Management System (DEAMS) - Enterprise Resource Planning Office (ERO)",
+            "start_date": "2011-07",
+            "end_date": "2012-11",
+            "description": "Accountant assigned to the DEAMS ERO, responsible for identifying and resolving issues affecting the DEAMS General Ledger; collaborated with Procure to Pay, Orders to Cash, and Budget to Report teams to resolve deployment challenges; tested scripts, patches, and system change requests; supported actions by the DEAMS PMO and System Integrator; served on a tiger team to identify and resolve GL posting differences and supported $360B in accounting adjustments enabling the first FY-end close in 2012."
+        },
+        {
+            "title": "Resource Advisor",
+            "company": "1st Air Communications Operation Squadron (1ACOS)",
+            "start_date": "2010-04",
+            "end_date": "2011-06",
+            "description": "Provided financial advice and decision support to the Commander; coordinated a $4.6M budget across four funding sources; engaged with USAFE directorates and the 435th Air Ground Operations Wing to meet mission requirements; managed multiple timelines for budget/unfunded requirements; prepared documentation and reports; guided GPC policy and training; served as Billing Official with a zero-findings self-inspection."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "HQ USAFE",
+            "start_date": "2008-07",
+            "end_date": "2010-04",
+            "description": "Provided accounting oversight and financial analysis across USAFE; identified negative trends and weaknesses; partnered with DFAS Europe to develop an automated tool to identify duplicate obligations, deobligating over $5M; established performance metrics for USAFE resources; supported GPC compliance metrics and remote training for ODA deployment."
+        },
+        {
+            "title": "Chief, Reports Branch. Accounts Maintenance and Control",
+            "company": "Limestone",
+            "start_date": "2007-01",
+            "end_date": "2009-07",
+            "description": "Led development and standardization of managerial/system reports; monitored GAFS/BQ errors; reconciled fund balances; oversaw transition to High Performing Organization; conducted biweekly Standards and Compliance discussions; established staffing plans and performance standards; led effort to eliminate suspense accounts and to transition TFMS workload; contributed to FMFIA compliance."
+        },
+        {
+            "title": "Chief, Accounts Payable Branch",
+            "company": "DFAS Limestone",
+            "start_date": "2000-02",
+            "end_date": "2007-01",
+            "description": "Managed a 120+ person Accounts Payable operation; established priorities and schedules to handle workload spikes during DFAS Denver consolidations; strengthened partnerships with Major Commands; conducted quarterly personnel feedback and performance appraisals; developed employee performance plans; analyzed Vendor Pay workflow; produced ad-hoc Louis II data queries; managed budgets; delivered training and Boot Camp for base-level Resource Advisors."
+        },
+        {
+            "title": "Chief, Recon and Reports Branch",
+            "company": "Vendor Pay Reports and Recon Branch",
+            "start_date": "1999-02",
+            "end_date": "2000-02",
+            "description": "Supervised 22 employees (GS-5 to GS-8) and German local staff; planned, directed, and supervised vendor pay data processing and reporting; developed branch policies; coordinated with other organizations; ensured timely and accurate financial statements; ensured compliance with DoD and DFAS Equal Opportunity programs; emphasized safety and training."
+        },
+        {
+            "title": "Chief, Accounts Payable Branch",
+            "company": "DFAS Limestone",
+            "start_date": "1995-06",
+            "end_date": "1999-02",
+            "description": "Managed branch of 120+ employees; established priorities, schedules, and work allocations; supported DFAS Denver consolidations and Air National Guard workload; conducted quarterly feedback; developed Employee Performance Plans; analyzed Vendor Pay workflow; used Louis II for ad-hoc data; managed budgets and responded to inquiries; delivered training."
+        },
+        {
+            "title": "Accountant, Network Assistant Team",
+            "company": "Network Assistance Team",
+            "start_date": "1994-06",
+            "end_date": "1995-06",
+            "description": "Developed procedures aligned with DoD regulations; supported consolidation of the first geographically separated Defense Accounting Office into DFAS; performed in-briefs/out-briefs at base-level DAOs; recommended process improvements for consolidation."
+        },
+        {
+            "title": "Supervisor, Accounts Control Branch",
+            "company": "Accounts Control Branch",
+            "start_date": "1993-06",
+            "end_date": "1994-06",
+            "description": "Directed and supervised the preparation of weekly, monthly, quarterly, semi-annual, and annual financial reports; monitored GAFS/BQ errors; reconciled fund balances; provided accounting data to base organizations; participated in MAJCOM/HQ workshops; supported policy changes and system updates; ensured year-end closing and conversion accuracy."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Accounting",
+            "school": "Northern Maine Community College",
+            "year": "1994"
+        },
+        {
+            "degree": "Accounting coursework toward Bachelor's degree",
+            "school": "Husson College",
+            "year": null
+        },
+        {
+            "degree": "Professional Military Comptroller School",
+            "school": "Professional Military Comptroller School",
+            "year": "1998"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Defense Financial Manager (CDFM)",
+            "year": "2005"
+        }
+    ],
+    "languages": []
+}

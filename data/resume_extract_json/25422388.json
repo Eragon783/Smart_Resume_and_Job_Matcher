@@ -1,0 +1,109 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Driven Graphic Artist adept at managing heavy workloads while focusing on designing creative, visually-appealing graphics. Focused, extremely organized, and comfortable working in fast-paced, deadline-driven environments. Expert in preflighting and optimizing artwork for high-quality print-ready files. Skilled in a variety of designs, logos and marketing packages, while always keeping up with the latest design trends and the latest technology. Accustomed to surpassing expectations in deadline-driven environments and always open to criticism with an attitude that every idea will lead to greater, bigger ideas.",
+    "skills": [
+        "Adobe Creative Suite",
+        "Adobe InDesign",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Adobe Acrobat",
+        "QuarkXpress",
+        "Dreamweaver",
+        "HTML",
+        "CSS",
+        "Microsoft Office Suite",
+        "Promotional Materials",
+        "Direct-Mail",
+        "Self-Motivated",
+        "Sense of Humor",
+        "Conceptual Thinker",
+        "Attention to Detail",
+        "Strong Design Sense",
+        "Resourceful Researcher",
+        "Advanced Typography Knowledge"
+    ],
+    "experience": [
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name - City, State",
+            "start_date": "07/2012",
+            "end_date": "10/2015",
+            "description": "Prepared layouts and drawings in compliance with established templates and design standards. Designed unique print materials, including advertisements, brochures and logo designs. Designed web pages, graphic elements and infographics for email newsletters."
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name - City, State",
+            "start_date": "05/2009",
+            "end_date": "02/2015",
+            "description": "Designed unique print materials, including advertisements, brochures and logo designs. Prepared layouts and drawings in compliance with established templates and design standards. Contributed ideas during strategic and conceptual brainstorming sessions. Recommended techniques, methods and media best suited to produce desired visual effects. Prioritized graphic workload and effectively coordinated multiple projects."
+        },
+        {
+            "title": "Art Director",
+            "company": "Company Name - City, State",
+            "start_date": "01/2006",
+            "end_date": "05/2009",
+            "description": "Created visuals that appeal to leaders in the big data and high-tech world. Created the look and feel of the organization's online presence in social media forums. Developed templates for e-newsletters, presentations and reports. Designed unique print materials, including advertisements, brochures and logo designs. Designed artistic signage for special corporate events. Created all communications collateral, including web pages, brochures and fliers. Developed, designed and produced corporate newsletters and other promotional direct mail items as directed by marketing. Created graphic materials for the company website."
+        },
+        {
+            "title": "Art Director",
+            "company": "Company Name - City, State",
+            "start_date": "02/2005",
+            "end_date": "12/2006",
+            "description": "Determined styles, size and arrangement of illustrations and graphics. Planned and produced marketing materials, including catalogs, handbooks and charts. Prioritized graphic workload and effectively coordinated multiple projects. Developed creative graphics that simplified complex messages. Prepared layouts and drawings in compliance with established templates and design standards. Contributed ideas during strategic and conceptual brainstorming sessions."
+        },
+        {
+            "title": "Art Director",
+            "company": "Company Name - City, State",
+            "start_date": "12/2003",
+            "end_date": "02/2005",
+            "description": "Contributed ideas during strategic and conceptual brainstorming sessions. Designed unique print materials, including advertisements, brochures and logo designs. Collaborated with a team of designers to offer improvements and direction on others' projects. Adhered to all corporate brand guidelines when preparing graphic materials. Prioritized graphic workload and effectively coordinated multiple projects. Consistently adhered to all internal delivery schedules."
+        },
+        {
+            "title": "Art Director",
+            "company": "Company Name - City, State",
+            "start_date": "12/2002",
+            "end_date": "12/2003",
+            "description": "Designed unique print materials, including advertisements, brochures and logo designs. Collaborated with a team of designers to offer improvements and direction on others' projects. Contributed ideas during strategic and conceptual brainstorming sessions. Recommended techniques, methods and media best suited to produce desired visual effects. Prioritized graphic workload and effectively coordinated multiple projects. Determined styles, size and arrangement of illustrations and graphics."
+        },
+        {
+            "title": "Production Artist",
+            "company": "Company Name - City, State",
+            "start_date": "02/2001",
+            "end_date": "12/2002",
+            "description": "Prepared layouts and drawings in compliance with established templates and design standards. Meticulously followed corporate brand guidelines to enable brand consistency across campaigns and marketing programs. Prioritized graphic workload and effectively coordinated multiple projects."
+        },
+        {
+            "title": "Production Artist",
+            "company": "Company Name - City, State",
+            "start_date": "01/2000",
+            "end_date": "02/2001",
+            "description": "Prepared layouts and drawings in compliance with established templates and design standards. Meticulously followed corporate brand guidelines to enable brand consistency across campaigns and marketing programs. Prioritized graphic workload and effectively coordinated multiple projects."
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name - City, State",
+            "start_date": "07/1999",
+            "end_date": "01/2000",
+            "description": "Prepared layouts and drawings in compliance with established templates and design standards. Meticulously followed corporate brand guidelines to enable brand consistency across campaigns and marketing programs. Prioritized graphic workload and effectively coordinated multiple projects. Developed templates for e-newsletters, presentations and reports. Coordinated with the content production and delivery managers to launch carrier-approved content worldwide."
+        },
+        {
+            "title": "Creative Internship",
+            "company": "Company Name - City, State",
+            "start_date": "04/1999",
+            "end_date": "07/1999",
+            "description": "Contributed ideas during strategic and conceptual brainstorming sessions and learned how an award-winning agency operated."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Journalism - Marketing",
+            "school": "Texas A&M University",
+            "year": 2001
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

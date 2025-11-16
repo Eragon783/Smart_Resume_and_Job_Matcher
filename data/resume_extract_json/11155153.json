@@ -1,0 +1,137 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Over twenty-eight years of experience in design-engineering with strong capabilities in 3D model part design and assembly development (including BOM generation), heavy and light structural frame design, aluminum mounting platform design, and weight distribution analysis. Proven ability to analyze, defend, and optimize designs; highly proficient in Creo Parametric 2.0, Windchill, Autodesk Inventor 2015, and related CAD/CAE tools; experienced with FEA, material selection, and manufacturing considerations; excellent communication and task-management skills.",
+    "skills": [
+        "3D modeling",
+        "part design",
+        "assembly development",
+        "BOM generation",
+        "structural frame design",
+        "aluminum mounting platform design",
+        "weight distribution analysis",
+        "hydraulic components troubleshooting",
+        "hydraulic circuit design",
+        "pneumatic circuit design",
+        " Creo Parametric 2.0",
+        "Windchill",
+        "Autodesk Inventor 2015",
+        "Autodesk Vault Professional 2102",
+        "Routed Systems - Tube and Pipe",
+        " FEMA/FEA concepts",
+        "section modulus analysis",
+        "material selection research",
+        "vendor/purchasing",
+        "PMA development",
+        "DPD compliance",
+        "Pro/Engineer",
+        "AutoCAD",
+        "SolidWorks",
+        "CADDS4X",
+        "team leadership",
+        "project coordination",
+        "mil-std and ansi y14.5 standards"
+    ],
+    "experience": [
+        {
+            "title": "Mechanical Designer",
+            "company": "Company Name",
+            "start_date": "May 2013",
+            "end_date": "July 2015",
+            "description": "Strong understanding of hydraulic components and able to troubleshoot with the ability to develop and improve hydraulic circuits from existing schematics. As a member of the Research and Technology team, contributed to projects focused on reducing downtime and improving quality. Designs developed with Creo Parametric 2.0, Windchill and Autodesk Inventor 2015. Implemented pneumatic circuit to ensure proper conditions before engaging the clutch on Frac pump units, protecting clutch from premature failure. Investigated Fluid End failures and corrected drawing errors related to seat angle, increasing Fluid End life. Created source control drawings for fluid end valves and seats to eliminate misaligned seats and premature washouts. Designed a cross unit manifold connecting up to 22 Frac Pumps to run on natural/field gas, reducing fuel costs. Troubleshot and redesigned hydraulic circuits on fleets’ sand conveyors, reducing downtime and training needs. Redesigned hydraulic circuit on a vendor’s sand conveyor to correct issues, including PVG valve spool modification and cross-port relief valve installation. Designed a dust control system for the fleet of sand kings."
+        },
+        {
+            "title": "Mechanical Designer",
+            "company": "Company Name",
+            "start_date": "April 2011",
+            "end_date": "May 2013",
+            "description": "Member of the Coil Tubing Unit (CTU) team ensuring designs meet API and ISO standards using Autodesk Inventor Pro 2012 (Routed Systems - Tube and Pipe) and Autodesk Vault Professional 2012. Created weight distribution analyses and presented findings. Redesign of CTU trailer to eliminate costly rework and confusion. Hydraulic Wet Kit assembly and frame design. Capable of setting up 3D models for integrated Autodesk stress analysis (FEA) including convergence, material properties, loads and constraints. Knowledge of section modulus for strength comparison under directional loads. Researched material/interface options and presented viable solutions. Vendor/Purchasing QA sit-ins; direct interaction with customers on additional hardware installations. Initiated data research and contacts to drive viable solutions."
+        },
+        {
+            "title": "Planning Engineer",
+            "company": "Company Name",
+            "start_date": "January 2009",
+            "end_date": "February 2010",
+            "description": "Applied Aerodynamics Inc. is an FAA/EASA Repair Station focused on repair/overhaul/manufacturing of flight control surfaces and aircraft composites. Responsible for planning incoming repair orders for aviation parts and work instructions for aircraft components from minor skin repairs to rib, skin and spar replacement. Developed internal procedures and ensured compliance with D1-51991 Digital Product Definition (DPD) for Boeing Suppliers. Participated in on-site Boeing DPD audit enabling retrieval/usage of DPD data for manufacturing and repair. Interacted with contracts, customer service, engineering, purchasing and fabrication shops. Reviewed orders for process improvements and contributed to PMA development at Applied Aerodynamics."
+        },
+        {
+            "title": "Senior Manufacturing Planner",
+            "company": "AeroParts Manufacturing and Repair",
+            "start_date": "October 2006",
+            "end_date": "December 2008",
+            "description": "Focused on sheet-metal detail parts, assemblies and drop-hammer stampings. Manages planning of all incoming production orders for new aviation parts and repair station planning/work instructions. Ensured customer requirements were verified and aligned with contractual requirements. Developed a Master Shop Traveler, assigned traveler numbers, input manufacturing instructions, verification/testing needs, and integrated with the cost system. Released shop travelers to production/stores and reviewed completed travelers for changes. Conducted technical and estimating support, providing lead-time estimates and manufacturing methods."
+        },
+        {
+            "title": "Senior Mechanical Designer",
+            "company": "Company Name",
+            "start_date": "June 2004",
+            "end_date": "July 2006",
+            "description": "Designed electro-mechanical assemblies for Mobile Command and Communications Systems (BLOS HMDA) housed in an S805 Shelter mounted on an ECV HMMWV. Created rack mounting systems compliant with EIA standards. Responsibilities included troubleshooting existing solid models, generating new models, and documentation for sheet metal fabrication, assemblies, welding, forming, and machining. Tools used included SolidWorks, Pro/Engineer, and AutoCAD, following MIL-STD-100E, ANSI Y14.5M-1982, and ASME Y14.5-1994."
+        },
+        {
+            "title": "Senior Mechanical Designer",
+            "company": "Company Name",
+            "start_date": "June 2002",
+            "end_date": "November 2003",
+            "description": "Supported design and documentation for Remote Handling of Transuranic Waste at WIPP, including underground radios, CAM, remote jib crane for Cask Preparation Station, radiation source holders, elevated work platforms, shrouded probe assemblies, hydraulic wrench systems, ventilation systems and offline tooling."
+        },
+        {
+            "title": "Senior Mechanical Designer",
+            "company": "Company Name",
+            "start_date": "August 1996",
+            "end_date": "June 2001",
+            "description": "Supported electro-mechanical packaging of data acquisition electronics, instrumentation, missiles, and satellite guidance systems for expendable launch vehicles (ATLAS, DELTA II, DELTA III). Produced design layouts, assembly drawings, parts lists, and engineering details in AutoCAD R14. Ensured MIL-STD-100E, ANSI Y14.5M-1982, and ASME Y14.5-1994 compliance."
+        },
+        {
+            "title": "Senior Mechanical Designer",
+            "company": "Company Name",
+            "start_date": "August 1994",
+            "end_date": "March 1996",
+            "description": "Specialized in mechanical engineering/aerospace design and electro-mechanical packaging of black boxes. Created AutoCAD-R12 layouts, assembly drawings, and engineering details to MIL-STD-100C and DOD standards. Established datum points, tolerances per ANSI Y14.5M-1982, and managed parts lists. Performed change order tracking and maintained a web-based mechanical parts library."
+        },
+        {
+            "title": "Senior Mechanical Designer",
+            "company": "Company Name",
+            "start_date": "October 1992",
+            "end_date": "August 1994",
+            "description": "Extensive design for mining and heavy industrial equipment, including vertical/horizontal shaft crushers and related components. Developed layouts for complex assemblies, ensuring manufacturability, material availability, interchangeability, and strength/weight efficiency. Led technical problem resolution and provided guidance to management and clients."
+        },
+        {
+            "title": "Senior Mechanical Designer",
+            "company": "Company Name",
+            "start_date": "June 1986",
+            "end_date": "October 1992",
+            "description": "Specialized in mechanical engineering/aerospace design and electro-mechanical packaging of black boxes. Generated AutoCAD-R12 layouts, assembly drawings, and engineering details to MIL-STD-100E and corporate standards. Established tolerances per ANSI Y14.5M-1982 and managed parts lists. Performed change order tracking and maintained a web-based mechanical parts library."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Industrial Hydraulics Training (Level I, Level II and Hydraulic Trouble Shooting)",
+            "school": "Hydraulics Training",
+            "year": "2012"
+        },
+        {
+            "degree": "Private Pilot's License",
+            "school": "Federal Aviation Administration",
+            "year": "2004"
+        },
+        {
+            "degree": "Pro/Engineer Certification",
+            "school": "New Mexico State University",
+            "year": "2003"
+        },
+        {
+            "degree": "Associates Degree in Drafting Technology",
+            "school": "South Plains College",
+            "year": "1986"
+        }
+    ],
+    "certifications": [
+        "Pro/Engineer Certification (2003)",
+        "Industrial Hydraulics Training (Level I, II and Hydraulic Troubleshooting) – 2012",
+        "Private Pilot's License – 2004"
+    ],
+    "languages": []
+}

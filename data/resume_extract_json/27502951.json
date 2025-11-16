@@ -1,0 +1,62 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced aviation & aerospace professional with 14 years of experience in international governmental liaison, aircraft certification, regulatory compliance, aircraft sales and import/export compliance. Professional pilot with over 800 hours; skilled in multi-tasking, problem solving and risk management.",
+    "skills": [
+        "Microsoft Windows operating systems",
+        "MS Office",
+        "NX7.5",
+        "Unigraphics",
+        "Teamcenter",
+        "computer networking",
+        "LAN",
+        "WLAN",
+        "regulatory compliance",
+        "Aircraft import/export",
+        "management",
+        "problem solving",
+        "3D modeling",
+        "Accident investigation",
+        "Root Cause Analysis"
+    ],
+    "experience": [
+        {
+            "title": "International Certification Program Management",
+            "company": "Company Name",
+            "start_date": "2010-07",
+            "end_date": "Present",
+            "description": "Lead subject matter expert on foreign regulations with regards to certification & operations. Managed external contract engineering design groups with regards Type Design changes. Developed and managed internal engineering disciplines, FAA, and foreign authority project teams during the validation process. Developed departmental procedures based on international bilateral agreements, governmental regulation and operational requirements. Coordinated certification activities with internal functions and direct FAA involvement. Developed certification procedures as required and reviewed company documentation to meet FAA & foreign civil aviation authority requirements. Reviewed compliance documentation, design data, Certification Plans, Compliance Reports, Drawings, and wrote internal coordination memos prior to domestic and foreign government submission. Developed compliance packages and submitted directly to the FAA and foreign authority. Improved guidelines in implementing certification programs while maintaining budgetary and schedule constraints. Ensured compliance to multi-national agreements and regulatory framework."
+        },
+        {
+            "title": "Maintenance & Avionics Coordinator",
+            "company": "Company Name",
+            "start_date": "2000-05",
+            "end_date": "2005-08",
+            "description": "Developed and managed maintenance and avionics customer accounts, processed invoice payments, credits and net account billing. Prepared maintenance/avionics invoices. Managed subscription based navigational data for company charter operations & customer based aircraft. Coordinated invoicing, account management of all maintenance and avionics repairs for a FAA 145 repair station. Managed pilot supplies, purchase orders, inventory control cycling of life limited products."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Professional Aeronautics",
+            "school": "Embry-Riddle Aeronautical University",
+            "year": 2009
+        },
+        {
+            "degree": "Associate of Arts: Liberal Arts",
+            "school": "Johnson County Community College",
+            "year": 2004
+        },
+        {
+            "degree": "Professional Aeronautics",
+            "school": "Spartan School of Aeronautics",
+            "year": 1999
+        }
+    ],
+    "certifications": [
+        "FAA Certificated Commercial/Instrument Pilot - Single-Engine Airplane",
+        "PADI Certified Dive Master"
+    ],
+    "languages": []
+}

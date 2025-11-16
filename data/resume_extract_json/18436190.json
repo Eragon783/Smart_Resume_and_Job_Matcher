@@ -1,0 +1,90 @@
+{
+    "name": "Giselle Ayala",
+    "email": "",
+    "phone": "",
+    "location": "Bay Area, California",
+    "summary": "Public Relations Manager with over 7 years of PR and marketing experience, specializing in B2B technology, media relations, branding, events, and fundraising. Proven track record in company rebrands, website overhauls, international campaigns, and crisis communication, with strong leadership, content development, and stakeholder management skills.",
+    "skills": [
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "advertising",
+        "B2B",
+        "conferences",
+        "content management",
+        "film",
+        "fundraising",
+        "graphics",
+        "leadership",
+        "logistics",
+        "managing",
+        "marketing plan",
+        "marketing",
+        "Marketing Management",
+        "marketing materials",
+        "media relations",
+        "meetings",
+        "messaging",
+        "Microsoft Excel",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "network",
+        "networks",
+        "newsletter",
+        "press",
+        "press releases",
+        "PR",
+        "product marketing",
+        "Project lead",
+        "promotion",
+        "public relations",
+        "speaking",
+        "radio",
+        "reporting",
+        "Research",
+        "sound",
+        "TV",
+        "television",
+        "trade shows",
+        "video",
+        "website",
+        "websites"
+    ],
+    "experience": [
+        {
+            "title": "Public Relations Manager",
+            "company": "Brother Grand",
+            "start_date": "2014-08",
+            "end_date": "Present",
+            "description": "Managed media relations with local and national press; created press releases; invited and hosted press at events. Created marketing materials including press one-sheets, social media flyers and monthly newsletters. Ran national tour campaigns including booking, social media promotion and media outreach."
+        },
+        {
+            "title": "Marketing Director",
+            "company": "Team Giselle",
+            "start_date": "2010-10",
+            "end_date": "Present",
+            "description": "Created and executed marketing plans for annual fundraising events. Managed marketing sites (Resident Advisor, Nitevibe, SF Gate, SF Station, Facebook, GoFundMe, 32auctions, etc.). Served as project lead for fundraising events, coordinating staff and volunteers, developing talent lineups, managing sound logistics and venue relations. Directed creative/content with designers for event flyers and promotional items; managed street team and media outreach; produced monthly newsletters communicating monetary goals and health/treatment updates."
+        },
+        {
+            "title": "Public Relations & Marketing Manager",
+            "company": "BlackArrow",
+            "start_date": "2008-02",
+            "end_date": "Present",
+            "description": "Public relations and marketing management for BlackArrow, providing advertising and data solutions for next-generation TV. Led PR for corporate, partner, and product marketing; built and maintained global media relationships, managed speakerships, webinars and thought leadership. Created press releases and collateral; managed corporate website, blog, and social channels; coordinated with partners and creative agencies on joint materials; planned and executed annual marketing plans and budgets; organized corporate events and conferences; collaborated with technology partners to develop joint materials."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Marketing Management Certificate",
+            "school": "De Anza College",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "San Jose City College",
+            "year": 2005
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

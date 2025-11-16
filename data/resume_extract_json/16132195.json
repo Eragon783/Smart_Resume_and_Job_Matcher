@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Professional Summary Personal Nursing Assistant with 4+ years work experience in fast-paced environment handling confidential paperwork, administering medication and providing quality, empathetic, patient-focused care, monitored vital signs, assisted with feeding, bathing/grooming, positioning and range of motion exercises. Highly compassionate and Looking for a long term care position.",
+    "skills": [
+        "Understands medical procedures",
+        "Understands mobility assistance needs",
+        "Charting expertise",
+        "Able to lift 50+ pounds",
+        "Trained in grooming and bathing assistance",
+        "Respiratory equipment training",
+        "Documentation procedures expert",
+        "Quick problem solver",
+        "General housekeeping ability",
+        "Medical terminology knowledge",
+        "Valid MO driver's license",
+        "Reliable transportation",
+        "Calm and level-headed under duress",
+        "Trained in catheter change and preparation"
+    ],
+    "experience": [
+        {
+            "title": "Personal Healthcare Assistant",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2013-12",
+            "description": "Observed and documented patient status and reported patient complaints to the case manager. Completed and submitted clinical documentation in accordance with agency guidelines. Assisted with adequate nutrition and fluid intake. Planned, prepared and served meals and snacks according to prescribed diets. Provided companionship to clients. Cleaned and organized patients' living quarters. Performed household tasks such as laundry, dusting, washing dishes and vacuuming. Provided patients and families with emotional support. Comforted patients and provided them with reassurance and encouragement."
+        },
+        {
+            "title": "Personal Home Health Care Assistant",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2012-08",
+            "description": "Provided transportation, assistance and companionship to clients. Performed household tasks such as laundry, dusting, washing dishes and vacuuming. Facilitated games and other activities to engage clients. Maintained a clean, orderly and well-stocked environment. Participated in the maintenance of safe conditions within the home and other related areas. Comforted patients and provided them with reassurance and encouragement. Administered simple range of motion exercises. Sensitive to the needs of geriatric patients. Exhibited compassionate care and communication with regard to issues of death and dying. Provided patients and families with emotional support. Assisted with ADLs. Documented resident records on daily flow sheets. Recognized and reported abnormalities and/or changes in patients' health status to nursing staff. Tended to patients with chronic illnesses. Provided personal nursing care in pre- and post-operative situations. Assisted with transferring patients in and out of wheelchairs and adaptive equipment. Positioned patients for comfort and to prevent skin pressure problems. Assisted with adequate nutrition and fluid intake. Planned, prepared and served meals and snacks according to prescribed diets. Collected urine and fecal samples. Read and recorded temperature, pulse and respiration and BP. Completed and submitted clinical documentation in accordance with agency guidelines."
+        },
+        {
+            "title": "Personal Healthcare Assistant",
+            "company": "Company Name",
+            "start_date": "2005-04",
+            "end_date": "2007-07",
+            "description": "Read and recorded temperature, pulse and respiration. Observed and documented patient status and reported patient complaints to the case manager. Completed and submitted clinical documentation in accordance with agency guidelines. Prepared patient rooms prior to their arrival. Collected urine and fecal samples. Assisted with adequate nutrition and fluid intake. Planned, prepared and served meals and snacks according to prescribed diets. Directed patients in prescribed range of motion exercises and in the use of braces or artificial limbs. Provided assistance and companionship to clients. Cleaned and organized patients' living quarters. Facilitated games and other activities to engage clients. Positioned residents for comfort and to prevent skin pressure problems. Assisted with transferring residents in and out of wheelchairs and adaptive equipment. Charted daily information on the residents such as mood changes, mobility activity, eating percentages, and daily inputs and outputs. Provided patients and families with emotional support."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Professional HealthCare In-Service: Adult Behavioral and Diagnosed Mental Health Disorders",
+            "school": "Alzheimer's Association Missouri",
+            "year": 2012
+        },
+        {
+            "degree": "Professional HealthCare In-Service: Early Childhood, Adolescent and Adult Behavioral, Emotional and Diagnosed Mental Health Disorders",
+            "school": "Burrell Behavioral Health",
+            "year": 2011
+        },
+        {
+            "degree": "High School Diploma: General",
+            "school": "Lebanon High School",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        "CPR Certification",
+        "Adult First Aid Certification",
+        "Child First Aid Certification",
+        "Environmental Emergencies Certification",
+        "Adult/Child CPR With Mask Certification",
+        "Adult/Child AED Certification",
+        "Infant CPR With Mask Certification",
+        "American Heart Association training"
+    ],
+    "languages": []
+}

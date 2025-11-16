@@ -1,0 +1,71 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Thailand",
+    "summary": "Senior sales and technical account management professional specializing in social media advertising in Thailand, with experience delivering platform demonstrations, onboarding and training, renewals and account growth, and cross-functional collaboration.",
+    "skills": [
+        "Presenting and speaking",
+        "Educating and training",
+        "Platform and operational expertise",
+        "Sales and marketing",
+        "Social Media understanding",
+        "Setting and achieving targets",
+        "Pipeline and sales planning",
+        "Account management and support",
+        "Leadership",
+        "Mentoring",
+        "Team-work",
+        "Business planning",
+        "Sales",
+        "Relationship building",
+        "Management",
+        "Communication",
+        "Proactive approach",
+        "Problem solving"
+    ],
+    "experience": [
+        {
+            "title": "Technical Account Manager",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "Present",
+            "description": "Directly manages a portfolio of clients using the social media ads management platform; responsible for renewals, onboarding, implementation, account growth and technical support. Key responsibilities include conducting orientation training, SLAs adherence, daily account management, regular business reviews, liaising with internal teams, optimizing platform usage, identifying and communicating upsell opportunities, and driving client satisfaction leading to references and renewals."
+        },
+        {
+            "title": "Senior Sales Manager",
+            "company": "Vserv.mobi (Singapore Limited)",
+            "start_date": "2014-01",
+            "end_date": "2014-12",
+            "description": "Followed VP-defined processes, prepared weekly reports and pipelines, managed list of accounts/agencies from regional and Thailand perspective. Coordinated weekly pipeline status to ensure revenue targets (US$200K AOP) and brand business objectives."
+        },
+        {
+            "title": "Sales Lead",
+            "company": "Vserv.mobi (Singapore Limited)",
+            "start_date": "2011-08",
+            "end_date": "2014-01",
+            "description": "Developed and cultivated leads for the sales pipeline; assessed prospective deals, negotiated terms and gained commitments. Generated leads through networks, presented and sold Online Media products to agencies and direct clients; built relationships, participated in events, and collaborated with regional team to meet business needs."
+        },
+        {
+            "title": "Business Development Consultant",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2011-07",
+            "description": "Identified and qualified new software opportunities for Oracle; consulted with C-level executives, collaborated with Account Managers and Partners to close projects, created account plans, contributed to revenue generation, and promoted Oracle technology through events and host activities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA in Marketing Management",
+            "school": "Assumption University",
+            "year": 2011
+        },
+        {
+            "degree": "High School Diploma (Math-Science)",
+            "school": "Hadyai Vittayalai School",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

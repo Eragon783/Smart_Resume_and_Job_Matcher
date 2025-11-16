@@ -1,0 +1,47 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Hardworking professional with a history of exceeding expectations and delivering quantifiable results. Known for boosting company morale by fostering interdepartmental communication.",
+    "skills": [
+        "Cash handling",
+        "Professional and friendly",
+        "Careful and active listener",
+        "Data Entry"
+    ],
+    "experience": [
+        {
+            "title": "Food Server",
+            "company": "Company Name",
+            "start_date": "August 2013",
+            "end_date": "May 2015",
+            "description": "Monitor food distribution, ensuring that meals are delivered to the correct recipients and that guidelines, such as those for special diets, are followed. Clean or sterilize dishes, kitchen utensils, equipment, or facilities. Served over 300 students daily. Load trays with accessories such as eating utensils, napkins, or condiments. Stock service stations with items such as ice, napkins, or straws. Remove trays and stack dishes for return to kitchen after meals are finished. Prepare food items, such as sandwiches, salads. Food preparation or serving techniques to ensure that proper procedures are followed."
+        },
+        {
+            "title": "Substitute Pre-K Teacher",
+            "company": "Company Name",
+            "start_date": "August 2007",
+            "end_date": "May 2011",
+            "description": "Order or obtain materials needed for classes. Provide extra assistance to students with special needs, such as non-English-speaking students or those with physical and mental disabilities. Tutor and assist children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers. Enforce administration policies and rules governing students. Discuss assigned duties with classroom teachers to coordinate instructional efforts. Instruct and monitor students in the use and care of equipment and materials to prevent injuries. Maintain computers in classrooms and laboratories and assist students with hardware and software use."
+        },
+        {
+            "title": "Loan Processor",
+            "company": "Company Name",
+            "start_date": "October 1985",
+            "end_date": "February 1999",
+            "description": "Encode and cancel checks, using bank machines. Compare previously prepared bank statements with canceled checks and reconcile discrepancies. Match statements with batches of canceled checks by account numbers. Load machines with statements, cancelled checks, or envelopes to prepare statements for distribution to customers or stuff envelopes by hand. Fix minor problems, such as equipment jams, and notify repair personnel of major equipment problems. Establish and maintain relationships with individual or business customers or provide assistance with problems these customers may encounter. Examine, evaluate, or process loan applications. Evaluate financial reporting systems, accounting or collection procedures, or investment activities and make recommendations for changes to procedures, operating systems, budgets, or other financial control functions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma - Business",
+            "school": "McEachern High School",
+            "year": 1982
+        }
+    ],
+    "certifications": [
+        "Serv Safe Certification"
+    ],
+    "languages": []
+}

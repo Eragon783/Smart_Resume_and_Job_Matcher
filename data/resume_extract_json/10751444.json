@@ -1,0 +1,152 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "PRODUCT DESIGNER Professional Summary 4-5 years engineering experience and 1-2 years working experience. Able to work independently and under pressure, detail oriented, excellent problem solver, Innovator. Efficient Mechanical Engineer leveraging a strong technical background in bringing products from the laboratory to mass-manufacturing. Mechanical Engineer with [Number] + years of training in varied industries, including manufacturing and high-tech environments. Creative manufacturing engineer. Lead team member on process redesign for [Describe product] . Design engineer who has worked on [Number] new products, including the [Product name] recognized for industry excellence.",
+    "skills": [
+        "3D",
+        "3D modeling",
+        "AutoCAD",
+        "broadcasting",
+        "budget",
+        "C",
+        "cable",
+        "Chinese",
+        "com",
+        "hardware",
+        "content",
+        "controller",
+        "data analysis",
+        "Dec",
+        "decision-making",
+        "designing",
+        "product design",
+        "English",
+        "fashion",
+        "focus",
+        "Fortran",
+        "frame",
+        "Graphic",
+        "Lathe",
+        "Linux",
+        "director",
+        "Maple",
+        "materials",
+        "MATLAB",
+        "mechanical",
+        "Mechanical Engineering",
+        "access",
+        "Mill",
+        "modeling",
+        "navigation",
+        "printer",
+        "processes",
+        "profit",
+        "speaking",
+        "Python",
+        "Quantitative analysis",
+        "reading",
+        "read",
+        "research",
+        "safety",
+        "Simulation",
+        "sketching",
+        "SolidWorks",
+        "statistical analysis",
+        "Statistics",
+        "phone",
+        "translating",
+        "transportation",
+        "video",
+        "Welding",
+        "wiring",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Product designer",
+            "company": "Company Name – City , State",
+            "start_date": "10/2014",
+            "end_date": "Current",
+            "description": "The team wants to develop a portable, easily shipped, cost effective hardware that can send and receive digital content directly from satellites. Personally involve with prototype designing and 3D modeling. Cooperating with a startup called Outernet (https://www.outernet.is/en/), a for-profit media company that already has two satellites covering North America, Europe, and the Middle East and has recently started broadcasting free Internet content. Assisting drafters in developing the structural design of products using drafting tools or computer-assisted design (CAD) or drafting equipment and software. Completing project mechanical design while providing technical solutions feedback. product design"
+        },
+        {
+            "title": "product design",
+            "company": "Company Name – City , State",
+            "start_date": "09/2014",
+            "end_date": "Current",
+            "description": "Two engineers and designers to collaborate together to create new innovative wearable pieces for a fashion show competition. Will access new Makerspce, which includes a 3D printer, will be given a $500 budget to create their wearable piece."
+        },
+        {
+            "title": "RESEARCH EcoPRT Research Assistant",
+            "company": "Company Name – City , State",
+            "start_date": "01/2014",
+            "end_date": "05/2014",
+            "description": "The goal is to develop an economical, automated transit system. It will focus on the hands on design and development of a small manned autonomous vehicle. www.ecoprt.com). The key in the design is to understand the impact weight has on the overall cost and performance, and the incorporation of automated control. Aspects of the development will possibly include product design"
+        },
+        {
+            "title": "VOLUNTEER",
+            "company": "Company Name – City , State",
+            "start_date": "10/2013",
+            "end_date": "04/2014",
+            "description": "The purpose of this project is to design and fabricate a cable management system for a public-access electric EXPERIENCE vehicle charging station. This system will dispense and retract 20 feet of cable for operation and provide secured storage for the cable when not in use. The prototype will be subjected to the following constraints Team member. Attending scheduled control and mechanical teams' training classes. EXPERIENCE Learned shop safety, vehicle glider equations, drive cycle modeling, and Simulation. Learned the powertrain architecture and components of the 2013 Chevrolet Malibu. Learned vehicle dynamics. And practiced model simulation by using MATLAB Simulink."
+        },
+        {
+            "title": "Mechanical Engineering Components design project",
+            "company": "Company Name – City , State",
+            "start_date": "10/2013",
+            "end_date": "04/2014",
+            "description": "Designed fillet welds connections and bolts for the plate girder, which holds the pipe with horizontal and vertical force loads. Calculated the related shear or bending stresses for the welds and bolts to determine the right materials and sizes of welds (thickness) and bolts."
+        },
+        {
+            "title": "Eddy Current DYNO Research Assistant",
+            "company": "Company Name – City , State",
+            "start_date": "09/2013",
+            "end_date": "05/2014",
+            "description": "Built the engine stander for our engine and Eddy current dynamometer. Currently installing the Eddy current dynamometer with graduate students. Future possibility of experimenting with torque, horsepower, RPM, EGR (Exhaust Gas Recirculation) and temperature measurements of the Kubota Diesel Engine after installation. Possibility of learning the engine tuning."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Company Name – City , State",
+            "start_date": "06/2013",
+            "end_date": "08/2013",
+            "description": "Graphed sketches and figures for professor's Thermodynamics eBook. Learned how to use Smartdraw. Performed literature reviews on ongoing research topics and eBook materials. Added video links and real-world images to the eBook."
+        },
+        {
+            "title": "Program Assistant",
+            "company": "Company Name – City , State",
+            "start_date": "05/2013",
+            "end_date": "06/2013",
+            "description": "Assisting Dr. Eischen, the director of the Hangzhou Engineering Study Abroad Program at Zhejiang University, during his program this coming summer. Helping with tasks such as translating, program activities, running errands, classes, transportation, and culture immersion."
+        },
+        {
+            "title": "Unknown/Unclear entry",
+            "company": "Company Name – City , State",
+            "start_date": "04/2013",
+            "end_date": "10/2013",
+            "description": "Designed Airplane Landing Gear by modeling with a mass-spring-damper SDOF system and designing the spring k and damper C that limits the given amplitude."
+        },
+        {
+            "title": "Unknown/Unclear entry",
+            "company": "Company Name – City , State",
+            "start_date": "10/2012",
+            "end_date": "04/2013",
+            "description": "Utilized MATLAB for statistical analysis of an elastic band rocket. Learned how to make experimental designs, statistical processes, statistics simulations, and graphical displays of data on computer workstations. Used statistical methods including point and interval estimation of population parameters and curve and surface fitting (regression analysis)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of science",
+            "school": "Columbia University in the City of New York",
+            "year": "Sep 2015 - Present"
+        },
+        {
+            "degree": "Bachelor of science",
+            "school": "North Carolina State University",
+            "year": "2010"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

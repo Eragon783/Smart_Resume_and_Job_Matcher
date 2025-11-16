@@ -1,0 +1,83 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Professional Summary Highly motivated and driven Manager of the Project Management Office (PMO). Currently seeking potential opportunities to continue to help other organizations realize and reap benefits of formal PMO methodology. Passionate about PMO engagement in health care, as I have watched over 17 years of what was once lacking in this industry, take hold and prove its value and worth. I have had the pleasure and benefit of watching three organizations grow and blossom their teams with training and growth and development of a methodology that fits the culture of each organization.",
+    "skills": [
+        "PMO management",
+        "Portfolio management",
+        "IT project management",
+        "Corporate IT systems",
+        "Infrastructure project management",
+        "Team leadership",
+        "Stakeholder communication",
+        "Conflict resolution",
+        "PMO training and development",
+        "Soft skills development",
+        "Clinical portfolio management",
+        "PMO governance",
+        "Budget management",
+        "C-suite liaison",
+        "Vendor and contract coordination",
+        "Healthcare / clinical IT familiarity"
+    ],
+    "experience": [
+        {
+            "title": "Manager, Information Technology Project Management Office",
+            "company": "Company Name, City, State",
+            "start_date": "2008-06",
+            "end_date": "Present",
+            "description": "Manage portfolio of all PMO projects related to Corporate Services and Infrastructure. Lead two teams of project managers and PMO-trained Business Analysts. Produce monthly governance reports to the executive committee to ensure alignment with strategic goals. Support Professional Development and soft skills training for PMO teams. Promote PMP certification among senior project managers. Coordinate with EPIC PMO for resource sharing and facility readiness prior to go-live."
+        },
+        {
+            "title": "Project Manager / Application Systems Analyst III",
+            "company": "Company Name, City, State",
+            "start_date": "2004-06",
+            "end_date": "2008-06",
+            "description": "Project manager for multiple IT systems annually, with budgets ranging from $500k to $4M. Led a cross-functional team to implement an enterprise staff scheduling solution. Responsible for upgrades and ongoing software updates to API tools (HR/Payroll, Security, Scheduling and timekeeping). Managed a team of 60 across clinical and corporate areas to implement scheduling solutions. Projects included Radiology Information System, dictation replacement, HR Recruiting system (Halogen), and upgrades to timekeeping systems (web-based). Coordinated vendor interactions and end-user training."
+        },
+        {
+            "title": "Systems Analyst II / Product Manager - Vantive (PeopleSoft tool)",
+            "company": "Company Name, City, State",
+            "start_date": "2001-05",
+            "end_date": "2004-06",
+            "description": "Supported PeopleSoft's Vantive application in nationwide call center environments. Established 3 new call centers on Vantive, performed two full system upgrades, and managed budgeting and project aspects of upgrades. Maintained software and updated VB/VBA code as needed. Maintained .NET web version of Vantive for external clients. Collaborated with call center managers, supervisors, and the director of nationwide call centers to ensure functionality and needs were met."
+        },
+        {
+            "title": "Systems Analyst II / Project Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2000-04",
+            "end_date": "2001-05",
+            "description": "Project management for Patient Accounting and clinical upgrades; support for Finance and Patient Accounting departments; maintenance on MUMPS database in UNIX (IDX Hospital Software). Oversaw projects for Finance and Patient Accounting, supported upgrades for UNIFY database structure and MedStat for Contract Management; assisted with testing and documentation for system-wide upgrades."
+        },
+        {
+            "title": "Project Manager Intermediate / Software Analyst II",
+            "company": "Company Name, City, State",
+            "start_date": "1998-12",
+            "end_date": "2000-04",
+            "description": "Primary Financial Analyst on McKesson HBOC Star Financials; backup for HBOC Clinical system. Involved in infancy PMO activities and EMR development, including document-based scanning. Managed all project aspects around installation of IMNET Electronic Medical Records software on an MS SQL 7.0 database."
+        },
+        {
+            "title": "Systems Analyst / Programmer",
+            "company": "Company Name, City, State",
+            "start_date": "1998-05",
+            "end_date": "1998-12",
+            "description": "Programmed in SQL for HBOC Clinical and Financial systems; developed hospital reports for Finance. Led project management on IMNET EMR software and learned MSSQL to support system implementations for Medical Records and charting."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in Foreign Languages and Literatures (Spanish), Concentration in Management Science - Decision Support Systems",
+            "school": "Virginia Tech (VPI & SU)",
+            "year": "1997"
+        }
+    ],
+    "certifications": [
+        "Project Management Certification, Guilford Technical Community College, 2004",
+        "PMP Certification (Project Management Professional), Project Management Institute, 2012 (renewed 2015)"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

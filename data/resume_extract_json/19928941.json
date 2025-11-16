@@ -1,0 +1,48 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Car Salesman and Construction Worker with experience in sales, procurement, operations, and project planning; skilled in administration, customer service, negotiation, and inventory management.",
+    "skills": [
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Judgment and Decision Making",
+        "Negotiation",
+        "Sales and Marketing",
+        "Building and Construction",
+        "Operation and Control",
+        "Project Plans",
+        "Inventory",
+        "Layout",
+        "Machinery",
+        "Marketing",
+        "Materials Management",
+        "Sales"
+    ],
+    "experience": [
+        {
+            "title": "Car Salesman",
+            "company": "Company Name",
+            "start_date": "February 2015",
+            "end_date": "May 2016",
+            "description": "Determine goods and services to be sold, and set prices and credit terms, based on forecasts of customer demand. Locate, select, and procure merchandise for resale, representing management in purchase negotiations. Perform sales floor work, such as greeting or assisting customers, stocking shelves, or taking inventory."
+        },
+        {
+            "title": "Construction Worker",
+            "company": "Company Name",
+            "start_date": "March 2011",
+            "end_date": "Current",
+            "description": "Oversee activities directly related to making products or providing services. Read plans, instructions, or specifications to determine work activities. Load, unload, or identify building materials, machinery, or tools, distributing them to the appropriate locations, according to project plans or specifications. Dig ditches or trenches, backfill excavations, or compact and level earth to grade specifications, using picks, shovels, pneumatic tampers, or rakes. Mix, pour, or spread concrete, using portable cement mixers. Erect or dismantle scaffolding, shoring, braces, traffic barricades, ramps, or other temporary structures. Provide assistance to craft workers, such as carpenters, plasterers, or masons."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA: Operations and Supply Chain Management",
+            "school": "University of Central City",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

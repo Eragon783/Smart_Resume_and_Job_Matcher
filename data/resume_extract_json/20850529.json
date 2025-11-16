@@ -1,0 +1,82 @@
+{
+    "name": "Kristy Bishop",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Entrepreneurial indirect sales executive passionate about building productive relationships with clients, partners and team members. A new customer acquisition expert who emphasizes a mix of online and in-person marketing strategies.",
+    "skills": [
+        "New customer acquisition",
+        "Account management",
+        "Prospecting",
+        "Relationship management",
+        "Brand development",
+        "Sales & marketing",
+        "SQL",
+        "Conflict resolution",
+        "Team leadership / mentoring",
+        "Mentoring",
+        "Training",
+        "Grassroots marketing",
+        "Brand recognition",
+        "Customer service",
+        "Compliance",
+        "HR",
+        "Data entry",
+        "Market research",
+        "Negotiation",
+        "Networking",
+        "Product management",
+        "Inventory management",
+        "Communication skills",
+        "Problem solving",
+        "Organizational skills"
+    ],
+    "experience": [
+        {
+            "title": "General Business Manager",
+            "company": "Company Name, City, State",
+            "start_date": "May 2007",
+            "end_date": "Dec 2014",
+            "description": "Provided first point of contact for customers and employees. Resolved conflicts and delivered internal and external customer service. Trained and mentored new hires, ensured regulatory compliance and policy adherence. Analyzed competitor features to evaluate marketing effectiveness. Proficient in SQL, ordering, product management, inventory, organization, product knowledge, staffing opportunities, and services."
+        },
+        {
+            "title": "NW Florida Regional Commercial Sales Manager",
+            "company": "Company Name, City, State",
+            "start_date": "Mar 2007",
+            "end_date": "Jan 2009",
+            "description": "Sole commercial sales manager for the NE region from South Georgia through Deland, FL. Increased sales in territory with new clients and follow-ups with existing clients. Generated new business through B2B cold calls, mailing information, and establishing territory leadership. Overhauled outdated SQL and customer files; conducted site visits, estimates, measurements, product ordering, and problem solving to keep the crew productive. Prepared correspondence and financial documents for analysis."
+        },
+        {
+            "title": "Sales & Marketing Manager, Indirect Sales Manager",
+            "company": "Company Name, City, State",
+            "start_date": "Jul 2006",
+            "end_date": "Nov 2008",
+            "description": "Implemented high-impact strategies to target new business opportunities and markets. Planned and executed container shipments. Controlled release of proprietary and confidential information for client lists. Prepared departmental contracts for attorney approval."
+        },
+        {
+            "title": "Program Manager",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 2006",
+            "end_date": "Jan 2007",
+            "description": "Managed weight loss center and worked closely with clients face to face. Provided client support, individualized care, and excellent customer service. Handled product ordering, client chart maintenance, inventory, payroll, hiring. Qualifying clients for credit and providing all legal information. Client retention and internal/external conflict resolution. Prepared correspondence and financial documents for analysis."
+        },
+        {
+            "title": "Relationship Banker II",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 2004",
+            "end_date": "Jan 2006",
+            "description": "Conceptualized and launched a full-service neighborhood bank marketing campaign, leading to a 70% increase in sales. Delivered customer service, ensured compliance, HR and training. Conducted SQL and diversity training, conflict resolution, and team building. Mentored peers; received top performer recognitions and letters of commendation. Promoted to Relationship Banker II and selected as one of five regional bankers to train and mentor new employees after 12–14 months. Initiated grassroots marketing to promote brand recognition and grow relationships (loans, deposits). Prepared correspondence and financial documents for analysis."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "St. Johns River State College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

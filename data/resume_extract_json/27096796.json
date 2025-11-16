@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Enthusiastic dance instructor with superb leadership and communication skills. Easily cultivates trusting and productive relationships with students, parents, teachers and administration. Also, dedicated to being committed to creating a classroom atmosphere that is stimulating, encouraging and supportive for all students.",
+    "skills": [
+        "Ballet",
+        "Pointe",
+        "Contemporary",
+        "Modern",
+        "Jazz",
+        "Tap",
+        "Musical Theatre"
+    ],
+    "experience": [
+        {
+            "title": "Dance Instructor",
+            "company": "Company Name",
+            "start_date": "2008-06",
+            "end_date": "Present",
+            "description": "Providing quality instruction for various dance styles such as Ballet, Pointe, Jazz, Contemporary, Tap, Modern, and Musical Theatre."
+        },
+        {
+            "title": "Company Member",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "Present",
+            "description": "Company member at Company Name."
+        },
+        {
+            "title": "Apprentice Company Member",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2010-08",
+            "description": "Apprentice Company Member at Company Name."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Early Childhood Education",
+            "school": "Florida International University",
+            "year": "2014"
+        },
+        {
+            "degree": "ESOL endorsed",
+            "school": "State Street Ballet",
+            "year": ""
+        },
+        {
+            "degree": "Professional Summer Training Program",
+            "school": "Rockette Summer Experience",
+            "year": "2009-2010"
+        },
+        {
+            "degree": "Summer Intensive",
+            "school": "Ballet Atlanta Ballet",
+            "year": "2009"
+        },
+        {
+            "degree": "Professional Training Program",
+            "school": "University of North Carolina School of the Arts",
+            "year": "2008"
+        },
+        {
+            "degree": "High School program",
+            "school": "American Ballet Theatre",
+            "year": "2007-2009"
+        },
+        {
+            "degree": "Summer Intensive",
+            "school": "Orlando Ballet",
+            "year": "2007"
+        },
+        {
+            "degree": "Summer Intensive",
+            "school": "Joffrey Ballet School",
+            "year": "2006"
+        },
+        {
+            "degree": "Summer Intensive",
+            "school": "Boston Ballet School",
+            "year": "2003"
+        },
+        {
+            "degree": "Summer Intensive",
+            "school": "Boston Ballet School",
+            "year": "2004-2005"
+        }
+    ],
+    "certifications": [
+        "ESOL endorsement"
+    ],
+    "languages": []
+}

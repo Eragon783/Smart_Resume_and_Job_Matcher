@@ -1,0 +1,74 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "I am highly skilled,growth mindset IT professional having more than 20 years experience mostly in financial industry related with providing advanced data solutions using innovative database technology. Very innovative,creative, great problem solver and have achieved the highest ratings consistently for more than 10 years. Continuously learning,adapting and evolving by overcoming challenges faced during professional career. I am fortunate to be a part of team who has delivered cutting edge products over the years to help our firm and clients. My career philosophy is 4LT(Listen,Learn,Love,Lead and earn Trust).",
+    "skills": [
+        "OLTP, OLAP and HTAP workloads",
+        "Cloud computing (AWS)",
+        "Data modeling, data management, data governance",
+        "IT leadership and team building",
+        "IBOR product development",
+        "Front office, middle office, back office workflows in financial industry",
+        "Financial instruments modeling including complex derivative products",
+        "Portfolio and investment management",
+        "Oracle Exadata, Amazon Redshift, SQL, Python, Java, Apache Ignite, AWS",
+        "Data science tools (Pandas, Matplotlib)",
+        "Agile development (JIRA)",
+        "Data strategy, data governance, data quality, enterprise data architecture",
+        "Data pipelines and ODS",
+        "Performance tuning and database optimization",
+        "In-memory computing (GridGain Ignite)",
+        "Data reconciliation and data lineage with Collibra",
+        "Real-time market values and analytics",
+        "HTAP/Hybrid transactional analytical processing"
+    ],
+    "experience": [
+        {
+            "title": "VP, Principal",
+            "company": "Company Name, City, State",
+            "start_date": "01/2003",
+            "end_date": "Current",
+            "description": "Deep expertise in Oracle Exadata, Amazon Redshift, SQL, Python, Java, Apache Ignite, AWS and related technologies. Basic Experience in Data Science related technologies e.g. Pandas, Matplotlib etc. Agile development methodologies e.g. JIRA. Active member in multiple working groups to establish data strategy, data governance, data quality and enterprise data architecture (e.g. Business Architecture, Data Architecture, Data Quality working groups). Financial instruments valuation and exposure experience. IT Thought leader and keynote speaker at in-memory compute summit in 2017 and 2018. Architected and developed IBOR 1.0 to provide real-time market values, exposures and related analytics using an operational data store (ODS); capable of look-through exposure to complex instruments. Led product development of IBOR and IBOR+ platforms; IBOR 2.0 in production since Sep, 2019 on AWS using GridGain Ignite. Led data model design for IBOR+ and ODS over 60TB; migrated data from Oracle to Redshift for OLAP and time series analysis. Designed, developed and supported ODS application and data pipelines; built fixed income portfolio management tool and look-through performance for complex instruments. Built and led a large team (from 4 to over 50) delivering mission critical applications; improved system performance and produced timely investment insights."
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "Company Name, City, State",
+            "start_date": "12/2001",
+            "end_date": "01/2003",
+            "description": "Developed and deployed a Commodity Trading System in production; resolved a deadlock with innovative solution; built systems using Oracle for processing and managing commodity orders and transactions."
+        },
+        {
+            "title": "Database Developer",
+            "company": "Company Name, City, State",
+            "start_date": "03/2001",
+            "end_date": "12/2001",
+            "description": "Core developer; contributed to building and deploying a system to maintain various agriculture products using Oracle."
+        },
+        {
+            "title": "Oracle Developer",
+            "company": "Fuji Foundation Islamabad, Pakistan",
+            "start_date": "01/1998",
+            "end_date": "03/2001",
+            "description": "Grew from junior developer to contribute to multiple products; gathered business requirements and built Oracle-based solutions; delivered Hospital Management System, Shares Management System, Asset Management System, Payroll and Personnel Information System, Accounting Management System, Vehicle Management System, Inventory Management System (IMS)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Computer Science and Programming",
+            "school": "QAU",
+            "year": "1998"
+        }
+    ],
+    "certifications": [
+        "AWS Certified Cloud Practitioner - 2020",
+        "RLF (Leadership for Life) graduate, Babson College - 2018",
+        "Oracle Certified Professional - 2001",
+        "CFA Level 1 - CFA Institute - 2008",
+        "Python For Finance (Udemy) - Certification"
+    ],
+    "languages": [
+        "English"
+    ]
+}

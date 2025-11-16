@@ -1,0 +1,78 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Executive Summary: Seeking a part-time nonmedical/retail position that will afford me the opportunity to use my various social and professional skills. strong organizational and problem-solving abilities, demonstrating sound judgment in establishing priorities and making decisions. *Well-Developed interpersonal skills; interact effectively with people on all levels; remain calm during stressful situations. *innovative and resourceful, with the ability to recognize valuable applications for new ideas and a talent for successful implementation. *Conscientious and quality-oriented with an earned reputation for dependability, efficiency and professionalism.",
+    "skills": [
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "SOX (Sarbanes-Oxley Compliance) Training",
+        "Adult CPR/AED Certification",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Administrative",
+        "Administrative Functions",
+        "Back-up",
+        "Balance Sheet",
+        "Billing",
+        "Budget",
+        "Cashier",
+        "CPR",
+        "Delivery",
+        "Diagnosis",
+        "Financial Forecasting",
+        "Financial Reporting",
+        "HR",
+        "Insurance",
+        "Inventory",
+        "Managing",
+        "Mail",
+        "Office",
+        "Month-end Closing",
+        "Payroll",
+        "Policies",
+        "Proposals",
+        "Receiving",
+        "Reporting",
+        "Sarbanes-Oxley",
+        "Taxes",
+        "Typing"
+    ],
+    "experience": [
+        {
+            "title": "HR/Payroll Supervisor",
+            "company": "Company Name",
+            "start_date": "January 2012",
+            "end_date": "Current",
+            "description": "Prepares payroll, taking into consideration non-standard shifts and overtime pay; Process Out of Cycle check requests; Compute vacation, holiday and sick time; Process weekly payroll; Respond to income verification and/or employment verification; Respond to associates questions/concerns; Maintain payroll files; Monthly reporting and reconciliation; Implement payroll policies; Determines payroll liabilities by calculating employee federal and state income and social security taxes and employer's social security, unemployment, and workers compensation payments; Respond to unemployment Insurance claims; Pull queries for various monthly reports; Reconcile and process check requests; Conducts monthly SOX audits; Check and audit timekeeping records and master file changes for compliance with established standards; Update rates of pay and calculate retroactive pay; Preparation of weekly financial reporting for multi-sites and multi-states; Perform various accounts payable and accounts receivable functions; Month-end closing - preparation of P&L Statement and balance sheet; Financial forecasting and analysis; Back-up HR Manager in all facets of HR duties."
+        },
+        {
+            "title": "Shipping and Receiving Clerk / Scheduling Clerk / Inventory Control Clerk / Customer Service Representative / Payroll Administrator",
+            "company": "Company Name",
+            "start_date": "October 1993",
+            "end_date": "January 2012",
+            "description": "Verified and kept records on incoming and outgoing shipments; Prepared items for shipment; Received items into warehouse; Scheduled appointments for product deliveries to the warehouse as well as shipments; Maintained records of quantity, type and value of material, equipment, merchandise or supplies stocked; Provided information to customers; Resolved billing problems; Maintained payroll information; Updated payroll records; Resolved payroll discrepancies; Maintained payroll operations; Ensured confidentiality."
+        },
+        {
+            "title": "Assistant Supervisor, Air Evacuation Clerk / Assistant Supervisor, Inpatient Records Clerk / Supervisor Medical Service Accounts Officer / Patient Affairs Clerk / Hospital Outpatient Records Clerk",
+            "company": "Company Name",
+            "start_date": "January 1983",
+            "end_date": "June 1992",
+            "description": "Supervised a support staff of six in managing all administrative functions related to patients using air evacuation services; Coded each diagnosis and prepared concise medical histories to be entered into computer for patient's Aerovac Medical Record; Managed discharge diagnosis and procedures; Obtained and compiled records for audits, reviews and committees; Assisted in pulling and screening more than 1,800 medical inpatient and outpatient records in support of JCAHO; Upgraded several deficient functions within Inpatient Records; Managed the hospital leave program, as well as mail and distribution program; Significantly upgraded hospital's Regulation Program, resulting in elevation from a marginal to outstanding rating; Drafted and implemented several innovative proposals to improve administrative efficiency; Developed updated operating procedures for Mail & Distribution Office ensuring prompt and error-free service to 80+ departments; Responsible for collecting cash, posting of ledgers and maintaining accountability for the Medical Service account; Prepared billings; maintained files and ensured security of cashier's cage; Restructured hospital's insurance billing and accounts receivable system, resulting in outstanding ratings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Sociology",
+            "school": "University of North Carolina",
+            "year": 1982
+        }
+    ],
+    "certifications": [
+        "Adult CPR/AED Certification",
+        "SOX Training (Sarbanes-Oxley Compliance)"
+    ],
+    "languages": []
+}

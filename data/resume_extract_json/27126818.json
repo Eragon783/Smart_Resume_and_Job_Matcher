@@ -1,0 +1,90 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Savannah, GA",
+    "summary": "Seeking a middle school Reading or Social Studies teaching position that utilizes instructional reading skills with technology. Experienced History Teacher with about 30 years of experience teaching diverse history lessons to large groups, devising lectures and curricula aligned with different learning styles. Resourceful in curriculum creation, execution and evaluation; collaborative in textbook selection for the history department. Effective educator with talents in delivering lessons, multimedia presentations, assigning homework and administering exams. Veteran leader focused on improving teaching and learning outcomes.",
+    "skills": [
+        "Teaching",
+        "Certified Teacher",
+        "Lesson Planning",
+        "Special Education",
+        "Progress Reports",
+        "Social Studies",
+        "History",
+        "Teamwork / Collaboration",
+        "Learning Styles",
+        "World History",
+        "Motivating and inspiring students",
+        "Resourcefulness",
+        "Creativity",
+        "Organizational skills",
+        "Communication skills",
+        "Parent relationships"
+    ],
+    "experience": [
+        {
+            "title": "Seventh grade World History teacher",
+            "company": "Southwest Middle School",
+            "start_date": "08/2006",
+            "end_date": "Present",
+            "description": "Instruct four inclusion class; teach U.S. History, World History and Georgia History to audiences of more than 30 students. Developed lesson plans, course handouts and homework assignments; used multimedia learning tools; employed diverse teaching techniques to encourage critical thinking and discussion. Improved standardized test scores by 5% in a 60-minute period. Coordinated after-school tutoring and supervised student progress and behavior."
+        },
+        {
+            "title": "Fifth grade social studies teacher",
+            "company": "Thunderbolt Elementary Marine Science Academy",
+            "start_date": "08/2002",
+            "end_date": "07/2006",
+            "description": "Taught Social Studies to a diverse class of 30 students daily; served 110 students daily across grades with varied needs (Gifted, EIP, and special needs). Promoted American ideals and civic responsibility. Developed lesson plans, conducted background reviews to tailor lessons, implemented culturally responsive teaching, and led discovery groups. Achieved 200% on state reading test; decreased disruptions by 25% through discipline strategies; coordinated after-school tutoring."
+        },
+        {
+            "title": "Fourth grade teacher",
+            "company": "Frank W. Spencer Foreign Language Academy",
+            "start_date": "01/1989",
+            "end_date": "01/2002",
+            "description": "Taught World History to a diverse class of 30 students; co-founded the Respect Yourself club; served as Jiu-Jitsu and In-Tech instructor; implemented discipline measures reducing disruptions by 25%; mentored two student teachers; coordinated after-school tutoring; integrated technology into instruction."
+        },
+        {
+            "title": "Military Police",
+            "company": "",
+            "start_date": "07/1976",
+            "end_date": "10/1979",
+            "description": "Authored daily activity, incident, safety, and irregularity reports; managed access to restricted areas; provided daily briefings on safety and risk assessments; created document filing systems; managed ammunition processes; supervised 12 employees in combat operations and training; led training and risk-management exercises."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. in Philosophy in Education",
+            "school": "Northcentral University",
+            "year": 2019
+        },
+        {
+            "degree": "Master of Arts: Curriculum Instruction",
+            "school": "Nova Southeastern University",
+            "year": 2008
+        },
+        {
+            "degree": "Master of Arts: Teaching and Learning",
+            "school": "Nova Southeastern University",
+            "year": 2007
+        },
+        {
+            "degree": "Bachelor of Science: Business Management",
+            "school": "Savannah Arts Academy",
+            "year": 1986
+        },
+        {
+            "degree": "Coursework in Business",
+            "school": "Thomas Nelson Community College",
+            "year": 1981
+        }
+    ],
+    "certifications": [
+        "Reading Endorsement",
+        "Gifted Endorsement",
+        "Teaching Certification"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "name": "Alyssa Neilson",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Creative communications professional skilled in PR strategy, writing press collateral, and managing press on-site at events, launches and trade shows. Experienced in securing press placements, creating event and launch timelines and strategies, and managing influencer campaigns and partnerships. Proficient in ROI, social media marketing strategy, creative marketing initiatives, SEM, design, content and copywriting.",
+    "skills": [
+        "Web design",
+        "Branding",
+        "PR writing: media alerts, event wrap-reports, product dossiers, launch plans, press releases",
+        "FashionGPS",
+        "Cision",
+        "HootSuite",
+        "KissMetrics",
+        "Google Analytics",
+        "InDesign",
+        "Illustrator",
+        "Adobe Photoshop",
+        "Social media marketing",
+        "SEM",
+        "Influencer campaigns",
+        "Event management"
+    ],
+    "experience": [
+        {
+            "title": "Digital Marketing and Social Media Manager",
+            "company": "Company Name",
+            "start_date": "12/2015",
+            "end_date": "Present",
+            "description": "Executing social and digital communication strategy and providing upper management and CEO with weekly social media schedules and analytical reports. Planning, interviewing for and writing weekly strategic blog content (www.hatchcollection.com/blog). Liaising with creative team to create graphics and assets for social media outlets each week. Compiling monthly revenue reports across all channels based on social media/Google Analytics and Kissmetrics. Influencer/blogger seeding, executing brand and paid partnerships and outreach/sample sending from start to finish - reporting conversion and ROI post campaigns using analytics and CTRs. Tracking analytics/results across social platforms and driving engagement and revenue per channel - beat previously-set company goals each month."
+        },
+        {
+            "title": "Fashion PR Assistant (Freelance)",
+            "company": "Company Name",
+            "start_date": "07/2015",
+            "end_date": "10/2016",
+            "description": "Event management (NYFW) - worked alongside production team and directors to manage venue logistics and to confirm day-of-show timelines. Created media alerts with show/presentation details and blasting alerts to targeted lists. Press check-ins / Seating chart arrangements."
+        },
+        {
+            "title": "Digital Marketing Intern",
+            "company": "Company Name",
+            "start_date": "01/2015",
+            "end_date": "07/2015",
+            "description": "Social media marketing and analytics. Tracked web and social media impressions via Google Analytics and Kissmetrics highlighting individual strategies. Strategized for major social media campaigns ahead of art exhibits and the company's annual art festival; conducted market research on how to optimize festival turnout. Calculated click-throughs for banners based on site and Google analytics and compiled marketing information and reports to improve annual art festivals. Wrote and compiled weekly social media calendars based on company and community events."
+        },
+        {
+            "title": "Beauty Public Relations Intern",
+            "company": "Company Name",
+            "start_date": "09/2012",
+            "end_date": "05/2013",
+            "description": "Clients: Obsessive Compulsive Cosmetics, Inglot Cosmetics, The Makeup Show, Hair Room Service. Managed social media for agency and clients. Event management for clients — managed press booths for The Makeup Show NYC. Updated media lists and pitched to Glamour, Teen Vogue/Vogue, Ebony, Essence, Allure, Refinery29, W Magazine, etc. Prepared press kits and distributed press releases for NYC store grand openings and trade shows."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Public Relations",
+            "school": "The University of Texas at Austin",
+            "year": "2015"
+        },
+        {
+            "degree": "Business Foundations Certificate in Marketing and Management",
+            "school": "The McCombs School of Business (UT Austin)",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Business Foundations Certificate in Marketing and Management — The McCombs School of Business (UT Austin)"
+    ],
+    "languages": []
+}

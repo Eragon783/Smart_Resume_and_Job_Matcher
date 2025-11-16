@@ -1,0 +1,141 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "",
+    "skills": [
+        "PeopleSoft HCM 8.8/9.x",
+        "PeopleSoft Financials 8.8/9.x",
+        "PeopleTools 8.51/8.54",
+        "SQL Developer",
+        "MS Office",
+        "Visio",
+        "MS Project",
+        "Dell Stat 5.6/5.7",
+        "Application Designer",
+        "Putty",
+        "SharePoint",
+        "HP Application Lifecycle Management",
+        "Oracle Enterprise Manager",
+        "STAT Admin",
+        "TOAD",
+        "ServiceNow",
+        "Remedy",
+        "Heat",
+        "Oracle E-Business",
+        "Asset Suite 8",
+        "Citrix",
+        "Workday HCM",
+        "Siebel",
+        "Oracle",
+        "Payroll",
+        "PeopleSoft HRMS",
+        "PeopleSoft 9.1",
+        "PeopleSoft 9.2",
+        "PeopleTools",
+        "MCSE",
+        "CCNA",
+        "Novell",
+        "SAS",
+        "SQL",
+        "E-Business",
+        "Oracle Enterprise Manager",
+        "Financials",
+        "SOX",
+        "ITIL",
+        "Security",
+        "Risk assessment",
+        "Requirements gathering",
+        "Audit",
+        "Governance",
+        "Data Privacy",
+        "Identity Access Management",
+        "Access control",
+        "Change Management",
+        "IT operations",
+        "Project management",
+        "Vendor coordination",
+        "Process improvement",
+        "Documentation"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Auditor",
+            "company": "Company Name",
+            "start_date": "2016-10",
+            "end_date": "Present",
+            "description": "Participate in the annual risk assessment and audit planning process covering IT, financial, operational, and contract areas. Assist with IT audits and reviews including user access, database and service configurations, security, and policy and procedural compliance. Perform IT project pre and post audit assessments. Participate in external cyber related audits and assessments. Assist with IT portion of annual assessment of internal controls over financial reporting (Sarbanes Oxley - SOX). Includes risk assessment, control walkthroughs, control testing, remediation assistance, report of results to IT management and other management, and collaboration with our external financial IT auditors. Consult on IT matters within non-IT focused audits and reviews performed internal audit. Assist and consult with IT management on upgrades, implementations, and action plans resulting from various audits and assessments. Assists and provides support to others auditing the Association as needed. Train and educate members of the internal audit team and other personnel on IT audit methods and emerging IT risks. Coordinates work of internal auditors when assigned to assist with special/complex audits. Adhere to company policies, programs and procedures as well as CIP, WECC, FERC, NERC, and MRO standards and EEO laws and regulations."
+        },
+        {
+            "title": "PeopleSoft Security Administrator III",
+            "company": "Company Name",
+            "start_date": "2015-04",
+            "end_date": "2016-10",
+            "description": "Work closely with the internal and external audit department to provide reports and documentation for compliance. Perform user access recertification, operational audits, quarterly performance assessments for Segregation of Duty /SOX controls by compiling and distributing monthly and quarterly user access reports. Provide functional expertise and guidance to developers for technical solutions in modules of PeopleSoft Core Financials, and other applications. Provision user security for PeopleSoft Financials. Ensure that appropriate roles, permission lists, and row level security exists for all functional areas. Create new business process flows and functional designs for Enterprise Learning Management requirements. Work with the business owners, data owners, end users, and external auditors on fit gap analysis and remediation for process requirements, improvements, and recommend best practice solutions. Determine the risks associated with the access and highlight any risks to management. Obtain report approval from business units and data owners of financial systems for review and user access validation. Perform data migrations across multiple environments using Dell Stat 5.6/5.7. Streamline and close the gaps of the employee onboarding and termination process. Analyze, monitor, and troubleshoot business processes of systems that interface with PeopleSoft Financials. Create, analyze and monitor access including creation, deletion and modification of access. Coordinate and manage application release processes with various teams. Interact with different teams of project managers, developers, quality engineers, peers, and other team members from integration teams."
+        },
+        {
+            "title": "Sr. Application Systems Analyst",
+            "company": "Company Name",
+            "start_date": "2014-07",
+            "end_date": "2015-04",
+            "description": "Worked with business owner to gather and document business requirements and business processes. Created and configured Work centers, Dashboards, and Interaction Hubs for HCM, and Financials using PeopleSoft 9.2 PeopleTools framework. Provisioned user security and functional support for PeopleSoft HR, PS Financials, PS Campus Solutions, and Workday HCM. Ensure that appropriate roles, permission lists, and row level security exist for all functional areas. Mapped security parameters for PeopleSoft 9.1 to 9.2 upgrade. Worked with third party vendors to implement solution. Created and maintained documentation of application support and technical environments. Performed data cleanup and validation of security roles and permission lists. Performed user security role recertification to ensure SOX and Data Privacy assessments. Prepared applications for Identity Access Management. Identified and resolved application issues effectively and in a timely manner. Provided advanced technical application support and troubleshooting. Performed service request changes and assigned work accurately and efficiently. Supported remote users using Citrix Remote Desktop, Microsoft Lyncs."
+        },
+        {
+            "title": "Sr. ERP Security Analyst/Team Lead/Project Lead",
+            "company": "Company Name",
+            "start_date": "2007-10",
+            "end_date": "2014-07",
+            "description": "As a team lead, was responsible for implementation, troubleshooting, cybersecurity assessments, PeopleSoft user security reviews and security support, user system access review, and upgrades for PeopleSoft HRMS, PeopleSoft Financial systems, and Workday HCM. Ensure that appropriate roles, permission lists, and row level security exists for all functional areas. Responsible for working with stakeholder to gather requirements to bridge the gap between US Oncology (USON) and McKesson Specialty Health for the merger. Worked with stakeholders to perform comprehensive requirements gathering for onboarding new oncology clinics into the McKesson network. Gathered the requirements and implemented the change to transfer USON corporate employees to McKesson's PeopleSoft HCM. Managed application project initiatives, procurement, and change management; this included impacts to business applications, processes and supplier management day-to-day planning, audit schedules, risk management, compliance, and ensuring the team met its required level of service for production. Responsible for coordinating with IT support teams on major incident management issues using ITIL best practices. Performed business processes creation, analysis, and re-engineering. Provided specialized training on application functionality. Investigated and resolved IT issues and complaints from end users, business owners, and stakeholders. Supported and maintained other applications such as IKnowMed EHR."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name",
+            "start_date": "2007-04",
+            "end_date": "2007-10",
+            "description": "Managed and assisted in development of major incident management procedures to be followed by IT staff in resolving network related issues. Served a key role in the Remedy implementation project; this included the installation and creation of data structure requirements and value data population in the new Remedy incident handling tool. Created a Change Management strategy and established reinforcement mechanisms and celebration of success. Developed and maintained a network infrastructure that met all service level requirements and provided additional capacity for growth. Applied a structured ITIL major incident management and change management approach and methodology. Identified potential people-side risks and anticipated points of resistance; developed specific plans to mitigate or address the concerns. Provided the documentation, tracking of potential gaps and risks, and status of mitigation steps to reduce these risks. Conducted readiness assessments, evaluated results and presented findings. Developed a set of actionable and targeted change management plans - including communication plan, sponsor roadmap, coaching plan, training plan and resistance management plan. Supported the execution of plans by employee-facing managers, business leaders, and stakeholders. Conducted active and visible coaching to change sponsors' executive leaders. Created and managed systems metrics to track adoption, utilization and proficiency of individual changes. Identified resistance and performance gaps, and worked to develop and implement corrective actions."
+        },
+        {
+            "title": "Lead Client Security Analyst",
+            "company": "Company Name",
+            "start_date": "2006-03",
+            "end_date": "2007-04",
+            "description": "Served as the liaison between the business and IT departments supporting global accounts for companies located all over the world. Worked with developers to implement changes in production. Led a team of five employees including first level support located in Gurgaon, India to provide production security issue resolution. Met with business team to determine requirements and define new process flows for new teams. Gathered requirements for newly created teams and determined which business applications/environments were necessary for proper job performance. Developed and enforced policy regarding mandatory security procedures. Documented functional/training procedures and implement changes to security procedures. Instituted security policies as dictated by business needs. Regularly met with internal and external auditors to perform security walkthroughs and assisted in documenting test plans and mitigating findings. Ensured SOX/SAS70 audit compliance by performing monthly/quarterly user audits."
+        },
+        {
+            "title": "Sr. Technical Analyst",
+            "company": "Company Name",
+            "start_date": "2002-05",
+            "end_date": "2006-03",
+            "description": "Coordinated with analysts/programmers to evaluate, modify, test, debug, and maintain applications. Performed parallel testing and functional testing during PeopleSoft upgrades. Administered PeopleSoft security to create, modify, and delete the security of users. Diagnosed and resolved software issues and defects. Accurately interpreted and fulfilled customer requirements to achieve customer satisfaction. Provided third level end user support. Worked with network and application support team to resolve technical issues. Created and maintained support roles and permissions lists based on functional specifications and security requirement requests. Identified and managed problems, determined root cause, and initiated corrective action and risk mitigation where applicable. Provided support for AS/400 Mainframe, E-Procurement, PeopleSoft, VPN connectivity, Blackberry, and other applications. Documented new/existing functional processes and procedures, as well as created knowledgebase articles related to previously undocumented resolutions. Worked on business process re-engineering initiatives. Established and maintained cooperative working relationships and an effective system of communication within the organization. Developed training and technical documentation and performed end user training. Facilitated weekly continuous improvement meetings with business users to identify enhancement requests and production support issues. Participated in weekly production support meetings with IT. Maintained issue and development task list documentation and status reporting on issues and enhancement requests of business users."
+        },
+        {
+            "title": "Systems Infrastructure Analyst",
+            "company": "Company Name",
+            "start_date": "2000-02",
+            "end_date": "2001-09",
+            "description": "Coordinated with analysts/programmers to evaluate, modify, test, debug, and maintain applications. Performed parallel testing and functional testing during PeopleSoft upgrades. Administered PeopleSoft security to create, modify, and delete the security of users. Diagnosed and resolved software issues and defects."
+        },
+        {
+            "title": "Technology Service Consultant",
+            "company": "Company Name",
+            "start_date": "1999-10",
+            "end_date": "2000-02",
+            "description": "Technology Service Consultant role performing IT support and consulting activities for clients."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.B.A. in Management Information Systems",
+            "school": "University of Houston",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "Certified Information Systems Auditor (CISA) - Certification #1085531",
+        "MCSE (Legacy)",
+        "CCNA (Legacy)",
+        "Novell Certified"
+    ],
+    "languages": []
+}

@@ -1,0 +1,68 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Detail-oriented Senior Accountant with 11 years of experience maintaining accurate accounting information for large-scale financial organizations.",
+    "skills": [
+        "ERP (Enterprise Resource Planning) software",
+        "Certified Public Accountant (CPA)",
+        "QuickBooks",
+        "MS Office Suite",
+        "Account reconciliation",
+        "Budget analysis",
+        "Advanced bookkeeping",
+        "SAP"
+    ],
+    "experience": [
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name – City, State",
+            "start_date": "2011-06",
+            "end_date": "Present",
+            "description": "Management of high level accounts including 280 endowment records totaling $85+ million and a private golf club account. Oversight includes general ledger activity, gift agreements, schedules, reconciliation, wire transfers, journal entries, and ongoing analysis of financial activity. Record monthly investment activity, including purchases, sales, interest, dividends, fees, as well as realized gains/losses and unrealized gains/losses. Submit monthly revenue and expense reports to Broward County Library; assist with year-end audit and providing documentation/explanation as needed. Preparation of audited financial statements for Broward County Library, including footnote preparation. Review and reconcile NSU Museum of Arts monthly financial statements for senior management review. Record, verify, and reconcile weekly deposits for a parking garage revenue account. Reconcile a cash advance account and reduce outstanding items by reviewing employee expense reports to determine status of the account (refund versus reimbursement). Prepare detailed schedules and reconciliations required for NSU's Annual Institutional Cost Allocation. Preparation of reconciliations, account analysis, and other materials for extensive month-end and year-end closing. Analyzing and reconciling payroll general ledger accounts and preparing month-end payroll accrual journal entries. Assist in development and coordination of activities related to multi-million dollar grants and clinical trial contracts including contract review, cost analysis, and related journal entries. Respond to management inquiries and assist on special projects. Created periodic reports comparing budgeted costs to actual costs."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name – City, State",
+            "start_date": "2005-12",
+            "end_date": "2011-06",
+            "description": "Prepared accurate and complete monthly financial statements for senior management, including preliminary journal entries, analysis, and reconciliations to close month-end periods. Processed bi-weekly payroll using ADP, prepared payroll tax deposits, reconciled balances, and performed month-end close. Coordinated the bank statement review and reconciliation for multiple bank accounts. Supervised accounts payable to ensure correct account codes; managed cash receipts. Responsible for accounts receivable, including analyzing accounts and contacting past-due clients. Managed fixed asset additions, deletions, transfers, and modifications. Prepared, processed, and submitted all 1099s & 1096s Federal Tax Forms. Prepared daily and monthly cash flow analyses, annual personal property, and Sales & Use Tax Returns."
+        },
+        {
+            "title": "Accounting Clerk",
+            "company": "Company Name – City, State",
+            "start_date": "2005-12",
+            "end_date": "2011-06",
+            "description": "Prepared accurate and complete monthly financial statements for senior management, including preliminary work with journal entries, analysis, and reconciliations to close month-end periods. Processed bi-weekly payroll, including compilation and input of employee timesheets into ADP, prepared payroll tax deposits, reconciled balances, and performed month-end close. Coordinated the bank statement review and reconciliation for multiple bank accounts. Supervised accounts payable function to ensure correct account codes were used for expense items and capitalization. Responsible for accounts receivable including analyzing accounts and contacting past due clients to work out payment plans. Managed fixed asset additions, deletions, transfers, and modifications. Prepared, processed, and submitted all 1099s & 1096s; prepared cash flow analyses."
+        },
+        {
+            "title": "Accounting Clerk",
+            "company": "Company Name – City, State",
+            "start_date": "2005-01",
+            "end_date": "2012-07",
+            "description": "Handled basic accounting functions including processing journal entries, payroll, bank reconciliations, accounts payable/receivable, and fixed asset management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Accounting & Financial Management",
+            "school": "Keller Graduate School of Management of DeVry University",
+            "year": 2012
+        },
+        {
+            "degree": "Master of Business Administration",
+            "school": "Keller Graduate School of Management of DeVry University",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelor of Science in Technical Management Accounting",
+            "school": "DeVry University",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "Certified Public Accountant (CPA)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,84 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "CONSULTANT Professional Summary Health care Administrative Assistant with 3 years of experience Experience in the health field for 5+ years Allocated monthly budget of $1000 for Muslim Students Association's planned activities Organized fundraising events with the supervision of the Event coordinator at Wing's Program Skills Skilled in Microsoft Office Suite, Adobe Premier Suite, SQL Database, and SAS Planning and development Strategic decision making Fluent in English and Urdu, Functional in Spanish Data Management Excellent communication skills Time management Conflict resolution",
+    "skills": [
+        "Microsoft Office Suite",
+        "Adobe Premier Suite",
+        "SQL Database",
+        "SAS",
+        "Planning and development",
+        "Strategic decision making",
+        "English",
+        "Urdu",
+        "Spanish",
+        "Data Management",
+        "Excellent communication skills",
+        "Time management",
+        "Conflict resolution"
+    ],
+    "experience": [
+        {
+            "title": "Health Revenue Specialist",
+            "company": "Company Name – City , State",
+            "start_date": "02/2019",
+            "end_date": "Current",
+            "description": "Developed work plans to meet business priorities and deadlines. Devised strategies to improve organization efficiency and optimize group management. Kept detailed records of project progress, discrepancies and other funding. Understood fee schedule and terms for all contracts which invoices are submitted. Verifies drugs and services are properly authorized and proper documentation is on file. Assists training new team members and providing input for the team. Communication with team members, intake, pharmacy, insurances, and management. Analyzing trends to solve complex issues."
+        },
+        {
+            "title": "Consultant",
+            "company": "Company Name – City , State",
+            "start_date": "06/2018",
+            "end_date": "12/2018",
+            "description": "Developed work plans to meet business priorities and deadlines. Devised strategies to improve organization efficiency and optimize group management. Kept detailed records of project progress, discrepancies and other funding. Supported clients with business analysis, documentation and data modeling. Collaborated with clients to develop and shape budgets, processes, business intelligence and strategies."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name – City , State",
+            "start_date": "10/2017",
+            "end_date": "12/2018",
+            "description": "Perform clerical tasks such as answering phone calls, filling paperwork, delivering films, and faxing documents to insurers and other healthcare providers. Communicated with patients, visitors, and staff to ensure that all needs were being met. Worked extensively with electronic medical records. Provided logistical support for programs, meetings and events, including room reservations, agenda preparation and calendar maintenance. Created PowerPoint presentations for business development purposes. Monitored premises, screened visitors, updated logs and issued passes to maintain security."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name – City , State",
+            "start_date": "10/2017",
+            "end_date": "05/2018",
+            "description": "Perform clerical tasks such as answering phone calls, filling paperwork, delivering films, and faxing documents to insurers and other healthcare providers. Communicated with patients, visitors, and staff to ensure that all needs were being met. Internship."
+        },
+        {
+            "title": "Internship",
+            "company": "Company Name – City , State",
+            "start_date": "06/2016",
+            "end_date": "08/2016",
+            "description": "Work extensively with organization's electronic medical records to schedule patients, coordinate shifts, provide service to the under insured. Performed general office duties, including answering multi-line phones, routing telephone calls or messages to appropriate staff, greeting the public, typing, proofreading, filing, sorting and handling incoming and outgoing mail. Shadow physicians and nutritionists regularly. Organize annual fundraising dinner to sustain free clinic's daily operations. Answered telephone inquiries from clients, vendors and the public. Performed tasks such as taking vitals, primary and secondary assessments."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name – City , State",
+            "start_date": "05/2015",
+            "end_date": "08/2016",
+            "description": "Performed general office duties, including answering multi-line phones, routing telephone calls or messages to appropriate staff, greeting the public, typing, proofreading, filing, sorting and handling incoming and outgoing mail. Assist the event coordinator with organizing fundraising events and compiled informational packets for potential donors. Participated in marketing and outreach and other visibility efforts, as requested."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Community Health",
+            "school": "University Of Illinois At Urbana-Champaign",
+            "year": 2017
+        },
+        {
+            "degree": "Coursework: Emergency Medical Technician, Statistics and Medical Terminology",
+            "school": "College Of DuPage",
+            "year": 2018
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Urdu",
+        "Spanish"
+    ]
+}

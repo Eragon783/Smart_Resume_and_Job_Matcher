@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Bangalore, India",
+    "summary": "Media Planner and Media Buyer with 4+ years of experience in the advertising industry. Proficient with TAM, IRS, TGI, and Google Analytics; skilled in Microsoft Excel, PowerPoint, Outlook, Project, and Visio. Basic SQL, Core Java, HTML; familiar with SAP MM; comfortable with Windows and macOS. Strong interpersonal and leadership skills; experienced in client management across FMCG, Automobile, Retail, and e-commerce. Currently pursuing MIS in Management Information Systems in the US, with MBA in International Business (dual specialization in Marketing and Finance). Seeking a transition from marketing to a data/tech focus, particularly in database-related roles.",
+    "skills": [
+        "Advertising",
+        "Google Analytics",
+        "TAM",
+        "IRS",
+        "TGI",
+        "HTML",
+        "CSS",
+        "Java",
+        "MySQL",
+        "SQL",
+        "SAP MM",
+        "J2EE",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Outlook",
+        "Project",
+        "Visio",
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP",
+        "Apple OS X",
+        "MIS",
+        "Database",
+        "Event planning"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Event management company (Bangalore)",
+            "start_date": "2014-03",
+            "end_date": "2014-07",
+            "description": "Plan events and consult on marketing-related processes; managed event planning budget; designed and implemented event plans; monitored and controlled event plans; attended pitch meetings and presentations; prepared reports and presentations. Main client cited: Google."
+        },
+        {
+            "title": "Account Manager",
+            "company": "Group M",
+            "start_date": "2013-04",
+            "end_date": "2013-11",
+            "description": "Managed clients' advertising budgets; analyzed competition scenarios from a media perspective; recommended media mix and oversaw plan execution; conducted post-evaluation of campaigns; prepared MIS reports; led client and team meetings; supported new client pitches."
+        },
+        {
+            "title": "Media Buyer",
+            "company": "Group M",
+            "start_date": "2011-12",
+            "end_date": "2013-04",
+            "description": "Managed clients' budgets; negotiated costs for approved media plans and major media properties with vendors; delivered cost savings for clients; prepared workflow reports; conducted investment profiling for media mix; presented new media investment opportunities; finalized rates and generated savings reports; maintained relationships with media vendors and clients; performed post-campaign evaluations."
+        },
+        {
+            "title": "Media Planner",
+            "company": "Mudra",
+            "start_date": "2010-06",
+            "end_date": "2011-12",
+            "description": "Managed clients' advertising budgets; analyzed competition; recommended media mix; implemented plans and conducted post-evaluation; coordinated with team members; prepared workflow reports; provided MIS updates; supported client pitching and vendor relations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in International Business (dual specialization in Marketing and Finance)",
+            "school": "National University",
+            "year": ""
+        },
+        {
+            "degree": "MIS (Management Information Systems)",
+            "school": "GITAM University",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

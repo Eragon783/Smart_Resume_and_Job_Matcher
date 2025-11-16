@@ -1,0 +1,98 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Results-focused management professional with 25 years of progressive leadership experience in operations management, staff development, inventory control, and sales. Proven ability to transform high-potential staff into effective leaders and to implement cost-saving operational improvements and revenue growth through strategic planning and Lean initiatives.",
+    "skills": [
+        "Operations management",
+        "Staff development",
+        "Inventory control",
+        "Compensation/benefits administration",
+        "Policy/program development",
+        "Staff training",
+        "Supervision and training",
+        "Sound judgment",
+        "Computer-savvy",
+        "Calm under pressure",
+        "Complex problem solving",
+        "Microsoft Office",
+        "Forecasting",
+        "Excellent writing skills",
+        "Billing",
+        "Attention to detail",
+        "Multi-state payroll",
+        "Organizational skills",
+        "Record-keeping",
+        "I-9 documentation",
+        "Accounts payable",
+        "Lean Six Sigma",
+        "Project Management",
+        "Marketing",
+        "PowerPoint",
+        "Nursing",
+        "Outside sales",
+        "Payroll",
+        "Purchasing",
+        "Quality control",
+        "Recruiting",
+        "Research",
+        "Safety",
+        "Sales",
+        "Six Sigma",
+        "Strategic plans",
+        "Supervising",
+        "Trade shows",
+        "Transportation",
+        "Visual merchandising",
+        "Written skills",
+        "General Management",
+        "Government",
+        "Human resources",
+        "Production manager",
+        "Meetings",
+        "Inspection",
+        "Director"
+    ],
+    "experience": [
+        {
+            "title": "Sales Team",
+            "company": "Company Name - City, State",
+            "start_date": "November 2015",
+            "end_date": "February 2016",
+            "description": "Delivered unparalleled customer services; greeted and assisted customers, responded to inquiries and complaints in a professional and timely manner; communicated product knowledge and recommended merchandise; trained in visual merchandising and organization; monitored sales activities and productivity; ensured register transactions were completed accurately and in accordance with policy; demonstrated excellent verbal and written communication; strong organizational and multitasking abilities in a fast-paced environment."
+        },
+        {
+            "title": "Sales Team",
+            "company": "Company Name - City, State",
+            "start_date": "November 2015",
+            "end_date": "January 2016",
+            "description": "Provided outstanding customer services; maintained displays and store appearance; ensured customer satisfaction at every stage of sale; opened and closed the store per company policy; recommended new products and upcoming events; broad expertise in advertising and promotion."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name - City, State",
+            "start_date": "March 2009",
+            "end_date": "January 2015",
+            "description": "Management Lead overseeing long- and short-term plans aligned with strategic goals; managed expenditures within the annual budget; implemented operational improvements to enhance quality, production times and reduce costs; conducted time studies to reduce labor hours; implemented an inventory software program to streamline communication across purchasing, inventory, engineering and production; experienced with Lean Six Sigma; supervised large teams; proficient in Microsoft Office and PowerPoint; performed project management and ensured safety compliance; monitored productivity and optimized procedures; managed 60+ vendor relationships; delivered projects against scope, budget, schedule and customer expectations; developed production tracking and quality control systems; implemented new product lines through research and development."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name - City, State",
+            "start_date": "February 2004",
+            "end_date": "January 2009",
+            "description": "Developed and operated four assisted living locations; obtained and maintained annual state certifications; supervised security, transportation and monitoring; managed day-to-day facility operations and admissions; coordinated services including nursing, dining, housekeeping, activities and maintenance; oversaw new resident move-ins and orientation and supported the admission process through tours and follow-up calls; monitored budget compliance and financial outcomes including labor and accounts receivable; oversaw payroll and ensured accurate activity documentation; kept current on regulatory changes related to Assisted Living and Dementia Care; recruited and onboarded staff and managed HR duties; conducted marketing events and outside sales calls."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Nelson County High School - City, State",
+            "year": 1980
+        }
+    ],
+    "certifications": [
+        "MSHA approvals (Product, Breathable Air, Harmful Gas Removal, Gas Monitoring, Structural)"
+    ],
+    "languages": []
+}

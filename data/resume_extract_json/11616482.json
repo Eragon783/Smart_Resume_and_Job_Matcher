@@ -1,0 +1,59 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Detail-oriented, high-energy Social Science Teacher with experience motivating students, creating a comfortable, creative learning environment, and aligning subject matter with current events. Skilled in lesson planning, relationship-building, experiential learning, differentiated instruction, and clear communication.",
+    "skills": [
+        "branding",
+        "business case",
+        "Interpersonal",
+        "oral",
+        "critical thinking",
+        "functional",
+        "lesson planning",
+        "meetings",
+        "Microsoft Office",
+        "Outlook",
+        "relationship building",
+        "seminars",
+        "written communication skills"
+    ],
+    "experience": [
+        {
+            "title": "Guest Teacher",
+            "company": "Company Name",
+            "start_date": "Jan 2015",
+            "end_date": "Current",
+            "description": "Managed classroom responsibilities and maintained continuity of the learning process. Incorporated cooperative education and role playing activities to establish a relationship between course material and student's life experiences. Encouraged critical thinking skills through the use of challenging debate."
+        },
+        {
+            "title": "National Account Manager",
+            "company": "Company Name",
+            "start_date": "Jan 2005",
+            "end_date": "Jan 2014",
+            "description": "Promoted to develop deeper HQ & regional relationships and grow gaming and lodging business channel. Managed the relationships between Starbucks Coffee and MGM International, Caesars Entertainment, Station Casinos, Intercontinental Hotels, Hilton Hotels. Credited with Starbucks Coffee store growth along Las Vegas strip from zero base to present day $105mm annual revenue. Built strategic alliances with internal and external teams that resulted in sustained revenue growth over 14 Yrs."
+        },
+        {
+            "title": "Regional Sales Manager",
+            "company": "Company Name",
+            "start_date": "Feb 2000",
+            "end_date": "Jan 2005",
+            "description": "Led internal cross-functional and external teams to ensure franchise store growth and timely store openings and execution of foodservice agreements for regional business in California, Nevada and Arizona. Established lodging and gaming as a viable business segment for Starbucks Coffee Company. Accomplishments included expanding customer and product base beyond franchised locations to eventually secure corporate distribution mandates resulting in excess $105 million in ongoing annual revenues for gaming and lodging segment. Increased number of license stores along the Las Vegas strip from 1 to 51 high volume locations. Presented comprehensive instructional seminars at regional and national meetings. Topics included site selection, product placement from a branding perspective, building a business case to show ROI, contract compliance, and identifying new distribution opportunities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA, Business",
+            "school": "University of Nevada",
+            "year": "2006"
+        },
+        {
+            "degree": "Bachelor of Science, Education Social Science",
+            "school": "Emporia State University",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

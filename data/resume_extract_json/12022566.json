@@ -1,0 +1,87 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Candidate with a fifteen months experience in production supervising and manufacturing seeking opportunity in field of Quality, Supply Chain and Manufacturing. Highlights include DMAIC, Failure Modes and Effects Analysis (FMEA), Kaizen, Lean Manufacturing, 5S, Value Stream Mapping, Root Cause Analysis, PFMEA. Quality tools: Statistical Process Control, Process Capability, ANOVA, Gage R&R. Software: Programmable Logic Controls (PLC), Discrete Control System (DCS), Microsoft Office, Minitab, Pro-E; Working knowledge of Auto-Cad, C++, C, Visual Basic; Process Flow Diagram.",
+    "skills": [
+        "Auto-Cad",
+        "C",
+        "C++",
+        "Discrete Control System (DCS)",
+        "HAZOP",
+        "ISO 9001",
+        "Logic",
+        "Microsoft Office",
+        "Minitab",
+        "Optimization",
+        "PLC",
+        "Pro-E",
+        "Visual Basic",
+        "Process flow diagram",
+        "5S",
+        "Kaizen",
+        "Lean Manufacturing",
+        "DMAIC",
+        "FMEA",
+        "PFMEA",
+        "Six Sigma",
+        "Statistical Process Control",
+        "Value Stream Mapping",
+        "Root Cause Analysis",
+        "Supply Chain",
+        "Scheduling",
+        "Quality",
+        "Quality Assurance",
+        "receiving",
+        "Research",
+        "Strategic planning",
+        "clients"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Intern",
+            "company": "",
+            "start_date": "May 2014",
+            "end_date": "Aug 2014",
+            "description": "Research and Development of a new product: Rubber Screen Panels for mining industries; Manufacturing and Production of a new product using Injection Molding; Scheduling and Planning operations; Implementation of strategic planning and control; Application of Lean manufacturing; Efficient handling of Injection Molding machine; Followed ISO 9001."
+        },
+        {
+            "title": "Lean Six Sigma Intern",
+            "company": "Community Beer Works",
+            "start_date": "Sep 2013",
+            "end_date": "Dec 2013",
+            "description": "Applied Six Sigma tools using DMAIC to the transaction process. Reviewed and applied 5S, cause and effect diagram, histogram, Pareto Chart, Value Stream Mapping. Analyzed and improved processes to generate more profit; Suggested a portal to reduce lead time between ordering and receiving in the transactional process."
+        },
+        {
+            "title": "Production Supervisor",
+            "company": "National Organic Chemicals of India Limited (NOCIL) – Rubber Chemical Division",
+            "start_date": "Jul 2011",
+            "end_date": "Jul 2012",
+            "description": "Supervised production unit CBS (n-cyclohexylamine 2-benzothiozole sulpanamide) used as an accelerator in tire production. Handled distillation columns, pressure vessels and valves controlled by PLC and DCS. Maintained distillation columns with no mishandling incidents. Followed HAZOP. Implemented Failure Mode and Effects Analysis (FMEA)."
+        },
+        {
+            "title": "Supply Chain Intern",
+            "company": "AMUL Diary",
+            "start_date": "Sep 2013",
+            "end_date": "Dec 2013",
+            "description": "Studied and analyzed the supply chain; suggested improvements to maximize profit. Analyzed information in the supply chain such as EIAS, GIS, DISK. Advocated E-initiative; proposed logistics improvements; reduced transportation time by selecting nearer sites; improved distribution network in retail outlets."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science, Industrial Engineering",
+            "school": "University at Buffalo, The State University of New York",
+            "year": "2014"
+        },
+        {
+            "degree": "Bachelor of Engineering, Chemical Engineering",
+            "school": "University of Mumbai",
+            "year": "2011"
+        }
+    ],
+    "certifications": [
+        "Six Sigma"
+    ],
+    "languages": []
+}

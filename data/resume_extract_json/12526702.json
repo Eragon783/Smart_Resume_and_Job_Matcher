@@ -1,0 +1,123 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Consultant with 15 years of experience in electrical and quality engineering, skilled in creating detailed test plans and test cases for quality control, and a solid background in various testing methodologies for client-facing and non-client-facing procedures and products. Experienced in QA initiatives, CAPA and risk assessment analyses, forensic investigations, documentation management, and staff training.",
+    "skills": [
+        "AutoCAD",
+        "OrCADD",
+        "C",
+        "C++",
+        "Customer Support",
+        "Data Acquisition",
+        "Data Analysis",
+        "Database",
+        "FDA",
+        "GMP",
+        "Government",
+        "Interface Design",
+        "Labview",
+        "MS Access",
+        "MS Excel",
+        "MS Power Point",
+        "Microsoft Project",
+        "Microsoft Visual Basic",
+        "Microsoft Windows",
+        "MS Word",
+        "NT",
+        "Organizational leadership",
+        "Problem solving",
+        "Product Development",
+        "Procedure Writing",
+        "Programming",
+        "Project management",
+        "Protocols",
+        "Quality Improvement",
+        "Quality Control",
+        "Risk Assessment",
+        "Strategic Planning",
+        "System Integration",
+        "Technical Support",
+        "Presentations"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "01/2009",
+            "end_date": "Current",
+            "description": "Conducted product analysis to address high failure rates, leading to more than 15% decrease in failure rate. Provided failure analysis, engineering support, forensic investigation, and statistical data analysis. Provided training to staff in leadership, strategic planning, and organizational management."
+        },
+        {
+            "title": "Electrical Engineer",
+            "company": "Company Name",
+            "start_date": "03/2007",
+            "end_date": "11/2008",
+            "description": "Provided systems and electrical engineering support for government programs development. Supported vehicle hardware and integration, vehicle systems modeling and analysis, and systems requirements. Designed MIL-STD-1553 interface, EIA RS-422 interface design, USB and Ethernet interfaces. Performed installation, testing, and verification of simulators' audio-visual systems. Developed Vehicle's Software Test Description (STD), Interface Design Description (IDD). Developed interface cable systems for vehicles."
+        },
+        {
+            "title": "Principal Electrical Engineer",
+            "company": "Company Name",
+            "start_date": "04/2005",
+            "end_date": "11/2006",
+            "description": "Provided engineering support of dialysis instruments. Planned and led project functions. Provided project management, failure analysis, and forensic investigation of manufacturing and product field failures. Advised on the Quality Improvement Team (QIT). Performed product trend analysis, statistical data analysis, calculations of raw data, DFMEAs, and design reviews. Managed CAPA and risk assessment analyses. Ensured proper documentation of phase deliverables in Products Design History/Technical Files, Technical Summaries, Technical Manuals. Wrote product test protocols and procedures. Conducted environmental tests for product reliability."
+        },
+        {
+            "title": "Systems Engineer",
+            "company": "Company Name",
+            "start_date": "08/2003",
+            "end_date": "11/2004",
+            "description": "Implemented test plans, validation protocols, verified code changes, identified and investigated bugs. Performed stress tests and assessed product functionality and usability."
+        },
+        {
+            "title": "Electrical Engineer",
+            "company": "Company Name",
+            "start_date": "10/2001",
+            "end_date": "07/2003",
+            "description": "Designed power controls distribution and avionics wiring. Performed analysis on voltage power system control. Designed and developed electrical test equipment. Installed and verified simulators' audio-visual systems."
+        },
+        {
+            "title": "Systems Quality Engineer",
+            "company": "Company Name",
+            "start_date": "10/2000",
+            "end_date": "10/2001",
+            "description": "Wrote and implemented quality control procedures. Maintained weapon engagement simulation systems. Provided technical support to manufacturing and quality control for testing and calibration of laser equipment. System designed and developed electrical test fixtures for optical devices. Provided logistical support and analysis, reliability and maintainability analysis, and human factors analysis. Conducted product reliability testing using environmental test chambers. Made technical presentations to customers worldwide, resulting in government contracts with US-supported military contracts with Egypt, Kuwait and Turkey."
+        },
+        {
+            "title": "Applications Engineer",
+            "company": "Company Name",
+            "start_date": "08/1999",
+            "end_date": "09/2000",
+            "description": "Improved Character and Graphic LCD displays designs, engineering changes, and customer support, product testing and validation. Resolved customers' technical issues, improving company’s customer relations. Resolved customers' complaints and concerns."
+        },
+        {
+            "title": "Project Engineer",
+            "company": "Company Name",
+            "start_date": "07/1995",
+            "end_date": "07/1999",
+            "description": "Developed test programs, calibration test equipment. Maintained Automated Test Equipment (ATE). Performed failure mode analysis, yield enhancement, statistical process control. Developed and executed test plans, validation protocols, and test procedures to support manufacturing lines of medical instruments."
+        },
+        {
+            "title": "Reliability Engineer",
+            "company": "Company Name",
+            "start_date": "04/1990",
+            "end_date": "07/1995",
+            "description": "Prepared the company's quality and reliability metrics for all products, safety and hazard analysis, FMEA, reliability metrics, and system assurance analysis (SAA). Prepared product complaints information reports, medical device reports (MDR). Monitored product reliability, maintainability, and availability. Performed system criticality assessment (SCA) on several products. Analyzed acceptance of incoming material and in-process material, product return information, and product investigations. Wrote test procedures and maintained the Quality Control database. Executed and troubleshot reliability test plans. Performed reliability data analysis and reports distribution."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Electrical Engineering",
+            "school": "Northeastern University",
+            "year": "1997"
+        },
+        {
+            "degree": "Electrical Engineering",
+            "school": "Capella University",
+            "year": "2011"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

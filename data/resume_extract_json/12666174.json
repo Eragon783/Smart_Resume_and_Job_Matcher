@@ -1,0 +1,135 @@
+{
+    "name": "Mr. Ginder",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Regional Schedule Manager with nearly 20 years in heavy civil construction, focused on Primavera scheduling since 2006. Experienced with rail, mass transit light rail, highways and marine bridge projects. Proficient in Primavera P6 (up to version 8.2), Tilos, Sure Track, MS Project, Excel, Word and PowerPoint. Skilled in cost-loaded resource data, CPM baselines, scheduling updates, and bid/proposal support. Notable achievements include developing schedules for MnDOT CMGC projects, supporting Full Funding Grant Agreement for a $1.3B light rail project, and preparing proposal schedules for design-build bids.",
+    "skills": [
+        "AutoCAD",
+        "Tilos",
+        "Sure Track",
+        "MS Project",
+        "Excel",
+        "Word",
+        "PowerPoint",
+        "Primavera P6",
+        "Primavera 5",
+        "Primavera 6",
+        "Primavera Contract Manager",
+        "Expedition",
+        "Estimating",
+        "JD Edwards",
+        "Cost loading",
+        "Scheduling",
+        "Negotiation",
+        "Enterprise",
+        "Painting",
+        "Presenting",
+        "Transportation",
+        "FM"
+    ],
+    "experience": [
+        {
+            "title": "Regional Schedule Manager",
+            "company": "Company Name",
+            "start_date": "February 2013",
+            "end_date": "Present",
+            "description": "Prepares proposal and bid schedules for railroads, pump stations, DOT hard bid, DOT design build, and DOT CMGC projects. Prepares baseline schedules and updates for the CPM on multiple MnDOT projects including the Dresbach I-90 Bridge Project, MnPASS design build on I-35E in St. Paul, and the Winona Bridge CMGC project in Winona, MN. Interfaces with the project management and estimating teams to prepare, build, and maintain project schedules. Provided technical assistance with other Ames projects outside the Midwest Region including a Potash mine in Saskatchewan, Canada. Assisted with construction cost estimating and takeoff for multiple bids and proposals."
+        },
+        {
+            "title": "Schedule Manager",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "February 2013",
+            "description": "Houston Metro Light Rail Project (Design Build), Harris County, Houston TX, Metropolitan Transit Authority of Harris County, Texas. Duties include managing a team of corridor schedulers. Development and preparation of the project CPM schedule baseline, managing monthly progress updates to the schedule, and numerous revenue projection forecasts and schedule reports. Coordinating and participating in meetings between corridor managers, program managers, joint venture partners, and project owners. Duties also include managing update progress reports and narratives. Project Cost: $1.25 billion for entire program."
+        },
+        {
+            "title": "Assistant Project Engineer / Project Controls",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "February 2013",
+            "description": "Development and preparation of the project CPM schedule, cost loading the CPM, adding monthly progress to the schedule, and preparing cash flow reports. Duties also include preparing update progress reports and narratives for the North Corridor of the Houston Light Rail Project. Project Cost: $1.25 billion for entire program (North Corridor $400 million)."
+        },
+        {
+            "title": "Corridor Scheduler",
+            "company": "Company Name",
+            "start_date": "February 2008",
+            "end_date": "January 2010",
+            "description": "North Corridor scheduler for the Houston Light Rail Project. Duties included preparing the schedule through numerous phases of design development, cost loading resources, and providing schedule and cost projection information to support limited Federal funding for the project."
+        },
+        {
+            "title": "Design Construction Coordinator Change Order Manager / Project Scheduler",
+            "company": "Company Name",
+            "start_date": "January 2004",
+            "end_date": "February 2008",
+            "description": "Constructability review of design documents, presenting aesthetic concepts and cost to the agency, preparation and negotiation of change orders with the agency, preparation of the project CPM schedule and draw payments to the agency, assisted in the preparation of subcontracts. Project Cost: $178 million."
+        },
+        {
+            "title": "Estimator",
+            "company": "Company Name",
+            "start_date": "October 2002",
+            "end_date": "November 2004",
+            "description": "Assisted with project estimating and bidding, including the SH130 toll road, a $1 billion design/build turnpike construction and the 183A Toll Road Project."
+        },
+        {
+            "title": "Field Engineer",
+            "company": "Company Name",
+            "start_date": "July 2002",
+            "end_date": "October 2002",
+            "description": "US84 Lamb County, Littlefield, TX, Texas Dept. of Transportation. Duties include coordination of material deliveries and oversight of subcontractor activities. Project Cost: $13.8 million."
+        },
+        {
+            "title": "Estimator",
+            "company": "Company Name",
+            "start_date": "December 2001",
+            "end_date": "July 2002",
+            "description": "Estimator for drainage and structures disciplines."
+        },
+        {
+            "title": "Field Engineer",
+            "company": "Company Name",
+            "start_date": "July 2000",
+            "end_date": "January 2001",
+            "description": "Williamson Co. FM 1325 Turnaround Bridge Construction, Round Rock, TX, TXDOT. Construction of 3 bridges and frontage roads. Coordinated material deliveries and oversaw subcontractor activities; office engineering for this project. Project Cost: $5 million."
+        },
+        {
+            "title": "Field Engineer",
+            "company": "Company Name",
+            "start_date": "July 1999",
+            "end_date": "July 2000",
+            "description": "Overseeing concrete structures, concrete paving, asphalt paving, and traffic control for I-45 reconstruction project. Project Cost: $55 million."
+        },
+        {
+            "title": "Office Engineer",
+            "company": "Company Name",
+            "start_date": "October 1997",
+            "end_date": "December 1997",
+            "description": "FM 740, Rockwall, TX, TXDOT. Widening of a city street; duties included subcontract and purchase order payments, cost reports, materials ordering, subcontractor management, quantity takeoffs, and traffic control management. Project Cost: $1.5 Million."
+        },
+        {
+            "title": "Geotechnical Engineer / Construction Materials Inspector",
+            "company": "Company Name",
+            "start_date": "January 1992",
+            "end_date": "October 1997",
+            "description": "Some notable projects include construction materials testing at Denver International Airport and geotechnical reports for E-470 Tollway; performed geotechnical engineering reports, environmental site investigations, soil, concrete, and asphalt field and laboratory testing, pavement designs, and building inspections."
+        },
+        {
+            "title": "Survey Party Chief",
+            "company": "Twin Mountain Construction / New Mexico DOT",
+            "start_date": "1991",
+            "end_date": "1991",
+            "description": "I-40 Port of Entry, Gallup, NM. Managed a three-person survey crew on this project; Project Cost: $5 Million."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S.E. in Civil Engineering",
+            "school": "Colorado School of Mines",
+            "year": "1991"
+        }
+    ],
+    "certifications": [
+        "HCSS Certified Professional Engineer"
+    ],
+    "languages": []
+}

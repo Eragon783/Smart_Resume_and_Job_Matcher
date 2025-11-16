@@ -1,0 +1,79 @@
+{
+    "name": "André Comeaux",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Summary Seeking an employment position in the Marketing or Public Relations field. Highlights I am able to work very well with other people, as part of a team or otherwise, in an external and/or internal work environment. I am very organized and can multi-task with ease. I am able to take direction easily, but I am also not afraid to ask for help if needed. I am a strong communicator and pride myself on my ability to speak and write well. I am very familiar with most computer office programs including all Microsoft programs. I work well under pressure and consider myself to be an effective problem solver, promoter and liaison. I pride myself on being able to develop and nurture relationships, existing and new, with clients, patients, and/or team members on a daily basis.",
+    "skills": [
+        "Associate",
+        "Basis",
+        "Greeting",
+        "Inventory",
+        "Monthly Sales",
+        "Sales",
+        "Sales Associate",
+        "Stocking",
+        "Marketing",
+        "Posting",
+        "Clients",
+        "Filing",
+        "Increase",
+        "Liaison",
+        "Problem Solving",
+        "Proofreading",
+        "Recruitment",
+        "Very Organized",
+        "Games",
+        "Promotional",
+        "Public Relations",
+        "Organized"
+    ],
+    "experience": [
+        {
+            "title": "Social Media Manager",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "Present",
+            "description": "Running Title history on Lease holders and their properties; Entering data to be used in official Abstracts; Managing personal relationships with clients by writing 'Thank You' letters and keeping them informed with weekly email updates; Assisting with daily office duties such as filing, organizing, and updating company/clientele information; Creating and maintaining Social Media profiles (Facebook, Twitter, Instagram) for the Candidate; Creating and implementing strategic plans for Social Media posts to broaden outreach; Helping plan campaign fundraisers and events for the Lafayette community; Examples: Planned and implemented a 'Meet the Candidate' social gathering at a local restaurant for current students and recent graduates to volunteer; Helped plan and implement several fundraisers; Helped design the website, campaign 'push card' and campaign t-shirt"
+        },
+        {
+            "title": "Marketing Intern",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2014-05",
+            "description": "Creating and posting numerous Social Media posts on various outlets (Facebook, Twitter, Instagram, Constant Contact) to engage followers and encourage attendance to events; Designing and sending out weekly, sometimes daily e-Blasts (via Constant Contact) to ticket holders and the general public about upcoming events, getting involved with volunteering, etc.; Volunteering for Art Walks in Downtown Lafayette & various concerts, taking pictures at certain events and fundraisers, and assisting the Marketing Director with different tasks on a daily basis such as organizing and designing promotional pieces including flyers, postcards and the Center's website"
+        },
+        {
+            "title": "Sports Intern",
+            "company": "Company Name",
+            "start_date": "2013-09",
+            "end_date": "2014-02",
+            "description": "Assisting the Sports Director with filming high school football games; Recording names, numbers and scores of each game; Cutting film and reviewing/editing the script for the teleprompter for the Sports Director before he went on-air"
+        },
+        {
+            "title": "Nanny/Caregiver",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "2014-02",
+            "description": "Basic caregiver for three small children for 4-6 hours everyday; Provided discipline according to their ages; gave everyday chores and responsibilities to accomplish (homework, cleaning rooms, dressing for activities)"
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2011-05",
+            "end_date": "2012-12",
+            "description": "Greeting and assisting customers; Working the register; Re-stocking shelves and taking inventory on a weekly basis and major inventory over the summer; Wrapping gifts; Creating flyers and postcards to advertise monthly sales or discounts; Designing various window displays"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Public Relations with Minor in Business",
+            "school": "University of Louisiana at Lafayette",
+            "year": 2014
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

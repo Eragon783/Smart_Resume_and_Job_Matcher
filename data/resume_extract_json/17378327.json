@@ -1,0 +1,49 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Motivated customer service specialist with over 30 years of retail experience in a fast-paced, team-based environment. Core strengths include creative problem solving, MS Windows proficiency, quick learner, trusted key holder, and exceptional communication skills.",
+    "skills": [
+        "Communication skills",
+        "Creative problem solving",
+        "MS Windows",
+        "Quick learner",
+        "Trusted key holder",
+        "Sales",
+        "Phone",
+        "Publisher"
+    ],
+    "experience": [
+        {
+            "title": "Sales Advisor",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "Present",
+            "description": "Prepare, present, and encourage sales of specific items (food, household items, appliances). Met and exceeded sales goals; occasionally sold out featured products. Greeted customers, determined needs, described products, and explained care and details of merchandise."
+        },
+        {
+            "title": "Cardiac Care Assistant",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2009-01",
+            "description": "Performed pacemaker tests over the phone; handled over forty calls per day. Assisted patients and agents to relax during tests; provided instructions to ensure tests were adequate for doctor's review."
+        },
+        {
+            "title": "Analyst",
+            "company": "Company Name",
+            "start_date": "2003-01",
+            "end_date": "2005-01",
+            "description": "Instituted system to manage subscribers' accounts for receipt of eclectic journals. Located publishers for delinquent shipments; investigated payments and verified correct payments for publishers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Biology",
+            "school": "Dillard University",
+            "year": 1974
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

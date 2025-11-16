@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Accomplished communicator who mediates effectively and uses negotiating and persuasion skills to achieve consensus. Proficient in account management, training, project management, and building strong relationships. Proven ability to streamline operations, educations, and troubleshoot problem areas. Demonstrated history of successful administration and effective issue resolution, while providing high-quality leadership, and managing individuals from varying backgrounds.",
+    "skills": [
+        "Spreadsheet management",
+        "POS systems",
+        "Microsoft Office proficiency",
+        "Advanced MS Office Suite knowledge",
+        "Medical Billing",
+        "Microsoft Excel",
+        "Administrative support",
+        "QuickBooks",
+        "Invoice processing",
+        "Customer service",
+        "Data entry",
+        "Payroll",
+        "Clerical",
+        "Market research and analysis",
+        "Public relations"
+    ],
+    "experience": [
+        {
+            "title": "Insurance Specialist",
+            "company": "Company Name",
+            "start_date": "2017-04",
+            "end_date": "Current",
+            "description": "Processed applications, payments, corrections, endorsements and cancellations. Developed, implemented and monitored new underwriting guidelines for the agency. Compiled coverage and rating information in an accessible format. Submitted up-to-date activity and production logs to agency management for review. Researched coverage and premium options and supplied clients with the best coverage available. Finalized and maintained all types of personal lines insurance policies within the agency."
+        },
+        {
+            "title": "Front desk agent",
+            "company": "Company Name",
+            "start_date": "2015-12",
+            "end_date": "Current",
+            "description": "Dispensed guidance, direction and authorization to carry out major plans. Reviewed sales price and operating costs. Ensured work was accomplished in a safe manner in accordance with established operating procedures and practices. Handled telephone inquiries. Documented business requirements, functional specifications and training procedures. Managed quality communication, customer support and product representation for each client. Interacted with customers and retail buyers to follow-up on shipping statuses and expedited orders. Promptly responded to general inquiries from members, staff, and clients via mail, e-mail and fax. Performed store opening duties, including counting cash drawers and checking all equipment for proper functioning."
+        },
+        {
+            "title": "Public relations",
+            "company": "Company Name",
+            "start_date": "2011-09",
+            "end_date": "2012-06",
+            "description": "Identified customer needs through market research and analysis. Defined project and company vision, strategies and tactics. Researched, negotiated, implemented and tracked advertising and public relations activities. Evaluated and managed new strategic business opportunities. Expanded product and company recognition in the national press to support the sales and marketing teams. Organized public appearances, lectures, contests and exhibits to increase product awareness."
+        },
+        {
+            "title": "Billing and Coding",
+            "company": "Company Name",
+            "start_date": "2010-07",
+            "end_date": "2010-08",
+            "description": "Obtained information by contacting appropriate personnel or patients. Organized files by color codes Entered information into computer databases. Retrieved requested files and delivered to appropriate personnel. Reviewed files to check for complete and accurate information. Processed and routed incoming mail."
+        },
+        {
+            "title": "Public Relations",
+            "company": "Company Name",
+            "start_date": "2011-08",
+            "end_date": "2017-05",
+            "description": "Identified customer needs through market research and analysis. Defined project and company vision, strategies and tactics. Organized public appearances, lectures, contests and exhibits to increase product awareness. Worked with management to identify trends and developments that might influence PR decisions and strategies. Researched, negotiated, implemented and tracked advertising and public relations activities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Jones Senior High School",
+            "year": 2011
+        },
+        {
+            "degree": "Business Administration",
+            "school": "Southern University",
+            "year": 2017
+        }
+    ],
+    "certifications": [
+        "Microsoft Excel certified"
+    ],
+    "languages": []
+}

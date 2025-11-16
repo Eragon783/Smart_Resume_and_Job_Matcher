@@ -1,0 +1,53 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced consultant with strong financial acumen and extensive experience in procurement of medical supplies, cost optimization, and process improvement. Skilled in budgeting, strategic planning, HIPAA privacy and security, EHR implementations, data analysis, and cross-functional collaboration. Proficient in Microsoft Office and public speaking; adept at building relationships and resolving conflicts in time-sensitive environments.",
+    "skills": [
+        "Financial acumen and procurement of medical supplies",
+        "Sourcing and purchasing of medical supplies",
+        "Critical thinking and decision-making under time pressure",
+        "Cultural awareness and sensitivity",
+        "Microsoft Office (Word, Excel, Access)",
+        "Public speaking",
+        "Relationship building and conflict resolution"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2016-06",
+            "end_date": null,
+            "description": "Created annual goals, objectives and budget; made recommendations to reduce costs. Managed scheduling and booking of auctioning events; reduced costs via sponsorships. Implemented standards to measure agency activity effectiveness. Sourced and implemented new performance appraisal process."
+        },
+        {
+            "title": "Assistant Manager / HIPAA Privacy and Security Officer",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "2016-06",
+            "description": "Facilitated organization-wide change in electronic health record systems. Analyzed and submitted monthly reports to accounting manager to demonstrate policy compliance. Performed end-of-day accounting and balancing (accounts receivable for internal purchases and documentation of co-payments). Averaged $12K-$20K in daily balances. Conducted HIPAA risk assessments to identify weaknesses in current record systems; developed policies to better protect patient information."
+        },
+        {
+            "title": "Planning Assistant",
+            "company": "Company Name",
+            "start_date": "2012-11",
+            "end_date": "2013-02",
+            "description": "Created analytical framework for identifying and developing financial growth opportunities. Worked on Kmart and Kohl's projects, leading to successful restructuring, increased sales, and revenue growth. Managed the American market customer service department; served customers from family-owned local markets to national accounts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in History",
+            "school": "University of Illinois at Chicago",
+            "year": 2012
+        },
+        {
+            "degree": "Master of Science in Health Administration",
+            "school": "University of Washington",
+            "year": 2015
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,86 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Organized results-oriented finance professional with a tangible track record of consistently delivering exceptional financial modeling and analytic support. Proved success of managing day-to-day business activities of financial analytic systems and teams, supporting M&A activity, managing large-scale projects, developing, implementing and auditing business process flows, and ensuring the accurate disclosure of financial facts. Experienced leader, working across the organization to create compelling analysis with the goal of influencing improved business performance.",
+    "skills": [
+        "SAP",
+        "Business Warehouse",
+        "Business Planning and Consolidation",
+        "Business Objects",
+        "SAS",
+        "Crystal Reporting",
+        "acquisitions",
+        "automotive",
+        "budgets",
+        "budget",
+        "Cash Flow",
+        "Controller",
+        "cost accounting",
+        "documentation",
+        "Due Diligence",
+        "Economics",
+        "Electronic Data Interchange",
+        "equity",
+        "finance",
+        "Financial Forecasting",
+        "Financial Planning and Analysis",
+        "forecasting",
+        "Modeling",
+        "month end close",
+        "policies",
+        "pricing",
+        "reporting",
+        "Statistics",
+        "Tax",
+        "Teaching",
+        "valuation",
+        "Impairment analysis",
+        "Lease accounting"
+    ],
+    "experience": [
+        {
+            "title": "Director Finance Projects",
+            "company": "Company Name - City, State",
+            "start_date": "January 2015",
+            "end_date": "Present",
+            "description": "Responsible for the strategic design, implementation, integration and accessibility of resources enabling effective and reliable data analytics and business intelligence across the Enterprise. Responsible for deploying efficient approaches to the processing of financial data across the various teams within the Finance Division. Key principles applied: innovation, automation, accuracy, continuous improvement and the generation of additional capacity within the Finance Division."
+        },
+        {
+            "title": "Manager of Business Analytics",
+            "company": "Company Name - City, State",
+            "start_date": "January 2012",
+            "end_date": "January 2015",
+            "description": "Developed and supported methods and studies to determine the effectiveness of business plans, policies and procedures in a $1.2 Billion multinational environment. Supported, Consolidated and Reported the Quarterly and three year rolling Financial Forecast of 250+ users Worldwide. Analyzed financial information to determine the information constituted an accurate and adequate disclosure of facts. Supported Business Unit requests for special projects related to Financial Forecasting and Analysis Developed and Supported forecasting methods for currency exposure and currency hedging activity. Maintained the integrity of the Financial Forecasting system."
+        },
+        {
+            "title": "Assistant Finance Director - Corporate Services",
+            "company": "Company Name - City, State",
+            "start_date": "May 2008",
+            "end_date": "January 2012",
+            "description": "Assistant Finance Director of Service Centers Worldwide, overseeing the monthly finance activities related to Corporate activity. Performed month end close, reporting and analysis activities of 80+ worldwide locations, $150M annual budget. Developed lease accounting policies and procedures. Developed and Administrated the Capital Expenditure planning and reporting process."
+        },
+        {
+            "title": "SVP Financial Planning & Analysis",
+            "company": "Company Name - City, State",
+            "start_date": "January 2003",
+            "end_date": "May 2008",
+            "description": "Developed Portfolio Valuations utilizing Discounted Cash Flow Models, Econometric Modeling and Risk Simulations. Developed quantitative risk and return models. Responsible for identifying and pricing acquisitions for private equity. Responsible for buy side valuation analysis. Responsible for due diligence. Responsible for projections and budgets. Worked with Low Income Housing and Historic Tax Credits."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Economics/Geography",
+            "school": "University Of Cincinnati",
+            "year": null
+        },
+        {
+            "degree": "MBA in Finance",
+            "school": "Bowling Green State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

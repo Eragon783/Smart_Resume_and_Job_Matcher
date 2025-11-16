@@ -1,0 +1,70 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Experienced product development Engineer and manager able to collaborate with cross functional team as well as customers and sales to bring brand new offerings to new markets. Skilled at managing cross functional team for continuous improvements and meeting project deadlines. Offering 6 years of experience in the field.",
+    "skills": [
+        "Microsoft Office",
+        "Microsoft Project",
+        "Product development",
+        "Quality",
+        "Research",
+        "Six Sigma Green Belt",
+        "Solid Works",
+        "Visio",
+        "Prioritization",
+        "Personnel management",
+        "Critical thinking",
+        "Team management",
+        "Analyst",
+        "Agency consulting",
+        "Cost analysis",
+        "Designing",
+        "Dialysis",
+        "Drug development",
+        "Drug device development",
+        "ISO",
+        "Leadership",
+        "Market development",
+        "Design process",
+        "Product management",
+        "Sales",
+        "Validation"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Manager",
+            "company": "Company Name",
+            "start_date": "2018-03",
+            "end_date": "Present",
+            "description": "Create and maintain Technical Files per MDR requirements as well as attaining 510k on legacy products. Assess testing gaps of legacy products and design creep. Experienced in working with multiple departments. Experienced in training and leading engineers in order to investigate field complaints, Gap analysis and building Technical files/DHF. Experienced in leading team of engineers to lead all aspects of design process, including regulatory needs per market and development per design control. Tasked to create test plan and analysis of existing Class I, II and III products and Testing per latest applicable requirements. Trained team in conducting project related cost analysis, test gap analysis and researching ISO/EN ISO/ASTM requirements. Leading companywide EU MDR product transfer and testing on Infusion products, Dialysis products and standalone products. Provided technical direction on MDR and 510k related projects and initiatives to other engineers and technicians."
+        },
+        {
+            "title": "Project Engineer II",
+            "company": "Company Name",
+            "start_date": "2017-03",
+            "end_date": "2018-03",
+            "description": "Working with product management, Clinical Analyst, sales, and regulatory to determine optimal design inputs for new products. Completed design transfer and attained 510k on Class IIb device in under year. Lead cross functional team including consulting agency in order to Develop drug device combination product and research optimal process using DOE in order for mass production. Leading all aspects of design control from designing on solid works to process validations and V&V Testing. Analyzing and resolving field failures through investigation and testing. Experienced in working with international regulatory teams in providing information for foreign registration. Responsible for gap analysis and test planning in order to create and meet deadline for projects. Experienced with reviewing and approving validation activities as well as provide support to staff to achieve project milestones. Experienced working with cross functional teams to complete projects and tasks."
+        },
+        {
+            "title": "Engineer I",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2017-03",
+            "description": "Worked to bring Drug Device Combination product to mass production. Completed new Class IIa product and completed project in 10 months. Completing CAPAs and resolving field failures by research and testing. Developed new testing methods and designed tooling for new testing. Experienced in using Injection Molding Machine to Create and Test Prototypes. Found cheaper and more responsible vendor for MRI related testing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Mechanical Engineering",
+            "school": "Temple University",
+            "year": "2013"
+        }
+    ],
+    "certifications": [
+        "Management Leadership Certification",
+        "Six Sigma Green Belt certification"
+    ],
+    "languages": []
+}

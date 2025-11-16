@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Enthusiastic customer service and telesales professional with 15+ years of experience across retail, real estate, medical, insurance, and sales. Proven ability in sales, account management, training, conflict resolution, and data/reporting; strong multitasking and communication skills; experienced in call-centers and adapting to various lines of business.",
+    "skills": [
+        "Customer service",
+        "Telesales",
+        "Sales",
+        "Account management",
+        "Training",
+        "Conflict resolution",
+        "Problem solving",
+        "Multitasking",
+        "Cash handling",
+        "Data entry",
+        "Data reporting",
+        "Interpersonal communication",
+        "Verbal and written communication",
+        "Documentation",
+        "Telephone inquiries",
+        "Call center",
+        "Live Support",
+        "Medical terminology",
+        "Medical billing & coding",
+        "Phlebotomy",
+        "Vital signs measurement",
+        "Organizational skills"
+    ],
+    "experience": [
+        {
+            "title": "CUSTOMER ADVOCATE",
+            "company": "Company Name, City, State",
+            "start_date": "March 2010",
+            "end_date": "January 2011",
+            "description": "Handled inbound calls in a call center, assisting members and physicians by responding to telephone and written inquiries. Spent ~90% of time on the phone; worked with CDHP, Medicare, Wellness, and Disease Management. Duties included medical claims billing & coding and medical benefit quotes. Conducted research with knowledge of medical terminology/anatomy; data entry and typing; strong interpersonal, verbal and written communication; analytical and organizational skills; independent decision making."
+        },
+        {
+            "title": "CUSTOMER SERVICE AGENT",
+            "company": "Company Name, City, State",
+            "start_date": "March 2002",
+            "end_date": "September 2002",
+            "description": "Greeted and checked-in passengers, assisted with baggage, verified departure documentation, and assisted unaccompanied minors. Complied with security requirements, rescheduled passengers with flight interruptions, and supported international arrivals. Produced required documentation and used carrier-specific reservation/ticketing software; managed scales for weighing baggage; prepared tickets and baggage tags."
+        },
+        {
+            "title": "PATIENT CARE ASSISTANT TECHNICIAN",
+            "company": "Company Name, City, State",
+            "start_date": "October 2000",
+            "end_date": "December 2000",
+            "description": "Provided basic patient care including vital signs, input/output, specimen collection and testing, and monitoring patient condition. Assisted with mobility, feeding, IV care, and dressing changes; attended to psyches and escorted patients to treatment areas; performed phlebotomy and EKGs; transported non-critical patients and assisted critical patients; answered phones, located equipment, and maintained documentation and charts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "PATIENT CARE ASSISTANT TECHNICIAN",
+            "school": "Maric College",
+            "year": "2000"
+        },
+        {
+            "degree": "Paralegal",
+            "school": "Penn Foster",
+            "year": "2004"
+        }
+    ],
+    "certifications": [
+        "PATIENT CARE ASSISTANT TECHNICIAN / CERTIFIED NURSES ASSISTANT"
+    ],
+    "languages": []
+}

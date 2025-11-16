@@ -1,0 +1,115 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": null,
+    "summary": "Seasoned omni-channel professional skilled at collaborating with multiple stakeholders to determine audience interest and develop strategic go-to-market plans that align with the company's business priorities and initiatives.",
+    "skills": [
+        "Branding",
+        "Catalog",
+        "Communication",
+        "Competitive",
+        "Content",
+        "Excel",
+        "Ecommerce",
+        "Financial",
+        "Google Analytics",
+        "Graphs",
+        "Inventory levels",
+        "Leadership",
+        "Marketing plans",
+        "Marketing",
+        "Market",
+        "Marketing materials",
+        "Meetings",
+        "Merchandising",
+        "PowerPoint presentations",
+        "Negotiator",
+        "Communicator",
+        "Navigation",
+        "Organization",
+        "Positioning",
+        "Pricing",
+        "Pricing strategy",
+        "Problem solver",
+        "Research",
+        "Retail",
+        "Sales",
+        "Sales analysis",
+        "Sales reports",
+        "Strategic marketing",
+        "Team player",
+        "Website",
+        "Word"
+    ],
+    "experience": [
+        {
+            "title": "Product Marketing Manager",
+            "company": "Company Name City, State",
+            "start_date": "2016-03",
+            "end_date": "Current",
+            "description": "Responsible for the execution of new product development and Marketing strategies within Outdoor and Golf categories via global and domestic sourcing partners. Conduct market research through market competitive analysis, customers’ needs and trends to identify product gaps and sales opportunities. Implement marketing plans, including product positioning, marketing strategies, and market strategy insights. Conduct financial calculations to maintain products’ profitability and analyze financial reports for the support of strategic recommendations. Execute copy and images to be included in marketing collateral and briefs the creative team on jobs and photography direction of products. Develop marketing tactics including annual printed catalog, e-blasts, direct mail, digital marketing, press releases and social media. Implement Continent level catalog and promotional pricing strategy, analyzing competitive offerings and protecting profitability. Create presentations for internal and external communication. Work collaboratively with cross-functional teams to execute recommended solutions that improve the overall category success."
+        },
+        {
+            "title": "Site Merchandising Manager",
+            "company": "Company Name City, State",
+            "start_date": "2014-04",
+            "end_date": "2016-03",
+            "description": "Responsible for creating the online assortments, digital promotions, and sales & metrics of all Ashley Home Store product. Implemented merchandising, product placement and navigation strategies to achieve product volume and financial objectives. Researched and analyzed consumer behavioral characteristics, Ecommerce trends, and retail landscape to stylistically interpret and react to emerging market conditions. Worked closely with SEO, Marketing, Content, and Copy to make sure all products are receiving maximum exposure in all channels. Used Adobe Omniture and Google Analytics to analyze traffic patterns and keep record of customer behavior and shopping patterns."
+        },
+        {
+            "title": "Assistant Category Manager",
+            "company": "Company Name City, State",
+            "start_date": "2012-04",
+            "end_date": "2014-04",
+            "description": "Responsible for maintaining assortment responsibility for $32 million dollars in annual sales. Merchandised and manage storefronts, site branding, and promotional product maintenance. Strategically planned and achieved overall goals of department- continually measuring to ensure profitability. Developed long and short term promotional plans relating to trends and marketing opportunities. Generated and analyzed reports, sales recaps, and presented at meetings."
+        },
+        {
+            "title": "Assistant Trade Marketing Manager",
+            "company": "Company Name City, State",
+            "start_date": "2011-05",
+            "end_date": "2012-04",
+            "description": "Responsible for developing annual marketing plans for product categories representing $50 million dollars annually in sales. Developed all trade marketing materials and communications. Launched new products and programs as needed at sales meetings. Developed content and promotional pricing strategy. Analyzed customer data, segmented accordingly, and targeted with relevant programs. Created strategic marketing plans to evaluate the product mix and positioning. Continually improved brand strength and credibility with marketing and promotions. Created monthly sales reports, PowerPoint presentations, and comparative graphs."
+        },
+        {
+            "title": "Assistant Buyer",
+            "company": "Company Name City, State",
+            "start_date": "2010-05",
+            "end_date": "2011-05",
+            "description": "Responsible for buying for $6 million dollars of product: including maintaining margin, demand sales, inventory levels, and marketing of products for the catalog and website. Continually improved brand strength and credibility with marketing and promotions. Maintained an ongoing understanding of the target market and competitors. Launched company Facebook page and maintained Website Blog."
+        },
+        {
+            "title": "Merchandiser",
+            "company": "Company Name City, State",
+            "start_date": "2007-01",
+            "end_date": "2010-04",
+            "description": "Responsible for buying responsibility for $25 million dollars worth of business annually. Strategically marketed all products through the most effective channels possible. Figured and applied competitive pricing to all products selected. Created and maintained sales analysis of assigned categories."
+        },
+        {
+            "title": "Technical Designer",
+            "company": "Company Name City, State",
+            "start_date": "2003-08",
+            "end_date": "2006-07",
+            "description": "Responsible for the overall design, construction and production approval process of garments: including creating technical drawings in Adobe Illustrator CS, specifications in Web PDM, and communicating all changes with Far East vendors."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "school": "University of Phoenix",
+            "year": "2009"
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Mount Mary College",
+            "year": "2002"
+        },
+        {
+            "degree": "Study Abroad",
+            "school": "American Intercontinental University",
+            "year": "2000"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

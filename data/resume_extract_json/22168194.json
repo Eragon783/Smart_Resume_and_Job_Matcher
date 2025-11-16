@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Customer Service Agent with 10 years of experience in helping people with their everyday needs and concerns over the phone and in person. Experience with handling complex inquires and situations with discretion and efficacy at all times.",
+    "skills": [
+        "Microsoft Office",
+        "Art",
+        "Clients",
+        "Documentation",
+        "Facsimile",
+        "Forms",
+        "Materials",
+        "Mediation",
+        "Office machines",
+        "Photocopiers",
+        "Policies",
+        "Quality",
+        "Safety",
+        "Scanners",
+        "Supervision",
+        "Telephone",
+        "Troubleshooting",
+        "Voice mail",
+        "Well organized"
+    ],
+    "experience": [
+        {
+            "title": "Customer Service Agent",
+            "company": "Company Name",
+            "start_date": "11/2020",
+            "end_date": "Present",
+            "description": "Assessed passenger documentation to determine destinations and to assign boarding passes. Confer with customers to determine their service requirements and travel preferences. Replied to inquiries regarding schedules, accommodations, procedures, and policies. Provide clients with assistance in preparing required travel documents and forms. Responded politely to passenger complaints regarding ticketing and baggage handling."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "City, State",
+            "start_date": "01/2010",
+            "end_date": "12/2020",
+            "description": "Consulted with customers by telephone or in person to provide information about products or services. Operate office machines such as, photocopiers and scanners, facsimile machines, voice mail systems, and personal computers."
+        },
+        {
+            "title": "Customer Service Agent",
+            "company": "G2 Secure Staff",
+            "start_date": "12/2016",
+            "end_date": "11/2020",
+            "description": "Examine passenger documentation to determine destinations and to assign boarding passes. Provide boarding or disembarking assistance to passengers needing special assistance. Confer with customers to determine their service requirements and travel preferences. Replied to inquiries regarding schedules, accommodations, procedures, and policies. Provide clients with assistance in preparing required travel documents and forms. Responded to passenger complaints regarding ticketing and baggage handling."
+        },
+        {
+            "title": "Recreation Assistant",
+            "company": "Company Name",
+            "start_date": "10/2016",
+            "end_date": "12/2016",
+            "description": "Enforce rules and regulations of recreational facilities to maintain discipline and ensure safety. Organize, lead, and promote interest in art, crafts, sports, games, camping, and hobbies. Meet with staff to discuss rules, regulations and work-related problems."
+        },
+        {
+            "title": "Library Assistant",
+            "company": "Company Name",
+            "start_date": "10/2013",
+            "end_date": "12/2013",
+            "description": "Maintain photocopiers, scanners, computers, and instruct patrons in proper use of such equipment. Oversaw check-in and check-out process of library books and materials at circulation desk. Replied to patrons' questions and assisted in finding materials requested."
+        }
+    ],
+    "education": [
+        {
+            "degree": "AA: Interdisciplinary Studies/Social and Behavioral Sciences",
+            "school": "Los Angeles Southwest College",
+            "year": 2016
+        },
+        {
+            "degree": "High School Diploma: General Studies",
+            "school": "Junipero Serra High School",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

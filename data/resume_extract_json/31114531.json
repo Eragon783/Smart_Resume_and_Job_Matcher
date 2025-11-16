@@ -1,0 +1,58 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Springdale, Utah; St. George, Utah, USA",
+    "summary": "Tech-savvy Performing Arts Director with 25+ years of experience in event management, programming, marketing, and venue operations across multiple venues. Proven track record of increasing profitability, funding endowments, and reimagining venues; strong leadership and relationship-building abilities.",
+    "skills": [
+        "Sales",
+        "Showare",
+        "Pro Tools",
+        "Qlab",
+        "Adobe Premiere",
+        "Photoshop",
+        "Illustrator",
+        "Indesign",
+        "Wordpress",
+        "Microsoft Office Suite"
+    ],
+    "experience": [
+        {
+            "title": "Director of Programming Arts",
+            "company": "Dixie State University",
+            "start_date": "2014-03",
+            "end_date": "Present",
+            "description": "Oversees cultural arts activities across multiple venues (Cox Performing Arts Center and Tanner Amphitheater); manages programming, marketing, hospitality, financial accounts, administration, and fulfillment; guides the CCS Board of Directors; developed and managed summer programming at the Tanner Amphitheater; redesigned venue operations, added concessions, permits for alcohol service, and implemented two series formats including Sanctuary: The Story of Zion."
+        },
+        {
+            "title": "Board Member",
+            "company": "SUSWA (Southern Utah Songwriters Association)",
+            "start_date": "2010-01",
+            "end_date": "Present",
+            "description": "Serves on the SUSWA Board; plans and implements clinics for members; creates and manages multiple concert series in Southern Utah (St George area)."
+        },
+        {
+            "title": "Operations Manager/Owner",
+            "company": "Spiral Studios",
+            "start_date": "1994-01",
+            "end_date": "2015-03",
+            "description": "Managed daily operations of a busy commercial recording studio; produced production music featured on networks such as Discovery, Disney, and A&E; hired and led engineers and musicians; provided A/V equipment for festival-style shows; built industry relationships; later transitioned day-to-day operations to a studio manager while continuing ownership."
+        },
+        {
+            "title": "Musician",
+            "company": "Self-employed / Various",
+            "start_date": "1994-01",
+            "end_date": "Present",
+            "description": "Touring/performing musician with global travel; foundational perspective for career in performing arts management; deep understanding of touring challenges, technical demands, and marketing/management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "Brigham Young University",
+            "year": "1994"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

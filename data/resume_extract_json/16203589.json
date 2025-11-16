@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced Project Manager with Auto CAD background, executing luxury custom residential projects from bidding to completion, maintaining industry-leading Quality standards, and implementing CAD technologies for major capability gains. Highly skilled in leading cross-functional teams, liaising with contractors and external agencies, and ensuring on-time completion project milestones. Able to excel in demanding environments and introduce Best Practices. Highlights Residential construction Blueprint reading Leadership Exceptional problem solver Excellent driving record Strong communication skills Detail-oriented Friendly and hardworking Architectural facades Accurate measurements and estimates Auto CAD Proven working experience in construction management Advanced knowledge of construction management processes, means and methods Expert knowledge of building products, construction details and relevant rules, regulations and quality standards Understanding of all facets of the construction Schedule the project in logical steps and budget time required to meet deadlines. Familiarity with construction management software packages Ability to plan and see the “big picture” Competent in conflict and crisis management Leadership and human resources management skills",
+    "skills": [
+        "Auto CAD",
+        "Leadership",
+        "Construction management",
+        "Project management",
+        "Scheduling",
+        "Budgeting",
+        "Quality control",
+        "Blueprint reading",
+        "Drafting",
+        "Building codes",
+        "Problem solving",
+        "Critical thinking",
+        "Communication",
+        "Time management",
+        "Multi-tasking",
+        "Microsoft Office",
+        "Excel",
+        "Outlook",
+        "Planning",
+        "Change orders management",
+        "Organizational skills"
+    ],
+    "experience": [
+        {
+            "title": "Project & Construction Manager",
+            "company": "Experience Company Name",
+            "start_date": "2014-08",
+            "end_date": "2016-04",
+            "description": "Assisted skilled workers with construction projects in all phases of rough and finish carpentry. Completed indoor and outdoor residential construction projects. Reviewed building plans and contracts to obtain permits and licensing. Coordinated deliverables and subcontractors to ensure compliance with building codes and client requirements. Monitored on-site and off-site progress, planned ahead to prevent problems, and performed hands-on problem solving. Facilitated meetings with owners, construction managers, and upper management. Scheduled building inspections. Primed subcontractors for upcoming milestones to prevent delays. Executed punch-out tasks ranging from minor fixes to addressing complex structural issues. Served as Project Manager during the construction of Five international Furniture Retail stores in Egypt, successfully opening all five stores."
+        },
+        {
+            "title": "Interior Designer",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "2014-01",
+            "description": "As an Interior Designer for the largest furniture retailer in the U.S., designed, developed, and oversaw implementation of floor plans, electrical, merchandise, paint, and signage to meet time, quality, and budget specifications. Adapted plans to maintain the Ashley brand inside and out while accommodating municipality requirements."
+        },
+        {
+            "title": "Bartender",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2011-01",
+            "description": "While going to school full-time (2008-2011) I supported myself as a bartender, strengthening customer relations skills."
+        },
+        {
+            "title": "Permit Coordinator",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2008-01",
+            "description": "As a Permit Coordinator for this regional permitting service, I served more than 70 municipalities, helping builders cut through red tape and expedite the permitting process. By understanding the technical specifications of the construction and building trusting relationships with builders and municipalities, I helped builders save time and often money in the permitting process."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. Interior Design",
+            "school": "International Academy of Design and Technology",
+            "year": null
+        },
+        {
+            "degree": "Warrior Leader Course (WLC)",
+            "school": "U.S. Army",
+            "year": 2003
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

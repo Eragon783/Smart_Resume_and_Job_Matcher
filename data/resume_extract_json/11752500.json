@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Technically sophisticated Aviation Electrician with 20 years of experience on large-scale electronic systems, troubleshooting, installation, calibration, and maintenance repair within the United States Navy. In-depth knowledge of aircraft, avionics, electrical and electronic technologies. Consistent record of achievement in project management, dramatically improving system operating efficiency and reliability. Productive team contributor successfully delivering concurrent projects under tight deadlines.",
+    "skills": [
+        "Troubleshooting",
+        "Problem Resolution",
+        "Avionics Systems",
+        "Project Management",
+        "Quality Assurance",
+        "Team Leadership and Training",
+        "Electrical Components",
+        "Inspections",
+        "Aircraft Instruments",
+        "Deadline Adherence",
+        "Process Change and Implementation",
+        "Secret Clearance",
+        "Goal Attainment",
+        "Collateral Duty Inspector",
+        "Maintenance Management",
+        "Schematics"
+    ],
+    "experience": [
+        {
+            "title": "Electrician",
+            "company": "Company Name",
+            "start_date": "February 2017",
+            "end_date": "Present",
+            "description": "Responsible for inspection, testing and maintenance of electrical, electronic and HVAC systems on rolling stock equipment in accordance with FRA and Amtrak standards and guidelines."
+        },
+        {
+            "title": "Service Technician",
+            "company": "Company Name",
+            "start_date": "February 2016",
+            "end_date": "February 2017",
+            "description": "Repair, recondition, service, and maintain Uninteruptable Power Supply systems and other power systems related components. Troubleshoot and diagnose malfunctions of the complete power systems."
+        },
+        {
+            "title": "Electrical Work Center Supervisor/1st Lieutenant Supervisor",
+            "company": "Company Name",
+            "start_date": "July 2014",
+            "end_date": "February 2016",
+            "description": "Supervises 13 personnel performing scheduled and unscheduled maintenance on flight control, instrumentation, navigation and electrical systems on 17 F/A-18C/D/E/F and 3 EA-18G aircraft. Supervises 9 Sailors responsible for the daily upkeep of squadron facilities and the stocking, inventory and sales of squadron store merchandise."
+        },
+        {
+            "title": "Avionics Division Supervisor/ Indoctrination Supervisor",
+            "company": "Company Name",
+            "start_date": "July 2011",
+            "end_date": "July 2014",
+            "description": "Managed the administrative and production efforts of 59 avionics technicians. Performing intermediate level repair of H-60, H-53, AV-8, UH-1, and AH-1 aircraft systems and components. Responsible for the check in and training of all newly assigned Sailors, receiving all their initial shipboard qualifications."
+        },
+        {
+            "title": "Avionics Work Center Supervisor",
+            "company": "Company Name",
+            "start_date": "July 2008",
+            "end_date": "July 2011",
+            "description": "Responsible for the administrative and production efforts of 34 avionics technicians. Performing intermediate level repair on P-3 and H-60 aircraft, electrical and power generation systems and components."
+        },
+        {
+            "title": "Aviation Electrician Shift Supervisor/Avionics Technician Shift Supervisor",
+            "company": "Company Name",
+            "start_date": "July 2001",
+            "end_date": "July 2008",
+            "description": "Supervised 3 Sailors performing scheduled/unscheduled maintenance and corrosion prevention and treatment on 7 SH-60F/HH-60H helicopters. Responsible for troubleshooting and repair of Electrical/Instrument and Automatic Flight Control Systems. Supervised 10 Sailors performing intermediate level component and system repair on electrical and power generation systems for P-3 and H-60 aircraft."
+        },
+        {
+            "title": "Aviation Electrician/Avionics Technician",
+            "company": "Company Name",
+            "start_date": "July 1996",
+            "end_date": "July 2001",
+            "description": "Performed scheduled/unscheduled maintenance and corrosion prevention and treatment on 7 SH-60F/HH-60H helicopters. Performed intermediate level component and system repair on electrical and power generation systems for P-3, S-3, and H-60 aircraft."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Professional Aeronautics",
+            "school": "Embry-Riddle Aeronautical University",
+            "year": "2007"
+        }
+    ],
+    "certifications": [
+        "Secret Clearance"
+    ],
+    "languages": []
+}

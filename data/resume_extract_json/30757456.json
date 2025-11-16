@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Minturn, Colorado, USA",
+    "summary": "Executive Profile: 21-year internationally-regarded coaching professional with 13-year national certifications in Strength & Conditioning. Industry-leading athletic performance executive with expertise in high-performance training, facility design and operations, staff recruitment and development, budgeting, and strategic partnerships. Experienced in athletic programming for Elite, High-School and General Population athletes, as well as education and public speaking at national/international venues.",
+    "skills": [
+        "Strength and Conditioning",
+        "Program Design",
+        "Periodization",
+        "Long-Term Athlete Development (LTAD)",
+        "Athletic Performance",
+        "Sport Psychology Coordination",
+        "Nutrition Coordination",
+        "Medical Coordination & Intervention",
+        "Facility Design & Operations",
+        "Budgeting & Financial Oversight",
+        "Staff Recruiting & Hiring",
+        "Team Leadership & Development",
+        "Education & Curriculum Development",
+        "Public Speaking & Presentations",
+        "Data Analysis & Testing",
+        "Performance Technology / Sport Science",
+        "Partnerships & Sponsorships",
+        "Program Management"
+    ],
+    "experience": [
+        {
+            "title": "Director/President",
+            "company": "Minturn Fitness Center",
+            "start_date": "2013-08",
+            "end_date": "2017-03",
+            "description": "Responsible for concept, design, oversight of construction and opening of the Nation's first half-public, half-private Performance Training Athletic Facility; secured strategic partnerships and sponsorships; provided operational oversight including scheduling, programming, zone layout, organizational philosophies and staff recruitment; oversaw budgeting, membership structures and continuing strategic initiatives."
+        },
+        {
+            "title": "Director of Human Performance",
+            "company": "Ski & Snowboard Club Vail (SSCV)",
+            "start_date": "2010-05",
+            "end_date": "2017-03",
+            "description": "Coordination of all aspects of Athletic Human Performance for SSCV athletes including Strength and Conditioning, Sport Psychology, Nutrition, periodized programming, testing, data analysis and medical coordination; recruitment, hiring and evaluation of HP staff; collaboration with sport-specific coaching staff; design and execution of an annual 55-hour continuing education program; safety systems oversight for FIS events."
+        },
+        {
+            "title": "Director of Strength and Conditioning",
+            "company": "Ski & Snowboard Club Vail (SSCV)",
+            "start_date": "2005-04",
+            "end_date": "2010-04",
+            "description": "Concept, design and execution of SSCV's first dedicated Strength & Conditioning program; facility procurement and design; partnerships for equipment and technology; program designs for all five snow sport disciplines; annual athletic periodization planning; safety systems oversight for FIS events."
+        },
+        {
+            "title": "Head Strength and Conditioning Coach / Assistant Alpine Coach",
+            "company": "United States Disabled/Paralympic Ski Team",
+            "start_date": "2001-04",
+            "end_date": "2004-05",
+            "description": "Designed and coached discipline-specific strength and conditioning for elite World Cup and Paralympic athletes; data tracking and progress reporting; coordination with USOC Sport Science programs and Howard Head Sport Medicine; on-hill coaching and program management; sponsorship coordination."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in English/Communications",
+            "school": "New England College",
+            "year": "1992"
+        }
+    ],
+    "certifications": [
+        "EXOS Performance Certification (XPS) – 2017",
+        "NSCA RSCC*D (with Distinction) – 2016",
+        "Registered Strength and Conditioning Coach Certification (RSCC) – 2011",
+        "NSCA CSCS*D (with Distinction) – 2009",
+        "NSCA Level III Mentorship, Sport Performance – 2007",
+        "EXOS AP Performance Mentorship Level II – 2006",
+        "EXOS AP Performance Mentorship Level I – 2005",
+        "USOC Sport Science Certification – 2000",
+        "USSA Sport Science Certification (Levels 1+2) – 1998",
+        "USSA Alpine Coaching Levels (1+2) – 1996"
+    ],
+    "languages": [
+        "English"
+    ]
+}

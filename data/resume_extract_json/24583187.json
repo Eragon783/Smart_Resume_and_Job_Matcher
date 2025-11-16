@@ -1,0 +1,82 @@
+{
+    "name": "Victoria Stevenson",
+    "email": null,
+    "phone": null,
+    "location": "Greater New York City Area",
+    "summary": "Senior Interior Designer with extensive experience in high-end commercial and residential interiors, expertise in AutoCAD, Revit, and Adobe Creative Suite; active in green design (LEED AP) and NCIDQ certified; strong client relations and project management skills.",
+    "skills": [
+        "Microsoft Office Suite",
+        "Apple iWork Suite",
+        "Autodesk AutoCAD Architecture 2015",
+        "Buzzsaw",
+        "Revit",
+        "Adobe Creative Suite (Acrobat Pro, Illustrator, InDesign, Photoshop)",
+        "GoPro Studio",
+        "Studio Webware",
+        "Wecora",
+        "Bill Quick",
+        "Google SketchUp",
+        "Interior Design",
+        "Budgeting",
+        "Building Codes",
+        "Project Management",
+        "Client Relations",
+        "CAD Drafting"
+    ],
+    "experience": [
+        {
+            "title": "Lead Interior Designer",
+            "company": "Cubellis Ecoplan Architects, Interiors, Engineers",
+            "start_date": "1996-06",
+            "end_date": "2006-10",
+            "description": "Led interior design for a full-service architecture, interior design, and engineering firm; managed projects across commercial and residential sectors, including banks, luxury auto dealerships, universities, and municipal buildings; founding member of the Green Design Committee focusing on sustainable practices."
+        },
+        {
+            "title": "Senior Interior Designer",
+            "company": "Cooper Gardner",
+            "start_date": "2012-02",
+            "end_date": "2015-07",
+            "description": "Delivered creative interior design services, collaborated with clients, contractors, and vendors; developed floor plans, budgets, schedules; presented concepts and managed project teams; selected finishes and furniture."
+        },
+        {
+            "title": "Senior Interior Designer",
+            "company": "Bendell Design",
+            "start_date": "2006-11",
+            "end_date": "2010-07",
+            "description": "Boutique consultancy focusing on commercial and high-end interiors; led client and project management, codes, budgets, and schedules; delivered designs for global corporations."
+        },
+        {
+            "title": "Interior Designer",
+            "company": "Visconti Design Associates",
+            "start_date": null,
+            "end_date": null,
+            "description": "Additional experience in interior design projects."
+        },
+        {
+            "title": "Retail Store Manager",
+            "company": "The Bombay Company",
+            "start_date": null,
+            "end_date": null,
+            "description": "Managed retail operations and contributed to store design initiatives."
+        },
+        {
+            "title": "CAD Draftsperson",
+            "company": "Modular Home Center",
+            "start_date": null,
+            "end_date": null,
+            "description": "Drafting support for residential projects and technical documentation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Fine Arts, Interior Design",
+            "school": "Rochester Institute of Technology",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "NCIDQ Certification #17785",
+        "LEED AP"
+    ],
+    "languages": []
+}

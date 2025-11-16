@@ -1,0 +1,86 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior Materials Analyst with a B.S. in Metallurgy and Materials Engineering (2007) and 5+ years of directly relevant experience. Demonstrates strong knowledge of product processes, data analysis, and cross-functional leadership. Proficient in Six Sigma/Lean Manufacturing, Tableau, SPC, DOE, and statistical tools. Excellent verbal and written communication skills, with experience presenting to leadership and clients; capable of facilitating meetings and communicating complex topics to diverse audiences. Willing to travel up to 10%.",
+    "skills": [
+        "AIA",
+        "Alpha",
+        "Analyst",
+        "billing",
+        "Brio",
+        "Charts",
+        "continuous improvement",
+        "contracts",
+        "Council",
+        "direction",
+        "experiments",
+        "focus",
+        "drawing",
+        "Hyperion",
+        "internal audits",
+        "ISO",
+        "Leadership",
+        "Lean Manufacturing",
+        "director",
+        "manufacturing processes",
+        "Mapper",
+        "Materials",
+        "mechanical",
+        "Excel",
+        "Microsoft Office",
+        "Outlook",
+        "PowerPoint",
+        "SharePoint",
+        "Word",
+        "PDM",
+        "pricing",
+        "processes",
+        "improve processes",
+        "process improvement",
+        "quality",
+        "reporting",
+        "sales",
+        "Six Sigma",
+        "SPC",
+        "statistics",
+        "Tableau",
+        "validation",
+        "x-ray"
+    ],
+    "experience": [
+        {
+            "title": "Senior Materials Analyst",
+            "company": "Company Name",
+            "start_date": "11/2014",
+            "end_date": "Present",
+            "description": "Analyzes, ideates, informs and presents to the Materials Leadership Team (MLT) data regarding materials. Acts as the gatekeeper on analysis, providing direction and statistics on aspects such as what, where, how much, and age. Supports the Material Operations director in planning and tracking key milestones, maintains connections with category product creation centers and manufacturing offices, provides visibility to the MLT on vendor KPI reports, and ensures pricing targets align with category goals."
+        },
+        {
+            "title": "Quality Analyst",
+            "company": "Nike",
+            "start_date": "04/2010",
+            "end_date": "11/2014",
+            "description": "Collaborated with multiple Nike teams to maximize the reach and impact of global quality data. Part of a core team aligning quality metrics with sales, sourcing, demand planning, and manufacturing data to inform supplier sourcing decisions. Identified, analyzed, and reported reject rates and quality issues, quantified aesthetics of materials to inform product and process improvements for a global team. Provided quality metrics to suppliers to drive performance improvements. Connected material, garment, and returns quality data to present a comprehensive product quality lifecycle review. Led initiatives to acquire, report, and align supplier data to move quality actions closer to the source."
+        },
+        {
+            "title": "Quality/Process Engineer",
+            "company": "Company Name",
+            "start_date": "08/2007",
+            "end_date": "04/2010",
+            "description": "Led and participated in Six Sigma continuous improvement and Lean Manufacturing projects to improve processes and product developments using statistical techniques (Gage R&R, Pareto, Control Charts, T-Test, ANOVA, regression). Performed quality reviews for aerospace and ballistic aluminum, conducted root cause analysis, and facilitated experiments for process improvements (e.g., project to improve flatness reducing scrap by 75% and saving $800k+ annually). Prepared and facilitated ISO, ASTM, NADCAP, and internal audits and maintained SOPs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Metallurgy and Materials Engineering",
+            "school": "Colorado School of Mines",
+            "year": "2007"
+        }
+    ],
+    "certifications": [
+        "Six Sigma Green Belt"
+    ],
+    "languages": []
+}

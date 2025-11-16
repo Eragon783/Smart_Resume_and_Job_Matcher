@@ -1,0 +1,62 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly organized and detail-oriented Staff Assistant with over 14 years of experience providing administrative support to senior executives. Skilled in calendar management, communications, travel coordination, meeting minutes, and office operations.",
+    "skills": [
+        "75 WPM typing speed",
+        "Excellent communication skills",
+        "Articulate and well-spoken",
+        "Accurate and detailed",
+        "Advanced clerical knowledge",
+        "HIPAA compliance",
+        "Works well under pressure"
+    ],
+    "experience": [
+        {
+            "title": "Staff Assistant",
+            "company": "Office of Information Technology",
+            "start_date": "2007-08",
+            "end_date": "Present",
+            "description": "Provided administrative support to the CISO and staff, including calendaring and scheduling using dCal, Lotus Notes, and shared calendars; telephone screening; travel arrangements with expense reconciliations; meeting materials and minutes; leave reports; procurement card receipts; vendor liaison; and A/V support. Backups included inventory management, mail distribution, receptionist coverage, and event planning."
+        },
+        {
+            "title": "Receptionist",
+            "company": "Company Name",
+            "start_date": "2006-09",
+            "end_date": "2007-08",
+            "description": "Answered and directed incoming calls; issued parking passes and visitor badges; greeted visitors; handled packages; leave tracking; maintained telephone directory; provided support to Staff Assistants."
+        },
+        {
+            "title": "Deputy Clerk",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": null,
+            "description": "Ordered and distributed office supplies; managed vendors, organization, and upkeep; directed guests and routed deliveries; answered and managed calls; opened and distributed incoming mail; greeted visitors, including VIPs and vendors."
+        },
+        {
+            "title": "Legal Secretary",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2003-01",
+            "description": "Prepared court motions and orders; customer service; billing/accounting; extensive communications with the courts and other law offices; answered and managed calls; greeted visitors; obtained signatures for financial documents and invoices; directed visitors to appropriate offices."
+        },
+        {
+            "title": "Deputy Clerk",
+            "company": "Company Name",
+            "start_date": "2003",
+            "end_date": "2006",
+            "description": "Filed, prepared and maintained court files; processed warrants in debts and garnishments (high monthly volume); collected fines and costs; data entry (70+ wpm); provided court room support; used multi-line phone, fax, copier, and court system; supported board and committee meetings and staff events."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts in General Studies",
+            "school": "Southwest Virginia Community College",
+            "year": 2000
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

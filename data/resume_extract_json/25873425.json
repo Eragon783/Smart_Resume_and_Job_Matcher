@@ -1,0 +1,60 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "I am an empowered health advocate with excellent communication and active listening skills with a strong motivation to succeed. I am seen as reliable and approachable employee who quickly learns and masters new concepts and skills. I am motivated and enthusiastic about helping patients and the community navigate rights and responsibilities during treatment. Personable demeanor with priority on care and service. Seen as a friendly team player with talent for operating in fast-paced, dynamic environments.",
+    "skills": [
+        "Public Safety",
+        "Administrative Support",
+        "Lytec",
+        "GSuite",
+        "Patient rights",
+        "Data entry",
+        "Time management",
+        "Problem-solving",
+        "Decision-making",
+        "Crisis intervention",
+        "Crisis communication"
+    ],
+    "experience": [
+        {
+            "title": "Health Advocate",
+            "company": "Company Name",
+            "start_date": "03/2017",
+            "end_date": "Current",
+            "description": "Assisted patients in understanding individual rights and responsibilities in regards to care, coverage and payment. Reviewed all patient paperwork for accuracy, including claims, bills and medico-legal documents. Responded to 15 or more patient concerns and questions with compassionate and knowledgeable service in a day. Entered continuing medical documentation into computer systems and managed database of information. Compiled and reviewed medical charts. Manages approximately 30 incoming calls, emails, faxes per day from patients, pharmacies, and doctor offices. Used Lytec to schedule and manage patient appointments. Balanced cash deposits, credit card payments each day. Took co-payments, compiled daily financial records. Worked effectively with staff from all departments to coordinate resolutions. Helped vulnerable individuals navigate complex healthcare system. Developed and implemented training classes to educate team members and community residents. Resolved patient flow problems, improved operations and provided exceptional client support."
+        },
+        {
+            "title": "Security Officer",
+            "company": "Company Name",
+            "start_date": "08/2015",
+            "end_date": "02/2017",
+            "description": "Preformed and authorized entrance and departure of over 30 vehicles, cargo trucks and visitors Detected suspicious activities and watched for criminal acts and rule infractions Wrote detailed reports on property damage, theft, presence of unauthorized persons and unusual occurrences Patrolled private and public community premises to prevent and detect signs of intrusion and secure doors, windows and gates Checked and secured 14 building entrances over 8 hours Patrolled 2 square miles of property to ensure safety of employees, homeowners, and guests Collaborated with area law enforcement and federal investigators to support safe fugitive apprehensions and coordinate investigations"
+        },
+        {
+            "title": "Security Coordinator",
+            "company": "Company Name",
+            "start_date": "12/2019",
+            "end_date": "Current",
+            "description": "Checked identification of all persons entering and exiting facility. Oversaw periodic safety inspections, patrol service and immediate response to all safety-security situations. Remained flexible in rapidly changing environments and adapted to developing situations. Responded to suspicious activities to investigate and resolve concerns with appropriate physical or verbal techniques. Maintained composure and professionalism while screening visitors during high volume periods. Adhered to established procedures and policies and posted orders to include enforcement of company rules, policies and regulations. Answered alarms and investigated disturbances, contacting local law enforcement personnel for escalating crises. Applied effective communication and interpersonal skills when interacting with all levels of personnel and general public. Resolved complaints and issues involving both guests and employees. Completed incident reports by recording observations and occurrences and interviewing witnesses following physical incidents. Worked both independently and collaboratively to resolve urgent issues, which included building and personal incidents. Secured entrances and exits via physical presence and careful monitoring of CCTV. Secured premises and personnel by patrolling property and monitoring surveillance equipment, including CCTV cameras."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Psychology",
+            "school": "East Stroudsburg University",
+            "year": "2017"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Naugatuck High School",
+            "year": "2017"
+        }
+    ],
+    "certifications": [
+        "CPR Certified (2015-2016)",
+        "First Aid Training (2015)"
+    ],
+    "languages": []
+}

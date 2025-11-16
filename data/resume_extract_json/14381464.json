@@ -1,0 +1,46 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "My goal is to become associated with a company where i can utilize my skills and gain further experience while enhancing the company's productivity and reputation.",
+    "skills": [
+        "Excellent Customer service",
+        "Customer service",
+        "Works",
+        "Fast learner",
+        "Roofing"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name City, State",
+            "start_date": "12/2014",
+            "end_date": "02/2015",
+            "description": "Manage store alone (3rd shift). Stock items/coolers thoroughly. Clean parking lot. Sweep/mop store."
+        },
+        {
+            "title": "Dishwasher/cook",
+            "company": "Company Name City, State",
+            "start_date": "05/2012",
+            "end_date": "09/2012",
+            "description": "Cooked and Cleaned working out of a Hawaiian food cart."
+        },
+        {
+            "title": "Landscaper",
+            "company": "Company Name City, State",
+            "start_date": "01/2010",
+            "end_date": "05/2015",
+            "description": "Customer service. Worked as Landscaper in Preston's Tree Service from Jan 2010 to May 2015. Role: Concrete/Pavements, Roofing, Yard maintenance, Trim and cut trees, Pressure wash."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma",
+            "school": "David Douglas High School",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,100 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Seasoned business development professional with a track record in media platforms, advertising campaigns, and client relationship management across financial services and entertainment sectors. Experienced in launching campaigns, building pipelines, and leading cross-functional teams.",
+    "skills": [
+        "ads",
+        "advertising",
+        "Avid",
+        "budgets",
+        "Budget",
+        "business strategies",
+        "cable",
+        "cash flow",
+        "coach",
+        "client management",
+        "content",
+        "contracts",
+        "SC",
+        "client",
+        "clients",
+        "customer service",
+        "database analysis",
+        "email",
+        "Financial",
+        "Investments",
+        "market",
+        "meetings",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Microsoft Word",
+        "network",
+        "Networks",
+        "new business development",
+        "newsletters",
+        "Personnel",
+        "producing",
+        "profit",
+        "radio",
+        "Research",
+        "Sales",
+        "phone",
+        "television",
+        "video"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Manager",
+            "company": "Cinema6",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Led platform for video content and native video ads; reported to COO and CRO; drove new business initiatives and strategies for publishers and advertisers. Launched Cinema6's first campaigns (premium spirits and athletic brands) with 100% profit. Negotiated contracts with vendors (Jun Group, Veeseo, Adblade, Bidtellect). Built a client pipeline via phone, email, and meetings. Prepared weekly reports on new business and campaigns."
+        },
+        {
+            "title": "Sales and Service Desk Specialist",
+            "company": "Private Wealth Management - Alternative Investments",
+            "start_date": "2013-01",
+            "end_date": "2014-01",
+            "description": "Supported and managed relationships with Financial Advisors across the Pacific Northwest, Mid-America, nationwide and internationally. Educated Advisors on Alternative Investment products on the Merrill Lynch platform (strategies, fee structure, and purchase/redemption schedules). Recognized as top Sales and Service Desk Specialist; helped launch Best Practitioner program for generating new business on the Alternative Investment platform. Awarded 2013 Alternative Investments Most Net Sales to Budget for the Pacific Northwest Region."
+        },
+        {
+            "title": "New Business Director",
+            "company": "ORION Trading",
+            "start_date": "2010-01",
+            "end_date": "2013-01",
+            "description": "Provided financial solutions that reduced cash flow expenditures and offset losses on underperforming assets to fund media expenditures. Introduced ORION Trading to 75-150 accounts with annual media budgets over $4M. Sourced and maintained relationships with Fortune 1000 executives. Sourced and brokered new business with clients including Vail Resorts, Cargill, Pergo, Black & Decker, and Colonial Williamsburg. Produced monthly newsletters for ORION clients and employees highlighting innovations and solutions."
+        },
+        {
+            "title": "Sales Manager",
+            "company": "Showtime Networks",
+            "start_date": "2008-01",
+            "end_date": "2009-01",
+            "description": "Maximized Showtime Networks subscriber growth and revenue in affiliate customer service centers in the Midwest and Western territories. Managed 10 accounts with $894,623 in combined revenue; achieved 1% account net growth. Led on-site training for 15-20 personnel; created and implemented motivational methods to influence sales. Led new business development initiatives in Seneca, SC and Seattle, WA, increasing revenue in previously zero-revenue locations. Built an extensive network of clients via calls, meetings, and client management events."
+        },
+        {
+            "title": "Summer Analyst",
+            "company": "Company Name",
+            "start_date": "2006-07",
+            "end_date": "2006-07",
+            "description": "Conducted research for Portfolio Managers on portfolio investments, including analyses of 10-K and 10-Q reports. Tracked trading volume and prices of key stocks for institutional and private clients; produced weekly reports and assisted trading desk with market database analysis on prospective trades."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in English",
+            "school": "Hobart College",
+            "year": 2007
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "The Delbarton School",
+            "year": 2003
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

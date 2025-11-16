@@ -1,0 +1,103 @@
+{
+    "name": "Dylan Strecker",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Healthcare analytics and consulting professional with experience driving clinical, operational, and financial improvements across hospital systems. Skilled in data analysis, BI, and project management; proficient in MySQL, Excel, Tableau, and machine learning applications; experienced in sales, marketing, and stakeholder engagement.",
+    "skills": [
+        "Healthcare Analytics",
+        "Physician Engagement",
+        "Project Management",
+        "Consulting",
+        "Sales",
+        "Marketing Strategy",
+        "Tableau",
+        "Excel",
+        "Public Speaking",
+        "Machine Learning",
+        "Financial Analysis",
+        "Databases",
+        "SQL",
+        "Business Development",
+        "Business Intelligence",
+        "User Experience Design",
+        "MySQL",
+        "SharePoint",
+        "Teradata",
+        "PowerPoint",
+        "Web Content",
+        "Marketing Analytics",
+        "Online Marketing",
+        "Pricing",
+        "Pricing Strategies",
+        "Auditing",
+        "Competitive Intelligence",
+        "Data Analysis",
+        "Documentation",
+        "File Servers",
+        "Hardware",
+        "Office",
+        "Promotion",
+        "Quality",
+        "Rapport",
+        "Strategy",
+        "Strategic",
+        "Trend",
+        "Troubleshooting",
+        "Access",
+        "Website"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2015-06",
+            "end_date": "Present",
+            "description": "Inception, design, sales, and implementation of consulting services in over 15 hospitals across the US. Produce and execute work plans to achieve clinical, operational, and financial improvement initiatives. Develop rapport with hospital executives, hospital staff, and physicians to foster hi-performance teams. Analyze financial, patient experience, throughput, and quality data to develop clear strategic actions plans. Presents clearly and concisely to physicians and executives to persuade and drive change. Train new analyst and consultants in analytic tools such as MySQL, Excel, Tableau, and Weka. Assist in the development, design, and sales of propitiatory mobile applications used for physician compliance and contracting. The application is currently available on both iOS and Android. Author white papers and web content which are used for client marketing and client education."
+        },
+        {
+            "title": "Health Plan Financial Analyst",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "2015-05",
+            "description": "Created automated pricing tools based on contractual language and multiple drug lists. Developed predictive models which accurately assessed member risk of year over year PMPM shift. Queried and built client facing reports using Teradata, Excel, and PowerPoint. Produced management dashboards with key performance indicators for senior leaders. Investigated and analyzed Rx trend reports for clients, account teams, and other functional areas. Compiled and analyzed multisource data to prepare contract adjustment reports. Collaborated with competitive intelligence department to develop incumbent responsive pricing strategies. Built customized reports in collaboration with clients to investigate patient Rx utilization."
+        },
+        {
+            "title": "Business Analyst",
+            "company": "Company Name",
+            "start_date": "2013-08",
+            "end_date": "2014-05",
+            "description": "Developed interactive Business Intelligence dashboards for clients to measure return on investment. Established new sales strategies and value propositions for the sales team. Created market impact maps in ArcGIS to assist the strategic expansion of MHC services. Project owner for Office 365 and SharePoint implementation. Results included eliminating costs for local file servers, optimizing file access and auditing capabilities, and promoting collaboration. Led HIPAA audits that resulted in the implementation of numerous physical and technological safeguards improving compliance and minimizing the risk of financial exposure. Designed and distributed patient consent documentation in collaboration with Health Literacy Missouri. Monitored and audit enterprise master patient index database using InterSystems' HealthShare platform."
+        },
+        {
+            "title": "Marketing Manager",
+            "company": "Company Name",
+            "start_date": "2011-06",
+            "end_date": "2013-08",
+            "description": "Created and developed online marketing strategy with integrated website to improve lead generation and minimize response time. Measurable impact included an increase of new unit sales by 35% and being awarded first place in district growth in 2012. Leveraged marketing analytics on existing customer database to better align departmental sales promotion with customer demographics and seasonality demand. Directly sold major units to customers and consistently awarded for performance in both volume and margin levels. Project manager for implementation of customer reward systems software which included a proof of concept, funding request, installation, training, and post installation management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Health Administration",
+            "school": "University of Missouri",
+            "year": "2015"
+        },
+        {
+            "degree": "Master of Science, Health Informatics and Bioinformatics",
+            "school": "University of Missouri",
+            "year": "2015"
+        },
+        {
+            "degree": "Bachelor of Science, Business Administration - Marketing",
+            "school": "University of Missouri",
+            "year": "2011"
+        }
+    ],
+    "certifications": [
+        "Project Management Professional (PMP) - Eligible"
+    ],
+    "languages": [
+        "English"
+    ]
+}

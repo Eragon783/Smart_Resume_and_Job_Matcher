@@ -1,0 +1,101 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Outstanding productivity as high potential project supervisor and design engineer. Solid analytic and communication skills to resolve complex problems quickly and efficiently. Dynamic team leader with front-line experience in motivating team workers towards achieving specific goals. Hands-on experience in data analysis, discrete event simulations, manufacturing processes, process improvement, machine shop practices, welding and fabrication, and quality control. Exceptional project management skills utilizing customer commitment, team work, communication, planning and organization to achieve excellence.",
+    "skills": [
+        "C#",
+        "ASP.NET",
+        "Visual Basic",
+        "Visual Studio",
+        "Microsoft Office Suite",
+        "Word",
+        "Excel",
+        "Project",
+        "PowerPoint",
+        "Access",
+        "Outlook",
+        "Visio",
+        "Witness13",
+        "SIMIO",
+        "ERP",
+        "SAP",
+        "SAS",
+        "AutoCAD",
+        "Lean Manufacturing",
+        "Six Sigma",
+        "Statistical Process Control",
+        "Data Analysis",
+        "Discrete Event Simulations",
+        "Manufacturing Processes",
+        "Process Improvement",
+        "Quality Control",
+        "5S",
+        "Kaizen",
+        "Standardized Work",
+        "Value Stream Mapping",
+        "MTM",
+        "Ergonomics",
+        "Capital Budgeting",
+        "ROI",
+        "Project Management"
+    ],
+    "experience": [
+        {
+            "title": "Industrial Engineering Intern",
+            "company": "Company Name",
+            "start_date": "2014-08",
+            "end_date": "2014-12",
+            "description": "Successfully re-designed and re-developed existing company labor system application using Visual Basic 6 that resulted in additional functions that aid labor hours update and easy computation of staff payroll. Performed on-site data collection, applied statistical techniques to process and analyze collected data and developed statistical distributions that are applied to simulation models. Assisted in creating and developing customized model, animations, and discrete event simulations and analysis using SIMIO for Salt Lake City Airline project."
+        },
+        {
+            "title": "Industrial Engineer",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2013-01",
+            "description": "Successfully redesigned equipment layout and process flow that reduced cycle time 13% and increased throughput using employee feedback process design, visual management, 5S technique and cell technology. Assisted in capital budgeting/ROI analysis and ensured program expenses are charged correctly and, researched and provided reasons for any discrepancies. Performed ergonomics assessments and made improvements on manufacturing methods to maintain a safe, less stress and productive work environment. Trained and guided technicians in lean and continuous process improvement methodologies including Kaizen, 5S, standardized work, line balancing and value stream mapping in woodwork operations."
+        },
+        {
+            "title": "Industrial Engineer",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2010-12",
+            "description": "Successfully revamped workstation layout, implemented ergonomic philosophy and 5S methodologies in equipment placing and material handling to ensure stress minimization and safety. This resulted in 24% reduced cycle time and 45% increased productivity. Developed, executed and managed capital project plans related to new/existing manufacturing processes. Conducted research and development investigations to develop and test new manufacturing equipment, processes and methods. Successfully carried out new equipment/facility layout design and analysis ahead of schedule saving company $272,655.00 (N49.07M). Improved work methods and maintained time standards using Methods Time Measurement (MTM), stopwatch time studies and work sampling studies including standardized work. Implemented process control plans by reducing non-value added activities within cell. This led to 62% reduction in overall lead time. Assisted with design of manufacturing systems, tools and fixtures per specifications resulting in 40% reduction in material loss and 90% reduction in ergonomic related operator injuries. Improved existing manufacturing procedures and developed new procedures for possible application to current production problems using DMAIC, value stream mapping. Verified production operations and product quality with design specifications, established procedures and customer's requirements. Performed monthly lean assessment and audits to ensure compliance. Designed, implemented and documented standard work instructions (SWIs) and standard operating procedures (SOPs) for employees about updated engineered standards. Participated and supported company initiatives such as new product development, lean manufacturing and continuous process improvement. Performed machine shop operations using manual and CNC lathe machines, boring machine, and grinders."
+        },
+        {
+            "title": "Manufacturing Quality Engineer",
+            "company": "Company Name City",
+            "start_date": "2005-01",
+            "end_date": "2006-12",
+            "description": "Performed inspections, checks, tests, and sampling procedures of incoming materials, sub assemblies or finished company products according to standards and specifications, and documentation of results in NCR and QC reports. Reduced quality issues by 25% during FY05 for critical machine components by developing root cause analysis and implementing corrective/preventive actions (CAPA). Conducted and documented process, environmental and quality control system audits and creation of audit finding reports using written procedures, ISO 90001 and ISO 14001 as audit standards."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Industrial and Manufacturing Engineering",
+            "school": "University of Texas Arlington",
+            "year": "2014"
+        },
+        {
+            "degree": "Bachelor of Engineering in Materials and Metallurgical Engineering",
+            "school": "Federal University of Technology State",
+            "year": "2004"
+        }
+    ],
+    "certifications": [
+        "PMI, Certified Project Management Professional (PMP) July 2013",
+        "Lean Manufacturing Techniques",
+        "Six Sigma Methodology",
+        "Statistical Process Control",
+        "Earned Value Management Analysis",
+        "Continuous Improvement Techniques",
+        "Cost Estimation and Project Feasibility Analysis",
+        "Inventory Control",
+        "Supply Chain and Logistics Management",
+        "Time and Motion Studies",
+        "Safety Engineering (FTA, FMEA)",
+        "Product Development and Design"
+    ],
+    "languages": []
+}

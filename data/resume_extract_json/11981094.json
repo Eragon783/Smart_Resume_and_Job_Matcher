@@ -1,0 +1,101 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Experienced software engineer and hands-on engineering manager with 20+ years of product development experience in broadcast media, and 10+ years of experience in leading development teams (20+ engineers), hiring, HR procedures, performance reviews, and project transitions.",
+    "skills": [
+        "API",
+        "ATL",
+        "audio",
+        "backup",
+        "broadcast",
+        "C++",
+        "CLI",
+        "Hardware",
+        "concept",
+        "content management",
+        "Content",
+        "client",
+        "clients",
+        "documentation",
+        "dynamic HTML5",
+        "editing",
+        "XML",
+        "FTP",
+        "functional",
+        "drawing",
+        "HTTP",
+        "IDs",
+        "explorer",
+        "JavaScript",
+        "json",
+        "LAN",
+        "MB",
+        "access",
+        "C#",
+        "MFC",
+        "Win",
+        "Windows",
+        "2000",
+        "NAS",
+        "OOP",
+        "page",
+        "Proxy",
+        "rendering",
+        "SAN",
+        "Scrum",
+        "servers",
+        "specification",
+        "team management",
+        "threads",
+        "troubleshoot",
+        "Video",
+        "Video Editing",
+        "Visual C++"
+    ],
+    "experience": [
+        {
+            "title": "Software Engineering Manager",
+            "company": "Company Name, City, State",
+            "start_date": "09/2009",
+            "end_date": "Present",
+            "description": "Led a team of 22 developers across multiple locations, introduced peer reviews, repurposed components, and coordinated as a single large team. Adopted Scrum (ScrumMaster), managed vendor communications for codec-level issues, migrated source control to Mercurial and Jenkins, and released major software suites (Nexio Software Suite 6.0, 7.0, 8.0 and Global Proxy Suite 2.5, 3.0, 3.5). Published REST API, URI specifications, and 10 JSON protocol documents for internal and 3rd-party use. Contributed to SOA initiatives delivering web services and desktop/web clients for media playback and content management. Included leadership for team expansion, process improvements, and cross-site collaboration."
+        },
+        {
+            "title": "Software Engineering Manager",
+            "company": "Company Name, City, State",
+            "start_date": "11/2005",
+            "end_date": "08/2009",
+            "description": "Hired, mentored, and built an editing team to a size of 8 (with extended Beijing team of 8 indirect). Developed server integration modules for video broadcast workflows and released Video Editing Suite 2.5. Established development process documentation and crash dump analysis procedures to troubleshoot hard-to-reproduce issues."
+        },
+        {
+            "title": "Principal Software Engineer",
+            "company": "Harris Corporation / Leitch, City, State",
+            "start_date": "08/1997",
+            "end_date": "10/2005",
+            "description": "Architected and implemented DLL components for evolution of the video editing product. Key projects included interactive playback architecture, video and audio rendering engines, scalable decoder/encoder components, hardware integration modules, and interactive picon/waveform drawing components."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Star Media / DPS, City, State",
+            "start_date": "08/1994",
+            "end_date": "07/1997",
+            "description": "Developed Velocity video editing software for post-production. Projects included media management tools, Render Bank, and video effects."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. in Computer Science",
+            "school": "Illinois Institute of Technology",
+            "year": ""
+        },
+        {
+            "degree": "B.E. in Electronics and Communication Engineering",
+            "school": "National Institute of Technology",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

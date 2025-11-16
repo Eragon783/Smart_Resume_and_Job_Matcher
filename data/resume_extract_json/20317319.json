@@ -1,0 +1,91 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Hungry and highly driven successful sales professional with over 10 years experience. A strategic thinker and communicator who implements creative sales strategies to achieve and maintain high sales growth. Adept at building excellent working relationships with corporate and/or not for profit executives focused on achieving present as well as long term goals. Experienced in public relations, project development, account management, sales strategies to close and implementing endeavors for clients.",
+    "skills": [
+        "Ntreis",
+        "North Texas Real Estate Information Services",
+        "Centralized Showing Services",
+        "Smart Locating Apartment Data",
+        "Zumper",
+        "Craigslist",
+        "Microsoft Office (Word, Excel, PowerPoint)",
+        "Microsoft Office Suite",
+        "CRM - Zoho",
+        "Fundraising",
+        "In-Kind Donations",
+        "Event Planning",
+        "Public Speaking"
+    ],
+    "experience": [
+        {
+            "title": "Business development Associate",
+            "company": "Company Name, City, State",
+            "start_date": "May 2016",
+            "end_date": "Present",
+            "description": "Create a pipeline of prospects by establishing and maintaining professional relationships with key decision makers; research, source, make initial contact (email, cold calling, telephone prospecting), and meet potential clients at their locations to accurately qualify the prospect and establish needs; prepare and present proposals and close new accounts; develop and maintain Sales Plan and ensure achievement of Company sales targets and profitability; network and actively participate in User Groups, Associations, and Trade Shows in targeted vertical; work closely with the Marketing team and the Business Development team to generate new leads; strong understanding of customer and market dynamics and requirements; manage all activities through the CRM (Zoho), ensuring consistency and accuracy."
+        },
+        {
+            "title": "Ballet and Barre Instructor",
+            "company": "Company Name, City, State",
+            "start_date": "August 2014",
+            "end_date": "August 2015",
+            "description": "Instructed middle school and highschool young women in Ballet classes. Instruction focused on the importance of core strength and correct alignment; taught the foundation of Ballet techniques in preparation for upcoming Belle drill team auditions at Highland Park High School."
+        },
+        {
+            "title": "Real Estate Professional",
+            "company": "Company Name, City, State",
+            "start_date": "July 2014",
+            "end_date": "Present",
+            "description": "Sales of over 2 million dollars; closing 70% of generated leads; executed all documents to closings; created and maintained a large client referral base; provided exceptional customer service; networking and marketing to generate successful leads."
+        },
+        {
+            "title": "Barre Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "January 2013",
+            "end_date": "January 2016",
+            "description": "Guided clients in safe exercise, taking into account individualized physical limitations; taught clients how to modify exercises appropriately to avoid injury; contributed to a [number]% increase in sales for the personal training department; grew class numbers and attendance."
+        },
+        {
+            "title": "On-Call Substitute Teaching",
+            "company": "Company Name, City, State",
+            "start_date": "January 2012",
+            "end_date": "Present",
+            "description": "I am currently on the Sub List at the following studios: Lifetime Premier Club, Studio Six, Larry North Dallas, Country Club."
+        },
+        {
+            "title": "Real Estate Professional",
+            "company": "Company Name, City, State",
+            "start_date": "March 2011",
+            "end_date": "July 2014",
+            "description": "Sales of over 1.5 million dollars; closings 75% of generated leads; executed all documents to closings; created and maintained a large client referral base; provided exceptional customer service; networking and marketing to generate successful leads."
+        },
+        {
+            "title": "Barre Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "January 2011",
+            "end_date": "Present",
+            "description": "Designed each class to match the skill and learning levels of all participants; suggested exercise modifications to individual students to avoid strain and injury; cleaned and organized studio after each group fitness class; encouraged members to continue attending group fitness classes; prepared teaching area for each class and returned all equipment to storage at the end of class; tracked class attendance and monitored class size to gauge the effectiveness of promotions."
+        },
+        {
+            "title": "Owner/Interior Designer",
+            "company": "Company Name, City, State",
+            "start_date": "October 2004",
+            "end_date": "January 2010",
+            "description": "Developed interior residential/commercial design company; implemented project costs, budgets and design schedules; account management; created branding and design presentations; ensured that project vision and intent was reflected and implemented; tracking of client accounts, invoicing and generating leads."
+        }
+    ],
+    "education": [
+        {
+            "degree": null,
+            "school": "Birmingham Southern College, Birmingham, AL",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Licensed Realtor - Champions School Of Real Estate"
+    ],
+    "languages": []
+}

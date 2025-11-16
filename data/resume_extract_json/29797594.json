@@ -1,0 +1,65 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced elementary school teacher with a strong focus on language development, reading, storytelling, and differentiated instruction. Demonstrates effective classroom management, collaboration with colleagues and parents, and commitment to fostering a love of learning and growth mindset in students.",
+    "skills": [
+        "People skills",
+        "Enthusiastic",
+        "Problem-solver",
+        "Organizational skills",
+        "Encouraging",
+        "Technology savvy",
+        "Eager to learn",
+        "Communicates effectively with colleagues and parents",
+        "Sets high expectations for students",
+        "Loves to teach and helps students love to learn",
+        "Growth mindset as an educator"
+    ],
+    "experience": [
+        {
+            "title": "Long-term substitute teacher - Fifth Grade",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": null,
+            "description": "Long term substitute for fifth grade. Hired as a probationary teacher and taught second grade for two years. Became tenure and taught fifth grade for one year. Trained as a trainer or trainees for the WRITE Institute. Grade level lead for one year. Promoted language development skills through reading and storytelling. Applied the positive reinforcement method to redirect negative behaviors. Assisted 10 children per station during small group learning periods during System 44 Instruction. Conducted small group and individual classroom activities based on differentiated learning needs. Helped prepare daily lesson plans for activities and lessons. Communicated effectively with educators from various grade levels. Supported students in developing strategies for individual needs and classroom group dynamics. Wrote daily and weekly lesson plans. Tutored after and before school twice a week all four years."
+        },
+        {
+            "title": "Second Grade Teacher",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": null,
+            "description": "Taught second grade for one year. Promoted language development skills through reading and storytelling. Applied the positive reinforcement method to redirect negative behaviors. Conducted small group and individual classroom activities based on differentiated learning needs. Tutored after school twice a week. Organized field trips to local parks, fire stations and zoos. Helped prepare daily lesson plans for activities and lessons. Encouraged students to be understanding of and helpful to others. Supplied one-on-one attention to each student, while maintaining overall focus on the entire group. Physically and verbally interacted with students throughout the day to keep them engaged. Communicated effectively with educators from various grade levels. Supported students in developing strategies for individual needs and classroom group dynamics. Wrote daily and weekly lesson plans. Conducted family-connection home projects."
+        },
+        {
+            "title": "Fourth Grade Teacher",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": null,
+            "description": "Fourth grade teacher for two years. Looped with my fourth graders from last year and now teach fifth grade. Teach critical thinking and close reading strategies through common core. Grade level lead for two years. Meet with the RCD team and write the math units. Tutor after school for two years. Lead GATE students to writing our school newspaper. Apply the positive reinforcement method to redirect negative behaviors. Conduct small group and individual classroom activities based on differentiated learning needs. Observe students to supply teachers with feedback regarding potential learning blocks and opportunities for support. Encourage students to be understanding of and helpful to others. Supply one-on-one attention to each student, while maintaining overall focus on the entire group. Physically and verbally interact with students throughout the day to keep them engaged. Communicate effectively with educators from various grade levels. Support students in developing strategies for individual needs and classroom group dynamics. Write daily and weekly lesson plans. Implement programs to encourage student participation. Communicate with parents on a weekly basis of student progress. Assess students monthly on STAR Reading and STAR Math. Give weekly comprehension assessments, both oral and written. Incorporate technology in the classroom, ie iPads."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Elementary Credentials",
+            "school": "University of Redlands",
+            "year": 2008
+        },
+        {
+            "degree": "Bachelor of Arts in Liberal Arts",
+            "school": "California Baptist University",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        "WRITE Institute (Trainer)",
+        "Get Ahead Writing",
+        "English Language Development",
+        "Common Core Math",
+        "Common Core Language Arts",
+        "Combination Class Support",
+        "RCD unit writer"
+    ],
+    "languages": []
+}

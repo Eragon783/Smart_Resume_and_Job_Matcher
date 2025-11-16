@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Naples, FL",
+    "summary": "Highly motivated, and a dynamic Human Resources professional with diverse credentials seeking a position with a growing organization to make a positive impact on company policies, and experience career growth. Accomplished human resources and administrative professional with over 3 years' experience. Attentive to detail, able to take initiative, prioritize multiple tasks and manage workload. Resourceful team player with a can-do attitude. Results-driven with strong communication, analytical, and interpersonal skills while maintain the utmost confidentiality.",
+    "skills": [
+        "Accounting",
+        "ADP",
+        "Analytical skills",
+        "AP",
+        "AR",
+        "Benefits",
+        "Billing",
+        "Call center",
+        "Great communication skills",
+        "Interpersonal skills",
+        "Credit",
+        "Clients",
+        "Customer Service",
+        "customer service skills",
+        "Database",
+        "Detail-oriented",
+        "Employee Relations",
+        "Expense reports",
+        "Filling",
+        "Filing",
+        "Hiring",
+        "Human Resource Management",
+        "Human Resources",
+        "Human resources 1",
+        "Processing of invoices",
+        "Leadership",
+        "Ledger",
+        "Logistics",
+        "Mentor",
+        "MS Office Suite",
+        "Office Management",
+        "Oracle",
+        "Organizational Development",
+        "Payroll processing",
+        "Peachtree",
+        "Personnel",
+        "Promotion",
+        "QuickBooks",
+        "Recruitment",
+        "Scheduling",
+        "Spreadsheets",
+        "Spreadsheet",
+        "Telephone",
+        "Phone",
+        "Website"
+    ],
+    "experience": [
+        {
+            "title": "HR Assistant",
+            "company": "Company Name",
+            "start_date": "2016-03",
+            "end_date": "Present",
+            "description": "Sourced, recruited for call center to all departments throughout the company. Responsible for finding the right candidates and matching them to temporary or permanent job placement for the company. Maintaining computer system by updating and entering data in BrassRing and responsible for complete on boarding and exit interview paperwork. Compiling reports and spreadsheets in order to keep track of drug test and background checks that are completed for on-boarding process. Complete initial phone interviews to evaluate applicants' qualifications. Scheduling job interviews for field managers after seeing that applicant meet the job requirements. Administer and manage scores tests given to applicants before making the job offer. Help organize job fair and manage files for applicants that are not qualified."
+        },
+        {
+            "title": "HR Assistant",
+            "company": "Circle K",
+            "start_date": "2011-02",
+            "end_date": "2014-10",
+            "description": "Maintained employee compensation, benefits, PTO, timecards and promotion opportunities. Explained and held trainings for new and existing employees on benefit programs and company rules and regulations. Managed Background Checks from ordering paperwork to documenting results in the system. Requested and completed spreadsheet for drug tests results. Managed internal Human Resources records for two stores and oversaw all investigations and disciplinary actions. Completed exit interview paperwork. Managed and processed time card for payroll processing by manager in a timely manner. Processed new hire paperwork, completed on-boarding process and managed their records. Involved in hiring process by coordinating job posting on the website, reviewing resumes, and performing telephone interviews and reference checks. Further developed strong communication and customer service skills as result of working with clients."
+        },
+        {
+            "title": "AR/AP Representative",
+            "company": "Leading orthopedic medical device company",
+            "start_date": "2007-01",
+            "end_date": "2010-01",
+            "description": "Processed invoices and credit memos in accurate in timely manner. Review documents for product returns and loaner fees. Solved incorrect billing, back up cash applications. Made collection calls to clients periodically Lien, Waiver and NTO. Processed invoice through payment cycle. Insured that all venders are paid in a timely manner. Reconciliation of vendors. Managed vendor/supplier relations; and oversaw the timely, accurate processing of invoices, purchase orders, expense reports, credit memos and payment transactions."
+        },
+        {
+            "title": "Office Assistant",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2007-01",
+            "description": "Updated the database with customer calls. Worked with NTO vender helped with reconciliation and ledger Balanced and transmitted daily revenue. AR/AP Filling lien, waiver and managed collection. Coordinated complex travel schedules, accommodations and trip logistics for candidates. Entered personnel and subcontractor data into a central database. Evaluated timecards for accuracy on the regular and overtime hours."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science in Human Resources and Organizational Leadership",
+            "school": "Rasmussen College",
+            "year": 2016
+        }
+    ],
+    "certifications": [
+        "PHR certificate"
+    ],
+    "languages": []
+}

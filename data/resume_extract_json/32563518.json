@@ -1,0 +1,149 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior Project Manager and IT professional with 10+ years of progressive experience delivering vendor solutions, third-party development resources, project resources and program management results. Experienced with large full life cycle implementations, leading functional and technical teams, and providing operations and maintenance support to achieve corporate goals. Proficient in web content management, vendor management, contract negotiations, product roadmaps, financial management, and information security.",
+    "skills": [
+        "LTE",
+        "Cell Tower",
+        "LAN/WAN",
+        "Ethernet",
+        "4G",
+        "VMware",
+        "NetApp",
+        "F5",
+        "3G",
+        "advisement",
+        "APs",
+        "army",
+        "billing",
+        "budgets",
+        "business analysis",
+        "Business case",
+        "case management",
+        "change management",
+        "Cisco",
+        "hardware installation",
+        "network systems",
+        "consulting",
+        "Contract negotiations",
+        "client",
+        "clients",
+        "delivery",
+        "documentation",
+        "DSL",
+        "Compliance",
+        "Financial management",
+        "Firewalls",
+        "firewall",
+        "first-aid",
+        "Frame Relay",
+        "Product life cycle",
+        "SDLC full life cycle",
+        "functional",
+        "HIPAA",
+        "immunizations",
+        "Information Technology",
+        "Instructor",
+        "IP",
+        "leadership",
+        "life-support",
+        "managing",
+        "meetings",
+        "mentor",
+        "MS Project",
+        "SharePoint",
+        "network integration",
+        "network security",
+        "Network",
+        "policies",
+        "presentations",
+        "processes",
+        "Procurement",
+        "program management",
+        "Project Management",
+        "project planning",
+        "RFP",
+        "routers",
+        "sales",
+        "scheduling",
+        "software development",
+        "strategy",
+        "switches",
+        "T1",
+        "telecommunication",
+        "therapy",
+        "triage",
+        "upgrades",
+        "Vendor management",
+        "video",
+        "video-conferencing",
+        "Visio",
+        "VoIP",
+        "WAN",
+        "wiring",
+        "X.25"
+    ],
+    "experience": [
+        {
+            "title": "Sr. Project Manager",
+            "company": "Company Name",
+            "start_date": "08/2012",
+            "end_date": "Present",
+            "description": "Responsible for software lifecycle in the Cloud Realization group. Manages multiple projects involving planning, requirements, testing, deployment, and support of new products for AT&T Cloud Services. Leads cross-functional teams, coordinates resources, and drives tasks to completion. Develops project documentation, consults with clients on goals and best practices, and participates in vendor engagements. Manages budgets and financials for AT&T Cloud environment projects. Oversees pre-production lab planning, testing, deployment, and scheduling. Maintains communications with project team members, improves efficiency with change management, and creates MS Project plans. Provides guidance on IT security in network, telecom, wireless, and server support. Maintains SharePoint and Wiki documentation."
+        },
+        {
+            "title": "Healthcare Training NCO",
+            "company": "Company Name",
+            "start_date": "05/2010",
+            "end_date": "Present",
+            "description": "Georgia army national guard Healthcare Training Non-Commissioned Officer (NCO)/68W. Ensures clinical procedures such as physical exams, immunizations, triage, IV therapy, and collection/preparation of lab samples are executed per federal guidelines. Provides case management for injured soldiers. Trains and mentors soldiers to administer first-aid and life-support in pre-hospital settings. NREMT-B certified # E2043432. BLS Instructor certified #08130190094."
+        },
+        {
+            "title": "Implementation Engineering Manager",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": null,
+            "description": "Managed 3G engineering teams, schedules, and implementation of cell tower upgrades/downgrades, and assisted LTE projects in Atlanta metro area. Addressed scope changes, prioritization, and schedule impacts. Developed action plans to mitigate delays. Created project documentation, including timelines, meeting minutes, escalations, and action items. Coordinated activities and provided regular updates to internal and external stakeholders."
+        },
+        {
+            "title": "Project Manager III",
+            "company": "Company Name",
+            "start_date": "10/2011",
+            "end_date": "04/2012",
+            "description": "Planned and managed network infrastructure projects for GE Technical Services Group (TSG). Managed internal teams and resources on projects averaging $4M+. Oversaw network integration of GE-acquired sites across Americas, UK, and Algeria, up to 14 PMO projects simultaneously. Led a $1M+ technical refresh for the Nuclear division; defined processes for future tech refreshes. Coordinated LAN/WAN/VLAN/WLAN, firewalls, Cisco devices, and related telecom installations; managed vendor relations for video network installations. Led governance, requirements gathering, documentation, and issue/risk resolution for global infrastructures."
+        },
+        {
+            "title": "IT Project Manager",
+            "company": "Company Name",
+            "start_date": "05/2000",
+            "end_date": "12/2009",
+            "description": "Managed all infrastructure/network project management for a client base. Oversaw 15+ IT projects including circuit and hardware installation. Served as liaison between clients and technical staff. Streamlined processes, established escalation paths, and tracked milestones from pre-sales RFP to post-sales turn-up and invoicing. Managed data and wireless products, VoIP, Frame Relay, DSL, 3G and 4G, and voice services (T1/T3, X.25). Coordinated with iLEC/CLEC providers to ensure timely local loop delivery."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "Walden University",
+            "year": 2017
+        },
+        {
+            "degree": "Project Management Certificate",
+            "school": "Clayton State University",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelor of Business Administration: International Business Marketing",
+            "school": "American Intercontinental University",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        "NREMT-B certified # E2043432",
+        "BLS Instructor certified #08130190094"
+    ],
+    "languages": [
+        "English"
+    ]
+}

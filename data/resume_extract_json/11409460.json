@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Summary Detail-oriented, analytical-thinking, trilingual individual, with exceptional problem-solving skills looking to obtain an internship or full-time position that will allow me to utilize my education and work experience while gaining valuable work experience in a team-oriented work environment.",
+    "skills": [
+        "Solid Works",
+        "CAD",
+        "Matlab",
+        "MS Office",
+        "ERP",
+        "forecasting",
+        "functional",
+        "inspection",
+        "Inventory",
+        "leadership",
+        "logistics",
+        "materials",
+        "pricing",
+        "Procurement",
+        "Purchasing",
+        "production",
+        "proposals",
+        "qualitative research",
+        "quality",
+        "Fast learner",
+        "Receiving",
+        "Sales",
+        "Shipping",
+        "Spanish",
+        "Portuguese",
+        "English",
+        "delivery",
+        "specification",
+        "Strategy & Planning",
+        "Supply Chain"
+    ],
+    "experience": [
+        {
+            "title": "Buyer/Planner",
+            "company": "Company Name",
+            "start_date": "May 2016",
+            "end_date": "Present",
+            "description": "Plan and execute forecasting strategies for mass production planning. Collaborate with cross-functional groups including Engineering, Shipping/Receiving, Purchasing, and Sales. Negoatiate proposals for potential suppliers, including quantitative and qualitative research. Obtain documents, clearances, certificates, and approvals from local, state and federal agencies. Work closely with Production to convert weekly plan into daily work center schedules that manage constraints of manpower, equipment and optimize costs."
+        },
+        {
+            "title": "Logistics Analyst",
+            "company": "Company Name",
+            "start_date": "February 2015",
+            "end_date": "May 2016",
+            "description": "Managed ERP system to monitor the status of incoming materials. Released work orders to the production floor as inventory became available. Coordinated expedited shipping orders request with Production Manager. Interacted with cross-functional teams like sales, production, and the executives. Analyzed incoming requisitions and shortages reports for quality, specification, pricing and delivery requirements. Translated business needs and priorities into actionable logistics strategies."
+        },
+        {
+            "title": "Warehouse Executive",
+            "company": "Company Name",
+            "start_date": "February 2011",
+            "end_date": "January 2015",
+            "description": "Represented the Operations Group in receiving all Inventories from Vendor deliveries. Participated in joint receiving and inspection of all Shipyard Spare Parts deliveries and liaise closely with the Procurement Team on scheduled deliveries. Utilized Maximo system to electronically track inventory flow, bin storage, and reconcile inventory. Ensured Warehouse was kept in a safe and efficient manner with Inventory properly labeled and sorted for easy identification and picking. Supervised periodic stock-take and conducted investigation for any discrepancies. Carried out the daily issuance of Tools & Inventory to shipyard personnel base on Inventory requests and Work Orders. Monitored Stock Levels and reordered Inventory when low. Ensured Inventory is stored in accordance with best practices and chemical storage complies with GHS Classification."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Petroleum Engineering",
+            "school": "Texas A&M University",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+    ]
+}

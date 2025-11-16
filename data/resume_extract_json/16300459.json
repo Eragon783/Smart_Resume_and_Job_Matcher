@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Chicago, IL, USA",
+    "summary": "Strong motivated graduate student who's pursuing master's degree in Finance. Seeking an entry level internship in financial area that can utilize financial analysis skills and enhance practical experience. Honest, persistent, adaptable, and a quick learner. Passion in financial analysis and financial service related works.",
+    "skills": [
+        "Financial modeling",
+        "Time management",
+        "Self-motivated professional",
+        "Advanced computer proficiency (both PC and Mac)",
+        "MS Office Suite",
+        "Sales and marketing",
+        "Quick learner",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Prezi",
+        "VBA"
+    ],
+    "experience": [
+        {
+            "title": "Financial Editor Assistant",
+            "company": "Company Name",
+            "start_date": "10/2013",
+            "end_date": "01/2014",
+            "description": "Analyzed the public opinion by follow-up and study abroad macroeconomic situation. Sorted the context of major events in domestic and international. Explored historical data and related data of the specified topic then implemented preliminary analysis under the guidance of research director."
+        },
+        {
+            "title": "Customer Manager Assistant",
+            "company": "Company Name",
+            "start_date": "06/2013",
+            "end_date": "09/2013",
+            "description": "Researched beneficial financing opportunities and made recommendations to customers. Assisted in created release and project plans and established stakeholder expectations. Analyzed financial information obtained from clients to determine strategies for meeting clients' financial objectives."
+        },
+        {
+            "title": "Customer Manager Assistant",
+            "company": "Company Name",
+            "start_date": "03/2013",
+            "end_date": "06/2013",
+            "description": "Assisted customers with complex loan application and sorted an average of $1 million mortgage loan applicants per month. Performed daily maintenance of the loan applicant database. Assisted in analyzing applicants' financial status, credit and property evaluation to determine feasibility of granting loans. Assisted in writing financial analysis reports of commercial real estate, borrower's financial statements, lease reviews and market research."
+        },
+        {
+            "title": "Accounting Assistant",
+            "company": "Company Name",
+            "start_date": "09/2012",
+            "end_date": "01/2013",
+            "description": "Assisted in performing debit, credit and total accounts on computer spreadsheets/databases, using specialized accounting software. Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions."
+        },
+        {
+            "title": "District Manager (Part-Time)",
+            "company": "Company Name",
+            "start_date": "10/2010",
+            "end_date": "10/2011",
+            "description": "Identified prospective customers and performed an average of 20 visits per day. Planned and executed regional sales improvements, updating the company's approach to marketing, presentations and territory establishment. Managed a regional sales staff of 30 members. Accomplished quarterly sales task of nearly 5,000 items, ranking top one in seven districts of the city."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Finance",
+            "school": "Illinois Institute of Technology",
+            "year": "2016"
+        },
+        {
+            "degree": "Bachelor of Science in International Economics and Trade",
+            "school": "Central South University of Forestry and Technology (CSUFT)",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Chinese",
+        "English"
+    ]
+}

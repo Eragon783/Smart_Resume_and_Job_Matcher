@@ -1,0 +1,51 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Rockwall, TX",
+    "summary": "",
+    "skills": [
+        "account reconciliations",
+        "accounting system",
+        "accounts payable",
+        "process payroll",
+        "spreadsheets"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "2016-03",
+            "end_date": "2018-03",
+            "description": "Reconcile bank accounts daily; process accounts payable; maintain general ledgers; create and modify existing Excel documents; maintain and process payroll; maintain accounting system; perform month-end procedures and account reconciliations; create and modify existing journal entries; perform accounting data reconciliations and verifications; prepare and file 1099s, 941s, 940s, W-2s, and C-3s; pay payroll taxes every pay period using EFTPS; roll over tax and fiscal years at year-end and perform all closing procedures; organize and prepare files for yearly audit."
+        },
+        {
+            "title": "Office Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "2015-06",
+            "end_date": "2015-08",
+            "description": "Answer phone; deliver mail; help professors maintain Excel documents; organize papers for professors."
+        },
+        {
+            "title": "Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "2014-05",
+            "end_date": "2014-08",
+            "description": "Maintain Excel spreadsheets."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Accounting",
+            "school": "Texas A&M Commerce",
+            "year": 2017
+        },
+        {
+            "degree": "Bachelor of Business Administration in Accounting",
+            "school": "Baylor University",
+            "year": 2015
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

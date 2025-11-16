@@ -1,0 +1,60 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "discharge planning",
+        "lesson plans",
+        "evaluate patients",
+        "supervision"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "08/2015",
+            "end_date": "07/2017",
+            "description": "Implement instructional activities contributing to meaningful learning experiences. Prepare syllabi and detailed lesson plans based on course standards and objectives. Communicate effectively, both orally and in writing, with students, parents, and other professionals on a regular basis. Established and maintained cooperative working relationships with students, parents, and co-workers. Collaborate with peers to enhance the instructional environment."
+        },
+        {
+            "title": "Social Services Specialist",
+            "company": "Company Name",
+            "start_date": "05/2014",
+            "end_date": "Current",
+            "description": "Ensure new mothers have the necessary supplies and resources needed for a safe newborn discharge. Arrange newborn and maternal appointments with primary providers for follow- up care. Coordinate, assess, and evaluate patients specific needs to facilitate discharge planning. Provide community referrals to agencies and resources to ensure continuity of care. Prepare case records including nature of problems, patient and family needs, final disposition of patient and referrals/services arranged for each patient. Arrange required durable medical equipment to ensure each patient's continuity of care."
+        },
+        {
+            "title": "Social Work Intern",
+            "company": "Company Name",
+            "start_date": "01/2014",
+            "end_date": "05/2014",
+            "description": "Under supervision, coordinate, assess, and evaluate patients specific needs to facilitate discharge planning. Under supervision, provide community referrals to agencies and resources to ensure continuity of care. Under supervision, prepare case records including nature of problems, patient and family needs, final disposition of patient and referrals/services arranged for each patient."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Psychology",
+            "school": "Warner University",
+            "year": "2014"
+        },
+        {
+            "degree": "Bachelor of Arts: Social Work",
+            "school": "Nova Southeastern University",
+            "year": "2014"
+        },
+        {
+            "degree": "Master of Science: Forensic Psychology - Legal Systems",
+            "school": "Southeastern University",
+            "year": "Present"
+        },
+        {
+            "degree": "Master of Social Work",
+            "school": "Southeastern University",
+            "year": "In Progress"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

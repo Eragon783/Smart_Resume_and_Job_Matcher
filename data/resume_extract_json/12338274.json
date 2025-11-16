@@ -1,0 +1,108 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To pursue excellence in the dynamic business world by obtaining a placement that values honesty, sincerity and a positive attitude. Seeking a challenging accounting role to utilize qualification, expertise and experience within a reputed organization and enhance performance. Flexible professional who adapts seamlessly to evolving accounting processes and technologies.",
+    "skills": [
+        "3D",
+        "Accounting",
+        "Accounts receivable",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Pagemaker",
+        "Audio Editing",
+        "Auditing",
+        "Banking",
+        "Book",
+        "Budget preparation",
+        "Contracts",
+        "Cost analysis",
+        "Credit",
+        "Clients",
+        "Debit",
+        "Documentation",
+        "DOS",
+        "Senior management",
+        "Finance",
+        "Financial",
+        "Financial management",
+        "Preparation of Financial Statements",
+        "HR",
+        "Inspection",
+        "Inventory",
+        "Inventory control",
+        "Macro Media Director",
+        "MS Office",
+        "Windows 9.x",
+        "MIS",
+        "Modeling",
+        "Developer 2000",
+        "Oracle 8I",
+        "Oracle",
+        "Payroll",
+        "Policies",
+        "Reporting",
+        "Sales",
+        "Tax",
+        "Video Editing"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2011-10",
+            "end_date": "2015-08",
+            "description": "Prepared monthly and annual expense forecasts, including any necessary recommended action required to manage costs to achieve budget. Performed debit, credit and total accounts on computer spreadsheets/databases, using specialized accounting software. Responsible to ensure that receivables are timely collected, Participate in preparation of Monthly Management reports, Stock taking, monthly, quarterly and yearly and running reports for inventory control and analysis, Inspection and follow up of warehouse for stock movement. Review of taxation documents and applications for clients, Preparing for cost analysis and variance reports, and supporting management in cost modeling and overhead cost allocation, Processing for final payment for suppliers and staff. Assisting management in Budget preparation, Checking of proper documentation before payment disbursement. Reconciliation of Bank Statements, staff account and supplier accounts, Financial ratios and analysis report of the same, Making MIS report for CFO and senior Management, Coordinating with other departments for financial management."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2011-09",
+            "description": "Reviewed accountant's book entries to ensure accuracy of the G/L. Responsible to ensure that receivables are timely collected, Participate in preparation of Monthly Management reports, Stock taking, monthly, quarterly and yearly and running reports for inventory control and analysis, Inspection and follow up of warehouse for stock movement. Preparing for cost analysis and variance reports, and supporting management in cost modeling and overhead cost allocation, Maintaining staff accounts and processing staff salary, leave, and final settlement in timely manner after checking of documents and auditing of the same. Processing for final payment for suppliers and staff, Processing and review of tax documents, Assisting management in Budget preparation, Checking of proper documentation before payment disbursement, Liaising with HR and suppliers for payroll and other disbursement. Reconciliation of Bank Statements, staff account and supplier accounts, Financial ratios and analysis report of the same, Giving guidance and support for general staff for payroll and finance, Making MIS report for CFO and senior Management, Coordinating with other departments for financial management."
+        },
+        {
+            "title": "Accountant",
+            "company": "Auto1 (Al-Ghannam Auto World Co. WLL), Kuwait",
+            "start_date": "2007-08",
+            "end_date": "2008-12",
+            "description": "Responsible to ensure that liabilities are paid on time and receivables are timely collected, Participate in preparation of Monthly Management reports, Maintaining accounts on daily basis, Stock taking and inventory report as well as warehouse inspection, Preparing and disbursing salary and leave to staff after checking of proper documentation, Reconciliation of Bank Statements, MIS report for senior management."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2006-04",
+            "end_date": "2007-05",
+            "description": "Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions. Responsible for payable are paid on time and receivables are timely collected, Ensures Co. policies related to payments, and contracts are completely followed. Preparing payroll for staff, Preparation of Financial Statements."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2001-10",
+            "end_date": "2006-03",
+            "description": "Account Assistant: Performed debit, credit and total accounts on computer spreadsheets/databases, using specialized accounting software. Maintaining Accounts on daily basis up to finalization, Follow up Accounts receivables and daily reporting to the Management, Preparation of Inventory Reports, Sales Invoices, Purchase Invoices and all accounting Vouchers of debit & credit."
+        },
+        {
+            "title": "Account Assistant",
+            "company": "Digital Vish Computers, Udaipur (Raj.) India",
+            "start_date": "2000-09",
+            "end_date": "2001-09",
+            "description": "Maintaining Cash books and Journal book and reconciliation of bank accounts, Preparation of Cash Vouchers & handle petty cash, Daily routine banking works etc."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA, Finance",
+            "school": "Vidyasagar University",
+            "year": 2006
+        },
+        {
+            "degree": "Unknown",
+            "school": "Mohan Lal Sukhadia University",
+            "year": 2000
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

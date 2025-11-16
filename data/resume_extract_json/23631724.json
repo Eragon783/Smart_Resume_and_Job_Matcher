@@ -1,0 +1,89 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Seasoned communications pro and results-driven communications strategist with award-winning writing and editing credentials, proven successes in media relations/pitching, and longtime experience in Web and social media content.",
+    "skills": [
+        "Superior verbal and written communication skills",
+        "Excellent media contacts",
+        "Crisis communication",
+        "Web content",
+        "Brand development and management",
+        "Analytical thinker",
+        "PowerPoint presentations",
+        "Adobe Photoshop"
+    ],
+    "experience": [
+        {
+            "title": "Communications director",
+            "company": "Company Name",
+            "start_date": "09/2013",
+            "end_date": "Current",
+            "description": "Responsible for all internal and external communications for non-profit agency providing counseling, shelter and services to 90,000 Pennsylvanians each year. Media relations/government relations/fundraising. Web site design and content/social media (Facebook, Twitter, YouTube, Pinterest). Annual report/statewide fatality report/publications design & content. Developed and managed communications strategies, plans and budgets. Planned and launched innovative, creative and effective communications campaigns, such as a press conference to honor domestic violence victims at Capitol Rotunda which resulted in participation by governor and 19 legislators and statewide media coverage. Oversaw and adhered to the communications department budget."
+        },
+        {
+            "title": "Communications director",
+            "company": "Pennsylvania Auditor General",
+            "start_date": "01/2005",
+            "end_date": "01/2013",
+            "description": "Responsible for all internal and external communications for department of 750 employees serving 12.5 million state residents Issued more than 300 press releases each year, plus media inquiries Web site design and content/social media National award for \"PR on a Shoestring\" & honorable mention for Web site"
+        },
+        {
+            "title": "Special assignments reporter",
+            "company": "Pittsburgh Tribune-Review",
+            "start_date": "2004",
+            "end_date": "2005",
+            "description": "Focused on in-depth background reports on topical political, economic issues High-profile breaking news such as President Reagan's state funeral Recognized as business writer of year by Pennsylvania Society of Professional Journalists for coverage of US Airways' bankruptcy."
+        },
+        {
+            "title": "Chief communications officer",
+            "company": "Company Name",
+            "start_date": "08/2001",
+            "end_date": "04/2003",
+            "description": "Responsible for all internal and external communications for Fortune 700 international toolmaker with more than 14,000 employees in 64 global markets, including Germany, India and China. Speechwriting, annual report and other executive communications, community relations, government relations, corporate philanthropy. Served as the primary point of contact for incoming media calls, including requests for meetings and interviews with company executives and experts. Developed and managed communications strategies, plans and budgets."
+        },
+        {
+            "title": "Vice president",
+            "company": "Company Name",
+            "start_date": "02/1998",
+            "end_date": "08/2001",
+            "description": "Speechwriting, annual reports, crisis communications, government relations. Marketing communications and strategic planning. Blue-chip clients included Firestone (Explorer tire fiasco), HealthSouth, Visa. Developed key messaging, branding and positioning statements. Planned and launched innovative, creative and effective communications campaigns, such as Os-Cal bone supplement, placing former Olympic skater Peggy Fleming on ABC's \"Good Morning, America\""
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name",
+            "start_date": "12/1996",
+            "end_date": "02/1998",
+            "description": "Responsible for all external communications for Fortune 500 natural-gas utility with more than 350,000 customers in Pennsylvania and Maryland. Media relations, customer relations, government relations, marketing. Public Utility Commission as a model in the state. Developed and managed communications strategies, plans and budgets. Created and implemented external and internal communications strategies for key company initiatives such as energy deregulation and retail shopping for natural gas"
+        },
+        {
+            "title": "Editor/Reporter",
+            "company": "Company Name",
+            "start_date": "09/1985",
+            "end_date": "12/1996",
+            "description": "Award-winning reporter and editor with experience in sports, news, business. Award-winning reporter and editor with experience in sports, news. Assigned to major stories including sale of Pittsburgh Pirates, financial collapse of Westinghouse Electric, and energy deregulation in Pa."
+        },
+        {
+            "title": "Editor/Reporter",
+            "company": "Company Name",
+            "start_date": "09/1981",
+            "end_date": "09/1985",
+            "description": "As scholastic sports editor, operated staff of 12 full-time reporters, copy editors and photographers for sixth-largest Sunday paper in U.S. Investigative reporter in sports, news."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Communications",
+            "school": "Pennsylvania State University",
+            "year": 1977
+        },
+        {
+            "degree": "MFA: Creative non-fiction",
+            "school": "Spalding University",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

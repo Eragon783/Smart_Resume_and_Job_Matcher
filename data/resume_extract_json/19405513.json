@@ -1,0 +1,68 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly motivated and results-oriented professional with two years of experience in high-pressure finance and accounting environments. Innovative and adaptive thinker who constantly seeks to improve efficiencies and profitability",
+    "skills": [
+        "accounting software",
+        "accounts payable",
+        "banking",
+        "databases",
+        "fixed assets",
+        "prepaid expenses",
+        "marketing and sales",
+        "Access",
+        "Excel",
+        "Microsoft Office Suite",
+        "PowerPoint",
+        "ORACLE",
+        "Peachtree"
+    ],
+    "experience": [
+        {
+            "title": "Finance Specialist",
+            "company": "Company Name",
+            "start_date": "09/2014",
+            "end_date": "Present",
+            "description": "Added detail-oriented, results-driven, and efficient mindset to Finance team of five. Accounts payable, prepaid expenses, and fixed assets. Acquisition of Riverside Bank in December 2014 that increased total assets from $550 million to $850 million. Purchase Loan Accounting - M&A process that generated an additional 40% of monthly income. Team leader in the implementation and use of software from Primatics Financial (Evolv). Coordinated with consultants, Primatics Financial staff, and coworkers to meet all project deadlines. Wrote procedures for monthly processing of Purchase Accounting and how to use the software. Responsible for the calculation of the fair value of the Acquired Loan Portfolio for regulatory reporting. 10-Q and 10-K proofing, editing, and updating of financial tables led to the development of a strong ability to interpret key business performance metrics. SNL Implementation: team leader in use of SNL web-based software (SaaS) that resulted in a live feed of general ledger data to be analyzed and transformed to a reportable format without reliance on Access databases. Investment activity General ledger and bank account reconciliations."
+        },
+        {
+            "title": "Deposit Operations Associate",
+            "company": "Company Name",
+            "start_date": "04/2014",
+            "end_date": "08/2014",
+            "description": "Four month bid with Deposit Operations department to gain an introduction to banking. Daily activities: Items processing, ACH file verification, and incoming/outgoing wire operations. General ledger reconciliations. Wrote and updated procedures."
+        },
+        {
+            "title": "Accounting Associate",
+            "company": "Company Name",
+            "start_date": "09/2012",
+            "end_date": "05/2013",
+            "description": "Accounts payable / receivable process. Worked independently to set up an automated 1099 process in accounting system, Inacct. Interacted with IRS representatives and researched regulations in regards to 1099-INT/MISC requirements. Reconciled lending bank account and booked principal and interest for loans receivable. Used Salesforce (core software) to upload lending activity to Intacct (financial software). Booked realized and unrealized FX gains, losses and hedging adjustments. Revaluated principal outstanding in foreign currencies due to monthly exchange rate fluctuations. Worked closely with Controller to produce financial statements through accounting software (Intacct) and not excel. Ensured consistency and accuracy of data relayed across multiple departments"
+        },
+        {
+            "title": "Community Consultant",
+            "company": "Company Name",
+            "start_date": "07/2012",
+            "end_date": "08/2012",
+            "description": "Volunteered in Guatemala to help a Microfinance organization improve community outreach. Performed marketing and sales campaigns with local entrepreneurs in rural communities. Empowered individuals by providing access to vital and affordable products (i.e. glasses, water filters, and solar products) Managed team of eight to conduct sales and market research for solar products in urban and rural areas. Translated qualitative data into quantitative data in excel and used a PowerPoint presentation to present our findings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Finance",
+            "school": "Bentley University",
+            "year": 2012
+        },
+        {
+            "degree": "Study Abroad Program in International Business",
+            "school": "Universidad de Navarra",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Advanced Spanish"
+    ]
+}

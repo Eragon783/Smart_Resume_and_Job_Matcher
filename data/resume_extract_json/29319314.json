@@ -1,0 +1,83 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Manage and coordinate all aspects of benefit plan implementation for new and existing customers. Provide focused service through initial post-sale client administration while fostering strong, long-term partnerships with customers and all key stakeholders including sales/service, consultants and other internal business units. Committed to promoting on-going enhancements for program installation.",
+    "skills": [
+        "Computer proficient",
+        "Salesforce.com",
+        "advanced interpersonal communication skills",
+        "teacher and mentor",
+        "project management",
+        "adaptable and flexible",
+        "responsive",
+        "analytical",
+        "conflict resolution"
+    ],
+    "experience": [
+        {
+            "title": "Senior Implementation Manager",
+            "company": "Company Name",
+            "start_date": "07/2016",
+            "end_date": "Present",
+            "description": "Mediate and coordinate resolution of all project deliverables and implementation related issues to guarantee customer expectations are met and exceeded. Develop and execute implementation strategy consistent with customer expectations; Ensure strategy is administered in accordance with all performance guarantee arrangements. Assist with the selection of implementation staff and the development of training activities; Mentor to new staff. Identify gaps and recommend enhancements related to new and/or existing services and workflows based on a broad view of the organization; contribute to development of new or updated implementation tools, resources, and materials."
+        },
+        {
+            "title": "Implementation Manager",
+            "company": "Company Name",
+            "start_date": "04/2006",
+            "end_date": "07/2016",
+            "description": "Effectively managed implementation team dynamics and provided direction/coaching to fellow team members ensuring success of the overall implementation process; engaged team members to follow-through on their responsibilities and tasks. Maintained a high level of organization with strong attention to detail and accuracy while prioritizing a large caseload to achieve Key Performance Metrics of 98.89% quality with 99% turnaround; consistently received positive feedback from sales partners, coworkers and internal constituents. Collaborated and developed complex account structures based on customers' objectives and Aetna's systems, administration and reporting requirements. Successfully helped implement Mental Health Parity and Health Care Reform benefit changes to ensure Aetna remains compliant. Nominated for the Aetna Way Silver Award for my devoted assistance."
+        },
+        {
+            "title": "Implementation Specialist",
+            "company": "Company Name",
+            "start_date": "02/2004",
+            "end_date": "04/2006",
+            "description": "Precisely installed medical, dental and pharmacy benefits for mid-size, large and specialty accounts into Aetna systems applying state and federal legislation. Extensive knowledge of Aetna systems and tools. Successfully met quality through strong attention to detail achieving 99.49% accuracy. Efficiently resolved problems through effective communication skills and strong interpersonal relationships with Implementation Managers, Sales Executives, Account Managers, Drafters and Underwriters. Monitored reports on a daily basis to manage a large and complex caseload. Consistently met targeted deadlines attaining 99.76% precision."
+        },
+        {
+            "title": "Student Teacher",
+            "company": "Company Name",
+            "start_date": "02/2004",
+            "end_date": "05/2004",
+            "description": "Designed and implemented lesson plans. Organized St.Jude Math-a-thon event with students. Successfully applied Responsive Classroom technique to ease switch from teacher to myself."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "09/2003",
+            "end_date": "06/2004",
+            "description": "Implemented lesson plans for grades k-5 in various schools and classrooms. Taught classes in art, music, and gym."
+        },
+        {
+            "title": "Fitness Consultant",
+            "company": "Company Name",
+            "start_date": "09/2000",
+            "end_date": "11/2004",
+            "description": "Supervised front desk and childcare staff to establish productive workflow. Supervised front desk and childcare staff to establish productive workflow. Trained new employees for effective transitioning of old and new hires. Promoted to fitness consultant after 1 year of front desk and childcare work."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Psychology",
+            "school": "Sacred Heart University",
+            "year": 2003
+        },
+        {
+            "degree": "Master of Arts: Teaching",
+            "school": "Sacred Heart University",
+            "year": 2004
+        },
+        {
+            "degree": "Connecticut Initial Educator Elementary Certification, K-6",
+            "school": "Connecticut",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Italian"
+    ]
+}

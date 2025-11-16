@@ -1,0 +1,75 @@
+{
+    "name": "April Bradford",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Forward-thinking professional with experience in human resources, sales, customer service and education, offering excellent communication and computer skills; highly organized and meticulous.",
+    "skills": [
+        "MS Office Suite",
+        "Self-motivated",
+        "Team leadership",
+        "Time management",
+        "Benefits",
+        "Interpersonal skills",
+        "Data entry",
+        "Database",
+        "E-mail",
+        "Filing",
+        "HR",
+        "Recruitment",
+        "Payroll",
+        "Policies",
+        "Processes",
+        "Quality",
+        "Staffing",
+        "Telephone",
+        "Telephone etiquette",
+        "Phone",
+        "Multi-tasking",
+        "Year-end"
+    ],
+    "experience": [
+        {
+            "title": "HR Contact Center Specialist",
+            "company": "Company Name",
+            "start_date": "07/2016",
+            "end_date": "Present",
+            "description": "Answer and resolve employee and people-manager issues, provide guidance on HR responsibilities (year-end compensation, mid-year and year-end processes, resource planning), guidance on data changes (new hires, transfers, terminations, retiring), and administration of employee programs (Service recognition, PTO/Vacation entitlement, time administration). Maintain adherence to audit/compliance and regulatory requirements. Provide support on HR policies, processes, and procedures including benefits and payroll transactions, people-manager responsibilities and HR systems. Participated in new hire training, women in leadership initiatives, and initiatives to improve colleagues' metrics and call quality."
+        },
+        {
+            "title": "Admissions Representative",
+            "company": "Company Name",
+            "start_date": "10/2014",
+            "end_date": "07/2016",
+            "description": "Conduct face-to-face or telephone interviews and email correspondence to identify high school and adult student prospects, mentor students through the admissions process, ensure compliance with company policies and laws, and participate in school retention efforts by maintaining contact with active students through graduation."
+        },
+        {
+            "title": "Recruiting Coordinator",
+            "company": "Company Name",
+            "start_date": "05/2014",
+            "end_date": "10/2014",
+            "description": "Conserve database for storage and retrieval of assessments; coordinate job fairs; on-site coordination of interview activity; run e-verifies and uphold payroll information; track applicant flow; manage payroll records and changes; perform background checks and other duties to support the team; maintain filing systems and other administrative tasks."
+        },
+        {
+            "title": "Branch Coordinator",
+            "company": "Company Name",
+            "start_date": "03/2014",
+            "end_date": "05/2014",
+            "description": "Maintain front desk operations; track and monitor branch applicant flow; weekly data entry of applications; manage office traffic; answer and screen calls; coordinate interview activity; manage payroll-related data changes and confidential information; perform filing and other duties as required."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Business Finance",
+            "school": "Strayer University",
+            "year": 2013
+        },
+        {
+            "degree": "Bachelor of Arts in Communication (Mass Communication)",
+            "school": "Fayetteville State University",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

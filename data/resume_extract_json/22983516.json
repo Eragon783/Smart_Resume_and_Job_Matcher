@@ -1,0 +1,64 @@
+{
+    "name": "Xavier Thomas",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Detail-oriented laborer with extensive experience in cleaning, construction, mentorship, and arts-related roles. Adaptable, hard-working team player with background in crisis communications and community service. Strong focus on safety, quality, and problem solving. Fluent in English; experienced in sales, marketing, and customer service.",
+    "skills": [
+        "Construction",
+        "Carpentry",
+        "Plumbing",
+        "Painting",
+        "Plastering",
+        "Equipment maintenance",
+        "Scaffolding",
+        "Inventory management",
+        "Customer service",
+        "Sales",
+        "Marketing",
+        "Communications",
+        "Team leadership",
+        "Problem solving",
+        "Safety awareness",
+        "English"
+    ],
+    "experience": [
+        {
+            "title": "Laborer - Floor Construction Worker (All-Around)",
+            "company": "Company Name",
+            "start_date": "2015-06",
+            "end_date": "2016-11",
+            "description": "Cleaned construction areas to avoid hazards. Assisted skilled workers with rough and finish carpentry. Trained in plumbing, carpentry, painting, plastering, machine servicing and installation. Built and disassembled scaffolds, bracing and barricades."
+        },
+        {
+            "title": "Teacher & Special Skill Development Coach",
+            "company": "Company Name",
+            "start_date": "2015-02",
+            "end_date": "2016-12",
+            "description": "Attended workshops on learning goals, classroom management, student motivation and engaging learning activities. Assessed training needs; communicated objectives; developed partnerships with industry and education institutions. Promoted positive behaviors; created curriculum addressing diverse learning styles; conducted group and individual activities; prepared lesson plans; encouraged student collaboration; engaged students throughout the day."
+        },
+        {
+            "title": "Musician Artist Poet Creator Mentor",
+            "company": "Company Name",
+            "start_date": "2003-06",
+            "end_date": "present",
+            "description": "Adapted to studio art style; critiqued peers; collaborated with development team; created rough sketches; produced illustrations; communicated updates; resolved artistic development issues."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Keneseology and Business",
+            "school": "Antelope Valley Community College",
+            "year": 2020
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Oklahomacity, Oklahoma",
+            "year": 2012
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

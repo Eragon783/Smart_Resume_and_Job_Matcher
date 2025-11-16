@@ -1,0 +1,98 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Over 15 years of increasingly responsible experience in general accounting, budgeting and reporting, fixed asset management, project management, payroll and income tax preparation, and database administration. Eager to acquire a position in a prestigious organization, where I actively participate in their enhancement and my education, professional experience, and skills become a positive feature to the company. Capable Accountant successful at managing multiple projects and consistently meeting deadlines under pressure. Extensive knowledge of accounting software and processes.",
+    "skills": [
+        "ISO9001",
+        "Team Lead",
+        "Logistics",
+        "MAPICS",
+        "Excel",
+        "Outlook",
+        "Power Point",
+        "Word",
+        "Works",
+        "QuickBooks",
+        "SAGE",
+        "Sales",
+        "SAP",
+        "SAP R3",
+        "Sarbanes Oxley",
+        "self-starter",
+        "Spanish",
+        "SPC4",
+        "Vertex",
+        "Ceridian",
+        "ADP",
+        "Improves process",
+        "Fixed Assets Administrator",
+        "Project Lead",
+        "Account Reconciliation Skill",
+        "Payroll and Budget Proficiency",
+        "Capital Expenditures and Inventory Management",
+        "Communications Skills",
+        "Decision making",
+        "Financial Statements Analysis",
+        "Research Skills",
+        "Fast learner"
+    ],
+    "experience": [
+        {
+            "title": "Corporate Accountant",
+            "company": "Company Name – City, State",
+            "start_date": "2011-01",
+            "end_date": "2015-06",
+            "description": "Implemented fixed assets internal controls create depreciation schedules, files, and monitor capital expenditures to ensure all projects are completed within budget and in the time frame stipulated. Accountable for fixed assets capitalization, depreciation and amortization. Fixed assets software implementation - Project Lead, research software companies, compare and contrast the different options that was suitable to company's needs. Payroll-HRO module implementation support, set up conferences calls, prepared implementation presentation; training, prepared written progress reports to management Create process and procedures for various aspect of accounting aligned to company guidelines. Responsible to analyze general ledger accounts to ensure financial statements are accurate and reliable. Review P & L accounts and compare current to prior year and calculate % of over or under budget for decision making. Reconcile balance sheets account and ensure adjustments are properly posted. Reduced closing time for monthly and quarterly close by 35% by implementing new consolidation procedures.Restructured and analyzed software deficiencies to improve budget reporting.Aligned all financial activity with the regulations of the GAAP.Revised and streamlined inefficient work procedures with automation software."
+        },
+        {
+            "title": "Senior Accountant/Analyst",
+            "company": "Company Name – City, State",
+            "start_date": "2010-01",
+            "end_date": "2011-01",
+            "description": "Responsible to prepare several reports such as; Operating expense report, Sales report, Revenue, and COGS analysis report in which we compare prior month and prior year data for decision making. Prepare the Gross Profit Inventory elimination (GPIE) report to ensure that we report the proper information in our financial statements as per GAAP and company standards. Managed capital and non-capital projects; prepare fixed asset capitalization, fixed asset cycle count, review for impairment, retire assets as needed and other related activities. Responsible to create account reconciliation metric to monitor and improves process. Assisted Cost Accountant with inventory management, annual cycle count, reconciling inventory data and adjustments. Prepare AP payment package and audit invoice for possible errors. Confirm month end Inter-company balances and ensures amount reported in BOFC agrees to our balance. Review accounts receivable aging for possible past due and maintain communication with customers. Post and reconcile daily cash transactions."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name – City, State",
+            "start_date": "2003-01",
+            "end_date": "2010-01",
+            "description": "Performed general accounting duties; prepare journal entries, balance month end closing transactions, monitor inter-company transactions and confirmed balances at month end, prepared account analysis report and reconciliations as per company standards. Participated in the new ERP implementation, Sarbanes Oxley processes preparation for AP, Payroll, fixed assets and sales tax procedures. Prepare monthly headcount report, Payroll Added Cost (PAC) analysis report for manager's decision making. Responsible to prepare monthly and year-end schedules and assist controller with the preparation of the company's budget and financial statements. Fixed Assets - Reorganized fixed assets files, cycle count assets and properly record new assets to ensure that fixed assets were in accordance with general ledger and FAS system. Monitored projects, account balance and maintain communication with project manager as per company and GAAP regulations. Prepared monthly, quarterly, semi-annual and annual sales taxes for 35 states. Processed Annual Property Taxes and prepare 1099 forms. Improved payroll process, ensure time card information was process in a timely and accurately fashion. Accounts Payable Team Lead- Reorganized department, improved supplier and company communication, reduced vendor phone calls by processing and resolving invoices issues on a timely manner. Monitor vendor data master for duplication or possible fraud."
+        },
+        {
+            "title": "Financial institution Accounting Clerk",
+            "company": "Company Name – City, State",
+            "start_date": "2000-01",
+            "end_date": "2003-01",
+            "description": "Managed to downsize account reconciliation balance from 83 to .75 million dollars on open balances. Processed non-sufficient funds checks, ACH, and wires. Reconcile over 15 bank accounts, including FED account. Analyzed costs and revenues to project future trends."
+        },
+        {
+            "title": "Financial institution Accounting Clerk",
+            "company": "Company Name – City, State",
+            "start_date": "1998-01",
+            "end_date": "2000-01",
+            "description": "Reconciled bank accounts cleared more than .75 million in open items. Monitor FED account discrepancies. Processed non-sufficient fund checks, ACH and monitor Puerto Rico and Orlando transactions. Maintain communication with Puerto Rico and Orlando Branches."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Graduate Diploma, Business Administration",
+            "school": "Metropolitan University",
+            "year": 2009
+        },
+        {
+            "degree": "Bachelor of Science, Accounting",
+            "school": "Universidad del Turabo",
+            "year": 2007
+        }
+    ],
+    "certifications": [
+        "ISO9001 QMM Auditor",
+        "Crosby Certify"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

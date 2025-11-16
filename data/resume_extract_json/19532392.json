@@ -1,0 +1,98 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Driven, compassionate health care professional with over 5 years of experience in supply chain management, pharmaceutical and research analysis. Proven ability to manage inventory and material flow, ensure quality and regulatory compliance, and support dynamic health care delivery. Skilled in microbiology, environmental health, data analysis, and cross-functional teamwork.",
+    "skills": [
+        "accounting",
+        "Business Intelligence 4.0",
+        "Business law",
+        "hardware",
+        "customer satisfaction",
+        "customer services",
+        "data entry",
+        "databases",
+        "Database",
+        "Economics",
+        "Financial management",
+        "Human resource",
+        "insurance",
+        "inventory management",
+        "inventory control",
+        "Legal",
+        "Logistics",
+        "marketing",
+        "Microsoft Certified Professional",
+        "MCP",
+        "organizational",
+        "packaging",
+        "quality assurance",
+        "requirement",
+        "Research",
+        "risk management",
+        "SAP",
+        "scripts",
+        "SQL 2000",
+        "stock control",
+        "view"
+    ],
+    "experience": [
+        {
+            "title": "Logistics Technician",
+            "company": "Company Name, City, State",
+            "start_date": "December 2009",
+            "end_date": "October 2013",
+            "description": "Managed material management activities and systems involved in requirements determination, inventory control, and receipt, storage and issues of supplies and equipment. Computed requirement, determined allowance, and researched and identified material requirements. Performed inventories and ensured timely correction of discrepancies. Inspected and evaluated inventory management activities. Developed methods and improved procedures for storing property. Coordinated with maintenance activities on repairable component actions. Planned and scheduled material storage and distribution activities. Acted as a subject matter expert to the commander on the operation of material management systems and operations. Processed information retrievals using supply system databases. Developed database retrieval scripts for material management support analysis. Controlled and operated the Remote Processing Station (RPS) and remote terminal hardware under the Standard Base Supply System (SBSS)."
+        },
+        {
+            "title": "Customer Care/Public Relation",
+            "company": "Company Name, City, State",
+            "start_date": "March 2009",
+            "end_date": "October 2009",
+            "description": "Actively involved in customer satisfaction services. Analyzed company activities and data to properly assess risk management and improve services. Led branch in customer services and insurance package sale."
+        },
+        {
+            "title": "Laboratory/Research Assistant",
+            "company": "Company Name, Ibadan, Oyo state",
+            "start_date": "August 2006",
+            "end_date": "October 2006",
+            "description": "Conducted laboratory, screen house and field experiments; Conducted sampling with guidance from Research Associate/Manager; Maintained a sterile work environment in preparation for and during laboratory work; Ensured proper organization of isolates in cold storage and work areas; Conducted other assignment as assigned by supervisors. Carried out microbiology work involving sample preparation, organism isolations, isolate storage, media preparation; Ensured proper sampling labeling, organization of work area; Kept proper records and ensure proper data entry into field and laboratory books."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name, City",
+            "start_date": "February 2006",
+            "end_date": "July 2006",
+            "description": "Monitored production and system control in the organization. Successfully carried out drug processing and packaging procedures. Ensured quality assurance and engaged in practical laboratory analysis of several company production to test for 100% NAFDAC compliance regulation. Inspected Industrial Equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Public Health (Mental Health)",
+            "school": "National University",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Science: Healthcare Management",
+            "school": "Park University",
+            "year": 2013
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "Air University",
+            "year": 2009
+        },
+        {
+            "degree": "Bachelor of Science: Applied Biology (Microbiology)",
+            "school": "Ladoke Akintola University",
+            "year": 2008
+        }
+    ],
+    "certifications": [
+        "Microsoft Certified Professional (MCP)",
+        "SQL 2000 Database Administrator",
+        "SAP Business Object Business Intelligence 4.0 (in-view)"
+    ],
+    "languages": []
+}

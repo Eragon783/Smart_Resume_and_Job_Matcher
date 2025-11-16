@@ -1,0 +1,88 @@
+{
+    "name": "Namjoshi Shantanu",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Self driven and highly motivated with several years of experience in Quantitative Research including quantitative modeling, econometric analysis, statistical analysis, model development, large data analysis. My work, both in Finance and Engineering has been based on the development, application, and testing of quantitative models. Excellent analytical/critical thinking and problem solving skills. Strong written and oral communication.",
+    "skills": [
+        "Proficient in R",
+        "SAS",
+        "SQL",
+        "C++",
+        "Fortran",
+        "VBA",
+        "Advanced Modeling Skills",
+        "Project Management Experience",
+        "Critical Thinking Skills",
+        "Complex Problem Solving Skills",
+        "Superior Research Skills",
+        "Excellent Written and Oral Communication",
+        "Self-motivated"
+    ],
+    "experience": [
+        {
+            "title": "PhD Candidate in Finance",
+            "company": "Company Name, City, State",
+            "start_date": "2010-08",
+            "end_date": "Present",
+            "description": "Conduct research in Finance, specifically asset pricing and econometric modeling. Current work includes: 1) Do tax revenues Reduce Agency Costs and Increase Hospital Efficiency? Empirical Evidence from Washington State - conducted using Maximum Entropy Econometrics, 2) Return Distributions under GARCH Process with Sentiment Measures 3) Market Sentiment and its Effects on Stock Returns 4) A State-Space Model for Investor Sentiment and 5) Herding in Option Pricing Models â€“ A State Space Approach."
+        },
+        {
+            "title": "Visiting Instructor in Finance",
+            "company": "Company Name, City, State",
+            "start_date": "2013-09",
+            "end_date": "2014-08",
+            "description": "Taught MBA and Undergraduate Classes in Investments, Financial Markets and Institutions, Bank Financial Management, Introduction to Financial Management"
+        },
+        {
+            "title": "Visiting Asst. Professor in Finance",
+            "company": "Company Name, City, State",
+            "start_date": "2008-08",
+            "end_date": "2010-06",
+            "description": "Taught MBA and Undergraduate Classes in Financial Modeling, Strategic Business Problem Solving, Working Capital Management"
+        },
+        {
+            "title": "Research Assistant Professor",
+            "company": "Company Name, City, State",
+            "start_date": "2001-01",
+            "end_date": "2006-02",
+            "description": "Principal Investigator on projects for the development of mathematical models for life prediction of Nuclear Waste containers for the Yucca Mountain Nuclear Waste Repository (sponsored by DOE). Taught classes in engineering to graduate and undergraduate students."
+        },
+        {
+            "title": "Research Scientist",
+            "company": "Company Name, City, State",
+            "start_date": "1999-10",
+            "end_date": "2000-12",
+            "description": "Worked on the development of mathematical models for life prediction of turbine engines blades for US Air Force fighter jets."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. : Materials Science and Engineering",
+            "school": "Georgia Tech",
+            "year": 1999
+        },
+        {
+            "degree": "B. Tech. : Metallurgical Engineering",
+            "school": "IIT Bombay",
+            "year": 1992
+        },
+        {
+            "degree": "Ph.D. : Finance",
+            "school": "University of Connecticut",
+            "year": 2015
+        },
+        {
+            "degree": "MBA : Finance",
+            "school": "Gonzaga University",
+            "year": 2007
+        },
+        {
+            "degree": "M.S. : Ceramic Engineering",
+            "school": "Georgia Tech",
+            "year": 1995
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

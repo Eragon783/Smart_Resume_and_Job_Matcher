@@ -1,0 +1,95 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Compassionate social services professional and active listener dedicated to working tirelessly with clients to help them resolve mental health issues and thrive on their own terms.",
+    "skills": [
+        "Administrative support",
+        "Counseling",
+        "Creativity",
+        "Client services",
+        "Customer services",
+        "Data Entry",
+        "Database",
+        "Event planning",
+        "Financial",
+        "Fund raising",
+        "Leadership skills",
+        "Leadership Training",
+        "Materials",
+        "Mental health",
+        "Excel",
+        "Microsoft Office",
+        "Outlook",
+        "PowerPoint",
+        "Publisher",
+        "Word",
+        "Typing 50 WPM",
+        "Policies",
+        "Presentations",
+        "Program development",
+        "Progress",
+        "QuickBooks",
+        "Reporting",
+        "Risk management",
+        "Safety",
+        "Phones",
+        "Trauma",
+        "Cameras",
+        "Neat",
+        "Vision"
+    ],
+    "experience": [
+        {
+            "title": "Community Advocate",
+            "company": "Company Name – City, State",
+            "start_date": "February 2015",
+            "end_date": "February 2016",
+            "description": "Developed and maintained resources for walk-in clients with emergent needs. Participated in additional training requirements to stay abreast of changing rules and regulations associated with various governmental programs. Interviewed clients about safety, food, clothing, housing, finances, employment, and physical and mental health to determine needs. Advocated and educated clients on housing and how to work through barriers to housing. Facilitated and co-facilitated community support groups utilizing psychoeducation modules. Compiled records, collected data, and prepared reports and conducted outcome measurements with assessment tools. Organized and assisted with outreach and presentations including resource tabling. Ensured services adhered to confidentiality laws and standards. Engaged in advocacy-based counseling and participated in community committee teams, task forces, and event planning. Supported program development, tracking, and reporting; created partnerships and collaborations to best serve clients at the YWCA."
+        },
+        {
+            "title": "On-Call Domestic Violence Advocate/Intern for Children's Program",
+            "company": "YWCA",
+            "start_date": "2013",
+            "end_date": "2013",
+            "description": "Performed crises intervention and safety planning. Conducted shelter intake including screening, interviews, and orientation to shelter facilities. Collected and entered client data and service data in computer systems. Provided administrative support when needed. Monitored alarms and cameras and maintained shelter entrance security and safety procedures. Implemented shelter rules and policies, and communicated donation, volunteer, or supply requests. Helped develop meaningful activities that foster creativity, leadership, and resilience in youth. Ensured shelter cleanliness and adherence to health standards. Supported holistic healing and developmental growth of children/youth affected by domestic violence and trauma. Developed and implemented curriculum for children ages 6-12 years in collaboration with program staff. Maintained consistent program rhythms, boundaries, and guidelines; assisted youth with safety planning and skill development. Partnered with parents to support overall social, emotional, cognitive, and developmental health. Managed a caseload of 15+ clients under strict confidentiality and time constraints. Consulted with professionals regarding treatment, educated clients and families about community resources, and developed solutions for recurring problems."
+        },
+        {
+            "title": "Volunteer Coordinator/Assistant Treasurer",
+            "company": "Company Name – City, State",
+            "start_date": "September 2013",
+            "end_date": "June 2015",
+            "description": "Recruited volunteers and publicized opportunities, matching positions to volunteers. Created and managed a database for volunteers. Planned and implemented fundraising ideas and events. Assisted in maintaining financial records for PTA activities using QuickBooks. Maintained direct communication with president and treasurer. Secured signatures on documents and enforced risk management compliance. Assisted with semi-annual audit preparations."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name – City, State",
+            "start_date": "January 2011",
+            "end_date": "January 2014",
+            "description": "Answered multi-line phones. Filed documents. Updated databases. Created documents and disseminated them to various departments and churches. Set up PowerPoint presentations. Prepared materials for events. Performed data entry and managed correspondence. Operated various computer programs and organized mail. Improved meeting efficiency by developing agendas. Maintained and organized the Master Resident Index and related information in the master database."
+        },
+        {
+            "title": "Retention Specialist",
+            "company": "Company Name – City, State",
+            "start_date": "January 2008",
+            "end_date": "January 2009",
+            "description": "Answered and logged calls promptly. Deescalated customer grievances. Performed data entry and processed payments. Upgraded and sold packages. Initiated start, transfer, and disconnect processes. Retained clients and provided exceptional service. Made exceptions to procedures to accommodate unusual requests. Delivered accurate information to customers, demonstrated mastery of the call script, and maintained up-to-date records. Built relationships across departments to improve satisfaction and loyalty, and followed up on product issues. Directed inbound calls to optimize call flow."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Human Services Management",
+            "school": "University of Phoenix",
+            "year": "2017"
+        }
+    ],
+    "certifications": [
+        "30 hour Domestic Violence Training",
+        "Leadership Training",
+        "Mental Health Facilitator",
+        "DV Facilitator",
+        "YWCA Domestic Violence Agency Training"
+    ],
+    "languages": []
+}

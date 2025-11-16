@@ -1,0 +1,60 @@
+{
+    "name": "Angelina Nissim",
+    "email": null,
+    "phone": null,
+    "location": "Saratov, Russian Federation",
+    "summary": "Former lawyer with experience in contract law transitioning into IT. Self-studied MS SQL and currently pursuing web development (HTML, CSS, JavaScript). Completed MASA Web Development Course with a focus on Front-end development; internship as Front End Developer with React and Angular.",
+    "skills": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "SQL",
+        "ANGULAR"
+    ],
+    "experience": [
+        {
+            "title": "Front End Developer Intern",
+            "company": "SERVC",
+            "start_date": "Jan 2022",
+            "end_date": "Apr 2022",
+            "description": "Redesigned all tables in the project per the layout in Figma to improve UX; created a component library (inputs, selectors, icons) to improve DX; rewritten the login page (frontend and backend)."
+        },
+        {
+            "title": "SQL Freelancer",
+            "company": "Freelance",
+            "start_date": "Oct 2020",
+            "end_date": "Dec 2020",
+            "description": "Compilation of SQL queries; ensured operation of databases."
+        },
+        {
+            "title": "Legal Adviser",
+            "company": "NORNICKEL",
+            "start_date": null,
+            "end_date": null,
+            "description": "Created and edited over 200 contracts; Negotiated with more than 10 counterparties, including government agencies; User of corporate database systems."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MASA Web Development Course",
+            "school": "MASA Israel",
+            "year": "2021"
+        },
+        {
+            "degree": "BA in Jurisprudence",
+            "school": "Saratov State Law Academy",
+            "year": "2021"
+        },
+        {
+            "degree": "MA in Jurisprudence",
+            "school": "Saratov State Law Academy",
+            "year": "Unknown"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Hebrew",
+        "English",
+        "Russian"
+    ]
+}

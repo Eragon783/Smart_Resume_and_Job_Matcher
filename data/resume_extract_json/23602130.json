@@ -1,0 +1,64 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Summary Detail oriented, organized and personable Event Coordinator relocating from the West Coast. In depth understanding of the value of planning and confirming details of events to ensure success. Brings over 6 years of experience and lessons learned to ensure all elements of an event come together smoothly. Core Qualifications Vendor and subcontractor negotiations/relations Combination of big picture thinking and attention to detail Relationship building Prioritization Clear communications with all parties Time line of required actions for successful event Skills Desktop Publishing Software: Microsoft Office Suite Tech savvy and able to learn new software quickly and efficiently",
+    "skills": [
+        "Vendor and subcontractor negotiations/relations",
+        "Combination of big picture thinking and attention to detail",
+        "Relationship building",
+        "Prioritization",
+        "Clear communications with all parties",
+        "Time line of required actions for successful event",
+        "Desktop Publishing Software",
+        "Microsoft Office Suite",
+        "Tech savvy and able to learn new software quickly and efficiently"
+    ],
+    "experience": [
+        {
+            "title": "Marketing and Special Events Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "2010-01",
+            "end_date": "Current",
+            "description": "Plan and manage weekend seminars, social retreats, fundraisers and gala dinners from concept to completion. Design all marketing materials, brochures and fliers for conferences and events. Developed marketing strategy based on knowledge of establishment objectives and market characteristics. Maintain and update company website on a daily basis."
+        },
+        {
+            "title": "Special Events and Public Relations Intern",
+            "company": "Company Name, City, State",
+            "start_date": "2009-08",
+            "end_date": "2009-12",
+            "description": "Worked on media planning and corporate budget management. Created and maintained the company's calendar of events. Communicated with many vendors and publications on PR events. Assisted in planning retail and wholesale events nationwide."
+        },
+        {
+            "title": "Bronx and Central Park Zoo Special Events Intern",
+            "company": "Company Name, City, State",
+            "start_date": "2009-05",
+            "end_date": "2009-08",
+            "description": "Shadowed Special Event Coordinator on multiple special events such as the Annual Gala and Corporate Outings. Assisted event sales manager in walk-throughs and day-of-event logistics."
+        },
+        {
+            "title": "Public Relations Intern",
+            "company": "Company Name, City, State",
+            "start_date": "2007-11",
+            "end_date": "2008-02",
+            "description": "Expanded website traffic through implementation of public relations support. Contacted potential clients through internet blogging. Represented and promoted the company to potential clients at media related event."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2006-09",
+            "end_date": "2009-06",
+            "description": "Pitched creative and original ideas to clients on a regular basis for potential events. Met customers needs in a fast paced environment to maintain positive client relationship. Designed and built samples for events and arrangements for sale."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA: Fashion Marketing and Special Events",
+            "school": "LIM College",
+            "year": "2009"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

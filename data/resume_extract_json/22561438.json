@@ -1,0 +1,51 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Beverly Hills, CA",
+    "summary": "Culinary professional trained at Le Cordon Bleu with experience in French cuisine, pasta production, and high-volume kitchen operations. Skilled in menu development, cost control, inventory, and staff management; specializes in handmade pastas and fabricating proteins. Currently running the kitchen at Citizen in Beverly Hills.",
+    "skills": [
+        "Focused and disciplined",
+        "ServSafe certified",
+        "Focus on portion and cost control",
+        "Excellent multi-tasker",
+        "High volume production capability",
+        "Well-tuned palate",
+        "Handmade pastas",
+        "Staff management"
+    ],
+    "experience": [
+        {
+            "title": "Chef De Cuisine",
+            "company": "Company Name",
+            "start_date": "04/2016",
+            "end_date": "Present",
+            "description": "Developed seasonal menu; Maintained quality of food while constantly keeping a low food cost; In charge of inventory/ordering; Responsible for hiring and firing of employees; Trained all new employees to uphold our standards."
+        },
+        {
+            "title": "Chef de Cuisine",
+            "company": "Company Name",
+            "start_date": "09/2014",
+            "end_date": "04/2016",
+            "description": "Assisted in seasonal menu development. In charge of inventory/ordering. Fabricating proteins. Handmade pastas daily."
+        },
+        {
+            "title": "Sous Chef",
+            "company": "Company Name",
+            "start_date": "01/2014",
+            "end_date": "09/2014",
+            "description": "Ran lunch service and Worked all stations for dinner in busy 300-400-person restaurant. In charge of inventory and ordering. Responsible for fabricating all proteins."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Occupational Studies Degree",
+            "school": "Le Cordon Bleu College of Culinary Arts, Pasadena, CA",
+            "year": "2010"
+        }
+    ],
+    "certifications": [
+        "ServSafe certified"
+    ],
+    "languages": []
+}

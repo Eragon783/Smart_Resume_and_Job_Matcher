@@ -1,0 +1,58 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dedicated student with excellent technical, analytical and communication skills, in search of an organization that gives me a platform to develop new skills, while utilizing my knowledge as a Construction Management student.",
+    "skills": [
+        "AutoCAD",
+        "Microsoft Word",
+        "PowerPoint",
+        "Excel",
+        "Bilingual in Spanish",
+        "Biliterate in Spanish",
+        "Quality control",
+        "Safety on project work",
+        "Management",
+        "Strong communication under pressure"
+    ],
+    "experience": [
+        {
+            "title": "General Construction Intern",
+            "company": "Company Name",
+            "start_date": "June 2015",
+            "end_date": "August 2015",
+            "description": "Gathered appropriate information of site before initiating construction prior to building. Cooperated in demolition of roof in order to provide customer with new stick roofing. Built additional room and bathroom at a home remodel and also framed multiple doors and windows. Handled power tools such as: handsaw, skill saw, drills, and full head framing nailer."
+        },
+        {
+            "title": "Bartender/Server",
+            "company": "Company Name",
+            "start_date": "February 2015",
+            "end_date": "July 2015",
+            "description": "Delivered quality service while tending to multiple orders during times of exhaustion. Performed constant product quality assurance. Showcased quick problem solving abilities by pleasing customers."
+        },
+        {
+            "title": "Voluntary Business Manager",
+            "company": "Company Name",
+            "start_date": "June 2013",
+            "end_date": "July 2015",
+            "description": "Managed appropriate documentation in order to abide by Washington State Department of Early Learning law. Assured that safety protocols met Washington State Law by eliminating all hazards. Efficiently maintained onsite equipment. Developed floor plan that illustrates egress in case of emergency. Generated spreadsheet that showcased business expenses and monthly revenue."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Construction Management, Minor in Spanish",
+            "school": "Eastern Washington University",
+            "year": 2015
+        },
+        {
+            "degree": "Diploma",
+            "school": "Colegio Delibes",
+            "year": 2015
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

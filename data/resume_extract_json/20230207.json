@@ -1,0 +1,98 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Creative and caring leader who has earned trust and respect from students, colleagues and administration for 11+ years.",
+    "skills": [
+        "Student Centered Classroom Instruction",
+        "Creative Lesson Planning and Curriculum Development",
+        "Active Listening",
+        "Assessments",
+        "Motivating Students and Classroom Management",
+        "Develop Positive Relationships with Students, Parents and Staff",
+        "Community and Family Involvement",
+        "Leadership",
+        "Organization",
+        "Recruiting",
+        "Professional Development",
+        "Administrative",
+        "Brochures",
+        "Budgets",
+        "Conferences",
+        "Hiring",
+        "Instructing",
+        "Director",
+        "Managing",
+        "Marketing",
+        "Meetings",
+        "Motivating",
+        "Organizing",
+        "Reporting",
+        "Safety",
+        "Supervising",
+        "Training Programs",
+        "Workshops/Seminars",
+        "Fundraising",
+        "Relationship Building",
+        "Community Involvement"
+    ],
+    "experience": [
+        {
+            "title": "Art Teacher",
+            "company": "Company Name",
+            "start_date": "2012-09",
+            "end_date": "2015-06",
+            "description": "Planning, implementing and evaluating art curriculum for students of all levels. Giving directions and explanation related to lessons. Providing feedback, assessing and evaluating students throughout the lesson. Communicating with students and parents on student's progress, behavior and work habits. Managing disruptive behavior inside the classroom. Participating in professional growth opportunities and collaborating with staff or colleagues."
+        },
+        {
+            "title": "Community Education Director",
+            "company": "Company Name",
+            "start_date": "2006-08",
+            "end_date": "2015-06",
+            "description": "Providing administrative leadership to all Fund 04 programs such as ECFE, School Readiness, Youth and Adult Enrichment, Adults with Disabilities and Support Groups, GED Testing, Adult Basic Education, Aquatics, and Early Childhood Screening Developing and monitoring all Fund 04 revenues and expenditures. Hiring and supervising all Community Education staff. Providing leadership to Community Education Advisory Board. Supervising Community Education activities; organizing programs and services (both short and long term); recruiting, assigning, and reviewing staff. Coordinating fall, winter, spring, and summer Community Education brochures; marketing. Preparing annual state Community Education reports; Maintaining accurate and timely reporting to MDE. Attending workshops and seminars to benefit Community Education."
+        },
+        {
+            "title": "Student Council Advisor",
+            "company": "Company Name",
+            "start_date": "2005-08",
+            "end_date": "2015-06",
+            "description": "Supervising students in grades 7-12 who serve on student government. Planning and implementing community service projects and fundraisers. Coordinating and supervising school activities, pep fests, dances, etc. Administering weekly meetings. Assisting with elections and scholarship applications. Attending NE Division Meetings and the State Convention."
+        },
+        {
+            "title": "Enrichment & Pool Coordinator",
+            "company": "Company Name",
+            "start_date": "2005-08",
+            "end_date": "2015-06",
+            "description": "Supervising the Pool, Lifeguards, Water Safety Instructors, and Swim Lessons. Planning and developing courses, programs and services for Supervising the Pool, Lifeguards, Water Safety Instructors, and Swim Lessons. Planning and developing courses, programs and services for youth and adults. Participating in professional conferences, training programs, and continuing education as required. Identifying local interests and needs for youth and adults. Recruiting instructors and evaluating courses. Instructing after-school enrichment courses for youth."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's Degree: Curriculum and Instruction",
+            "school": "University of St. Thomas",
+            "year": 1996
+        },
+        {
+            "degree": "Bachelor of Science: Art Education K-12",
+            "school": "St. Cloud State University",
+            "year": 1992
+        },
+        {
+            "degree": "Graduate Level Art Courses",
+            "school": "Moorhead State University",
+            "year": 1989
+        },
+        {
+            "degree": "Graduate Level Art Courses",
+            "school": "University of Minnesota",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Community Education Directors Licensure",
+        "MN Teaching Licensure in K-12 Art Education",
+        "Curriculum and Instruction Licensure"
+    ],
+    "languages": []
+}

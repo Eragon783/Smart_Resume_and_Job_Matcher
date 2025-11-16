@@ -1,0 +1,64 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "IT support specialist with experience across multiple disciplines including technical support, customer service, computer repair, and military service. I am hard working, willing to learn, team oriented, and comfortable working independently as well.",
+    "skills": [
+        "Active Directory",
+        "Hardware",
+        "Customer Service",
+        "inventory management",
+        "logistics",
+        "Mac",
+        "Windows",
+        "Problem Solving",
+        "receiving",
+        "Research",
+        "shipping",
+        "software installation",
+        "technical support",
+        "User Training",
+        "phone",
+        "troubleshooting"
+    ],
+    "experience": [
+        {
+            "title": "Geek Squad Agent",
+            "company": "Geek Squad",
+            "start_date": "August 2014",
+            "end_date": "October 2016",
+            "description": "Provided technical support in person and over the phone. Performed hardware and software installation and repair. Refurbished and setup PCs and peripheral devices."
+        },
+        {
+            "title": "Shipping & Receiving Associate",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "January 2014",
+            "description": "Performed shipping and receiving of product. Assisted with inventory management. General logistics and warehouse duties."
+        },
+        {
+            "title": "Assembler/Shipping & Receiving Associate",
+            "company": "Company Name",
+            "start_date": "January 2009",
+            "end_date": "January 2012",
+            "description": "Assembled and tested tanks according to specifications. Maintained inventory of tools and supplies. Performed shipping and receiving duties."
+        },
+        {
+            "title": "Aviation Electrician",
+            "company": "Company Name",
+            "start_date": "January 2005",
+            "end_date": "January 2009",
+            "description": "Performed troubleshooting and maintenance of aircraft. Performed ground handling and marshalling of aircraft. Performed daily safe for flight inspections."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S : Computer & Information Technology",
+            "school": "Purdue University",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,71 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior design professional with architecture and interior design experience in retail and hospitality. Proficient in AutoCAD, MicroStation, and Adobe Creative Suite. Experienced in creating design proposals, presentation drawings, and construction documents, and in coordinating multidisciplinary teams across multiple projects.",
+    "skills": [
+        "AutoCAD R14",
+        "AutoCAD 2000",
+        "Aperture v.5.0",
+        "Microstation 7.1",
+        "Adobe Illustrator",
+        "Photoshop 6.0",
+        "Excel",
+        "Word",
+        "Interior design",
+        "HVAC",
+        "Mechanical",
+        "Design and construction",
+        "Cost analysis",
+        "Proposals",
+        "Presentations",
+        "Renovation",
+        "Retail design",
+        "Construction documents",
+        "Project management",
+        "Shop drawings",
+        "Marketing material",
+        "Lighting",
+        "Surveys"
+    ],
+    "experience": [
+        {
+            "title": "Job Captain Designer",
+            "company": "Company Name, City, State",
+            "start_date": "12/2002",
+            "end_date": "Present",
+            "description": "Worked independently and with other staff to produce high-quality design proposals, presentation drawings and construction documents for retail and hospitality clients. Selected projects included Steiff Toy Company (prototype store in Greater Boston), Stride-Rite (renovation and future roll-out design), and Sodexho (cafeteria and food concessions renovations at multiple college campuses)."
+        },
+        {
+            "title": "Project Manager Designer",
+            "company": "Company Name, City, State",
+            "start_date": "04/2000",
+            "end_date": "10/2002",
+            "description": "In-house architecture and interior design consultant for Fidelity Investments. Collaborated with domestic and international firms on all stages of design and construction. Coordinated information flow between disciplines, prepared design presentations and marketing materials. Researched building technologies, finishes, and cost analysis; maintained design library and scheduled product presentations and learning credits for staff. Selected projects included Seaport Hotel & Health Club renovations, Fidelity Broadband Group office renovation, and 39 Eaton Place, London residence renovation."
+        },
+        {
+            "title": "Designer",
+            "company": "Company Name, City, State",
+            "start_date": "09/1998",
+            "end_date": "04/2000",
+            "description": "Worked independently and in a team on all design stages, collaborated on construction documents, reviewed shop drawings, attended job meetings, and developed construction/design details for client presentations. Selected projects included Brighton Landing, Cutler Lake Corporate Center, EMC training complex & cafeteria, and Fidelity Foundation conference center restoration."
+        },
+        {
+            "title": "Designer",
+            "company": "Company Name, City, State",
+            "start_date": "06/1997",
+            "end_date": "09/1998",
+            "description": "Collaborated on construction documents, developed construction/design details, attended job meetings, performed field surveys, and prepared client presentations. Managed construction supervision. Selected projects included Physicians Health Services office complex, Playtex Products office renovation & expansion, and OCI Chemical office renovation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Architecture",
+            "school": "Tulane University School of Architecture",
+            "year": "1997"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

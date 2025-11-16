@@ -1,0 +1,88 @@
+{
+    "name": "C. Melnick",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Business focused professional with a passion for healthcare and patients. Leverage experience and expertise to help businesses execute on their strategic initiatives. Experience in managing experience design and human-centered focused projects, strategy planning, logistical planning and execution, strategic change management, corporate communications, project management, and learning design. Known for an innate ability to diagnose problems and develop creative solutions tailored for each organization. Extensive experience leading teams and developing team members at varying levels in their career, as well as being able to work in complex organizations.",
+    "skills": [
+        "go-live",
+        "approach",
+        "benefits",
+        "budget",
+        "business development",
+        "change management",
+        "contracts",
+        "corporate communications",
+        "client",
+        "delivery",
+        "features",
+        "finance",
+        "human resources",
+        "HR",
+        "leadership",
+        "marketing",
+        "materials",
+        "messaging",
+        "office",
+        "organizational",
+        "POS",
+        "program development and implementation",
+        "project management",
+        "recruitment",
+        "research",
+        "staffing",
+        "strategy",
+        "strategic",
+        "surveys",
+        "trainer",
+        "unique",
+        "vision"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "09/2015",
+            "end_date": "Current",
+            "description": "Led experience design initiatives for major clients including a National Audit Firm; identified gaps, improved productivity, and rolled out a new service desk. Managed client relationships and final deliverables. Led corporate communications for a National Healthcare Insurer to promote awareness and adoption of an upcoming implementation, including pulse checks and executive interviews to gauge engagement. Led an organizational change management assessment for a National Healthcare Insurer with a research-based analysis and multi-year roadmap. Directed change management, communications, and project management work streams for a Global Pharmaceutical Organization, developing a strategic change strategy and global communications plan and measuring readiness through surveys and interviews."
+        },
+        {
+            "title": "Senior Consultant",
+            "company": "Company Name",
+            "start_date": "02/2013",
+            "end_date": "08/2015",
+            "description": "PM for Time and Capability Assessment for National Healthcare Provider: created activity survey for 60+ employees; developed a skills assessment for the CFO and direct reports; managed project work plan and supported a business partner model transition. Regional Healthcare Provider: led the development and implementation of a strategic change management, communications, staffing, and recruitment strategy for a re-organization under the CFO; supported the Finance Business Partner Model implementation. National Pharmacy: Change Management and Communications Site Lead for the Mid-Atlantic during a Pharmacy transformation; planning, development, and management of a comprehensive national communications strategy; supported internal communications and quantified training impact for 5k+ employees; supported go-live activities including daily communications to c-suite, executive leadership, and impacted users. Regional Healthcare Provider: Change Management and Communications lead during an Epic implementation spanning 5 locations across a regional health system; created dynamic communications to promote engagement, awareness, and adoption; utilized metrics to understand readiness, impact, and adoption rates; organized training simulations to ensure Day 1 readiness. Global Pharmaceutical Organization: Training lead for global Workday implementation; created a training strategy capturing needs of different cultures and maturity within the organization; partnered with the global learning team to translate materials into 9 languages and built a global train-the-trainer program that was self-sustaining."
+        },
+        {
+            "title": "HR Development Associate",
+            "company": "Company Name",
+            "start_date": "03/2010",
+            "end_date": "01/2013",
+            "description": "HR Dashboard - creation and implementation. Project Manager for a team of 14; collaborated with corporate communications to develop and execute a communications plan; trained nine C-suite executive leaders on functionality and features; managed executive leadership relationships and acted as a conduit for the CHRO's vision of the tool. Applicant Tracking System selection and implementation - Project Manager for a team of 12; partnered with IT to create the project charter, requirements document, and project budget; created project organizational chart, risk and governance guidelines and escalation process; collaborated with HR, Finance, and IT leaders to gain executive approval; built and executed the implementation plan and roadmap; developed and executed the change management plan; partnered with L&D to create a training program. Borderless Forest, a flexible work program - development and implementation; created a flexible work program pilot; worked with c-suite executives and direct reports for buy-in and support; led the rollout of the pilot and collected feedback to review with the c-suite for overall program approval; developed and executed a change management and communications plan, collaborating with the communications team."
+        },
+        {
+            "title": "Director of Business Development and Operations",
+            "company": "Company Name",
+            "start_date": "08/2000",
+            "end_date": "12/2007",
+            "description": "Business Development - Oversaw restaurant investment expansion from 3 to 90+ locations in three states over five years. Took the business from red to black in less than one year. Cultivated relationships with chefs, venture capitalists and vendors; provided expertise in FOH/BOH flow and design, marketing, menu development, staff selection, training, opening night launch and post-open follow-up. Operations - Ensured all IT, POS systems reported and captured metrics; forecasted and planned future events to ensure staffing, supplies, equipment and resources were appropriate and cost effective. Managed office operations including ordering supplies, managed relationships with vendors, and negotiated new contracts. Sourced and recruited over 450 employees for company office and restaurant division."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration in Marketing and Organizational Management",
+            "school": "Baruch College, Zicklin School of Business",
+            "year": 2010
+        },
+        {
+            "degree": "Bachelor of Science in Business Management and Justice Studies",
+            "school": "Arizona State University",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        "Prosci Change Management Certification (2012)",
+        "PHR - Professional in Human Resources (PHR) Certification (2012)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,90 @@
+{
+    "name": "Debra Eaton",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Highly skilled and experienced educator with a strong background in information technology. Adept at addressing the needs of a variety of learners and administrators. Strongly knowledgeable about all approaches to distance learning.",
+    "skills": [
+        "Adobe Captivate",
+        "Media Encoder",
+        "Reader",
+        "Microsoft Excel",
+        "Internet Explorer",
+        "Media Player",
+        "Outlook",
+        "Paint",
+        "PowerPoint",
+        "SharePoint",
+        "Skype",
+        "Visio",
+        "Word",
+        "Google Chrome",
+        "Docs",
+        "Drive",
+        "Forms",
+        "Gmail",
+        "Sheets",
+        "IBM DB2",
+        "SQL",
+        "Stored Procedures",
+        "Kenexa",
+        "Apple iMovie",
+        "Dayana Networks Voice Record Pro",
+        "SAP Success Factors",
+        "Tech Smith Snag It",
+        "VMWare",
+        "YouTube",
+        "C",
+        "HTML",
+        "Javascript"
+    ],
+    "experience": [
+        {
+            "title": "E-LEARNING DESIGNER",
+            "company": "Company Name",
+            "start_date": "2015-07",
+            "end_date": "Present",
+            "description": "Led design, development and project management of education teams for 501(r) regulatory compliance curriculum; developed learning objectives, content analysis, storyboarding, interactive design, testing, scheduling, instructional design and development. Also led initiatives for Patient Safety with similar scope; analysed and tested e-learning processes for new LMS and authoring tools (pretest, posttest, curriculum, SCORM, feedback surveys); designed and implemented SharePoint training resources and knowledge center; created How-To videos for SharePoint video channel."
+        },
+        {
+            "title": "INSTRUCTIONAL DESIGNER",
+            "company": "Company Name",
+            "start_date": "2009-05",
+            "end_date": "2015-06",
+            "description": "Gathered requirements, managed budgets, designed and developed curriculum; managed eLearning and ILT delivery; planned and executed US and international training; measured training effectiveness; integrated technology; ensured quality content; applied instructional pedagogy and adult learning theories; used eLearning authoring tools and techniques."
+        },
+        {
+            "title": "TRAINER",
+            "company": "Company Name",
+            "start_date": "1991-01",
+            "end_date": "2009-04",
+            "description": "Designed, developed, authored, delivered and implemented training for data and security software; project managed with stakeholders and subject matter experts; created learning objectives, content and assessments; designed courses for classroom, web, print, conferences; managed proposals, schedules, resources and tasks; served as editor, subject matter expert, class manager, trainer and class administrator."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Instructional Design and Technology",
+            "school": "Western Illinois University",
+            "year": 2015
+        },
+        {
+            "degree": "Master of Science in Computer Science",
+            "school": "DePaul University",
+            "year": 1994
+        },
+        {
+            "degree": "Bachelor of Science in Facilities Planning and Management",
+            "school": "Pennsylvania State University",
+            "year": 1984
+        }
+    ],
+    "certifications": [
+        "IBM Database",
+        "IBM Application Development",
+        "IBM Technology Expert",
+        "NIH Protecting Human Research Participants"
+    ],
+    "languages": [
+        "English"
+    ]
+}

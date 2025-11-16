@@ -1,0 +1,49 @@
+{
+    "name": null,
+    "email": null,
+    "phone": "1-866-990-6637",
+    "location": "City, State",
+    "summary": "A dedicated Teacher and Marine Corps Veteran experienced in many different working environments, I am accustomed to leading coworkers in both large and small teams to create innovative solutions. Highlights Experience working special needs students Knowledgeable in distance learning techniques Goal Setting Strong communication skills MS Office Deadline-oriented Employee training and development",
+    "skills": [
+        "Experience working with special needs students",
+        "Distance learning techniques",
+        "Goal setting",
+        "Strong communication skills",
+        "MS Office",
+        "Deadline-oriented",
+        "Employee training and development"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name City , State",
+            "start_date": "August 2007",
+            "end_date": "December 2016",
+            "description": "Teaching a variety of asynchronous courses (Law, Government, Algebra, Sociology, Pennsylvania History, Political Science) to all students across multiple schools in multiple states. Create and implement individualized academic plans for gifted students as well as students with disabilities. Create new courses for delivery via multiple LMS Platforms to client schools (to include all content and assessments). As Department Chair duties included leading a team of 8 teachers while maintaining a high level of professionalism and technical proficiency, training new teachers and maintaining appropriate records. As SAP coordinator duties included identifying and communication to the appropriate team members those student behaviors that presented a threat to student learning and ensuring at-risk students were connected with relevant social services."
+        },
+        {
+            "title": "Appraisal Coordinator",
+            "company": "Company Name City , State",
+            "start_date": "April 2006",
+            "end_date": "July 2007",
+            "description": "Manage process of national real estate appraisals. Facilitate communication between appraisers, lenders, buyers, and sellers. Maintain records of all actions taken from incoming orders through to acceptance of appraisal documents and loan closing. Troubleshoot the process via phone contact and email."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Instructional Leadership",
+            "school": "Robert Morris University",
+            "year": 2009
+        },
+        {
+            "degree": "Bachelor of Arts: Social Studies",
+            "school": "Robert Morris University",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        "PA Level I Teacher Certification - Social Studies",
+        "PA Level I Teacher Certification - Middle Level Mathematics"
+    ],
+    "languages": []
+}

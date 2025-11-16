@@ -1,0 +1,141 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Seasoned healthcare executive and consultant with over 40 years of clinical and nonclinical experience in EMS, emergency department operations, home health, and regulatory affairs. Proven leader in building and managing large teams, developing policies and procedures, and driving CQI/quality improvement. Board experience with leading EMS associations; extensive experience with accreditation, licensing, and workforce development.",
+    "skills": [
+        "Ambulance",
+        "Basic",
+        "conflict resolution",
+        "CPR",
+        "Documentation",
+        "Human Resources",
+        "Management Training",
+        "Office",
+        "Nursing",
+        "Publications",
+        "Radio",
+        "Staffing",
+        "Supervision",
+        "Systems development",
+        "Technician"
+    ],
+    "experience": [
+        {
+            "title": "Travel Nurse (ED)",
+            "company": "Readylink Healthcare",
+            "start_date": "2003",
+            "end_date": "2005",
+            "description": "Travel nurse assignments on ED contracts; Sarah Bush Lincoln Healthcare, Mattoon, IL; rural trauma and medical services."
+        },
+        {
+            "title": "Travel Nurse (ED)",
+            "company": "Agostini and Associates",
+            "start_date": "2004",
+            "end_date": "2004",
+            "description": "ED contract at Mercy Merced Medical Center, Merced, CA; ED nurse for high acuity and census."
+        },
+        {
+            "title": "Resource Nurse (ED)",
+            "company": "Provena Covenant Medical Center",
+            "start_date": "2002",
+            "end_date": "2004",
+            "description": "Resource nurse; support services to all hospital departments; performed difficult procedures including PICCs; ED responsibilities."
+        },
+        {
+            "title": "Nursing Director",
+            "company": "St. Margaret Mercy Hospital(s)",
+            "start_date": "2001",
+            "end_date": "2002",
+            "description": "Oversight of operations between two hospitals; EDs, ICUs, CCUs, NICUs, PICUs; psychiatric facility; staffing challenges and census management."
+        },
+        {
+            "title": "ED Nurse / Supervisor / ED Registry",
+            "company": "St. Margaret Mercy Hospital(s) / Others",
+            "start_date": "1976",
+            "end_date": "1998",
+            "description": "Emergency Department nursing roles, supervision, and ED registry responsibilities."
+        },
+        {
+            "title": "Director of EMS/Education/Human Resources and National Affairs",
+            "company": "Daley's Ambulance/Co*Med Transport",
+            "start_date": "1975",
+            "end_date": "2001",
+            "description": "Developed personnel, education, public relations, and employee health; established specialized Critical Care Transport and Nurse Teams; grew company from 150 to 1000 employees; authored policies; implemented infection control; CQI programs; OSHA compliance."
+        },
+        {
+            "title": "EMS Director / Instructor",
+            "company": "Porter Memorial Hospital",
+            "start_date": "1982",
+            "end_date": "1985",
+            "description": "Oversight of EMS system operations, ED and EMS education; Paramedic and EMT programs; continuing education; policy development."
+        },
+        {
+            "title": "Firefighter/Paramedic/Diver",
+            "company": "Crete, Glenwood, and Cornbelt Fire Departments",
+            "start_date": "1974",
+            "end_date": "2005",
+            "description": "Intermittent roles in firefighting, paramedic duties, and diving activities."
+        },
+        {
+            "title": "Consultant",
+            "company": "Independent / Professional Experience",
+            "start_date": "1999",
+            "end_date": "Current",
+            "description": "Operations and systems development; OSHA and regulatory issues; startup EMS providers; HBV/TB vaccinations; staffing and patient care."
+        },
+        {
+            "title": "Assistant Director of Nursing",
+            "company": "Mercy Home Health",
+            "start_date": "2010",
+            "end_date": "Current",
+            "description": "Provided Home Health to patients; infusion therapy; supervision of nursing staff; case management."
+        },
+        {
+            "title": "Travel Nurse",
+            "company": "Mercy Home Health",
+            "start_date": "2014-04",
+            "end_date": "2014-07",
+            "description": "Travel nurse; supervised ancillary staff; home health to patients in the Oklahoma City region."
+        },
+        {
+            "title": "Coordinator",
+            "company": "Illinois Department of Public Health (IDPH) Office of Preparedness and Response, Regional EMS",
+            "start_date": "2005",
+            "end_date": "2009",
+            "description": "Regulatory oversight for Trauma Centers, EMS and ED; site visits, investigations, licensing, inspections; disaster preparedness and response planning."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Health Administration",
+            "school": "Governors State University",
+            "year": ""
+        },
+        {
+            "degree": "BSN",
+            "school": "Valparaiso University",
+            "year": "1988"
+        },
+        {
+            "degree": "Emergency Medical Technician",
+            "school": "Prairie State College",
+            "year": "1978"
+        }
+    ],
+    "certifications": [
+        "Advanced Cardiac Life Support",
+        "Pediatric Advanced Life Support",
+        "Basic Trauma Life Support",
+        "Domestic Preparedness Certificate",
+        "Pediatric Education for Prehospital Professionals (PEPP)",
+        "CPR Certification",
+        "National Incident Management System (NIMS) Basic",
+        "MTI (Management Training Institute), Texas A&M",
+        "Paramedic (AAA)",
+        "Amateur Radio License",
+        "PADI Open Water Scuba Certification"
+    ],
+    "languages": []
+}

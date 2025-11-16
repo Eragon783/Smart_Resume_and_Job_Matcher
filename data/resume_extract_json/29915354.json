@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Experienced and innovative Digital Media Producer with expertise in video production, as videographer, sound recordist, editor and post-production artist. Able work autonomously or collaborate with a team to produce highest quality production standards. Passion for constantly learning, developing and sharing new video skills with colleagues.",
+    "skills": [
+        "Video production",
+        "Videography",
+        "Sound recording",
+        "Sound mixing",
+        "Video editing (Adobe Premiere Pro)",
+        "Post-production",
+        "Aerial imaging / drone piloting",
+        "Directing on-camera talent",
+        "Animated titles and VFX",
+        "Photoshop",
+        "Illustrator",
+        "After Effects",
+        "Storyboarding",
+        "Public speaking",
+        "Writing, spelling, grammar, punctuation",
+        "Communication",
+        "Available for international travel",
+        "Problem solving",
+        "Troubleshooting",
+        "Color correction",
+        "Lighting"
+    ],
+    "experience": [
+        {
+            "title": "Digital Media Producer",
+            "company": "Company Name",
+            "start_date": "2010-05",
+            "end_date": "Current",
+            "description": "Produced video and audio content to the highest quality production standards to promote clients' objectives, and bring their stories to life, including content for corporate applications, web sites, education, commercials, and other applications. Maintained awareness of developing technologies and best practices for media production; interacted with clients, providing excellent customer service. Maintained library of digital assets."
+        },
+        {
+            "title": "Teaching Assistant / Computer Lab Technician",
+            "company": "Company Name",
+            "start_date": "2009-09",
+            "end_date": "2010-05",
+            "description": "Assisting Professor Philip Palombo, served as teaching assistant for a freshman class in video production and editing; Led discussions, screened relevant videos, and hands-on assisted them in the lab. Also served as the Computer Lab Tech during that time, troubleshooting problematic computers and software in use."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts: Digital Media Production/Communications",
+            "school": "Rhode Island College",
+            "year": "2010"
+        },
+        {
+            "degree": "Animation & Adobe After Effects",
+            "school": "Independent Study with Mentor",
+            "year": "2010"
+        },
+        {
+            "degree": "Advanced Video Editing",
+            "school": "Apple - NYC",
+            "year": "2009"
+        },
+        {
+            "degree": "Continuing Education: Video Production & Technology",
+            "school": "Rule Boston Camera",
+            "year": "2008"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,93 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior Vice President of Global Information Technology with global responsibility for IT strategy, delivery, and operations. Experienced in managing large-scale ERP implementations, M&A IT integration, cross-cultural teams, and building high-availability infrastructure. Proven ability to align IT initiatives with business objectives, improve process efficiency, reduce costs, and drive strategic reporting and governance through enterprise-wide data and reporting models.",
+    "skills": [
+        "Strategic Planning",
+        "Results-Oriented",
+        "Self-Motivated",
+        "Customer-Oriented",
+        "Project and Program Management",
+        "Change Implementation",
+        "Team Leadership",
+        "Time and Resources Optimization",
+        "Business requirements analysis",
+        "Gap/fit analysis",
+        "Solution design",
+        "Development and deployment of application solutions",
+        "Technology Architecture",
+        "24/7 technology infrastructure",
+        "High-availability and disaster recovery",
+        "Risk assessment and mitigation",
+        "Data analysis and reporting",
+        "IT governance and steering committees",
+        "Project Lifecycle Management",
+        "Analytical capabilities",
+        "Leadership"
+    ],
+    "experience": [
+        {
+            "title": "Senior Vice President of Global Information Technology",
+            "company": "Company Name",
+            "start_date": "2004-06",
+            "end_date": "Present",
+            "description": "Responsible for all aspects of information technology globally with a staff of 70. Eliminated high dependency on consulting firms supporting an ERP system globally by developing, hiring and mentoring adequate IT staff resulting in significant annual savings. Key member of the M&A IT integration team, planning and delivering acquisitions through system migrations and technology integration. Delivered a single global suite of applications with seamless integration, formed IT Steering Committee for strategic planning, deployed reliable, scalable, fault-tolerant infrastructure, and provided high-availability networks across the globe with cost savings."
+        },
+        {
+            "title": "Director of Information Technology",
+            "company": "Company Name",
+            "start_date": "2002-01",
+            "end_date": "2004-06",
+            "description": "Managed a large ERP implementation project and the technical infrastructure for a large distributor. Led a team of 20 IT professionals, delivered Oracle applications on time, restructured infrastructure to support ERP across US locations, deployed real-time customer-facing web applications, implemented wireless inventory control, and developed a new technical support model with overseas training for Oracle implementations."
+        },
+        {
+            "title": "Practice Director",
+            "company": "Company Name",
+            "start_date": "1995-01",
+            "end_date": "2002-01",
+            "description": "Managed projects ranging from $500K to $10M with an average budget savings of 20% under estimate and ahead of schedule. Coordinated and managed a practice of 22 consultants, prepared RFP responses for large-scale implementations, performed full lifecycle project management, and contributed to Oracle's business development, participating in over $24M of new contracts."
+        },
+        {
+            "title": "Information Systems Director",
+            "company": "Company Name",
+            "start_date": "1993-01",
+            "end_date": "1995-01",
+            "description": "Managed business applications and technical infrastructure for a 2,800-employee manufacturing and distribution company. Negotiated contracts, directed budgets up to $8M, implemented Oracle Financials, and deployed manufacturing applications to improve supply chain performance."
+        },
+        {
+            "title": "Information Systems Director",
+            "company": "Company Name",
+            "start_date": "1990-01",
+            "end_date": "1993-01",
+            "description": "Supported corporate-wide technology projects; led MAPICS implementation and EDI integration; developed and deployed bar code labeling systems and inventory control improvements."
+        },
+        {
+            "title": "Information Systems & Technology Manager",
+            "company": "Company Name",
+            "start_date": "1985-01",
+            "end_date": "1990-01",
+            "description": "Managed IT function, directed ERP selection and implementation (MANMAN MRPII); developed Pull Material System and Kanban replenishment; implemented bar code labeling for shipping/receiving and compliance with customer standards."
+        },
+        {
+            "title": "Senior Systems Analyst",
+            "company": "Company Name",
+            "start_date": "1984-01",
+            "end_date": "1985-01",
+            "description": "Implemented retail industry best practices; developed replenishment, pricing, promotions, and sales forecasting systems for a large supermarket chain."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Computer Science",
+            "school": "University of Texas at El Paso",
+            "year": 1983
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Executive Profile: Accomplished professional with demonstrated ability to deliver strategic internal and external communications. Experienced in hospitality industry. Highly-skilled in event creation, oversight and management, as well as all aspects of media relations.",
+    "skills": [
+        "Exceptional leadership/communication skills",
+        "Creative pitching",
+        "Promotional campaigns",
+        "Experienced spokesperson",
+        "Event management",
+        "International relations",
+        "Project management",
+        "Market research and analysis",
+        "Copywriting and copyediting",
+        "Customer-oriented",
+        "Deadline-driven",
+        "MS Office",
+        "Social media platforms",
+        "HTML basics",
+        "Dreamweaver",
+        "Public relations",
+        "Advertising"
+    ],
+    "experience": [
+        {
+            "title": "Independent Public Relations Consultant",
+            "company": "Company Name",
+            "start_date": "January 2009",
+            "end_date": "Present",
+            "description": "Provide full public relations services for nearly 20 for and non-for-profit businesses and organizations through the quad-county area. Services include: Identifying customer needs through market research and analysis. Defining project and company vision, strategies and tactics. Research and tracking advertising and public relations activities. Evaluating and managing new strategic business opportunities. Expanding product and company recognition in the national and local press to support the sales and marketing teams. Creating and managing special events to draw customers and media attention. Establishing and maintaining cooperative relationships with representatives of community, consumer, employee and public interest groups. Organizing public appearances, lectures, contests and exhibits to increase product awareness. Designing web and other content, including monthly newsletters and promotional calendars. Developing and implemented 5-10 public relations business plans each year. Working with management to identify trends and developments that might influence PR decisions and strategies. Establishing long-range objectives and developed innovative strategies to help achieve them. Cultivating positive relationships with the community through public relations campaigns. Generating programming capital for the agency by planning and coordinating fundraisers, writing grant proposals and securing volunteer investments. Managing all media, press and public relations issues. Coaching less experienced public relations staff members on media relations practices."
+        },
+        {
+            "title": "Director of Marketing, PR and Special Events",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": "Present",
+            "description": "Managed online and print advertising budgets up to $100,000. Identified customer needs through market research and analysis. Oversaw and assisted in developing two new websites and all social media strategies. Oversaw and managed all private and public events, coordinating with catering and entertainment. Served as organization spokesperson for media and the community. Organized, planned and implemented press conferences for new openings, groundbreaking, capital campaign and scientific breakthroughs. Designed, drafted and distributed public information materials and quarterly newsletters and e-blasts. Implemented creative, press-worthy events for the public and increased exposure, resulting in more than 40 feature hits across all media outlets per year, and increased visitation each year. Researched, negotiated, implemented and tracked advertising and public relations activities. Represented the Museum on all tourism and hospitality committees including the Palm Beach County Attractions Association, CVB, Tourist Development Council, Florida's Governors Conference on Tourism, VisitFlorida and Palm Beach County Cultural Council, resulting in regular coverage from national and international travel writers. Trained all employees on VIP and media etiquette. Coordinated all VIP, celebrity and donor visits. Pitched location shoots to visiting and local film industry to garner increased exposure. Implemented marketing and public relations initiatives to drive attendance, resulting in an increased operations budget from $500k to more than $2 million within ten years."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Organizational Management",
+            "school": "Palm Beach Atlantic University",
+            "year": "1999"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Conversational Spanish",
+        "elementary Mandarin"
+    ]
+}

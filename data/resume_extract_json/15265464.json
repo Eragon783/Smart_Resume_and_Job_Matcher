@@ -1,0 +1,77 @@
+{
+    "name": "Nicole Harrison Peters",
+    "email": "Nic_Harrison@aol.com",
+    "phone": "732-513-7727",
+    "location": "City, State",
+    "summary": "Demonstrated ability to design developmentally appropriate lessons and activities allowing integration of all learning styles. Highly educated in differentiated classrooms. Determined to maximize the educational achievement of each student. Trained in Developmental Reading Assessments, Common Core Standards, Standard Solutions, Wonders, Anti-Bullying.",
+    "skills": [
+        "Differentiated instruction",
+        "Developmental Reading Assessments",
+        "Common Core Standards",
+        "Technology integration: Word, PowerPoint, Smart Notebook, Achieve3000",
+        "Smart Board / Smart Notebook",
+        "I-Pads",
+        "Computer lab",
+        "Running records",
+        "Progress monitoring",
+        "Lesson planning",
+        "Small group and individualized instruction",
+        "Positive behavior management",
+        "Parent communication"
+    ],
+    "experience": [
+        {
+            "title": "Intervention Specialist Teacher of Math and Language Arts",
+            "company": "Company Name, City, State",
+            "start_date": "October 2013",
+            "end_date": "May 2014",
+            "description": "Hard-working and organized. Identified students with substantial academic difficulties through Developmental Reading Assessments and consultation with staff. Developed differentiated lesson plans and selected instructional materials to reach individualized goals. Created and implemented creative lessons aligned to the Common Core with differentiation. Used Smart Board technology and computers to enhance lessons. Conducted progress monitoring, small group and individual activities, and evaluated student growth. Led a basic skills class of 5-7 students from a pool of 37."
+        },
+        {
+            "title": "2nd Grade Replacement Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "January 2013",
+            "end_date": "August 2013",
+            "description": "Implemented positive behavior management using the color system. Designed differentiated Common Core lesson plans and activities to meet diverse learner needs. Enhanced lessons with Smartboard technology, I-Pads, and computer lab. Assessed student growth through informal and formal assessments. Maintained positive collaboration and communication with parents via newsletters, progress updates, emails, and conferences. Attended in-services and staff meetings, maintaining strong relationships with staff and administrators."
+        },
+        {
+            "title": "Student Teacher Grade 1 Inclusive Classroom",
+            "company": "Company Name, City, State",
+            "start_date": "September 2012",
+            "end_date": "December 2012",
+            "description": "Established and communicated clear objectives for lessons, units, and projects to students and parents. Enhanced lessons using Smart Board technology and computers. Promoted language development through reading and storytelling. Encouraged empathy and understanding of others. Conducted small group and individual activities tailored to differentiated learning needs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Psychology",
+            "school": "Georgian Court University",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Arts in Education",
+            "school": "Brookdale Community College",
+            "year": 2009
+        },
+        {
+            "degree": "Associate of Applied Science in Fashion Merchandising",
+            "school": "Brookdale Community College",
+            "year": 2007
+        },
+        {
+            "degree": "NJ Teacher Certification: Elementary Education (K-6)",
+            "school": "Georgian Court University",
+            "year": 2012
+        },
+        {
+            "degree": "Endorsement: Teacher of Students with Disabilities",
+            "school": "Georgian Court University",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        "NJ Teacher Certification: Elementary Education (K-6) — 2012",
+        "Endorsement: Teacher of Students with Disabilities — 2012"
+    ],
+    "languages": []
+}

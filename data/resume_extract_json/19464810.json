@@ -1,0 +1,113 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly organized and detail-oriented Administrative Professional with more than 10 years experience supplying thorough, organized administrative support to senior executives.",
+    "skills": [
+        "Filing and data archiving",
+        "Employee training and development",
+        "Critical thinker",
+        "Microsoft Office (Excel, Publisher, PowerPoint, Word)",
+        "Multi-line phone proficiency",
+        "Advanced clerical knowledge",
+        "Invoice processing",
+        "Accounting familiarity",
+        "Appointment setting",
+        "Social media knowledge",
+        "Works well under pressure",
+        "Excellent planner and coordinator",
+        "Accurate and detailed",
+        "Customer service-oriented",
+        "Articulate and well-spoken",
+        "Database management",
+        "Teaching/tutoring",
+        "Technological instruction",
+        "Effective time management"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "2013-08",
+            "end_date": "Present",
+            "description": "Develop and implement engaging, effective, student-centered lessons in Reading, Phonics, Math, Science, Social Studies, Writing, and Language Arts. Use activities, songs/raps, and materials to enhance student learning and self-esteem. Create multi-sensory literacy and content-based workstations. Conducted parent conferences, faculty and team meetings. Actively participated in activities which included assessing student progress, assigning grades, taking attendance, recess duty, and keeping parents/guardians informed through weekly progress reports/behavior charts, phone calls, and email."
+        },
+        {
+            "title": "Teacher Intern",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2013-05",
+            "description": "Develop and implement engaging, effective, student-centered lessons in all subject areas for a diverse group of second grade special and regular education students. Use activities, songs, and materials to enhance student learning and self-esteem. Designed and implemented an interactive science unit on energy. Worked collaboratively with other teachers and professionals to create effective lessons that met the learning needs and abilities of all students."
+        },
+        {
+            "title": "Legal Secretary/Office Manager",
+            "company": "Company Name",
+            "start_date": "2011-12",
+            "end_date": "2012-12",
+            "description": "Managed office supplies, vendors, organization and upkeep. Screened applicant resumes and coordinated both phone and in-person interviews. Answered and managed incoming and outgoing calls while recording accurate messages. Contacted clients to schedule appointments and discuss the progress of cases. Worked as a team with attorneys, administrative assistants and fellow legal assistants. Entered new cases into company database. Developed, organized, and maintained filing and retrieval systems and files for court proceedings. Created, indexed and maintained client binders. Assisted attorneys in collecting information such as employment, medical and other records."
+        },
+        {
+            "title": "Teller",
+            "company": "Company Name",
+            "start_date": "2010-08",
+            "end_date": "2011-03",
+            "description": "Balanced daily cash deposits and bank vault inventory with a zero error rate. Processed sales referrals and promoted bank services and products. Trained employees on cash drawer operation. Researched and resolved customer issues on accounts. Processed cash withdrawals, treasury, tax and loan payments. Reported daily averages and shortages to the management."
+        },
+        {
+            "title": "Administrative Assistant - Internship",
+            "company": "Company Name",
+            "start_date": "2009-08",
+            "end_date": "2010-05",
+            "description": "Planned, prepared and coordinated logistics, documents, and materials for board meetings, committee meetings and staff events. Answered and managed incoming and outgoing calls while recording accurate messages. Greeted and screened numerous visitors, including VIPs, vendors and interview candidates and directed them to the correct office. Coordinated, scheduled and arranged meeting and travel calendars, including business and social events."
+        },
+        {
+            "title": "Student Aide/Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2008-12",
+            "end_date": "2010-12",
+            "description": "Directed guests and routed deliveries and courier services. Screened applicant resumes and coordinated both phone and in-person interviews. Answered and managed incoming and outgoing calls while recording accurate messages. Maintained a clean reception area, including lounge and associated areas. Completed data entry, tracked resumes and maintained the applicant tracking system."
+        },
+        {
+            "title": "Accounts Receivable Administrator",
+            "company": "Company Name",
+            "start_date": "2006-06",
+            "end_date": "2008-05",
+            "description": "Facilitated successful internal and external audits through sound and thorough documentation. Monitored payments due from clients and promptly contacted clients with past due payments. Supervised invoice processing, purchase orders, expense reports, credit memos and payment transactions. Reviewed collection reports to determine the status of collections and the amounts of outstanding balances. Performed accounts receivable duties including invoicing, researching chargebacks, discrepancies and reconciliations."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2005-06",
+            "end_date": "2006-06",
+            "description": "Managed office supplies, vendors, organization and upkeep. Screened applicant resumes and coordinated both phone and in-person interviews. Answered and managed incoming and outgoing calls while recording accurate messages. Completed data entry, tracked resumes and maintained the applicant tracking system. Assessed urgency and priorities before accepting or declining appointments and meetings with the CEO. Coordinated, scheduled and arranged meeting and travel calendars, including business and social events. Coordinated board and committee meetings, including schedules and information preparation and distribution."
+        },
+        {
+            "title": "Dental Assistant",
+            "company": "Company Name",
+            "start_date": "2004-09",
+            "end_date": "2005-06",
+            "description": "Set up examination room and dental trays in preparation for examinations and procedures. Successfully assisted the dentist by performing four-handed dentistry and other chair-side duties. Accurately recorded treatment information in patient records. Competently prepared dental materials including cements, amalgams and composites. Diligently cleaned instruments and work areas in accordance with sterilization and disinfectant protocol. Successfully completed OSHA, ADA and HIPAA compliance trainings. Competently exposed, developed and mounted dental x-rays (both intraoral and extraoral)."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "2003-08",
+            "end_date": "2004-03",
+            "description": "Possess strong multitasking abilities and organizational skills to accomplish tasks in a busy environment. Effectively managed a high-volume of inbound and outbound customer calls. Answered a constant flow of customer calls with up to 150 calls in queue per minute. Addressed and resolved customer product complaints empathetically and professionally. Defused volatile customer situations calmly and courteously. Accurately documented, researched and resolved customer service issues. Met or exceeded service and quality standards every review period."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Elementary Education",
+            "school": "University of Louisiana at Lafayette",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "Louisiana Highly Qualified Teacher (Compass Score: 4)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

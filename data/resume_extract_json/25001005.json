@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Client-focused communications professional with 10 years of internal communications, marketing, and public relations experience. Committed to producing results that deliver a unique blend of creativeness, strategy, and influence to advance company goals.",
+    "skills": [
+        "Internal communications",
+        "Marketing",
+        "Public relations",
+        "Healthcare industry experience",
+        "Executive communication",
+        "Writing",
+        "Change management",
+        "Strategic communications",
+        "Social media",
+        "Campaign management",
+        "Leadership communications",
+        "Stakeholder engagement"
+    ],
+    "experience": [
+        {
+            "title": "Communications Consultant",
+            "company": "Company Name",
+            "start_date": "2017-08",
+            "end_date": "Present",
+            "description": "Provides complex communications consultation, with an emphasis on writing care delivery related content for broad internal, external and leadership audiences. Supports senior executives in high-profile speaking engagements including Kaiser Permanente's TEDx talks (10,000 livestream participants), Institute for Healthcare Improvement National Forum (5,500 attendees), and Kaiser Permanente's National Quality Conference (1,000+ attendees). Executed successful clinical product introductions by coordinating actions with social media, public relations and other internal teams. Authored materials designed to articulate Kaiser Permanente's technological advancements in Electronic Health Record systems and Clinical Libraries that help to inform clinical decision making. Built a communications function for the organization's research and development division to internally and externally elevate best clinical practices. Leads communication activities designed to promote and accelerate the use of newly available clinical technologies to physicians. Leads monthly community of practice calls bringing together communication leaders from 8 Permanente Medical Groups to share best practices, surface care delivery stories, and cross-promote resources. Serves as the national program leader in marketing strategy designed to showcase the organization's clinical advancements to large broker and employer groups. Developed platform for cross-sharing public speaking opportunities among national communications team to elevate physician executives at healthcare industry events. Led the planning, development, and execution of a change management communication strategy in support of research and development division. Serves as an advisor, strategist, and writer for senior physician executives, including the Chief Quality Officer. Develops send-all emails designed to inform, motivate, and engage more than 200,000 Kaiser Permanente employees."
+        },
+        {
+            "title": "Marketing Communications Specialist",
+            "company": "Company Name",
+            "start_date": "2015-06",
+            "end_date": "2017-08",
+            "description": "Created clear and simple communication materials that empower members and prospects to make the best care decisions possible for themselves and their families. Put together cohesive communication plans and marketing collateral in line with brand messaging and strategic objectives. Project managed first kp.org cause-based marketing campaign that outperformed established benchmarks by 125%. Led cross-functional teams to draft a variety of communication materials that help members navigate the complexities of their health plan. Served as communications consultant and strategist to 22 medical facilities on matters that impact patient care. Supported Legal department to ensure compliance with annual regulatory notifications to members."
+        },
+        {
+            "title": "Internal Communications Specialist",
+            "company": "Company Name",
+            "start_date": "2013-05",
+            "end_date": "2015-06",
+            "description": "Produced comprehensive communication materials that connected employees to strategic and operational goals. Authored weekly employee newsletter with readership of 4,600. Responsible for the creation and posting of daily content on employee intranet page. Served as lead project manager for communication of a $300 million renovation at regional medical center to reduce impact to operations. Wrote on behalf of the Regional Hospital Administrator to align employees with organizational and care delivery initiatives."
+        },
+        {
+            "title": "Public Relations Assistant",
+            "company": "Company Name",
+            "start_date": "2010-08",
+            "end_date": "2013-04",
+            "description": "Researched business needs, goals, marketing strategies, competitors and industry trends to guide public relations presentations and planning. Managed social media accounts by composing content, engaging with followers in comments, monitoring activities, and researching trends. Supported meetings and press conferences for clients and business partners. Supported the development of press releases and media kits."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Communication Management (M.C.M.)",
+            "school": "University of Southern California",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Arts: Communication",
+            "school": "University of Hawaii",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Arts: Psychology",
+            "school": "University of Hawaii",
+            "year": 2012
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

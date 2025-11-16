@@ -1,0 +1,103 @@
+{
+    "name": "Todd Korbitz",
+    "email": "korbitzt@hotmail.com",
+    "phone": "(920) 716-6086",
+    "location": "Boyden, IA",
+    "summary": "Engineering Manager with expertise in new product development, process design and improvement, Lean and Six Sigma, and cross-functional leadership across engineering and manufacturing. Proven ability to lead projects, optimize resources, and drive operational excellence.",
+    "skills": [
+        "Engineering",
+        "Manufacturing Engineering",
+        "Process Improvement",
+        "Tooling",
+        "Welding",
+        "Automated Equipment",
+        "Quality Control",
+        "Robotics",
+        "Robotic Welding",
+        "Operations",
+        "New Product Development",
+        "Product Development",
+        "Transmissions",
+        "Commodities",
+        "Hydraulic Pumps",
+        "Hydraulics",
+        "Machining",
+        "Pumps",
+        "Project Management",
+        "Design Engineering",
+        "Engineering Department",
+        "Process Development",
+        "Assembly",
+        "Assembly Process",
+        "Business Requirements",
+        "Continuous Improvement",
+        "Electronic Production",
+        "Inspection",
+        "Production Control",
+        "Program Management",
+        "Six Sigma",
+        "Automation Design",
+        "Budget",
+        "Policy Development",
+        "Ergonomic",
+        "Fanuc",
+        "Mentor",
+        "Robotics"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Manager",
+            "company": "Company Name",
+            "start_date": "2012-10",
+            "end_date": "2014-03",
+            "description": "Managed design engineering resources for new product development and product improvement; led build operations engineering for process development and improvement. Implemented project management principles for effective NPD execution; reorganized department to align design and manufacturing resources; led Future State factory initiative to optimize production resources."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Company Name",
+            "start_date": "2011-05",
+            "end_date": "2012-08",
+            "description": "Planned, developed, and executed programs per strategic objectives and business requirements. Drove continuous improvement to increase profitability through effective resource allocation. Managed the planning and execution of building expansion and automated wash system ($1.5M); transition and installation of HEMTT assembly process ($2.5M); led cross-functional team to design and implement an electronic production control solution ($1M); supported stand-up of new inspection facility and process ($2M)."
+        },
+        {
+            "title": "Senior Manufacturing Engineer",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2011-01",
+            "description": "Improved productivity and on-time delivery by leveraging Lean and Six Sigma tools; developed production methodologies integrated into product design. Led efforts to address product non-conformance, standardize tooling, and advance material review processes; responsible for continuing development of tab & slot production methodology."
+        },
+        {
+            "title": "Senior Manufacturing Engineer",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2010-01",
+            "description": "Led process improvement for major hydraulics core commodities; contributed to NPD to ensure DFA, cost containment, and resource optimization. Designed and led machining resource reorganization, achieving increased velocity and reduced WIP and scrap; coordinated manufacturing and design resources to improve resource capability."
+        },
+        {
+            "title": "Manufacturing Engineer",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2008-01",
+            "description": "Led process improvement and quality control initiatives; increased daily production from 32 to 70 units per day through tooling and automated equipment. Designed and managed robotic welding work-cells; reduced rework by 70% and improved tooling and fixturing to reduce rework from stacking issues."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration, Project & Program Management",
+            "school": "Keller Graduate School of Management, DeVry University",
+            "year": 2010
+        },
+        {
+            "degree": "Bachelor of Science in Political Science, Economics",
+            "school": "Minnesota State University, Mankato",
+            "year": 2004
+        },
+        {
+            "degree": "Manufacturing Engineering Technology",
+            "school": "Northwest Iowa Community College",
+            "year": 1997
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

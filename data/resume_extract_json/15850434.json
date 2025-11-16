@@ -1,0 +1,73 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Scottsdale, Arizona",
+    "summary": "Over the past ten years I have excelled at effectively building highly motivated teams of varying backgrounds and abilities, and challenged them to succeed in growing and attaining goals that they previously thought impossible. My work has centered on reducing anxiety through encouragement and evidence based practice to support my students and colleagues in reaching milestones in their lives.",
+    "skills": [
+        "Purposeful lesson planning",
+        "Fast learner",
+        "Creative problem solving",
+        "Managing difficult behaviors",
+        "Coordinating multiple groups",
+        "Managing a team of adults",
+        "Communicating effectively with clients, managers, and team members",
+        "Setting goals",
+        "Data tracking for effective goals"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "2017-07",
+            "end_date": "Present",
+            "description": "Hired to teach a district program for students with Autism in Scottsdale, Arizona. Taught 3rd, 4th, and 5th grade students with Autism; provided academic and social-emotional teaching; managed IEPs and coordinated services with OT, PT, and SLP; supported teachers and staff in designing protocols; led a team of three paraeducators; worked with 15 teachers to implement IEPs for 12 students; prepared quizzes, tests, and exams; created lesson plans; adapted teaching methods to meet diverse needs; met with parents regularly."
+        },
+        {
+            "title": "TABS Teacher",
+            "company": "Company Name",
+            "start_date": "2016-07",
+            "end_date": "2017-06",
+            "description": "Taught district program for students with Autism; taught social skills to K-5th grade; designed and implemented supports for general education classrooms; assisted inclusion; deescalated students; collaborated with SLPs, Resource teachers, and classroom teachers; trained in SAMA non-violent de-escalation; worked on PBIS team; assisted with morning duties."
+        },
+        {
+            "title": "LEAP teacher",
+            "company": "Company Name",
+            "start_date": "2012-08",
+            "end_date": "2016-06",
+            "description": "Taught district behavior program for 3rd-5th grade students with behavior disorders; managed class of up to 12 students; coordinated services, academics, and therapy; managed IEPs and daily communication with parents; Right Response certified for de-escalation and non-violent restraint; developed IEPs with/without BIPs; maintained confidentiality."
+        },
+        {
+            "title": "Paraeducator",
+            "company": "Company Name",
+            "start_date": "2009-08",
+            "end_date": "2012-08",
+            "description": "Aided students with Autism in self-contained program; supported special education teachers in high school setting; 1-on-1 support; supported daily routines, life skills, and transitions; assisted teachers with lessons and activities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Education (Elementary Education) with English Language Learners and Special Education",
+            "school": "St. Martin's University",
+            "year": 2013
+        },
+        {
+            "degree": "Certificate of Completion",
+            "school": "Eastern University",
+            "year": 1995
+        },
+        {
+            "degree": "Covenant Bible College - Skills Certification",
+            "school": "Covenant Bible College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Arizona Teaching Certificate with Special Education Endorsement",
+        "SAMA Non-Violent De-escalation Technique",
+        "Right Response certification for de-escalation and non-violent physical restraint"
+    ],
+    "languages": [
+        "English"
+    ]
+}

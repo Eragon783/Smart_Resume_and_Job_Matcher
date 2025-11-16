@@ -1,0 +1,78 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Driven and a self-motivated Mechanical Engineer with experience teaching Mechanical Engineering courses to undergraduate students. Seeking opportunities to use those concepts in the field of Construction and Management.",
+    "skills": [
+        "Academic",
+        "AutoCad",
+        "banking",
+        "basic",
+        "Calculus",
+        "credit",
+        "database",
+        "Database Management System",
+        "Engineer",
+        "Experiments",
+        "GUI",
+        "LASER",
+        "layout",
+        "Materials",
+        "MATLAB",
+        "Mechanical Engineering",
+        "Excel",
+        "Microsoft Office",
+        "Outlook",
+        "Power Point",
+        "Word",
+        "MySQL",
+        "Optimization",
+        "Physics",
+        "Police",
+        "progress",
+        "Research",
+        "Retail",
+        "Scheduling",
+        "Statistics",
+        "VBA",
+        "website"
+    ],
+    "experience": [
+        {
+            "title": "Mechanical Engineering Tutor",
+            "company": "Company Name",
+            "start_date": "September 2014",
+            "end_date": "September 2015",
+            "description": "Taught mechanics, probability and statistics, MATLAB, operations research, and calculus; helped students understand basic concepts of physics and calculus."
+        },
+        {
+            "title": "Assistant Professor",
+            "company": "Company Name",
+            "start_date": "July 2013",
+            "end_date": "April 2014",
+            "description": "Developed coursework and delivered lectures for 120 undergraduate students. Taught Heat and Mass Transfer, and Strength of Materials. Mentored four undergraduates for the final-year project Generating Fuel from Algae. Served as Faculty In-charge of the Mechanical Engineering Students Association (MESA) chapter and was President of the Indian Society of Heating, Refrigeration and Air Conditioning Engineers college chapter."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "April 2010",
+            "end_date": "August 2013",
+            "description": "Internship involving a design project: Development of Central Chilled Water plant system layout for a 45,000 sq. ft. retail outlet; studied project life cycle management of the system. Led the intern team and presented weekly progress reports to the Lead Design Engineer. Worked on Academic Projects including Analysis of LASER Cladding at IIT Bombay (laser cladding with preplaced powder, reducing powder usage by 30% and laser power by 20%), Banking Database Management System (design in MySQL with GUI in Excel using VBA), and Optimization and Scheduling of Shifts for the Police Department (modeling and solving with Excel and AMPL)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Industrial Engineering",
+            "school": "Arizona State University",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Engineering in Mechanical Engineering",
+            "school": "University of Mumbai",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

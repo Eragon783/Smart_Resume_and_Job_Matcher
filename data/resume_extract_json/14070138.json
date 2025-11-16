@@ -1,0 +1,112 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced sales professional and effective leader. Currently a sales professional for CT of Wolters Kluwer. Highly motivated, self-driven, result-oriented consultant. Tenacious new business prospecting, selling, negotiating and closing skills. Skillful verbal and written communication skills including the ability to present to an executive-level audience. Passion for gaining personal relationships with clients. Strong understanding and use of strategic selling techniques. Former professional athlete.",
+    "skills": [
+        "academic",
+        "articulate",
+        "business analysis",
+        "Business Development",
+        "C",
+        "closing",
+        "Coach",
+        "coaching",
+        "competitive",
+        "counseling",
+        "customer satisfaction",
+        "driving",
+        "educational materials",
+        "educational programs",
+        "forecasting",
+        "injury prevention",
+        "team building",
+        "Team leader",
+        "Law",
+        "managing",
+        "enterprise",
+        "POS",
+        "presentations",
+        "pricing",
+        "problem resolution",
+        "processes",
+        "proposals",
+        "psychology",
+        "recruitment",
+        "selling",
+        "Sales",
+        "sales plans",
+        "sales support",
+        "strategy",
+        "strategic",
+        "strategic planning"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Manager",
+            "company": "Company Name",
+            "start_date": "03/2017",
+            "end_date": "Present",
+            "description": "Consulted with C-level executives to develop and implement an effective, enterprise-wide strategy that maximizes the value delivered by solutions in order to ensure success with key initiatives. Developed and conducted effective presentations with contract decision makers (c-level). Accountable for the entire sales cycle from prospecting to closing deals, forecasting, and strategic planning."
+        },
+        {
+            "title": "Business Development Manager",
+            "company": "Wolters Kluwer/CT Corporation",
+            "start_date": "07/2015",
+            "end_date": "03/2017",
+            "description": "FY 2016 104.4% for CT Corporation; FY 2016 #1 Business Development Manager on Law Firm Segment Team; FY 2015 109% for CT Corporation. Primary responsibility for driving profitable customer acquisition and sales growth. Responsible for developing and implementing relationships with existing customer base as well as pursuing new customers of representation and compliance services, formation/qualification services, and other on demand services. Leverage strategic planning to optimize revenue generation of sales efforts. Participated in collecting and evaluating performance metrics by analyzing departmental services, processes, and customer preferences; understanding the overall needs of the law firm channels; assist with monitoring department metrics; assisting in the identification of relationships and trends in data as well as factors influencing results; contributing to the development of solutions to maintain or improve customer satisfaction, increase revenue and/or decrease expenses."
+        },
+        {
+            "title": "Territory Manager",
+            "company": "LexisNexis",
+            "start_date": "05/2012",
+            "end_date": "07/2015",
+            "description": "Tampa & Southwest Florida Territory Manager. Created and implemented effective account/territory plans that included developing and implementing a sales strategy considering new business growth, forecasting revenue, developing key contacts and business relationships within a new account including influential individuals and high level decision makers. Identified and qualified opportunities to advance them through selling process to close. Consistently identified and communicated effectively with executives or other high level officials to articulate competitive differentiators and provide a solution-based sales presentation. Established and maintained excellent customer relationships at all levels, and acted as a liaison between sales support and customers to ensure a positive onboarding process. Developed strategic sales plans using business analysis tools to identify and track revenue trends, recognize sales opportunities, target specific sales activities, and analyze competitive threats within my territory."
+        },
+        {
+            "title": "Account Executive (Michigan & South Dakota) (Dayton, Ohio)",
+            "company": "LexisNexis",
+            "start_date": "01/2010",
+            "end_date": "04/2012",
+            "description": "FY 2011 Over 100% for LexisNexis; FY 2010 Over 100% for LexisNexis. Secured the largest POS contract in the history of LexisNexis as an Account Executive ($75,123). Created and implemented effective account/territory plans that included developing and implementing a sales strategy considering new business growth, managing all resources necessary to drive new business; forecasting revenue; developing key contacts and business relationships within a new account including influential individuals and high level decision makers. Identified and qualified opportunities to successfully advance them through selling process to close. Established and maintained excellent customer relationships at all levels, and acted as a liaison between sales support and our customers to ensure a positive onboarding process. Customized pricing proposals that matched the LexisNexis solutions to the prospective customer's business needs. Developed strategic sales plans using business analysis tools to identify and track revenue trends, recognize sales opportunities, target specific sales activities, and analyze competitive threats within my territory."
+        },
+        {
+            "title": "Executive Director",
+            "company": "Company Name",
+            "start_date": "02/1998",
+            "end_date": "12/2009",
+            "description": "Responsibilities included identification, analysis and recruitment of student athletes, planning and execution of practices, player skill development, academic monitoring and counseling supporting a Division I college soccer program."
+        },
+        {
+            "title": "Assistant Soccer Coach",
+            "company": "Company Name",
+            "start_date": "08/1997",
+            "end_date": "11/2005",
+            "description": "Responsibilities included identification, analysis and recruitment of student athletes, planning and execution of practices, player skill development, academic monitoring and counseling supporting a Division I college soccer program."
+        },
+        {
+            "title": "Professional Athlete (Soccer Player)",
+            "company": "Ohio Cincinnati Silverbacks; Dayton Dynamo; Columbus Xoggz",
+            "start_date": "11/1994",
+            "end_date": "05/1998",
+            "description": "Professional soccer player for multiple teams in NPSL and USISL."
+        },
+        {
+            "title": "Director",
+            "company": "Dayton's largest and most comprehensive youth soccer organization",
+            "start_date": "11/1994",
+            "end_date": "02/2005",
+            "description": "Managed activities of 150 coaches, trainers and team managers; led presentations; taught certified license courses; developed and updated training and educational materials; conducted programs on fitness, nutrition, injury prevention, sport psychology and life skills; supervised coaching staff within Olympic Development Program; created curricula and educational presentations at district and state levels; instructed players to reach their potential and national team level."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : Education/Exercise Physiology",
+            "school": "Wright State University",
+            "year": "1995"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

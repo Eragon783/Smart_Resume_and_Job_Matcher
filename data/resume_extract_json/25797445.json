@@ -1,0 +1,71 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Engineering Specialist with extensive experience in managing major equipment installations and upgrades, troubleshooting electrical and mechanical defects, and programming and maintaining Allen Bradley PLCs (PLC-5, SLC-500, ControlLogix 5000) as well as Fanuc and ABB robotics. Proficient in interpreting electrical, mechanical, hydraulic, and pneumatic diagrams and in leading project-based system installations, preventive maintenance, and downtime repair in industrial settings.",
+    "skills": [
+        "Delivery",
+        "ergonomics",
+        "Lighting",
+        "Paint",
+        "PLC",
+        "PLC 5",
+        "power distribution",
+        "producing",
+        "programming",
+        "Project Management",
+        "Robotic systems",
+        "safety",
+        "troubleshooting",
+        "Vision Systems"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "November 2000",
+            "end_date": "Current",
+            "description": "Responsible for Project Management of new system installations, Investigation and implementation of new equipment. Paint Sealant Robot path programming, Fanuc IR Vision system setup and programming, Liberty Reach Vision setup and programming, Robot Operator training, PLC/Controls (PLC 5, SLC 500, Control Logix 5000) programming, HMI programing, and Maintenance support in major critical downtime situations. Responsible for all aspects of troubleshooting and repair of a wide range of equipment, such as PLC controlled conveyor systems, PLC controlled Robotic systems, PLC controlled Air Handler systems, PLC controlled Oven systems, PLC Controlled Incinerator system, Lighting systems, and PLC controlled Material Delivery systems. Planned and implemented alterations to ensure safety, to improve operator ergonomics, and to increase machine productivity."
+        },
+        {
+            "title": "Industrial Electrician",
+            "company": "Company Name, City, State",
+            "start_date": "January 1996",
+            "end_date": "January 2000",
+            "description": "Maintained multiple plants in multiple cities by performing maintenance and repair of power distribution systems, automated and semi- automated equipment, relay control systems, Lighting systems. Was a first responder to major break downs of any Russell Corporation Plants."
+        },
+        {
+            "title": "Operator",
+            "company": "Company Name, City, State",
+            "start_date": "January 1993",
+            "end_date": "January 1995",
+            "description": "Operated equipment producing parts for assembly, assembled product, packaged product, and shipped product. Maintained production equipment and facilities of plant."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates Degree: Applied Science Electronics Technology",
+            "school": "Central Alabama Community College",
+            "year": "1995"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Talladega High School",
+            "year": "1992"
+        }
+    ],
+    "certifications": [
+        "Project Leader Training Honda",
+        "Paint Emergency Spill and Response Honda",
+        "Spill Prevention, Control, & Countermeasures Honda",
+        "Handling of Normal Hazardous Waste Honda",
+        "Robotic Safety Principles Honda",
+        "ARC Flash Training Honda",
+        "Basic Hydraulics/ Pneumatics Honda",
+        "Catia",
+        "Auto Cad Level 1",
+        "Vision Systems (Fanuc 3D iRVision, Cognex, Keyence)"
+    ],
+    "languages": []
+}

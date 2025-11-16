@@ -1,0 +1,72 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Sydney, Australia",
+    "summary": "Engineering intern with aerospace background, based in Sydney. Proficient in C/Python, R, STK, CATIA, ANSYS, LaTeX, SolidWorks, MS Office and MS Project. Experienced in mechanical design, testing, regulatory compliance, cross-functional collaboration and producing test documentation.",
+    "skills": [
+        "C",
+        "Python",
+        "R",
+        "STK",
+        "CATIA",
+        "ANSYS",
+        "LaTeX",
+        "SolidWorks",
+        "Microsoft Office",
+        "Microsoft Project"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Intern",
+            "company": "Company Name",
+            "start_date": "2017-02",
+            "end_date": "2017-04",
+            "description": "Collaborated with a team of engineers to create technical solutions for product concerns; produced test record documentation; communicated results to customers; scoped business opportunities; researched FAR regulations to create test records for structural load testing on seats in aeromedical transport vehicles; learned CASA conformity procedures; measured articles with appropriate equipment; reported nonconformities; built and verified products via inspections; analyzed failure modes with Finite Element ANSYS; designed equipment supports integrated on safety barriers; desoldered and soldered components to create LED lights for medical equipment."
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name",
+            "start_date": "2016-05",
+            "end_date": "2017-01",
+            "description": "Recorded sales and purchase orders; provided customer service to Australian and international customers; prepared quotes and followed up; trained customers; up-selling; managed enquiries within 20 minutes; demonstrated ability to work under pressure and meet deadlines."
+        },
+        {
+            "title": "Tutor",
+            "company": "Company Name",
+            "start_date": "2016-02",
+            "end_date": "2016-05",
+            "description": "Tutored students in science, mathematics, physics, chemistry and English; provided fast-paced homework help; assisted students from year 1-12."
+        },
+        {
+            "title": "Mechanical Design Engineer",
+            "company": "Company Name",
+            "start_date": "2015-08",
+            "end_date": "2017-07",
+            "description": "Led mechanical design for CubeSat for Canadian Satellite Design Challenge; used SolidWorks; structurally tested in ANSYS; 3D printed; coordinated via JIRA; contributed to Mars Rover project; designed Gimbal gyroscopic testbed for a Reaction Wheel System; trained new team members; taught thermal, electrical and structural concepts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Nortmead High School",
+            "year": "2012"
+        },
+        {
+            "degree": "Bachelor of Science",
+            "school": "University of New South Wales (UNSW)",
+            "year": "2017"
+        },
+        {
+            "degree": "Bachelor of Engineering (Honours) in Aerospace",
+            "school": "University of New South Wales (UNSW)",
+            "year": "2017"
+        }
+    ],
+    "certifications": [
+        "Scrum Fundamentals Certified",
+        "Data Science Fundamentals Certified",
+        "Oracle SQL Developer Advanced SQL: SQL Expert (under progress)"
+    ],
+    "languages": []
+}

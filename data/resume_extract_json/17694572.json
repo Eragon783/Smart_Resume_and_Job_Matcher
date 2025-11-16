@@ -1,0 +1,73 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly skilled bilingual (English/Spanish) and motivated professional seeking a suitable position in your esteemed facility.",
+    "skills": [
+        "Bilingual (English/Spanish)",
+        "Report writing",
+        "Human resource knowledge",
+        "Professional demeanor",
+        "Time management",
+        "Prioritization",
+        "Self-directed",
+        "Computer proficiency",
+        "Clinical/Administrative Skills",
+        "Phlebotomy",
+        "EKG",
+        "Urinalysis",
+        "Vital Signs",
+        "Pharmacology",
+        "Clinical Asepsis",
+        "Health Insurance Filing",
+        "Appointment Scheduling",
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint"
+    ],
+    "experience": [
+        {
+            "title": "Administrative Manager",
+            "company": "Company Name",
+            "start_date": "June 2013",
+            "end_date": "Present",
+            "description": "Answer multiple phone lines; Bookkeeping; Sending and receiving emails, faxes, copying; Managed office inventory and placed new supply orders; Sorting & distributing mail; IT & Telecoms Troubleshooting; Collections; Account Reconciliation; Developed and administered department budgets; Liaised directly with customers to meet needs and maintain satisfaction."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "March 2012",
+            "end_date": "September 2012",
+            "description": "Answer multiple phone lines; Handle daily reports; Sending emails, faxing, copying; Making outbound calls to customers; Ordering office supplies; Data entry; Scheduled appointments and maintained master calendar; Updated employee paperwork and records."
+        },
+        {
+            "title": "Front Desk/ Customer Service Rep",
+            "company": "Company Name",
+            "start_date": "March 2011",
+            "end_date": "July 2011",
+            "description": "Arranges for customer travel, hotel reservations, and auto rental; Tracks aircraft arrival and assures prompt line service; Arranges for prompt customer de-briefing by appropriate technical personnel; Dispatch information to line service and pilots."
+        },
+        {
+            "title": "Registrar / Receptionist",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "January 2011",
+            "description": "Answering telephones; Register patients; Verifying insurances; Enter patients information into computer; Follow up on unpaid claims within standard billing cycle timeframe; File patients documents."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Medical Assistant",
+            "school": "Sanford Brown Institute",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "CPR Certified"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

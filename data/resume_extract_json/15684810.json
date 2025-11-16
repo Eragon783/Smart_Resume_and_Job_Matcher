@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Seeking an entry level position in a technology based company using my skills and familiarization with Apple/Mac/Windows operating systems.",
+    "skills": [
+        "Typing",
+        "Inventory",
+        "Customer Service",
+        "Electronic Calendaring",
+        "Email",
+        "Internet Research",
+        "Mail Room",
+        "Messenger",
+        "Posting",
+        "Spreadsheets",
+        "Data Analysis",
+        "Mac Hardware",
+        "PC Hardware",
+        "Macintosh",
+        "Security",
+        "Surveillance",
+        "Perimeter checks",
+        "Janitorial Duties",
+        "Delivery",
+        "Installation"
+    ],
+    "experience": [
+        {
+            "title": "Non Commissioned Security Officer",
+            "company": "Current Company Name, City, State",
+            "start_date": null,
+            "end_date": "Present",
+            "description": "Understand and successfully execute post orders. Manage typical issues and problems professionally. Serve as a general security presence and visible deterrent by continually performing duties in an alert, professional manner. Detect suspicious activities. Observe criminal acts and rule infractions at or near my post which may be a threat to the facility, the client or employees at my work site. Report all incidents, accidents or medical emergencies to the appropriate persons including my supervisor, in a timely manner. Monitor C-Cure and closed circuit camera system. Issue temporary badges to contractors, vendors, and visitors with proper identification. Monitor temperatures in the server room and reset alarms if any due to high/out of range temperatures. Detailed Daily Activity Reports (DAR) with times and dates of important information. Reset High Temp alarms on site following procedure and protocol. Maintained efficient operating systems within a closed/confined area."
+        },
+        {
+            "title": "Petty Officer 3rd Class Aviation Ordnanceman",
+            "company": "U.S. Navy Reserve",
+            "start_date": "2010-02-16",
+            "end_date": "Present",
+            "description": "Provide security and physical protection for service members. Train fellow Sailors in security duties. Assist in riot control and riot prevention. Provide vital attack, defense and logistic support to the fleet."
+        },
+        {
+            "title": "Phase 1 Clinical Trial Volunteer",
+            "company": "PPDI",
+            "start_date": "2008-05-10",
+            "end_date": "2010-04-23",
+            "description": "Clinical trial of investigative FDA drugs. Supervised by medical professionals and explored how the medicine acts in the bodies of healthy volunteers. Detailed analysis of how the compound is absorbed, distributed, metabolized and excreted."
+        },
+        {
+            "title": "Home Delivery Technician and Warehouse Associate",
+            "company": "Sears",
+            "start_date": "2008-02-10",
+            "end_date": "2008-09-22",
+            "description": "Delivery and install appliances in customers homes. Unload daily trucks of new inventory. Managed and inventoried product including hand tools to major home appliances. Janitorial duties in and around the store."
+        },
+        {
+            "title": "3rd Class Petty Officer Aviation Ordneman",
+            "company": "U.S. Navy",
+            "start_date": "2001-11-26",
+            "end_date": "2005-11-28",
+            "description": "Weapons Systems Operations. Install, adjust, and test bomb racks, shackles, ejectors and launchers. Test, adjust, and align aircraft gun systems. Load, download, install and remove aircraft guns and gun components. Load, download, assemble and disassemble aircraft missiles, rockets, and pyrotechnics. Troubleshoot electrical and electronic equipment and wiring circuits. Conduct authorized searches, conduct surveillance, identify narcotics and dangerous drugs, apprehend suspects, issue weapons and ammunition, conduct field sobriety tests, administer breathalyzer tests, secure crime and accident scenes, inspect crime and accident scenes, preserve evidence at crime scenes, seize evidence and contraband, mark and tag evidence and contraband. Conduct perimeter checks, provide security escort services, provide assistance on crime control, shipboard brig security and support, process prisoners upon receipt, escort and guard prisoners. Weapons Qualifications: 9mm, M-14 rifle, M-16 rifle, 12 gauge shotgun, .50 cal machine gun, M60 machine gun, OC spray."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Criminal Justice",
+            "school": "Austin Community College (Northridge/Eastview/Cedar Park Campus)",
+            "year": 2011
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "W.B. Ray High School, Corpus Christi, TX",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        "Air Launch Weapons School Certification, NAS North Island, 2003-03-01 to 2003-03-22",
+        "Small Arms Training Certification, NAS North Island, 2004-02-03 to 2004-02-16",
+        "Special Response Training Certification, NAS North Island, 2004-04-15 to 2004-04-30"
+    ],
+    "languages": [
+        "English"
+    ]
+}

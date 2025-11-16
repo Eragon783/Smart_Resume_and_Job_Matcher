@@ -1,0 +1,94 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Atsugi, Kanagawa Prefecture, Japan",
+    "summary": "To obtain a position that will utilize my unique technical and management skills acquired during my military career. Maintains an Active Government Secret Security Clearance Expert in Aviation Environmental Control and Egress Systems, Quality Assurance, Maintenance Management, Training and Safety. Proficient in Microsoft Word, Excel, and Power Point. Collateral Duty Inspector on Egress/Environmental Control Systems for 8 years. Collateral Duty Quality Assurance Representative for Aviation Egress and Ordnance Systems for 5 years. Full Systems Quality Assurance Representative 1 year. Quality Assurance Safety Observer for CADS/PADS 6 years. F/A-18E/F Low Power Engine/APU Turn Operator Qualified F/A-18 Super Hornet Plane Captain. Assuming responsibilities of Daily/Turnaround inspections, servicing and operation of twelve 65 million dollar aircraft, ensuring all are in full mission capable status. Diligently showing expertise in emergency procedures and ground safety for 31 fighter pilots/aircrew and 245 maintenance personnel. Aviation Gas Free Engineer/Confined Space Entry Supervisor and Safety Observer. Excellent communication, team building and leadership abilities.",
+    "skills": [
+        "Aviation maintenance",
+        "Egress systems",
+        "Environmental Control Systems",
+        "Quality Assurance",
+        "Maintenance Management",
+        "Training",
+        "Safety",
+        "Collateral Duty Inspector",
+        "Collateral Duty QA Representative",
+        "Full Systems QA Representative",
+        "Safety Observer",
+        "F/A-18E/F Low Power Engine/APU Turn Operator",
+        "Plane Captain",
+        "Daily/Turnaround inspections",
+        "Emergency procedures",
+        "Ground safety",
+        "Aviation Gas Free Engineer",
+        "Confined Space Entry Supervisor",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "PowerPoint",
+        "CPR",
+        "First Aid",
+        "Leadership",
+        "Team building",
+        "Schematic/technical manual interpretation",
+        "Troubleshooting",
+        "Administration and Logistics",
+        "Aviation/Aircraft Support"
+    ],
+    "experience": [
+        {
+            "title": "Aviation Maintenance Egress Leading Petty Officer",
+            "company": "United States Navy",
+            "start_date": "2001-10",
+            "end_date": "Present",
+            "description": "Leading Petty Officer responsible for daily/turnaround inspections, servicing and operation of twelve 65 million dollar aircraft; ensured full mission capability; provided expertise in emergency procedures and ground safety for 31 pilots/aircrew and 245 maintenance personnel; earned Meritorious Unit Commendation."
+        },
+        {
+            "title": "Quality Assurance Representative",
+            "company": "United States Navy",
+            "start_date": "",
+            "end_date": "",
+            "description": "Enforced US Navy quality assurance guidelines for more than 230 maintenance personnel and over 50,000 production man-hours; conducted over 500 final safe-for-flight inspections; audited 44 Safety programs and 13 work centers; conducted Gas Free tests and issued entry certificates; monitored completion on F/A-18F aircraft."
+        },
+        {
+            "title": "Aviation Maintenance Egress Work Center Shift Supervisor",
+            "company": "United States Navy",
+            "start_date": "",
+            "end_date": "",
+            "description": "Supervised 16 personnel in scheduled/unscheduled maintenance on Egress and Environmental Control systems of over 300 F/A-18 aircraft; responsible for qualification and training of 50 personnel from 9 fleet squadrons; supported transition from F-14s to F/A-18E/F; volunteered as training instructor."
+        },
+        {
+            "title": "Aviation Egress and Environmental Control Systems Technician",
+            "company": "United States Navy",
+            "start_date": "",
+            "end_date": "",
+            "description": "Trained over 800 sailors in aviation maintenance practices and repair of egress, environmental and cryogenics systems on F/A-18 aircraft; performed maintenance on Egress, Environmental Control and Cryogenic Systems; worked with flight controls and power plants; supported QA oversight and interpretation of schematics/diagrams."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Gateway High School",
+            "year": "1996"
+        },
+        {
+            "degree": "Coursework",
+            "school": "Foothill College",
+            "year": "1998-1999"
+        },
+        {
+            "degree": "Bachelor of Science (in progress) in Public Safety and Emergency Management",
+            "school": "Grand Canyon University",
+            "year": "2013-2014"
+        }
+    ],
+    "certifications": [
+        "F/A-18E/F Low Power Engine/APU Turn Operator Qualification",
+        "Enlisted Aviation Warfare Specialist Wings",
+        "Gas Free Engineer",
+        "Confined Space Entry Supervisor",
+        "Safety Observer",
+        "CPR/First Aid Certification"
+    ],
+    "languages": []
+}

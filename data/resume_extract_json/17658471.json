@@ -1,0 +1,84 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State, USA",
+    "summary": "AVID Tutor with experience in academic planning, goal setting and implementation, counseling, group instruction, public speaking, and strong attention to detail and dependability.",
+    "skills": [
+        "Academic planning",
+        "Goal setting and implementation",
+        "Counseling",
+        "Group instruction",
+        "Microsoft Office",
+        "Public speaking",
+        "Attention to detail",
+        "Dependability",
+        "Strong verbal skills",
+        "Strong writing skills",
+        "Ability to work under pressure",
+        "Office administration",
+        "Education support/teaching"
+    ],
+    "experience": [
+        {
+            "title": "AVID Tutor",
+            "company": "Company Name",
+            "start_date": "Aug 2011",
+            "end_date": "May 2013",
+            "description": "Took an active role in developing the academic and personal strengths of AVID students. Served as a role model/mentor to AVID students by being a lifelong learner, demonstrating appropriate academic and social behaviors. Determined if concepts needed to be taught or retaught from student's notes and discussions. Evaluated student binders, including calendars, class and textbook notes, etc. Conducted mini-lessons in the process of writing in all subject areas, study skills, and other aspects of college preparation. Set an example of personal excellence and high expectations for AVID students to follow. Communicate frequently and honestly with the AVID coordinator/teacher regarding student progress and areas of concern."
+        },
+        {
+            "title": "Certified Nursing Assistant",
+            "company": "Company Name",
+            "start_date": "Feb 2011",
+            "end_date": "May 2011",
+            "description": "Provided or assisted patients with personal hygiene, dressing, bathing, etc. Assisted with serving meals, feeding patients as necessary; ambulating, turning, and positioning patients; providing fresh water and nourishment between meals. Provided adjunct care by administering, non sterile dressings, surgical preps, ice packs, and heat treatments. Maintained patient stability by checking vital signs and weight. Provided patient comfort by utilizing resources and materials; answering patients' call lights and requests; reporting observations of the patient to nursing supervisor. Documents actions by completing forms, reports, logs, and records."
+        },
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "Dec 2008",
+            "end_date": "May 2011",
+            "description": "Assumed all duties of the regular classroom teacher promptly and in accordance with school rules. This included bus, lunchroom, playground, hall duty or other duties assigned by the building principal. Followed the instructions left by the teacher. Maintained normal classroom routines and discipline procedures. Maintained a positive learning atmosphere in the classroom."
+        },
+        {
+            "title": "Practicum Student",
+            "company": "Company Name",
+            "start_date": "Aug 2008",
+            "end_date": "Dec 2008",
+            "description": "Planned projects and outings for youth in foster care. Coordinated and ran group sessions for adolescent girls. Helped maintain foster parent and foster child files. Shadowed Treatment Director on therapeutic interventions. Participated in fieldwork with Case Managers and therapist."
+        },
+        {
+            "title": "Assistant to School Counselor/Practicum Student",
+            "company": "Company Name",
+            "start_date": "Jan 2008",
+            "end_date": "May 2008",
+            "description": "Shadowed the school guidance counselor in the classrooms. Planned daily Guidance lessons for multiple grade levels. Taught daily guidance lessons to multiple grade levels. Observed the counselor during counseling sessions with parents and children."
+        },
+        {
+            "title": "Office Manager Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "Oct 2004",
+            "end_date": "Dec 2007",
+            "description": "Office administrator to the Fitness Instructor. Office duties included basic office skills; working on computer, answered phones, entered student grades, scheduled appointments. Other duties included training students on equipment, tracking students gym time, cleaning of equipment and oversaw student activity room."
+        },
+        {
+            "title": "Teacher's Aide",
+            "company": "Company Name",
+            "start_date": "Oct 2004",
+            "end_date": "Jan 2007",
+            "description": "Worked as a teacher's aide in the after school childcare program through the Ready to Work Program. Assisted Second grade teacher in the class room helping the children with reading skills. Graded papers, entered grades, and assisted with daily management of classroom control."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Human Services and Counseling",
+            "school": "Lindsey Wilson College",
+            "year": 2008
+        }
+    ],
+    "certifications": [
+        "Certified Nursing Assistant (CNA)"
+    ],
+    "languages": []
+}

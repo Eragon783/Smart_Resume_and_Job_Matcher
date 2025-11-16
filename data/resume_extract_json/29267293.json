@@ -1,0 +1,53 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dedicated teaching and counseling educator with 17 years of experience. I have successfully taught English to students, both children and adults who were new to the country as well as helped and supported them as they assimilated to the US school system and culture. I have also successfully implemented an IB and a regular Spanish curriculum to Middle and High School students with different levels of language proficiency. During my career, I have implemented the Olweus Bullying Prevention Program, served in LPAC Committees and Student Assistance Programs, administered TELPAS Online Assessments and collaborated with other educators as a TELPAS trainer.",
+    "skills": [
+        "Counselor",
+        "academic",
+        "native Spanish speaker",
+        "Leadership",
+        "Workshops",
+        "goal setting and implementation",
+        "effectively work with parents",
+        "time management"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "1999-01",
+            "end_date": "2014-07",
+            "description": "6th grade Spanish: Developed and implemented IB curriculum. Fostered citizenship, open mindedness, and a safe classroom environment so that students felt comfortable taking academic risks. Assisted with the implementation of the Olweus Bullying Prevention Program. 5th grade: Developed and implemented 5th grade curriculum to students who were new to the US school system and spoke a language other than English. Served in the LPAC Committee for the District's US newcomers. Kindergarten: Developed and implemented lessons for a LEP population of students."
+        },
+        {
+            "title": "Teacher",
+            "company": "Valley View ISD",
+            "start_date": "1997-08",
+            "end_date": "1999-08",
+            "description": "Kindergarten: Developed and implemented lessons for a LEP population of students in an under developed area. Implemented modifications for autistic students."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Education Counseling",
+            "school": "University of Texas Pan American",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelor of Arts in Psychology",
+            "school": "University of Texas Pan American",
+            "year": 1996
+        }
+    ],
+    "certifications": [
+        "Texas School Counselor (grades PK-12)",
+        "Secondary Spanish (grades 6-12)",
+        "Bilingual/ESL- Spanish (grades PK-6)"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

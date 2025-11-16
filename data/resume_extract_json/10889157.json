@@ -1,0 +1,82 @@
+{
+    "name": "Charles Hundley",
+    "email": "",
+    "phone": "",
+    "location": "Cleveland, OH",
+    "summary": "Senior culinary professional with 9+ years of kitchen experience, including 4 years as Lead Cook and 3 years as a trainer. Proficient in mother sauces, knife skills, menu organization, kitchen management, and staff development. Experienced with cruise ship operations and high-volume service; aims to advance to executive chef.",
+    "skills": [
+        "Mother sauces",
+        "Knife skills",
+        "Produce orders",
+        "Menu organization",
+        "Kitchen management",
+        "Employee management",
+        "Scheduling management",
+        "Leadership",
+        "Employee development",
+        "Fast-paced",
+        "Adaptability"
+    ],
+    "experience": [
+        {
+            "title": "Lead Cook (Cook III)",
+            "company": "Company Name",
+            "start_date": "06/2012",
+            "end_date": "Present",
+            "description": "Prep menu for the day service. Help all our cooks in my area with dinner setup. Delegate all our breaks throughout the shift. Assist our Sous Chefs and Executive Chef with running dinner service. Maintain cleanliness throughout each shift. Positive interactions with all guests throughout service. Started out as a prep cook and moved to Cook Lead/Cook III within six months."
+        },
+        {
+            "title": "Cook Lead",
+            "company": "Company Name",
+            "start_date": "11/2009",
+            "end_date": "05/2012",
+            "description": "Prep our menu for each shift. Ensure all items for each station are prepared on time. Manage assigned station and ensure proper items. Work with Sous Chefs and Executive Chefs; adhere to USPH Standards."
+        },
+        {
+            "title": "Galley Steward",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Galley steward duties as part of cruise ship kitchen team; handled galley operations and supported cooks."
+        },
+        {
+            "title": "Assistant Cook",
+            "company": "Company Name",
+            "start_date": "09/2008",
+            "end_date": "11/2009",
+            "description": "Make sure our assigned kitchen has proper cookware; responsible for cleanliness of assigned station and kitchen; provide clean and sanitized equipment throughout each shift; knowledge of chemicals and safety procedures; abide by USPH Standards; promoted after second contract with the cruise ship."
+        },
+        {
+            "title": "Lead Cook",
+            "company": "Company Name",
+            "start_date": "04/2007",
+            "end_date": "09/2008",
+            "description": "Put in product orders for the Restaurant. Set the kitchen schedules. Monitor cooks while they prepped for the day. Hired new cooks. Conducted monthly restaurant inspections. Worked as the window man on busy nights; called out order times, completed plates with garnishes, and double checked recipes before servers took them to guests. Maintained menu items and recipes."
+        },
+        {
+            "title": "Lead Cook / Kitchen Trainer",
+            "company": "Company Name",
+            "start_date": "07/2006",
+            "end_date": "09/2008",
+            "description": "Cook and prepare meals for guests. Responsible to train all new kitchen cooks and dishwashers. Keep control of the night shifts in the kitchen. Train new kitchen employees at four locations around Cleveland (Strongsville, Westlake, Downtown Cleveland, and Beachwood OH). Progressed from prep cook to line cook to lead cook."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts in Business Management",
+            "school": "Lakeland Community College",
+            "year": "2007"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Charles F Brush High School",
+            "year": "2005"
+        }
+    ],
+    "certifications": [
+        "Certified Kitchen Trainer"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Accomplished results-oriented leader with marketing and customer service experience; MBA in Management/Finance; strong organizational, time management and multitasking abilities.",
+    "skills": [
+        "billing",
+        "call center",
+        "CMS",
+        "client",
+        "customer service",
+        "forms",
+        "hiring",
+        "insurance",
+        "inventory",
+        "meetings",
+        "office",
+        "organizational",
+        "processes",
+        "protocols",
+        "receptionist",
+        "reporting",
+        "safety",
+        "scheduling",
+        "Six Sigma",
+        "social services",
+        "telephone",
+        "transportation"
+    ],
+    "experience": [
+        {
+            "title": "Supervisor",
+            "company": "Company Name",
+            "start_date": "July 2015",
+            "end_date": "Present",
+            "description": "Responsible for the daily oversight operations of the call center, monitoring ACHT, TSF, and adherence to schedules. Supervise bargaining unit employees with the UAW. Manage Walk-In staff and their schedules to service incoming customers. Assist in assessment, development, implementation, and ongoing reporting of operational improvements related to customer service metrics and process improvements. Reduced team average call handle and wrap time metrics by 200 seconds. 30% reduction. Participated in meetings with Accounts Receivable to improve member payment efficiencies and best practice implementation."
+        },
+        {
+            "title": "Clinical Administrative Assistant- Healthcare Administrator",
+            "company": "Company Name",
+            "start_date": "February 2013",
+            "end_date": "July 2015",
+            "description": "Recruited, trained and managed the clinical medical staff and customer service representatives. Directed medical receptionist operations, including scheduling, transportation protocols, and patient satisfaction. Collected and secured patient co-pays and deductibles. Improved patient attendance rates by 20%. Responsible for developing and implementing patient and retention strategies. Improved processes to ensure accurate electronic billing and reimbursement. CMS-STARS Rating implementation and support. Collaborated with social services and charitable organizations to provide resources to members of the local community."
+        },
+        {
+            "title": "Community Account Manager",
+            "company": "Company Name",
+            "start_date": "October 2010",
+            "end_date": "January 2013",
+            "description": "Developed new and retained existing relationships with client base, resulting in 65% retention and 10% new membership leads. Conducted in-service training to office/home managers regarding organizational protocols. Completed weekly reports for nurse practitioners and physicians. Verified client information to ensure proper insurance information and resolved customer service issues."
+        },
+        {
+            "title": "Administrative Assistant/Home Manager",
+            "company": "Company Name",
+            "start_date": "October 2009",
+            "end_date": "October 2014",
+            "description": "Advanced to increasingly responsible positions, culminating in management role with oversight for a state certified Group home. Directed 12 employees and managed inventory, merchandise and cost controls resulting in 20% annual savings. Maintained high standards in sanitation and safety and complied with regulatory guidelines. Completed balanced billing, authorization verification, and 3806 forms for payment. Completed background checks, fingerprinting, and employee information hiring packets for new hires."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration (MBA), Organizational Leadership",
+            "school": "University of Findlay",
+            "year": 2017
+        },
+        {
+            "degree": "MBA, International Business",
+            "school": "University of Michigan",
+            "year": 2017
+        },
+        {
+            "degree": "Bachelor of Science in Health Care Administration",
+            "school": "Mercy College of Ohio",
+            "year": 2015
+        },
+        {
+            "degree": "Associate of Science",
+            "school": "Wayne County Community College",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "Lean Six Sigma Black Belt Certification - March 31, 2017"
+    ],
+    "languages": []
+}

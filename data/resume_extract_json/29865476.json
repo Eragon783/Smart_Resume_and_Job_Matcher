@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Branch Manager and Floral Designer with extensive experience in sales leadership, customer service, team development, and operations. Proven ability to exceed sales goals, manage budgets, oversee inventory, and deliver high-quality service. Bilingual (English/Spanish) with strong problem solving, multitasking, and time management skills.",
+    "skills": [
+        "Customer Service",
+        "Branch Management",
+        "Staff training and development",
+        "Customer targeting",
+        "Conflict resolution",
+        "Deadline-oriented",
+        "Upselling techniques",
+        "Client account management",
+        "Budgeting and financial management",
+        "Cash flow management",
+        "Inventory control",
+        "Microsoft Outlook",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Bilingual: English and Spanish",
+        "Data entry",
+        "Problem solving",
+        "Critical thinking",
+        "Interpersonal skills",
+        "Time management"
+    ],
+    "experience": [
+        {
+            "title": "Branch Manager/Floral Designer",
+            "company": "Company Name",
+            "start_date": "2012-07",
+            "end_date": "Present",
+            "description": "Managed a wide variety of customer service and administrative tasks to resolve issues. Ensured superior customer experience by addressing concerns, empathy, and on-the-spot problem resolution. Shared best practices for sales and service; stocked and replenished merchandise; maintained merchandising standards; fostered a positive work environment; cultivated a customer-focused shopping environment; communicated clear expectations; worked with management to allocate responsibilities; pursued personal learning and development; supervised merchandise and shipment processing; reduced and controlled expenses by preparing a daily purchasing budget."
+        },
+        {
+            "title": "Bi-Lingual Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2011-09",
+            "description": "Assisted Spanish-speaking customers with medication orders and refills; verified insurance benefits; explained benefits to ensure lawful operation. Worked in a production-based environment with quotas; performed data entry, problem solving, critical thinking, and interpersonal tasks; processed credit card payments over the phone for out-of-pocket payments; handled coverage/lack of availability issues."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2010-01",
+            "description": "Assisted with verification of insurance benefits; data entry; acted as patient advocate while assisting case managers with daily caseload in a production-based environment; made outbound and inbound calls to doctors, pharmacies, providers, and patients to obtain benefits, referrals, and authorizations; ensured promised activities were completed to satisfy patients; emphasized organization and problem-solving."
+        },
+        {
+            "title": "Customer Care Specialist",
+            "company": "Company Name",
+            "start_date": "2005-10",
+            "end_date": "2009-01",
+            "description": "Call-center environment handling 200+ calls per day in a fast-paced setting; performance measured by metrics; assisted Medicare customers by reviewing requests for providers and plans regarding authorization requirements and prescription coverage; navigated PA Hub and Argus to resolve medication access issues; processed Excel grids for Caremark Specialty Pharmacy; ran pharmacy claims in CAS and trained new employees on CCP2 system."
+        },
+        {
+            "title": "Floral Designer/Sales",
+            "company": "Company Name",
+            "start_date": "2000-10",
+            "end_date": "2005-10",
+            "description": "Designed daily floral arrangements; assisted customers in selecting products; prepared accurate cash reports and opened/closed the facility multiple times; sales were commission-based; provided customer service and problem solving to ensure customer satisfaction and repeat business."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Business",
+            "school": "University of Phoenix",
+            "year": null
+        },
+        {
+            "degree": "Business Managerial Skills Certificate",
+            "school": "AAFET - City , State , US",
+            "year": "2002"
+        }
+    ],
+    "certifications": [
+        "Business Managerial Skills Certificate (2002)",
+        "Certificate of Completion in Business and Managerial Skills (AAFET program)"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

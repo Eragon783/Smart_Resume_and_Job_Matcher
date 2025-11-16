@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Dynamic finance professional with a strong background in all aspects of accounting and financial management. Successful at managing multiple assignments while meeting tight deadlines. Highlights include financial analysis, complex problem solving, financial reporting, account reconciliation, SAP, UFARS coding, PeopleSoft, and Excel-based budgeting. Experienced in revenue/expense management, financial controls, and process improvement; track record of improving efficiency and training staff.",
+    "skills": [
+        "Financial Audit",
+        "General Ledger",
+        "AP (Accounts Payable)",
+        "Purchasing",
+        "Budgeting",
+        "Forecasting",
+        "Financial Analysis",
+        "Financial Planning",
+        "Revenue Management",
+        "Expenses Management",
+        "Financial Control",
+        "Process Improvement",
+        "Technical Presentations",
+        "PeopleSoft",
+        "SAP",
+        "UFARS",
+        "Excel",
+        "Microsoft Office",
+        "QuickBooks",
+        "Customer Service",
+        "Attention to Detail",
+        "Flexible",
+        "Self-motivated",
+        "Problem Solving",
+        "Team Player",
+        "Dependable",
+        "Initiative",
+        "Dedicated",
+        "Honest",
+        "Passionate",
+        "Multi-tasking"
+    ],
+    "experience": [
+        {
+            "title": "Budget Finance Specialist Senior",
+            "company": "Company Name",
+            "start_date": "October 2007",
+            "end_date": "Present",
+            "description": "Co-supervise and co-lead a team of 3 Budget Finance Specialists and 1 Account Clerk. Responsible for training new team members, providing work direction, and leading the fiscal budgeting process. Ensure fiscal responsibility; review and strengthen financial controls; conduct budget analysis and strategic planning to aid daily business decisions. Train and advise school officials on use of public funds and donations to ensure compliance and transparency. Create financial reports and documents to guide and complete the annual budgeting process for upcoming school year and support organizational objectives. Manage 144 funded project accounts (Donations) generating nearly $12.5 million in revenue annually. Create accounts, manage revenue and expenses, carry over unspent funds between years, and communicate the appropriate use of funding to recipients. Manage financial records for 25 schools; provide financial analysis, planning, and budget oversight to principals. Train clerks and principals on the use of public funds, financial management system SAP, and UFARS coding. Oversee position control and resolve questions on budget and other financial and technical transactions. Coordinate with HR on positions, salary, and confidential employee information. Work with Procurement to approve and or prepare requisitions to PO and resolve Accounts Payable payment issues. Improved cost efficiency of the School District travel system by ensuring budget coding accuracy, budget availability, and authorization."
+        },
+        {
+            "title": "Accounting Specialist III",
+            "company": "Company Name",
+            "start_date": "July 2006",
+            "end_date": "October 2007",
+            "description": "Responsible for daily accounting transactions in the Trust Fee Unit including processing payments sent by trust clients. Monitored accounts to reduce delinquency; produced daily business transactions and monthly financial reports and analyses to upper management for audits and daily banking operations. Awarded 5-Star Customer Service Award in 2007 for outstanding service."
+        },
+        {
+            "title": "Loan Analyst/Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "September 2005",
+            "end_date": "July 2006",
+            "description": "Reviewed and analyzed financial documents and loan applications for home loans; verified compliance with federal requirements and investor requirements; conducted extensive research to support loan decisions and resolve complex issues. Developed in-house expertise on tax penalties and liabilities crucial to proper loan administration. Recognized for thorough and courteous customer support, especially through challenging loan applications."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Supervisor Training",
+            "school": "University of Wisconsin",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelor of Science: Business Administration - Finance",
+            "school": "",
+            "year": 2005
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

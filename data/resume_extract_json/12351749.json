@@ -1,0 +1,72 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Current MS of Data Analytics graduate student with exposure to data analysis and modeling skills. Seeking evolutionary role in analytics that will allow to adapt and change to company and problem solving needs.",
+    "skills": [
+        "Excellent quantitative skills",
+        "Advanced MS Office Suite knowledge",
+        "Strong knowledge of R",
+        "Excel",
+        "Advanced Excel modeling",
+        "Excellent research skills",
+        "Business systems analysis",
+        "Knowledge of statistical analysis",
+        "Superb communication skills",
+        "Algorithm development",
+        "Business Domain, Statistics and Interpretation, Mining, predictive analysis, and coding",
+        "Visualization and exploration",
+        "Data Analyst",
+        "RStudio",
+        "Tableau",
+        "Data Collection",
+        "Machine Learning",
+        "C++",
+        "Report Generation"
+    ],
+    "experience": [
+        {
+            "title": "Sales Coordinator",
+            "company": "Company Name",
+            "start_date": "2016-07",
+            "end_date": "2017-05",
+            "description": "Heavy cold calling to new and existing oil and gas, energy, and aerospace clientele to increase revenue and market penetration. Managed a portfolio of 250 accounts that generated 36% of increased proposals in 4 months. Conducted business to business telephone sales. Researched sales and contact information for prospects and created reports for business development managers."
+        },
+        {
+            "title": "Inside Sales Representative",
+            "company": "Company Name",
+            "start_date": "2015-08",
+            "end_date": "2016-02",
+            "description": "Prioritized daily workflows, including all inbound calls, quotes and sales-related inquiries. Wrote sales contracts for orders obtained and submitted orders for processing. Achieved 170% of first 90 day quota, earning 2nd highest rookie quarter in 21 year company history. Emphasized product features based on analysis of customers' needs."
+        },
+        {
+            "title": "Inside Sales Representative",
+            "company": "Company Name",
+            "start_date": "2014-09",
+            "end_date": "2015-05",
+            "description": "Developed competitive comparison tables of steel grating pricing, fees, ratings, category and product performance to use for account sales calls. Created sales contacts with on- and off-premise accounts. Built client relationships by acting as the liaison between the drafting and sales teams. Consulted with clients after sales and contract signings to resolve problems and provide ongoing support."
+        },
+        {
+            "title": "Recruiter",
+            "company": "Company Name",
+            "start_date": "2007-02",
+            "end_date": "2014-10",
+            "description": "Developed creative recruiting strategies that met small to mid-sized broker dealer staffing needs. Managed all aspects of advisor transition cycle, from initial set to on boarding. Served as link between broker dealer and advisor by handling questions, interpreting contracts, and resolving transition issues."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Data Analytics",
+            "school": "University of Houston",
+            "year": 2018
+        },
+        {
+            "degree": "BBA in Finance",
+            "school": "University of Houston",
+            "year": 2005
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

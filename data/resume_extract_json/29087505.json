@@ -1,0 +1,62 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Construction professional with strong analytical skills, project management ability, and leadership capabilities. Experienced in scheduling, client interfacing, documentation, and problem solving. Proficient in blueprint reading, coordinating with engineers and inspectors, and delivering time-boxed projects. Also skilled in website design and graphic asset creation using WordPress.",
+    "skills": [
+        "Project management",
+        "Analytical thinking",
+        "Leadership",
+        "Team collaboration",
+        "Document management",
+        "Problem solving",
+        "Customer needs assessment",
+        "Client interface",
+        "Scheduling",
+        "Blueprint reading",
+        "Communication",
+        "Negotiations",
+        "Time management",
+        "Training and mentoring",
+        "WordPress Website Design",
+        "Graphic design (accent graphics, banners, icons, animations, logos)",
+        "Windows / Microsoft Office / Mac",
+        "Networking",
+        "Painting",
+        "Framing",
+        "Heavy machinery operation"
+    ],
+    "experience": [
+        {
+            "title": "Construction Worker",
+            "company": "Company Name",
+            "start_date": "May 2014",
+            "end_date": "Present",
+            "description": "Prepared and presented technical proposals; collaborated with engineers and inspectors to define work requirements; gained experience reading blueprints and coordinating with heavy machinery operators."
+        },
+        {
+            "title": "Owner",
+            "company": "Company Name",
+            "start_date": "March 2012",
+            "end_date": "Present",
+            "description": "Manage daily work orders, plan schedules, drive efficient project execution, interact with neighbors and partners, and build professional relationships with contractors and clients."
+        },
+        {
+            "title": "Painter/Carpenter",
+            "company": "Company Name",
+            "start_date": "June 2008",
+            "end_date": "September 2008",
+            "description": "Painted interiors and exteriors, installed millwork, learned framing, and developed attention to detail for quality workmanship."
+        }
+    ],
+    "education": [
+        {
+            "degree": "AA in General",
+            "school": "Highline Community College",
+            "year": 2014
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

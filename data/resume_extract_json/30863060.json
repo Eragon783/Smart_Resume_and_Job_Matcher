@@ -1,0 +1,118 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Summary College graduate with interest in insurance claims work. Proven record of success in all endeavors. Strong work ethic and focus on the details. Excited to begin career in investigative work. Searching for an entry level position as an insurance claims adjuster.",
+    "skills": [
+        "Unix",
+        "SQL Server 2005",
+        "SQL Server 2008",
+        "SQL Server 2008R2",
+        "VM-Ware",
+        "ODBC",
+        "SQL",
+        "PL/SQL",
+        "Access",
+        "MS Office Suite",
+        "MS Visio",
+        "Oracle 10g",
+        "Oracle 11g",
+        "SAP Business Objects BI Suite",
+        "PeopleSoft",
+        "ADP",
+        "cView SAP Business Objects Suite",
+        "MS Reporting Suite",
+        "MicroStrategy",
+        "Tableau",
+        "Internet Explorer",
+        "Netscape Navigator",
+        "Chrome",
+        "Firefox",
+        "JAVA",
+        "ASP.NET",
+        "HTML",
+        "MS Windows",
+        "NT",
+        "Novell NetWare",
+        "SQL 2012",
+        "Oracle 11g2",
+        "RPG",
+        "SAS",
+        "Ceridian Encore",
+        "SSRS",
+        "SSAS",
+        "SSIS",
+        "ETL",
+        "Excel",
+        "Teradata",
+        "Crystal Reports",
+        "ServiceNow",
+        "SharePoint",
+        "Cyberquery",
+        "DNA",
+        "DNA-sme",
+        "IMC",
+        "eSoms",
+        "EmpCenter",
+        "CQCS"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2016-07",
+            "end_date": "Present",
+            "description": "Top 4 Financial Institution) Create SQL queries, stored procedures, and tables to extract data Analyze data to create executive team dashboards and daily visualizations Utilize Excel pivot tables to monitor observations within the Core Finance metadata templateÂ Analyze Core Finance and GBAM Americas feeds for manual spreadsheet remediation Support data stewards with review of various domain issues with vlookups extractions Document process improvements to enhance the data integrity Conduct data reviews to ensure the data quality and reasonability of data feeds supplied to EDM Generated trend reporting to assist with reducing the number of feed gaps Environment - Access, Excel, SharePoint, SQL Server, Metadata, Teradata, and Adaptive."
+        },
+        {
+            "title": "Database Analyst",
+            "company": "Company Name",
+            "start_date": "2016-04",
+            "end_date": "2016-07",
+            "description": "Provided technical support and basic development for computer applications and programs Documented technical specifications to design or redesign complex projects and applications Analyzed complex computer application problems to maintain or restore functionality Led the resolution of complex issues or escalated as needed to meet established SLAs Prepared programming specifications and completed programming tasks to develop basic, and/or assist in the development of moderately complex, computer solutions Prepared program test data, tests and debugs programs using Waterfall methodologies Updated and completed documentation, procedures and user guides to ensure data quality Participated in testing and updating the business continuation plan Planned and analyzed highly complex business requirements Environment - SQL Server, Teradata, Oracle 11g, Oracle Discoverer, MicroStrategy 9.3.1, Metadata, and BMC Remedy."
+        },
+        {
+            "title": "Senior Business Intelligence Analyst",
+            "company": "Company Name",
+            "start_date": "2015-02",
+            "end_date": "2016-04",
+            "description": "Developed and enhanced WebI reports and universes through Business Objects Provided technical support to triage database performance and reporting related issues Reviewed and interpret report SQL to determine data source and business logic Conducted report requirement gathering sessions with project business SMEs Compiled report mapping of legacy reports to aid in Change Management communication Quality Assurance tested additional objects in the universe structure to ensure data quality Created functional and technical specifications according to business requirements Conducted unit and system tests with various technical tools including SSAS Collaborate with Business SMEs to develop report testing strategy using Agile methodologies Conducted UAT with Business units and Quality leaders Performed various tasks throughout Software Development Life Cycle (SDLC) Environment - SQL Server, Oracle 11g, Business Objects WebI, Tableau 9.0.1, and ServiceNow."
+        },
+        {
+            "title": "Reporting Analyst",
+            "company": "Company Name",
+            "start_date": "2013-10",
+            "end_date": "2015-02",
+            "description": "Reviewed and translated current state Business Object/Crystal Reports/Report Builder/MSRS Reviewed and interpreted report SQL to determine data source and business logic Conducted report requirement gathering sessions with business SMEs and focus groups Developed new or modify reports in MSRS, BIDS, and SQL Server 2008 R2 or 2012 Compiled report mapping of legacy reports to aid in Change Management communication Designed, developed, and implemented new and existing interfaces for ETL processes using SSIS Created Logical and Physical Data Models utilizing ERWIN Developed and implemented data warehouse tables and views with Metadata Created functional and technical specifications according to BRDs Created test plans to validate the adherence to business requirements using HP ALM QC Conducted Unit and System tests with various technical tools including SSAS Collaborated with Business SMEs to develop report testing strategy using Agile methodologies Conducted UAT with the eSOMS Business SMEs to ensure data integrity and quality Environment - ERWIN, eSOMS, SQL Server 2008R2, SQL Server 2012, SQL, SSAS, SSIS, SSRS, SAP BO Crystal Reports, MS Office Suite, MS Visual SourceSafe, MS Visio, and TOAD."
+        },
+        {
+            "title": "Business Analyst",
+            "company": "Company Name",
+            "start_date": "2012-04",
+            "end_date": "2013-09",
+            "description": "Collaborated with team members and clients to gather HR/payroll report requirements Created functional and technical specifications according to BRDs Configured screen layouts, dashboards, workflows, and interfaces according to HR specifications Developed and enhanced reports using SAP Business Objects with SQL, PL/SQL, and Oracle Integrated developed HR reports into SQL and Oracle based ERP environments Analyzed query performance and optimization using SSAS and other analytical tools Documented functional specifications and procedural documentation for HR BRDs Developed and enhanced WebI reports and universes through Business Objects Provided technical support to triage database performance and reporting issues Created test plans to validate the adherence to HR business requirements using SQL Conducted Unit and System tests to ensure data integrity with various tools including SSAS Provided technical guidance and direction to peers Designed, developed, and implemented new and existing programs for ETL processes using SSIS Environment - SAP Business Objects BI, Visual Basic, SQL Server 2005, SQL Server 2008R2, SQL Server 2012, VM-Ware, ODBC, SQL, PL/SQL, SSAS, SSIS, SSRS, MS Office Suite, Oracle 10g, Oracle 11g, Oracle 11g2, JavaScript, PeopleSoft, ADP, Kronos, and ETL."
+        },
+        {
+            "title": "Business Analyst",
+            "company": "Company Name",
+            "start_date": "1999-09",
+            "end_date": "2011-12",
+            "description": "Interrogated data for domestic and international banks and credit unions including Fifth Third Manipulated large financial datasets and utilized complex queries for data transformations Cross departmental collaboration for software development as subject matter expert (SME) Collaborated with team members and clients to gather and document project requirements Acted as liaison between clients and technical teams to aid in go-live transition Created functional and technical specifications according to BRDs Created Logical and Physical Data Models utilizing ERWIN Developed and enhanced reports using SAP Business Objects with PL/SQL, SQL, and Oracle Generated business reports including matrix, parameter reports, charts, with drill down functions Integrated developed reports into SQL and Oracle based ERP environments Designed and conducted technical knowledge transfer sessions at various client sites."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. Degree in Information Management Systems",
+            "school": "Wayne State University",
+            "year": null
+        },
+        {
+            "degree": "A.S. Degree in Accounting",
+            "school": "Wayne County Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

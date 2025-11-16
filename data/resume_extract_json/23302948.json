@@ -1,0 +1,107 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Results-driven reservoir engineer with extensive experience in reservoir management, enhanced oil recovery, reserve evaluation, integrated reservoir modeling, compositional simulation, economic analysis, geomechanics, and project management. Fluent in English and French; experienced in collaborating with professionals of different technical and cultural backgrounds.",
+    "skills": [
+        "Pressure and rate transient analyses",
+        "Decline curve analysis (Fekete Harmony)",
+        "Volumetrics and material balance",
+        "Economic analysis (ARIES)",
+        "Knowledge in SEC reserves estimation concepts",
+        "Project management",
+        "Reservoir management",
+        "History-matching and production forecast",
+        "Compositional and black oil simulation",
+        "Enhanced oil recovery (waterflooding, CO2 injection, WAG, polymer flood)",
+        "Unconventional resource evaluation",
+        "Modeling of fractured systems",
+        "Reservoir geology and depositional system fundamentals",
+        "Geochemical modeling",
+        "Reservoir geomechanics",
+        "Log and core analyses"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name - City, State",
+            "start_date": "2009-01",
+            "end_date": "2010",
+            "description": "Feasibility study of CO2 storage and wastewater disposal into the Lawson Formation in Polk County, Florida. Develop semi-analytical equations to estimate CO2 storage efficiency and pressure changes at the wellbore. Conduct fluid flow and geochemical simulations of CO2 and municipal wastewater injection. Evaluate geomechanical effects of fluid injection into the Lawson formation."
+        },
+        {
+            "title": "Reservoir Engineer",
+            "company": "Company Name - City, State",
+            "start_date": "2011-01",
+            "end_date": "2014-11",
+            "description": "Investigator for miscible and immiscible CO2 EOR pilots. Fields: Mumford Hills (Clore sandstone) and Sugar Creek (Jackson sandstone). Worked with geoscience and engineering staff to develop models, collect input data for compositional simulations, calibrate reservoir models to field observations, estimate reserves and forecast production, and evaluate the viability of field development scenarios and new drilling locations."
+        },
+        {
+            "title": "Investigator",
+            "company": "Company Name - City, State",
+            "start_date": "2011-02",
+            "end_date": "2012-09",
+            "description": "Miscible and immiscible CO2 EOR pilots for Mumford Hills and Sugar Creek; contributed to model development and data synthesis for compositional simulations."
+        },
+        {
+            "title": "Development of dimensionless performance curves",
+            "company": "Company Name - City, State",
+            "start_date": "2012-04",
+            "end_date": "2013-12",
+            "description": "Developed dimensionless performance curves for Aux Vases, Cypress, and Ste. Genevieve formations; performed history-matching reservoir models; designed 5-spot patterns for multiple fields; conducted miscible and immiscible CO2 and water-alternate-CO2 injections; generated dimensionless curves to evaluate EOR performance."
+        },
+        {
+            "title": "Principal Investigator",
+            "company": "Company Name - City, State",
+            "start_date": "2012-10",
+            "end_date": "2014-09",
+            "description": "Depositional environment and storage efficiency project. Define, plan, monitor, and modify project; evaluate progress using MS Project; collaborate with sedimentary geologists, geostatisticians, engineers, and field operators to develop geologic and geocellular models; mentor reservoir modeling staff; develop simulation workflow; manage reservoir modeling tasks; design and manage development of an access database tool for analyzing simulation results."
+        },
+        {
+            "title": "Post-Doctoral Research Engineer",
+            "company": "Company Name - City",
+            "start_date": "2009-11",
+            "end_date": "2010-10",
+            "description": "Coupled CO2 EOR-geomechanics simulation study (Aneth Field, Paradox Basin, Utah). Calculate equation of state using measured crude oil properties; upscale reservoir static model using Petrel; collect input data for compositional simulations; history-match reservoir model to field data and estimate hydrocarbon reserves; conduct coupled flow-geomechanical reservoir simulation of CO2-EOR and storage using Visage; analyze results and evaluate changes in reservoir stress and strain; correlate predicted geomechanical stress changes with observed microseismicity; evaluate impact of inflow-control devices on well injectivity."
+        },
+        {
+            "title": "Geophysical survey assistant",
+            "company": "Company Name - City, State",
+            "start_date": "2004-11",
+            "end_date": "2005-07",
+            "description": "Line-up cables and place geophones for geophysical surveys; assist in equipment and personnel transportation to field sites."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D in Civil Engineering",
+            "school": "University of South Florida",
+            "year": 2009
+        },
+        {
+            "degree": "M.S in Petroleum Engineering",
+            "school": "Technical University of Denmark",
+            "year": 2004
+        },
+        {
+            "degree": "B.S in Chemistry",
+            "school": "University of Buea",
+            "year": 1997
+        }
+    ],
+    "certifications": [
+        "Landmark Aries training course (June 5, 2014; Houston, TX)",
+        "Practical aspects of CO2 flooding (April 13, 2014; SPE 19th Symposium on Improved Oil Recovery, Tulsa, OK)",
+        "Reservoir characterization from laboratory to field (April 12, 2014; SPE 19th Symposium, Tulsa, OK)",
+        "Landmark Nexus Basic Reservoir Simulation Course (May 20-22, 2013; Houston, TX)",
+        "Landmark Nexus Intermediate Reservoir Simulation Course",
+        "Kepner-Tregoe Project Management Workshop (July 11-13, 2012; Champaign, IL)",
+        "Evaluating Reservoir Quality, Seal Potential, and Net Pay Course (July 14-15, 2011; Champaign, IL)",
+        "Schlumberger Eclipse, Petrel, VISAGE, and PVTi on-the-job training (2010)"
+    ],
+    "languages": [
+        "English",
+        "French"
+    ]
+}

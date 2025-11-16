@@ -1,0 +1,52 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "cashiering",
+        "closing",
+        "Directing",
+        "direction",
+        "Excel",
+        "Power Point",
+        "Microsoft Word",
+        "quality",
+        "Safety"
+    ],
+    "experience": [
+        {
+            "title": "Safety Intern",
+            "company": "Company Name",
+            "start_date": "05/2015",
+            "end_date": "08/2015",
+            "description": "Walkthroughs of plant to make sure proper personal protective equipment is being worn by all employees, transition from Material Safety Data Sheet to Safety Data Sheet, implement GHS labels for the chemicals, being in charge of safety to new hire orientation, safety audits, cost benefit analysis of new warning lights in one of our buildings."
+        },
+        {
+            "title": "Security Guard",
+            "company": "Company Name",
+            "start_date": "01/2014",
+            "end_date": "07/2015",
+            "description": "Directing traffic entering and exiting the complex, providing direction to patrons, answering questions and providing assistance as needed."
+        },
+        {
+            "title": "Customer Service Associate",
+            "company": "Company Name",
+            "start_date": "05/2014",
+            "end_date": "08/2014",
+            "description": "Providing quality service to our customers, cashiering, replenishing the merchandise, and straitening up the aisles at closing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Occupational Safety and Environmental Health Applied Engineering Emergency Management",
+            "school": "Millersville University of Pennsylvania",
+            "year": 2015
+        }
+    ],
+    "certifications": [
+        "American Society of Safety Engineers"
+    ],
+    "languages": []
+}

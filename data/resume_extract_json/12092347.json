@@ -1,0 +1,124 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Jack of all trades who enjoys daily challenges and seeks opportunity to learn and improve skills",
+    "skills": [
+        "Management",
+        "Time management",
+        "Retail store operations",
+        "Sales",
+        "Customer service",
+        "Communication",
+        "Professionalism",
+        "Conflict resolution",
+        "Critical thinking",
+        "Problem solving",
+        "Leadership",
+        "Training",
+        "Supervision"
+    ],
+    "experience": [
+        {
+            "title": "General labor/apprentice",
+            "company": "OBX Fire Tech",
+            "start_date": "Nov 2014",
+            "end_date": "Dec 2014",
+            "description": "Listen to customer complaint about fire truck; simulate operating conditions to recreate the issue; diagnose problems; use hand or power tools to alleviate issues; maintain good customer relations; leave work area and trucks in clean or better condition."
+        },
+        {
+            "title": "Grill closer",
+            "company": "McDonald's",
+            "start_date": "Sep 2014",
+            "end_date": "Nov 2014",
+            "description": "Cook meat with provided equipment; prepare sandwiches as ordered; maintain cleanliness of work area; close and clean area as the store closes."
+        },
+        {
+            "title": "General labor",
+            "company": "Southern Scapes Landscaping",
+            "start_date": "Jun 2014",
+            "end_date": "Aug 2014",
+            "description": "Operate hand and power tools; dig and plumb irrigation lines; drive trailer with bobcat and/or excavator; read and interpret plans; lay sod, plant, and irrigate per plans."
+        },
+        {
+            "title": "General labor",
+            "company": "Soundside Recycling",
+            "start_date": "Mar 2014",
+            "end_date": "May 2014",
+            "description": "Assist in sorting recyclable metals by type and separate trash from recyclables; maintain clean working areas; meat slicer/morning prep."
+        },
+        {
+            "title": "Meat slicer/Morning prep",
+            "company": "Firehouse Subs",
+            "start_date": "Dec 2013",
+            "end_date": "Jan 2014",
+            "description": "Assist franchisee in opening the store; slice, weigh, and prepare meat as per SOP; assist in assembly and preparation of finished product; maintain store cleanliness."
+        },
+        {
+            "title": "Head of Training",
+            "company": "KKG Safety Investigations",
+            "start_date": "Oct 2013",
+            "end_date": "Nov 2013",
+            "description": "Responsible for individual training, supervision, and development of 4 operators; ensure standards; participate in fieldwork."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "7-Eleven",
+            "start_date": "Sep 2013",
+            "end_date": "Sep 2013",
+            "description": "Operate cash register; reference invoices to ensure delivery of products; mark discrepancies; maintain store cleanliness; stock products; prepare store for first shift."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Unknown",
+            "start_date": "Apr 2009",
+            "end_date": "Jul 2009",
+            "description": "Reference invoices to ensure delivery of products; mark discrepancies; maintain cleanliness; stock products; prepare store for first shift; receiving."
+        },
+        {
+            "title": "Receiving/Stock Associate",
+            "company": "Walmart",
+            "start_date": "Jul 2013",
+            "end_date": "Sep 2013",
+            "description": "Assist in unloading trucks; palletize freight by department; maintain accountability of ammunition, age restricted products, and electronics merchandise valued over $100; distribute pallets to respective departments by 2200; stock; assist night shift in stocking if time permitted; make plastic and cardboard bales; maintain backroom cleanliness."
+        },
+        {
+            "title": "Garden Center Sales Associate",
+            "company": "Walmart",
+            "start_date": "May 2013",
+            "end_date": "Jul 2013",
+            "description": "Stock shelves; operate cash register; maintain health of plants; assemble grills and patio furniture for display; assist customers in locating and selecting products."
+        },
+        {
+            "title": "Overnight Maintenance",
+            "company": "Walmart",
+            "start_date": "Mar 2013",
+            "end_date": "May 2013",
+            "description": "Conduct initial sweep of store; clean bathrooms; use scrubbing machine to scrub floors; use propane powered buffer to buff floor; strip old floor wax and apply new wax; maintain general cleanliness."
+        },
+        {
+            "title": "Infantryman",
+            "company": "U.S. Army",
+            "start_date": "Mar 2009",
+            "end_date": "Oct 2012",
+            "description": "Operate and maintain weapons; operate and maintain field communications equipment; maintain accountability of $100,000 worth of equipment and ammunition; participate in reconnaissance; locate and camouflage infantry positions and equipment; assess need for and direct supporting fire; maintain cleanliness of facility; assist in conducting programs; operate cash register; sell and fill out contracts by hand; maintain accountability of accessories."
+        },
+        {
+            "title": "Cashier",
+            "company": "Unknown",
+            "start_date": "Aug 2007",
+            "end_date": "Oct 2007",
+            "description": "Take orders; operate cash register; provide service."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Currituck County High School",
+            "year": "2009"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

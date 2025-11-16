@@ -1,0 +1,62 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Secure a responsible position in account management and serve as an account representative sharing my experience and abilities to seek employee, customer and employer growth and success.",
+    "skills": [
+        "banking",
+        "CPR",
+        "Fluent in English",
+        "financial",
+        "inventory",
+        "Excel",
+        "Microsoft Office",
+        "PowerPoint",
+        "Word",
+        "Works",
+        "POS",
+        "retail",
+        "Spanish",
+        "phone"
+    ],
+    "experience": [
+        {
+            "title": "Service Representative",
+            "company": "Company Name",
+            "start_date": "October 2015",
+            "end_date": "Present",
+            "description": "Greets members, maintains place organized, and maintains friendly environment. Works with retail, advertises products, and restocks shelves as needed. Resolves member's troubles, and answers phone inquiries. Completes agreements with incoming members."
+        },
+        {
+            "title": "Sales Advisor",
+            "company": "Company Name",
+            "start_date": "August 2015",
+            "end_date": "October 2015",
+            "description": "Partners up with businesses surrounding 24 Hour Fitness to create member traffic. Promotes company special promotions. Completes agreements and manages daily paperwork. Successfully attains personal and company revenue target."
+        },
+        {
+            "title": "Service Representative Lead",
+            "company": "Company Name",
+            "start_date": "December 2014",
+            "end_date": "August 2015",
+            "description": "Organized inventory (FIFO method). Met weekly deadlines for inventory, and members' financial transactions. Organized banking information for POS system."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration",
+            "school": "University of Houston, C.T. Bauer College of Business",
+            "year": 2016
+        }
+    ],
+    "certifications": [
+        "CPR Certification (January 2015)",
+        "Microsoft Office Word 2007 Certification (Spring 2012)",
+        "Microsoft Office Excel 2007 Certification (Spring 2012)"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

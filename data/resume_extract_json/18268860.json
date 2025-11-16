@@ -1,0 +1,73 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly qualified aerospace inspector with over 18 years of rotary and fixed wing aircraft maintenance, inspection, and modification experience on military and commercial aircraft. Experienced in preparing and retaining records, reviewing and verifying technical data to customer requirements, and auditing quality assurance data. Adept at interpreting blueprints and engineering drawings, initiating processes, and ensuring compliance with contract quality requirements.",
+    "skills": [
+        "blueprints",
+        "Catia V",
+        "inspecting",
+        "inspection",
+        "Inspector",
+        "risk management",
+        "technical manuals",
+        "quality assurance",
+        "aerospace inspection",
+        "documentation"
+    ],
+    "experience": [
+        {
+            "title": "Quality Control Inspector",
+            "company": "Company Name",
+            "start_date": "2011-10",
+            "end_date": "Current",
+            "description": "Completes classroom and on-the-job training; reviews quality and inspection procedures; evaluates quality/inspection systems; analyzes quality data for trends; reads and applies technical data (blueprints, drawings, specs) to ensure customer requirements; conducts verification by testing or inspection to ensure products meet requirements prior to acceptance."
+        },
+        {
+            "title": "Aviation Structural Mechanic",
+            "company": "Company Name",
+            "start_date": "2009-08",
+            "end_date": "2011-05",
+            "description": "Performed acceptance inspection on inbound aircraft; assessed total damage; ordered components to complete aircraft reset; conducted mechanical inspections of critical flight controls; fabricated, processed, and installed critical components damaged in hostile operations; assisted electrical runs to meet turnaround times."
+        },
+        {
+            "title": "Aviation Structural Mechanic",
+            "company": "Company Name",
+            "start_date": "2007-11",
+            "end_date": "2009-08",
+            "description": "Performed periodic inspections (Phase, hydraulic, landing gear, flight controls); applied risk management techniques during quality maintenance; trained and supervised personnel; interpreted blueprints/drawings to gather customer requirements for manufacturing; used manuals/directives to prepare work instructions for aircraft phase maintenance."
+        },
+        {
+            "title": "Aviation Structural Mechanic / Grade E-5",
+            "company": "Company Name",
+            "start_date": "1999-10",
+            "end_date": "2007-10",
+            "description": "Eight years of active duty in the Navy (Honorable Discharge); installed/replaced pneumatic actuators and servos, landing gear, and flight controls on F/A-18; deployed on USS Nimitz CVN-68 for six months during Operation Iraqi Freedom; served as Collateral Duty Inspector, ensuring airworthiness through 14-day/28-day/daily/turnaround inspections prior to flight."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Professional Aeronautics",
+            "school": "Riddle Aeronautical University",
+            "year": ""
+        },
+        {
+            "degree": "U.S. Navy Aviation F/A-18 Hydraulic/Structural Repair School",
+            "school": "U.S Navy",
+            "year": ""
+        },
+        {
+            "degree": "U.S Navy Aircraft Paint Touch Up and Markings",
+            "school": "U.S Navy",
+            "year": ""
+        },
+        {
+            "degree": "Catia V",
+            "school": "",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

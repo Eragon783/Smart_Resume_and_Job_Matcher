@@ -1,0 +1,47 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Bank Teller with experience in fast-paced financial environments. Focused on maintaining high levels of accuracy and efficiency, as well as achieving branch goals. Seeks hands-on experience to expand knowledge, advance in position, and gain recognition. Highlights include exceptional customer service, excellent communication skills, sales expertise, strong ethics, knowledge of bank security systems, currency and coin counting, safe and vault operation, and strong work ethic.",
+    "skills": [
+        "ATM",
+        "opening and closing",
+        "credit",
+        "quality",
+        "routing",
+        "selling"
+    ],
+    "experience": [
+        {
+            "title": "Lead Teller",
+            "company": "Company Name",
+            "start_date": "July 2010",
+            "end_date": "June 2014",
+            "description": "Daily operation and balancing of a $25000 cash drawer. Processing deposits, withdrawals, payments. Assessed risks and approved transactions for myself and other team members. Routed Proof Deposit work to appropriate departments for nightly processing. Daily vault and ATM balancing. Processed Foreign Currency transactions, such as buying and selling of multiple International currencies. Completed Control Online tasks to keep in compliance. Made quality referrals for Consumer and Business account opening. Stepped in to assist the management team in the event the Service Manager was not in."
+        },
+        {
+            "title": "Lead Teller",
+            "company": "Company Name",
+            "start_date": "August 2006",
+            "end_date": "July 2010",
+            "description": "Daily operation and balancing of a $75000 cash drawer. Processing deposits, withdrawals, payments. Assessed risks and approved transactions for myself and other team members. Routed Proof Deposit work to appropriate departments for nightly processing. Completed Control Online Tasks to keep in compliance. Made quality referrals for Consumer and Business account opening. Daily vault and ATM balancing. Processed Foreign Currency transactions, such as buying and selling of multiple International currencies. Implemented and followed branch opening and closing procedures. Accepted and processed credit card and consumer loan applications. Assisted in the training of new team members. Provided onsite training. Assisted in weekly teller line scheduling. Stepped in to assist the management team in the event the Service Manager was not in."
+        },
+        {
+            "title": "Personal Banking Representative",
+            "company": "Company Name",
+            "start_date": "February 2003",
+            "end_date": "March 2006",
+            "description": "Daily operation and balancing of a $15000 cash drawer. Processing deposits, withdrawals, payments. Opened new accounts at the customer's request. Accepted credit card and loan applications. Nightly vault balancing. Daily ATM processing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Rockville High School",
+            "year": "1999"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

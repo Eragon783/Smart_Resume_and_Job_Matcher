@@ -1,0 +1,49 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Visual Merchandiser committed to staying current on market trends and consumer interests. Collaborates with management to create the best product plans and boost sales revenue, while delivering exceptional customer experience.",
+    "skills": [
+        "Merchandising",
+        "Communication Skills",
+        "Sales",
+        "Retail",
+        "Customer Service",
+        "Microsoft Office",
+        "Microsoft Excel",
+        "Multitasking"
+    ],
+    "experience": [
+        {
+            "title": "Set Designer",
+            "company": "Company Name",
+            "start_date": "Jan 2014",
+            "end_date": "Present",
+            "description": "Concept creation and craft sets for TV commercials, websites, newspaper advertisements, brochures and company magazines. Select furniture, accessories, draperies, wall art, and props for decorative quality and appearance. Ensure sets are properly broken down and disposed of after use. Collaborate with Art Director and photographers on direction and style of the set. Make adjustments during shooting and filming with photographers, filming and lighting crews."
+        },
+        {
+            "title": "Visual Merchandiser",
+            "company": "Company Name",
+            "start_date": "Jul 2011",
+            "end_date": "Jan 2014",
+            "description": "Coordinate placement of new merchandise on the showroom floor. Conduct periodic physical inventories of furniture and accessories. Develop and create in-store displays and other visuals. Communicate with associates and management to acquire customer feedback. Coordinate with showroom management to bring in new products based on sales and demand. Select LTD products only available to certain stores based on demographics and the demands of customers within the region. Revamp and restore showroom walls by patching holes and painting where necessary to maintain a fresh updated and polished look. Create floor plans for customers, selecting furniture, fabrics, finishes and accessories for their spaces. Completed projects for residential and assisted living facilities, designing and staging apartments for the viewing of prospective residents. Maintain an organized and welcoming store environment by creating an inviting and visually appealing environment for customers."
+        },
+        {
+            "title": "Head Resident Advisor",
+            "company": "Company Name",
+            "start_date": "Aug 2008",
+            "end_date": "May 2010",
+            "description": "Served as a staff leader and peer mentor to other Resident Advisors. Assisted with the final planning, preparation and presentation of RA training. Led professional staff with coordination and implementation of RA selection. Coordinated Residential Security Aide training and assisted with their supervision. Directed students to proper references for social, personal, and academic support when necessary. Worked with Residence Life staff members and others to create an atmosphere that promotes positive interpersonal, educational, social and professional development through intentional programming. Served in a weekly on-duty rotation and responded to student crisis situations. Maintained a constructive and positive attitude that fosters personal and professional growth that enhances the quality of life in the residence halls for all residents."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts, Interior Design",
+            "school": "Cazenovia College",
+            "year": "2011"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,78 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Accounting Professional offering 13 years experience in bookkeeping and an effective, analytical approach to identifying and solving complex problems. Highlights Intuit QuickBooks specialist General ledger accounting skills Ethical approach to finance Strong communication skills Complex problem solving Accounting operations professional Fiscal budgeting knowledge Managerial aptitude Manufacturing and job costing experience Accomplishments Proficient in outlook, excel, word Broad knowledge of office equipment Excellent computer skills Web Savvy Benefits and 401 k administration HR experience Pa Notary Public Increased efficiency and alleviated work loads by creating a new Excel financial recording system. Increased profit by working with vendors to reduce cost of goods Established new credit criteria for new accounts. Customize reports for individual businesses Track expenses and accounts receivable Reduce paper clutter, organize files Successfully worked through accounting system change over. Trained staff on Quickbooks Implemented on line services to improve efficiency",
+    "skills": [
+        "Accounting",
+        "Accounts Receivable",
+        "administrative",
+        "Adobe software",
+        "AR",
+        "banking",
+        "billing",
+        "budgeting",
+        "Strong communication skills",
+        "credit",
+        "customer service",
+        "decision making",
+        "documentation",
+        "finance",
+        "financial reporting",
+        "general ledger",
+        "general ledger accounts",
+        "General ledger accounting",
+        "Managerial",
+        "office",
+        "payroll",
+        "problem solving",
+        "QuickBooks",
+        "Quickbooks Pro",
+        "Research",
+        "sales",
+        "tax",
+        "tax returns"
+    ],
+    "experience": [
+        {
+            "title": "Construction Bookkeeper",
+            "company": "Company Name, City, State",
+            "start_date": "09/2016",
+            "end_date": "12/2016",
+            "description": "Completed a temporary roll for a construction company located in Southern New Jersey. In this role I cleaned up and organized the data that was and was not entered into QuickBooks, worked with Builder Trend to map information correctly into QuickBooks. Entered all vendor bills and expenses and invoices into Builder Trend for job costing, paid high volume of accounts payable. Balanced monthly bank statements and credit card accounts. Ran monthly reports in Builder's Trend and Quickbooks. Provided accountant with end of year information as requested."
+        },
+        {
+            "title": "Bookkeeper",
+            "company": "Company Name, City, State",
+            "start_date": "01/2015",
+            "end_date": "08/2016",
+            "description": "AR/AP Payroll Administration Sales Tax Filings Monthly Financial Reports Construction Contracts Payment Applications Job Costing Insurance Certificates. Converted old accounting system to Quickbooks"
+        },
+        {
+            "title": "Office Manager/Full Charge Bookkeeper",
+            "company": "Company Name, City, State",
+            "start_date": "08/2003",
+            "end_date": "01/2015",
+            "description": "Maintenance Supply company with 6,000 customers and 30 vendors. Supervised office of 10 employees. Full charge processing of all accounts receivable and payable. Reconcile bank and credit card accounts. Record general ledger entries. Establish customer credit lines and set up credit accounts with vendors. Processed payroll. Prepared federal and state tax returns. Analyzing general ledger accounts to identify and resolve variances or unidentified items. Prepare and post cash deposit to the AR system and generates supporting reports. Review and post lock box and wire payments. Process manual and recurring credit card payments, ACH payments, credit memos, charge backs, returns, bad checks, and check requests. Research root causes of unidentified payments and perform adjustments. Assisted in collection efforts. Did weekly Accounts Receivable Aging reports, mailed out reminders and made follow up phone calls. Logged all results. Manage all petty cash and office supply expense accounts."
+        },
+        {
+            "title": "Bank Branch Manager",
+            "company": "Company Name, City, State",
+            "start_date": "01/1990",
+            "end_date": "08/2003",
+            "description": "Total involvement with all customer service including problem solving, on the spot decision making, leading and motivating the team. Supervised eleven employees. Performed reviews, disciplinary reports, attendance and performance records. Increased sales by motivating sales team. Maintained deposits over 30 million and loans over 10 million. Followed bank guidelines and regulations. Updated confidential employee banking information with accuracy and speed."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Mastbaum Area Vocational Tech, City, State",
+            "year": "1985"
+        }
+    ],
+    "certifications": [
+        "Quickbooks Pro Advisor"
+    ],
+    "languages": []
+}

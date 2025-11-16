@@ -1,0 +1,64 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am a graduate with an Associate of Applied Science in Power-plant & Airframe Technology and with an FAA A&P license with experience in troubleshooting, repairing and maintaining aircraft engines and systems as well as repairing and rebuilding aircraft structures and functional components. I'm currently working as a maintenance mechanic with Fairmount Santrol, with experience in splicing belts, rebuilding pumps, changing motors, bearing and gearboxes. Detail-oriented and very efficient, I am seeking a position with a company that fully utilizes my experience and abilities.",
+    "skills": [
+        "Maintenance",
+        "Inspections",
+        "Repairs",
+        "Troubleshooting",
+        "A&P License",
+        "Power-plant & Airframe Technology",
+        "Aircraft maintenance",
+        "Preventative maintenance",
+        "Splicing belts",
+        "Rebuilding pumps",
+        "Changing motors",
+        "Bearings and gearboxes",
+        "Woodworking",
+        "Carpentry"
+    ],
+    "experience": [
+        {
+            "title": "Maintenance Mechanic",
+            "company": "Company Name",
+            "start_date": "12/2017",
+            "end_date": "Current",
+            "description": "Preventative maintenance, maintenance, inspections, and repairs, troubleshooting"
+        },
+        {
+            "title": "A&P Mechanic",
+            "company": "Company Name",
+            "start_date": "06/2017",
+            "end_date": "12/2017",
+            "description": "Aircraft Maintenance, preventative maintenance, inspection and repair, troubleshooting."
+        },
+        {
+            "title": "Carpenter",
+            "company": "Company Name",
+            "start_date": "11/2016",
+            "end_date": "06/2017",
+            "description": "Construct and repair wooden objects and structures."
+        },
+        {
+            "title": "OSR/ Cart Attendant",
+            "company": "Company Name",
+            "start_date": "04/2015",
+            "end_date": "08/2015",
+            "description": "Provided excellent customer service to over hundreds patrons daily to ensure return customer base remained solid."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science : Airframe & Power-plant Technology",
+            "school": "Hallmark University",
+            "year": 2016
+        }
+    ],
+    "certifications": [
+        "FAA Airframe & Power-plant License"
+    ],
+    "languages": []
+}

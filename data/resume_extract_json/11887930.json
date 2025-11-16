@@ -1,0 +1,100 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Creative and Innovative professional driven to launch a career in teaching. Brings valuable experience from the legal and clinical research fields.",
+    "skills": [
+        "Databases",
+        "Metrics",
+        "Operations",
+        "Training",
+        "Accounts Payable",
+        "Audit",
+        "Audits",
+        "Governance",
+        "Microsoft Office",
+        "Planview",
+        "PowerPoint",
+        "Business Intelligence",
+        "Leads",
+        "Oracle",
+        "Administrative Support",
+        "Data Sources",
+        "Microsoft SharePoint",
+        "Security",
+        "SharePoint",
+        "Excel",
+        "Excel 2003",
+        "Microsoft Excel",
+        "Outlook",
+        "Outlook 2003",
+        "Word",
+        "Word 2003"
+    ],
+    "experience": [
+        {
+            "title": "Clinical and Data Operations Support Analyst",
+            "company": "Company Name",
+            "start_date": "December 2012",
+            "end_date": "Present",
+            "description": "Home-based. Support the development and delivery of key performance indicators and metrics and the provision of them on a monthly basis. Create dashboards using Oracle Business Intelligence Tools. Create reports using Oracle Answers to produce monthly metrics. Build eRoom databases for tracking critical document package reviews. Responsible for exporting databases and providing monthly dashboard analysis. Provide support for reviews of financial and operational performance through the provision and analysis of data from ICON's systems. Work closely with the Global Director, Study Start Up Leads to support global consistency, focus and development across the SSU Lead function."
+        },
+        {
+            "title": "Executive Management Assistant",
+            "company": "Company Name",
+            "start_date": "March 2008",
+            "end_date": "February 2013",
+            "description": "Design presentation tools using Excel and PowerPoint. Modify tools based on sponsor needs. Conduct training sessions globally on how to use tools and present data. Created multiple databases across many eRooms for tracking, analyzing and reporting quality issues, governance compliance, sponsor feedback, audit findings and responses. Responsible for pulling data from CTMS and Planview via Business Objects and OMR, analyzing and presenting results to Sr. Mgmt. Assist with report generation and preparation for Sponsor audits. Liaise with multiple departments such as accounts payable to resolve employee, team compliance issues. Trained and assisted employees on various company applications, expense reports and all Microsoft Office applications. Worked with Report Developers to create ad hoc reporting to meet the needs of Sr. Mgmt. Prepared on a regular basis a suite of metrics via bar graphs and PowerPoint presentations for Sponsor Quality Management and Joint Operations Committee meetings. Deployed surveys and compiled data in eRoom database. Responsible for tracking promotion eligibility of all US Clinical Operation employees, obtaining recommendations, notifying management of finalized promotions and salary increases."
+        },
+        {
+            "title": "Executive Associate, General Counsel, Labor & Employment",
+            "company": "Company Name",
+            "start_date": "May 2006",
+            "end_date": "September 2007",
+            "description": "Managed a high-volume workload within a deadline-driven environment. Identified process improvement opportunities and implemented changes to gain operational efficiencies within department. Developed and maintained complex spreadsheets. Maintained data sources for departmental records and management information reporting. Provided information in support of complex requests for department projects, programs and events. Handled all aspects in planning and carrying out regular training events for client education. Supported development and modification of presentations. Collected data and generated management information reports and graphics. Provided comprehensive support services and routine analysis to unit. Assisted in various types of departmental project, including companywide initiatives. Using Microsoft SharePoint created department website for posting secured self-service resources for client use and to facilitate collaboration on documents and projects. Responsible for maintaining, monitoring and updating site content and security groups."
+        },
+        {
+            "title": "Sr. Administrative Support Associate, General Counsel",
+            "company": "Company Name",
+            "start_date": "September 2007",
+            "end_date": "March 2008",
+            "description": "City, State. Managed a high-volume workload within a deadline-driven environment. Identified process improvement opportunities and implemented changes to gain operational efficiencies within department. Developed and maintained complex spreadsheets. Maintained data sources for departmental records and management information reporting. Provided information in support of complex requests for department projects, programs and events. Handled all aspects in planning and carrying out regular training events for client education. Supported development and modification of presentations. Collected data and generated management information reports and graphics. Provided comprehensive support services and routine analysis to unit. Assisted in various types of departmental project, including companywide initiatives. Using Microsoft SharePoint created department website for posting secured self-service resources for client use and to facilitate collaboration on documents and projects. Responsible for maintaining, monitoring and updating site content and security groups."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Criminal Justice, Emphasis in Legal Studies, Cum Laude",
+            "school": "The University of Texas at San Antonio",
+            "year": "1996-1999",
+            "gpa": "3.63"
+        },
+        {
+            "degree": "Bachelor of Arts: Criminal Justice, Legal Studies",
+            "school": "The University of Texas at San Antonio",
+            "year": "1999"
+        },
+        {
+            "degree": "Associates Degree in Liberal Arts",
+            "school": "Southwest Texas Junior College",
+            "year": "1995-1996"
+        },
+        {
+            "degree": "Associates Degree in Liberal Arts",
+            "school": "Southwest Texas Junior College",
+            "year": "1996"
+        },
+        {
+            "degree": "Associates Degree in Liberal Arts",
+            "school": "Cape Fear Community College",
+            "year": "1994-1995"
+        }
+    ],
+    "certifications": [
+        "Certified Microsoft Office Specialist - Microsoft Office Word 2003",
+        "Certified Microsoft Office Specialist - Microsoft Office PowerPoint 2003",
+        "Certified Microsoft Office Specialist - Microsoft Office Excel 2003",
+        "Certified Microsoft Office Specialist - Microsoft Office Outlook 2003"
+    ],
+    "languages": []
+}

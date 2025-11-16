@@ -1,0 +1,57 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Summary Acquisitions and dispositions coordinator adept in client relations, due diligence and real estate management. Seeks a challenging position in property management with room for continued growth and professional development.",
+    "skills": [
+        "JD Edwards",
+        "Business Intelligence",
+        "Argus",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "OnBase",
+        "SAP",
+        "AS400"
+    ],
+    "experience": [
+        {
+            "title": "Assistant, Acquisitions and Dispositions",
+            "company": "Company Name",
+            "start_date": "February 2007",
+            "end_date": "Current",
+            "description": "Coordinate due diligence information in the disposition of non-core properties to brokers and principals/investors. Facilitate underwriting of potential acquisitions in coordination with leasing reps and regional asset managers. Work on the capital harvesting program to sell off non-core assets and out-parcels in creating capital that can be redeployed into better-performing core assets. Manage acquisitions and dispositions network drive and update the company website as properties are sold and acquired. Organize Investment Committee Meetings for discussion and approval of redevelopment properties as well as approval of acquiring or disposing of assets. Prepare property reports such as rent rolls, tenant sales, aged receivables, and operating statements for the analysis of core and non-core properties slated for disposition."
+        },
+        {
+            "title": "Sales and Product Associate",
+            "company": "Company Name",
+            "start_date": "November 2000",
+            "end_date": "January 2007",
+            "description": "Supported associate Field Sales Representatives to assist with high-volume single or multi-site customers. Acted as liaison between customers and Field Representatives to generate leads and quotations for possible future sales. Diligently researched information in assisting customers and distribution companies with technical product and applications inquiries. Processed customer invoices for purchase of demonstration equipment and maintaining sales representatives' consignment accounts. Authorized requests for product returns and exchanges as well as monitored high-dollar purchase orders and customer account status."
+        },
+        {
+            "title": "Office Manager Assistant",
+            "company": "Company Name",
+            "start_date": "July 1999",
+            "end_date": "November 2000",
+            "description": "Reconciled daily fees and posted payments accordingly. Prepared forms for medical billing and processed claims to appropriate insurance companies. Maintained inventory of supplies and medicines/vitamins. Resolved patient inquiries and performed general clerical duties."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. Biology",
+            "school": "St. John's University",
+            "year": 2000
+        },
+        {
+            "degree": "Professional Certificate: Real Estate Finance and Investment",
+            "school": "New York University",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "Professional Certificate in Real Estate Finance and Investment"
+    ],
+    "languages": []
+}

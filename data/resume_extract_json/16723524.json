@@ -1,0 +1,88 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Ahmedabad, Gujarat, India",
+    "summary": "Seeking fulltime/contract position where I can use my engineering, management background, operation knowledge, merchandising and analytical skills.",
+    "skills": [
+        "MS Excel (Pivot table, HLOOKUP, VLOOKUP, macros, advanced functions)",
+        "Access",
+        "MS Word",
+        "MS PowerPoint",
+        "MS Outlook",
+        "SAP",
+        "Procurement",
+        "Purchasing",
+        "Supply chain management",
+        "Procurement planning",
+        "Production planning",
+        "Production scheduling",
+        "Inventory management",
+        "Inventory control",
+        "Quality control",
+        "Quality assurance",
+        "Costing",
+        "Negotiation",
+        "Supplier selection",
+        "Data analysis",
+        "Forecasting",
+        "Vendor coordination",
+        "BOM management",
+        "3rd party inspection coordination",
+        "Drawing",
+        "Laser printing",
+        "CNC",
+        "Delivery coordination",
+        "Process improvement"
+    ],
+    "experience": [
+        {
+            "title": "Production Control / Sr. Merchandiser",
+            "company": "Manufacturer & exporter of home textiles",
+            "start_date": "2009-09",
+            "end_date": "2011-08",
+            "description": "Managed purchase order, pricing and production planning of assigned customers using SAP. Implement and control production schedule. Coordinated with planning team to review and procure materials to achieve manufacturing build requirements for multiple product lines, and worked with manufacturing, planning, and engineering departments to enable purchasing and acquire cost-effective inventories. Completed data collection and analysis of the companys procurement and supply chain processes, offered recommendations using supply chain tools and performance metrics. Analyze production and quality control to detect and correct problems. Negotiated pricing and fabric requirements with international and domestic buyers as well as customers. Coordinated to buyer for pricing, approval, production time, shipment. Evaluate vendor quotes and decide suitable to requirement. Internally coordinated with sample and mass production team on day to day basis. Responsible for managing supply using SAP. Communicate to local vendor for pricing and supply. Successfully managed approval of fabric and design strike off with different international buyers. Tracking. Responsible for monitoring quality of fabric, design, final quality of products and inspection. Europe Buyer: Metro Poland, Real Poland, Czech Republic, Hungary, Slovak, Real D , Kaeppel , CNC, Real D etc. Artex Apparels, Gujarat, India- (Manufacturer & exporter of children wear)."
+        },
+        {
+            "title": "Assistant Production Development Manager",
+            "company": "Artex Apparels, Gujarat, India",
+            "start_date": "2006-12",
+            "end_date": "2009-08",
+            "description": "Co-ordinate and follow-up with buyer. Strong follow up of the purchase orders as per the Time & Action Plan (Fabric T & A, Production T & A) from sampling to shipment and sending weekly production status. Prepare cost sheets of and negotiate with buyer. Control the costing during production. Execution of production according to planning. Make sample with more stitching friendly and full field with buyer requirement. Implement new ideas with cost and time. Translate ideas from the designer's drawing-board to the factory production line. Managed fabric inventory. Give measurement and placement of embroidery, print and laser print on garment. Buyers: International customer-European company ZANNIER which has total 27 brands, RNA landmark group. Domestic customer-LIFESTYLE, PANTALOON & RELIANCE."
+        },
+        {
+            "title": "Trainee engineer",
+            "company": "",
+            "start_date": "2006-06",
+            "end_date": "2006-12",
+            "description": "Garment training: Received 3 month hardcore training for, stitching of bottom wear PPC, Quality Control sys."
+        },
+        {
+            "title": "Supply chain planner & Quality control",
+            "company": "",
+            "start_date": "2015-05",
+            "end_date": "Present",
+            "description": "Supplier selection and evaluation. Manage supplier analysis and selection processes including total cost evaluations. Evaluate suppliers through performance measurements and develop supplier. Secures and analyzes quotations, negotiates prices and terms with suppliers, and recommends suppliers with respect to cost, quality and delivery competitiveness for assigned responsibilities. Communicate to supplier and assists in the resolution of production, design, quality and/or delivery problems. Planning. Coordinates the planning of recent schedules and inventory control parameters for the assigned products and services. Managing inventory at sku level and reconcile every quarterly basis. Conducting monthly forecasting and weekly stock replenishment guidance for individual products to make sure products are available within expected lead time to customer. Supply chain management. Review and finalize purchase order in SAP. Expedite purchase order to meet delivery date. Managed procurement business data system input and integrity, and created bills of materials (BOM) and parts and commodities numbers in company supply chain management. Give final build qty to suppliers and schedule inspection on their facility for improvement and maintain the quality. Developing quality standards to be followed by vendors. Map current process and propose improved process for the better quality within our facility. Issue charge back to supplier if production or sample do not match with approval/standard. Prepare inspection report for each vendor and discuss with vendors. Select and set up third party inspection to inspect apparels while they are ready to ship from supplier."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Engineering Management",
+            "school": "",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Engineering, Textile Technology",
+            "school": "LDCE-Gujarat University, India",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        "Computer aided Textile Design course, Canada-India Institute Industry Linkage Project at L.D.C.E, Ahmedabad",
+        "LAA Teqnix 2006, L.D.C.E., Ahmedabad",
+        "Tex Icon-Smarter 2005, L.D.C.E., Ahmedabad"
+    ],
+    "languages": [
+        "Czech"
+    ]
+}

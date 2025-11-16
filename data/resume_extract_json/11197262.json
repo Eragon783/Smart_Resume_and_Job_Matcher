@@ -1,0 +1,84 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Environmental Biologist and experienced researcher with expertise in data collection and field surveys. Proficient in Microsoft Office and wetlands identification and delineation. Strong verbal and written communication skills; experienced in forest pest surveys, invasive species monitoring, and lab data analysis.",
+    "skills": [
+        "Wetlands identification and delineation",
+        "Data collection",
+        "Microsoft Office",
+        "Verbal and written communication",
+        "Bench chemistry",
+        "Wet chemistry",
+        "Dry chemistry",
+        "Qualitative and quantitative chemical measurements",
+        "Following standard operating procedures (SOPs)",
+        "Technical and mechanical ability",
+        "Teamwork and independent work",
+        "Field surveys",
+        "Forest pest surveys",
+        "Insect trap operation"
+    ],
+    "experience": [
+        {
+            "title": "Plant Protection and Quarantine Technician",
+            "company": "Company Name, City, State",
+            "start_date": "May 2011",
+            "end_date": "August 2011",
+            "description": "Regional specialist independently conducting Asian Long-Horned Beetle and Emerald Ash Borer ground based visual surveys in eight northeastern Pennsylvania counties. Implemented PPQ standards safeguarding agriculture and natural resources from risks associated with plant pests to ensure an abundant, high-quality forest canopy. Employed industry standards effectively collecting forest and insect field data and reporting results in a timely manner."
+        },
+        {
+            "title": "Forest Insect Pest Aide I",
+            "company": "Company Name, City, State",
+            "start_date": "May 2009",
+            "end_date": "August 2009",
+            "description": "Emerald Ash Borer, Asian Longhorn Beetle, Sirex Woodwasp and apiarian surveys in Lackawanna County, PA (2008) and ten northeastern Pennsylvania counties (2009). Accurately identified plant hosts utilizing a dichotomous key, enabling placement, baiting and monitoring of Lindgren Funnel, sugar bait, IPM Tech panel and purple panel insect traps. Operated and maintained PDA owned 4x4 pickup truck and Panasonic Toughbook computer with Global Mapper and Microsoft Office software."
+        },
+        {
+            "title": "Forest Insect Pest Aide",
+            "company": "Company Name, City, State",
+            "start_date": "May 2008",
+            "end_date": "August 2008",
+            "description": "Emerald Ash Borer, Asian Longhorn Beetle, Sirex Woodwasp and apiarian surveys in Lackawanna County, PA (2008) and ten northeastern Pennsylvania counties (2009). Accurately identified plant hosts utilizing a dichotomous key, enabling placement, baiting and monitoring of Lindgren Funnel, sugar bait, IPM Tech panel and purple panel insect traps. Operated and maintained PDA owned 4x4 pickup truck and Panasonic Toughbook computer with Global Mapper and Microsoft Office software."
+        },
+        {
+            "title": "Trail Steward and Workshop Staff Member",
+            "company": "Keystone College, City, State",
+            "start_date": "May 2007",
+            "end_date": "August 2007",
+            "description": "Trail maintenance of Keystone College's 160-acre Woodland Campus and Lake Manataka Environmental Field Station, hazardous tree removal and firewood harvest. Provided field support at Watershed Explorers Workshop performing water quality monitoring of local lakes and streams utilizing Secchi depth, temperature, conductivity, oxygen depth profile, benthic macroinvertebrates, taxa richness and fish indices. Employed methods of electro fishing, seining and kick nets; collection and identification of macrophytes."
+        },
+        {
+            "title": "Flammulated Owl Research Lab Technician",
+            "company": "University of Nevada-Reno, City, State",
+            "start_date": "September 1998",
+            "end_date": "January 1999",
+            "description": "Laboratory analysis and documentation of Flammulated Owl prey delivery video, operating video editing equipment. Field data analysis of nest site foraging habits to determine regional insectivorous dietary selection, consumption, prey density and diversity. Organized insect collections with stereomicroscope, and invertebrate field guide. Analysis of insect energy content, utilizing caloric centrifuge, to determine caloric requirements of individual nests."
+        },
+        {
+            "title": "Wildlife Biology Field Assistant",
+            "company": "Continental Divide, New Mexico, City, State",
+            "start_date": "May 1998",
+            "end_date": "September 1998",
+            "description": "Assisted in avian field surveys utilizing research data analysis to determine the condition of the current population of Flammulated Owls in western New Mexico. Collected nest site and microhabitat forest density measurements with GPS, densitometer, clinometer, and video equipment. Participated in broadcast surveys, observed nest site selection, flight patterns, foraging rates and prey selection data; used mist nets to capture, band and collect blood samples for DNA fingerprinting."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Environmental Biology",
+            "school": "Keystone College",
+            "year": 2011
+        },
+        {
+            "degree": "Certificate: Wetland Delineation and Identification",
+            "school": "Rutgers, The State University of New Jersey",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        "American Red Cross First Aid and CPR training",
+        "FEMA Federal Emergency Management Training"
+    ],
+    "languages": []
+}

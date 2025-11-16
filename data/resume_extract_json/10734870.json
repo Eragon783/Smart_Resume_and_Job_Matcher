@@ -1,0 +1,108 @@
+{
+    "name": "Edgardo M. Dubose",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced in warehouse and technician work with wiring of 508A UL soft starters and hard starters, customer service, security, Microsoft Office, and leadership. Skilled in installing Direct TV, soldering, assembling enclosures, forklift operation, and team collaboration; proven ability to learn quickly and adapt to various tasks.",
+    "skills": [
+        "basic",
+        "benefits",
+        "billing",
+        "clients",
+        "excellent customer service",
+        "customer service",
+        "forklift",
+        "hammer",
+        "hvac",
+        "inspect",
+        "inventory",
+        "team lead",
+        "multi-tasking",
+        "pallet jack",
+        "cameras",
+        "power tools",
+        "reading",
+        "safety",
+        "schematics",
+        "shipping",
+        "soldering",
+        "tape measure",
+        "answer phones",
+        "phone",
+        "tv"
+    ],
+    "experience": [
+        {
+            "title": "Construction Worker",
+            "company": "Construction Company Name",
+            "start_date": "2014-01",
+            "end_date": "2015-01",
+            "description": "Construction of houses. Subcontract with Aslide. Applying Sofit, Siding. Use of saw, hammer, drill, tape measure etc. Covers up wood on home exterior."
+        },
+        {
+            "title": "Wire-man Assembler",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2014-01",
+            "description": "Assemble Chromatograph. Build product from scratch. Inspect all products before use. Apply circuit board. Soldering. Wire. Inspect for shipping. Used power tools."
+        },
+        {
+            "title": "Wire-man",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2013-01",
+            "description": "Read electronic circuits schematics. Circuit board and soldering. Wire. Multi-task using voltage reading for assembly production. Use of power tools and understand the basic of mechanics with tools. Install and repair electric wire. Build soft starters, hard starters. Drill and Tap. Assemble Enclosure."
+        },
+        {
+            "title": "Security Guard",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2012-01",
+            "description": "Front desk, answer phones, supplying customer service. HVAC systems, elevators. Security cameras. Patrol and secure the building."
+        },
+        {
+            "title": "Technician",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2012-01",
+            "description": "Consult helping customers plan for Direct TV. Multi-tasking building satellites while installing. Assigning membership and handling account information. Install wire outlets, cut wire, ground wire, check for output of wire. Use of power tools drills, saws etc. Birddogs used to find signals."
+        },
+        {
+            "title": "Supervisor",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2009-01",
+            "description": "Provided excellent customer service and satisfaction. Fielded phone calls and emails. Managed inventory. Maintained building equipment. Supervised employees. Track incoming and outgoing packages. Assemble appliances and furniture."
+        },
+        {
+            "title": "Sales Representative/Care Provider",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2008-01",
+            "description": "Sales representative for incoming patients. Scheduled appointments for potential clients to visit the site. Answered inquiries about the benefits and services of the site. Provided potential clients with different services and packages. Responded and directed all complex incoming calls. Maintained a daily log of appointments. Maintained clean, working and livable environment for patients. Resolved customer service inquiries regarding billing and payments schedules and benefits. Authorization for treatments and medicine."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Fire Science",
+            "school": "Bakersfield College",
+            "year": null
+        },
+        {
+            "degree": "Fire Science",
+            "school": "Houston Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Driver Safety Test Certificate",
+        "Certified to work with Autistic Individuals",
+        "Security Certification- Levels 1, 2, 3",
+        "Forklift and Pallet Jack Certificate",
+        "Ebiz, Management, professional Team lead training",
+        "HVAC",
+        "Emergency Life crisis building evacuation skills",
+        "Chemicals Understanding and reaction Experience"
+    ],
+    "languages": []
+}

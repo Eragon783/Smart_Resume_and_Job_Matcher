@@ -1,0 +1,100 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Fort Harrison, MT, United States",
+    "summary": "Senior aviation and safety leader with decades of military aviation experience in leadership, safety management, training, aircraft maintenance, and budget oversight, including disaster response coordination and regulatory compliance.",
+    "skills": [
+        "Project management",
+        "Leadership",
+        "Communication",
+        "Employee relations",
+        "Self-motivation",
+        "Risk management",
+        "Labor relations",
+        "Budget management",
+        "Aviation",
+        "General Aviation",
+        "Instructor",
+        "Training",
+        "Operations",
+        "Maintenance",
+        "Aircraft Maintenance",
+        "Aviation Administration",
+        "Budget",
+        "Safety Management",
+        "Workplace Safety",
+        "Rotary Wing",
+        "Accident Investigation",
+        "Aircrew",
+        "Avionics",
+        "Engine Repair",
+        "Equal Employment Opportunity",
+        "Ground Support Equipment",
+        "Logistics",
+        "Petroleum",
+        "Quality Assurance",
+        "Sheet Metal",
+        "Human Factors",
+        "Personnel Management",
+        "Staff Training",
+        "Transportation Safety",
+        "Crisis response",
+        "Flight instruction",
+        "Instrument examination",
+        "Compliance",
+        "OSHA compliance",
+        "Safety program administration"
+    ],
+    "experience": [
+        {
+            "title": "Director of Aviation and Safety",
+            "company": "Montana Army National Guard",
+            "start_date": "2013-07",
+            "end_date": "Present",
+            "description": "Principal advisor to the Adjutant General for all Army aviation activity; duties include budget development and execution, training development, safety management and accident investigations, ground and air logistical management, and aircraft maintenance management. Coordinates with EEO, environmental law, and serves as a Management representative on the Labor Relations Board; develops training relationships with federal, tribal, state, and local agencies to respond to disasters."
+        },
+        {
+            "title": "US Army Officer",
+            "company": "US Army",
+            "start_date": "1985-06",
+            "end_date": "1993-01",
+            "description": "Rotary wing instructor pilot; assistant operations officer; section leader; platoon leader; executive officer; detachment commander. Served in a general aviation company and an aviation training company; unit Commander and fixed wing pilot in command. Branch qualified as US Army aviation and military intelligence officer."
+        },
+        {
+            "title": "Supervisory Aircraft Flight Instructor",
+            "company": "Montana Army National Guard",
+            "start_date": "1993-05",
+            "end_date": "2010-08",
+            "description": "Supervise an Army Aviation Support Facility; 63 employees; provide maintenance and flight training for 22 helicopters and 140 aircrew. Provide on-the-job training across multiple skill specialties; missions include medical evacuation, troop insertions and extractions, cargo resupply, and reconnaissance for counter-narcotics. Ensure OSHA compliance and fiscal law, FAR, EEO, and environmental compliance. Serve on Labor Relations Board and coordinate with federal, tribal, state, and local agencies."
+        },
+        {
+            "title": "Supervisory Aircraft Pilot",
+            "company": "Montana Army National Guard",
+            "start_date": "2010-08",
+            "end_date": "Present",
+            "description": "Supervise an Army Aviation Support Facility of 63 employees performing maintenance and flight training for the Montana Army National Guard. Oversee training across multiple aircrew and maintenance specialties; maintain helicopter instructor qualifications; coordinate safety, incident response, and state accident investigation responsibilities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Strategic Studies",
+            "school": "US Army War College",
+            "year": 2013
+        },
+        {
+            "degree": "Master of Aeronautical Sciences",
+            "school": "Embry-Riddle Aeronautical University",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelor of Business Administration",
+            "school": "University of Montana",
+            "year": 1985
+        }
+    ],
+    "certifications": [
+        "CRC"
+    ],
+    "languages": []
+}

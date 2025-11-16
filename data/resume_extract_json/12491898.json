@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Enthusiastic professional with strengths in hospital operations, compliance and healthcare management. Experienced patient care coordinator and CNA with a collaborative, results-oriented approach. Skilled in multi-area management, quality assurance, governance and patient advocacy.",
+    "skills": [
+        "Organizational skills",
+        "Team leadership",
+        "Problem solving",
+        "Claims processing",
+        "Regulatory compliance",
+        "Healthcare operations",
+        "Process improvements",
+        "Strategic planning",
+        "Documentation",
+        "Monitoring tools",
+        "Scheduling",
+        "Organizational standards",
+        "Decision making",
+        "Goal setting",
+        "Verbal and written communication",
+        "Interdepartmental collaboration",
+        "Multitasking ability"
+    ],
+    "experience": [
+        {
+            "title": "Construction Laborer",
+            "company": "Company Name",
+            "start_date": "2014-02",
+            "end_date": "2017-11",
+            "description": "Consistently assumed additional responsibilities and worked extended hours to meet project deadlines. Monitored inventory and reported items to be restocked for each job. Prepared and cleaned construction sites by removing debris. Loaded and unloaded building materials used for construction. Operated equipment such as [Machine type] and [Machine type]. Requisitioned new supplies and equipment. Dug trenches, backfilled holes and compacted earth to prepare for new construction."
+        },
+        {
+            "title": "Supply Chain Specialist",
+            "company": "Company Name",
+            "start_date": "2013-08",
+            "end_date": "2017-03",
+            "description": "Conducted [Analysis type] analysis and incorporated findings by [Action taken]. Supervised a team of [Number] area managers and [Number] associates. Established project control procedures such as project forecasts and cash flow projections. Helped earn the company [Number]% customer satisfaction ratings on [Website] by [Action taken]. Completed [Number] performance reviews each quarter, offering praise and recommendations for improvement. Spearheaded cross-functional initiative to achieve [objective]. Worked directly with [departments, clients, management] to achieve [result]. Created new revenue streams through [actions]. Developed and rolled out new policies. Hired and trained [Number] of staff. Exceeded company objectives with [results]. Increased profits by 60% in one year through restructure of business line."
+        },
+        {
+            "title": "Patient Care Assistant",
+            "company": "Company Name",
+            "start_date": "2013-08",
+            "end_date": "2017-03",
+            "description": "Measured effectiveness with team and implemented recommendations for long term improvements. Maintained confidentiality and compliance standards at all times. Evaluated effectiveness of current strategies with interdisciplinary team and utilized recommendations to make permanent improvements to care standards. Upheld confidentiality requirements and regulatory compliance guidelines in all areas. Met with patients and families to discuss care and plan of action for future. Maximized preventative care utilization to reduce hospital burden and help eliminate readmissions. Reviewed each step of patient care and made proactive adjustments to avert issues. Worked with patients and families to develop future plans and discuss care actions. Performed as subject matter expert for case management processes. Completed documentation of care, hospital actions and patient activities. Updated documentation and reports detailing patient activities, care actions and hospital determinations. Coordinated charitable, government and community resources for patients. Connected patients with available community and charitable resources."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Lamar High School",
+            "year": "2007"
+        },
+        {
+            "degree": "Certified Nursing Assistant (CNA) - Health Care",
+            "school": "Houston Community College - Coleman College for Health Sciences",
+            "year": "2012"
+        },
+        {
+            "degree": "Certifications",
+            "school": "Houston Launch Pad",
+            "year": "2017"
+        }
+    ],
+    "certifications": [
+        "Heavy equipment operator",
+        "OSHA 10",
+        "NCCER",
+        "Construction site safety",
+        "Core Curriculum",
+        "Core Curriculum: Introductory Craft skills",
+        "Licensed/Certified Home Health Aide",
+        "Certified Nursing Aide"
+    ],
+    "languages": []
+}

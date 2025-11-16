@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Capable Accountant with a proven track record of managing multiple projects and meeting deadlines under pressure. Extensive knowledge of accounting software and processes. Team-oriented professional who prepares clear, comprehensive financial reports for executive-level management. Dynamic and highly qualified with extensive knowledge of accounting principles. Experienced in resolving billing issues, conducting reconciliations, and ensuring compliance with GAAP.",
+    "skills": [
+        "Analytical reasoning",
+        "Budget forecasting expertise",
+        "Account reconciliation expert",
+        "Financial planner",
+        "Effective time management",
+        "Advanced computer proficiency (PC and Mac)",
+        "Strong organizational skills",
+        "Excellent managerial techniques"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "04/2017",
+            "end_date": "Current",
+            "description": "Performed debit, credit and total accounts on computer spreadsheets/databases, using specialized accounting software. Performed field audits on wide variety of clientele using Quick Books System. Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions. Completed monthly, quarterly and annual bank reconciliations for more than two dozen companies. Managed accounting operations, accounting close, account reporting and reconciliations. Aligned all financial activity with the regulations of the GAAP."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "02/2017",
+            "end_date": "Current",
+            "description": "Evaluated accounting requirements during discovery meetings with potential clients. Provided reliable and timely project by project expense, capitalization, amortization and spend data for all departments. Tracked all capital spending against approved capital requests."
+        },
+        {
+            "title": "Bookkeeper",
+            "company": "Company Name",
+            "start_date": "10/2016",
+            "end_date": "04/2017",
+            "description": "Updated confidential employee banking information with accuracy and speed. Maintained accounts receivable documentation electronically and on paper. Increased efficiency and alleviated work loads by creating a new Excel financial recording system. Entered weekly sales and customer count sheets for review by management. Processed payroll, electronic deposits and employee pay adjustments. Researched and resolved collections and billing disputes with tact and efficiency."
+        },
+        {
+            "title": "Controller Assistant",
+            "company": "Company Name",
+            "start_date": "10/2016",
+            "end_date": "04/2017",
+            "description": "Maintained compliance with company and legal requirements. Completed quarterly and yearly audits. Systematically prepared documents and assembled financial statements for independent auditors. Executed accounts receivable reporting enhancements and reconciliation procedures. Investigated and resolved discrepancies in monthly bank accounts while under tight deadlines. Collaborated extensively with auditors during preliminary and year-end audit processes."
+        },
+        {
+            "title": "Controller",
+            "company": "Company Name",
+            "start_date": "05/2010",
+            "end_date": "08/2016",
+            "description": "Restructured and analyzed Profit Software System to improve budget reporting. Thoroughly reviewed financial statements and tax audits to correct any discrepancies. Revised and streamlined inefficient work procedures with automation software. Educated management on strategies for minimizing tax liability. Reviewed all tax returns prepared by individual departments before approval. Supplied detailed tax documentation needed to submit accurate corporate returns. Reviewed program needs and recruited qualified staff."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA in Accounting",
+            "school": "Andrés Bello Catholic University",
+            "year": "2014"
+        },
+        {
+            "degree": "Informatics Engineering",
+            "school": "Andrés Bello Catholic University",
+            "year": "2009"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Saint Anthony of La Florida",
+            "year": "2008"
+        }
+    ],
+    "certifications": [
+        "Certified Public Accountant (CPA) - # 138.882 (2014-2015 Venezuela)"
+    ],
+    "languages": [
+        "Spanish",
+        "English",
+        "Portuguese"
+    ]
+}

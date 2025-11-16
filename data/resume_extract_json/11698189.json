@@ -1,0 +1,54 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Dedicated and self-motivated professional with experience in providing outstanding support to business partners. Skillful in tracking details, office management, and following-up with internal and external partners to ensure ontime completion of projects. Possesses easily transferable skills such as organization, working with teams, time keeping/payroll and business writing. Highlights ADP Payroll System Microsoft Office Suite (Word, Excel, Outlook, Publisher and PowerPoint).",
+    "skills": [
+        "Critical Thinking",
+        "Conflict Resolution",
+        "Leadership",
+        "Integrity",
+        "Customer Service",
+        "Human Resource Training",
+        "Microsoft Office Suite",
+        "ADP Payroll System"
+    ],
+    "experience": [
+        {
+            "title": "HR Employee Relations Specialist",
+            "company": "Company Name",
+            "start_date": "02/2015",
+            "end_date": "Present",
+            "description": "Conducted investigations and resolutions of workplace issues/inquiries from field employees and management. Served as a partner for managers and employees by ensuring application of company policies and procedures. Created and conducted training for hourly and salaried employees. Supported performance management process for all employees. Partnered with Equifax and Unemployment Cost Control to research and respond to unemployment claims."
+        },
+        {
+            "title": "Store Operations Associate",
+            "company": "Company Name",
+            "start_date": "02/2014",
+            "end_date": "02/2015",
+            "description": "Monitored inventory control, processed physical counts of all merchandise, organized and secured all inventory (including cellular devices and accessories), and responsible for shipping and receiving of inventory. Investigated and resolved any inventory discrepancies. Merchandising, assisted with floor sets, created service desk tickets for defective equipment. Processed customer trade-ins and returns (cellular devices and accessories). Provided general customer service and processed account payments to assist account holders."
+        },
+        {
+            "title": "Clerical/Staff Associate IV",
+            "company": "Company Name",
+            "start_date": "01/2001",
+            "end_date": "01/2013",
+            "description": "Verified and updated business caption listings in (database) Common Suite System using setup forms received from the Directory Marketing Unit group. Review each Directory Listing Report in detail to confirm the accuracy of the data. Correct discrepancies between written order requests and database system. Interpret, verify, analyze and input listings from advertising orders. Input payroll, provided payroll administrative support for employees. Execute directory specific reports to prepare the white pages business section for final printing and shipping to external customers. Conducted training sessions for all new hires on writing service orders via NetMeeting (web-based) and classroom setting. Created learning materials including policy & procedure manuals utilized company wide."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Network Information & Technology Administration",
+            "school": "Eastern Michigan University",
+            "year": ""
+        },
+        {
+            "degree": "MBA: Management",
+            "school": "Davenport University",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

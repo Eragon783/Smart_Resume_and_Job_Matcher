@@ -1,0 +1,83 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Results-driven, skilled Quality Specialist focused on achieving success and increased productivity through improvements in quality, safety, operations, and administration. Knowledge and expertise in quality control, quality assurance, lean management, Six Sigma, and techniques and methods for improving the efficiency of an organization's quality procedures. Highly motivated with the aptitude and tenacity to resolve challenging issues, and to work productively with team members and supervisors to accomplish the organization's future vision and goals.",
+    "skills": [
+        "Lean manufacturing",
+        "Six Sigma",
+        "Quality control",
+        "Quality assurance",
+        "OEE",
+        "Value stream mapping",
+        "Kaizen",
+        "Root Cause Analysis",
+        "Statistical Process Control",
+        "5S methodology",
+        "Process improvement",
+        "SOP development",
+        "Procurement",
+        "Global and strategic sourcing",
+        "Client relationships",
+        "Data-driven decision making",
+        "Microsoft Office Suite",
+        "Dynamics CRM",
+        "Desktop Publishing",
+        "Photoshop",
+        "Illustrator",
+        "MS Access",
+        "MS Excel",
+        "MS Outlook",
+        "MS PowerPoint",
+        "Microsoft Publisher",
+        "MS Word",
+        "ERP - NetSuite",
+        "Project management",
+        "Training and leadership"
+    ],
+    "experience": [
+        {
+            "title": "Production Excellence Specialist",
+            "company": "Company Name",
+            "start_date": "October 2015",
+            "end_date": "January 2016",
+            "description": "Knowledge and use of Operational Equipment Efficiency (OEE) in PCB manufacturing environment. Expertise and proficiency in LEAN Manufacturing and Six Sigma Methodologies to identify direct and analyze machine group cells for Printed Circuit Board (PCB) and electromechanical components. Development and optimization of OEE reports, Standard Operating Procedures (SOP), process Protocols, guidelines. Understanding and comprehension of the following tools: Root Cause Analysis, Value Stream Map, Process Map, Pareto Chart, Kaizen, 7 Wastes, and Statistical Process Control."
+        },
+        {
+            "title": "Procurement and Operations Manager",
+            "company": "Company Name",
+            "start_date": "February 2014",
+            "end_date": "September 2015",
+            "description": "Developed, updated and maintained SOPs, Client Guidelines, HR and Technical Manuals and Protocols for Insight Company. Managed professionally 14 employees for Insight Quality Services Asian operations and accountable for implementation of strategic objectives, developing operations strategy, planning production services and client communication. Best practices and knowledge of LEAN Manufacturing systematic methods and tools to reduce waste and increase quality efficiency in Chinese manufacturing factories. Successfully assisted clients on Quality Control improvements and manufacturing challenges. Conducted quality control inspections all over China and supervised 14 inspectors conducing inspections for Jewelry and Electronic products. Assessed and trained personnel for promotion to cross-functional operations. Led regular stand-up meetings, events and continuous improvement projects with measurable goals. Developed and implemented data-based solutions in a timely manner. Assessed and trained personnel for promotion to cross-functional operations. Coordinated closely with quality control regarding products awaiting dispositions. Supervised production schedules, production quality and on time delivery. Defined manufacturing performance standards and reviewed the performance outcomes to set future targets. Identified staffing and capital needs, collected relevant data and wrote justifications for established needs. Diligently maintained safety and quality standards. Implemented root cause and corrective actions to remove production constraints and improve product quality. Enforced a culture of lean manufacturing and continuous improvement while providing operational leadership. Reviewed production orders, schedules, delivery dates and inventory levels to determine product availability. Trained, developed and counseled employees to develop a high performing team. Completed key projects on time, on budget and with a high level of accuracy. Budgeted monthly departmental expenses and implemented cost controls. Developed and maintained strong and clear communication and rapport with plant personnel. Created workforce planning and development models to inform quarterly scheduling and processes."
+        },
+        {
+            "title": "Internal Production Auditor",
+            "company": "Company Name",
+            "start_date": "October 2013",
+            "end_date": "January 2014",
+            "description": "Actively suggested operational improvements to enhance quality, improve production times and reduce costs. Helped achieve company goals by supporting production workers. Developed production tracking and quality control systems, analyzing production, quality control, maintenance and other operational reports, to detect production problems. Inspected finished products for quality and adherence to customer specifications. Monitored and adjusted production processes or equipment for quality and productivity. Monitored the production processes and adjusted schedules. Adhered to all applicable regulations, policies and procedures for health, safety and environmental compliance. Coordinated inventory and cost control programs. Worked with managers to implement the company's policies and goals. Reviewed operations and conferred with technical or administrative staff to resolve production and processing problems."
+        },
+        {
+            "title": "Aviation Boatswains Fuels Technician",
+            "company": "Military",
+            "start_date": "October 2006",
+            "end_date": "December 2012",
+            "description": "Successfully trained 54 personnel in QA protocols, equipment maintenance, MSDS and SOPs for Fuels evolutions. Effective decision-maker in high-pressure environments. Supervised operation and organizational maintenance of JP5 Fuel systems and specialized equipment. Completed multiple fire prevention safety training. Effectively tested 1,140,198 gallons of Jet Propulsion Fuel during two Persian Gulf Pacific Deployments. Excellent personal accountability and punctuality with 'zero' issues for the entire military term."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Information Systems Management",
+            "school": "University of Maryland University College",
+            "year": 2002
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English (Fluent)",
+        "Spanish (Fluent)",
+        "Mandarin Chinese (Basic Conversational)",
+        "German (Basic Conversational)"
+    ]
+}

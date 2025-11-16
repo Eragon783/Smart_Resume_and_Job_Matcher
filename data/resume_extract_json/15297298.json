@@ -1,0 +1,104 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Strategic, motivational, and solutions-focused leader with an MBA and extensive experience in analyzing systems/processes and implementing mission-critical infrastructure improvements. Broad based experience in the healthcare industry including regulatory/corporate compliance, strategic planning, and contract negotiations. Craft and implement key quality improvements to enhance quality patient care and secure regulatory compliance. Proven track record of success in developing solutions which significantly improve the efficiency of business operations; experience developing and implementing multi-year budgets and operational plans. Excel in corporate environments across diverse industries with the ability to collaborate effectively with colleagues, executives, and client groups.",
+    "skills": [
+        "Windows 2000",
+        "Windows XP",
+        "Windows 7",
+        "Windows Server 2000",
+        "Windows Server 2003",
+        "Windows Server 2008",
+        "Novell NetWare 4.x",
+        "Novell NetWare 5.x",
+        "Novell NetWare 6.x",
+        "EMR (Allscripts and McKesson)",
+        "TCP/IP",
+        "Enterprise Networks",
+        "Enterprise Virus Protection",
+        "Asset Management/ITIL",
+        "Arcserve",
+        "Backup Exec",
+        "NetBackup",
+        "Symantec Ghost",
+        "Cable Installation/Management",
+        "LANDesk",
+        "HIPAA/HITECH",
+        "Regulatory compliance",
+        "Change Management",
+        "Conflict Resolution",
+        "Corporate accounting",
+        "Project Management",
+        "Leadership Training",
+        "Disaster Recovery",
+        "VoIP",
+        "Scheduling",
+        "Public relations",
+        "Purchasing",
+        "Quality",
+        "Education/Training",
+        "Employee Development",
+        "Strategic Planning",
+        "Surveys"
+    ],
+    "experience": [
+        {
+            "title": "Practice Manager",
+            "company": "Company Name",
+            "start_date": "Aug 2014",
+            "end_date": "Current",
+            "description": "Develop annual planning, budgeting and productivity levels for corporate accounting. Prepare detailed business and financial activity reports and use financial ratios and statistical trending for market-wide growth. Improvements to top line growth by 39.4% through building an effective hospital team, ensuring a safe and engaging environment, and improving medical quality and business performance. Responsible for cost containment, cash control/banking, asset protection, loss prevention, inventory management, Federal and DEA compliance. Develop and deploy new hospital initiatives including training physician partners, implementing an efficient patient workflow from intake to discharge and community marketing/outreach campaigns. Build client base by providing extraordinary service to existing clients and by initiating new marketing plans."
+        },
+        {
+            "title": "Information Technology Manager",
+            "company": "Company Name",
+            "start_date": "Feb 2012",
+            "end_date": "Sep 2013",
+            "description": "Ensured regulatory compliance and integrity of health information systems. Provided support during surveys, ADR, and internal audits. Mentored and ensured the professional development of new clinical employees by providing onsite educational programs and supported seasoned clinical staff by making field visits. Member of the Performance Improvement committee and oversaw compliance department operations."
+        },
+        {
+            "title": "Information Technology Manager",
+            "company": "Company Name",
+            "start_date": "Sep 2008",
+            "end_date": "May 2011",
+            "description": "Revised technology initiatives, and developed strategic/operations plans to drive business operations. Provided all technical support for EMR (Allscripts) projects. Developed, authored, distributed, and enhanced processes and improved procedural manuals/policies Standardized purchasing, procurement, inventory, and network operations. Championed mission-critical operational changes which required new system, network, and telecommunication system training and employee development. Recognized developing teams and processes that boosted growth, profitability, and efficiency. Revised clinical training collateral, delivered classroom instruction, and conducted clinical visits to ensure all field staff competencies in EMR system."
+        },
+        {
+            "title": "Marketing Director",
+            "company": "Company Name",
+            "start_date": "Feb 2007",
+            "end_date": "Sep 2008",
+            "description": "Led marketing initiatives including service packaging, advertising campaigns, seminar rollouts agency placements, endorsements, media activities, service reviews, and website referrals. Oversaw communication and 3rd part public relations."
+        },
+        {
+            "title": "Director of Information Systems",
+            "company": "Company Name",
+            "start_date": "Jan 2004",
+            "end_date": "Feb 2007",
+            "description": "Implemented the agency's first disaster recovery plan to minimize productivity loss. Established equipment lifecycles to maximize use of technology throughout the organization. Created and delivered agency computer/security training collateral and instruction to increase end user knowledge and minimize agency risks. Boosted user satisfaction by doubling bandwidth at 2 remote sites and tripling bandwidth at the corporate site, and ensuring usage of VoIP in future projects. Reduced maintenance costs, improved productivity, increased employee security, and decreased travel expenses by implementing Verizon cell phone plan to replace pagers, and included the Field Force Manager that Integrated into backend clinical system to do scheduling."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration (MBA)",
+            "school": "Keller Graduate School of Management",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science in Telecommunications Management",
+            "school": "DeVry University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Cisco Certified Network Associate (CCNA/CCAI)",
+        "Leadership Training",
+        "ITIL Foundations Certification",
+        "Sniffer University - Sniffer Distributed Training Certified",
+        "Novell Administrator (CNA 5.1)",
+        "HIPAA/HITECH Regulation"
+    ],
+    "languages": []
+}

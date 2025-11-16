@@ -1,0 +1,64 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Mexico and USA",
+    "summary": "Innovative bilingual sales executive with more than 6 years of sales experience in Mexico and USA, successful at acquiring, expanding and managing key corporate accounts.",
+    "skills": [
+        "banners",
+        "brochures",
+        "developing business",
+        "BI",
+        "contracts",
+        "client",
+        "clients",
+        "customer service",
+        "English",
+        "financial",
+        "managing",
+        "meetings",
+        "promotional material",
+        "selling",
+        "sales",
+        "sales plan",
+        "sales reports",
+        "Scheduling",
+        "Sigma",
+        "Spanish"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Manager",
+            "company": "Company Name",
+            "start_date": "2010-05",
+            "end_date": "Present",
+            "description": "Responsible for selling hydraulic & pneumatic equipment in Mexico and USA to clients in Energy, Chemical & Mining industries. Met annual quotas of $1.4M USD. Led US client outreach, developed sales plans to expand client base outside Mexico. Scheduled 2-3 in-person meetings with potential US customers quarterly. Managed accounts in energy (e.g., PEMEX) and metallurgical/chemical (e.g., MET-Mex Peñaoles). Developed business plans to identify opportunities and upsell products/services. Arranged follow-up calls/meetings with Top 50 accounts bi-monthly to retain customers. Generated sales reports/forecasts and prepared quotations to meet customer needs and support collections."
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name",
+            "start_date": "2009-07",
+            "end_date": "2010-04",
+            "description": "Obtained new accounts by selling financial products and services to consumers and businesses. Consistently achieved sales quota by making 50-60 outbound cold calls per day. Maintained relationships to offer best customer service and personalized financial advice."
+        },
+        {
+            "title": "Marketing Intern",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2009-06",
+            "description": "Designed banners and brochures for annual events. Translated documents and promotional material from English to Spanish."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration - International Business",
+            "school": "St. Edward's University",
+            "year": 2009
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "I'm a fast-learning and enthusiastic animator seeking professional experience. I have over 7 years of formal art training, both digital and traditional. I'm skilled at design and character animation.",
+    "skills": [
+        "Toon Boom Harmony",
+        "TV Paint",
+        "Adobe Flash",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Aseprite",
+        "Paintool SAI",
+        "Gimp",
+        "Adobe After-Effects",
+        "Adobe Premiere",
+        "Final Cut Pro"
+    ],
+    "experience": [
+        {
+            "title": "Lead Artist",
+            "company": "Company Name",
+            "start_date": "2017-02",
+            "end_date": "Current",
+            "description": "Design custom D&D character sprites, \"party\" and menu screens, and backgrounds fitting 8-bit video game aesthetics for an upcoming Dungeons and Dragons YouTube series."
+        },
+        {
+            "title": "Digital Arts Assistant Instructor",
+            "company": "Company Name",
+            "start_date": "2016-06",
+            "end_date": "2016-08",
+            "description": "Assisted in teaching digital art, film, photography, minecraft-modding, coding, and animation to kids ages 5-18."
+        },
+        {
+            "title": "Canvassing Manager",
+            "company": "Company Name",
+            "start_date": "2015-05",
+            "end_date": "2015-08",
+            "description": "Gathered donations for the ACLU's proposed Employment Non-Discrimination Act for the protection of LGBT+ people in the workplace."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Animation",
+            "school": "Loyola Marymount University",
+            "year": "2018"
+        },
+        {
+            "degree": "High School Diploma: Art & Design",
+            "school": "Da Vinci Design High School",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

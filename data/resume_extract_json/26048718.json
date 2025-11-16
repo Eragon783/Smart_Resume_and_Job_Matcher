@@ -1,0 +1,112 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Ambitious HR professional who creates strategic alliances with organizational leaders to align with and support key business initiatives. Proven ability to build and retain high-performing teams by hiring, developing and motivating skilled professionals. Results-oriented HR professional with a track record of delivering mission-critical outcomes, combining entrepreneurial drive with strong presentation, communication, and cross-cultural leadership skills.",
+    "skills": [
+        "Microsoft Word Suite (Word, PowerPoint, Excel, Outlook, Access)",
+        "Kronos Timekeeper",
+        "Hyperion",
+        "PeopleSoft",
+        "Project Management",
+        "Leadership/Communication",
+        "Employee Relations",
+        "Market Research and Analysis",
+        "Microsoft Office",
+        "HRIS",
+        "Talent Acquisition",
+        "Orientation",
+        "Benefits",
+        "Compensation",
+        "Employee Retention",
+        "Training and Development",
+        "Labor Laws",
+        "Compliance",
+        "Policies and Procedures",
+        "Management",
+        "Market Trends Analysis",
+        "Performance Improvement",
+        "Forecasting",
+        "Interpersonal Skills",
+        "Coaching",
+        "Conflict Resolution"
+    ],
+    "experience": [
+        {
+            "title": "Sr. HR Consultant",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Spearheaded Coach One Project, resulting in a 50% increase in revenue. Attracted and retained clients; enhanced overall customer satisfaction. Created new revenue streams through business owner surveys. Generated new business through networking with local Chambers and business referral groups. Increased profits by 60% in one year through restructuring of the business line. Participated in speaking engagements and led strategy for the launch of a new product that secured the first customer within 60-90 days post-launch."
+        },
+        {
+            "title": "Director of Human Resources",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2014-06",
+            "description": "Administered HR policies across all phases of HR activity; identified legal requirements and government reporting regulations; ensured compliance. Recruited, interviewed, and selected employees; conducted new employee orientation. Maintained personnel records for government reporting; coordinated management training in interviewing, hiring, terminations, promotions, performance reviews, safety, HIPAA, and sexual harassment. Advised management on employee relations issues; responded to inquiries regarding policies, procedures, and programs. Administered and maintained benefits programs; developed and maintained HR systems. Managed affirmative action and equal employment opportunity programs. Strategically partnered with the CEO to streamline costs and increase efficiency while maximizing benefits. Collaborated with Administrators and Director of Nursing on a project to reduce hospital readmission for at-risk patients."
+        },
+        {
+            "title": "Human Resources/Education Instructor III",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2012-11",
+            "description": "Forecasted customers' needs by utilizing Need Assessments to plan, design, develop, implement, and evaluate educational programs. Developed Leadership and Management/Supervisor level courses and tracked pre-course and post-course progress. Facilitated New Hire and Leadership Orientation; instructed mandatory classes; updated policies in real-time. Organized logistics for course offerings and taught CPR, SAMA, and Driver's Safety. Collaborated with interdisciplinary team members to develop hospital-wide workshops and provided training/coaching. Prepared statistical analyses on course evaluations and revised programs per Performance and Program Improvement initiatives. Liaised with VP of HR to meet Joint Commission guidelines and survey readiness. Managed Literacy/ESL initiatives and hospital readmission projects to improve outcomes. Developed a 14-week course for supervisory competencies and a customer service training series."
+        },
+        {
+            "title": "Administrative Manager",
+            "company": "Company Name",
+            "start_date": "2007-07",
+            "end_date": "2008-09",
+            "description": "Managed HR staff operations including recruitment, wage determinations, promotions, employee relations, benefits explanations, disciplinary actions, credentialing, and performance appraisals. Reconciled faculty grant accounts and Kronos Timekeeper; communicated monthly balances. Ensured compliance with internal controls and privacy regulations (HIPAA, Joint Commission). Prepared budgets, grant proposals, RFPs, and ensured accuracy of contractual agreements. Coordinated schedules for clinical/research faculty and collaborated on special projects."
+        },
+        {
+            "title": "Media Specialist",
+            "company": "Company Name",
+            "start_date": "2005-08",
+            "end_date": "2007-07",
+            "description": "Taught Research Techniques to students; prepared budgets; led development of a comprehensive school media program. Managed department operations and trained staff on use of online resources. This role was held while completing an MBA."
+        },
+        {
+            "title": "Business Unit Vice President / Human Resources Branch Manager",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2005-03",
+            "description": "Liaised with EVP Global Oil & Gas and Power; led Relationship Managers to deliver effective products. Created reports for executive management including budgets, risk management, revenue forecasts, and ad hoc analytics. Served as primary contact for RFPs and audits; conducted employee performance appraisals, compensation, and training. Managed leadership and sales training; directed project management; assessed training needs and ensured timely delivery. Coordinated confidential executive meetings."
+        },
+        {
+            "title": "Bank Officer",
+            "company": "Company Name",
+            "start_date": "1998-10",
+            "end_date": "2000-01",
+            "description": "Trained Relationship Bankers in internal software (CIDAR); coordinated regional/global account planning; built databases for top-tier clients. Trained staff and assisted in bank restructuring initiatives."
+        },
+        {
+            "title": "Human Resources Consultant",
+            "company": "Company Name",
+            "start_date": "2008-09",
+            "end_date": "2009-01",
+            "description": "Coordinated Employee Satisfaction Survey and physician satisfaction surveys; delivered leadership development and ROI-focused programs. Led new employee orientation and UTMB recognition events; facilitated job fairs and resume/interviewing trainings. Role ended due to organizational changes following Hurricane Ike."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Doctorate of Business Administration - Leadership",
+            "school": "Walden University",
+            "year": 2016
+        },
+        {
+            "degree": "Master of Business Administration - Finance",
+            "school": "University of St. Thomas",
+            "year": 2006
+        },
+        {
+            "degree": "Bachelor of Science in Political Science and Business Management",
+            "school": "Texas A&M University",
+            "year": 1990
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

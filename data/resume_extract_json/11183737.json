@@ -1,0 +1,72 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A motivated administrative professional seeking a position in a challenging environment. Over 8 years experience successfully providing administrative and secretarial support to the operational department. Proficient in a range of computer applications. Well-developed communication and customer service skills. Proven ability to efficiently plan and manage multiple assignments to meet tight deadlines. A proactive problem-solver who gets the job done.",
+    "skills": [
+        "Compensation/benefits administration",
+        "Change management",
+        "Inventory control",
+        "Staff development",
+        "Operations management",
+        "Policy/program development",
+        "Skilled negotiator",
+        "Supervision and training",
+        "Computer-savvy",
+        "Travel administration",
+        "Schedule management",
+        "Self-starter",
+        "Deadline-oriented",
+        "Spreadsheet development",
+        "Proficient in managing business correspondence",
+        "Organizational skills",
+        "Filing and updating records",
+        "Travel and accommodation arrangements",
+        "Light bookkeeping",
+        "General office procedural know-how",
+        "Independent and team work",
+        "Typing at least 35 WPM",
+        "Microsoft Office",
+        "Internet savvy",
+        "Customer service orientation",
+        "Data analysis",
+        "Attention to detail",
+        "Interpersonal skills",
+        "Self-motivation",
+        "Stress management",
+        "Flexibility in working hours"
+    ],
+    "experience": [
+        {
+            "title": "Manager- Administration & Facilities",
+            "company": "Company Name, City",
+            "start_date": "2007-01",
+            "end_date": "2011-01",
+            "description": "Responsible for managing all travels and transport-related official activities while maintaining a healthy work environment and discipline, and handling various company vehicles. Coordinate air travel, hotel bookings, conference hall bookings, and visa arrangements for official purposes as required, including boarding and lodging for Management Heads and guests. Liaise with vendors for purchase orders, vendor reconciliation, invoices, and agreements, ensuring timely payments. SAP knowledge in inventory and vendor management. Liaise with authorities and departments for smooth commercial operations and shipment of goods/material between outlets. Maintain and update premise lease agreements in liaison with Government agencies such as Electricity, Municipal, and Telecom offices. Oversee allocation of workplace, telecommunication, IT infrastructure, and other necessities for employees. Ensure hygienic surroundings by managing branch operations, coordinate housekeeping and security services, and assure safety regulations in equipment use. Maintain uniform inventory for departmental staff. Manage supplies and equipment with adequate inventory levels to ensure a clean, safe, and comfortable environment; upkeep and maintenance of equipment and machines, scheduling cleaning shifts, maintaining visual appearance and décor. Ensure staff are trained and equipped to perform their duties. Manage events for meetings and internal events; accountable for utilities and maintenance of office furniture and outsourced services (Security, Printers, Stationery Suppliers, Electrician, Water Suppliers, Travel Agents)."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name, City",
+            "start_date": "2006-01",
+            "end_date": "2007-01",
+            "description": "Independently handled the overall functional management for Food and Beverage outlet and implemented strict measures in customer care procedures to optimize guest satisfaction and retention. Ensured best practices in service and hygiene while liaising with the chef for menu planning and seasonal/festival selections based on customer reviews. Responsible for service satisfaction to a variety of guests from diverse backgrounds and maintaining international standards. Handled guest relationships, planning and executing operations to ensure quality service, managing guest requests, complaints and feedback, and displaying cordial attitude towards them for referral and repeat business to enhance profitability; achieved a high guest satisfaction indices score. Maintained administrative and procedural processes to improve accuracy and efficiency. Established systems for record retention by creating a database for daily correspondence tracking."
+        },
+        {
+            "title": "Training & Administration Manager",
+            "company": "Company Name, City",
+            "start_date": "2004-01",
+            "end_date": "2006-01",
+            "description": "Analyzed each department's training needs and developed new training programs based on the analysis. Designed training modules that implemented strategic business practices and organizational behavior concepts. Designed and developed training and development programs based on organizational and individual needs, considering costs within budgets. Worked in a team to produce programs satisfactory to line managers, accountants, and senior managers at board level. Devised individual learning plans and produced training materials for in-house courses. Assisted in managing the delivery of training and development programs and ensured statutory training requirements were met. Evaluated training and development programs and helped line managers and trainers solve problems. Developed alternative learning methods such as coaching, e-learning, clinical supervision, and shadowing to support workforce development. Independently managed the overall functional management for Food and Beverage outlet and implemented customer care procedures to optimize guest satisfaction and retention. Managed housekeeping, administrative policies, transport facility arrangements, guest house, outsourced staff, suppliers, budget, equipment/materials, and inventory control. Designed the annual budget for General Admin, Infrastructure, and maintenance; monitored training costs; created testing and evaluation procedures. Trained instructors and supervisors on management techniques; maintained corporate responsibility by staying up-to-date with laws affecting HR training programs. Designed electronic file systems and managed receptionist area, greeting visitors and handling inquiries."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBM (Business Management)",
+            "school": "MYSORE UNIVERSITY, India",
+            "year": "2000"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

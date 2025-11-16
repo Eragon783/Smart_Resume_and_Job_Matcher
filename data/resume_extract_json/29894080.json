@@ -1,0 +1,100 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "California, USA",
+    "summary": "Senior Construction Manager EPCM Safety/Mitigation, JSA, rules, regulations, work procedures and emergency response. Design, Standards, Land Development, Infrastructure, Wet and Dry (PGE/SCE) utilities, Road Paving/Engineering, Caltrans/Public Works, Permits and Traffic Control. Twenty+ years experience on a team oriented, multi-disciplinary environment in the commercial, industrial and residential field. Professional experience ensuring time, cost effectiveness and liability minimization of personnel, equipment and material by estimating, reviewing plans, submittals/RFI, approving bid packages, proposals, RWO, WO and CO. Coordinate and schedule all phases of construction, safety, erosion control, land development, infrastructure, shut downs, tie ins, paving/road and environmental solutions. Forward planning, grading, CPUC: G.O. 95, 128 and rule 20, street utility improvements, bond release and final Fire Dept. inspections to start the reimbursement and building occupancy process for a number of developments. Track record of estimating, proposing and bringing complex construction and land development projects with up to $225M and 200+ employees, fleet of heavy equipment and material from conception to completion within budget and on time.",
+    "skills": [
+        "automation",
+        "C",
+        "contract administration",
+        "estimating",
+        "forecasting",
+        "framing",
+        "GIS",
+        "HVAC",
+        "inspection",
+        "materials",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "Microsoft Project",
+        "Word",
+        "SAP",
+        "SCADA",
+        "SRM",
+        "BPC",
+        "Safety",
+        "proposals",
+        "renovation",
+        "RFI",
+        "scheduling",
+        "transmission",
+        "water treatment",
+        "First Aid"
+    ],
+    "experience": [
+        {
+            "title": "Senior Construction Project Manager",
+            "company": "Company Name",
+            "start_date": "2002-01",
+            "end_date": null,
+            "description": "EPCM, safety/mitigation, JSA, rules/regulations, design standards, land development, infrastructure, utilities, road paving/engineering, permits and traffic control. Managed projects up to $225M with 200+ employees, scheduling, bid packages, submittals, RFI, RWO, WO and CO; coordination across all phases."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Steton Construction",
+            "start_date": "1997-01",
+            "end_date": "2002-01",
+            "description": "Residential/Public Works and Commercial projects in California; managed subcontractors, inspections, permits, submittals, RFIs; grading, underground wet/dry utilities, road paving/engineering; coordinated with city/building departments and Fire Dept for final inspections."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Texaco/Smith Construction",
+            "start_date": "1986-01",
+            "end_date": "1997-12",
+            "description": "Raptor Rain Forest environmental/remediation, land development and construction projects; supervised ~$125M projects with 200+ employees; managed structures, process equipment, underground utilities, road construction and environmental materials handling."
+        },
+        {
+            "title": "Assistant Project Manager",
+            "company": "Kasler Construction",
+            "start_date": null,
+            "end_date": null,
+            "description": "Highway, Bridge/Underpass design-built project with CALTRANS; coordination and inspections with subcontractors; submittals, change orders, RFI's, contract administration; oversight for Santa Barbara freeway/bridge work."
+        },
+        {
+            "title": "Assistant Superintendent",
+            "company": "Consolidated Concrete Structures",
+            "start_date": null,
+            "end_date": null,
+            "description": "Commercial Oxnard project; supervision of TILT-UP structures; safety oversight; surveying and grading support; coordination of grading, underground wet/dry utilities and site development."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. in Petro/Civil Engineering",
+            "school": "University of Southern California",
+            "year": null
+        },
+        {
+            "degree": "B.S. in Petro/Civil Engineering",
+            "school": "University of Southern California",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Hazwoper (40 hours)",
+        "SWPPP training",
+        "Westec Passport Safety Training",
+        "Best Plus Safety Training",
+        "Trench and Excavation",
+        "First Aid",
+        "ROTC Training",
+        "C.O. Core Training",
+        "POST (Peace Officers Standards and Training)",
+        "Class A Driver's License"
+    ],
+    "languages": [
+        "Spanish (Fluent)"
+    ]
+}

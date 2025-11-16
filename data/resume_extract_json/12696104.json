@@ -1,0 +1,50 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Motivated sales associate with 3+ years of sales and customer service experience. Currently enrolled in Suffolk County Community College studying culinary.",
+    "skills": [
+        "Good at communicating and interacting with customers",
+        "Good time management",
+        "Self-motivation",
+        "Good adaptability"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "03/2016",
+            "end_date": "10/2016",
+            "description": "Interact with customers. Work the register. Answer calls."
+        },
+        {
+            "title": "Sales Associate/Smoothie Maker",
+            "company": "Company Name",
+            "start_date": "10/2014",
+            "end_date": "03/2016",
+            "description": "Interact with customers. Organize inventory. Work the register."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "09/2013",
+            "end_date": "09/2014",
+            "description": "Organize shelves and racks/inventory. Work the register. Answer calls. Interact with customers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "High School",
+            "year": 2015
+        },
+        {
+            "degree": "Culinary studies",
+            "school": "Suffolk County Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

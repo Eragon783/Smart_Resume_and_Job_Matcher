@@ -1,0 +1,55 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Reading, Speech & Language Arts Teacher with over a decade of experience designing and implementing curricula aligned to Common Core Standards; strong communication, leadership, and public speaking skills; adept at collaborating with staff, fostering supportive relationships with students, and integrating technology to create organized, engaging learning environments.",
+    "skills": [
+        "Arts",
+        "BA",
+        "Creative Writing",
+        "Delivery",
+        "English",
+        "Fiction",
+        "Novels",
+        "Poetry",
+        "Psychology",
+        "Reading",
+        "Research",
+        "Short stories",
+        "Speech",
+        "Teaching"
+    ],
+    "experience": [
+        {
+            "title": "Reading, Speech & Language Arts Teacher",
+            "company": "Company Name - City, State",
+            "start_date": "2000-01",
+            "end_date": "2015-01",
+            "description": "Designed and implemented original reading curriculum around Common Core Standards; Taught 6th Grade English Language Arts including co-teaching; Focused on reading comprehension, spelling and vocabulary; Taught Speech Communication with emphasis on concepts, delivery skills and formats; Integrated individual and group projects and assessment; Taught sophomore English (American Literature), freshman English, and electives such as Creative Writing; Coordinated yearbook program, budgeting, sales and technology training; Supervised and assisted with graduation video production; On educational leave of absence following this period."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Secondary Classroom Teaching",
+            "school": "Saginaw Valley State University",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Applied Arts in Interpersonal and Public Communication, Marketing",
+            "school": "Central Michigan University",
+            "year": "1995"
+        }
+    ],
+    "certifications": [
+        "Secondary Teaching Certification: Communication & Theater English and Psychology (2000) - Saginaw Valley State University",
+        "Michigan Secondary (6-12) Teaching Certification",
+        "Professional Education Certificate: Speech, Dramatic Arts/Theater (BD)",
+        "Professional Education Certificate: English (BA)",
+        "Professional Education Certificate: Psychology (CE)",
+        "Recipient of the U.S. Department of Education TEACH Grant Program"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Aaron LeRoi Hodge",
+    "email": null,
+    "phone": null,
+    "location": "Maryland, USA; New York, USA; California, USA",
+    "summary": "Lead Chef & Food Truck Manager with extensive CIA training and hands-on experience in high-volume, high-service kitchens. Skilled in global cuisines, wine & beer pairing, and farm-to-table sourcing. Proven leadership across front- and back-of-house operations, including large-scale events and personal chef services.",
+    "skills": [
+        "High-volume production capability",
+        "Contemporary sauce work",
+        "Well-tuned palate",
+        "Sense of urgency",
+        "Problem-solving",
+        "ServSafe certified",
+        "Knowledge of personal chef/private catering",
+        "Fast and capable of handling large projects",
+        "Local ingredient sourcing / farm-to-table cooking",
+        "Front-of-house and back-of-house leadership"
+    ],
+    "experience": [
+        {
+            "title": "Lead Chef & Food Truck Manager",
+            "company": "Company Name",
+            "start_date": "2015-05",
+            "end_date": "Present",
+            "description": "Helped make a concept become a reality and currently working to become a brand. Working under a talented former French Laundry Executive Chef, and a team of passionate individuals."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "2012-10",
+            "end_date": "2013-02",
+            "description": "Worked multiple stations (including pantry, fish, middle sauce and grill). Made significant contributions to assist kitchen to successfully serve thousands of dining guests during the busy 2012 Thanksgiving & Christmas Holiday season. Gained invaluable experience in a fine dining, high production kitchen (average 200-300 covers normally; 500-700 during holidays, 40+ hours/wk). Developed and maintained positive working relationships with others to reach business goals. Followed all safety and sanitation policies when handling food and beverage to uphold proper health standards. Consistently provided professional, friendly and engaging service. Provided friendly and attentive service."
+        },
+        {
+            "title": "Chef, Owner",
+            "company": "Company Name",
+            "start_date": "2010-05",
+            "end_date": "Present",
+            "description": "Chef Aaron LeRoi Hodge - Various Locations From Maryland to New York to California (www.ChefAaronLeRoi.com) - specializes in Healthy Cuisine and Personal Fit Meals. Preparing 50-100 meals weekly for customers at various types of gyms. Rotating healthy weekly menu choices; fresh local ingredients; focused on catering real, naturally ingredients, that can improve health and promote good eating habits. Full Personal Chef Services w/ a wide variety of meals from 10 - 50 guests"
+        },
+        {
+            "title": "Culinary Apprentice under Executive Chef",
+            "company": "Company Name",
+            "start_date": "2010-05",
+            "end_date": "2012-02",
+            "description": "Food preparation, cooking, carving, grilling, food plating and serving for buffets. 30 hours/week. Consistently provided professional, friendly and engaging service. Followed all safety and sanitation policies when handling food and beverage to uphold proper health standards. Displayed enthusiasm and knowledge about the restaurant's menu and products."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Glenelg High School",
+            "year": 2011
+        },
+        {
+            "degree": "Culinary Arts",
+            "school": "L'Academie de Cuisine",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Arts in Culinary Arts & Culinary Arts Management",
+            "school": "The Culinary Institute of America",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        "ServSafe certified"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Novella Walton",
+    "email": "Novella.Walton@VerizonWireless.com",
+    "phone": "404-556-7261",
+    "location": "Unknown",
+    "summary": "Experienced, results-oriented Customer Service Supervisor with a proven track record of achieving business goals, improving processes, leading cross-functional teams, and enhancing customer experience.",
+    "skills": [
+        "Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Strategic Account Planning",
+        "Cross-functional Team Management",
+        "Analytical Skills",
+        "Customer Experience/Retention",
+        "Negotiation Skills",
+        "Account Management",
+        "Sales",
+        "Data Analysis"
+    ],
+    "experience": [
+        {
+            "title": "Consultant Account",
+            "company": "Company Name",
+            "start_date": "2014-12",
+            "end_date": "Present",
+            "description": "Responsible for strategic and tactical execution of project management initiatives that support the account management workgroup. Define project scope, goals and deliverables that support business goals in collaboration with leadership and key stakeholders. Drive online portal utilization strategies and approaches to increase business automation. Launched a Core Team to promote business automation; improved metrics. Drive and evaluate best practices for customer relationships. Achieved leading Customer Loyalty Index (South #1 at 9.73%) and Net Promoter Score of 83% for the South. Identify root causes and data trends across key account management metrics; collaborate with field partners to drive opportunities and penetration into VES accounts."
+        },
+        {
+            "title": "Supervisor Account Management (Global Enterprise Advisors)",
+            "company": "Verizon Business & Government Customer Operations",
+            "start_date": "2013-09",
+            "end_date": "2014-12",
+            "description": "Defined, developed and implemented strategic account plans encompassing AR reduction, business automation utilization, monthly audits and proactive servicing. Led Self-Serve Execution team for the South Area. Coordinated with customers, management and internal departments to execute strategic account plans. Delivered high engagement at the account level with strong Net Promoter Score results: 1H2014 88% Customer Relationship Survey; 2H2014 Top Supervisor Team Net Promoter Score 87%."
+        },
+        {
+            "title": "Supervisor Account",
+            "company": "Company Name",
+            "start_date": "2011-05",
+            "end_date": "2013-09",
+            "description": "Provided support to internal and external customers through equipment order processing and account maintenance transactions for National, Major, and SMB Accounts. Partnered with the Business Sales Channel to service customers, assist with escalations, and handle large research requests. Completed requests via Workflow Manager accurately and timely; provided online support and answered account, equipment ordering, and My BIZ/VEC related questions."
+        },
+        {
+            "title": "National Account Business Service Center Supervisor",
+            "company": "Company Name",
+            "start_date": "2005-03",
+            "end_date": "2011-05",
+            "description": "Responsible for collaborating with peers to increase quality and productivity. Implemented strategies to reduce churn and improve customer satisfaction and Net Promoter Scores. Coordinated with training to identify training needs and assign to SMEs. Monitored and tracked phone team's performance through intraday reporting and systems. Evaluated individual performance through daily interactions, audits, monitoring and feedback."
+        },
+        {
+            "title": "NSA Account Team Supervisor",
+            "company": "Company Name",
+            "start_date": "2004-06",
+            "end_date": "2005-03",
+            "description": "NSA Account Team Supervisor overseeing account management and customer service activities."
+        },
+        {
+            "title": "Consumer Support / CMA Supervisor",
+            "company": "Company Name",
+            "start_date": "2000-05",
+            "end_date": "2004-06",
+            "description": "Consumer Support / CMA Supervisor responsible for supervising consumer support and CMA-related activities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Mercer University",
+            "year": "1984"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

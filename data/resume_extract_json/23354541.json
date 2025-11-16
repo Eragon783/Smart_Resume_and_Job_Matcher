@@ -1,0 +1,55 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Seasoned Dealership Finance Manager with a sound knowledge of the auto industry. Adept at evaluating credit requests, preparing and analyzing financial reports and preparing loan agreements. Specialize in quickly dealing with customer credit and financing issues in a timely courteous manner.",
+    "skills": [
+        "contracts",
+        "credit",
+        "clients",
+        "database",
+        "financing",
+        "financial",
+        "financial reports",
+        "policies",
+        "sales"
+    ],
+    "experience": [
+        {
+            "title": "Dealership Finance Manager",
+            "company": "Company Name – City, State",
+            "start_date": "03/2011",
+            "end_date": "Current",
+            "description": "Oversaw credit department staff. Maintained ongoing communications with clients. Worked to resolve credit and financing issues. Identified new business prospects. Developed strategies with sales managers. Established credit and financing policies and procedures. Reviewed and approved loan applications in a timely manner."
+        },
+        {
+            "title": "Dealership Finance Manager",
+            "company": "Company Name – City, State",
+            "start_date": "11/2006",
+            "end_date": "03/2011",
+            "description": "Processed credit and loan applications. Prepared and analyzed credit reports. Evaluated contracts and loan agreements. Maintained customer database."
+        },
+        {
+            "title": "Dealership Finance Manager",
+            "company": "Company Name – City, State",
+            "start_date": "02/2003",
+            "end_date": "11/2006",
+            "description": "Reviewed credit and loan applications. Prepared monthly and quarterly financial reports. Negotiated financing and credit terms with customers. Ensured compliance with all applicable financial regulations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate's Degree in Accounting",
+            "school": "University of California - City, State",
+            "year": "2002"
+        },
+        {
+            "degree": "Bachelor of Science in Finance",
+            "school": "University of California - City, State",
+            "year": "2005"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

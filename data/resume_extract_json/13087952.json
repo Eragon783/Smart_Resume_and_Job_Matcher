@@ -1,0 +1,79 @@
+{
+    "name": "Farrah M. Bauman",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced educator with SC teacher certification for general sciences, specializing in physical science, chemistry, and medical microbiology. Proven skills in lesson planning, classroom management, mentoring, and program coordination. Proficient with Microsoft Office and grade/attendance systems. Interested in adjunct teaching and department leadership roles.",
+    "skills": [
+        "chemistry",
+        "hematology",
+        "immunology",
+        "lesson plans",
+        "machinery",
+        "Medical Technology",
+        "typing",
+        "mentoring",
+        "communication",
+        "social skills",
+        "biology",
+        "medical microbiology"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "2003-02",
+            "end_date": "Current",
+            "description": "Teach medical microbiology, chemistry, and physical science for 9-12 grades. Keep grade books, input grades into IGpro grade-keeping system. Responsible for detailed weekly lesson plans and parent correspondence. Active with Homecoming and Prom committees."
+        },
+        {
+            "title": "Teacher",
+            "company": "Company Name – City, State",
+            "start_date": "2003-02",
+            "end_date": "Current",
+            "description": "Taught honors, college prep medical microbiology; honors, college prep basic chemistry; honors biology (100% pass rate); physical science, 9-12 grades. Maintained PowerSchool grade books, created detailed lesson plans aligned with course objectives. Organized prom committees, yearly field trips, and Bridge Program mentorship. Communicated with parents; oversaw department inventory and literacy initiatives using DonorsChoose. Consistently received positive evaluations."
+        },
+        {
+            "title": "Summer National Board Certification grader for Pearson Medical Technologist",
+            "company": "Company Name – City, State",
+            "start_date": "2001-02",
+            "end_date": "2006-01",
+            "description": "Analyze blood and body fluids for hematology, chemistry, coagulation, immunology, and urinalysis using Beckman equipment. Maintain machinery; perform manual and automated hematology, cell differentiation of peripheral smears, plate microbiology, rapid tests for strep, influenza, Rocky Mountain spotted fever, and mononucleosis. A, B, O typing and antibody identification, sickle cell determination, antigen typing, cross matching."
+        },
+        {
+            "title": "Medical Technologist",
+            "company": "Company Name – City, State",
+            "start_date": "2001-02",
+            "end_date": "2006-01",
+            "description": "Analyze blood and body fluids for hematology, chemistry, coagulation, immunology, and urinalysis using Beckman equipment. Manual and automated hematology; maintenance of all machinery. Plate microbiology specimens; rapid tests for strep, influenza, Rocky Mountain spotted fever, and mononucleosis. A, B, O typing and antibody identification, sickle cell determination, antigen typing, cross matching."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.Ed in Secondary Education",
+            "school": "Southern Wesleyan University",
+            "year": "2007"
+        },
+        {
+            "degree": "Certificate in Medical Technology",
+            "school": "Carolinas College of Health Sciences, Carolinas Medical Center",
+            "year": "1999"
+        },
+        {
+            "degree": "B.S. Biology",
+            "school": "University of South Carolina",
+            "year": "1998"
+        }
+    ],
+    "certifications": [
+        "National Board Certified",
+        "AP Bio certified 2015",
+        "AP Chem certified summer 2017",
+        "Trained in educating at-risk youth",
+        "Teacher Mentor",
+        "National Board Grader"
+    ],
+    "languages": [
+        "English"
+    ]
+}

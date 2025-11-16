@@ -1,0 +1,94 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Utilize my extensive experience in the food service industry and to contribute my skills and knowledge in a management position with an industry leader.",
+    "skills": [
+        "compliance audits",
+        "concept",
+        "consulting",
+        "content",
+        "special events",
+        "fame",
+        "government",
+        "leadership",
+        "leadership skills",
+        "marketing",
+        "outside sales",
+        "retail",
+        "safety",
+        "seminars",
+        "servers",
+        "staff development",
+        "workshops"
+    ],
+    "experience": [
+        {
+            "title": "Senior Executive Chef",
+            "company": "Company Name City, State",
+            "start_date": "January 2012",
+            "end_date": "Current",
+            "description": "Manage and provide leadership and culinary training to 23 direct reports. Worked under budgeted costs through effective menu planning. Received gold scores in sanitation, safety and compliance audits. Demonstrated hands-on leadership skills in training and staff development. Implemented branded foods marketing program for retail. Introduced the use of sustainable products, local produce and farmers markets. Created special per diem menus for conference center increasing catering sale."
+        },
+        {
+            "title": "Executive Corporate Chef",
+            "company": "Company Name City, State",
+            "start_date": "January 2008",
+            "end_date": "January 2012",
+            "description": "Collaborated with Corporate RD/RN in creating and implementing upscale guest dining room and room service menus. Led culinary team in the implementation and support of corporate strategies in the opening of new properties and special events. Developed workplace safety and sanitation training schedule for culinary associates and dining room servers. Received Top percentile in silver chair training and state health department audits."
+        },
+        {
+            "title": "Executive Chef / Event Consultant",
+            "company": "Company Name City, State",
+            "start_date": "January 2004",
+            "end_date": "January 2008",
+            "description": "Laison to the Chicago Board of Realtors in consulting and planning of special events. Planned private parties and fundraisers for various government organizations and dignitaries. Created catering menus targeting specific lifestyle demographics. Hired, trained and counseled culinary and server staff of 25. Initiated program with vendors on wine tastings and culinary workshops."
+        },
+        {
+            "title": "Executive Chef / GM",
+            "company": "Company Name City, State",
+            "start_date": "January 1995",
+            "end_date": "January 2003",
+            "description": "Managed café and conference center with staff of 12 culinary associates. Worked with editors and publishers of various magazines for the foodservice and hospitality industry. Test Kitchen for culinary content in R&I magazine. Conducted culinary seminars and product cuttings with vendors."
+        },
+        {
+            "title": "Executive Chef / Assistant Manager",
+            "company": "Company Name City, State",
+            "start_date": "January 1993",
+            "end_date": "January 1995",
+            "description": "Managed Chicago style food court, utilizing local vendors (Vienna Beef, Connie's Pizza, Diana's Bananas, Poppies Dough, etc). Catered functions and special events for NBC, its affiliates and building tenants. Appeared regularly on Coffee Cam with NBC morning news. Opened lobby Kiosk with grab and go concept and barista station increasing outside sales."
+        },
+        {
+            "title": "Executive Sous Chef / Production Manager",
+            "company": "Company Name City, State",
+            "start_date": "January 1988",
+            "end_date": "January 1993",
+            "description": "Performed all essential duties as lead chef in the executive dining rooms and conference center. Monitored Q & A of both ingredients and finished products. Led culinary team in the opening of new cafeteria food court with varied ethnic theme cuisine concept stations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts in Culinary Arts",
+            "school": "Washburne Trade School",
+            "year": "1985"
+        },
+        {
+            "degree": null,
+            "school": "Culinary Institute of America (Hyde Park)",
+            "year": null
+        },
+        {
+            "degree": null,
+            "school": "Culinary Institute of America (Greystone)",
+            "year": null
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "Illinois Benedictine University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

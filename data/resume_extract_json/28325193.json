@@ -1,0 +1,92 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Passionate and dedicated Theater Arts Teacher with expertise in secondary curriculum development, classroom management, relationship building, continued professional development and management of a successful Theater Arts program for over six years.",
+    "skills": [
+        "Team Building",
+        "Program Development",
+        "Management",
+        "Goal Setting and Implementation"
+    ],
+    "experience": [
+        {
+            "title": "Theater Arts Teacher & Program Director",
+            "company": "Company Name, City, State",
+            "start_date": "August 2008",
+            "end_date": "Current",
+            "description": "Theater Arts 1-4, Technical Theater and Theater Arts Production to grades 9-12. UIL One Act Play Director, UIL Film Festival Contest Sponsor & Judge. Direct Fall Play Production or Musical. Maintain professional and student memberships, auditions, travel and workshops. Drama Club Sponsor. Maintain Drama Club Activity Funds and club activities. Account Management Supervisor to Theater Arts Co-Sponsor. Continue Professional Development Courses. Administrate Eustace High School Facebook and EHS Theater Arts Twitter pages. Draft and publish Eustace ISD 'The Yard' for Theater Arts. Secondary English III & TAAS Language Arts Teacher."
+        },
+        {
+            "title": "Secondary English & TAAS Language Arts Teacher",
+            "company": "Eustace High School",
+            "start_date": "July 2000",
+            "end_date": "August 2002",
+            "description": "Secondary English & Literature; TAAS Language Arts 9th-11th. Preparatory and Remediation TAAS Language Arts Tutoring. TAAS Testing Administrator. Set and communicated ground rules for the classroom based on respect and personal responsibility. Scheduled and held parent-teacher conferences to keep parents up-to-date on children's academic performance. Mentored and counseled students with adjustment and academic problems. Created lesson plans in accordance with state curriculum and school-wide curriculum standards. Established positive relationships with students, parents, colleagues and administrators. Coached students and reviewed test material in preparation for Texas state-wide standardized tests. Integrated technology into the curriculum to develop students' word processing and research skills."
+        },
+        {
+            "title": "Secondary English III & Theater Arts I Teacher",
+            "company": "Unknown Company",
+            "start_date": "June 1998",
+            "end_date": "July 2000",
+            "description": "English III and Beginning Theater Arts Teacher for grades 9-12. CO-Sponsored Thespians. Children's Show Production Director. English Department textbook adoption."
+        },
+        {
+            "title": "Secondary Student Teacher",
+            "company": "Unknown Company",
+            "start_date": "January 1998",
+            "end_date": "April 1998",
+            "description": "Secondary Student Teacher for Theater Arts I and English III. Classroom management. Co-director of class plays. Assisted with UIL one act play competition. Acting and Creative Dramatics."
+        },
+        {
+            "title": "Teaching Artist",
+            "company": "Unknown Company",
+            "start_date": "October 1997",
+            "end_date": "January 1998",
+            "description": "Teaching Artist: Acting III and Musical Theater. Implemented lesson plans in creative dramatic projects, singing, dancing, and voice. Conducted activities, instructed small groups, and provided whole class instruction. Leader of all group performances and exercises."
+        },
+        {
+            "title": "Acting Teacher",
+            "company": "Unknown Company",
+            "start_date": "June 1997",
+            "end_date": "August 1997",
+            "description": "Elementary Creative Dramatics teaching artist for Children's Courtyard Daycare Centers. Whole class instruction and lead all group performances and exercises."
+        },
+        {
+            "title": "Secondary Teaching Residency",
+            "company": "Unknown Company",
+            "start_date": "January 1997",
+            "end_date": "May 1997",
+            "description": "Mentor for Speech and English students. Instruction of small groups, whole class instruction. General Grading Rubrics and Assessment."
+        },
+        {
+            "title": "Secondary Teaching Internship",
+            "company": "Unknown Company",
+            "start_date": "January 1997",
+            "end_date": "May 1997",
+            "description": "One on one instruction, instructing small groups, and providing whole class instruction."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Theater Arts",
+            "school": "University of Texas at Arlington",
+            "year": "1998"
+        },
+        {
+            "degree": "Associate of Arts in Liberal Arts",
+            "school": "Tarrant County Community College",
+            "year": "1995"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Mabank High School",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Valid and Current Teaching Certification in Texas"
+    ],
+    "languages": []
+}

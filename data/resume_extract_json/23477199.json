@@ -1,0 +1,73 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Detail-oriented Quality Control Analyst well-versed in qualitative and quantitative analysis techniques. Strengths include multitasking, organizing data and prioritizing tasks. Offering 5 years' experience in Medical Device settings.",
+    "skills": [
+        "Quality control",
+        "GMP",
+        "GLP",
+        "ISO quality systems",
+        "5S Lean Manufacturing",
+        "Lean Manufacturing",
+        "Blueprints",
+        "SOPs",
+        "Documentation control",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Data recording and analysis",
+        "Inspection",
+        "Testing",
+        "Calibration",
+        "Equipment operation",
+        "Mechanical assembly",
+        "Clean room experience",
+        "ESD trained",
+        "FOD trained",
+        "Kanban",
+        "Problem solving",
+        "Cross-functional collaboration",
+        "Leadership and training"
+    ],
+    "experience": [
+        {
+            "title": "R&D New Product Development Technician",
+            "company": "Company Name – City, State",
+            "start_date": "2015-10",
+            "end_date": "2019-10",
+            "description": "Assembled work orders per process sheet; maintained document control; revised and reviewed engineering work orders and assembly procedures; helped engineers develop engineering work orders and wrote work instructions for operations; clean room experienced; Kanban and 5S Lean Manufacturing; ISO quality systems experience; inspected materials for GMP/GLP compliance; maintained organized workspace; read blueprints, diagrams, and SOPs; operated Mikron POP, ATS, Calvary, and Branson heat staking machines; used microscope to inspect products; performed testing per procedures."
+        },
+        {
+            "title": "Front Desk Clerk",
+            "company": "Company Name – City, State",
+            "start_date": "2013-11",
+            "end_date": "2015-04",
+            "description": "Handled member payments and information; maintained an organized and clean facility; greeted members and assisted with questions; promoted gym sales; managed smoothie bar, prepared shakes and restocked items."
+        },
+        {
+            "title": "Assembler/Tester (Contractor)",
+            "company": "Company Name – State",
+            "start_date": "2013-05",
+            "end_date": "2014-12",
+            "description": "Assembled chemical and mechanical products via process sheet; tested circuit boards and mechanical products; used tools such as torque wrenches, microscope and scales; handled chemicals and epoxy; assisted quality and process engineers in validation activities; quality inspected raw and finished products; identified problems and solved them; recorded data in Microsoft Word; read blueprints, process sheets and diagrams; set up, calibration, testing and troubleshooting of circuits and assemblies; machine operation; weighed and measured materials; managed chemical handling and disposal; ESD and FOD trained; clean room experienced; laser engraving; attention to detail."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Lowell High School",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Science in Quality Engineering",
+            "school": "Southern New Hampshire University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "ESD Trained",
+        "FOD Trained"
+    ],
+    "languages": []
+}

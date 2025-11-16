@@ -1,0 +1,90 @@
+{
+    "name": "Janet A. Strudwick",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Enthusiastic, knowledgeable professional with experience and proven success in program and project management, online and instructor led design, development and facilitation. Outstanding problem-solving skills, as proven through implementation of accounting software packages, significantly improving billing and reporting processes. Excellent management skills, encouraging career growth of subordinates through additional training and opportunities. Keep up-to-date with industry changes through professional affiliation.",
+    "skills": [
+        "Accounting",
+        "billing",
+        "Change Management",
+        "contracts",
+        "Client Relations",
+        "Database",
+        "delivery",
+        "Eclipse",
+        "Finance",
+        "financial reporting",
+        "financial statements",
+        "Front Office",
+        "hiring",
+        "instructor",
+        "Instructional Design",
+        "Leadership training",
+        "logistics",
+        "managing",
+        "Microsoft Office Suite",
+        "office",
+        "needs analysis",
+        "payables",
+        "PeopleSoft HRMS",
+        "PeopleSoft",
+        "personnel",
+        "Program Management",
+        "Project Management",
+        "project plans",
+        "Teaching",
+        "training materials",
+        "training design and development",
+        "training material",
+        "training programs",
+        "upgrade",
+        "VideoScribe",
+        "PeopleSoft Finance Applications"
+    ],
+    "experience": [
+        {
+            "title": "Senior Manager - Accountant",
+            "company": "Company Name",
+            "start_date": "January 1995",
+            "end_date": "Present",
+            "description": "Project Management, Training Facilitation, Instructional Design and Development. Managed the projects to design and develop the 1½ day instructor led training, Operational Effectiveness Phases I - IV for Select Service Assistant General Managers and Operations Managers, managing project milestones and coordinating resources. Currently developing Phase IV. Lead the design and development of the global Senior Property Executive Assessment training for Executive Recruiters. Developed the curriculum and training materials for the iT organization's professional development initiative. Lead the re-design and development of the global Interviewer Certification program. Managed the project to design and develop all training material for the myHR and PeopleSoft HRMS upgrade. Lead the re-design, development and program re-launch of the global At the Helm Front Office Leadership training program for the Full Service Rooms Operations Department, formulating project plans, performing needs analysis, securing and managing development resources and schedules. Designed, developed and facilitated instructor led and online classes for the organization's finance associates for Project Oceans and Project Eclipse. Delivered instructor led training to domestic and international audiences including the Change Management: The Fundamentals course. Client Relations and Program Management Learning representative to the Finance discipline, performing needs analysis and advising on learning strategies and training design and development for finance personnel. Coordinated the logistics for Headquarters training programs, including managing the instructor cadre, setting annual training schedules and booking and setting up training facilities. Designed and analyzed program evaluations using Vovici and Metrics That Matter software, with a view to making improvements in training offerings. Marketed the training program to potential participants to encourage associate engagement and development. Accounting Prepared financial statements. Liaised with international hotel controllers and regional office personnel pertaining to billing issues, often referencing original contracts to provide validity of costs. Analyzed profits and losses for various international regions, with an emphasis on explaining variances in actual to budgeted results. Managed staff of three accounting assistants, hiring, performing reviews, and molding their careers through appropriate training. Implemented the International Fee Revenue Database and PeopleSoft billing module, replacing manual system, by entering data and testing over eight months, ensuring execution of billing in two days, rather than two weeks, thus resulting in more timely invoice delivery, payables receipt and robust financial reporting."
+        },
+        {
+            "title": "Instructional Designer/Training Manager/Database Manager/Senior Accountant",
+            "company": "Company Name",
+            "start_date": "January 2003",
+            "end_date": "January 2004",
+            "description": "Online Course Instructor"
+        },
+        {
+            "title": "Online Course Instructor",
+            "company": "Company Name",
+            "start_date": "January 1993",
+            "end_date": "January 1995",
+            "description": "Online Course Instructor"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Education",
+            "school": "California State University, Hayward",
+            "year": 2003
+        },
+        {
+            "degree": "Bachelor of Science in Accounting",
+            "school": "University of Maryland, College Park",
+            "year": 1993
+        },
+        {
+            "degree": "Bachelor of Science in Business Administration",
+            "school": "College of Arts, Science, and Technology, Jamaica",
+            "year": 1983
+        }
+    ],
+    "certifications": [
+        "PMP",
+        "CPA"
+    ],
+    "languages": []
+}

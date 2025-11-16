@@ -1,0 +1,81 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Summary Seeking a position as a Stocker/Receiver for Paris Walmart Super Center. Adaptive team player with the ability to take and follow orders as well as take on other responsibilities as needed. Strongly committed to enhancing customer experience and boosting company success. Highlights Friendly professional demeanor Safety awareness Well-organized Detail oriented Adaptive hands-on learner JLG manlift operations Hands-on experience with CAM software Interpersonal, written, and verbal communication Works well independently or with team Company confidentiality Capable of heavy lifting",
+    "skills": [
+        "JLG manlift operations",
+        "CAM software",
+        "Interpersonal, written, and verbal communication",
+        "Friendly professional demeanor",
+        "Safety awareness",
+        "Well-organized",
+        "Detail oriented",
+        "Adaptive hands-on learner",
+        "Works well independently or with team",
+        "Company confidentiality",
+        "Capable of heavy lifting"
+    ],
+    "experience": [
+        {
+            "title": "Home Health Care Provider",
+            "company": "Company Name - City, State",
+            "start_date": "07/2019",
+            "end_date": "02/2020",
+            "description": "Worked to improve and enhance client lives through effective and compassionate care. Assisted residents with bathing, dressing, grooming, feeding, lifting and transferring. Provided clients with assistance in completing tasks such as purchasing supplies, paying bills and bookkeeping, effectively reducing daily burden on family members. Completed health management tasks by setting and transporting clients to appointments. Monitored progress and documented any client health status changes, keeping healthcare team updated to resolve issues and address concerns. Interacted kindly with clients and families and displayed positive, outgoing attitude, resulting in establishment of long-term, professional relationships."
+        },
+        {
+            "title": "Aircraft Hydraulics Systems Journeyman",
+            "company": "Company Name - City, State",
+            "start_date": "04/2016",
+            "end_date": "05/2019",
+            "description": "Performed inspections, serviced systems, removed, repaired, and installed components. Performed basic machine set up and operation. Requisitioned new supplies and equipment. Accurately completed service reports and forms. Complied with work site safety and hazardous material handling, storage regulatory requirements and internal procedures affecting business operations. Collaborated with flight crews and other maintenance departments to ensure smooth work flow and efficient organization operations. Consistently assumed additional responsibilities."
+        },
+        {
+            "title": "Home Health Care Provider",
+            "company": "Company Name - City, State",
+            "start_date": "02/2014",
+            "end_date": "03/2016",
+            "description": "Worked to improve and enhance client lives through effective and compassionate care. Assisted residents with bathing, dressing, grooming, feeding, lifting and transferring. Provided clients with assistance in completing such tasks as purchasing supplies, paying bills and bookkeeping, effectively reducing daily burden on family members. Completed health management tasks by setting and transporting clients to appointments. Monitored progress and documented any client health status changes, keeping healthcare team updated to resolve issues and address concerns. Interacted kindly with clients and families and displayed positive, outgoing attitude, resulting in establishment of long-term, professional relationships."
+        },
+        {
+            "title": "Radiology Support Associate",
+            "company": "Company Name - City, State",
+            "start_date": "02/2009",
+            "end_date": "02/2011",
+            "description": "Promptly answered multi-line phone system and greeted callers enthusiastically. Carefully relayed phone calls and messages to appropriate personnel. Kept waiting room neat and organized at all times by stacking magazines and removing trash. Retrieved and distributed medical records to patients and physicians upon request. Frequently assisted with patient transfer between departments. Adhered to strict HIPAA guidelines at all times to protect patient privacy."
+        },
+        {
+            "title": "Environmental Services Associate",
+            "company": "Company Name - City, State",
+            "start_date": "02/2008",
+            "end_date": "02/2009",
+            "description": "Established and maintained clean and comfortable environments in hospital and administration buildings by vacuuming and mopping, cleaning surfaces and windows and dusting. Cleaned and prepared rooms between patients to prevent infections and cross-contamination. Removed waste and hazardous materials from premises to designated area. Used approved cleaning products on various surfaces to reduce bacterial growth and prevent spread of viruses. Kept facilities well-stocked and properly maintained for staff and guests. Examined patient rooms, staff offices, halls and lobbies to determine need for repairs and replacement of furniture or equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Grant Union High School",
+            "year": "2006"
+        },
+        {
+            "degree": "Associate of Science",
+            "school": "Paris Junior College",
+            "year": "2013"
+        },
+        {
+            "degree": "Aircraft Hydraulics Systems (2A635)",
+            "school": "Sheppard Air Force Base",
+            "year": "2016"
+        },
+        {
+            "degree": "Associate of Applied Science",
+            "school": "Paris Junior College",
+            "year": "2022"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,93 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Motivated Systems Analyst with extensive SDLC and Computer Systems Validation (CSV) experience across diverse environments. Expertise in document management, client/server applications, data communications, and IT support. Proven project leadership, analytical mindset, problem-solving abilities, and strong communication skills.",
+    "skills": [
+        "analytical skills",
+        "Assembly language",
+        "C",
+        "C++",
+        "VBA",
+        "Client/server",
+        "Data communications",
+        "database and applications",
+        "DBA",
+        "databases",
+        "designing",
+        "document management",
+        "Documentation",
+        "Documentum",
+        "HTML",
+        "IBM",
+        "managing",
+        "manufacturing process",
+        "messaging",
+        "Microsoft Access",
+        "MS Access",
+        "Excel spreadsheets",
+        "Windows operating system",
+        "Windows",
+        "Windows 2000",
+        "Windows XP",
+        "network administration",
+        "Operating Systems",
+        "organizational skills",
+        "payroll",
+        "programming",
+        "Project Leadership",
+        "real-time",
+        "relational database",
+        "reporting",
+        "SDLC",
+        "servers",
+        "System administration",
+        "User Training",
+        "troubleshooting",
+        "upgrades",
+        "Validation",
+        "VAX",
+        "VAX/VMS",
+        "Vista",
+        "Windows Server",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name, City, State",
+            "start_date": "1999-01",
+            "end_date": "2015-11",
+            "description": "Provided SDLC/CSV-focused consultancy supporting McNeil Consumer Healthcare across applications including shop floor, document management, timekeeper, and business process solutions. Roles encompassed Level 2 production support, issue analysis and root cause analysis, change request facilitation, and coordination with Windows, DBA, and other support teams. Monitored validation and training environments, generated scheduled/adhoc reports, performed consistency checks, and assisted with application enhancements and upgrades. Supported SOX-compliant payroll and multiple Microsoft Access-based databases with VBA code development."
+        },
+        {
+            "title": "Consultant",
+            "company": "Company Name, City, State",
+            "start_date": "1990-01",
+            "end_date": "1999-01",
+            "description": "Provided design, development, testing and support for client/server messaging between VAX and IBM systems for a large steel company. Contributed to an electronic batch record application within a large team, and provided relational database expertise across multiple projects. Delivered training for several Digital products and offered system administration support."
+        },
+        {
+            "title": "Systems Programmer",
+            "company": "Company Name, City, State",
+            "start_date": "1985-01",
+            "end_date": "1990-01",
+            "description": "Designed, developed, tested and supported a real-time client/server messaging application to enable communications from a VAX/VMS system to an IBM system. The application tracked train movements and locations, originally written in assembly language and later ported to C. Performed general system and network administration."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S in Computer Science Data Communications",
+            "school": "Villanova University",
+            "year": "1996"
+        },
+        {
+            "degree": "B.A. in Computer Science",
+            "school": "LaSalle University",
+            "year": "1985"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

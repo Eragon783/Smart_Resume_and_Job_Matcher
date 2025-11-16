@@ -1,0 +1,83 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "I am a very dependable, hardworking team player. I get along easily with all types of people. As I pursue my career as a Dental Assistant I am looking for an experienced level position while I renew my RDA license.",
+    "skills": [
+        "4-Handed Dentistry",
+        "Preventative Care",
+        "Instrument Sterilization",
+        "Diagnostic X-Rays",
+        "Infection Control",
+        "Orthodontics",
+        "Emergency Treatments",
+        "Prosthetics/Restorations",
+        "Prep for Oral Surgery",
+        "Bleaching Trays",
+        "Casts/Impressions",
+        "Patient Education",
+        "Tray Setups",
+        "Dental Records",
+        "Sterilization Equipment (Autoclave, Ultrasonic, Dry Heat)",
+        "Eaglesoft",
+        "Dentrix",
+        "Open Dental",
+        "Microsoft Office",
+        "Exceptional Phone Etiquette",
+        "Scheduling"
+    ],
+    "experience": [
+        {
+            "title": "RDA",
+            "company": "RDA Company Name",
+            "start_date": "2014-03",
+            "end_date": "2015-04",
+            "description": "Coordinated appointment schedules for both the dentist and oral surgeon. Routinely completed inventory, supply orders and restocked supplies. Greeted and prepared patients for dental examinations. Properly sterilized dental equipment and examination rooms in accordance with infection control policies. Correctly arranged instrument trays prior to dental procedures and surgeries. Proficiently assisted dentist with diagnostic, preventative, general, orthodontic, endodontic, surgical and periodontic procedures."
+        },
+        {
+            "title": "Dental Assistant",
+            "company": "Dental Assistant Company Name",
+            "start_date": "2013-04",
+            "end_date": "2013-12",
+            "description": "Greeted and prepared patients for dental examinations. Properly sterilized dental equipment and examination rooms in accordance with infection control policies. Effectively operated x-ray machines and developed x-rays. Provided appropriate postoperative instructions as prescribed by dentist. Expertly filed patients' charts and processed billing and payments."
+        },
+        {
+            "title": "Dental Assistant",
+            "company": "Dental Assistant Company Name",
+            "start_date": "2012-06",
+            "end_date": "2012-12",
+            "description": "Greeted and prepared patients for dental examinations. Properly sterilized dental equipment and examination rooms in accordance with infection control policies. Accurately collected and recorded patient medical and dental histories."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Dental Assisting Program",
+            "school": "Kaplan College",
+            "year": 2012
+        },
+        {
+            "degree": "Invisalign Training",
+            "school": "Invisalign",
+            "year": 2014
+        },
+        {
+            "degree": "iTERO Training",
+            "school": "iTERO Training",
+            "year": 2015
+        },
+        {
+            "degree": "Kor Whitening Training",
+            "school": "Kor Whitening Training",
+            "year": 2015
+        }
+    ],
+    "certifications": [
+        "X-Ray Certified",
+        "Invisalign Certified",
+        "Coronal Polish",
+        "Pit and Fissure Sealant",
+        "RDA Certification (pending)"
+    ],
+    "languages": []
+}

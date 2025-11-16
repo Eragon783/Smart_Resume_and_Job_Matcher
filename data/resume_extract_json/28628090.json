@@ -1,0 +1,57 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Electrical Engineer with 20+ years of experience in semiconductors microlithography and strong project management background. Scope of work required extensive background in equipment engineering maintenance and process sustaining. Utilized experience in cross-function activities with other engineering, production and support organization for the completion of start-up semiconductor factory construction and equipment's. Outstanding communication skills in task-milestone reports provided senior level management with clear forecast of project completion. With additional experience in application marketing engineering, led team of business development managers and R&D engineer to grow DUV business for DOW chemical's globally from $ 300k to > $ 20 million in 3 years. Management skills Excellent leadership skills in cross-functional, team- based environment, multi cultural, with the ability to effectively communicate, influence and motivate at all levels of the organization. Strong understanding of financial measurements and goals that can be directly correlated to implementation of plans. Proven ability to analyze statistics and trend data with measured outcomes Dedicated Operations Manager demonstrating effective leadership in all aspects of the job. Excels at cutting costs and streamlining operations. Tech-savvy Project Manager versed in all aspects of project management from inception to completion. Excels in recruiting and talent acquisition, as well as process reengineering and improvement. Skilled Operation Manager with solid experience managing all levels of multiple projects including budgeting and administration.",
+    "skills": [
+        "BASIC",
+        "COBOL",
+        "FORTRAN",
+        "PASCAL",
+        "Prolith (Modeling)",
+        "Power Point",
+        "Word",
+        "Excel",
+        "Lotus Notes",
+        "JMP",
+        "DOE (design of experiment)",
+        "PCS",
+        "SPC++",
+        "six sigma",
+        "data view",
+        "Crystal ball"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Manager",
+            "company": "Company Name – City , State",
+            "start_date": "01/2000",
+            "end_date": "Present",
+            "description": "Manage the performance and development of direct reports; encourage team member engagement by setting challenging goals and communicating line of sight. Partner with global counterparts on process transfer and technology issues and industry direction. Manage projects to ensure deliverables are completed within schedule, cost, and resources. Coordinate with equipment and process counterparts, purchasing, facilities, contractors and vendors to buy, install and release of equipment. Maintain flawless execution of area module by coaching junior and senior engineers, equipment specialists, and technicians in operations, process and equipment. Plan and improve standardized production methods and objectives to achieve safety, quality, delivery and cost targets. Lead cross-site and cross-functional teams on high-priority initiatives by leveraging leadership tactics, managing key relationships and building teams to achieve results. Designed an effective Quality system visual management tool used by QSM to identify and resolve ISO9000 findings prior to certificate audits. Chaired multi-site mission-based team that developed a containment strategy for an undetectable process defects to alleviate escape and reliability concerns. Ensure staffing, development of staff, training and employee involvement. Lead plant in continuous improvement activities in quality, service and price for all customers. Troubleshoots and develops countermeasures for problems of quality, productivity, and employee relations using root-cause problem solving methods. Ensure safe practices and maintenance of proper conditions and review these practices and procedures; lead lean manufacturing initiatives. Continuously works to ensure customer satisfaction targets are achieved. Responsible for environmental reporting and compliance. Formulate and manage development and implementation of goals, objectives, policies and procedures related to Quality Management System. Ensure effective operation of document control system and maintenance of records, including change orders and change control. Monitor supplier quality performance and manage problem solving activities. Manage internal customer/supplier and ISO audits, including closing out findings, creating audit finding reports and determining proper corrective and preventive actions. Manage and ensure that all internal and external non-conforming reports are addressed promptly. Use metrics to provide insight into Quality System performance and recommend improvements. Monitor expenses to ensure budgets. Ensure staff safety training compliance. Lead and develop staff to deliver outstanding customer service. Implement cost capture and costing models; assist in identifying cost elements as part of cost management. Consolidate inputs from corporate departments to present budgets and rolling forecasts. Lead teams to transfer products from development to manufacture; develop process parameters for new products; lead equipment qualification and upgrades; maintain equipment metrics (utilization, availability, cycle time) with target of ≥90% availability. Lead improvement projects (cost reduction, labor reduction, yield, OEE, waste). Collaborate with quality & reliability and Intel Virtual Factories for global projects; provide technical support for solutions. Work with automation engineers to improve operations and tool utilization using lean manufacturing methods. Ensure manufacturing, operation and supply chain processes meet quality, cost and delivery requirements; responsible for procurement, inventory, production planning, lean manufacturing and machine maintenance; implement lean and continuous improvement activities. Managed successful implementation of Chemical consumption; hired and trained 20 staff; rolled out new policies and improved employee retention."
+        },
+        {
+            "title": "Application and Marketing Engineer",
+            "company": "Company Name – City , State",
+            "start_date": "01/1989",
+            "end_date": "06/2000",
+            "description": "Collaborated with R&D and Marketing to develop products to meet customer requirements for new business opportunities. Coordinated and led production trials of new and modified products. Supervised pilot-scale trials when appropriate. Drafted internal and customer specifications for developed products. Assisted Quality Assurance in evaluating and resolving unusual, non-routine customer complaints. Provided technical assistance to Manufacturing concerning unusual, non-routine situations; collaborated with Purchasing and Manufacturing in evaluating new sources of raw materials and products. Evaluated competitive products as needed. Led Engineering Production Team for customer samples; set up, directed and troubleshot batches for new formulations for customer samples; mentored other engineers with respect to routine batch setup. Troubleshooted and solved issues during batch manufacture. Assessed process capability. Led R&D engineering production team handoffs. Redefined system for recording sample results as a routine part of sample manufacturing. Created part numbers, Bills of Materials, Production version, Quality Management forms, and Material Masters for new products. Independently designed and performed laboratory experiments using statistically driven design of experiments. Assisted in makeup and testing of XP formulations. Responsible for performing all accelerated aging testing of new formulations to establish product shelf life. Implemented design of experiments to analyze experimental data using JMP software. Assisted R&D Management in allocating resources across development projects authorized by Performance Materials Strategy Team. Researched and formulated LIP silver, Electroless Nickel, Electrolytic Copper, and other metals. Created Sales strategies aligned with market potential; prepared Sales Plans for each Customer. Coordinated with Business Development Team regarding new product launch and new target customer. Defined and scheduled delivery of high-quality output in line with business requirements; managed Product Management documentation and created data package for marketing new products."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Management Information System",
+            "school": "Worcester State University",
+            "year": 1991
+        },
+        {
+            "degree": "B.S. in Electrical Engineering Technology",
+            "school": "Central New England College",
+            "year": 1987
+        }
+    ],
+    "certifications": [
+        "Dale Carnegie: Effective Speaking and Human Relation (1995)"
+    ],
+    "languages": []
+}

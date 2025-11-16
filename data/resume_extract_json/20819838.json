@@ -1,0 +1,101 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To obtain a challenging position with an organization that offers the opportunity for professional growth and where I can contribute my knowledge and skills to benefit your company.",
+    "skills": [
+        "Ask",
+        "benefits",
+        "business plan",
+        "client",
+        "direction",
+        "features",
+        "firing",
+        "hiring",
+        "inventory",
+        "marketing strategies",
+        "Real Estate",
+        "sales",
+        "sales manager"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name City , State",
+            "start_date": "April 2013",
+            "end_date": "December 2014",
+            "description": "Greet customers in a prompt and professional manner. This may be in the showroom, outside on the lot or in the service or parts departments. All customers regardless of their reason for being at the dealership will be greeted and directed to the proper department or staff member. Assist customers by helping them find a vehicle, test drive and demonstrate the features and benefits of vehicles. Answer the questions of the customers and assist them in every aspect of buying an automobile. Negotiate price, terms and conditions and follow the direction of the sales manager on duty. Escort customers throughout the sales process according to automobile sales system that is in place at the dealership. Make follow up calls to past or potential customers. Ask for referrals and repeat business. Contacted new and existing customers to discuss how their needs could be met with specific products and services. Quoted prices, credit terms and other bid specifications. Negotiated prices, terms of sales and service agreements. Responded to all customer inquiries in a timely manner."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name City , State",
+            "start_date": "January 2013",
+            "end_date": "April 2013",
+            "description": "Greet customers in a prompt and professional manner. This may be in the showroom, outside on the lot or in the service or parts departments. All customers regardless of their reason for being at the dealership will be greeted and directed to the proper department or staff member. Assist customers by helping them find a vehicle, test drive and demonstrate the features and benefits of vehicles. Answer the questions of the customers and assist them in every aspect of buying an automobile. Negotiate price, terms and conditions and follow the direction of the sales manager on duty. Escort customers throughout the sales process according to automobile sales system that is in place at the dealership. Make follow up calls to past or potential customers. Ask for referrals and repeat business."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name City , State",
+            "start_date": "November 2012",
+            "end_date": "January 2013",
+            "description": "Greet customers in a prompt and professional manner. This may be in the showroom, outside on the lot or in the service or parts departments. All customers regardless of their reason for being at the dealership will be greeted and directed to the proper department or staff member. Assist customers by helping them find a vehicle, test drive and demonstrate the features and benefits of vehicles. Answer the questions of the customers and assist them in every aspect of buying an automobile. Negotiate price, terms and conditions and follow the direction of the sales manager on duty. Escort customers throughout the sales process according to automobile sales system that is in place at the dealership. Make follow up calls to past or potential customers. Ask for referrals and repeat business."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name City , State",
+            "start_date": "March 2011",
+            "end_date": "October 2012",
+            "description": "Greet customers in a prompt and professional manner. This may be in the showroom, outside on the lot or in the service or parts departments. All customers regardless of their reason for being at the dealership will be greeted and directed to the proper department or staff member. Assist customers by helping them find a vehicle, test drive and demonstrate the features and benefits of vehicles. Answer the questions of the customers and assist them in every aspect of buying an automobile. Negotiate price, terms and conditions and follow the direction of the sales manager on duty. Escort customers throughout the sales process according to automobile sales system that is in place at the dealership. Make follow up calls to past or potential customers. Ask for referrals and repeat business."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name City , State",
+            "start_date": "November 2010",
+            "end_date": "March 2011",
+            "description": "greet customers in a prompt and professional manner. This may be in the showroom, outside on the lot or in the service or parts departments. All customers regardless of their reason for being at the dealership will be greeted and directed to the proper department or staff member. Assist customers by helping them find a vehicle, test drive and demonstrate the features and benefits of vehicles. Answer the questions of the customers and assist them in every aspect of buying an automobile. Negotiate price, terms and conditions and follow the direction of the sales manager on duty. Escort customers throughout the sales process according to automobile sales system that is in place at the dealership. Make follow up calls to past or potential customers. Ask for referrals and repeat business."
+        },
+        {
+            "title": "Leasing consultant (temp)",
+            "company": "Company Name City , State",
+            "start_date": "June 2010",
+            "end_date": "October 2011",
+            "description": "Assisted in daily operations of an 800 unit apartment community Met with prospective tenants to show apartments Screened rental applicants Prepared lease agreements Collected rents and security deposits Responded to residents' concerns Worked with maintenance staff Prepared work orders."
+        },
+        {
+            "title": "Leasing consultant",
+            "company": "Company Name City , State",
+            "start_date": "January 2008",
+            "end_date": "January 2009",
+            "description": "Assisted management in daily operations of a 250 unit apartment community Met with prospective tenants to show apartments Screened rental applicants Prepared lease agreements Collected rents and security deposits Responded to residents' concerns Worked directly with maintenance staff Prepared work orders."
+        },
+        {
+            "title": "Owner , Manager",
+            "company": "Company Name City , State",
+            "start_date": "January 2005",
+            "end_date": "January 2008",
+            "description": "Responsible for daily operations of 100 seat restaurant Responsible for hiring/ firing of all employees Maintained daily/ weekly schedules Daily inventory of kitchen and bar supplies Oversaw all catering events Created business plan and marketing strategies Advertised Designed restaurant and menu Built client base."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma in Graphics Design",
+            "school": "Lansdale School of Business",
+            "year": "2003"
+        },
+        {
+            "degree": "Associates Degree: Office Operations Management",
+            "school": "Lansdale School of Business",
+            "year": "2005"
+        },
+        {
+            "degree": "Real Estate License",
+            "school": "Schlicker Kratz R/E Institute",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "Real Estate License - Schlicker Kratz R/E Institute, 2012"
+    ],
+    "languages": []
+}

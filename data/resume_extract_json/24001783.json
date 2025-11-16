@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "A result driven, diligent and highly accomplished professional with curiosity and creativity about the environment possessing over 12 years experiences in Environmental Science, develop solutions to resolve environmental problems; taken part in water pollution control, water recycling, biological waste disposal, and public health issues; participated in the design of aquaculture wastewater treatment systems; experienced in laboratory operations and safety procedures.",
+    "skills": [
+        "Water Quality Testing",
+        "Wastewater Treatment Systems",
+        "10 Hour OSHA Hazard Recognition Training for the Construction Industry",
+        "Microsoft Office",
+        "Microsoft Excel"
+    ],
+    "experience": [
+        {
+            "title": "NMFS Species Observer",
+            "company": "National Marine Fisheries Service NMFS",
+            "start_date": "07/2015",
+            "end_date": "Present",
+            "description": "Monitor for sturgeons (Atlantic and Shortnose) and other endangered species found within the dredging area of the $3.1 Billion New NY Bridge Project; Monitor dredging, decanting and offloading operations of dredge materials for sturgeons and other endangered species; Collect and record biological data (length, weight, DNA samples); Collect and process fish specimens for necropsy; Communicate observations and finding to New York State Thruway Authority (NYSTA), New York State Department of Environmental Conservation (NYSDEC) and others when on site."
+        },
+        {
+            "title": "Environmental Research Assistant",
+            "company": "Company Name",
+            "start_date": "01/2011",
+            "end_date": "06/2014",
+            "description": "Performed laboratory analysis of water for physical and chemical parameters such as algae, temperature, conductivity, pH, salinity, dissolved oxygen, nitrite, nitrates and turbidity; Directed the Western Regional Aquaculture Center commercial farm tilapia feed trials, prepared reports and present research findings; Collected biological samples and conducted proximate analysis (protein, lipid, moisture and energy) on fish tissue and feed samples; Acted as a liaison between the UA Food Products and Safety laboratories, Montana State University and US Fish and Wildlife Service, Bozeman Fish Technology Center; Prepared reagents and media for use in the Laboratory; Oversaw strict adherence to safety policies and procedures during testing; Managed the daily operations of the ERL Aquaculture Greenhouse."
+        },
+        {
+            "title": "Senior Fisheries Officer",
+            "company": "Company Name",
+            "start_date": "01/2007",
+            "end_date": "01/2011",
+            "description": "Conduct environmental assessment of aquaculture facilities; Prepared technical reports detailing findings and recommendations from assessments; Identified and solved environmental problems arising from aquaculture facilities affecting the safety of water and land; Controlled water pollution and handled solid waste management; Removed impurities and harmful discharge from the water; Developed techniques for water recycling; Conduct extension services and monitored over 40 aquaculture farms to reduce environmental impacts of aquaculture; Managed the National Aquaculture, Fish Hatchery and Laboratory: Performed laboratory analysis of water for physical and chemical parameters such as algae, temperature, conductivity, pH, nitrite, nitrates, salinity, dissolved oxygen, and turbidity for this and other aquaculture facilities."
+        },
+        {
+            "title": "Fisheries Officer",
+            "company": "Company Name",
+            "start_date": "01/2002",
+            "end_date": "01/2007",
+            "description": "Revamped the data collection program which led to the reduction of data gaps within the months and years; Examined and quantified the composition of fish species caught, discarded, and retained on commercial fishing vessels; Collected and analyzed biological and socio-economic data among others on Guyana's commercial marine species such as Southern Redsnapper (Lutjanus purpureus), Seatrout (Cynoscion virescens) and Bangamary (Macrodon ancylodon) using models as specified by CRFM; Wrote scientific reports and presented the findings of data analyzed to various stakeholders."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. in Soil, Water and Environmental Science",
+            "school": "University of Arizona",
+            "year": 2014
+        },
+        {
+            "degree": "MSc in Soil, Water and Environmental Science",
+            "school": "University of Arizona",
+            "year": 2014
+        },
+        {
+            "degree": "Diploma in Management",
+            "school": "University of London",
+            "year": 2006
+        },
+        {
+            "degree": "BSc in Agriculture",
+            "school": "University of Guyana",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        "10 Hour OSHA Hazard Recognition Training for the Construction Industry"
+    ],
+    "languages": []
+}

@@ -1,0 +1,52 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Kind and compassionate Elementary School Teacher dedicated to creating an atmosphere that is stimulating and encouraging to all students. Enjoys using modern technology in the classroom. Highlights Texas Teaching Certificate with Early Childhood Education endorsement Urban public schools background Critical thinker",
+    "skills": [
+        "Classroom management",
+        "Records of Progress",
+        "Small group/Guided Reading Instruction",
+        "Hands on Math Instruction"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "August 2011",
+            "end_date": "Current",
+            "description": "Observed and assessed student performance and kept thorough records of progress. Implemented a variety of teaching methods such as lectures, discussions and demonstrations. Established clear objectives for all lessons, units and projects. Encouraged students to persevere with challenging tasks. Set and communicated ground rules for the classroom based on respect and personal responsibility.Identified early signs of emotional, developmental and health problems in students and followed up with parents. Tutored children individually and in small groups to help them with difficult subjects. Taught after-school and summer enrichment programs. Scheduled and held parent-teacher conferences to keep parents up-to-date on children's academic performance. Established positive relationships with students, parents, fellow teachers and school administrators. Mentored and counseled students with adjustment and academic problems. Collaborated with other staff members to plan and schedule lessons promoting learning and student engagement. Contributed ideas at weekly staff meetings each month. Employed a broad range of instructional techniques to retain student interest and maximize learning. Implemented remedial programs for students requiring extra assistance. Took appropriate disciplinary measures when students misbehaved. Improved students' reading levels through guided reading groups and whole group instruction. Created lesson plans in accordance with state curriculum and school-wide curriculum standards. Accepted coaching from fellow teachers and administrators and immediately incorporated feedback. Worked outside normal hours to be available to answer parent and student questions. Used children's literature to teach and reinforce reading, writing, grammar and phonics. Enhanced reading skills through the use of children's literature, reader's theater and story time. Differentiated instruction according to student ability and skill level. Taught students to exercise problem solving methodology and techniques during tests. Taught students in various stages of cognitive, linguistic, social and emotional development. Strengthened parent-teacher and parent-child communication by holding regular parent-teacher conferences. Encouraged students to explore issues in their lives and in the world around them. Employed a wide variety of fiction and non-fiction textual materials to encourage students to read independently. Encouraged parents to take an active role in their child's education."
+        },
+        {
+            "title": "Reading Tutor",
+            "company": "Company Name",
+            "start_date": "February 2011",
+            "end_date": "May 2011",
+            "description": "Tutored children individually and in small groups to help them with difficult subjects."
+        },
+        {
+            "title": "4th Grade Teacher",
+            "company": "Company Name",
+            "start_date": "September 2006",
+            "end_date": "August 2008",
+            "description": "Observed and assessed student performance and kept thorough records of progress. Implemented a variety of teaching methods such as lectures, discussions and demonstrations. Established clear objectives for all lessons, units and projects. Encouraged students to persevere with challenging tasks. Set and communicated ground rules for the classroom based on respect and personal responsibility.Identified early signs of emotional, developmental and health problems in students and followed up with parents. Tutored children individually and in small groups to help them with difficult subjects. Taught after-school and summer enrichment programs. Scheduled and held parent-teacher conferences to keep parents up-to-date on children's academic performance. Established positive relationships with students, parents, fellow teachers and school administrators. Mentored and counseled students with adjustment and academic problems. Collaborated with other staff members to plan and schedule lessons promoting learning and student engagement. Contributed ideas at weekly staff meetings each month. Employed a broad range of instructional techniques to retain student interest and maximize learning. Implemented remedial programs for students requiring extra assistance. Took appropriate disciplinary measures when students misbehaved. Improved students' reading levels through guided reading groups and whole group instruction. Created lesson plans in accordance with state curriculum and school-wide curriculum standards. Accepted coaching from fellow teachers and administrators and immediately incorporated feedback. Worked outside normal hours to be available to answer parent and student questions. Used children's literature to teach and reinforce reading, writing, grammar and phonics. Enhanced reading skills through the use of children's literature, reader's theater and story time. Differentiated instruction according to student ability and skill level. Taughtstudents to exercise problem solving methodology and techniques during tests. Taught students in various stages of cognitive, linguistic, social and emotional development. Strengthened parent-teacher and parent-child communication by holding regular parent-teacher conferences. Encouraged students to explore issues in their lives and in the world around them. Employed a wide variety of fiction and non-fiction textual materials to encourage students to read independently. Encouraged parents to take an active role in their child's education."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Education",
+            "school": "The University of Texas",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "school": "The University Of Texas",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        "Texas Teaching Certificate with Early Childhood Education endorsement"
+    ],
+    "languages": []
+}

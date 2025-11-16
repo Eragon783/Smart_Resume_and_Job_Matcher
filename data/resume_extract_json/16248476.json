@@ -1,0 +1,72 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Sous Chef, Lead Cook and Supervisor with 4 years experience in high-pressure culinary environments. Skilled in preparing large volumes of food quickly and efficiently. Seeking to use culinary skills and expertise to prepare a special variety of dishes in a professional, rewarding environment. Highlights Food Cost ServSafe certified Bilingual Rational Degree Inventory management familiarity Focus on portion and cost control Sous vide technique Strong butchery skills Food handlers card Focused and disciplined High volume production capability Well-tuned palate Accomplishments Successfully managed a kitchen staff.",
+    "skills": [
+        "Food Cost",
+        "ServSafe certified",
+        "Bilingual",
+        "Rational Degree",
+        "Inventory management familiarity",
+        "Portion control",
+        "Cost control",
+        "Sous vide technique",
+        "Strong butchery skills",
+        "Food handlers card",
+        "Focused and disciplined",
+        "High volume production capability",
+        "Well-tuned palate"
+    ],
+    "experience": [
+        {
+            "title": "Chef de Partie",
+            "company": "Company Name",
+            "start_date": "01/2016",
+            "end_date": "Current",
+            "description": "Reduced food costs by expertly estimating purchasing needs and buying through approved suppliers. Consistently produced exceptional menu items that regularly garnered diners' praise."
+        },
+        {
+            "title": "Sous Chef",
+            "company": "Company Name",
+            "start_date": "05/2015",
+            "end_date": "01/2016",
+            "description": "Provided courteous and informative customer service in an open kitchen format. Expertly estimated staffing needs and adjusted hourly schedules in accordance with demand patterns, budget and local labor laws."
+        },
+        {
+            "title": "Chef de Partie",
+            "company": "Company Name",
+            "start_date": "04/2014",
+            "end_date": "05/2015",
+            "description": "Expertly estimated staffing needs and adjusted hourly schedules in accordance with demand patterns, budget and local labor laws."
+        },
+        {
+            "title": "Lead Cook",
+            "company": "Company Name",
+            "start_date": "07/2013",
+            "end_date": "04/2014",
+            "description": "Followed proper food handling methods and maintained correct temperature of all food products. Established and maintained open, collaborative relationships with the kitchen team."
+        }
+    ],
+    "education": [
+        {
+            "degree": "GED - Culinary Arts",
+            "school": "California, City, State, USA",
+            "year": 2012
+        },
+        {
+            "degree": "Culinary Arts High School Diploma",
+            "school": "City, State, USA",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "ServSafe certified",
+        "Food handlers card"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Seasoned Electrical Engineer successful at coordinating diverse projects, improving departmental processes and increasing revenue. Electrical Engineer proficient in power and control engineering. Designs power grids as well as control systems for oil and gas industry. Seasoned Electrical Engineer offering 5 years experience developing HMI controlled equipment for testing and production. Strong project management background.",
+    "skills": [
+        "AutoCAD",
+        "Eagle",
+        "MATLAB",
+        "SolidWorks Standard",
+        "SolidWorks Enterprise PDM",
+        "SolidWorks Electrical",
+        "Microsoft Office 2016",
+        "Word",
+        "Visio",
+        "PowerPoint",
+        "Excel",
+        "OneNote",
+        "Outlook",
+        "Microsoft Dynamics GP",
+        "Team Gantt",
+        "Allen Bradley RSLogix",
+        "Visual C",
+        "C++",
+        "Complex problem solver",
+        "Project management",
+        "Operational analysis",
+        "Technical writing",
+        "Data collection",
+        "Strong decision maker",
+        "Analog and digital hardware and firmware design",
+        "FEA and failure analysis",
+        "3D design and simulation software"
+    ],
+    "experience": [
+        {
+            "title": "Electrical Engineer",
+            "company": "Company Name",
+            "start_date": "2014-04",
+            "end_date": "2016-02",
+            "description": "Practical application of Electrical Engineering. Critical thinking that involves the use of logic and reasoning to identify the strengths and weaknesses of alternative solutions to problems. Prepared and studied technical schematics and P&ID drawings and specifications of electrical/electromechanical systems to ensure that installations and operations conform to standards and customer requirements. Diverse knowledge of frac pump components and assembly. Instrumentation and controls applications. Proficient in the design codes and standards of the SAE, NEC, NEMA, IEEE and ANSI. Designed custom enclosures, consoles and cable/harnesses per UL and NEMA Standards. Designed power DCS systems for frac fleet in compliance with SAE, IEEE, NEMA and ANSI standards and codes. Created cable schedule spreadsheets, requirements documents and operations manuals for product/project transparency. Created BOMs and routings in Microsoft Dynamics GP for development of manufacturing build orders. Implemented NEC guidelines on electrical designs and schematics and created assembly instructions and testing procedures in compliance to HSE and OSHA Standards. Managed assembly and field tech personnel during project phases and established reliable and competitive vendor/contractor relationships for project commissioning achieving a margin of 30% savings in company spending. Managed Chemical 6 Unit Project from inception to completion for C&J Energy Services frac fleet and reduced downtime by 40%. Managed Hydration Unit Project from inception to completion for C&J Energy Services frac fleet and reduced downtime by 20%. Managed Dual Fluid Pumper Unit Project from inception to completion for NITRO Drilling Services frac fleet and increased revenue potential by 100%. Managed the R&D Frac Pump Testing facility project for the High Pressure and Low Pressure Loop cells from inception to completion for Weir SPM and increased testing efficiency from 40% to 100%."
+        },
+        {
+            "title": "Manufacturing Engineer",
+            "company": "Company Name",
+            "start_date": "2011-06",
+            "end_date": "2014-04",
+            "description": "Implemented pump test design changes that eliminated downtime by 80% and increased test output efficiency by 86%. Implemented pump testing setup and break-down procedures that effectively resulted in a 20% decrease in LTIs. Designed MCC for control of 7500 hp WEG motor and VFD that resulted in a 50% output increase of tested pumps. Designed power distribution and control for medium and high voltage motors and VFDs for hydraulic lube circuits: supply and cooling loops. Designed power distribution and control for medium and high voltage motors and VFDs for water circuits: supply and cooling loops. Designed new tooling for Autofrettage, Pump Assembly and Pump Test that was more ergonomically efficient for operators and mechanics, resulting in a decrease of process bottleneck of 10%. Managed frac pump testing facility with essential upgrades to allow company to effectively test 250 pumps per month with no equipment downtime or failure increasing output efficiency to 86%. Designed tooling fixtures and had ergonomically efficient equipment installed to LEAN Pump Assembly, Pump Paint and Autofrettage areas averaging a 10% increase in work output for all areas combined. Managed the Williston Service Center Frac Pump Testing facility project for the High Pressure Loop cell from inception to completion reducing testing cost by $10k per test per month maintenance. Maintenance Mechanic MPE-9"
+        },
+        {
+            "title": "Maintenance Mechanic MPE-9",
+            "company": "Company Name",
+            "start_date": "2005-08",
+            "end_date": "2013-09",
+            "description": "Troubleshot and repaired mail processing equipment that consisted of VFDs, SLC-500 PLCs, Baldor motors, Eaton gearboxes and MCC panels by aid of multimeter and RS Logix software. Performed periodic maintenance tasks on all mail processing equipment. Operated SCADA systems that controlled mail processing equipment."
+        },
+        {
+            "title": "Aviation Electrician Petty Officer 3rd Class",
+            "company": "Company Name",
+            "start_date": "1996-06",
+            "end_date": "1999-08",
+            "description": "Aircraft handler duties consisting of taxiing, securing and preparing aircraft for launch from aircraft carrier (USS Nimitz). Troubleshot and repaired electrical circuit boards, gyros, joysticks, control panel instrumentation for all onboard aircraft consisting of F-18 Hornet, F-16 Tomcat, EA6B Prowler and H60 Helicopter to ensure operational readiness for ship and crew. Navy Pistol Marksmanship Ribbon, Armed Forces Expeditionary Medal, Navy Sea Service Deployment Ribbon, Navy Good Conduct Medal/Ribbon. Broadened Opportunity for Officer Selection and Training (BOOST) Program."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Electrical Engineering",
+            "school": "University of Texas at Arlington",
+            "year": "2010"
+        },
+        {
+            "degree": "Certificate of Completion",
+            "school": "Officer Candidate School (BOOST)",
+            "year": "1999"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

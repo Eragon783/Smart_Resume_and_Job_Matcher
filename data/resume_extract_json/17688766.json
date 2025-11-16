@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "IT Director/Manager with extensive experience in network operations, leveraging expertise in organization growth and problem solving. Driven, professional and detailed-oriented with the proven ability to plan, design and implement technical systems, improve process flow and administer departmental budgets.",
+    "skills": [
+        "Windows 7",
+        "Windows 8.1",
+        "Windows 10",
+        "Windows Server 2008 R2",
+        "Windows Server 2012",
+        "Exchange Server 2007",
+        "Exchange Server 2010",
+        "Apple",
+        "Mac OSX",
+        "iOS",
+        "BB10 OS",
+        "Android",
+        "LAN",
+        "VPN",
+        "WAN",
+        "IP networking",
+        "Citrix",
+        "LogMeIn",
+        "Team Viewer",
+        "Skype for Business",
+        "SQL",
+        "SaaS",
+        "Hyper-V",
+        "Active Directory",
+        "Group Policy",
+        "DNS",
+        "DHCP",
+        "SSL",
+        "WSUS",
+        "FTP",
+        "SAN/NAS Storage",
+        "Cisco Routers",
+        "HP Switches",
+        "Sonicwall Firewalls",
+        "Symantec Backup/AntiVirus",
+        "Trend-Micro",
+        "Arcserve",
+        "Acronis"
+    ],
+    "experience": [
+        {
+            "title": "Director of Information Technology",
+            "company": "Company Name City , State",
+            "start_date": "January 1996",
+            "end_date": "January 2016",
+            "description": "Directed and managed the entire IT operations for a commercial real estate investment company with over 15 locations throughout the U.S. Forecasted and planned all network information processing and communication needs for the entire company. Provided senior level leadership on all IT security and risk management concerns. Proactive to ensure the continued functionality of a stable, reliable, and secure IT environment, including focus on current and anticipated cybersecurity threats and risk. Ensured technology compliance with SOX, PCI, IT general and regulatory controls. Established, documented and administered all IT operational policies and procedures to control systems and integrity risks. Created and analyzed annual IT operational and capital budgets and 5-year plans. Efficiently used monies allocated within those budgets. Inspected 3rd party contracts, evaluated and negotiated proposals for software and hardware services. Project leader for developing, planning and instituting disaster recovery and business continuity. Provided redundancy on all network components and system failovers. Redundant communication and internet lines using BGP for failover. Ensured the consistency of existing applications by creating, maintaining, testing and enforcing standards/procedures for implementing software rollouts. Used document imaging system for record retention. Maintained and upgraded all Audio/Video in conference rooms. Installed office security: Card key and camera systems. Hired and managed system administrators and supervised outside consultants. Originally hired as IT Manager promoted to Director in 2002."
+        },
+        {
+            "title": "Manager of Information Technologies",
+            "company": "Company Name City , State",
+            "start_date": "January 1995",
+            "end_date": "January 1996",
+            "description": "Provided network administration, PC and network trouble shooting, file server configuration, backup systems configuration, network and switch management. Maintained Lotus Notes Domino Mail Server, operating system and application software upgrading, anti-virus and firewall management, hardware configuration and troubleshooting, application maintenance and administration."
+        },
+        {
+            "title": "Manager of Information Services",
+            "company": "Company Name City , State",
+            "start_date": "January 1992",
+            "end_date": "January 1995",
+            "description": "Sole IT person Recruited to relocate to Chicago to run the accounting operations system. Began at LINC as the Accounting Operations Manager eventually became the Network Manager. Maintained UNIX and Novell servers."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name City , State",
+            "start_date": "January 1991",
+            "end_date": "January 1992",
+            "description": "Recruited by Software Company to relocate to Wellesley, MA. Provided technical support for customers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS Accounting",
+            "school": "Baruch College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

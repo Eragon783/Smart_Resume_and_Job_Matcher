@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Public Relations and Event Planning Assistant – Journalism student with strong written and verbal communication skills. Motivated self-starter with experience in public relations writing and event planning.",
+    "skills": [
+        "Book",
+        "Editing skills",
+        "Event planning",
+        "Event Management",
+        "Special events",
+        "Journalism",
+        "Marketing",
+        "Excel",
+        "Microsoft Office",
+        "PowerPoint",
+        "Multi-media",
+        "Press releases",
+        "Public relations",
+        "Self-starter",
+        "TV",
+        "Verbal communication skills",
+        "Website",
+        "Written"
+    ],
+    "experience": [
+        {
+            "title": "Public Relations and Event Planning Assistant",
+            "company": "Company Name",
+            "start_date": "May 2015",
+            "end_date": "August 2015",
+            "description": "Wrote press releases and media advisories, prepared information for media kits and maintained company website and social media outlets. Managed special events such as tournaments, book signings and parties. Coordinated services for events such as entertainment, signage, printing, event security and secured vendors and sponsorships."
+        },
+        {
+            "title": "Vice President",
+            "company": "Company Name",
+            "start_date": "November 2014",
+            "end_date": "Current",
+            "description": "Manage all social media outlets including Twitter, Instagram and Facebook. Create events for professional development within a team of six journalism students. Develop strategies for acquiring and maintaining membership."
+        },
+        {
+            "title": "Coordinator of Internal Marketing",
+            "company": "Company Name",
+            "start_date": "December 2013",
+            "end_date": "September 2014",
+            "description": "Managed inbound marketing campaigns to increase brand awareness and generate new business. Planned and negotiated media buys, including TV, print and digital. Contributed to the planning and execution of an event with more than 8,000 attendees."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts : Journalism Public Relations",
+            "school": "Indiana University-Purdue University Indianapolis",
+            "year": 2012
+        },
+        {
+            "degree": "Public Relations Certificate in Event Management",
+            "school": "Indiana University-Purdue University Indianapolis",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Certificate in Event Management"
+    ],
+    "languages": []
+}

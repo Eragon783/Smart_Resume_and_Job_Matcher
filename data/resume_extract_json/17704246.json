@@ -1,0 +1,74 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Fort Dodge, IA",
+    "summary": "Experienced manager with client and project management skills, strong communication across technology, executive and business audiences, and a substantial background in transportation, warehousing, and supply chain management with 16+ years of shipping and logistics experience.",
+    "skills": [
+        "Quick learner",
+        "Training and development",
+        "Change management",
+        "Reports generation and analysis",
+        "Time management",
+        "Operations management",
+        "Excellent communication",
+        "Client-focused",
+        "Excel in management",
+        "Maintenance"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Hy-Vee Grocery Store",
+            "start_date": "2007-03",
+            "end_date": "2008-03",
+            "description": "Engage with the store team and customers to provide excellent customer service. Display a positive attitude and promote teamwork. Exhibit professionalism in appearance and conduct. Follow store procedures in running the cash register and take initiative in doing store tasks. Stock, price, and organize products. Maintain cleanliness inside and outside of store."
+        },
+        {
+            "title": "Crew Member",
+            "company": "Company Name, City, State",
+            "start_date": "1998-06",
+            "end_date": "2015-09",
+            "description": "Maintain a fast speed of service, especially during rush times. Take orders from customers and input their selections into the restaurant's computer systems. Assemble orders on trays or in bags depending on the type of order. Process large orders for events. Count down till at the end of each shift and deposit money in the safe. Clean and maintain safe food handling and sanitation standards. Respond to guest questions, concerns and complaints and ensure guest satisfaction. Follow safety procedures, operate cash registers, and build customer relations."
+        },
+        {
+            "title": "Stock Associate / Stock management",
+            "company": "Company Name, City, State",
+            "start_date": "2009-04",
+            "end_date": "2016-09",
+            "description": "Resolved customer problems by investigating issues, answering questions and building rapport. Directed strategic and brand-appropriate marketing initiatives to improve presentation and maximize sales. Offered direction and provided feedback to motivate team members. Managed inventory, processed cash/credit payments, opened/closed the store, recruited and retained retail talent, and achieved sales goals while maintaining product displays."
+        },
+        {
+            "title": "Hand Packer",
+            "company": "Company Name, City, State",
+            "start_date": "2016-10",
+            "end_date": "2017-10",
+            "description": "Safety First. Follow all safety procedures and SOPs. Pack and label boxes, obtain correct boxes, and follow GMP/HACCP guidelines. Maintain a clean and organized work area, report food safety or quality issues, and ensure high quality and safety standards. Handle heavy lifting and equipment as required."
+        },
+        {
+            "title": "Assembler Tech",
+            "company": "Company Name, City, State",
+            "start_date": "2017-07",
+            "end_date": "2018-10",
+            "description": "Read and interpret drawings, diagrams, blueprints, specifications, schematics, work orders, or reports. Set up test apparatus and conduct functional/operational tests to evaluate performance. Review work activities with management. Lay out, build, test, analyze, repair, and modify production components, equipment, and systems. Read blueprints and perform quality checks; set up machines and maintain equipment. Work included problem-solving, safety compliance, and collaboration with team members."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Fort Dodge High School",
+            "year": 2000
+        },
+        {
+            "degree": "Auto Body Diploma",
+            "school": "Iowa Central Community College",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "Member Institute of Logistics and Transport (MILT)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

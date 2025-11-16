@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [
+        "Fitness coaching",
+        "Sales",
+        "Marketing",
+        "Education (Special Education)",
+        "Strength and Conditioning",
+        "Athletics coaching (Football, Basketball, Baseball, Track & Field)",
+        "Program coordination",
+        "CPR/AED Certified",
+        "CPI Certified (Crisis Prevention Intervention)"
+    ],
+    "experience": [
+        {
+            "title": "Fitness Consultant",
+            "company": "Company Name",
+            "start_date": "2013-09",
+            "end_date": "2014-03",
+            "description": "Conducted tours, and gave wellness advice to help every person change their lives. Also, did outside marketing to help drive in business and conducted calls to prospective members."
+        },
+        {
+            "title": "DAEP/Special Education/Coach",
+            "company": "Company Name",
+            "start_date": "2012-08",
+            "end_date": "2013-05",
+            "description": "Taught in the DAEP (Disciplinary Alternative Educational Program). Also worked in the Special Education wings in the Middle and Elementary schools with Autism and Down Syndrome children, also coached Football, Basketball, and conducted the Strength and Conditioning programs for Middle school and high school athletes."
+        },
+        {
+            "title": "PE/Special Education/Coach",
+            "company": "Company Name",
+            "start_date": "2009-08",
+            "end_date": "2012-05",
+            "description": "Taught three PE classes in the Middle School and also taught in the Content Mastery programs to help children with disabilities. Also worked with the Special Educational settings in the Elementary and high school levels and also coached Football, Basketball, Baseball, and Track & Field throughout various teams and levels in the Athletic Department."
+        },
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "2014-07",
+            "end_date": "Present",
+            "description": "Helped grow the business from the inside out. Maintained detailed records of jobs and potential clients. Maintained client relations and work."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Parks and Recreation Management",
+            "school": "Southwestern Oklahoma State University",
+            "year": "2009"
+        },
+        {
+            "degree": "Criminal Justice",
+            "school": "Blinn College",
+            "year": ""
+        },
+        {
+            "degree": "Criminal Justice",
+            "school": "Texas A&M University-Commerce",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "CPR/AED Certified",
+        "CPI Certified (Crisis Prevention Intervention)"
+    ],
+    "languages": []
+}

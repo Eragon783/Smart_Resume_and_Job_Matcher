@@ -1,0 +1,94 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Highly enthusiastic customer service professional with 10 years of client interface experience; dedicated to maintaining customer satisfaction and contributing to company success. Excellent communication and conflict-resolution skills; strong abilities in inventory control, data integrity, cash handling, and banking/financial services; detail-oriented and capable of cross-functional teamwork.",
+    "skills": [
+        "Active listening",
+        "Strong organizational skills",
+        "Customer service",
+        "Conflict resolution",
+        "Inventory control",
+        "Data integrity",
+        "Cash handling",
+        "Banking and financial services",
+        "Cross-selling",
+        "Product promotions",
+        "Sales",
+        "Teamwork",
+        "Communication",
+        "Multi-tasking",
+        "Receptionist / Administrative support",
+        "Office administration",
+        "Spreadsheet / reporting",
+        "Public relations"
+    ],
+    "experience": [
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "2011-03",
+            "end_date": "Present",
+            "description": "Maintained up-to-date knowledge of store policies; prevented store losses; exceeded daily credit card application goals; cross-trained and provided back-up for other representatives; performed cashier duties; interacted with customers and retail buyers; followed up on shipping statuses and expedited orders."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "Present",
+            "description": "Managed receptionist area, drafted meeting agendas, organized electronic and paper files, handled correspondence, prepared reports and presentations, and supported daily office operations."
+        },
+        {
+            "title": "Licensed Insurance Agent",
+            "company": "Company Name",
+            "start_date": "2007-03",
+            "end_date": "2007-12",
+            "description": "Interviewed prospective clients, promoted agency products, prepared paperwork for insurance sales/renewals, and developed leads to meet monthly targets."
+        },
+        {
+            "title": "Personal Banker",
+            "company": "Company Name",
+            "start_date": "2006-04",
+            "end_date": "2007-03",
+            "description": "Opened new customer accounts; balanced daily cash deposits; assisted tellers; identified investment opportunities."
+        },
+        {
+            "title": "Senior Financial Representative",
+            "company": "Company Name",
+            "start_date": "2003-03",
+            "end_date": "2006-03",
+            "description": "Opened new customer accounts and promoted bank services; balanced daily cash and vault inventory; resolved customer issues."
+        },
+        {
+            "title": "Credit Card Specialist",
+            "company": "Company Name",
+            "start_date": "2000-02",
+            "end_date": "2003-08",
+            "description": "Addressed customer inquiries; built loyalty with follow-up calls; enforced service policies; improved call flow."
+        },
+        {
+            "title": "Member Services Representative / Dispatcher",
+            "company": "Company Name",
+            "start_date": "1997-07",
+            "end_date": "2000-03",
+            "description": "Evaluated service locations and scheduling; negotiated contracts with outside providers; responded to customer inquiries; maintained records; supported management in enhancing customer satisfaction."
+        },
+        {
+            "title": "Bank Teller",
+            "company": "Company Name",
+            "start_date": "1995-03",
+            "end_date": "1996-02",
+            "description": "Processed sales referrals; balanced deposits and vault inventory with zero errors; maintained confidentiality; delivered customer service."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Sociology",
+            "school": "SUNY Old Westbury College",
+            "year": "2016"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

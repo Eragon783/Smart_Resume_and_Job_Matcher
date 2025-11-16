@@ -1,0 +1,72 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Accountant with over a decade of diverse professional experience including corporate and small business accounting, tax preparation and accounting services. Dedicated and reliable team member who enjoys learning and taking on new challenges.",
+    "skills": [
+        "Accounts Receivable",
+        "Accounts Payable",
+        "General Ledger Accounting",
+        "Sales Tax",
+        "GAAP",
+        "Period End Close",
+        "Tax Preparation",
+        "Financial Statement Preparation",
+        "Attention to Detail",
+        "Microsoft Office",
+        "Microsoft Windows",
+        "ERP",
+        "ERP systems",
+        "Bookkeeping",
+        "Reconciliations",
+        "Payroll",
+        "XBRL",
+        "SEC reporting",
+        "10-Q/10-K"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "August 2011",
+            "end_date": "Present",
+            "description": "Responsible for consistent, accurate and timely period end close. Calculate, process and analyze journal entries and accruals. Maintain general ledger for multiple entities worldwide. Prepare account reconciliations for multiple accounts across multiple entities. Work as member of team to prepare 10-Q and 10-K reports. Prepare XBRL instance document for submission to SEC. Responsible for completion of various U.S. Government surveys. Monthly sales tax reporting."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "April 2007",
+            "end_date": "July 2011",
+            "description": "Supported company ownership by providing accounting insight and technical knowledge. Responsible for all accounting functions, including AR, AP, GL, payroll, period-end close processes, account reconciliations and sales tax reporting. Monitor accurate and appropriate recording of revenues and expenses. Monitor cash flow and balances; project future cash balances and needs. Monitor and analyze monthly operating results against budget."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "January 2006",
+            "end_date": "October 2006",
+            "description": "Maintained general ledger for multiple clients. Prepared journal entries and adjusting journal entries. Responsible for monthly reconciliations. Prepared financial statement compilations. Prepared individual income tax returns. Calculated and prepared monthly payroll deposits. Prepared quarterly and annual payroll reports for multiple clients. Prepared annual Form 1099 for multiple clients. Assisted in preparation of financial and operating reports."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S in Business Administration - Accounting",
+            "school": "Colorado State University",
+            "year": "May 2005"
+        },
+        {
+            "degree": "B.S in Accounting",
+            "school": "Regis University",
+            "year": "May 2003"
+        },
+        {
+            "degree": "B.S in Business Administration",
+            "school": "University of Colorado at Boulder",
+            "year": "August 1998"
+        }
+    ],
+    "certifications": [
+        "Certified Public Accountant (CPA) – Colorado License 25320"
+    ],
+    "languages": []
+}

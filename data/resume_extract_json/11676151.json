@@ -1,0 +1,98 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Dependable Computer Application Analyst with extensive experience diagnosing and troubleshooting network, hardware, and desktop issues; tracking and evaluating IT infrastructure incidents; and diverse healthcare and government exposure. Expertise in systems applications, technical helpdesk, information protection analysis, on-call troubleshooting in distributed multi-tier environments. Advanced skills with Epic medical software to register patients and train doctors and nurses on data entry; Epic Pelican Project team member for LSU Medical Science Center; collaborated with FMOL Health System Epic Go-Live team; led Application Analyst role for LSU Medical Science Experience (Patient Access Rep).",
+    "skills": [
+        "Adobe Dreamweaver",
+        "Electronic Medical Records",
+        "Adobe Flash",
+        "Help Desk software",
+        "HTML",
+        "IBM Mainframes",
+        "Access",
+        "Excel",
+        "Microsoft Office",
+        "Microsoft Operating Systems",
+        "PowerPoint",
+        "Word",
+        "Remedy",
+        "FootPrints",
+        "LAN/WAN",
+        "TCP/IP",
+        "Active Directory",
+        "Epic",
+        "IBM Database",
+        "Website Design",
+        "Database programming",
+        "Storage area networks",
+        "Networking",
+        "Troubleshooting"
+    ],
+    "experience": [
+        {
+            "title": "Patient Access Rep",
+            "company": "Company Name",
+            "start_date": "03/2015",
+            "end_date": "Current",
+            "description": "Responsible for obtaining complete and accurate demographic data; enters data in computer thoroughly on patients; notifies patients of co-payments, deductibles or deposits; trains new employees on how to navigate Epic software."
+        },
+        {
+            "title": "Geek Squad Consultation Agent",
+            "company": "Company Name",
+            "start_date": "06/2014",
+            "end_date": "03/2015",
+            "description": "Diagnosed and resolved clients' computer problems; upgraded hardware/software on clients' computers; knowledge of Microsoft Operating Systems; removed viruses and malware."
+        },
+        {
+            "title": "Technical Support Specialist",
+            "company": "Company Name",
+            "start_date": "09/2013",
+            "end_date": "12/2013",
+            "description": "Demonstrated advanced product knowledge with AT&T products; opened and managed trouble ticket system for issues; patient, courteous and friendly with customers; abided by and supported management directives."
+        },
+        {
+            "title": "EHR Application Analyst",
+            "company": "Company Name",
+            "start_date": "10/2011",
+            "end_date": "03/2012",
+            "description": "Worked closely with the medical staff to assure Epic access; supported End users locally and remotely with technical issues; worked with the Epic go-live team to implement Epic; troubleshot issues and ensured all interfaces worked."
+        },
+        {
+            "title": "Computer Analyst",
+            "company": "Company Name",
+            "start_date": "02/2009",
+            "end_date": "12/2011",
+            "description": "Provided primary technical support to over 5,000 staff; trained employees and updated new training documentation; set up new accounts for the doctors and employees."
+        },
+        {
+            "title": "Computer Asst/Functional Adm.",
+            "company": "Company Name",
+            "start_date": "06/2001",
+            "end_date": "03/2007",
+            "description": "Resolved computer desktop and laptop issues; knowledge and skills using Remedy and FootPrints; led the team morning meetings; recommended new software to management as needed."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Information Systems, Telecommunication Systems Support",
+            "school": "Tulane University",
+            "year": 2008
+        },
+        {
+            "degree": "Associate of Science in Computer Network Engineering",
+            "school": "Delgado Community College",
+            "year": 2002
+        },
+        {
+            "degree": "Military Service - United States Navy (Honorable Discharge)",
+            "school": "United States Navy",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Project Management Professional (PMP) - Candidate"
+    ],
+    "languages": []
+}

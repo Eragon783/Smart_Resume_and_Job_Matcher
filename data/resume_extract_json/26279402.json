@@ -1,0 +1,50 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Summary I am responding, with great interest, to the advertisement for a Carrier Overhaul Network Scheduling position. I would be an ideal match for this position. I am a 15 year military veteran that served his country with hard work and dedication. I am looking forward to bringing trades to your company, in addition to my extensive professional experience, I have a ton of experience in carrier overhaul planning, scheduling, and administrative skills. My broad background makes me an excellent candidate for this position. I look forward to meeting with you in person to further discuss my qualification. Thank you for your time and consideration.",
+    "skills": [
+        "Shielded Metal Arc Welding (SMAW) - Flat, Vertical, Horizontal, Overhead",
+        "Flux Core Arc Welding (FCAW) - Flat, Vertical, Horizontal",
+        "Administrative",
+        "Inspection",
+        "Inventory",
+        "Maintenance Scheduling",
+        "Weapons",
+        "Navy Publications",
+        "Record Keeping",
+        "Safety",
+        "Schematics",
+        "Test Equipment"
+    ],
+    "experience": [
+        {
+            "title": "Outside Machinist",
+            "company": "Company Name, City, State",
+            "start_date": "12/2012",
+            "end_date": "Current",
+            "description": "I am skilled in the installation of propulsion machinery, sea valves, steering gear, anchor handling equipment, elevators, pumps, ventilation fans, and weapons systems. In the process of installing this equipment, experience is gained in the use of math, blueprints, precision tooling, and portable machine tools. I have also become familiar with the procedures for precision line boring, precision alignment of machinery, bearing fitting, machinery assembly, surface machining, precision reaming, and machinery and weapons testing."
+        },
+        {
+            "title": "Aviation Ordnanceman",
+            "company": "Company Name, City, State",
+            "start_date": "11/1996",
+            "end_date": "01/2012",
+            "description": "As a 3M Zone Inspector during a 3-year Refueling Carrier Overhaul period on USS NIMITZ (CVN 68), I coordinated the efforts between 300 shipyard workers and 25 Navy Officers and Chiefs for over 40 Navy ship zones, achieving an 85% on-time delivery rate. On USS CARL VINSON (CVN 70), as the Work Center Control Representative for Weapons Department, I prepared, controlled, documented, planned, and accounted for over 250 work candidates required for reentry work onboard the carrier in the shipyard, and coordinated work activities between the Navy, shipyard, and other subcontractors for multiple systems and equipment ahead of schedule. While at NAS Patuxent River from January 2007 to May 2010 as the Leading Petty Officer of Armament Weapons Support Equipment, supervising 17 military and 12 contract civilians responsible for custody and upkeep of 309 IMRL items valued at $4.7 million, the 17 personnel processed 300 maintenance actions quarterly in accordance with the Naval Aviation Maintenance Program, ensuring availability of Safe and Ready For Issue equipment for 50 tenant commands. While assigned to the USS Harry S. Truman (CVN 75), from May 2010 to January 2012 as the Ship Safety Petty Officer, I assisted the Ship Safety manager in coordinating NAVOSH program implementation, safety reporting, hazard identification and evaluation, and mishap investigations, including hazard abatement documentation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Welding",
+            "school": "Tidewater Tech School of Welding",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "Secret level security clearance (2002-2012; 2012-2016)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Strong software skills including MS Word, Excel, PowerPoint, Publisher, Banner, VisiFlow, XtenderSolutions, Cisco Agent Desktop, Cisco Supervisor Desktop and Adobe Acrobat. Proficient with mainstream social networking sites. Highlights Training and development Team building & management Dedicated to process improvement Invoice processing Management of remote employees High customer service standards Client relations specialist Excellent communication skills Filing and data archiving Computer-savvy",
+    "skills": [
+        "MS Word",
+        "Excel",
+        "PowerPoint",
+        "Publisher",
+        "Banner",
+        "VisiFlow",
+        "XtenderSolutions",
+        "Cisco Agent Desktop",
+        "Cisco Supervisor Desktop",
+        "Adobe Acrobat",
+        "social networking sites",
+        "training and development",
+        "team building",
+        "management",
+        "process improvement",
+        "invoice processing",
+        "remote employee management",
+        "customer service",
+        "client relations",
+        "communication skills",
+        "filing and data archiving",
+        "computer-savvy"
+    ],
+    "experience": [
+        {
+            "title": "Public Relations & Development Associate",
+            "company": "Company Name, City, State",
+            "start_date": "2012-06",
+            "end_date": "2015-11",
+            "description": "Managed the day-to-day operations of the Public Relations and Development Office. Facilitated the planning and execution of annual fundraisers, including creating invitations, tracking replies, preparing and tracking invoices, depositing payments into the appropriate accounts, paying vendors and preparing and mailing thank you letters. Processing donations for the Health Fund and Medical Center, Nursing Home, Medical Center, and Dr. Nicholas DeRobertis Foundation. Contributed information regarding events and accolades to the Medical Center's employee newsletter. Assisted in creating marketing and promotional materials. Monitored the Medical Centers Facebook pages reviews, submitting positive reviews for the employee newsletter and reporting negative reviews to the Vice President for further review. Managed the physician referral line. Performed other duties as requested by the Vice President of Human Resources/Public Relations and Development."
+        },
+        {
+            "title": "Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "2010-06",
+            "end_date": "2011-05",
+            "description": "Provided administrative support including answering calls and filing client paperwork. Contacted clients in arrears to prevent suspension or cancelation of policies. Reviewed renewals against previous year's policies and created insurance summary booklets for VIP clients. Contacted policyholders to obtain missing information. Submitted policies changes and insurance claims to insurance companies on behalf of the client. Provide customer service, such as giving limited instructions on how to proceed with claims."
+        },
+        {
+            "title": "Admissions Processing Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2004-07",
+            "end_date": "2008-06",
+            "description": "Interviewed, hired, trained, and managed employees of the Admissions Processing Center. Maintained and administered the admission policies and procedures for all undergraduate and graduate programs. Recommended and maintained the policies and procedures concerning all aspects of the college's computer systems as they related to admissions. Assisted in writing and editing admission correspondences to applicants and students regarding their admissions record and standing. Coordinated with an outside agency to mail correspondences to applicants and students. Managed the Cisco Phone queue for the Admissions Processing Center. Managed the testing of system updates as they related to admissions. Accountable for the accurate and timely processing of admission records and matriculation status."
+        },
+        {
+            "title": "Admissions Processing Assistant Director",
+            "company": "Company Name, City, State",
+            "start_date": "2002-01",
+            "end_date": "2004-06",
+            "description": "Created and maintained VisiFLOW accounts for all college employees. Trained new employees and managed weekly work schedule. Supervised workload of the staff and student workers. Supervised staff and student workers in the absence of the director. Quality assured work performed by the staff and student workers. Developed and distributed a manual of admission processing policies and procedures for the Admissions Processing Center. Continued to perform the duties of the Senior Admission Processing Clerk as needed."
+        },
+        {
+            "title": "Senior Admissions Processing Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "2000-12",
+            "end_date": "2002-06",
+            "description": "Trained new employees and student workers. Assisted the director in overseeing student workers. Collected and processed admissions applications, official transcripts and supporting documents. Determined if applicants met automatic admission standards."
+        },
+        {
+            "title": "Admissions Processing Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "1998-10",
+            "end_date": "2002-11",
+            "description": "Collected and processed admissions applications, official transcripts and supporting documents."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Corporate Communications",
+            "school": "Mercy College",
+            "year": "2010"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

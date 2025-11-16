@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Area / Merchandising Manager with 15 years of experience in management, hiring, development and merchandising. Highly detail oriented and organized. Expertise in conflict management, employee recruitment, staff development and training. Strong leadership, team player, fast learner and driven.",
+    "skills": [
+        "Accounts payable",
+        "ADP",
+        "balance sheets",
+        "Cash handling",
+        "cash management",
+        "closing",
+        "Resolve customer complaints",
+        "database",
+        "direction",
+        "drivers",
+        "English",
+        "fashion",
+        "fast",
+        "floor plans",
+        "inventory",
+        "leadership skills",
+        "Loss prevention",
+        "meetings",
+        "Merchandising",
+        "money",
+        "windows",
+        "Works",
+        "payroll",
+        "pick",
+        "policies",
+        "quality",
+        "Fast learner",
+        "receiving",
+        "retail",
+        "selling",
+        "sales",
+        "scheduling",
+        "Spanish",
+        "Store manager",
+        "Team player"
+    ],
+    "experience": [
+        {
+            "title": "Specialist for Women's & Children's Apparel",
+            "company": "Company Name, City, State",
+            "start_date": "July 2015",
+            "end_date": "Current",
+            "description": "Provide customer service in the store, merchandise and fill shelves according to corporate standards, including overnight and early shifts. Promote promotions and ensure customers are aware. Manage store with high traffic and annual volumes; support loss prevention awareness; help manage store operations related to popular brand shoes; oversee merchandising and display to maximize sales."
+        },
+        {
+            "title": "Merchandising Executive/ Area Executive",
+            "company": "Company Name, City, State",
+            "start_date": "November 2005",
+            "end_date": "April 2015",
+            "description": "Opened and staffed new stores in the Florida market; led store openings from concept to fully functioning outlets in two weeks. Interviewed, hired and trained employees; resolved customer complaints; managed staff and schedules; trained managers in weekly scheduling; visited stores to ensure policy and goal implementation. Trained cashiers, authorizers, and managers in cash management and POS operations; performed cash handling, deposits and drops; coordinated with Brinks for pickups; managed inventory entries and price tagging; trained receivers and managers in receiving merchandise; conducted loss prevention interviews and initiatives; maintained security and alarm procedures; managed merchandising setup, fixtures, displays and window themes; oversaw large weekly volumes and rapid turnover; prepared floor plans and photographed displays weekly."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name, City, State",
+            "start_date": "September 2001",
+            "end_date": "November 2005",
+            "description": "Oversaw overall business operations including sales and product ordering; placed weekly orders ranging from 60,000 to 259,000; managed accounts payable; interfaced with product executives to ensure quality; handled customer issues; managed 8 route drivers and store servicing; opened new accounts; supervised warehouse operations and shipping from Chicago; ensured vehicle compliance and city codes; maintained sales databases and collaborated with accountants to manage finances."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science: Graphic Arts",
+            "school": "ROBERT MORRIS COLLEGE",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

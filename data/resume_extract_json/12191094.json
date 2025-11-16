@@ -1,0 +1,131 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Manchester, NH",
+    "summary": "Director of Public Relations and Communications professional with extensive experience in healthcare marketing, community relations, collateral design, and media relations across academic institutions and health plans. Skilled in budget oversight, cross-state program management, and development of communications strategies and educational programs.",
+    "skills": [
+        "Marketing",
+        "Public Relations",
+        "Business Development",
+        "Solutions",
+        "Budgets",
+        "Exchange",
+        "Liaison",
+        "Marketing Department",
+        "Operations",
+        "B2B",
+        "B2B Sales",
+        "Sales",
+        "Promotional",
+        "Sales Management",
+        "Sales Organization",
+        "Securities",
+        "Clients",
+        "American Red Cross",
+        "Documentation",
+        "Health And Wellness",
+        "Registered Nurse",
+        "Budget",
+        "Business Plan",
+        "Community Relations",
+        "Conflict Management",
+        "Crisis Management",
+        "Customer Relations",
+        "Customer Service",
+        "Educational Programs",
+        "Emergency Preparedness",
+        "Graphic Design",
+        "Healthcare",
+        "HIPAA",
+        "Marcom",
+        "MBA",
+        "Media Planning",
+        "Networking",
+        "Printing",
+        "Product Management",
+        "Receptionist",
+        "Retail Sales",
+        "RN"
+    ],
+    "experience": [
+        {
+            "title": "Director of Public Relations",
+            "company": "LifeShare",
+            "start_date": "2003",
+            "end_date": "2008",
+            "description": "Created and leveraged 'Success Stories' from LifeShare programs for business development; oversaw marketing department and conference budgets; coordinated cross-state information exchange; collaborated with LifeShare offices and partners to meet marketing needs."
+        },
+        {
+            "title": "Director of Public Relations",
+            "company": "Daniel Webster College",
+            "start_date": "2003",
+            "end_date": "2008",
+            "description": "College spokesperson and liaison to media; ensured major publications and communications supported strategic efforts to strengthen the college's competitive position."
+        },
+        {
+            "title": "Director of Communications",
+            "company": "Company Name",
+            "start_date": "2000",
+            "end_date": "2003",
+            "description": "Partnered with internal clients to implement solutions to improve communication strategies; planned and managed communication vehicles to promote and drive organizational priorities."
+        },
+        {
+            "title": "Director of Public Relations and Publications",
+            "company": "Company Name",
+            "start_date": "1996",
+            "end_date": "2000",
+            "description": "Directed and developed alumni magazine, annual report, newsletters, invitations, fundraising materials; ensured print collateral reflected school programs and achievements across channels; built relationships with external media."
+        },
+        {
+            "title": "Journalist",
+            "company": "Company Name",
+            "start_date": "1990",
+            "end_date": "1997",
+            "description": "Reported on political and community news for four towns and two school boards; authored over 1,200 by-lined articles; recognized by NH Press Association for writing."
+        },
+        {
+            "title": "Administrator PROFESSIONAL",
+            "company": "Company Name",
+            "start_date": "2008",
+            "end_date": "2010",
+            "description": "Managed and oversaw 24-hour operations; administered regulatory-compliant program."
+        },
+        {
+            "title": "Registered Nurse",
+            "company": "Company Name",
+            "start_date": "2011",
+            "end_date": "2014",
+            "description": "Provided marketing solutions for B2B sales organization, including sales management, marketing, presentations, and social media; supported branding and promotional campaigns; health assessments, medications administration, and wellness observations."
+        },
+        {
+            "title": "Marketing and Communications",
+            "company": "Marketing and Lifeshare/Centene",
+            "start_date": "2014",
+            "end_date": "present",
+            "description": "Provide communications and marketing solutions to meet annual and strategic goals; engage in press relations, presentations, marketing, and social media to support Lifeshare/Centene initiatives."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Journalism",
+            "school": "Temple University",
+            "year": null
+        },
+        {
+            "degree": "BS in Nursing",
+            "school": "Fitchburg State College",
+            "year": null
+        },
+        {
+            "degree": "Accreditation in Public Relations",
+            "school": "Marketing and Lifeshare/Centene",
+            "year": "2014"
+        }
+    ],
+    "certifications": [
+        "RN - Registered Nurse",
+        "American Red Cross Certification"
+    ],
+    "languages": []
+}

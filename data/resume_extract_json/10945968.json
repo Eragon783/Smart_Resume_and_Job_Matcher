@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Wood Dale, Illinois, USA",
+    "summary": "My background is in Information Technology and I have over 20 years experience working in the Aviation Ground Handling sector performing several IT roles. From Support to System Administration and most recently in Project Management",
+    "skills": [
+        "Windows",
+        "Windows Office Suites",
+        "Citrix",
+        "Active Directory",
+        "JIRA",
+        "Trello",
+        "Project Management Applications",
+        "Service Now ITSM"
+    ],
+    "experience": [
+        {
+            "title": "Global IT Project Manager",
+            "company": "Air Menzies International Limited",
+            "start_date": "05/2013",
+            "end_date": "Present",
+            "description": "Based in Wood Dale, IL. Manage internal system around the global network; lead in-house Java Development Team delivering internal back-of-house solutions and customer-facing web portals; oversee regional support networks across four regions; gather business knowledge to provide requirements to Development Team; oversee UAT and live deployments; senior IT representative coordinating with parent company IT teams 24/7; involved in data centre transformation and migration to Enterprise Cloud Service with a third-party supplier."
+        },
+        {
+            "title": "IT Project Manager",
+            "company": "Menzies Aviation",
+            "start_date": "06/2007",
+            "end_date": "05/2013",
+            "description": "Project management for IT infrastructure for green-field Station start-ups (Hyderabad and Bangalore 2007-2008); oversaw network, hardware acquisition and key systems go-live; contributed to UK and Europe expansion; managed IT systems for easyJet start-ups including Bristol (2009), Tenerife, Ibiza and Barcelona (2009)."
+        },
+        {
+            "title": "Support Analyst and System Administrator",
+            "company": "Menzies Aviation",
+            "start_date": "05/2001",
+            "end_date": "05/2007",
+            "description": "Led IT support in Global Cargo System deployment to Prague (2006); performed on-site/remote support; administered IT systems from Global Data Centre; provided PC support, network administration, Exchange server administration, and user inquiries."
+        },
+        {
+            "title": "Business Analyst",
+            "company": "Ogden Cargo System and Support",
+            "start_date": "05/1998",
+            "end_date": "05/2001",
+            "description": "Member of Ogden Cargo System and Support team; worked with UK Cargo terminals; contributed to ISO 9002 quality system; developed reports using IQ Objects BI tool for core Cargo Handling System."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Mathematics",
+            "school": "University of Glamorgan",
+            "year": "1996"
+        },
+        {
+            "degree": "A Levels",
+            "school": "Cardinal Newman R.C. School",
+            "year": "1992"
+        },
+        {
+            "degree": "GSCEs",
+            "school": "Cardinal Newman R.C. School",
+            "year": "1992"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "French"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Reliable and dependable professional with strong customer service, sales, and leadership experience. Demonstrates active listening, excellent organizational skills, and the ability to multi-task in fast-paced environments. Seeking a stable career in a customer-facing role.",
+    "skills": [
+        "Reliable and dependable",
+        "High customer service standards",
+        "Active listening skills",
+        "Flexible scheduling",
+        "Top sales performer",
+        "Superior organization skills",
+        "Customer service expert",
+        "Excellent multi-tasker",
+        "Opening/closing procedures",
+        "Superb sales professional",
+        "Sharp problem solver",
+        "Bar management"
+    ],
+    "experience": [
+        {
+            "title": "Membership Coordinator",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "Present",
+            "description": "Responsible for selling memberships at the health club. Generate at least 60% of own prospects through normal prospecting channels; the remaining 40% from club advertising and promotions. Build strong working relationships with club staff. Perform paperwork and administrative follow-up on personal sales, including follow-up on new memberships. Time distribution includes telephone solicitation, mailings, touring prospects and sales presentations, follow-up on new members and referrals, paperwork, and attendance at meetings and training."
+        },
+        {
+            "title": "Customer service Manager on dutie (MOD)",
+            "company": "Company Name",
+            "start_date": "2011-06",
+            "end_date": "2014-05",
+            "description": "Customer service MOD at a privately owned sports and fitness club. Duties included customer service, opening/closing procedures, monetary responsibilities, facility opening/closing checklist, outbound calls, EFT collections and updates, confirming and cancelling memberships and registrations, entering guest waivers, filing, faxing, mailing invoices, answering high-volume calls, greeting and checking in guests, cash handling, facility safety and cleanliness up to company standards."
+        },
+        {
+            "title": "Customer Service Representative/Bar Attendant",
+            "company": "Company Name",
+            "start_date": "2009-09",
+            "end_date": "2014-09",
+            "description": "Facilitated excellent customer service to produce sales; duties included sales, cash handling, opening/closing procedures, monetary responsibilities, fast-paced environment, mixing drinks, preparing food, and ordering supplies from vendors."
+        },
+        {
+            "title": "Sales/Customer Service Representative",
+            "company": "Party America",
+            "start_date": "2006-04",
+            "end_date": "2009-08",
+            "description": "Facilitated excellent customer service to produce sales; duties included answering and directing phone lines, greeting and assisting guests, merchandise layout, freight unloading, monetary responsibilities, closing procedures, ordering for customers, and balloon bouquet design."
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name",
+            "start_date": "2003-03",
+            "end_date": "2005-04",
+            "description": "Worked in a nationwide call center to broker and secure sales of medical supplies; duties included customer service, outbound call sales, invoicing confirmations and cancellations, filing, faxing, and mailing invoices to clients."
+        },
+        {
+            "title": "Merchandise and Customer Assistant (MCA)",
+            "company": "Company Name",
+            "start_date": "2002-10",
+            "end_date": "2003-01",
+            "description": "Sales-focused role in nationwide call center environment; duties included customer service, outbound call sales, invoicing confirmations and cancellations, filing, faxing, and mailing invoices; handling high volume inquiries."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Thornton High School",
+            "year": 2005
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

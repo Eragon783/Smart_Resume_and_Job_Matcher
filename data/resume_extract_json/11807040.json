@@ -1,0 +1,95 @@
+{
+    "name": "Rosanne Krcek-Frank",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Forms Designer with extensive healthcare experience, focused on culturally competent care, patient/family centered communication, and leadership in clinical settings.",
+    "skills": [
+        "Adobe",
+        "advertising",
+        "Assembly",
+        "banking",
+        "hardware",
+        "concept",
+        "client",
+        "clients",
+        "customer service",
+        "database",
+        "documentation",
+        "fashion",
+        "forms",
+        "graphic",
+        "image",
+        "in design",
+        "insurance",
+        "interpretation",
+        "logo creation",
+        "Mental Health",
+        "mail",
+        "Nursing I",
+        "Nursing",
+        "PDF",
+        "Pen",
+        "PostScript",
+        "presentations",
+        "coding",
+        "QuarkXPress",
+        "Research",
+        "sales",
+        "Sigma",
+        "unique",
+        "workflow"
+    ],
+    "experience": [
+        {
+            "title": "Forms Designer",
+            "company": "Company Name – City , State",
+            "start_date": "01/2007",
+            "end_date": "01/2010",
+            "description": "Assessed need for, ordered, obtained and interpreted appropriate lab tests. Conducted mandated health screenings, physicals and special education assessments in [number] schools with [number] students. Ensured external follow-up where required. Chronic patient care in med-surg unit, adeptly handling all aspects of treatment from medication to wound care to monitoring for [number] patients per shift. Primary care, assessment and evaluation of neonatal and pediatric patients. Counseled and educated patients about reproductive health issues and wellness. Expertise in STDs, HIV and family planning. Led CNA training program and conducted classes for prospective CNAs. Oversaw the training of [number] students annually. Organized and led [number] support groups per [time period] in subjects related to physical and emotional health to ensure long-term patient well-being."
+        },
+        {
+            "title": "Forms Designer",
+            "company": "Company Name – City , State",
+            "start_date": "01/2005",
+            "end_date": "01/2007",
+            "description": "As a contract designer who utilized QuarkXPress and Adobe's Creative Suite, created business documents specifically for use with ExpeData's Digital Pen and Paper applications. Experience included both the redesign of existing documents and the crafting of unique files tailored to accurately capture handwriting interpretation. Other job functions included Graphic Designer."
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name – City , State",
+            "start_date": "01/2001",
+            "end_date": "01/2004",
+            "description": "Utilized Adobe Creative Suite, QuarkXPress and company's proprietary software to produce business forms, essential documents and custom collateral from concept to production ready compositions. Key Achievements: Managed company-wide rebranding and graphic standards for ABN AMRO, a global banking corporation, and subsidiaries (Standard Federal and LaSalle Bank), resulting in $30,000 of revenue. Created design specifications for ABN AMRO's Core Teller Project, allowing client to capture handwritten data on deposit and withdrawal slips to be recognized by image character recognition software. Generated $25,000 in revenue. Managed design workflow and specifications simultaneously for Comerica Bank and Detroit Medical Group."
+        },
+        {
+            "title": "Client Services Specialist",
+            "company": "Company Name – City , State",
+            "start_date": "01/2000",
+            "end_date": "01/2001",
+            "description": "Advised clients and vendors on company's products. Met client expectations by communicating business objectives and reviewing results with client, vendors and production team in a timely fashion. Worked with team to train on standards and procedures. Created presentations for client visits. Key Achievements: Trained fellow employees on pander (do not mail) file and deceased file processing step necessary for the ethical and efficient use of their resources. Produced training pamphlet containing specific database procedural steps. Trained over 20 members of national publishing client's customer service staff on team processing, which afforded better communication and increased confidence in our services. Increased sales by 10%. Coordinated and prioritized several simultaneous projects and monitored entire job processing. Analyzed reports and job runs to ensure data integrity."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Nursing",
+            "school": "Northern Illinois University",
+            "year": 2014
+        },
+        {
+            "degree": "Master of Fine Arts: Painting/Sculpture",
+            "school": "Northern Illinois University",
+            "year": 1996
+        },
+        {
+            "degree": "Bachelor of Arts: Studio Art, Painting/Drawing; Art History and Chemistry",
+            "school": "Loras College",
+            "year": 1992
+        }
+    ],
+    "certifications": [
+        "Registered Nurse in [State] (License number [number], [year])",
+        "Advanced Cardiac Life Support (ACLS) Certification [year to present]"
+    ],
+    "languages": []
+}

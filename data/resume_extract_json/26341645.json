@@ -1,0 +1,83 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Motivated and customer-oriented Systems Analyst with strong analytical and technical skills. Experienced in HRIS applications (PeopleSoft, Kronos, ADP) with responsibilities in requirements gathering, testing, implementation, vendor liaison, and project coordination.",
+    "skills": [
+        "PeopleSoft HCM & Portal",
+        "PeopleTools",
+        "PeopleSoft Query",
+        "SQL",
+        "Oracle",
+        "Microsoft SQL Server",
+        "SharePoint",
+        "Windows NT",
+        "Windows 2003",
+        "Terminal Server",
+        "MS Office (Excel, Word, PowerPoint, Project, Publisher, Visio, Access)",
+        "Rational Tool (SDT, RQM, ClearCase)",
+        "Document Management Systems (PDM & Documentum)",
+        "Kronos Workforce Central (WFC)",
+        "Kronos Connect",
+        "ADP"
+    ],
+    "experience": [
+        {
+            "title": "SR BUSINESS SYSTEMS ANALYST",
+            "company": "Company Name",
+            "start_date": "12/2004",
+            "end_date": "Present",
+            "description": "Led coordination and delivery of HRIS and ERP solutions, including PeopleSoft, Kronos, and ADP interfaces. Responsibilities included requirements gathering, system change coordination, test planning and execution, vendor liaison, and ensuring SLAs and compliance. Acted as internal liaison and mentored analysts; led small to mid-size projects following GSM standards; supported security, data privacy, and SOX controls."
+        },
+        {
+            "title": "BUSINESS SYSTEMS ANALYST I/II",
+            "company": "Company Name",
+            "start_date": "01/2003",
+            "end_date": "12/2004",
+            "description": "Led BA for ADP, Kronos and Nextrak applications. Provided Level I/II technical support, issue escalation, documentation, and involvement in application development projects from kickoff to go-live."
+        },
+        {
+            "title": "HRIS CUSTOMER SERVICE SPECIALIST/ HRIS SPECIALIST",
+            "company": "Company Name",
+            "start_date": "01/2001",
+            "end_date": "01/2003",
+            "description": "Delivered technical and functional HR, Payroll and intranet application support (PeopleSoft, ADP, Webhire, Kronos). Maintained operation manuals and user documentation; collaborated with users, operations and development teams on improvements; supported projects from kickoff to production."
+        },
+        {
+            "title": "EDI COORDINATOR",
+            "company": "Company Name",
+            "start_date": "09/1999",
+            "end_date": "01/2001",
+            "description": "Established and expanded trading partner relationships; managed EDI project execution; identified and implemented process improvements; developed new EDI transactions, reports and performance metrics; supported mapping, implementation, and audits."
+        },
+        {
+            "title": "CUSTOMER SERVICE REPRESENTATIVE",
+            "company": "Company Name",
+            "start_date": "11/1998",
+            "end_date": "09/1999",
+            "description": "Processed customer orders, provided product information, referred leads, resolved issues, and supported post-sale service; trained new hires."
+        },
+        {
+            "title": "CALL RECEIVER/CUSTOMER SERVICE",
+            "company": "Company Name",
+            "start_date": "01/1998",
+            "end_date": "11/1998",
+            "description": "Handled emergency road service requests and travel information; upsold additional products and services; trained new employees."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Management Information Systems",
+            "school": "Northeastern University",
+            "year": 2000
+        },
+        {
+            "degree": "Associate of Science: Computer Science",
+            "school": "Quincy College",
+            "year": 1998
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

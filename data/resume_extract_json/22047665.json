@@ -1,0 +1,45 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "SALES MANAGER Summary Â Service focused professional offering an extensive background in customer service, sales, client relations and merchandising. Self-directed and self-motivated team player who also works well independently.",
+    "skills": [
+        "10-Key by touch",
+        "Cash Handling",
+        "Creative Problem Solving",
+        "Multi-tasking"
+    ],
+    "experience": [
+        {
+            "title": "Sales Manager",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "2017-09",
+            "description": "Opening store manager, count and balance safe and tills, successfully managed the activities of team members in multiple locations, passionately focus on customers needs, improved service quality and increased sales by developing a strong knowledge of company's products and services, maintain telzon ordering system for store products and customer merchandise, delivery driver, print and complete overstock, maintain MNDR, price changes, developed rapport with customers by handling difficult issues with diplomacy and tact."
+        },
+        {
+            "title": "Retail Sales Associate/Pharmacy Clerk",
+            "company": "Company Name",
+            "start_date": "2011-02",
+            "end_date": "2014-04",
+            "description": "Maintained front end of store, cashier, greet and assisted customers, served as liaison between customers, store personnel and various store departments, recommended and helped customers select merchandise based on their needs, informed customers about sales and promotions in a friendly and engaging manner, assisted pharmacist with filling of prescriptions, 3rd party insurance billing, answered phones, entered new patient profiles and prescriptions into medication input software system."
+        },
+        {
+            "title": "Pharmacy Assistant /Clerk",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2010-12",
+            "description": "Assessed customer needs and responded to questions, communicated directly with doctors offices via telephone, fax and email, provided friendly customer service at prescription drop-off and pick-up counters, worked closely with pharmacists and used medication input software to safely and accurately dispense medication, entered prescription and insurance billing information into patient profiles, verified patient data and billing information."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Management",
+            "school": "Century Business College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

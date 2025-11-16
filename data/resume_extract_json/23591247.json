@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Focused Operations Manager with contract negotiation and process improvement experience. Remains calm under pressure, leveraging industry trends to identify growth opportunities. Strong creative vision, management and communication skills; adaptable team player with accurate money handling and problem solving.",
+    "skills": [
+        "balance",
+        "Cashier",
+        "Cooking",
+        "customer service",
+        "delivery",
+        "Forklift Operator",
+        "inventory",
+        "market",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "natural",
+        "oil",
+        "organization skills",
+        "problem solving",
+        "shipping",
+        "team player",
+        "video editing",
+        "well organized",
+        "visual effects",
+        "adobe premiere"
+    ],
+    "experience": [
+        {
+            "title": "Chef",
+            "company": "Company Name",
+            "start_date": "April 2015",
+            "end_date": "Present",
+            "description": "Cooking and prepping food for guests; daily inventory; providing friendly customer service."
+        },
+        {
+            "title": "Head Cashier",
+            "company": "Company Name",
+            "start_date": "October 2011",
+            "end_date": "August 2013",
+            "description": "Provided customer service and handled daily money counts; provided change to other cashiers."
+        },
+        {
+            "title": "Head Cashier",
+            "company": "Company Name",
+            "start_date": "March 2010",
+            "end_date": "December 2011",
+            "description": "Provided a comfortable environment for customers; knowledge of movies and videos; maintained inventory counts of merchandise and other products; daily cash counts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "High School for Environmental Studies",
+            "year": "2008"
+        },
+        {
+            "degree": "Liberal Arts",
+            "school": "Kingsborough Community College",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

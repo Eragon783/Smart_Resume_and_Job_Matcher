@@ -1,0 +1,84 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Ft. Washington, Maryland, USA",
+    "summary": "Results-driven construction operations leader with 25+ years of experience overseeing land development, vertical construction, renovations, and design development. Expertise in financial planning, budgeting (capital & operations), P&L administration, accounting, reporting, disbursements, and equity & debt financing. Proven ability to build collaborative teams, manage large crews (up to 160 workers), and deliver projects on time and within budget. Strong focus on safety, regulatory compliance, and quality control, with extensive experience in government relations, contracting, and vendor/subcontractor management.",
+    "skills": [
+        "accounting",
+        "budgeting",
+        "business analysis",
+        "business development",
+        "operations",
+        "contract negotiations",
+        "contract administration",
+        "customer relations",
+        "documentation",
+        "financial",
+        "government",
+        "human resources",
+        "inspection",
+        "inventory management",
+        "leadership development",
+        "regulatory compliance",
+        "management information systems",
+        "problem resolution",
+        "process improvement",
+        "project management",
+        "purchasing",
+        "quality",
+        "quality management",
+        "QA",
+        "quality control",
+        "renovation",
+        "roofing",
+        "safety",
+        "strategic planning",
+        "supervision",
+        "supplier management",
+        "troubleshooting",
+        "workflow",
+        "XRAYs"
+    ],
+    "experience": [
+        {
+            "title": "Construction Project Regional Manager",
+            "company": "Polukai",
+            "start_date": "2009-01",
+            "end_date": "2015-01",
+            "description": "Directly responsible for leadership and direction for all aspects of construction throughout the company, including land development, vertical construction, renovation construction, ancillary facilities, and design development. Managed site safety and project execution, coordinating with general contractors and owners. Projects included FEMA Roofing across LA, MS, FL; Eglin AFB facilities; and multiple high-value renovation and roofing projects. Facilitated RFI/submittals, change orders, and project closeouts; supervised onsite teams and ensured compliance with safety and quality standards."
+        },
+        {
+            "title": "Operations Manager",
+            "company": "Company Name",
+            "start_date": "2003-01",
+            "end_date": "2009-01",
+            "description": "Qualified competitive subcontractor bids prior to execution of contracts. Facilitated processing of RFIs, submittals and samples among general contractor, owner, and consultants. Coordinated plans and specs to marketing standards, educated contractors on quality standards, reviewed Proposed Change Order Requests (PCOR), and allocated projects and tasks based on competencies. Ensured proper tools and equipment were provided to construction personnel and supervised plan execution."
+        },
+        {
+            "title": "Quality Assurance Manager",
+            "company": "Company Name",
+            "start_date": "1989-01",
+            "end_date": "2002-01",
+            "description": "QA/QC management professional contributing to quality management, project management, process improvement, business analysis/evaluation, development life cycle methodologies, and supplier management systems. Led quality assurance initiatives and contributed to organizational improvements across multiple projects."
+        },
+        {
+            "title": "Certified Nuclear Component Inspector",
+            "company": "Company Name",
+            "start_date": "1980-01",
+            "end_date": "1989-01",
+            "description": "Performed Non-Destructive Testing (NDT) on nuclear components. Roles included XRAY inspection of welds to identify flaws, initiating statistical analyses, resolving part/assembly discrepancies, and collaborating with engineers and project managers on design parameters. Provided test results to ensure product safety and compliance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts: Mechanical Engineering",
+            "school": "Pensacola Junior College",
+            "year": 1982
+        }
+    ],
+    "certifications": [
+        "Certified Nuclear Component Inspector (1980-1989)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,98 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Corporate Trainer and Performance Coach with over 25 years of business experience, including 18 years in training. Highly energetic and engaging speaker, skilled at coaching for peak performance, change management, and improving job-related competencies. Experienced in designing, delivering, and evaluating instructor-led training and wellness programs; adept at mentoring and building trust with participants.",
+    "skills": [
+        "corporate training",
+        "coaching",
+        "performance coaching",
+        "leadership",
+        "instructional design",
+        "program development",
+        "wellness programs",
+        "motivational interviewing",
+        "classroom management",
+        "public speaking",
+        "active listening",
+        "change management",
+        "project management",
+        "vendor management",
+        "conflict resolution",
+        "mentoring",
+        "stakeholder engagement",
+        "training programs",
+        "workflow"
+    ],
+    "experience": [
+        {
+            "title": "Corporate Facilitator, Performance Coach and Developer",
+            "company": "Company Name",
+            "start_date": "January 2005",
+            "end_date": "Present",
+            "description": "Collaborate with senior leadership to tailor training. Design, development, implementation and administration of instructor-led corporate training including feedback survey forms and supporting materials. Monitor and evaluate the effectiveness of training programs with the client. Maintain high performance standards through individual coaching."
+        },
+        {
+            "title": "Health Coach and Corporate Health Educator",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "January 2014",
+            "description": "Coached patients using motivational interviewing to guide behavior change. Delivered wellness initiatives for physical, social, occupational, intellectual and emotional wellbeing. Provided telephonic health coaching for 50-90 patients per week; supported cholesterol, blood pressure, weight management, exercise, glucose, stress management and smoking cessation. Recognized in top 5% of coaching staff; mentored 15 monthly peer health coaches."
+        },
+        {
+            "title": "Certified Wellness Program Manager, Health Coach and Corporate Health Educator",
+            "company": "Company Name",
+            "start_date": "January 2005",
+            "end_date": "January 2010",
+            "description": "Developed results-oriented wellness programs for corporations and individuals. Created interventions for incentives, recognition campaigns and vendor selection. Implemented a corporate wellness division for a health brokerage firm. Authored and published 'Healthy Profits: The 5 Areas of Strategic Wellness in the Workplace' and contributed to other works. Presented to international, local and regional audiences concerning soft skills training and workplace wellness."
+        },
+        {
+            "title": "Manager of Retail Systems, Project Manager and Trainer",
+            "company": "Company Name",
+            "start_date": "January 1997",
+            "end_date": "January 2005",
+            "description": "Managed workflow, quality control, and conflict resolution. Supervised third-party vendors on corporate projects. Trained True Value employees, trainers and members on corporate software projects. Project Manager for a $1 million ground up in-store catalog/ordering system reaching 1000+ users. Coordinated a 40 member team in multiple states for over a two year period. Oversaw departmental management with profits exceeding $6.5 million."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "Robert Morris University",
+            "year": 1981
+        },
+        {
+            "degree": "Certified Professional Life Coach in Personal Life Coaching",
+            "school": "Life Coach College",
+            "year": 2004
+        },
+        {
+            "degree": "WellCert - Certified Wellness Program Manager (CWPM)",
+            "school": "WellCert",
+            "year": 2007
+        },
+        {
+            "degree": "Intrinsic Coach Development",
+            "school": "Intrinsic Solutions International",
+            "year": 2010
+        },
+        {
+            "degree": "Dale Carnegie Multi-Certified Facilitator (5)",
+            "school": "Dale Carnegie Chicago",
+            "year": 2011
+        },
+        {
+            "degree": "Foundations of Motivational Interviewing I & II",
+            "school": "Mid-Atlantic ATTC",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        "Foundations of Motivational Interviewing I & II (Mid-Atlantic ATTC) - 2012",
+        "Dale Carnegie Multi-Certified Facilitator - Chicago (5) - 2011",
+        "Intrinsic Coach Development - Intrinsic Solutions International - 2010",
+        "WellCert - Certified Wellness Program Manager (CWPM) - 2007",
+        "Certified Professional Life Coach in Personal Life Coaching - Life Coach College - 2004"
+    ],
+    "languages": []
+}

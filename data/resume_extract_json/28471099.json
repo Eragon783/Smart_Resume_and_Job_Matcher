@@ -1,0 +1,108 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Driven, analytical, creative IT and business leader with 25+ years of experience across business, customer service, higher education, utilities, insurance, the arts and public education. Skilled in project management, client training, technology deployment, system integration, Change Management, and developing innovative client solutions to achieve business objectives. Experienced in leading customer service, new business development, and educational technology initiatives; adept at aligning technology with organizational strategy.",
+    "skills": [
+        "administrative",
+        "Arts",
+        "art",
+        "basic",
+        "Billing",
+        "Billing System",
+        "Change Management",
+        "competitive",
+        "hardware",
+        "Consulting",
+        "Customer Service",
+        "customer service",
+        "database",
+        "Database programming",
+        "E-Commerce",
+        "Edge",
+        "email",
+        "Filemaker",
+        "MVS",
+        "Invoicing",
+        "Leadership",
+        "Team Leadership",
+        "Director",
+        "marketing",
+        "access",
+        "enterprise",
+        "Network",
+        "New Business Development",
+        "Novell Network",
+        "organizational",
+        "processes",
+        "Project Management",
+        "project management",
+        "Quality Assurance",
+        "Sales Manager",
+        "System Integration",
+        "teaching",
+        "desktop support",
+        "troubleshooting",
+        "websites"
+    ],
+    "experience": [
+        {
+            "title": "Owner",
+            "company": "Company Name",
+            "start_date": "1998-01",
+            "end_date": "Present",
+            "description": "Highly skilled technology leader with proven success in providing innovative and creative application solutions, tools, and processes across organizations. Effective leader in applying custom business and technology solutions to maximize organizational performance. Creates competitive advantages by utilizing cutting edge technologies, technical and business acumen, innovating solutions and influencing positive change across an enterprise. Provides marketing leadership to propel business into the public arena. Achieve corporate objectives through passion, commitment and expertise in: Customer Service, New Business Development, Project Management, System Integration, Technology Deployment, Process, and Quality Assurance. Change Management consulting and technology support for companies, schools, and individuals; database development; web page authoring and support; digital media support. Includes network planning, configurations, deployment, system integration, and training."
+        },
+        {
+            "title": "Coordinator, Technology Support",
+            "company": "Company Name",
+            "start_date": "2001-08",
+            "end_date": "2009-08",
+            "description": "Oversee the technology support for the division focused on analyzing the current environment of the faculty and staff. Enable users to manage their support and teaching duties by relying on the available technology. Provide project management in the development of FileMaker solutions within the division as well as coordinated solutions between other university users. Create training modules, which allow the faculty and staff to attend sessions over their lunch breaks and allow them to learn new/current technology skills. Show opportunities in the use of cutting edge technologies, innovative solutions, and influencing positive change across the teaching and learning communities using superior customer service. Working to increase the implementation of FileMaker solutions in the classroom curriculum. Developing websites for student signups for public music performances. Created and implemented important database products to increase the productivity of the administrative staff. Worked with IT Services and the School of Education on an NCATE project, which impacts the licensure of teachers in all areas of study. Provided technology support, which includes desktop installation of hardware and software for the administration, faculty, and staff of the School of Fine Arts, in addition to technology solutions and training. Accountable for database solutions for the administrative staffs of the individual departments within Fine Arts, includes tracking the admissions process for students coming to Miami University and are interested in becoming involved in the Arts programs. Developed an art portfolio review solution with web capabilities, which enables the art students to submit their artwork for review by the faculty thereby allowing some them to be admitted to one of the art programs."
+        },
+        {
+            "title": "Coordinator",
+            "company": "Company Name",
+            "start_date": "1997-01",
+            "end_date": "2001-01",
+            "description": "Improvement, E-Commerce, Quality Assurance, System Installation, Team Leadership, Change Management Consulting. Provided technology support for companies, schools, and individuals; database programming; webpage authoring and support; network planning, configurations, and installation; digital media support; marketing expertise. Oversaw desktop support for IT Services, including database solutions, troubleshooting, and installation of hardware/software; led the introduction of new technologies and training; developed and implemented the Print Center Invoicing and Billing System (FileMaker) and the Media Services Billing Process (FileMaker); supported classroom technologies and media services; coordinated joint technologies center with IT Services, Fine Arts, and Education; managed Learning Technologies Centers and technical staff."
+        },
+        {
+            "title": "Technology Manager",
+            "company": "Company Name",
+            "start_date": "1992-01",
+            "end_date": "1997-01",
+            "description": "Managed IT services in student technology learning centers open to all students. Provided access to Internet, MVS, VS, and Novell Network; facilitated interaction between students and faculty via email, software, and Internet. The labs employed ~90 student workers each semester, including 8 student technicians, who kept the labs working 19 hours a day during each semester and 24 hours a day during the two weeks before the end of the semester. There were basic classes taught by the student staff to students who needed sprint courses in the software and hardware required for their courses. Expanded the technologies services to students in 4 public sites; Developed 'Quik Time Training' program for students using the centers; expanded the student support and managed the technical needs of the students in the centers; taught students good customer service."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.M.",
+            "school": "Miami University",
+            "year": null
+        },
+        {
+            "degree": "PhD in Educational Leadership",
+            "school": "Miami University",
+            "year": null
+        },
+        {
+            "degree": "Associate of Computer Science",
+            "school": "Southwestern College of Business",
+            "year": null
+        },
+        {
+            "degree": "Associate in Accounting",
+            "school": "Southwestern College of Business",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Music",
+            "school": "Washburn University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

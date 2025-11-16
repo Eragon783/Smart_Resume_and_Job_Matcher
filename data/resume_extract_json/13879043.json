@@ -1,0 +1,81 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "HR CONSULTING Summary 7+ years of Experience as a HR Partner with experience in all the facets of the Human Resource Function. Extensive background in HR generalist affairs, including experience in Recruiting, On boarding, Performance Management, employee retention, staff development, mediation, conflict resolution, Benefits and compensation, HR records management, HR policies, Jobs and Competencies. Demonstrated success in negotiating win- win compromises, developing teambuilding programs, corporate policies. Experience in Recruitment: Full life cycle recruiting involving Resourcing, Sourcing , Interviewing, Placement and On boarding. HR Generalist Responsibilities Benefits/Payroll Administration HR Policies & Procedures Performance Management Data analysis and Reporting Staff Retention Employee Relations HR Programs Recruitment/Hiring Employee Counseling Administration Conflict Resolution Orientation & On-Boarding SAP HR - Database access Training & Development Organizational Development Compensation and Benefits Experience",
+    "skills": [
+        "benefits",
+        "budget",
+        "client",
+        "delivery",
+        "hiring",
+        "Human Resource",
+        "HR",
+        "Insurance",
+        "Leadership",
+        "People Management",
+        "Managerial",
+        "Managing",
+        "market",
+        "Mentor",
+        "MIS",
+        "negotiations",
+        "networking",
+        "Internet research",
+        "optimization",
+        "Organization Development",
+        "payroll",
+        "Performance Management",
+        "philosophy",
+        "policies",
+        "processes",
+        "promotion",
+        "Recruitment",
+        "recruiting",
+        "seminars",
+        "strategic"
+    ],
+    "experience": [
+        {
+            "title": "HR Consultant",
+            "company": "HR Consulting Company Name",
+            "start_date": "2009-07",
+            "end_date": "2014-01",
+            "description": "Handled HR generalist responsibilities including recruitment, onboarding, performance management, employee relations, benefits and payroll administration, HR policies and procedures, HR data analysis and reporting, staff retention, training and organizational development. Led compensation and benefits processes, and managed recruitment lifecycle."
+        },
+        {
+            "title": "HR Coordinator",
+            "company": "Company Name",
+            "start_date": "2008-07",
+            "end_date": "2009-05",
+            "description": "Supported HR operations including recruitment, onboarding, performance management support, policy administration, rewards and recognition, employee engagement programs, and HRIS maintenance."
+        },
+        {
+            "title": "HR Assistant",
+            "company": "Company Name",
+            "start_date": "2007-05",
+            "end_date": "2008-06",
+            "description": "Assisted HR functions, contributed to development of appraisal process and performance management, career path planning, rewards program, internal job portal, 360-degree feedback, and onboarding."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Human Resource Management",
+            "school": "KIMS University",
+            "year": 2007
+        },
+        {
+            "degree": "Bachelor of Commerce",
+            "school": "BNDC University / Karnataka University",
+            "year": 2005
+        },
+        {
+            "degree": "Master of Business Administration",
+            "school": "Karnataka University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

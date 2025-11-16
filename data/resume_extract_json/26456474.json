@@ -1,0 +1,100 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Chicago, IL",
+    "summary": "Experienced MDS Coordinator and licensed practical nurse with a strong background in geriatrics. Skilled in MDS 3.0/RAI, PPS/OBRA regulations, care planning, interdisciplinary team collaboration, and optimizing facility reimbursement while maintaining high quality of patient care. Proficient in PointClickCare and staff scheduling.",
+    "skills": [
+        "MDS 3.0",
+        "RAI process",
+        "PPS/OBRA Regulations and Guidelines",
+        "MDS 3.0 Coding for OBRA and PPS",
+        "Care Assessments (CAAS)",
+        "RUG IV Payment Prospective System",
+        "Clinical reimbursement",
+        "Medicare charting",
+        "Vital Signs",
+        "Injections",
+        "Glucose testing",
+        "Dressing changes",
+        "Wound care",
+        "GT management",
+        "IV management",
+        "CPR certification",
+        "G-Tube feedings",
+        "Surgical sterile field",
+        "Standard first aid",
+        "Daily computer / internet use",
+        "Scheduling",
+        "Team leadership / supervising CNAs",
+        "Phlebotomy",
+        "Nursing",
+        "Patient care",
+        "Coding",
+        "Quality",
+        "Interdisciplinary collaboration",
+        "Point Click Care"
+    ],
+    "experience": [
+        {
+            "title": "MDS Coordinator",
+            "company": "",
+            "start_date": "August 2015",
+            "end_date": "Current",
+            "description": "Assist and open schedules for nurses and IDT to complete the MDS. Ensure data entered is accurate for maximum reimbursement. Develop programs aligned with residents' best interests while increasing facility reimbursement. Meet with IDT to ensure quality of care. Assist Restorative Nurse to establish appropriate and realistic care plans. Efficient in Point Click Care."
+        },
+        {
+            "title": "Phlebotomist",
+            "company": "",
+            "start_date": "January 2006",
+            "end_date": "Current",
+            "description": "Obtain venous blood samples from patients ranging from infants to geriatrics. Experience in heel sticks to difficult venipunctures. 10 years of inpatient/outpatient experience."
+        },
+        {
+            "title": "LPN",
+            "company": "Smith Village",
+            "start_date": "October 2013",
+            "end_date": "April 2015",
+            "location": "Chicago, IL",
+            "description": "Provided patient care and managed a team of CNAs; injections; diabetic management; CVA cases; wound care; GT management; psych care; medical-surgical; assisted living; IV care. Participated in 8 weeks of training on MDS 3.0/RAI, MDS 3.0 coding for OBRA/PPS, care assessments, and RUG IV payment systems. Performed vital signs, injections, glucose testing, dressing changes; CPR certified; GT feeding management; IV management."
+        },
+        {
+            "title": "LPN",
+            "company": "Prairie Manor Nursing & Rehab",
+            "start_date": "February 2012",
+            "end_date": "September 2014",
+            "location": "Chicago Heights, IL",
+            "description": "Provided nursing care for up to 30 residents; supervised up to 4 CNAs; medication administration; nursing assessments and documentation; daily computer use; ongoing staff education and training; interdisciplinary team involvement."
+        },
+        {
+            "title": "LPN",
+            "company": "HCR Manor Care",
+            "start_date": "December 2009",
+            "end_date": "February 2012",
+            "location": "Oak Lawn, IL",
+            "description": "Provided nursing care for up to 30 residents; supervised CNAs; care/medication administration; nursing assessments; daily computer use; staff education and training; interdisciplinary team involvement."
+        }
+    ],
+    "education": [
+        {
+            "degree": "LPN",
+            "school": "Brown Mackie College",
+            "year": "2015"
+        },
+        {
+            "degree": "Phlebotomy Technician Certificate",
+            "school": "Prairie State College",
+            "year": "2009"
+        },
+        {
+            "degree": "Associate of Applied Science in Nursing",
+            "school": "Prairie State College",
+            "year": "2020"
+        }
+    ],
+    "certifications": [
+        "CPR Certification (Adults, Infants, and Children)",
+        "MDS 3.0 Coordinator"
+    ],
+    "languages": []
+}

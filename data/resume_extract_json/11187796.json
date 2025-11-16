@@ -1,0 +1,63 @@
+{
+    "name": "Michael",
+    "email": "",
+    "phone": "",
+    "location": "Raleigh, NC",
+    "summary": "I am a determined, hard-working individual with the zeal to accomplish any task or challenge I'm given, seeking to exceed expectations. In the next year, I plan to achieve a bachelor's degree in Environmental Technology and Management, and attain a job in the field of sustainable design and technologies.",
+    "skills": [
+        "Customer Service",
+        "Management",
+        "Inventory Management",
+        "Communication"
+    ],
+    "experience": [
+        {
+            "title": "Store Manager / Assistant Store Manager / Replenishment Manager",
+            "company": "Michael's Arts and Crafts Store",
+            "start_date": "March 2017",
+            "end_date": "Present",
+            "description": "Aid Store Manager, Assistant Store Manager, Full-Time Replenishment Manager in day-to-day operations and planning; unload and stock store merchandise. Train new Replenishment associates. Employee of the Month (July)."
+        },
+        {
+            "title": "Customer Service / Store Operations",
+            "company": "Company Name",
+            "start_date": "February 2016",
+            "end_date": "March 2017",
+            "description": "Provided customer service on the sales floor, managed day/night-time associates and store operations. Trained and assessed new associates. Assumed position at Brier Creek, Raleigh, NC location in October 2015."
+        },
+        {
+            "title": "Support Specialist",
+            "company": "Company Name",
+            "start_date": "June 2015",
+            "end_date": "February 2016",
+            "description": "Prepare cash registers, count money, and prepare documentation for the bank deposit. Manage cashiers in the morning."
+        },
+        {
+            "title": "Sales Associate / Cashier",
+            "company": "Company Name",
+            "start_date": "June 2015",
+            "end_date": "February 2016",
+            "description": "Offer customer service and efficiently run a cash register."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science in Liberal Arts, Science and Mathematics",
+            "school": "SUNY Adirondack",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelor of Science in Environmental Technology and Management",
+            "school": "North Carolina State University",
+            "year": 2018
+        }
+    ],
+    "certifications": [
+        "ArcGIS Program",
+        "Water Quality Testing",
+        "Stream Assessment",
+        "Tree Inventory",
+        "OSHA 40 Hour HAZWOPER Certification"
+    ],
+    "languages": []
+}

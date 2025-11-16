@@ -1,0 +1,96 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Puerto Rico",
+    "summary": "Marketing Coordinator with 10 years of experience, proactive team player focused on delivering high quality service, detail-oriented, well organized and self-motivated. Strong in process improvement, time management, and managing multiple tasks under pressure; skilled at developing and maintaining effective communication with clients, peers and administrative staff.",
+    "skills": [
+        "Marketing plan",
+        "Media Plan",
+        "Budgeting",
+        "Advertising & Public Relations",
+        "Strategic communications",
+        "Brand Management",
+        "Events Management",
+        "Public Relations Campaign",
+        "Public Relations Writing",
+        "Publicity",
+        "Retail promotions",
+        "Time management",
+        "Proofreading",
+        "Advertising",
+        "Newsletter",
+        "Agency",
+        "Organizing",
+        "Brochures",
+        "Presentations",
+        "Budgets",
+        "PR Budget",
+        "Press releases",
+        "Pricing",
+        "Competitive",
+        "Producing Content",
+        "Profit",
+        "Database Management",
+        "Special events",
+        "Graphics",
+        "Inventory",
+        "Logistics",
+        "Marketing strategies",
+        "Marketing plan",
+        "Marketing",
+        "Market",
+        "Marketing communications",
+        "Materials",
+        "Media relations",
+        "Meetings",
+        "News releases",
+        "Organizational",
+        "PR",
+        "Translation",
+        "Web pages",
+        "Trade shows",
+        "Sales",
+        "Research",
+        "Public Relations"
+    ],
+    "experience": [
+        {
+            "title": "Marketing Coordinator",
+            "company": "Company Name",
+            "start_date": "2017-02",
+            "end_date": "Present",
+            "description": "Coordinate and implement monthly US promotional circulars adaptations to PR Market; translate and adapt corporate material; manage budget distributions with Marketing Manager; forecast sales and profit; conduct competitive research; support PR market pricing strategy; provide project management; coordinate creation and printing of internal marketing materials; coordinate with graphics department; assist 11 PR Stores for events; maintain effective communications with internal and external partners."
+        },
+        {
+            "title": "Marketing Coordinator",
+            "company": "Company Name",
+            "start_date": "2015-02",
+            "end_date": "2017-02",
+            "description": "Coordinate marketing projects and activities; support marketing department; prepare marketing reports; develop marketing communications campaigns; plan marketing and advertising strategies and promotional presentations; ensure alignment with marketing strategies; manage information flow and dissemination; produce brochures, flyers and exhibition-related materials; determine budget and manage expenses; develop communications strategy for key media contacts and customer references; research media coverage and industry trends; improve communication efficiencies; support 13 dealer partners; organize branded items and artwork production; track advertising agency requests and billings; fulfill new requests."
+        },
+        {
+            "title": "Events & Public Relations Coordinator",
+            "company": "Company Name",
+            "start_date": "2010-06",
+            "end_date": "2015-01",
+            "description": "Coordinate events such as trainings, launches, business meetings and trade shows; site selection and contract negotiation; manage registration databases and on-site logistics; coordinate event logistics, including registration, attendee tracking, presentations, materials support and pre- and post-event evaluations; work with hotels and vendors; calculate budgets; promote products and services through PR; create and deliver press releases, media relations content and corporate newsletters; update web pages with new product information, upcoming events and news; develop budget ROI reports; maintain inventory of promotional materials; support in-house marketing and design team; track competitor publicity and prepare comparative reports."
+        },
+        {
+            "title": "Public Relations Intern",
+            "company": "Company Name",
+            "start_date": "2009-08",
+            "end_date": "2010-06",
+            "description": "Create public relations pieces such as news releases and media kits; plan and execute advertising campaigns using social media (Facebook, Twitter and YouTube); update web pages with new product information, upcoming events and news."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Communication, Public Relations and Advertising",
+            "school": "University Of Puerto Rico - Río Piedras",
+            "year": "2009"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

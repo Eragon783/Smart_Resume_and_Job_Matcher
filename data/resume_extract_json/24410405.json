@@ -1,0 +1,128 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior Member Advocate with over 15 years of experience in customer service and over 25 years in the service industry, including management. Highly skilled in organization, problem solving, and communication. Notable achievement: #1 in Member Satisfaction Survey among 420 Sears Corporate Holdings Inc. customers; exceeded corporate satisfaction targets for nine consecutive months.",
+    "skills": [
+        "Customer service",
+        "Data Entry",
+        "Microsoft Office",
+        "Excel",
+        "Outlook",
+        "Phone Etiquette",
+        "Public Speaking",
+        "Scheduling",
+        "Procurement",
+        "Inventory management",
+        "Accounts/Client management",
+        "CRM",
+        "Oracle",
+        "Ciboodle",
+        "Linux",
+        "AS/400",
+        "PeopleSoft",
+        "Problem solving",
+        "Conflict resolution",
+        "Filing systems",
+        "Administrative support",
+        "Government compliance",
+        "Security clearance"
+    ],
+    "experience": [
+        {
+            "title": "Senior Member Advocate",
+            "company": "Company Name",
+            "start_date": "Aug 2013",
+            "end_date": "Current",
+            "description": "Take service complaints - store complaints and service requests - help members in difficult situations. Made reasonable procedure exceptions to accommodate unusual customer requests. Built customer loyalty by placing follow-up calls for customers who reported product issues. Addressed customer service inquiries in a timely and accurate fashion."
+        },
+        {
+            "title": "Owner",
+            "company": "Company Name",
+            "start_date": "May 2007",
+            "end_date": "Current",
+            "description": "Cooking in your own private kitchen. Party Planning - Updated Menu available per request. Performed kitchen maintenance for a private facility. Developed and maintained exceptional customer service standards. Optimized profits by controlling food, beverage and labor costs on a daily basis."
+        },
+        {
+            "title": "Project Coordinator",
+            "company": "Company Name",
+            "start_date": "Jan 2013",
+            "end_date": "Aug 2013",
+            "description": "Collaborated with other account managers to prepare and deliver performance updates and quarterly business reviews. Addressed customer questions and concerns regarding products, prices and availability. Determined the cost and pricing of proposals and bids."
+        },
+        {
+            "title": "Procurement Specialist",
+            "company": "Company Name",
+            "start_date": "Jan 2012",
+            "end_date": "Aug 2012",
+            "description": "Supervised material flow, storage and global order fulfillment. Maintained accurate stock records and schedules. Oversaw special orders and after-hours, urgent shipping jobs. Unloaded, picked, staged and loaded products for shipping."
+        },
+        {
+            "title": "Account Manager",
+            "company": "Company Name",
+            "start_date": "May 2011",
+            "end_date": "Dec 2011",
+            "description": "Manage accounts for projects in the Semi-conductor field. Selected products for specific routes according to pick sheets. Owned team productivity metrics."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "Jan 2007",
+            "end_date": "Apr 2011",
+            "description": "Government Affairs Manage account orders for the federal government accounts. Microsoft Office Excel, Phone Etiquette, US Postal Service Sensitive Security Clearance, Data Entry."
+        },
+        {
+            "title": "Dispatcher",
+            "company": "Company Name",
+            "start_date": "Jan 2008",
+            "end_date": "Jun 2008",
+            "description": "Verified that information in the computer system was up-to-date and accurate. Compiled statistical information for special reports. Created monthly reports for records, closed terminated records and completed chart audits. Developed and created a more effective filing system to accelerate paperwork processing."
+        },
+        {
+            "title": "Customer service / Dispatch manager",
+            "company": "Company Name",
+            "start_date": "Jan 2003",
+            "end_date": "Sep 2007",
+            "description": "Dispatch Facility in San Marcos - set up routes for the tech's and helped members with appts. Helped members with difficult situations with the techs and their accounts. Started out as a customer service - sales rep. Selected the most efficient routes in compliance with delivery instructions and fuel policy. Established long-term customer relationships through prompt and courteous service. Resolved customer complaints and adjusted orders."
+        },
+        {
+            "title": "Seasonal Dept Manager",
+            "company": "Company Name",
+            "start_date": "Jun 1999",
+            "end_date": "Dec 2002",
+            "description": "Seasonal Department manager - for all of the seasons. Helped with the inventory - scheduling and management with the other agents on the floor - and helped the customers with their issues for sales/profits."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "school": "University of Phoenix",
+            "year": 2012
+        },
+        {
+            "degree": "Associate Degree",
+            "school": "IVY Tech State College",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelor's Degree",
+            "school": "The Culinary Institute of America",
+            "year": 2002
+        },
+        {
+            "degree": "Master's Degree",
+            "school": "The Culinary Institute of America",
+            "year": 2002
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Paul Harding High School",
+            "year": 1995
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

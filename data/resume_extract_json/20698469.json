@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Combat Marksmanship Trainer / Primary Marksmanship Instructor with weapons and tactics instruction, leadership, small arms expertise, firearms safety training, defensive tactics, logistics planning, and security clearance. Experienced in emergency response and training operations.",
+    "skills": [
+        "Team leadership",
+        "Small arms weapons specialist",
+        "Firearms safety training",
+        "Defensive tactics",
+        "Supply and logistics planning",
+        "Security clearance",
+        "Emergency response",
+        "Combat marksmanship",
+        "Martial arts instruction",
+        "Combat conditioning",
+        "Range operations",
+        "Training and instruction",
+        "Simulation training",
+        "Teaching",
+        "Microsoft Office"
+    ],
+    "experience": [
+        {
+            "title": "Combat Marksmanship Trainer/ Primary Marksmanship Instructor",
+            "company": "Company Name",
+            "start_date": "2015-06",
+            "end_date": "2016-08",
+            "description": "Instructed over 2,000 Marines in all phases of the Marine Corps Marksmanship Program on qualification and qualification re-check on small arms ranges. Assisted in the operation of 35 firing ranges."
+        },
+        {
+            "title": "Assistant Martial Arts Instructor",
+            "company": "Company Name",
+            "start_date": "2015-06",
+            "end_date": "2016-07",
+            "description": "Assisted four Martial Arts Instructors with training of over 200 Marines and Sailors in the Marine Corps Martial Arts Program by planning and executing Combat Conditioning (Physical Fitness Training). Conducted remediation training and taught the Marine Corps Martial Arts Program in the absence of the Instructor."
+        },
+        {
+            "title": "Combat Marksmanship Coach",
+            "company": "Company Name",
+            "start_date": "2014-09",
+            "end_date": "2015-06",
+            "description": "Analyzed difficulties of over 3,000 shooters during dry and live fire exercises in all phases of the Marine Corps Marksmanship Program during qualification. Assisted in operation of 56 firing ranges."
+        },
+        {
+            "title": "Response Cell Non-Commissioned Officer",
+            "company": "Company Name",
+            "start_date": "2015-10",
+            "end_date": "2015-10",
+            "description": "Organized the set-up of a large scale amphibious assault training exercise/ simulation involving several adjacent Marine Crops units. Trained 50 Marines to use combat simulation programs and to effectively support adjacent units involved in the exercise. Supervised and assisted Marines with daily tasks and execution of the amphibious landing followed on by a ground assault. Greater details of duties and training evolution are classified."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Terrorism Awareness; Leading Marines; Pistol Marksmanship; Infantry Squad Leader: Weapons and Fire Support; Inspection and Repair of the M9 Pistol; The Marine Rifleman: Combat Skills",
+            "school": "Marine Corps University (Distance Learning)",
+            "year": "2016"
+        }
+    ],
+    "certifications": [
+        "Secret Security Clearance",
+        "Combat Marksmanship Trainers Course",
+        "Global War on Terrorism Service Medal"
+    ],
+    "languages": []
+}

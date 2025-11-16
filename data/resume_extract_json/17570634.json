@@ -1,0 +1,103 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Chicago area, Illinois",
+    "summary": "Tech-savvy Project Manager well-versed in all aspects of project management from inception to completion. Excels in recruitment and talent acquisition, as well as process reengineering and improvement.",
+    "skills": [
+        "account management",
+        "backup",
+        "broadband",
+        "budget",
+        "Check Point Certified Security Administrator",
+        "charts",
+        "closing",
+        "computer hardware",
+        "hardware",
+        "computer networks",
+        "clients",
+        "customer satisfaction",
+        "data communications",
+        "Electronic Medical Records",
+        "email",
+        "forms",
+        "hiring",
+        "human resources",
+        "inspection",
+        "Internet connectivity",
+        "computer support",
+        "local area networks",
+        "leadership",
+        "managing",
+        "marketing",
+        "office",
+        "network design and implementation",
+        "network security",
+        "networks",
+        "policies",
+        "problem resolution",
+        "processes",
+        "procurement",
+        "project management",
+        "quality",
+        "reporting",
+        "safety",
+        "sales",
+        "scheduling",
+        "settlements",
+        "software training",
+        "strategy",
+        "supervising",
+        "technical support",
+        "technical training",
+        "transmission",
+        "web hosting",
+        "workflow"
+    ],
+    "experience": [
+        {
+            "title": "Owner",
+            "company": "TSI LLC",
+            "start_date": "January 2011",
+            "end_date": "Present",
+            "description": "Owner of a computer hardware and software technical support company; responsibilities include clarifying project scope and objectives, coordinating activities of a project team, identifying resources and implementation strategy, installing and configuring equipment, maintaining network security, converting papers to EMR, installing LAN/WAN/intranet networks, ensuring HIPAA/MU/COBIT compliance, managing email and spam protection, and system backup/restore."
+        },
+        {
+            "title": "Commercial Project Manager and Construction Manager",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "January 2011",
+            "description": "Design and build construction company with $100M in annual sales. Led on-site operations for commercial buildings, prioritized jobsite assignments for up to 20 crew members, completed 21 commercial projects valued around $50M, managed multiple smaller projects within budget, improved efficiency with online forms, wireless networking for office and field staff, and scheduling software, coordinated approximately 100 on-site subcontractors and skilled trades, ensured regulatory compliance through inspections and OSHA training, fostered open communication with customers, contractors, and staff, and conducted end-to-end project management of large projects."
+        },
+        {
+            "title": "Construction Manager",
+            "company": "Company Name",
+            "start_date": "January 2003",
+            "end_date": "January 2007",
+            "description": "Award-winning residential luxury home builder with 4,000 employees and $6B in annual sales. Oversaw project activities, developed and implemented construction schedules, coordinated workflow of multiple trade contractors in a high-production environment, inspected builds, and enforced safety regulations. Fundamental in closing $25M+ in new home sales annually, leading to \"Community of the Year\" award for quickest settlements, most settlements, and best customer satisfaction. Expedited projects by developing and implementing a 10-month construction schedule. Ensured quality of projects by managing sub-contractor schedules and deliveries, evaluating performance, conducting checkpoints on policies and procedures, managing homeowner walkthrough process, and participating in compliance inspections."
+        },
+        {
+            "title": "Project Manager and Network Consultant",
+            "company": "Company Name",
+            "start_date": "January 1998",
+            "end_date": "January 2001",
+            "description": "Provides integrated broadband communications and information services including local and long distance voice services, Internet connectivity, data transmission, and web hosting. Develops other enhanced services including network design and implementation, equipment selection, procurement and installation. 2.5B in annual sales. Chosen to manage a team of technical engineers tasked with providing technical support to customers and vendors. Oversaw project schedules, problem resolution, and account management. Performed human resources functions with regard to hiring and supervising engineers and support staff. Provided technical training to groups of 50+ customers and vendors. Increased sales over 20% through targeted marketing of new software to existing clients. Saving $10K+ in annual fuel reimbursements by implementing telecommuting procedures for technical support engineers. Ensured secure network operations by implementing Check Point Security Software. Improved customer productivity by delivering on-site hardware and software training. Managed customization of products by working in collaboration with buyers. Develops detailed work plans, schedules, estimates, resource plans, and status reports."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Technical Management",
+            "school": "DeVry University",
+            "year": ""
+        },
+        {
+            "degree": "Associate of Science: Computer Network Information Systems",
+            "school": "Westwood College of Technology",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Check Point Certified Security Administrator"
+    ],
+    "languages": []
+}

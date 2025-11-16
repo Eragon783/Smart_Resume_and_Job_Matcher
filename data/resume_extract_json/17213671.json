@@ -1,0 +1,109 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly experienced in banking, customer service, data entry, publicity, editing, and a wide range of computer skills. Proficient in PC and Mac environments with experience with computerized cash registers, invoicing, scheduling, and inventory software. Strong literary background with up-to-date technological knowledge. Skilled in time management, communication, problem solving, and multi-line phone operations.",
+    "skills": [
+        "balance",
+        "cash management",
+        "cashier",
+        "CPR",
+        "credit",
+        "customer service",
+        "special events",
+        "First Aid",
+        "French",
+        "functional",
+        "funds",
+        "inventory",
+        "MAC",
+        "materials",
+        "Excel",
+        "money",
+        "PowerPoint",
+        "Publisher",
+        "Microsoft Word",
+        "personnel",
+        "policies",
+        "Presenting",
+        "press",
+        "press releases",
+        "print media",
+        "Publicist",
+        "publicity",
+        "radio",
+        "read",
+        "Recording",
+        "safety",
+        "Spanish",
+        "Spanish language",
+        "phones",
+        "television",
+        "data entry",
+        "accuracy",
+        "administrative",
+        "office administration",
+        "filing",
+        "data archiving"
+    ],
+    "experience": [
+        {
+            "title": "Park Operations Hostess",
+            "company": "Company Name, City, State",
+            "start_date": "2014-09",
+            "end_date": "Present",
+            "description": "Provide exceptional guest service by greeting and interacting with guests, answering questions and resolving guest issues. Ensure safe and efficient line speed and crowd flow through park rides and stadiums. Operate and monitor ride systems following safety policies, including loading/unloading and evacuations. Perform and record guest counts hourly and coordinate with other departments. For special events, staff gates and pathways to direct guests. Assist with park emergencies including inclement weather."
+        },
+        {
+            "title": "Activities Associate",
+            "company": "Company Name, City, State",
+            "start_date": "2014-02",
+            "end_date": "2014-10",
+            "description": "Present programs in front of groups of varying ages. Assist in implementing group activities. Handle reservations and accept cash and credit card payments. Record inventory of equipment and ensure equipment is functional. Check out and return equipment for guests. Assist guests with planning schedules and recommend activities and events."
+        },
+        {
+            "title": "Senior Publicist",
+            "company": "Company Name, City, State",
+            "start_date": "2006-06",
+            "end_date": "2014-05",
+            "description": "Cash and check deposits, process loan expenses and open new accounts. Create and develop publicity strategies to drive business goals. Pitched and secured print media, television, online and radio interviews. Developed press materials such as press releases, kits, fact sheets and related communications. Built and maintained relationships with media personnel. Oversaw tours and media events."
+        },
+        {
+            "title": "Certified Senior Teller",
+            "company": "Company Name, City, State",
+            "start_date": "2012-07",
+            "end_date": "2013-05",
+            "description": "Maintained cash limits, cashed checks, established deposits, and issued cashier's checks, cash orders, traveler’s checks, money advances, and funds transfers. Performed cash management, customer service, balanced cash drawer and petty cash management. Hired as junior teller; promoted due to accuracy, pace, and skills."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2004-04",
+            "end_date": "2010-10",
+            "description": "Supervised and trained employees, answered phones, accepted reservations and took payments; managed general care and cleanliness of facility."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in English Literature",
+            "school": "Roanoke College",
+            "year": 2010
+        },
+        {
+            "degree": "",
+            "school": "North Cross School",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        "Lifeguarding (American Red Cross)",
+        "CPR",
+        "AED",
+        "First Aid"
+    ],
+    "languages": [
+        "Spanish (conversational)",
+        "French (read/write)"
+    ]
+}

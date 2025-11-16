@@ -1,0 +1,116 @@
+{
+    "name": "Zeel Patel",
+    "email": null,
+    "phone": null,
+    "location": "Greater Miami, FL metropolitan area",
+    "summary": "Zeel Patel is an Information Technology Manager with a focus on IT transformation and process improvement currently looking for opportunities in the greater Miami, FL metropolitan area. Zeel has experience working with corporate data in the areas of data presentation, structured and unsecured datasets, data mining, statistical analysis, UI creation, data warehouse management, and assessing data quality. Additionally, Zeel's diverse background has allowed him to succeed in a project management and IT management role. In this role, Zeel has engaged in holistic business analysis, process improvement, strategic planning, budgeting, contract negotiations, vendor relations, resource management, instituting best practices, and overseeing/implementing multiple enterprise systems (ERP, WMS, CRM, WOM, QMS, SCP).",
+    "skills": [
+        "Automation tools",
+        "HTML",
+        "CSS",
+        "Microsoft Office Suite",
+        "Office 365",
+        "Dynamics 365",
+        "Project",
+        "PowerApps",
+        "PowerBI",
+        "Flow",
+        "SharePoint",
+        "Excel",
+        "Access",
+        "Intune",
+        "Visio",
+        "EMS",
+        "Azure",
+        "AWS",
+        "Cisco Switch Management",
+        "VMware",
+        "Hyper-V",
+        "RDP",
+        "Automation Anywhere",
+        "Active Directory",
+        "iOS",
+        "Android",
+        "Windows",
+        "Red Hat Linux",
+        "VB.NET",
+        "EDI",
+        "ERP",
+        "WMS",
+        "CRM",
+        "QMS",
+        "SCP",
+        "SQL (SSRS, SSIS, SSAS)",
+        "VBA",
+        "DAX",
+        "Python",
+        "Oracle",
+        "Tableau",
+        "QlikView",
+        "QlikSense",
+        "SiSense",
+        "Datorama",
+        "Yellowfin",
+        "Crystal",
+        "ETL",
+        "Data Warehousing",
+        "Data analysis",
+        "Data modeling",
+        "Project Management",
+        "Vendor management",
+        "Budgeting",
+        "KPI reporting",
+        "BI",
+        "Procurement",
+        "P/L",
+        "R"
+    ],
+    "experience": [
+        {
+            "title": "Master Data Manager",
+            "company": "Company Name - City, State",
+            "start_date": "01/2019",
+            "end_date": "Current",
+            "description": "Aligning 100+ supply chain-related master data attributes; establishing data stewardship, data quality controls with IT; planning RPA for Phase 2 to automate data entry/maintenance; data integrity/warehousing; GS1 standardization; automating data quality reporting; data governance committee oversight."
+        },
+        {
+            "title": "Director of Information Technology",
+            "company": "Company Name - City, State",
+            "start_date": "01/2017",
+            "end_date": "01/2019",
+            "description": "Overseeing supply chain IT implementations (WMS, ERP, QMS, CMMS, infrastructure); project management, budgeting, vendor coordination; development of process maps, system integration docs, GDPR/UAT, gap analysis, best-fit models, and user training manuals; deployed/man-aged BI products (SSRS/PowerBI); data warehouses and ETL; extensive IT governance and budgeting; led IT team and vendor relationships."
+        },
+        {
+            "title": "Information Technology and Analytics Manager",
+            "company": "NatJan Solutions (Facility Management - Retail, Medical, Grocery Sectors)",
+            "start_date": "01/2014",
+            "end_date": "01/2017",
+            "description": "Implemented ERP portal processes to monetize vendor data; created BI reports (PowerBI/SSRS); led national RFP bids for multi-million-dollar procurements; KPI reporting for clientele; designed SQL views and procedures; VBA automation to streamline billing; migrated on-premise systems to cloud; deployed SSAS cubes for ad-hoc reporting."
+        },
+        {
+            "title": "Co-Founder",
+            "company": "Company Name - City, State",
+            "start_date": "01/2015",
+            "end_date": "01/2017",
+            "description": "Co-founded indoor hydroponic farming company; led Sales & Operations Planning, operations management, and KPI reporting; deployed automation sensors for environmental control; oversaw finance, budgeting, vendor relationships and SOPs; generated first-year revenue through partnerships with local restaurants and Whole Foods."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Management of Information Systems",
+            "school": "Rowan University",
+            "year": "2017"
+        },
+        {
+            "degree": "Associate of Science in Accounting",
+            "school": "Rowan College",
+            "year": "2015"
+        }
+    ],
+    "certifications": [
+        "PMP Certification (Pursuing)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

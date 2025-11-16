@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Pine Bluff, Arkansas, USA",
+    "summary": "Experienced elementary/middle school Language Arts teacher with strong literacy instruction, assessment, classroom management, and integration of technology. Proven ability to engage diverse student populations, collaborate with staff and families, and support student achievement through evidence-based teaching and ongoing professional development.",
+    "skills": [
+        "Academic skills",
+        "Arts",
+        "Oral communication",
+        "Special events",
+        "Instruction",
+        "Leadership",
+        "Mathematics",
+        "PowerPoint",
+        "Microsoft Word",
+        "WordPerfect",
+        "Organizational skills",
+        "Painting",
+        "Presentations",
+        "Research",
+        "Reading",
+        "Safety",
+        "SAT",
+        "Scientific",
+        "Staff development",
+        "Structured teaching",
+        "Technology integration",
+        "Lesson planning",
+        "Classroom management"
+    ],
+    "experience": [
+        {
+            "title": "Language Arts Teacher",
+            "company": "Company Name",
+            "start_date": "August 2007",
+            "end_date": "Present",
+            "description": "Teach Language Arts daily to sixth grade students. Perform interventions for Benchmark and SAT10 standardized tests to help children become proficient in Language Arts. Assess students' reading and comprehensive skills through group discussion, testing, and oral and writing responses. Prepare lesson plans on the computer. Attend ongoing staff development at Southeast Middle School throughout the school year and for the Pine Bluff School District."
+        },
+        {
+            "title": "Co-Advisor Team Leader",
+            "company": "Company Name",
+            "start_date": "August 1995",
+            "end_date": "May 2007",
+            "description": "Tutor Sixth & Seventh grade students that tested basic or below basic in Language Arts. Work with students from varied ethnic, racial, and religious backgrounds. Administrator for the standardized Augmented Benchmark Test. Maintain accountability of students' safety and whereabouts during hours of operations. Teach Language Arts daily to sixth grade students. Perform interventions for Benchmark and SAT10 standardized tests to help children become proficient in Language Arts. Assess students' reading and comprehensive skills through group discussion, testing, and oral and writing responses. Attend ongoing staff development and plan, evaluate, and assign lessons; supervise classroom activities; communicate with parents and staff about student progress."
+        },
+        {
+            "title": "Certified Teacher",
+            "company": "Company Name",
+            "start_date": "August 1988",
+            "end_date": "May 1995",
+            "description": "Taught as a certified teacher; Tutored fifth grade students that tested basic or below basic in Math and Language Arts. Leader of the Fifth grade team. Taught using classroom presentations and individual instruction across subjects such as mathematics, science, social studies, spelling, language arts, Arkansas history, and health. Planned, evaluated, and assigned lessons; administered tests; maintained classroom discipline. Supervised students on playground, field trips, and other activities; prepared lesson plans and communicated with parents and staff about student progress."
+        },
+        {
+            "title": "Teacher",
+            "company": "Working Parents Child Care Center",
+            "start_date": "Unknown",
+            "end_date": "Unknown",
+            "description": "Teacher of four-year-old children. Introduced children to mathematics, language, science, and social studies using games, music, artwork, films, books, and computers. Promoted language development, social skills, and early literacy; used structured and unstructured activities, including storytelling, rhyming games, and acting games. Established working relationships with children and their parents."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.A : Elementary Education",
+            "school": "University of Arkansas at Pine Bluff",
+            "year": "May 2005"
+        },
+        {
+            "degree": "B.A : Elementary Education",
+            "school": "University of Arkansas at Pine Bluff",
+            "year": "May 1995"
+        }
+    ],
+    "certifications": [
+        "Certified Teacher",
+        "Pathwise Mentor Teacher"
+    ],
+    "languages": []
+}

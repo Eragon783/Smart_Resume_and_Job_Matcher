@@ -1,0 +1,65 @@
+{
+    "name": "Marie Fox",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Summary Multi-disciplinary designer with a strong marketing and entrepreneurial background. Experienced in leading design projects from start to finish, on time, on budget and with excellent quality. Seeking a creative position working with a top interior designer.",
+    "skills": [
+        "Advanced Adobe CS6",
+        "Illustrator",
+        "Photoshop",
+        "AutoCAD",
+        "Studio Designer",
+        "InDesign",
+        "SketchUp (goal to learn)",
+        "Revit (goal to learn)",
+        "Graphic design",
+        "Interior design",
+        "Space planning",
+        "Project management",
+        "Marketing & branding",
+        "Trend analysis & market research",
+        "Traditional fine art skills",
+        "Computer drafting",
+        "Design proposals & presentations",
+        "Product sourcing, orders & invoicing",
+        "Budget management",
+        "Time management",
+        "Multitasking",
+        "Client, vendor & contractor relations"
+    ],
+    "experience": [
+        {
+            "title": "Freelance Designer",
+            "company": "Company Name",
+            "start_date": "04/2012",
+            "end_date": "Current",
+            "description": "Launched freelance design business specializing in graphic design, interiors, logos, website makeovers, business name generation and marketing. Hired to spearhead interior design of two Eco Chateau wellness spas (opened 2012 & 2014). Developed winning design proposals for unique women's fitness club."
+        },
+        {
+            "title": "Founder",
+            "company": "Company Name",
+            "start_date": "11/2009",
+            "end_date": "Current",
+            "description": "Imagined and launched design-driven wine brand with an innovative marketing concept. Identified unique market opportunity and positioned the company to fulfill an unmet niche in personalized gifting. Navigated startup stages: crafted business plan, analyzed competitors, researched target markets, set up LLC, obtained licenses, vetted suppliers, sourced wine, conducted tastings, priced products, developed sales channels and marketing strategies. Built website and marketing collateral; hosted 50+ wine events and exported wine to China. Featured in packaging, media and industry outlets."
+        },
+        {
+            "title": "Marketing Manager & Sportswear Product Line Manager",
+            "company": "Company Name",
+            "start_date": "09/2007",
+            "end_date": "10/2009",
+            "description": "Planned large-scale events, delivered presentations to 200+ attendees, oversaw marketing budgets for a $50 Million brand, managed portfolio of professional athletes and media VIPs. Collaborated with cross-functional teams to build long-term brand and product marketing plans. Designed and managed events and tradeshow marketing initiatives, coordinated PR with a media agency, directed product launch video, managed web content, and developed new product line strategies from market feedback."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA in International Business / Marketing (Minor in Spanish)",
+            "school": "University of Wisconsin, Madison",
+            "year": "2005"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

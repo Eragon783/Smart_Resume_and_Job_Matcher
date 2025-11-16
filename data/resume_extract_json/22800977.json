@@ -1,0 +1,80 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Educational Administration Assistant Principal with 12 years in education and exceptional people skills. Create and monitor a positive safe school cultural environment that ensures growth of both students and staff. Inspire motivation to learn, skilled at building secure relationships between communities, parents, students and teachers.",
+    "skills": [
+        "Microsoft Office Suite",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "CAD",
+        "Quark Xpress",
+        "Prezi",
+        "Google Docs",
+        "Google Drive",
+        "Mentoring",
+        "Behavior Modification",
+        "Learning style assessment",
+        "Building relationships",
+        "Goal Setting",
+        "Team Building",
+        "Problem Solving",
+        "Multi-task Management",
+        "Community Relations",
+        "Creative Problem Solving",
+        "Plan Development"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Principal",
+            "company": "Company Name, City, State",
+            "start_date": "08/2013",
+            "end_date": "Present",
+            "description": "Supervise staff; coordinate substitute schedule and sub placement; supervise staff attendance; assist in staffing highly qualified teachers (interview prospective candidates); assist Principal with developing staff meetings; coordinate staff development; conduct staff observations and conferences; assist principal with team building; generate staff warnings; supervise and coordinate after school activities and clubs; counseling and mentoring; liaise with guardians for student/academic issues; advise teachers and parents on counseling referral processes; foster student-teacher relationships; liaison for school counseling services (DePelchin); regular parent communication; plan newsletters and communications; ensure district policies and procedures are implemented; develop Emergency Operations Plan; coordinate health and safety activities; conduct drills; coordinate required safety training."
+        },
+        {
+            "title": "Art Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "08/2007",
+            "end_date": "07/2013",
+            "description": "Taught art grades 6-8; collaborated with staff, administration and VIPS (Volunteer Parents) to support school events; facilitated activities that developed students' physical, emotional and social growth."
+        },
+        {
+            "title": "Fine Arts Director",
+            "company": "Company Name, City, State",
+            "start_date": "08/2001",
+            "end_date": "07/2007",
+            "description": "Taught art grades 6-12; developed and reviewed Fine Arts curriculum; facilitated training for Fine Arts teachers; established and coordinated professional development for Harmony's Fine Arts regional and statewide training; supervised, evaluated and mentored teachers; planned and coordinated field trips, international and national events; assisted with grant writing; initiated and implemented fundraisers; advised students on 12th grade planning; managed school-wide festivals and multicultural events; sponsored after-school art clubs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Education – Educational Administration",
+            "school": "Prairie View A&M University",
+            "year": "2011"
+        },
+        {
+            "degree": "Bachelor of Science in Industrial Design Technology",
+            "school": "Wentworth Institute of Technology",
+            "year": null
+        },
+        {
+            "degree": "Associate of Applied Science in Mechanical Engineering Technology",
+            "school": "Women's Technical Institute",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Principal Certification/Mid Management",
+        "Art-EC-12",
+        "Technology Applications-EC-12",
+        "Teacher-Highly Qualified",
+        "Teen Leadership",
+        "Communication Application, Gifted & Talented",
+        "Certificate of Recognition for Exemplary Contribution to Harmony",
+        "Certificate - Mechanical and Electrical Drafting (CAD)"
+    ],
+    "languages": []
+}

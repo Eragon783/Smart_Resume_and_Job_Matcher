@@ -1,0 +1,100 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Visionary Executive Director with expertise in marketing communication, strategic planning, public relations, and managing complex multi-project initiatives across nonprofit organizations; experienced in budgeting, grant management, staff leadership, and building stakeholder relationships.",
+    "skills": [
+        "Marketing",
+        "Public Relations",
+        "Fundraising",
+        "Accounting",
+        "GAAP",
+        "Strategic Planning",
+        "Event Planning",
+        "Recruiting",
+        "Branding",
+        "Budgets",
+        "Community Outreach",
+        "Financial Statements",
+        "General Ledger",
+        "Media Relations",
+        "Payroll",
+        "Program Management",
+        "Project Management",
+        "Content Management",
+        "Content Management Systems",
+        "Database Management",
+        "Excel",
+        "Human Resources",
+        "InDesign",
+        "Adobe InDesign",
+        "Photoshop",
+        "PowerPoint",
+        "Word",
+        "Microsoft Word",
+        "Acrobat",
+        "Networking",
+        "Optimization",
+        "Organizational Development",
+        "Leadership Development",
+        "Learning and Development",
+        "Mentoring",
+        "Site Design",
+        "Statistics",
+        "Time Management",
+        "Training",
+        "Training Programs"
+    ],
+    "experience": [
+        {
+            "title": "Executive Director",
+            "company": null,
+            "start_date": "May 2013",
+            "end_date": "Present",
+            "description": "Executive leadership overseeing outreach, fundraising, strategic planning, fiscal and facility management, and staff development for a 501(c)3 organization; responsible for governance, program oversight, grant reporting, and acting as primary spokesperson."
+        },
+        {
+            "title": "Executive Director",
+            "company": null,
+            "start_date": "September 2008",
+            "end_date": "April 2013",
+            "description": "Marketing and publications oversight; community outreach and advocacy; leadership in strategic planning, program management, fundraising, budgeting and GAAP compliance; led initiatives to increase visibility of the organization."
+        },
+        {
+            "title": "Chief Writer, Editor and Photographer",
+            "company": null,
+            "start_date": "January 1999",
+            "end_date": "August 2008",
+            "description": "Oversaw external and internal communications; editor and chief writer and photographer for publications; led marketing efforts, content development, and branding; supported fundraising and donor communications."
+        },
+        {
+            "title": "Co-Owner/Manager",
+            "company": null,
+            "start_date": "January 1974",
+            "end_date": "January 1999",
+            "description": "Managed business operations, including accounting, customer service, and marketing; oversaw facilities and operations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in Spanish",
+            "school": "Morningside College",
+            "year": 1999
+        },
+        {
+            "degree": "B.A. in English (with emphasis in writing) and Spanish, minor in mass communications",
+            "school": "Morningside College",
+            "year": 1999
+        },
+        {
+            "degree": "M.A. in Leadership",
+            "school": "Bellevue University",
+            "year": 2008
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "name": "Greco",
+    "email": null,
+    "phone": null,
+    "location": "Lynnwood, WA",
+    "summary": "Strategically grounded, highly experienced leader with a proven ability to establish trust and build effective cross-functional relationships. Focuses on effective communication between teams, mentoring and developing future leaders, and applying Lean and continuous improvement practices to programs and projects.",
+    "skills": [
+        "arbitration",
+        "agency",
+        "budgets",
+        "continuous improvement",
+        "delivery",
+        "Executive Management",
+        "financial",
+        "functional",
+        "Government",
+        "graphics",
+        "human relations",
+        "Hyperion",
+        "I-90",
+        "Leadership",
+        "Director",
+        "Excel",
+        "PowerPoint",
+        "Microsoft Project",
+        "3.1",
+        "Word",
+        "Negotiations",
+        "Oracle",
+        "performance management",
+        "Program Development",
+        "Program Management",
+        "real estate",
+        "Sound",
+        "strategic",
+        "Visio",
+        "workshops"
+    ],
+    "experience": [
+        {
+            "title": "Government Relations, Communications and Organizational Development Director",
+            "company": "Washington State Department of Transportation (WSDOT) – Toll Division",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Leads government relations and communications for the WSDOT Toll Division; oversees continuous improvement/Lean initiatives; represents division with media, government and industry; leads external communications team leveraging social media; distills complex information into clear visuals; facilitates policy conflict resolution workshops; manages a small team (2 managers, 8 staff)."
+        },
+        {
+            "title": "Director of Budget and Program Development",
+            "company": "Washington State Ferries (WSF)",
+            "start_date": "2011-09",
+            "end_date": "2014-01",
+            "description": "Built partnerships with internal and external stakeholders; cultivated Lean initiatives; developed the organization's performance management program; trained and mentored staff; rolled out enterprise software for sales reporting; led cross-functional initiatives."
+        },
+        {
+            "title": "Director of Program Management",
+            "company": "AWV Program (Washington State projects)",
+            "start_date": "2008-08",
+            "end_date": "2011-09",
+            "description": "Led program management for the AWV program with a $3.125 billion budget; managed global teams with matrixed reporting structures; oversaw budget, finance, HR, communications, real estate services, and third-party agreements; led complex negotiations for technical agreements; directed 5 managers and 33 staff; developed policies and staffing initiatives."
+        },
+        {
+            "title": "Project Director, I-90 Corridor and Sound Move Projects",
+            "company": "WSDOT – I-90 Corridor and Sound Move",
+            "start_date": "2006-04",
+            "end_date": "2008-08",
+            "description": "Directed design/construction delivery for high-capacity transit in the I-90 corridor; improved partnering and coordination between WSDOT and Sound Transit; led leadership alignment for Urban Corridors senior management including mega projects Alaskan Way Viaduct, SR 520 and I-405."
+        },
+        {
+            "title": "Manager, Aviation Services and Planning",
+            "company": "WSDOT – Aviation",
+            "start_date": "1995-07",
+            "end_date": "2003-03",
+            "description": "Oversaw Pilot and Aircraft Registration Program, Aviation Planning, Outreach and Education; reorganized and relocated the Aviation Division; created the WSDOT Airport Land Use Compatibility Program; web-enabled the Aviation System Plan for 129 airports; managed consultants for pavement management; supported state aviation policy studies."
+        },
+        {
+            "title": "Public Affairs Specialist",
+            "company": "WSDOT – Public Affairs",
+            "start_date": null,
+            "end_date": null,
+            "description": "Spokesperson to national and international media; crisis management experience including Pan Am 103; provided media training and support during interviews (e.g., 60 Minutes, 48 Hours)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Flight Technology",
+            "school": "Central Washington University",
+            "year": null
+        },
+        {
+            "degree": "Executive Management Program",
+            "school": "Evans School, University of Washington",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

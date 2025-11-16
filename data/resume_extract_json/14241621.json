@@ -1,0 +1,125 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dynamic Marketing Manager with more than 7 years in the Sales Management and Territorial Marketing Industries. Creative and innovative team player with compelling leadership skills. Highly customer service oriented with excellent written and verbal communication skills which enhance the customer service experience. Excels in deadline-driven account management with an established track record of remarkable sales results.",
+    "skills": [
+        "Sales Management",
+        "Territory Marketing",
+        "Business Development",
+        "Customer Service",
+        "Leadership",
+        "Account Management",
+        "Lead Generation",
+        "Outbound Calling",
+        "Email Outreach",
+        "Team Collaboration",
+        "Communication",
+        "Sales Promotions",
+        "Inventory Management",
+        "Loss Prevention",
+        "Training and Development",
+        "Cross-functional Collaboration"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Center Manager",
+            "company": "Company Name",
+            "start_date": "08/2017",
+            "end_date": "10/2018",
+            "description": "Achieved daily, weekly, and monthly goals; made 75-100 outbound calls per day; initiated and responded to 40-60 emails per day; used a computer-based management tool; set daily appointment volume; followed up on customer vehicle inquiries to maximize opportunities; worked effectively as part of a team."
+        },
+        {
+            "title": "Internet Sales Manager",
+            "company": "Company Name",
+            "start_date": "12/2016",
+            "end_date": "03/2017",
+            "description": "Maintained a 94% lead response rate with an average 3-minute response time; worked flexible schedule and from home office to ensure precise customer lead follow-up; provided expert product and service information; delivered 5 units in the first week; ensured salespeople were informed of all incoming appointments; enhanced customer satisfaction during the purchase experience; partnered with the Financial Services Department to develop best practices for efficient sales."
+        },
+        {
+            "title": "Sales Consultant",
+            "company": "Company Name",
+            "start_date": "12/2016",
+            "end_date": "08/2017",
+            "description": "Contributed to repeat and referral business by using strong customer service and problem solving skills; maintained a 98% customer service satisfaction rating per KIA Performance Center; worked flexible schedule to accommodate changing customer levels; organized items in visually appealing manner; answered incoming telephone calls with professional and knowledgeable responses; developed and executed sales promotions; provided expert product and service information."
+        },
+        {
+            "title": "Community Donation and Outreach Manager - Eastern CT Territory",
+            "company": "Company Name",
+            "start_date": "05/2016",
+            "end_date": "12/2016",
+            "description": "Identified, developed, and evaluated marketing strategies aligned with company objectives and market trends; worked in a cross-functional, fast-paced environment; directed and supervised employees engaged in sales and inventory management; trained staff to deliver outstanding customer service; identified inefficiencies and recommended process improvements; built partnerships with local organizations to increase offerings and services; established 54 new accounts in 6 months through client development."
+        },
+        {
+            "title": "Membership and Marketing Manager-Eastern CT Territory",
+            "company": "Company Name",
+            "start_date": "07/2014",
+            "end_date": "05/2016",
+            "description": "Managed 22 towns in CT with over 5,000 girls and 3,000 adults; attended community meetings and collaborated with probation officers, school representatives, and other key individuals to support children and their families; facilitated activities that developed students' physical, emotional, and social growth; worked with an average of 20 students per program; trained program staff to deliver outstanding educational and creative programming."
+        },
+        {
+            "title": "Loss Prevention and Operations Manager",
+            "company": "Company Name",
+            "start_date": "08/2013",
+            "end_date": "07/2014",
+            "description": "Ensured the highest level of compliance in and the execution of company-sponsored training programs for all employees; protected company assets through multiple loss prevention avenues; maintained a high average (90-95%) audit score versus company average (82%)."
+        },
+        {
+            "title": "Lead Sales Associate - Part Time",
+            "company": "Company Name",
+            "start_date": "08/2013",
+            "end_date": "07/2014",
+            "description": "Exceeded company sales standards within the first month (7.9% above projected sales budget); maintained a large customer base to ensure return customers and promoted Belden Jewelers through excellent customer service."
+        },
+        {
+            "title": "Assistant Store Manager",
+            "company": "Company Name",
+            "start_date": "04/2012",
+            "end_date": "08/2013",
+            "description": "Created plans to maximize sales and customer service on a weekly basis; maintained a customer-first selling experience to increase future sales; recognized for leadership, team management, communication, and organizational skills; increased 2013 sales by 2.35% and units sold by 5.76% in the first 8 months."
+        },
+        {
+            "title": "Shift Supervisor",
+            "company": "Company Name",
+            "start_date": "05/2010",
+            "end_date": "04/2012",
+            "description": "Responsible for opening and closing procedures; maintained high levels of customer service and secret shopper performance (92-98%); cross-trained employees to work efficiently in all retail areas."
+        },
+        {
+            "title": "Department Manager",
+            "company": "Company Name",
+            "start_date": "11/2009",
+            "end_date": "05/2010",
+            "description": "Achieved highest sales rating for three consecutive months (10% above projected budget); trained all new sales associates for other departments; controlled department payroll budget; scheduled staff to maximize sales and manage store traffic."
+        },
+        {
+            "title": "Member Program Facilitator",
+            "company": "Company Name",
+            "start_date": "09/2008",
+            "end_date": "06/2012",
+            "description": "Active leader in multiple urban towns across CT; exceeded membership goals in every program (105% enrollment rate); created easy-to-follow programs to enrich girls and increase membership; established and maintained cooperative relationships with community and public-interest groups."
+        },
+        {
+            "title": "Camp Counselor",
+            "company": "Company Name",
+            "start_date": "05/2006",
+            "end_date": "08/2008",
+            "description": "Responsible for providing unit information, data, and daily logs to the Head Counselor; participated in and led camper activities; maintained effective working relationships with staff, campers, parents, and supervisors; managed check-in and check-out procedures; ensured unit schedules and activities were implemented."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science in Respiratory Therapy",
+            "school": "Manchester Community College",
+            "year": "2019"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Bolton High School",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

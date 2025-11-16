@@ -1,0 +1,89 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "Baltimore, Maryland",
+    "summary": "Use the knowledge and firsthand experience that I have gained through my various education, work in both civilIan and military experience, extracurricular and leadership positions to become a proactive and dedicated team member. Highlights Apple and Windows programs including Microsoft Office Suite Internet Proficiency Social Media website use for communication with Sigma Kappa and FOCUS members Accomplishments Awarded two Navy and Marine Corps Achievement Medal in 2014 and 2017. Awarded Letter Commendation for winning Junior Sailor, 2016. Formally acknowledged by the Defense Reduction Threat Agency for superb supervisory actions and management. Awarded multiple Letters of Appreciation for being a community pillar for Marine Corps Security Force Battalion, Bangor, WA.",
+    "skills": [
+        "Enthusiastic people person",
+        "great organizational skills",
+        "Apple and Windows programs including Microsoft Office Suite",
+        "Internet Proficiency",
+        "Social Media website use for communication with Sigma Kappa and FOCUS members"
+    ],
+    "experience": [
+        {
+            "title": "Lead Teacher",
+            "company": "Company Name",
+            "start_date": "12/2011",
+            "end_date": "10/2012",
+            "description": "Creating and implementing small group interventions for students in Kindergarten through 6th Grade in both Math and Reading. Engaging students that have been assessed as High- Ability. Preparing students for State-wide standardized assessments by adapting concepts. Substitute teaching for the various classrooms pending the absence of the classroom teacher. Challenging struggling students with various methods, allowing them to grasp the correct perceptions. Executing roles to assist teachers in their classrooms, as well as within the school as a community. Working with students in the Functional Academics program to provide support for classroom teacher. Using multiple tools and techniques to adjust to students' learning processes. Created and lead the before and after school program for Elementary students. Developed lesson plans to include interactive and productive activities for students. Substitute taught for the various classrooms at the Center pending the absence of the classroom teacher. Fulfilled the role of the full time classroom teacher in a Preschool Classroom during a long-term period of. transition."
+        },
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "09/2011",
+            "end_date": "Present",
+            "description": "Assumed the role of the classroom teacher during the absence of the classroom teacher. Improvised to ensure a productive learning experience for students. Provided assistance to the teachers and the staff of the school."
+        },
+        {
+            "title": "Mentor and Counselor",
+            "company": "METRO MARYLAND YOUTH FOR CHRIST",
+            "start_date": "September 2011",
+            "end_date": "Present",
+            "description": "Mentored Middle School Students from various schools in the Central Baltimore County area. Created lesson plans to teach students fundamental values and ideals. Provided support for students in need and allow them to engage in productive conversations. Developed activities to ensure student involvement and growth in the organization."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "PSA Financial Center",
+            "start_date": "April 2009",
+            "end_date": "December 2010",
+            "description": "Provided direct assistance and support to the Vice President of the company. Reorganized the company's Business Center to more effectively monitor its 120 employees. Maintained internal and external revenue reports through mastery of Microsoft Excel. Worked in the company's Business Center to analyze proposals and complete office duties such as making copies and faxing documents. Managed the front desk answering and directing calls as well as responding to email requests."
+        },
+        {
+            "title": "Tutor and Mentor",
+            "company": "University of Maryland, College Park",
+            "start_date": "May 2011",
+            "end_date": "May 2011",
+            "description": "Mentored University of Maryland Division I athletes. Provided guidance and support to ensure that students stay on track and achieve their academic goals. Developed mentor programs that assist and engage students that are proficient in English and those for whom English is not the primary language."
+        },
+        {
+            "title": "Teacher",
+            "company": "Montpelier Elementary School",
+            "start_date": "May 2011",
+            "end_date": "May 2011",
+            "description": "Supported a low-income fifth grade classroom. Assumed leadership role in the classroom as a full-time Math, Language Arts, Reading, Social Studies and Science teacher. Managed lesson plans throughout the year. Initiated and designed classroom awards for students who improved their grades during the school year. Awards program resulted in 75 percent of the class achieving this goal. Created reading groups for students who scored basic on their standardized tests. Created a small group for students struggling in math to aid in mastery of basic skills."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Leading Enlisted Member and Field Training Officer",
+            "school": "United States Department of the Navy",
+            "year": 2017
+        },
+        {
+            "degree": "Bachelor of Science: Elementary Education",
+            "school": "University of Maryland",
+            "year": 2011
+        },
+        {
+            "degree": "Minor in Mathematics",
+            "school": "University of Maryland",
+            "year": 2011
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Garrison Forest School",
+            "year": 2007
+        },
+        {
+            "degree": "Study Abroad Program",
+            "school": "University of Maryland, Australia",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

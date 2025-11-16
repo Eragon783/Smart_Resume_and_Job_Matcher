@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly seasoned and dedicated mentor with a distinguished reputation of providing outstanding service to the community with a strong capacity to develop quality programs and provide supervised guidance for program staff and participants to guarantee successful outcomes.",
+    "skills": [
+        "Planning/Coordinating",
+        "Team Leadership",
+        "Program Development",
+        "Management",
+        "Community Outreach",
+        "Budget Development",
+        "Creative Problem Solving",
+        "Public Relations",
+        "Critical Thinking",
+        "Advertising",
+        "Research Skills",
+        "Accountability",
+        "Team Building",
+        "Staff Motivation",
+        "Staff Training",
+        "Employee Scheduling",
+        "Group Exercise Fitness Instructor"
+    ],
+    "experience": [
+        {
+            "title": "Group Exercise Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "2009-03",
+            "end_date": "Present",
+            "description": "Instruct group exercise classes to help strengthen and tone body. Demonstrate the correct way to use exercise equipment."
+        },
+        {
+            "title": "Administrator Support Assistant II",
+            "company": "Company Name",
+            "start_date": "2005-09",
+            "end_date": "2006-03",
+            "description": "Verified that information reported on tax returns adheres to applicable tax laws and regulations. Maintained accurate filing system of tax related documents. Updated tax returns made during audit process. Transferred important documents to the appropriate department when requested."
+        },
+        {
+            "title": "Administrator Support Assistant II",
+            "company": "Company Name",
+            "start_date": "2003-11",
+            "end_date": "2004-04",
+            "description": "Planned and scheduled meetings, conferences, teleconferences, and travel. Answered or directed inquiries. Maintained taxpayer confidentiality. Completed projects assigned by staff."
+        },
+        {
+            "title": "Nursery Director",
+            "company": "Company Name",
+            "start_date": "2001-04",
+            "end_date": "2008-12",
+            "description": "Supervised all nursery ministry staff. Developed reports for Ministry Coordinator and Senior Pastor. Recruited qualified and experienced volunteers. Managed budget for fiscal years 2001-2008. Trained volunteer staff on how to properly meet the demands of the nursery. Supervised monthly staff meetings. Ensured background checks were performed for volunteers."
+        },
+        {
+            "title": "Data Entry Operator",
+            "company": "Company Name",
+            "start_date": "2009-03",
+            "end_date": "Present",
+            "description": "Information Processing. Reviewed corrected data for deficiencies, errors and incompatibilities. Applied data program techniques and procedures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Information System",
+            "school": "Alabama State University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science in Business Management",
+            "school": "Huntingdon College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

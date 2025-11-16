@@ -1,0 +1,89 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "High-energy Engineering Manager driven to cut company costs and boost company revenue through innovative management techniques. Organized and diligent, with excellent written, oral and interpersonal communication skills. Results-focused management professional offering 30 years of progressive leadership experience. Transforms high-potential staff into outstanding leaders who demonstrate the creativity and savvy that is critical to financial and operational success.",
+    "skills": [
+        "Lean Manufacturing",
+        "Six Sigma",
+        "RCM",
+        "FMEA",
+        "DMAIC",
+        "PFD",
+        "Cost reduction",
+        "Restructuring",
+        "Manpower optimization",
+        "PowerSteering",
+        "SAP",
+        "Microsoft Office",
+        "Microsoft Visio",
+        "Business Objects",
+        "SQL Server",
+        "Netbeans",
+        "TextPad",
+        "Visual Studio",
+        "Microsoft Project",
+        "Tango",
+        "HTML",
+        "CSS",
+        "Java",
+        "JavaScript",
+        "C++",
+        "VB.NET",
+        "ASP.NET",
+        "Web Design"
+    ],
+    "experience": [
+        {
+            "title": "Corporate Process/Systems Engineering Manager",
+            "company": "Company Name City , State",
+            "start_date": "2013-07",
+            "end_date": "2016-01",
+            "description": "Built engineering processes and served as the super user for key software utilized by Engineering Services. Acted as the technical resource for plant engineering and maintenance personnel, identifying and implementing cost savings while maintaining strong customer relations. Managed reliability engineers across the US and Mexico. Responsibilities included field skill assessments, vetting performance and bonuses, standardizing CI processes, software training, liaison between plant operations and vendors, and developing projects to improve equipment reliability and infrastructure. Identified cost-saving opportunities, managed preventive maintenance programs, and optimized spare parts. Developed supplier relationships and documented inventory to support manufacturing processes."
+        },
+        {
+            "title": "SDI Site Operations Manager",
+            "company": "Company Name City , State",
+            "start_date": "2012-09",
+            "end_date": "2013-07",
+            "description": "Managed client locations for SDI to meet defined performance goals across Purchasing, Inventory Control, HR, IT, Productivity, Facilities Management, and Safety. Delivered supply chain management solutions for maintenance, repairs, and MRO for industrial and institutional customers. Responsibilities included purchasing, inventory control, HR management, IT, productivity, facilities management, continuous improvement, financial reporting and budget management across multiple locations."
+        },
+        {
+            "title": "Operations Group Manager",
+            "company": "Company Name City , State",
+            "start_date": "1981-11",
+            "end_date": "2011-10",
+            "description": "Direct supervision of multiple high-speed bottle lines, can lines and a draught line. Developed and monitored critical control points to ensure product quality and consistency. Coordinated and scheduled preventative maintenance, coached employees, enforced safe practices, and maintained records. Led a self-directed workforce and implemented lean practices, achieving a 25% manpower reduction across three shifts. Identified process improvements such as reclaiming carbon-filtered water, resulting in reduced water purchases and treatment costs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. Mechanical Engineering",
+            "school": "McFord University",
+            "year": 2005
+        },
+        {
+            "degree": "M.S. Electrical Engineering",
+            "school": "McFord University",
+            "year": 2010
+        },
+        {
+            "degree": "B.S.I.T Software Engineering",
+            "school": "University Of Phoenix College",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        "Six Sigma Certified"
+    ],
+    "languages": [
+        "HTML",
+        "CSS",
+        "Java",
+        "JavaScript",
+        "C++",
+        "VB.NET",
+        "ASP.NET"
+    ]
+}

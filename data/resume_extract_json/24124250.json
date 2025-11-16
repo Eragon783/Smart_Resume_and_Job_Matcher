@@ -1,0 +1,98 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Senior Application Specialist with leadership, communication, and troubleshooting skills, focused on health care improvement processes, staff development, and quality improvement. Seeking to implement health care improvement processes and procedures in a dynamic team.",
+    "skills": [
+        "Staff training and development",
+        "Relationship and team building",
+        "Conflict resolution",
+        "Epic certifications in Resolute Hospital Billing, Home Health and SBO",
+        "Allegra",
+        "IDX",
+        "MIDAS",
+        "Passport/ECARE",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Revenue Cycle Training through HFMA",
+        "Six Disciplines of Breakthrough Learning",
+        "Developing Others",
+        "The Basic Principles of a Collaborative Workplace",
+        "Giving and Receiving Constructive Feedback",
+        "Designing Effective Learning Experiences",
+        "The OZ Principle",
+        "Accountability Training"
+    ],
+    "experience": [
+        {
+            "title": "Senior Application Specialist",
+            "company": "Company Name",
+            "start_date": "2014-03",
+            "end_date": null,
+            "description": "Implement and support business office software solutions. Create and test application scenarios, including interfaces and device integration. Coordinate software version upgrades with various departments. Assists in project efforts related to charge capture, claims, remittance and cash management workflows. Support day to day maintenance of HB system. Includes daily checks, investigation, root cause analysis, remediation, and process improvement. Serves as the HB Data Courier lead. Provides on-call support during off hours."
+        },
+        {
+            "title": "Revenue Cycle Trainer",
+            "company": "Company Name",
+            "start_date": "2006-07",
+            "end_date": "2014-03",
+            "description": "Provided operational and technical support which enabled the business office to function efficiently and effectively. Responsible for operational issues, resolution development and advanced integration through audit/review functions. Conduct, deliver and arrange training programs for new employees and continuing education of current employees of the business office. Evaluate old policies and procedures and update as necessary. Acts as a liaison between the business office and technical staff in information systems to communicate issues and coordinate resolution. Work with managers to develop job aids, improve accuracy and assist in improving best practices. Conduct employee specific need and issue based assessments. Participate in quality reviews of staff to identify issues and provide additional training. Create and maintain training materials as well as Epic procedural guidelines and departmental workflows. Deliver cross-training programs. Analyze workflows and system functions to enhance the correct capture of patient information, clinical charges and diagnostic codes, in support of the electronic billing and collection processes. Regularly evaluated employee performance, provided feedback and coached staff as needed."
+        },
+        {
+            "title": "Network Support Analyst",
+            "company": "Company Name",
+            "start_date": "2005-11",
+            "end_date": "2006-07",
+            "description": "Customer service liaison to Nebo customers. Traveled locally and regionally to train hospital business office personnel on the use of ECare CMS system. Assisted new clients in setting up their billing processes utilizing ECare. Worked with programmers/analysts on problem related issues concerning the installation and upgrades involving ECare."
+        },
+        {
+            "title": "Managed Care Claims Auditor",
+            "company": "Company Name",
+            "start_date": "2002-04",
+            "end_date": "2005-11",
+            "description": "Led and directed managed care projects involving patient account activities. Monitored billers and collectors workflow processes. Assisted in improving departmental performance and outcomes. Assisted in maximizing reimbursements and reaching departmental revenue goals. Worked closely with staff to keep them abreast of current contracts, contract changes, billing criteria, reimbursement timeframes, and pre- certification requirements. Developed job tools to assist billers, admitting and insurance verification staff. Coordinated the appeal process for denied claims. Coordinator for the refunds unit. Participated on A/R, Utilization Review, Revenue Management and Patient Access task forces."
+        },
+        {
+            "title": "Provider Relations Representative",
+            "company": "Company Name",
+            "start_date": "1997-07",
+            "end_date": "2002-04",
+            "description": "Responsible for recruiting physicians for the PHO (Physician Hospital Organization). Resolved member and provider inquiries. Visit, and educate physician's office staff related to managed care changes. Conducted physician staff orientation and in-services on a quarterly basis. Communicated policy and procedure changes to physicians and their staff. Identified and developed action plans for operational needs. Handled resolution of credentialing issues from Managed Care Organizations. Facilitated the resignation and termination of physicians with the Provider Health Organization. Acted as an administrative liaison for seven Provider Health Organization's. Oversaw the accuracy of operational issues related to providers, and members in relation to referral processing, claims payments, capitation payments, fee schedules, dictionary updates and provider listings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate Degree in Applied Science",
+            "school": "Robert Morris University",
+            "year": 1999
+        },
+        {
+            "degree": "Coursework in Healthcare Management",
+            "school": "DeVry University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Epic Resolute Hospital Billing Certification",
+        "Epic Home Health Certification",
+        "Epic SBO Certification",
+        "Allegra Certification",
+        "IDX Certification",
+        "MIDAS Certification",
+        "Passport/ECARE Certification",
+        "Microsoft Word Certification",
+        "Microsoft Excel Certification",
+        "Microsoft PowerPoint Certification",
+        "HFMA Revenue Cycle Training",
+        "Six Disciplines of Breakthrough Learning",
+        "Developing Others Certification",
+        "The Basic Principles of a Collaborative Workplace Certification",
+        "Giving and Receiving Constructive Feedback Certification",
+        "Designing Effective Learning Experiences Certification",
+        "The OZ Principle Certification",
+        "Accountability Training Certification"
+    ],
+    "languages": []
+}

@@ -1,0 +1,100 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Syracuse, NY",
+    "summary": "Seventeen years of nursing experience across multiple facilities and hospitals as a Registered Nurse. Field Based Nurse Chart Reviewer in Healthcare Informatics with leadership experience as Founder/CEO/Director of Nursing and Business Operations. Expertise includes EMR implementation, workflow analysis and redesign, nursing consultancy, MDS scheduling, CMS/Medicare compliance, QA, safety, and teaching.",
+    "skills": [
+        "Registered Nurse",
+        "Healthcare",
+        "Medicare",
+        "Clients",
+        "Quality Assurance",
+        "Staffing",
+        "Business Operations",
+        "Contracts",
+        "Operations",
+        "System Analysis",
+        "Workflow",
+        "Secretary",
+        "Assistant Director",
+        "Infection Control",
+        "Client Services",
+        "Root Cause Analysis",
+        "Medicaid",
+        "Audits",
+        "CMS",
+        "Content Management System",
+        "Federal Regulations",
+        "QA",
+        "Budgets",
+        "Payroll",
+        "Scheduling",
+        "Training",
+        "Managed Care",
+        "Teaching"
+    ],
+    "experience": [
+        {
+            "title": "Field Based Nurse Chart Reviewer",
+            "company": "Company Name",
+            "start_date": "2010-07",
+            "end_date": "Present",
+            "description": "Founder, CEO, Director of Nursing and Business Operations. Provided high-quality nursing care to individuals and corporate clients by integrating evidence-based practices. Led services including electronic medical record implementation and support, workflow system analysis and redesign, nursing consultant services (staffing, education, leadership, quality assurance, safety, legal nurse consulting), and management of Medicare contracts. Oversaw skilled nursing and short-term rehab units, coordinated care planning, ensured regulatory compliance (MDS, CMS), performed MDS data analysis and CMS submissions, and contributed to multidisciplinary team and family meetings."
+        },
+        {
+            "title": "Deployable Registered Nurse (SGE)",
+            "company": "National Disaster Medical System (DMAT NY6)",
+            "start_date": "2010-07",
+            "end_date": "2014-06",
+            "description": "Onsite and remote Quality Assurance chart reviews for Medicaid and Medicare projects (HEDIS, CARA, HCC) and other QA projects. Deployable in emergencies as part of a government team; prepared to respond to catastrophes."
+        },
+        {
+            "title": "Director of Nursing Services",
+            "company": "Interim HealthCare",
+            "start_date": "2010-04",
+            "end_date": "2011-01",
+            "description": "Admissions screener and head of employee health department. Supervised 50 field staff and 130 clients; individually case managed 35 clients. Ensured compliance with applicable laws and policies, safety for patients and staff, and established training/education programs. Oversaw QA activities, analyzed adverse-event trends, and conducted root cause analysis. Managed reports via Quality Net, Quadra Med, and COPE."
+        },
+        {
+            "title": "Assistant Director of Nursing",
+            "company": "Company Name",
+            "start_date": "2007-07",
+            "end_date": "2008-01",
+            "description": "ADON for two nursing communities (7 North - TBI unit and Behavioral Care Unit). Responsibilities included staffing, scheduling, supervising, and monitoring staff; managing disciplinary processes; maintaining budgets and attendance records; supervising clinical staff; developing policies and procedures; ensuring staff training and continuing education; ensuring quality patient care."
+        },
+        {
+            "title": "Nurse Administrator/Registered Nurse/Day Charge Nurse/Day Nursing Supervisor/Orienter/Educator/Preceptor",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2007-07",
+            "description": "Roles spanning nurse administration, direct patient care, day charge and supervision, staff orientation and education. Provided education and program development, contributed to policy creation, and supported cross-functional training across nursing communities in Syracuse, NY."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Nursing",
+            "school": "Syracuse University",
+            "year": "1999"
+        },
+        {
+            "degree": "Master of Science in Nursing (Teaching Certificate)",
+            "school": "SUNY Syracuse",
+            "year": null
+        },
+        {
+            "degree": "Master of Science (Post Master’s Teaching Certificate)",
+            "school": "SUNY Syracuse",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "RN - Registered Nurse",
+        "American Association of Managed Care Nurses",
+        "CAA",
+        "CAT",
+        "Registered Nurse Manager",
+        "Registered Nurse/MDS Coordinator"
+    ],
+    "languages": []
+}

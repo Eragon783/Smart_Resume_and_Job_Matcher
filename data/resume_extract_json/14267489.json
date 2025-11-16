@@ -1,0 +1,76 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Sales Associate with strong interpersonal and communication skills, detail oriented, and proven ability to work under demanding conditions. Experienced in customer service, merchandising, and coordinating cross-functional teams; skilled in data entry, shipping/logistics, and basic IT/office software.",
+    "skills": [
+        "Adobe",
+        "Adobe Cloud",
+        "Photoshop",
+        "Illustrator",
+        "Data Entry",
+        "Merchandising",
+        "Microsoft Office",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Planning",
+        "Coordinating",
+        "Team leadership",
+        "Website Design",
+        "Flash design",
+        "Graphic Design",
+        "Customer Service",
+        "Print and Copy Services",
+        "Packaging Services",
+        "NCR forms",
+        "Mail handling",
+        "POS",
+        "Shipping",
+        "Shipping and Receiving",
+        "Inventory management",
+        "Billing",
+        "Cash handling",
+        "Typing",
+        "Multitasking",
+        "Office equipment"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name City, State",
+            "start_date": "October 2016",
+            "end_date": "Current",
+            "description": "Worked with clients to analyze computing and network needs and installed appropriate solutions within each organization's budget. Improved reliability of supply chain software, systems, database and order processing. Developed and managed project plans while providing status updates to management. Designed, documented and executed maintenance procedures, including system upgrades, patch management and system backups. Greeted customers and determined how to meet and exceed their expectations. Exhibited proficiency in Customer Service, Print and Copy Services, Packaging Services and design brochures, NCR forms. Managed Postal, Shipping, Freight Services and Computer Skills. Recorded all sales transactions on Point of Sale and processed cash, checks, credit card and university internal billing transactions. Printed reports; packed contents for shipping; delivered mail and parcels to customers. Operated POS, Counter Manifest System, Mailbox Manager, MS Office and other programs; processed shipping labels and claims; assisted in merchandising and stock management; reconciled cash and transactions; operated various office machines."
+        },
+        {
+            "title": "Front Counter Clerk",
+            "company": "Company Name City, State",
+            "start_date": "September 2014",
+            "end_date": "November 2014",
+            "description": "Multitasked and managed shift operations; handled cash and paperwork; ensured customer service and operational efficiency."
+        },
+        {
+            "title": "Clerk II",
+            "company": "Company Name City, State",
+            "start_date": "2014",
+            "end_date": "2014",
+            "description": "Created, organized and maintained files, daily case notes and electronic databases. Organized office schedules and maintained relationships with agency contacts. Facilitated cognitive behavioral programs with offenders in a group setting. Performed routine clerical work including data entry, document handling, mail processing, and liaison with the United States Postal Service and private carriers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Medical Assistant",
+            "school": "The College Of Health Care Professions",
+            "year": "2017"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Floresville High School",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

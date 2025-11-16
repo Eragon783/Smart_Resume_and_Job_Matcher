@@ -1,0 +1,84 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "3D",
+        "Basic",
+        "Blueprints",
+        "Designing",
+        "Doors",
+        "Layout",
+        "Window",
+        "Multi-tasking",
+        "Packaging",
+        "Quick learner",
+        "Reading",
+        "Safety",
+        "Shipping",
+        "Welder",
+        "Welding"
+    ],
+    "experience": [
+        {
+            "title": "Project Manager/CAD Designer",
+            "company": "Company Name",
+            "start_date": "2015-05",
+            "end_date": "Present",
+            "description": "Oversee and manage all commercial and residential iron railing, security door, gate, and window well cover projects. Interact with customers (templating, timeframes, provide design ideas and solutions, etc.). Coordinate installs with in-house installers as well as other contractors. Draft custom hand rails, stair rails, gates, doors along with any other miscellaneous projects using Sketchup Pro. Provide the shop with detailed blueprints, cut lists, and install sheets. Answer fabrication questions."
+        },
+        {
+            "title": "Welder/Fabricator",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "2015-05",
+            "description": "Make templates for custom handrails. Fabrication and installation of commercial and residential stair railings, deck railings and balusters. On-site welding and fabrication."
+        },
+        {
+            "title": "Strip vehicles",
+            "company": "Company Name",
+            "start_date": "2012-05",
+            "end_date": "2012-09",
+            "description": "Strip upholstery (seats, floors, convertible tops, and headliners). Repaired seat foam, chrome, and leather."
+        },
+        {
+            "title": "Miscellaneous",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2014-10",
+            "description": "Miscellaneous inserting, packaging, and hand work."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Grandview High School",
+            "year": 2014
+        },
+        {
+            "degree": "Technical Program",
+            "school": "Pickens Technical College",
+            "year": 2015
+        }
+    ],
+    "certifications": [
+        "Safety in welding",
+        "Oxy-acetylene welding and cutting",
+        "Plasma torch cutting",
+        "Blueprint and welding symbol reading",
+        "Positions 1-4 GMAW, FCAW, SMAW with and without backing",
+        "Knowledge of destructive and non-destructive testing",
+        "Entry level Aluminum GTAW and carbon GTAW",
+        "2014 and 2015 SKILLS USA competition",
+        "Basic/SMAW/Semi-Automatic Welding Certificate",
+        "Basic/SMAW/Semi-Automatic/AWS Entry Level Welder Certificate",
+        "Basic/Entry/Advanced Welder Certificate",
+        "Advanced Welder Certificate",
+        "AWS Entry-Level Welder Certificate",
+        "SMAW Structural Welding Certificate",
+        "Semi-Automatic Welding Certificate"
+    ],
+    "languages": []
+}

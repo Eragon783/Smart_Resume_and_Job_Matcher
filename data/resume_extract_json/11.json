@@ -1,0 +1,80 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experience in C, C++ and C# programming with working knowledge of Agile, Jira and Git. Skilled in Windows, AIX and Linux system administration; TCP/IP and SSL knowledge; strong understanding of the software development lifecycle, debugging and code analysis; experience in system programming and UNIX shell scripting; UI development; knowledge of software security concepts and application compliance with security standards; interested in cross-platform development; pursuing advanced studies in computer science (neural networks).",
+    "skills": [
+        "C",
+        "C++",
+        "C#",
+        "Java (basic knowledge)",
+        "Agile",
+        "Jira",
+        "Git",
+        "Windows",
+        "AIX",
+        "Linux",
+        "TCP/IP",
+        "SSL",
+        "Debugging",
+        "Code analysis",
+        "Software development lifecycle",
+        "UNIX shell scripting",
+        "System programming",
+        "User interface development",
+        "Software security concepts",
+        "Security standards",
+        "Cross-platform development"
+    ],
+    "experience": [],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science (Computer Systems and Networks)",
+            "school": "Belarusian State University of Informatics and Radio-electronics, Minsk",
+            "year": 2013
+        },
+        {
+            "degree": "Master of Science in Computer Science (Neural Networks)",
+            "school": "Belarusian State University of Informatics and Radio-electronics, Minsk",
+            "year": 2016
+        },
+        {
+            "degree": "IBM Lotus Domino 8.5 System Administration",
+            "school": "Institute of IT & Business Administration",
+            "year": 2016
+        },
+        {
+            "degree": "Java Basics",
+            "school": "Institute of IT & Business Administration",
+            "year": 2020
+        },
+        {
+            "degree": "DB2 9 Fundamentals Certificate",
+            "school": "IBM",
+            "year": 2014
+        },
+        {
+            "degree": "Red Hat System Administration Certificate",
+            "school": "Red Hat",
+            "year": 2016
+        },
+        {
+            "degree": "Rocket MV Certification exam - U2 Family Application Development",
+            "school": "Rocket MV",
+            "year": 2017
+        }
+    ],
+    "certifications": [
+        "DB2 9 Fundamentals (2014)",
+        "Red Hat System Administration (2016)",
+        "Rocket MV Certification exam - U2 Family Application Development (2017)"
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "level": "Pre-advanced",
+            "certificate_year": 2015
+        }
+    ]
+}

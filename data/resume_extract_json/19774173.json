@@ -1,0 +1,63 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City , State",
+    "summary": "Objective: To obtain a position with a growing company while promoting quality customer service and performing tasks provided efficiently. Core Strengths: Approachable, Flexible, Dedicated team player, Reliable and dependable.",
+    "skills": [
+        "Team player mentality",
+        "Fitness programming specialist",
+        "Verbal/written communication",
+        "Zumba instructor",
+        "Time Management",
+        "Nutrition supplement familiarity",
+        "Cash handling",
+        "Professional and friendly",
+        "Positive attitude and energy",
+        "Quality customer service"
+    ],
+    "experience": [
+        {
+            "title": "Personal Trainer & Fitness Instructor",
+            "company": "Company Name - City , State",
+            "start_date": "04/2016",
+            "end_date": "Current",
+            "description": "Suggested exercise modifications to individual students to avoid strain and. injury. Teach Circuit classes, Advanced Dance Fitness, and a Booty Builder class"
+        },
+        {
+            "title": "Fitness Instructor",
+            "company": "Company Name - City , State",
+            "start_date": "06/2015",
+            "end_date": "04/2016",
+            "description": "Taught Dance Fitness, Spin and Power. Designed each class to match the skill and learning levels of all participants. Cleaned and organized studio after each group fitness class."
+        },
+        {
+            "title": "Vista Representative",
+            "company": "Company Name - City , State",
+            "start_date": "03/2015",
+            "end_date": "03/2016",
+            "description": "Helped underemployed, unemployed, and undergraduates further their education through Continuing Education programs. Proctored C.R.C ( Career Readiness Career ) Testing Helped with unemployment filing and weekly certification"
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name - City , State",
+            "start_date": "02/2014",
+            "end_date": "02/2015",
+            "description": "Team player mentality Fitness programming specialist Verbal/written communication Zumba instructor Time Management Nutrition supplement familiarity Opened and closed the store, including counting cash, opening and closing cash registers and creating staff assignments as well as shared product knowledge with customers while making personal recommendations to meet that specific need."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Corinth High School - City , State , United States",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Arts: Business Administration Accounting",
+            "school": "Northeast MS Community College - City , State",
+            "year": 2017
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

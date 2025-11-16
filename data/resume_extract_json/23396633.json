@@ -1,0 +1,114 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "Marketing",
+        "Marketing Strategy",
+        "Business Development",
+        "Healthcare",
+        "Advertising",
+        "Business Plan",
+        "Clients",
+        "Hp-ux",
+        "Media Relations",
+        "Unix",
+        "Ux",
+        "Product Development",
+        "Transmissions",
+        "Budget",
+        "National Accounts",
+        "Restructuring",
+        "Increase",
+        "Pricing",
+        "Budget Management",
+        "Games",
+        "Greetings",
+        "Finance",
+        "Joint Venture",
+        "Lead Generation",
+        "New Products",
+        "Out Of Home",
+        "Pricing Analysis",
+        "Sales",
+        "Onboarding",
+        "Partner Marketing",
+        "Audience Segmentation",
+        "Building Design",
+        "Building Materials",
+        "Commercial Building",
+        "Database",
+        "Market Segmentation",
+        "Segmentation"
+    ],
+    "experience": [
+        {
+            "title": "Director of Business Development",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "Present",
+            "description": "Advise on marketing strategy, business models and strategic alliances for private clients in education, scientific and healthcare verticals. Led marketing strategy, media relations and partnerships for projects including the global launch of a $1M research management software; developed brand messages and market opportunities; monetized consulting services; conducted market segmentation to identify opportunities in healthy building materials."
+        },
+        {
+            "title": "Vice President, Business Development",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2010-01",
+            "description": "Led cross-platform revenue initiatives for America's Best online ranking franchise across Education, Health, Personal Finance, Legal and Politics verticals. Directed strategic partnerships, pricing optimization, deal structuring and product development, including launches and licensing programs."
+        },
+        {
+            "title": "Director, Content Strategy",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2009-01",
+            "description": "Sourced, negotiated and managed cross-platform distribution partnerships for 25 leading cable companies; negotiated licensing partnerships with news, music, games, sports and technology providers; managed budgets and achieved margins."
+        },
+        {
+            "title": "Vice President, Business Development",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2005-01",
+            "description": "Director (2000-2002). Developed digital business initiatives for four national magazines and a cable channel; built consensus across seven divisions to invest in new business models; protected and advanced iconic brand online; revenue development including syndication and licensing; established partnerships and licensing strategies."
+        },
+        {
+            "title": "Vice President, Marketing",
+            "company": "Company Name",
+            "start_date": "1998-01",
+            "end_date": "2000-01",
+            "description": "Recruited to manage an e-commerce start-up including marketing strategy, strategic relationships and communications; gained national press coverage and positioned company for acquisition by a national tea retailer."
+        },
+        {
+            "title": "Manager, Partner Marketing",
+            "company": "Company Name",
+            "start_date": "1994-01",
+            "end_date": "1998-01",
+            "description": "Directed partner relations and partner marketing during hyper-growth; onboarded strategic partnerships such as the NFL, CBS Sportsline, ABC News, Bloomberg L.P., NBC, Reuters, Web M.D. and Business Week; developed approximately 25 customized marketing campaigns per month for national media partners; managed 26 key national accounts; oversaw an $18M annual partner marketing budget."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Communications",
+            "school": "University of Tennessee",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts in Journalism",
+            "school": "University of Oklahoma",
+            "year": null
+        },
+        {
+            "degree": "Marketing Strategies for Growth",
+            "school": "University of North Carolina at Chapel Hill",
+            "year": null
+        },
+        {
+            "degree": "Marketing Strategies for Growth, Executive Education",
+            "school": "University of North Carolina at Chapel Hill",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

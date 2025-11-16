@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "College prepared student with over three years of front line customer service experience, excellent communication skills, with strong work ethic. Looking for opportunities in Corporate America to develop as a career professional where training, coaching, and mentoring opportunities are available. Teachable and quick to learn taking on new roles and responsibilities with flexible schedule.",
+    "skills": [
+        "advertising",
+        "Avaya",
+        "call center",
+        "Cashier",
+        "content",
+        "customer satisfaction",
+        "customer service",
+        "English",
+        "General office duties",
+        "Microsoft Office Suite",
+        "Phone System",
+        "public relations",
+        "sales",
+        "social media platforms",
+        "Spanish",
+        "supervisor",
+        "Phone",
+        "written",
+        "Sprout Social Media Management"
+    ],
+    "experience": [
+        {
+            "title": "Social Media Agent",
+            "company": "Company Name, City, State",
+            "start_date": "10/2015",
+            "end_date": "Present",
+            "description": "Trained and work directly with MetroPCS HQ. Build social media posts, advertising and promotions across social media platforms. Engage in customer service via Facebook, Facebook Latino, Twitter and Instagram. Monitor online public relations and continuously send in 'Hot Topics' to create new content online."
+        },
+        {
+            "title": "Sponsorship Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "01/2014",
+            "end_date": "01/2015",
+            "description": "Escalate customer concerns directly to MetroPCS markets nationwide."
+        },
+        {
+            "title": "Customer Appreciation Team Agent",
+            "company": "Company Name, City, State",
+            "start_date": "01/2014",
+            "end_date": "01/2015",
+            "description": "Retention department for Metro PCS Cell Phone Company. Inbound and outbound calls. Answered customer service calls, and escalated/supervisor calls. Floor walker in a call center environment to assist training agents. Worked with upper management to ensure appropriate changes were made to improve customer satisfaction. Made reasonable procedure exceptions to accommodate unusual customer requests."
+        },
+        {
+            "title": "Floor Associate",
+            "company": "Company Name, City, State",
+            "start_date": "01/2013",
+            "end_date": "01/2014",
+            "description": "Executed store initiative related to sales, service, and customer experience. Met and exceed assigned customer experience and reputation and productivity targets. Resolved or escalated any customer service issues. Responsible for display maintenance, shelf maintenance, and store housekeeping."
+        },
+        {
+            "title": "Front Desk Customer Service",
+            "company": "Company Name, City, State",
+            "start_date": "01/2011",
+            "end_date": "01/2012",
+            "description": "Face-to-face customer service. General office duties. Inbound and outbound calls. Customer account relations. Customer enrollments and sales. Accurately and efficiently completed all sales transactions."
+        }
+    ],
+    "education": [
+        {
+            "degree": null,
+            "school": "Richland College",
+            "year": "2015"
+        },
+        {
+            "degree": null,
+            "school": "Winfreee Academy Charter School",
+            "year": "2014"
+        },
+        {
+            "degree": null,
+            "school": "Berkner High School",
+            "year": "2011"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

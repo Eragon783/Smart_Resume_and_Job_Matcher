@@ -1,0 +1,86 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Results-driven Financial Analyst with global exposure to strategic planning, M&A, and corporate finance. Experienced in shaping organizational strategy, evaluating investments, leading due diligence, and preparing investment materials for senior leadership across multinational contexts. Strong background in finance, valuations, and cross-functional collaboration.",
+    "skills": [
+        "Accounting",
+        "Biotechnology",
+        "Bloomberg",
+        "Bookkeeping",
+        "Budgeting",
+        "Commodities",
+        "Due diligence",
+        "Equities",
+        "Equity",
+        "Financial analysis",
+        "Financial statements",
+        "Fixed income",
+        "Innovation",
+        "Investments",
+        "Leadership",
+        "Mandarin Chinese",
+        "Marketing",
+        "Market research",
+        "Mathematics",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Presentations",
+        "Research",
+        "Sales",
+        "Securities",
+        "Spanish",
+        "SPSS",
+        "Strategy",
+        "Strategic Management",
+        "Strategic Planning",
+        "Transportation",
+        "Valuation",
+        "Written communications"
+    ],
+    "experience": [
+        {
+            "title": "Financial Analyst",
+            "company": "AIG",
+            "start_date": "2015-07",
+            "end_date": "Present",
+            "description": "Support CEO and corporate operating committee by shaping and implementing AIG's global strategy. Initiate, evaluate and execute M&A deals and innovation investments to enable AIG's inorganic growth. Involved in divestitures, normalization of pretax operating income, and valuation improvements; managed confidential information memorandum processes, virtual data rooms, and due diligence. Collaborated on joint ventures and biotech investments; built peer metrics and presentation materials to inform leadership and long-term incentive planning for 2015."
+        },
+        {
+            "title": "Investment Banking Summer Analyst",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "2014-08",
+            "description": "Supported Industrials Coverage Group by building client presentations, evaluating and compiling financial metrics, and aiding in model analysis and valuation. Key experiences included a Transportation company's ~$6B IPO, 170M Buy-Side M&A, 100M Strategic Planning Analysis; developed acquisition target profiles and client pitches."
+        },
+        {
+            "title": "Co-President",
+            "company": "Unknown Organization",
+            "start_date": "2013-09",
+            "end_date": "2014-12",
+            "description": "Taught 30 undergraduates stock market fundamentals and socially responsible investing to increase financial literacy. Evaluated public companies by analyzing strategy and operations, performing valuations. Invested $1,000 of fundraiser money in microfinance businesses, B corps, or charities to support social impact."
+        },
+        {
+            "title": "Bloomberg Analytics Boot Camp Participant",
+            "company": "Bloomberg",
+            "start_date": "2013-05",
+            "end_date": "2013-05",
+            "description": "Trained for Analytics and Sales to gain exposure to equities, fixed income and commodities. Operated Bloomberg Terminal to obtain data for 10 stock pitches, with technical analyses of securities and industry overviews."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Economics and Psychology",
+            "school": "Yale University",
+            "year": "2015"
+        }
+    ],
+    "certifications": [
+        "Bloomberg Analytics Boot Camp"
+    ],
+    "languages": [
+        "Mandarin Chinese",
+        "Spanish"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Innovative executive operations director with proven success in capital project delivery, pipeline operations, safety and reliability, budgeting, and organizational change. Experienced in leading cross-functional teams, expanding capacity, and delivering projects on time and on budget.",
+    "skills": [
+        "Project Management",
+        "Operational Restructure and Change",
+        "Quality Management",
+        "Departmental Operations Management",
+        "Eagle Scout"
+    ],
+    "experience": [
+        {
+            "title": "Director of Pipeline Operations",
+            "company": "Company Name",
+            "start_date": "September 2011",
+            "end_date": "Present",
+            "description": "Led reorganized processes across gas control, engineering and design, project management, pipeline and compression systems, integrity management, and facility optimization; directed procurement of indirect employees and contractors; ensured safety, compliance, reliability, and cost control; built and operated new interconnects and expansion compressor stations; developed budgeting processes and five-year plan; improved project budget success rate to over 95%."
+        },
+        {
+            "title": "Senior Project Manager",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "September 2011",
+            "description": "Led development of project management team; identified and managed engineering and construction projects from conception to closeout; introduced comprehensive Business Development plan and client relationships; negotiated with confidential clients through permitting processes."
+        },
+        {
+            "title": "Construction Project Manager",
+            "company": "Company Name",
+            "start_date": "December 2007",
+            "end_date": "January 2010",
+            "description": "Provided senior-level leadership for all construction phases; coordinated contractors, materials and scheduling; oversaw design drawings and contract administration; delivered two expansion compressor stations and related facilities on time and on budget; managed safety and environmental compliance."
+        },
+        {
+            "title": "Engineering, Operations and Construction Leader",
+            "company": "Company Name",
+            "start_date": "January 1989",
+            "end_date": "December 2007",
+            "description": "Led multiple roles: Construction Lead, Damage Prevention Leader, and Supervisor of Engineering; reduced locator error to 0% for multiple years; streamlined customer installation processes cutting time from inquiry to meter turn-on from 68 to 31 days; developed estimating tools to streamline costs; led safety and risk management initiatives."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Graduate Level Certificate, Negotiation and Conflict Resolution",
+            "school": "Cambridge College",
+            "year": 1998
+        },
+        {
+            "degree": "Master of Education (M.Ed.), Integrated Studies and Management",
+            "school": "Cambridge College",
+            "year": 1998
+        },
+        {
+            "degree": "Design Technology - Architectural and Civil Design Technology Certificate",
+            "school": "Porter and Chester Institute",
+            "year": 1986
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

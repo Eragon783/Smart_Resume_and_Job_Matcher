@@ -1,0 +1,67 @@
+{
+    "name": "Yeni Maldonado",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Professional in Economics with 7+ years of experience in the financial sector, as administrative assistant, manager, analyst and customer services. Optimizing work methods through the planning and execution of daily activities that correspond to my position. I have the ability to work in a fast paced environment, successful in maintaining multiple tasks, able to work well individually or with a team, dedicated and focused to achieve the objectives.",
+    "skills": [
+        "Attention to detail",
+        "Billing",
+        "Customer Services",
+        "Data analysis",
+        "Documentation",
+        "E-mail",
+        "English",
+        "Organize files",
+        "Financial",
+        "Financial reports",
+        "Investments",
+        "Leadership",
+        "Meetings",
+        "Microsoft Office",
+        "Office",
+        "Portuguese",
+        "Risk Management",
+        "Selling",
+        "Spanish",
+        "Strategic Planning",
+        "Phone",
+        "Web page"
+    ],
+    "experience": [
+        {
+            "title": "Customer Services",
+            "company": "Company Name",
+            "start_date": "2016-07",
+            "end_date": "2016-11",
+            "description": "Provided English and Spanish support; handled incoming call flow; provided information to new and existing customers to support their needs and find solutions to keep customers satisfied and retain business. Navigated computer systems to locate customer data or other electronic information; recorded each call by accurately documenting status and comments in the platform."
+        },
+        {
+            "title": "Manager - BPO Analyst",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2015-05",
+            "description": "Led a team of 15 professionals; analysis coordinator and risk management for Citibank International. Recorded national and international ACH transactions to reduce risk of fraud and comply with policies and government regulations. Created monthly reports to maintain business control. Defined strategy and business plan to control the volume of transactions. Trained and supported risk personnel during new system implementations and upgrades."
+        },
+        {
+            "title": "Financial Assistant - Trader",
+            "company": "Company Name",
+            "start_date": "2008-10",
+            "end_date": "2013-05",
+            "description": "Supported the financial investment area in buying and selling financial assets. Advised the customer with their investments to higher returns. Found solutions to customer's necessities through e-mail and phone calls. Organized electronic files and maintained paper files. Verified details of transactions, including funds received and total account balances. Deposited dividend payments, settled invoices, administered petty cash to keep the office up to date; provided financial reports and office supplies. Opened and assigned new client accounts. Kept confidential information."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Economics",
+            "school": "Colombia",
+            "year": 2014
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish",
+        "English",
+        "Portuguese"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced Electronic Technician with extensive knowledge in A/C and D/C theory and troubleshooting skills and technique. Avionics specialist in theory of operation and repairs. Highlights AC/DC power and control systems Electro-mechanical proficiency Digital circuitry Branch circuit wiring Sub-panel installation Accomplishments Electrical Wiring Excellent written and verbal communication skills Superior troubleshooting skills Test equipment operation Diagnostic testing Worked to meet current FAA electrical codes and company guidelines. Installed wiring and electrical appliances for commercial and military aircraft with a 40% ahead-of-schedule rate. Scheduled and tracked all repairs. Supervised team of three staff members. Mounted assembled components on circuit board at a rate of 100 per shift. Served as an expert in troubleshooting and repairing state-of-the-art electrical and electronic systems.",
+    "skills": [
+        "AC/DC theory",
+        "Troubleshooting",
+        "Avionics theory and repairs",
+        "AC/DC power and control systems",
+        "Electro-mechanical proficiency",
+        "Digital circuitry",
+        "Branch circuit wiring",
+        "Sub-panel installation",
+        "Electrical wiring",
+        "Test equipment operation",
+        "Diagnostic testing",
+        "FAA electrical codes",
+        "Blueprints and schematics interpretation",
+        "Flight instruments installation",
+        "Harness installation",
+        "Circuit construction and testing",
+        "Maintenance scheduling",
+        "Team supervision",
+        "PMCS (Preventive Maintenance Checks and Services)"
+    ],
+    "experience": [
+        {
+            "title": "Simulator Technician",
+            "company": "Company Name, City, State",
+            "start_date": "April 2013",
+            "end_date": "May 2014",
+            "description": "Flight instruments installation and repair. Installing avionics LRU's and flight gauges on flight line. Interpretation of blueprints and schematics. Installation of avionics equipment (AFCS, HSI, ADI, HUD, etc.). Theory of operation of avionics systems and test sets. Installation of harnesses in aircraft. Completing modifications and upgrades. Rewiring cannon plugs. Cockpit experience on Citation 2,3,7, Citation Excel, Citation Ultra Bravo, CRJ 700-900, UH-60, CH-47, 737, Gulfstream 3-5, Lear 31A, King Air 350, Beechjet 400, Global Express. Verified that all required information was readily available and displayed correctly. Tracked maintenance actions and completed records. Ran cycle checks of electromechanical systems consisting of multiple integrated circuits. Constructed and tested electronic circuits and installed point-to-point wire harnesses and connectors. Aligned and tuned complicated inter-related circuits and electromechanical systems."
+        },
+        {
+            "title": "Avionics Technician",
+            "company": "Company Name, City, State",
+            "start_date": "January 2012",
+            "end_date": "January 2013",
+            "description": "Maintained CRJ-700, 900 IAW FAA standards and procedures. Repaired and replaced Avionics equipment as required for proper functionality of aircraft. Trained for A&P license under supervision. Prepared equipment for all operations. Verified that all required information was readily available and displayed correctly. Tracked maintenance actions and completed records. Aligned and tuned complicated inter-related circuits and electromechanical systems. Constructed and tested electronic circuits and installed point-to-point wire harnesses and connectors. Tested and repaired electric motors, variable frequency drives, alarms and control systems. Interpreted electrical and mechanical schematics, blueprints and diagrams. Diagnosed equipment malfunctions and completed repairs to restore equipment and maintain uptime."
+        },
+        {
+            "title": "Entry Avionics Mechanic",
+            "company": "Company Name, City, State",
+            "start_date": "January 2007",
+            "end_date": "January 2008",
+            "description": "Wire stamping and cannon plug termination and routing. Installation of wire bundles and termination of grounding blocks. Boeing 737, Airbus A320. Interpreted electrical and mechanical schematics, blueprints and diagrams. Implemented vast knowledge of electronics principles to resolve complex electrical problems. Repaired electrical equipment using hand and power tools and testing and diagnostic equipment. Collaborated with engineering staff on testing of prototypes and modified instruments. Verified that all equipment was certified and met regulatory requirements."
+        },
+        {
+            "title": "Avionics Shift Supervisor / Avionics Technician",
+            "company": "Company Name, City, State",
+            "start_date": "January 2006",
+            "end_date": "January 2012",
+            "description": "Avionics flight line repairs and modifications on CH-47 Chinooks and UH-60 Blackhawks. Avionics maintenance supervisor OIF 2009. Interpreted electrical and mechanical schematics, blueprints and diagrams. Diagnosed equipment malfunctions and completed repairs to restore equipment and maintain uptime. Implemented vast knowledge of electronics principles to resolve complex electrical problems. Repaired electrical equipment using hand and power tools and testing and diagnostic equipment. Repaired and tested microwave amplifiers and transmission lines, high-voltage power supplies, displays and antenna positioning systems. Maintained accurate electronic and instrument inventory to support safe and efficient operation. Performed monthly, semi-annual and annual PMCS. Installed all electrical wiring during remodeling projects. Trained maintenance journeymen electricians and electrical apprentices. Trained and instructed subordinates and supported units on Military Avionics Equipment. Supervised operation and organizational maintenance of systems and specialized equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "GED",
+            "school": "T.C.C South Campus, City, State, USA",
+            "year": 2005
+        },
+        {
+            "degree": "Electronics Troubleshooting Diploma",
+            "school": "Army Aviation School of Logistics, City, State, USA",
+            "year": 2007
+        },
+        {
+            "degree": "Associate of Science in Avionics Maintenance Technology",
+            "school": "Spartan College of Aeronautics, City, State, USA",
+            "year": 2011
+        },
+        {
+            "degree": "Diploma in Electric Technology",
+            "school": null,
+            "year": null
+        }
+    ],
+    "certifications": [
+        "FAA Corrosion Control Academic Achievement Award",
+        "AEA Wiring Academic Achievement Award"
+    ],
+    "languages": []
+}

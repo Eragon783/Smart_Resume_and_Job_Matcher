@@ -1,0 +1,63 @@
+{
+    "name": "Rachel Lascalla",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Executive Assistant with sales experience, skilled at multitasking, meticulous attention to detail, and strong communication. Experienced in calendaring, travel arrangements, onboarding, meeting planning, and process improvement.",
+    "skills": [
+        "Microsoft Office Suite",
+        "Calendaring",
+        "Critical Thinking",
+        "Travel Arrangements",
+        "Time Management",
+        "Meticulous Attention to Detail",
+        "Invoice Processing",
+        "Data Organization",
+        "Multitasking",
+        "Administration",
+        "Reporting",
+        "Planning",
+        "Onboarding",
+        "Vendor Relations",
+        "Customer Webinars"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "October 2014",
+            "end_date": "Present",
+            "description": "Coordinated customer facing webinars, including developing relationships with vendors, tracking customer attendance and post-webinar follow-up."
+        },
+        {
+            "title": "Freelance",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "Present",
+            "description": "Arranged travel, visas, agendas and necessary contacts; maintained and coordinated executive and senior management schedules; wrote and distributed meeting minutes; coordinated customer facing webinars; managed desktop publishing and proposal/memo typing."
+        },
+        {
+            "title": "Executive Assistant",
+            "company": "Company Name",
+            "start_date": "February 2011",
+            "end_date": "July 2013",
+            "description": "Sole assistant for Eastern half of North America; managed calendars, travel arrangements (international and domestic), expense reports, and vendor logistics; prepared marketing documentation; scheduled and supported meetings and events; coordinated webinars and cross-departmental projects."
+        },
+        {
+            "title": "Supervisor",
+            "company": "Company Name",
+            "start_date": "June 2006",
+            "end_date": "February 2011",
+            "description": "Oversaw staff ranging from 2-10 employees per shift; conducted sales segmentation and research, utilizing revenue data and market factors to drive RTD sales."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Anthropology",
+            "school": "Hunter College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

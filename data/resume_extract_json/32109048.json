@@ -1,0 +1,118 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Service-oriented manager who delivers high quality customer service by accurately assessing client needs and recommending policies and products. Excellent investigation and attention to detail skills.",
+    "skills": [
+        "Property insurance",
+        "Report development",
+        "Critical thinking",
+        "Project planning",
+        "Typing",
+        "Call center",
+        "closing",
+        "contracts",
+        "CPT coding",
+        "Criminal Justice",
+        "customer service",
+        "database",
+        "documentation",
+        "email",
+        "fax",
+        "faxing",
+        "insurance",
+        "ISO",
+        "Law",
+        "Legal",
+        "Lexis Nexis",
+        "Medical billing",
+        "Access",
+        "Excel",
+        "mail",
+        "Office",
+        "outlook express",
+        "PowerPoint",
+        "Works",
+        "police",
+        "problem resolution",
+        "processes",
+        "supervision",
+        "telephones",
+        "phone"
+    ],
+    "experience": [
+        {
+            "title": "Claims Service Manager",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "Present",
+            "description": "Manages claims services and delivers solutions via investigation, evaluation, negotiation and settlement of auto claims; supports catastrophe operations; collaborates with vendors and internal teams to facilitate resolution; focuses on member needs and policy understanding."
+        },
+        {
+            "title": "Associate Claims Adjuster",
+            "company": "Company Name",
+            "start_date": "2005-11",
+            "end_date": "2008-10",
+            "description": "Investigates, evaluates, negotiates and adjusts moderately complex auto claims; determines liability and settles/defends in compliance with state regulatory requirements; provides member guidance under limited supervision."
+        },
+        {
+            "title": "Casualty Auto Adjuster II",
+            "company": "Company Name",
+            "start_date": "2012-04",
+            "end_date": "2014-05",
+            "description": "Investigates, evaluates, negotiates and adjusts moderately complex auto claims; applies intermediate knowledge of P&C products and processes; collaborates with team and vendors to resolve issues; supports workload surges and CAT operations as needed."
+        },
+        {
+            "title": "Auto Adjuster",
+            "company": "Company Name",
+            "start_date": "2004-08",
+            "end_date": "2004-09",
+            "description": "Investigate, adjust and settle complex auto, mobile home, boat, and motorcycle claims; diary management; CAT database handling; schedule inspections and tows; issue payments; maintain documentation."
+        },
+        {
+            "title": "Claim Representative",
+            "company": "Company Name",
+            "start_date": "2001-07",
+            "end_date": "2004-12",
+            "description": "Investigate, adjust, and pay claims in a call center environment; provide superior customer service; conduct coverage investigations; interpret policy information; negotiate with glass shops and vendors."
+        },
+        {
+            "title": "Associate Claims Adjuster - Settle",
+            "company": "Company Name",
+            "start_date": "2001-04",
+            "end_date": "2008-10",
+            "description": "Assisted with adjusting and settling loss claims; performed investigations and supported settlement processes."
+        },
+        {
+            "title": "Immediate Response Unit Representative",
+            "company": "Company Name",
+            "start_date": "2004-12",
+            "end_date": "2005-05",
+            "description": "Responded to immediate response unit needs; supported rapid claim assessments and related communications."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Criminal Justice",
+            "school": "Sul Ross State University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts in Criminal Justice",
+            "school": "Our Lady of the Lake University",
+            "year": 2011
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Eagle Pass High School",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        "TX Casualty and Property License"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

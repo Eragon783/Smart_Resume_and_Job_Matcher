@@ -1,0 +1,52 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Friendly Sales Associate proficient in managing all areas of sales and customer service in fast-paced retail environments. Excellent multi- tasker and team player. Reliable Sales Associate with strengths in inventory management, training, and customer service. Friendly, knowledgeable and hard-working team player.",
+    "skills": [
+        "Sales expertise",
+        "Active listening",
+        "Verbal/written communication",
+        "Team player mentality",
+        "Outgoing personality",
+        "Time management",
+        "Enthusiasm",
+        "client",
+        "Detail oriented",
+        "Team leadership",
+        "phone"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate/Cashier",
+            "company": "Company Name, City, State",
+            "start_date": "2017-09",
+            "end_date": "Present",
+            "description": "Met incoming customers and provided immediate assistance. Retrieved alternate items and sizes on request. Listened to customer needs and preferences to provide accurate advice. Completed purchases with cash, credit and debit payment methods. Increased purchase totals by recommending additional items. Worked flexible schedule to accommodate changing customer levels. Organized items in visually appealing manner. Answered incoming telephone calls with professional and knowledgeable responses. Maintained up-to-date knowledge of customer buying habits."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name, City, State",
+            "start_date": "2015-09",
+            "end_date": "2015-12",
+            "description": "I up-sold additional menu items, beverages and desserts to increase restaurant profits. Took necessary steps to meet customer needs and effectively resolve food or service issues. I also recorded customer orders and repeated them back in a clear, understandable manner and promptly reported complaints to a member of the management team. I communicated clearly and positively with co-workers and management and resolved guest complaints promptly and professionally. I quickly and efficiently processed payments and made accurate change."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name, City, State",
+            "start_date": "2015-09",
+            "end_date": "2015-12",
+            "description": "I up-sold additional menu items, beverages and desserts to increase restaurant profits. Took necessary steps to meet customer needs and effectively resolve food or service issues. I also recorded customer orders and repeated them back in a clear, understandable manner and promptly reported complaints to a member of the management team. I communicated clearly and positively with co-workers and management and resolved guest complaints promptly and professionally. I quickly and efficiently processed payments and made accurate change."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Waynesboro Area Senior High School",
+            "year": "2017"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "QuickBooks",
+        "Sage",
+        "Lacerte",
+        "Intuit ProSeries",
+        "Microsoft Word",
+        "Excel",
+        "Access",
+        "Outlook",
+        "Power Pivot",
+        "PowerPoint",
+        "CalBench",
+        "FASB & GAAP standards (Accounting Standards Codification)",
+        "Sarbanes-Oxley (SOX)",
+        "GAAS/SAS"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "January 2016",
+            "end_date": "Present",
+            "description": "Responsible for both cash and accrual basis accounting for cash receipts, A/R, A/P, notes payable, interest payable, unearned revenues, legal services, revenues, expenses, office supplies, insurance (worker's compensation, health, accidental, and disability), payroll processing, petty cash, reconciliation of discrepancies of bank and credit card transactions, and escrow accounting Record the appropriate trial balance adjustments including the analysis of the relevant accounts Perform financial statement analysis in the evaluation of business operations in the preparation of financial statements Resolved of tax issues, notices, engagements in compliance of IRS regulations, procedures, and codes Filing federal and state corporate tax returns ((Form1120S (IRS), CT-3-S/CT-34-SH (NYS), FUTA, SUTA)) Generate quarterly payroll tax returns ((Forms 941 (IRS), NYS-45/NYS-45-ATT (NYS)) per requisite during the calendar year along with the payroll tax accounting procedures."
+        },
+        {
+            "title": "Accounting Assistant / Retail and Wholesale Clothing Merchandiser",
+            "company": "Company Name",
+            "start_date": "February 2015",
+            "end_date": "January 2016",
+            "description": "Oversaw A/R, A/P, tangible assets, revenue, expenses, cost of goods sold (COGS), depreciation, advertising, inventory, intangible assets (trademarks, patents, and licenses), line of credit, bad debts, returns and allowances, credit card transactions, bank and credit card reconciliations, and payroll accounting under the accrual basis of accounting Recorded month end, quarterly, and year end closing of accounts to reconcile financial statements Performed administrative duties by filing, opening and sorting mail, scanning, printing, and copying documents Implemented corporate, sales, and payroll taxes in accordance with federal and state compliance for forms 1065, 941, ST-100 (Quarterly), MTA-305, 940, and NYS-45/NYS-45ATT Analyzed and prepared financial statements through vertical and horizontal analysis and forecasting Coordinated with clients and vendors in accordance to the A/R and A/P subsidiary ledgers aging schedule."
+        },
+        {
+            "title": "Stock Clerk",
+            "company": "Company Name",
+            "start_date": "May 2010",
+            "end_date": "August 2011",
+            "description": "Worked as a stocker on a three month probationary period refilling the shelves. Promoted to delivery helper in which the duties include the following: loading/unloading inventories, picking/packing orders, maintained customer relations and reconciling all errors of clients' orders. Provided customer satisfaction with proven track record of increased sales of approximately 10% through product knowledge and various suggested recipes."
+        },
+        {
+            "title": "Restaurant Operations Manager",
+            "company": "Company Name",
+            "start_date": "September 1996",
+            "end_date": "March 2004",
+            "description": "Managed business operations in overseeing the workforce through training, developing, hiring, terminating, and retention of the employees Maintained the business organizational structure in the initiation, ratification, implementation, and monitoring the decision management processes Implemented customer satisfaction through customer interactions and an intuitive approach to each customer's standards Increased revenue by up to 20% through social networking with customers and resolving any issues by meeting their demands promptly Maintained hybrid accounting for cash, A/R, A/P, services, revenue, expenses, depreciation, inventory supplies and replenishments, payroll records, equipment, liquor license (noncurrent asset amortization), financial statement reports, bank and credit card transactions along with the reconciliations, and restated any errors to accounts immediately upon discovery and analysis."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Taxation",
+            "school": "LIU",
+            "year": "2018 - Present"
+        },
+        {
+            "degree": "Bachelor of Science in Accounting",
+            "school": "Hunter College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "IRS VITA/TCE Certificate (2015)"
+    ],
+    "languages": []
+}

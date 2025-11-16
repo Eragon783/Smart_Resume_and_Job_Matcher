@@ -1,0 +1,62 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced accounting professional with proficient, analytical and problem solving abilities. Results oriented and flexible in a rapidly changing environment.",
+    "skills": [
+        "accountant",
+        "accounting systems",
+        "accounting system",
+        "accounts payable",
+        "balance sheet",
+        "conversion",
+        "financial statements",
+        "excel spreadsheets",
+        "excel",
+        "microsoft office",
+        "outlook",
+        "sales",
+        "tax returns",
+        "year-end"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2015-03",
+            "end_date": "2017-07",
+            "description": "Processed daily corporate customer payments using CDK and Rental payments using TSD. Ran monthly customer statements. Responded to and followed up on customer inquiries. Processed daily cash journal entries. Responsible for running monthly aging reports for the accounts payable department and stores."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2004-10",
+            "end_date": "2015-04",
+            "description": "Processed and paid state, city and county tax returns. Processed yearly property tax returns. Researched and responded to customer and the sales department inquiries. Ran monthly customer statements. Reconciled balance sheet accounts. Processed monthly journal entries using Agate a specialized software. Helped with month-end and year-end closings. Created various requested excel reports."
+        },
+        {
+            "title": "Accounting Manager",
+            "company": "Company Name",
+            "start_date": "2000-05",
+            "end_date": "2004-04",
+            "description": "Supervised one staff accountant. Responsible for the timely balancing of two accounting systems. Managed the reconciliation of all balance sheet accounts. Processed and paid the monthly state, county and city tax returns. Accountable for the accounts payable area. Developed and maintained various Excel spreadsheets. Implemented and oversaw system enhancements."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "1989-02",
+            "end_date": "2000-04",
+            "description": "Processed monthly financial statements. Reconciled all balance sheet accounts. Processed and paid monthly state, county and city tax returns. Researched and responded to customer inquiries regarding monthly statements. Implemented and tested accounting system conversion."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science",
+            "school": "Normandale Community College",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

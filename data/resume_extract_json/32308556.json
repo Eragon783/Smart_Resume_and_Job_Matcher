@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Dedicated HR professional with five years of experience supporting management of human resources, pursuing an MBA and a Doctorate in business. Strong background across manufacturing, government, and healthcare sectors. Skilled in HR management, product design and development, strategic warehouse management, leadership, and process improvement; committed to ethics and policy compliance, timely execution, and improving organizational outcomes.",
+    "skills": [
+        "Human Resource Management",
+        "Product Design and Development",
+        "Strategic Warehouse Management",
+        "Entrepreneurship",
+        "Marketing Management",
+        "Economics",
+        "Leadership",
+        "Operations Management",
+        "Managerial Accounting",
+        "Finance",
+        "Strategic Management",
+        "Conflict resolution",
+        "Staff development",
+        "Client assessment and analysis",
+        "Advertising",
+        "Benefits",
+        "Business Administration",
+        "Business Strategy",
+        "Cash flow",
+        "Employee relations",
+        "Firing",
+        "Hiring",
+        "Logistics",
+        "Organizational",
+        "Performance management",
+        "Policies",
+        "Profit",
+        "Receiving",
+        "Scheduling"
+    ],
+    "experience": [
+        {
+            "title": "HR Volunteer Asst. Manager",
+            "company": "Company Name, City, State",
+            "start_date": "January 2009",
+            "end_date": "",
+            "description": "Assist in handling common workplace disputes; Assist in maintaining employment policies and inform staff; Assist in hiring, firing, and disciplining staff; Assist in Handling compensation and benefits; Assist in creating new benefits; Assist in setting salaries for certain positions, and organize benefits like healthcare and pensions."
+        },
+        {
+            "title": "Human Resource Manager",
+            "company": "Company Name, City, State",
+            "start_date": "August 2009",
+            "end_date": "September 2014",
+            "description": "Assist in handling common workplace disputes; Assist in maintaining employment policies and inform staff; Assist in hiring, firing, and disciplining staff; Assist in Handling compensation and benefits; Assist in creating new benefits; Assist in setting salaries for certain positions, and organize benefits like healthcare and pensions."
+        },
+        {
+            "title": "Volunteer Assistant Human Resource Manager",
+            "company": "Company Name, City, State",
+            "start_date": "January 2014",
+            "end_date": "",
+            "description": "Assist in handling common workplace disputes; Assist in maintaining employment policies and inform staff; Assist in hiring, firing, and disciplining staff; Assist in Handling compensation and benefits; Assist in creating new benefits; Assist in setting salaries for certain positions, and organize benefits like healthcare and pensions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "Grand Canyon University",
+            "year": "2018"
+        },
+        {
+            "degree": "BA Entrepreneurship, Specializing in Logistics",
+            "school": "Ashford University",
+            "year": "2015"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

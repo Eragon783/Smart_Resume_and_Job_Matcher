@@ -1,0 +1,84 @@
+{
+    "name": "Ernest Mwale Mupemo",
+    "email": null,
+    "phone": null,
+    "location": "Petauke, Zambia",
+    "summary": "Self-motivated Extension Methodologist with experience in agricultural research, policy analysis, monitoring and evaluation, project coordination, and stakeholder engagement in Zambia. Skilled in data collection, SPSS analysis, report writing, and collaboration with NGOs and government agencies to improve agricultural extension services and farmer outcomes.",
+    "skills": [
+        "Computer literacy",
+        "Email",
+        "English",
+        "Government",
+        "Director",
+        "Management consulting",
+        "Excel",
+        "PowerPoint",
+        "Microsoft Word",
+        "Policies",
+        "Progress",
+        "Research",
+        "SPSS",
+        "Supervising",
+        "Supervision",
+        "Surveys",
+        "Report writing",
+        "Data analysis",
+        "Stakeholder engagement",
+        "Monitoring and evaluation"
+    ],
+    "experience": [
+        {
+            "title": "Extension Methodologist",
+            "company": "Ministry of Agriculture and Livestock (GRZ), Center for Extension Service Coordination",
+            "start_date": "2013-03",
+            "end_date": null,
+            "description": "Linked government extension officers to stakeholders; monitored and evaluated department activities; supervised agricultural extension officers; collaborated with partners to improve extension service delivery; contributed to NGO projects (e.g., HarvestPlus) promoting vitamin A-rich orange maize."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Plan Zambia",
+            "start_date": "2012-11",
+            "end_date": "2013-01",
+            "description": "Staff work-force planning research; identified gaps in workforce; supported efficiency improvements; gained experience with SPSS."
+        },
+        {
+            "title": "Policy and Research Analyst (Intern)",
+            "company": "Agricultural Consultative Forum (ACF)",
+            "start_date": "2012-06",
+            "end_date": "2013-11",
+            "description": "Analyzed agricultural policies; evaluated policy impacts on Zambia's agricultural sector; contributed to development of an electronic voucher system; produced policy briefs; developed analytical skills."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Conservation Farming Unit (CFU) in conjunction with Independent Management Consultancy Services (IMCS)",
+            "start_date": "2012-01",
+            "end_date": "2013-02",
+            "description": "Enumerated Conservation Farming Phase 2 surveys; evaluated local farmers' conservation farming skills; gained understanding of rural farming challenges; conducted field data collection."
+        },
+        {
+            "title": "Principal Investigator",
+            "company": "University of Zambia (supervised by Dr. Daura)",
+            "start_date": "2010-07",
+            "end_date": "2011-04",
+            "description": "Evaluated acidulated rock phosphate as a phosphorus source for broiler rations; compared body weight gains and carcass outcomes between rock phosphate and commercial feed."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Agricultural Sciences (Animal Science major)",
+            "school": "University of Zambia",
+            "year": "2011"
+        },
+        {
+            "degree": "General School Certificate",
+            "school": "Samfya Secondary School",
+            "year": "2004"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Bemba",
+        "Nyanja"
+    ]
+}

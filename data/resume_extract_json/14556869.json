@@ -1,0 +1,95 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Hardworking, passionate Vanderbilt student intending to obtain Fall on-campus employment to both grow and excel in all endeavors.",
+    "skills": [
+        "Microsoft Office",
+        "Microsoft Works",
+        "Microsoft Customer Relationship Management System",
+        "Microsoft Publisher",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Pro Tools",
+        "Wordpress",
+        "Sitecore Content Management System",
+        "Hootsuite"
+    ],
+    "experience": [
+        {
+            "title": "Digital Marketing Intern",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2013-08",
+            "description": "Executing and overseeing corporate digital marketing campaign through various platforms including company Twitter and LinkedIn pages. Updating company web media using Sitecore Web Content Management system. Working with corporate marketing consultants to determine appropriate customized programs and strategies for various web-based market segments."
+        },
+        {
+            "title": "Student Fundraising Ambassador",
+            "company": "Company Name",
+            "start_date": "2012-12",
+            "end_date": "2013-05",
+            "description": "Updated contact information, provided institutional affairs updates, and stewarded University fundraising efforts of alumni and constituents of Vanderbilt. Inspired new supporters to contribute funds, while maintaining relationships and encouraging increased support with existing contributors. Made risk analyses and balanced cost-time data to focus efforts on most appropriate fundraising activities."
+        },
+        {
+            "title": "Tutor",
+            "company": "Company Name",
+            "start_date": "2011-12",
+            "end_date": "2013-05",
+            "description": "Provided student-athletes with academic assistance. Submitted detailed reports of each individual tutoring session. Updated Counselor and Tutor Coordinator on progress over time."
+        },
+        {
+            "title": "Advertising & Public Relations Intern",
+            "company": "Company Name",
+            "start_date": "2011-04",
+            "end_date": "2012-11",
+            "description": "Executed brand endorsement, talent discovery, and talent relations duties. Orchestrated promotional and vendor agreements with various entities including music groups, festival hosts, and supplement wholesalers and websites. Wrote and distributed advertisement and press material to third party media outlets. Developed various promotional and advertisement campaigns through company social media and web-based entities."
+        },
+        {
+            "title": "Marketing Intern",
+            "company": "Company Name",
+            "start_date": "2012-06",
+            "end_date": "2012-08",
+            "description": "Utilized Microsoft Customer Relationship Management system to establish a database of current and potential clients. Performed routine teleconferences with clients to discover needs and delivered summaries to manager. Worked under direction of management and C.E.O. to reach out to potential clients and develop interest in company services."
+        },
+        {
+            "title": "Journalist",
+            "company": "Company Name",
+            "start_date": "2012-04",
+            "end_date": "2012-08",
+            "description": "Wrote articles and daily blog posts for internet news source with over 300,000 unique monthly readers. Implemented articles to social media sites like Facebook, Twitter, and Foursquare to increase viewership through concise \"Post Blasts\"."
+        },
+        {
+            "title": "Data Analysis & Administrative Intern",
+            "company": "Company Name",
+            "start_date": "2011-05",
+            "end_date": "2011-08",
+            "description": "Assisted company chair with administrative activities including data entry and analysis. Performed accounting duties including composing expense reports and suggesting fund allocation. Sustained contact with property owners about building activity and relayed information to company chair."
+        },
+        {
+            "title": "Sales & Marketing Associate",
+            "company": "Company Name",
+            "start_date": "2008-05",
+            "end_date": "2011-08",
+            "description": "Sold billiard tables and accessories and provided advice and consultations on product inquiries. Built and retained direct relationships with clients and affiliates to ensure satisfaction. Provided significant direction for developing company website including layout, organization system, and transition to e-commerce services. Implemented company social media presence and directed various other web-based promotional campaigns."
+        },
+        {
+            "title": "Volunteer",
+            "company": "Company Name",
+            "start_date": "2009-03",
+            "end_date": "2010-05",
+            "description": "Taught special needs children how to play various sports and other recreational activities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Vanderbilt University",
+            "year": 2015
+        }
+    ],
+    "certifications": [
+        "Hootsuite"
+    ],
+    "languages": []
+}

@@ -1,0 +1,95 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Results-oriented professional with diverse background in management and customer service. Experienced in administration, program management, event planning, and education; strong organizational, communication, and interpersonal skills; adept at recruiting, training, and customer relations.",
+    "skills": [
+        "Account management",
+        "Administrative support",
+        "Program Management",
+        "Advertising",
+        "Marketing materials",
+        "Meeting Planning",
+        "Microsoft Office",
+        "Recruitment",
+        "Research",
+        "Sales",
+        "Supervising and training",
+        "Symposium Planning",
+        "Travel arrangements",
+        "Planning workshops",
+        "Event planning",
+        "Scheduling",
+        "Customer service",
+        "Interpersonal skills",
+        "Team player",
+        "Public speaking",
+        "Curriculum development",
+        "Operations management",
+        "Client relations",
+        "Training and development"
+    ],
+    "experience": [
+        {
+            "title": "Owner",
+            "company": "Company Name",
+            "start_date": "2014-04",
+            "end_date": "Current",
+            "description": "Non-medical senior care; Event and party planning; Shopping for all occasions (wedding, showers, groceries, etc.); Pet/house sitting."
+        },
+        {
+            "title": "Administrative Assistant/Clerk",
+            "company": "Company Name",
+            "start_date": "2010-10",
+            "end_date": "2014-05",
+            "description": "Planning many aspects of graduation, recruitment, orientation and various other projects throughout the year. Responsible for tracking all resident evaluations and compiling results for monthly Evaluation Committee Meeting. Ensuring all residents have completed all required components; throughout their four year residency. Supervising of various resident events. Registering residents for required courses and workshops throughout their four year residency. Working with faculty and staff to market and promote the residency program."
+        },
+        {
+            "title": "Beauty Consultant",
+            "company": "Company Name",
+            "start_date": "2003-04",
+            "end_date": "2013-05",
+            "description": "Managed all customer accounts. Coordinated sales and promotional events. Tracking of product inventory. Account management."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2008-11",
+            "end_date": "2010-10",
+            "description": "Assist Principal Investigators and Lab Personnel with Animal Protocol information requests. Compile, distribute and track Annual Reviews for all Animal Labs on campus. Participated in planning of Orientation for New Committee Members. Assisting with updates on all approved animal protocols and modifications to ensure accuracy. Creating and updating of office standard operating procedures."
+        },
+        {
+            "title": "Administrative Specialist Associate/Program Manager",
+            "company": "Company Name",
+            "start_date": "2007-04",
+            "end_date": "2008-05",
+            "description": "Laid off due to lack of funding for position. Administrative Manager Coordinator for K12 Grant Funded Clinical Scholars Training Program-Post-Doctoral. Managed application process including advertising, interviews, and arranging all materials. Planned and implemented all aspects of Graduation for Clinical Scholars. Coordinated meetings and scheduling of program events. Led planning of two-day Annual Symposium—including marketing, poster session for trainees, travel arrangements, invitation mailing and speaker arrangements."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2003-01",
+            "end_date": "2007-04",
+            "description": "Provided Administrative support for the Family Medicine Clerkship, working with third and fourth-year medical students, as well as support for the Faculty Development Institute. Communicated with students, faculty and physicians to coordinate student assignments. Coordinated student manual and preceptor manual updates, assembly and distribution on a semi-annual basis. Responsible for proctoring National Board Exam every four weeks. Initiated and developed procedures manual for clerkship."
+        },
+        {
+            "title": "Academic Secretary III",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2003-01",
+            "description": "Administrative support for first through fourth year medical student components. Main student contact. Planned Comprehensive Clinical Assessment Exam for third-year students. Planned Orientation for third-year medical students. Coordinated and planned ongoing faculty and student meetings. Worked with departments, faculty and programs within the medical school and external sources. Organized and prepared student syllabi, schedules and assignments for first and second year students. Initiated and developed procedures manual for job position and daily office procedures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Language, Literature, Communication and Theater Arts / Social Science",
+            "school": "Eastern Michigan University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Certified in Early Childhood Education"
+    ],
+    "languages": []
+}

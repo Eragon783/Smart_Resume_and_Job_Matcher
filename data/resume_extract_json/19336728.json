@@ -1,0 +1,65 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "New graduate seeking work as a Counselor able to facilitate both individual and group therapy sessions to help participants overcome obstacles. Detail-oriented with superior interpersonal skills.",
+    "skills": [
+        "High energy",
+        "Sound judgment",
+        "Compassionate",
+        "Conflict resolution training",
+        "Exceptional problem solver",
+        "Excellent communication skills",
+        "Excellent writing skills",
+        "Customer service skills",
+        "Proficiency in Microsoft Excel",
+        "Proficiency in Microsoft Word",
+        "Proficiency in Microsoft PowerPoint",
+        "Internet"
+    ],
+    "experience": [
+        {
+            "title": "HR Assistant Intern",
+            "company": "Company Name",
+            "start_date": "February 2016",
+            "end_date": "March 2016",
+            "description": "Provide administrative support to the Human Resources Director. Verify I-9 documentation for new hires. Submit the online investigation requests and assists with new employee background checks. Update HR spreadsheet with employee change requests and process paperwork."
+        },
+        {
+            "title": "Owner, Operator",
+            "company": "Company Name",
+            "start_date": "August 2012",
+            "end_date": "Current",
+            "description": "Managed fashion retail store independently. Provided professional support to staff. Assisted retail store in exhibiting innovative products."
+        },
+        {
+            "title": "Preservation Technician I",
+            "company": "Company Name",
+            "start_date": "October 2004",
+            "end_date": "May 2013",
+            "description": "Responsible for the assembly of fabricated phase boxes, portfolios and custom enclosures for protecting historic and fragile library materials. Performed archival sound repairs for books and pamphlets which included: rebinding books in the original covers (recasing). Prepared and submitted books for additional processing at the bindery. Designed complex enclosures for special projects."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors of Art Organizational Leadership",
+            "school": "Cleveland State University",
+            "year": 2018
+        },
+        {
+            "degree": "Organizational Leadership Associate Degree",
+            "school": "Bryant & Stratton College",
+            "year": 2016
+        },
+        {
+            "degree": "EMT Certification",
+            "school": "Cuyahoga Community College",
+            "year": 2003
+        }
+    ],
+    "certifications": [
+        "EMT Certification"
+    ],
+    "languages": []
+}

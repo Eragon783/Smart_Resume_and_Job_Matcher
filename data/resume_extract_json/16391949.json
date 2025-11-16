@@ -1,0 +1,84 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State, USA",
+    "summary": "Responsible cashier with experience managing front-of-store needs in busy environments. Friendly and energetic with strong communication and organizational abilities. Seeks increased responsibility in service and sales. Resourceful professional with history of increasing business revenue and decreasing shrinkage while exceeding sales and productivity objectives.",
+    "skills": [
+        "Cash handling",
+        "Customer service",
+        "Excellent verbal communication",
+        "Active listening",
+        "Strong organizational skills",
+        "Inventory control familiarity",
+        "Fashion knowledge",
+        "Opening/closing procedures",
+        "Sales proficiency",
+        "Receive return merchandise",
+        "Enthusiasm",
+        "Cheerfulness",
+        "Efficiency",
+        "Professional appearance",
+        "Mathematical strengths",
+        "Strong public speaker",
+        "Multi-tasking"
+    ],
+    "experience": [
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "2011-08",
+            "end_date": "2014-12",
+            "description": "Receive payment by cash or credit cards. Issue receipts, refunds, credits, or change due to customers. Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and that there is adequate change. Cleaned and straightened work area. Assessed customer needs and responded to questions. Issued receipts for purchases and gifts. Worked with customer service to resolve issues. Rotated stock to maintain freshness. Operated cash register with proficiency. Worked overtime shifts during busy periods."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "2014-02",
+            "end_date": "2014-04",
+            "description": "Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and that there is adequate change. Greet customers entering establishments. Receive payment by cash, credit cards. Operated cash register with proficiency. Worked with customer service to resolve issues. Organized register supplies."
+        },
+        {
+            "title": "Front Desk",
+            "company": "Company Name",
+            "start_date": "2014-04",
+            "end_date": "2014-06",
+            "description": "Responsible for performing manicurist and pedicurist duties. Provided customer service support to assist customers with their individual needs. Worked with customer service to resolve issues. Issued receipts for purchases and gifts. Cleaned and straightened work area."
+        },
+        {
+            "title": "Apparel",
+            "company": "Company Name",
+            "start_date": "2014-12",
+            "end_date": "2015-07",
+            "description": "Described merchandise and explain operation of merchandise to customers. Maintained knowledge of current promotions, policies regarding payment and exchanges, and security practices. Placed special orders and called other stores to find desired items. Recommended merchandise based on customer needs. Operated a cash register to process cash, check and credit card transactions. Guided customers in choosing items that reflected personal style and shape. Administered all point of sale opening and closing procedures. Explained information about the quality, value and style of products to Influence customer buying decisions. Replenished floor stock and processed shipments to ensure product availability for customers."
+        },
+        {
+            "title": "Grocery",
+            "company": "Company Name",
+            "start_date": "2015-07",
+            "end_date": "2015-11",
+            "description": "Executed cash transactions quickly and accurately. Greeted all customers. Handled products and equipment in accordance with safety and sanitation guidelines. Directed and managed all functions of the dairy, frozen, produce and bakery departments. Conducted price checks for cashiers and service clerks. Built attractive holiday and seasonal displays for merchandising program. Checked out customers and bagged items quickly. Organized and positioned product cases in produce warehouse and walk-in cooler. Sliced, served and packaged specialty meats, salads and cheeses. Broke down heavy pallet loads of cases, boxes and bags. Arranged and stocked department displays. Emphasized fast, friendly customer service. Gave every customer immediate and undivided attention."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "2015-11",
+            "end_date": "Present",
+            "description": "Assessed customer needs and responded to questions. Cleaned and straightened work area. Issued receipts for purchases and gifts. Bagged merchandise by following standard procedures. Organized register supplies. Worked with customer service to resolve issues. Unboxed new merchandise. Worked overtime shifts during busy periods. Designed displays to make the store experience interactive and engaging. Displayed the appropriate signage for products and sales promotions. Arranged items in favorable positions and areas of the store for optimal sales."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Northeast High School",
+            "year": 2015
+        },
+        {
+            "degree": "Associate of Arts: Guidance",
+            "school": "Broward College",
+            "year": 2018
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

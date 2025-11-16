@@ -1,0 +1,74 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "+91 484 2514876",
+    "location": "Ernakulam District, Kerala, India",
+    "summary": "Experienced Construction Foreman with 8+ years overseeing multi-million dollar building construction and renovation projects. Proven ability to manage teams, budgets, and schedules, ensure regulatory compliance, and deliver quality outcomes.",
+    "skills": [
+        "Arabic",
+        "blueprints",
+        "budgeting",
+        "budgets",
+        "change management",
+        "interpersonal skills",
+        "contract negotiation",
+        "decision making",
+        "English",
+        "forklifts",
+        "Hindi",
+        "leadership",
+        "regulatory compliance",
+        "materials",
+        "problem solving",
+        "progress",
+        "protocols",
+        "quality",
+        "quality management",
+        "reading",
+        "scheduling",
+        "Urdu",
+        "Malayalam"
+    ],
+    "experience": [
+        {
+            "title": "Construction Foreman",
+            "company": "Company Name, City, State",
+            "start_date": "March 2009",
+            "end_date": "Current",
+            "description": "Develop construction crews for daily tasks; ensure all tasks comply with project protocols; coordinate construction projects in terms of supplies and resources; manage construction budgets; monitor daily construction operations for quality management and accuracy; track costs; perform performance inspections; carry out construction duties when the project calls for it; report progress and incidents to managers and customers; choose and acquire materials needed for construction projects; facilitated the speed of an urgent construction project by providing relevant resources and keeping quality in check; trained new hires in construction work protocols over three years."
+        },
+        {
+            "title": "Construction Worker",
+            "company": "Company Name, City, State",
+            "start_date": "February 2005",
+            "end_date": "March 2009",
+            "description": "Cleaned construction site as directed; used materials and equipment to dig and shovel debris; built construction sites using maps and blueprints; laid bricks and plastered cement as instructed; used forklifts to move equipment from one place to another."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "COMMUNITY SCHOOL",
+            "year": 2002
+        },
+        {
+            "degree": "I.T.C. Electrical Engineering",
+            "school": "KCM Industrial Training Centre, Koonamavu",
+            "year": 1982
+        },
+        {
+            "degree": "S.S.L.C.",
+            "school": "G.H.S. Kadungapuram",
+            "year": 1980
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Arabic",
+        "English",
+        "Hindi",
+        "Tamil",
+        "Urdu",
+        "Malayalam"
+    ]
+}

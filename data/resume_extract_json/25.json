@@ -1,0 +1,122 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Jerusalem, Israel",
+    "summary": "Have perfect communication skills, decent experience in mentorship and education. Amateur runner, has a certificate of first aid courses, good sense of humor.",
+    "skills": [
+        "C#",
+        ".NET Core",
+        "Web API",
+        "GraphQL",
+        "ASP.NET MVC",
+        "TypeScript",
+        "Angular 4+",
+        "RxJS",
+        "NgRx",
+        "NGXS",
+        "Bootstrap",
+        "Material",
+        "Node.js",
+        "Express",
+        "HTML",
+        "CSS",
+        "MS SQL",
+        "EF Core",
+        "Dapper",
+        "Redis",
+        "MongoDB",
+        "Database design",
+        "T-SQL",
+        "LINQ",
+        "MS Dynamics CRM",
+        "Microsoft Azure: AppService",
+        "Functions",
+        "Service Bus",
+        "Redis",
+        "Queues",
+        "Key Vault",
+        "Application Insights",
+        "Azure DevOps",
+        "AWS",
+        "DigitalOcean",
+        "Heroku",
+        "Auth0",
+        "PowerBI",
+        "SSRS",
+        "Git"
+    ],
+    "experience": [
+        {
+            "title": "Full Stack Engineer",
+            "company": "",
+            "start_date": "2022-04",
+            "end_date": "2022-07",
+            "description": "Designed and developed the educational application for the teachers and students using .NET Core, Angular 13, and MongoDB."
+        },
+        {
+            "title": ".NET Team/Tech Lead",
+            "company": "A-TeamGlobal",
+            "start_date": "2021-08",
+            "end_date": "2022-07",
+            "description": "Working as a team lead on a backend of mobile project related to European political parties, set up an working environment and proper SDLC, providing management and delivery consultations to company management, closely working with customers with working scope negotiations, considering human resources, participating in interviews."
+        },
+        {
+            "title": ".NET Team Lead",
+            "company": "WebLegends",
+            "start_date": "2020-04",
+            "end_date": "2021-08",
+            "description": "Leading software development of two projects simultaneously, making a decision about the technical stack and priorities, allocating human resources, communicating with stakeholders."
+        },
+        {
+            "title": "Bootcamp Manager/.NET Teacher",
+            "company": "",
+            "start_date": "2019-10",
+            "end_date": "2020-03",
+            "description": "Lecturing programming classes for several groups of students, managing another teaching members, creating workflow for final students project including creating project from scratch, setting up all the development and task tracking environments, supervising of creating specifications and prototypes for project, leading 15 trainee developers finishing MVP and making demo."
+        },
+        {
+            "title": ".NET Developer",
+            "company": "various companies",
+            "start_date": "2011-02",
+            "end_date": "2019-10",
+            "description": "Web development using ASP.NET MVC, Web API, JavaScript."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's degree",
+            "school": "Mykolaiv Building College",
+            "year": "2022"
+        },
+        {
+            "degree": "Ethereum Blockchain Developer Bootcamp With Software Engineering Solidity",
+            "school": "Udemy",
+            "year": "2021"
+        },
+        {
+            "degree": "Flashloans",
+            "school": "EatTheBlocks",
+            "year": "2014"
+        },
+        {
+            "degree": "ASP.NET MVC Advanced",
+            "school": "CyberBionic Systematics",
+            "year": "2014"
+        },
+        {
+            "degree": "C# for Professionals",
+            "school": "CyberBionic Systematics",
+            "year": "2013"
+        }
+    ],
+    "certifications": [
+        "First Aid Certificate"
+    ],
+    "languages": [
+        "Hebrew (professional proficiency)",
+        "English (professional proficiency)",
+        "Ukrainian (native)",
+        "Russian (native)"
+    ]
+}

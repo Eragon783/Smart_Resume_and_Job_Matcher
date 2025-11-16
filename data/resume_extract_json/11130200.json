@@ -1,0 +1,56 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Maryland / Washington, D.C., USA",
+    "summary": "Extremely motivated and dependable Laborer with years of extensive experience in general maintenance and construction tasks ranging from demolitions to site clearing and debris removal. Proven physical stamina with a demonstrated ability to work without supervision. A fun and friendly individual who enjoy working collaboratively.",
+    "skills": [
+        "Forklift operator",
+        "Hand trucks",
+        "Inventory",
+        "Machinery",
+        "Building Materials",
+        "Read and Interpret Drawings",
+        "Safety",
+        "Time Management"
+    ],
+    "experience": [
+        {
+            "title": "Mover",
+            "company": "Company Name",
+            "start_date": "2016-01",
+            "end_date": "Present",
+            "description": "Moved materials from warehouse to businesses or residential areas throughout Maryland and D.C.; loaded/unloaded trucks, vans, or automobiles; operated forklifts and hand trucks; installed protective bracing, padding and strapping to prevent shifting and damage; performed pre-trip checks and basic vehicle maintenance; maintained records of materials during transfers; adhered to OSHA standards; lifted 80-100 pounds as part of daily duties."
+        },
+        {
+            "title": "Warehouse Selector / Driver",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "2016-01",
+            "description": "Selected, loaded, moved, and unloaded wine supplies; operated forklift; maintained inventory; picked and filled orders; replenished supplies; coordinated with transporters and suppliers for dispatch and procurement; tracked delivery information, truck mileage, and fuel usage; transported product to liquor stores and vintners; ensured freshness and proper storage; performed warehouse maintenance."
+        },
+        {
+            "title": "Laborer",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2015-01",
+            "description": "Lifted heavy loads up to 70 lbs; dug pits, trenches, and foundations; operated heavy machinery; identified utility lines; performed setup and cleanup; directed traffic for safety; provided labor support for specialty crews; maintained construction equipment; assisted in building structures for residential, commercial, and construction sites; participated in demolitions; worked underground; removed trees and debris; serviced pumps, compressors, generators, tractors, and trailers; mixed concrete."
+        },
+        {
+            "title": "Fitness and Aqua Aerobics Instructor",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2013-01",
+            "description": "Explain and enforce safety rules and regulations governing sports and recreational activities; offer alternatives during classes to accommodate different fitness levels; teach breathing techniques; instruct participants in maintaining exertion levels to maximize benefits; teach and demonstrate use of gym equipment; evaluate individuals' abilities and develop suitable training programs; plan physical education programs to promote development of physical attributes and social skills."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Northern High School",
+            "year": 2000
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dedicated, creative, and highly-motivated communications & marketing professional with exceptional interpersonal skills and over seven years experience in the field. Adapts well to different environments and has the ability to learn new systems, quickly. Areas of expertise include Web and print content development and editing, social media content development and monitoring, brand management, and project management, among other skills.",
+    "skills": [
+        "Web content development",
+        "Print content development and editing",
+        "Social media content development and monitoring",
+        "Brand management",
+        "Project management",
+        "Adobe Creative Suite",
+        "Dreamweaver",
+        "FrontPage",
+        "Microsoft Office",
+        "Microsoft Outlook",
+        "Oracle Procurement",
+        "Joomla Content Management System",
+        "Kentico Content Management System"
+    ],
+    "experience": [
+        {
+            "title": "Social Media & Communications Manager",
+            "company": "Company Name",
+            "start_date": "07/2011",
+            "end_date": "Present",
+            "description": "Works with chief strategist, as well as on-site managers, to assess communications needs of non-profit organizations. Formulates communications plans and social media strategies tailored to client needs. Oversees the implementation of communications plans and social media strategies for local non-profit organizations. Attends local client events and works with on-site client managers, as well as content development managers, to do live social media posting from client, Agitate Media, and parent company (MAM Squared, LLC) accounts. Evaluates campaign results."
+        },
+        {
+            "title": "Community Outreach & Involvement Manager (Technical Community Manager)",
+            "company": "Company Name",
+            "start_date": "09/2012",
+            "end_date": "01/2015",
+            "description": "Wrote and edited content for company e-newsletters Developed and edited marketing/promotional material and presentation content for special projects and events Updated company website with relevant material using the Kentico content management system Managed social media campaigns to promote engagement amongst 43 technical groups on Facebook, LinkedIn, YouTube, and Twitter Worked collaboratively with IT and Web Department Directors to implement complex website changes and revisions Generated and analyzed monthly engagement data to recommend and implement necessary tactical revisions Served as liaison between membership and high level executive leaders Developed and managed strategic plans to increase engagement & membership within 43 scientific technical groups Managed logistics for special events and activities Managed budget and allocation of funding for special events and activities"
+        },
+        {
+            "title": "Marketing Coordinator",
+            "company": "Company Name",
+            "start_date": "10/2008",
+            "end_date": "09/2012",
+            "description": "Designed, laid out, wrote, and edited all messaging for company marketing material. Managed, maintained, and updated all content on company website. Implemented company website redesign, twice. Assisted Web vendors with SEO strategy implementation. Drove and monitored Web traffic using Google Analytics reports. Managed social media efforts on Facebook and Twitter. Developed fliers for events and programs. Managed, wrote, and edited monthly newsletters for staff, consumers, and board members. Worked with Community Outreach Department in providing media support. Assisted with the development and execution of communications and marketing plans. Organized, publicized, and coordinated staff presence at various internal and external events."
+        },
+        {
+            "title": "Youth Department Assistant",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "10/2008",
+            "description": "Wrote Web newsletter for an audience of more than 16,000 people, bi-weekly. Contributed and implemented creative ideas to revamp Web newsletter. Contributed articles to the Homefront Magazine printed publication. Edited Homefront Magazine adhering to AP Style rules. Processed payroll for nationwide camp staff. Updated Web content for nationwide camp website and company intranet using Dreamweaver. Responded to nationwide staff and general inquiries in a professional manner, daily. Reviewed, analyzed, and evaluated camp financial assistance applications and awarded funds appropriately. Monitored \"Planet D\" social media message board for children with Type 1 diabetes, daily."
+        },
+        {
+            "title": "Program Coordinator Intern",
+            "company": "Company Name",
+            "start_date": "05/2007",
+            "end_date": "08/2007",
+            "description": "Managed all aspects of program; ranging from public relations to budget development, and implementation. Created compelling marketing material to advertise program events. Developed and implemented program schedule, curriculum, and related events for teens ages 14-17 years old. Coordinated and supervised all program functions and special activities; scheduled speakers, tours, structured activities, and project work. Constructed annual summary and annual report for the Human Relations Department."
+        },
+        {
+            "title": "Public Relations Intern",
+            "company": "Company Name",
+            "start_date": "01/2007",
+            "end_date": "05/2007",
+            "description": "Served as a liaison with local press as YMCA representative at local events. Ensured press knew where to set-up at local YMCA events. Ensured press had all background information and material needed on YMCA at relevant local events. Assisted the Financial Development Department with the development of \"The Mayor's Challenge\" campaign, an initiative to fight obesity in Guilford County. Continual management of media relations for \"The Mayor's Challenge\" campaign, including PSA development and radio script writing. Performed copy editing on local YMCA website. Created fliers for various events."
+        },
+        {
+            "title": "Public Relations Intern",
+            "company": "Company Name",
+            "start_date": "01/2005",
+            "end_date": "05/2005",
+            "description": "Developed feature stories for Athletic Department's website. Regularly updated content on Athletic Department's website. Interviewed sports coaches and various sports team members for newsletter content. Wrote press releases, weekly."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration (MBA)",
+            "school": "University of Maryland University College",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Science in Journalism & Mass Communication (Public Relations)",
+            "school": "North Carolina Agricultural & Technical State University",
+            "year": 2007
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

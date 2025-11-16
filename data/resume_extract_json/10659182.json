@@ -1,0 +1,93 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A self-motivated, results-oriented, and resourceful professional focused on delivering compassionate patient experiences; accompanied by organizational, problem-solving, interpersonal, communications, and excellent customer service skills; and over 10 years in social services within the health care family and community. Proactive and adept at multitasking, with a commitment to advocating for happy, healthy, and balanced individuals and effective interaction.",
+    "skills": [
+        "adaptive equipment",
+        "administrative duties",
+        "appointment setting",
+        "agency",
+        "blood pressure",
+        "CNA",
+        "consultant",
+        "CPR (Certified)",
+        "First Aid",
+        "Home Care",
+        "team building",
+        "meal prep",
+        "Medical terminology",
+        "medication management",
+        "meetings",
+        "bathing",
+        "policies",
+        "quality",
+        "record keeping",
+        "recording",
+        "scheduling",
+        "supply inventory",
+        "teaching",
+        "phones",
+        "therapy",
+        "vision",
+        "wounds",
+        "written communication"
+    ],
+    "experience": [
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "Aug 2014",
+            "end_date": "Present",
+            "description": "Filled in for absent teachers in emergency and on short and medium term assignments. Followed teaching programs set by regular teachers and prepared outlines when necessary. Set and corrected homework assignments and projects. Fostered safe, positive and supportive learning environment. Ensured good order and behavior in and out of class. Respected confidentiality of information. Adhered to non-discriminatory policies and guidelines."
+        },
+        {
+            "title": "Event Planner",
+            "company": "Company Name",
+            "start_date": "Jun 2013",
+            "end_date": "Present",
+            "description": "Provide personal catering event services to Health Fairs, Senior Community Events, Hospital Events, and Health Care CEO's and Physicians. Act as menu consultant for all food and beverage selections. Arrange event décor. Oversee room set up, food preparation, and other venue operations. Act as on-site liaison between Your Way Catering and venue operations staff."
+        },
+        {
+            "title": "Medical Assistant/Hyperbaric Chamber Technician",
+            "company": "Company Name",
+            "start_date": "Apr 2011",
+            "end_date": "Mar 2013",
+            "description": "Responsible for recording patient vitals (temperature, pulse and respiration rates, and blood pressure) as well as patient examination room prep. Responsible for cleaning and dressing wounds. Responsible for explaining treatment procedures to patients. Accountable for collecting and preparing laboratory specimens. Responsible for regulating patient's oxygen levels during hyperbaric chamber therapy. Familiar with practices, standard concepts, and procedures. Acquainted with performing necessary maintenance to systems; and operating and monitoring hyperbaric chamber and other hyperbaric support systems. Responsible for using computerized applications for scheduling and various administrative duties."
+        },
+        {
+            "title": "Home Health Aide",
+            "company": "Company Name",
+            "start_date": "Sep 2004",
+            "end_date": "Jul 2009",
+            "description": "Assisted with resident bathing, grooming, meal prep, and medication management. Responsible for recording resident's vitals, i.e. temperature, pulse and respiration rates, and blood pressure. Assisted with residence adaptability/transference to wheelchair and adaptive equipment. Monitored, and reported abnormalities and/or deviations in resident's health stats. Provided safe and direct personal care to residents as defined in the Home Care Aide program. Fulfilled agency responsibilities by completing all required documents accurately and timely. Participated in all required agency meetings. Identified and reported process improvements opportunities within the home in order to enhance the quality of service provided."
+        },
+        {
+            "title": "Health Clerk",
+            "company": "Company Name",
+            "start_date": "Aug 2001",
+            "end_date": "Aug 2004",
+            "description": "Performed various administrative duties; and assisted in student registration. Responsible for record keeping, appointment setting, greetings, phones, and supply inventory. Responsible for application of first aid treatment (if required). Administered medications to students with mental disorders. Monitored treatments as well as compiled data, and maintained student documents. Conducted vision and hearing screenings. Interviewed parents for IEP meetings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Psychology, minor in Social Work",
+            "school": "Governor State University",
+            "year": "2012"
+        },
+        {
+            "degree": "Associate of Science in Psychology",
+            "school": "South Suburban College",
+            "year": "2004"
+        }
+    ],
+    "certifications": [
+        "CPR (Certified)",
+        "First Aid",
+        "CNA/HHA",
+        "Medical Assistant"
+    ],
+    "languages": []
+}

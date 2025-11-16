@@ -1,0 +1,57 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Successful Design Consultant with over 26 years of experience. Manages large-scale interior and exterior projects from low- to high-end residential homes. Capable Interior Designer equipped with a can-do attitude who leverages the valuable design insight gained from past creations. Enthusiastic and confident demeanor enables customers to feel at ease with the design process. Exhibits sophisticated taste and a unique design style. Highlights include concept development, space planning, color and material application, interior architectural detailing, and proficiency with furniture systems.",
+    "skills": [
+        "budgets",
+        "color",
+        "content",
+        "clients",
+        "direction",
+        "graphic",
+        "interior design",
+        "presentations",
+        "space planning",
+        "specification",
+        "vision"
+    ],
+    "experience": [
+        {
+            "title": "Interior Designer",
+            "company": "Company Name",
+            "start_date": "2007-07",
+            "end_date": "Present",
+            "description": "Worked with Dr Vettese for over 18 years. I have done over 9 homes in the US and Mexico. Produced content for material boards and specification binders for presentation and construction. Successfully assisted clients in choosing furnishings that were consistent with their preferences and budget. Developed interior design concepts and prepared interior systems and finishes. Reviewed project costs, budgets and adherence to schedules. Visited home sites when necessary to assess and fulfill customer needs. Ensured that the project vision and design intent were reflected."
+        },
+        {
+            "title": "Interior Designer",
+            "company": "Company Name",
+            "start_date": "2012-08",
+            "end_date": null,
+            "description": "Maintained accurate specifications for each project. Ensured that the project vision and design intent were reflected. Visited home sites when necessary to assess and fulfill customer needs."
+        },
+        {
+            "title": "International Representative",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "2013-07",
+            "description": "Introduced sustainable homes to third world countries. Trained in off-the-grid home construction. Created professional presentations to creatively communicate design intent and direction."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts in Arts",
+            "school": "Roosevelt University",
+            "year": "1987"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Calvin Coolidge High School",
+            "year": "1985"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

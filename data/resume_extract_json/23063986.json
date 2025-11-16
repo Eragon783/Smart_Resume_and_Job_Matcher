@@ -1,0 +1,92 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Professional Summary Experienced sales employee skilled in event planning, Microsoft Excel, customer Service, Microsoft Word, and Microsoft Office. Strong sales professional with a Bachelor's Degree focused in Recreation, Sport, and Tourism from University of Illinois at Urbana-Champaign with Dean's List and James Scholar recognition.",
+    "skills": [
+        "Excel (Intermediate)",
+        "Microsoft Word (Intermediate)",
+        "PowerPoint (Intermediate)",
+        "Data management",
+        "Team leadership",
+        "Self-motivated",
+        "Extremely organized",
+        "Staff development",
+        "Project management",
+        "Team liaison"
+    ],
+    "experience": [
+        {
+            "title": "Fitness Trainee/Recreation Management Intern",
+            "company": "Company Name",
+            "start_date": "January 2018",
+            "end_date": "Current",
+            "description": "Research and aid in planning exercises options for FitGames. Identify and create new business contacts. Update social media account with weekly posts. Implement new strategies approved by owner for business growth."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Company Name",
+            "start_date": "February 2017",
+            "end_date": "Current",
+            "description": "Code data from surveys onto Age Options database. Analyze the data to find any correlation among the survey responses. Create graphs and charts to display findings. Write research report on findings."
+        },
+        {
+            "title": "Student Lead Supervisor",
+            "company": "Company Name",
+            "start_date": "May 2017",
+            "end_date": "Current",
+            "description": "Create monthly schedules for 30 student employees. Create and assign daily tasks for student employees. Keep track of personnel during shifts. Record notes for weekly meeting."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "September 2017",
+            "end_date": "December 2017",
+            "description": "Research in cost-effective marketing strategies. Manage multiple social media accounts daily to increase brand awareness. Ran front desk and process membership payments."
+        },
+        {
+            "title": "Student Employee",
+            "company": "Company Name",
+            "start_date": "February 2016",
+            "end_date": "May 2017",
+            "description": "Operated cash register to process over 50 transactions by credit daily. Stocked and back stocked merchandise to maintain inventory orderly. Greeted customers and answer any questions in person or over the phone in order to provide excellent customer service."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Company Name",
+            "start_date": "October 2016",
+            "end_date": "May 2017",
+            "description": "Created a code book in order to ease the data entering process. Cleaned the data in order to create a hypothesis from the results found. Facilitated a group of four in conducting an external-internal (SWOT) analysis of the program. Present findings at annual Research Symposium."
+        },
+        {
+            "title": "Seasonal Sales Employee",
+            "company": "Company Name",
+            "start_date": "December 2014",
+            "end_date": "January 2016",
+            "description": "Provided quality customer service by responding to 15 customer needs and assist any questions or concerns daily. Conducted over 100 transactions by cash and credit daily. Issued government standard lotto transactions. Run cash file reports and make daily deposits of the store's profit in order to open and close store operations and registers."
+        },
+        {
+            "title": "Tutor",
+            "company": "Company Name",
+            "start_date": "September 2014",
+            "end_date": "December 2014",
+            "description": "Advised 30 elementary students to address math and readings concerns. Supervised 30-35 children between ages of 8-9 on group readings and math oriented activities. Motivated children to continue their education by providing positive comments on their progress. Personal Information Coordinated a group of 5 towards developing a family game night program for the families at Urbana Early Childhood School Created excel sheets to organize members' availabilities and keep track of resources needed for the program Direct 20 families through 5 activity stations and provide them with a meal in order to enrich their experience of the program."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science - Recreation, Sport, and Tourism",
+            "school": "University of Illinois at Champaign",
+            "year": 2018
+        }
+    ],
+    "certifications": [
+        "Dean's List",
+        "James Scholar",
+        "Certificate of Excellence"
+    ],
+    "languages": [
+        "Spanish (Basic/Polite)"
+    ]
+}

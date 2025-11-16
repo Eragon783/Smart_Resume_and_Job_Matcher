@@ -1,0 +1,71 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Enthusiastic Chemist eager to pursue a lasting career in the Agriculture industry. Detail-oriented Chemist with expertise in the instrumentation, physical and wet chemistry, and formulation as well as coordinating testing and development. Highlights HPLC GC FTIR Accomplishments UV-Vis Physical Chemistry techniques GMP/GCP Led the pre-formulation and formulation development of a topical cream and gel for psoriases which successfully entered clinical trials.",
+    "skills": [
+        "HPLC",
+        "GC",
+        "Physical Chemistry",
+        "UV/VIS"
+    ],
+    "experience": [
+        {
+            "title": "Quality Assurance Associate",
+            "company": "Company Name City, State",
+            "start_date": "2011-01",
+            "end_date": "Present",
+            "description": "Preparation, configuration, execution and authoring of reports for IQ, OQ and PQ protocols for Labware LIMS and Trackwise Systems Managed quality systems change control, site training, deviation and CAPA compliance programs for Eisai. Other responsibilities include: Administration and development in Trackwise, Plateau Learning Management System and Labware LIMS systems QA oversight on all validation activities for Plateau Learning Management System Deviation investigations, CAPA and SOP review for site engineering automation systems Developed and provided training on local and global change management, cGMP and deviation/CAPA compliance processes to site personnel Reviewed and approved Master Batch Records (MBRs) and Lot Packaging Records (LPRs) for commercial batch release. Work within QA audit department for regulatory site audits and assist in responding to regulatory inspection observations. Support the Clinical organization by providing oversight to the clinical lot record packaging, specifically, review and provide a disposition decision for packaged clinical trial material."
+        },
+        {
+            "title": "Senior Researcher Formulation",
+            "company": "Company Name City, State",
+            "start_date": "2005-01",
+            "end_date": "2011-01",
+            "description": "Lead formulation chemist in the design and execution of development programs to deliver specific topical and lyophilized product attributes. Designed studies to substantiate formulation excipient choice, use levels and desired product aesthetic attributes Responsible for preclinical and toxicology study drug product manufacture and testing Generated and interpreted study data to determine physicochemical stability Drug excipient compatibility studies and other relevant studies, including solubility/pH-solubility profiles, pKA, partition coefficient studies during formulation development process Communicated formulation development program status, goals and timelines to senior management by: Writing detailed technical reports on completed formulation development programs and periodic reports of on-going programs Performed a bi-monthly series of technical presentations to the product development group and regularly presented data at monthly local project team meetings Scale-up process development of cream formulation and lyophilized parental formulations. Assisted in the preparation of the Chemistry, Manufacturing & Control(CMC) sections of IND, ANDA and NDA submissions Evaluated clinical and scientific literature to identify potential product differentiators and new product opportunities Employed chromatography, spectroscopy and spectrophotometry techniques."
+        },
+        {
+            "title": "Quality Control Chemist",
+            "company": "Company Name City, State",
+            "start_date": "2003-01",
+            "end_date": "2005-01",
+            "description": "Responsible for performing dissolution testing, content uniformity, acid resistance and assay of solid oral dosage products in a cGMP environment Managed the stability program for all oral solid dose products Performed USP-NF Compendial testing to ensure raw material compliance utilizing analytical and wet chemistry techniques Investigated out of specification and out of trend data with appropriate CAPA. Authoring and technical review of analytical SOPs"
+        },
+        {
+            "title": "Quality Control / Analytical Chemist",
+            "company": "Company Name City, State",
+            "start_date": "2001-01",
+            "end_date": "2003-01",
+            "description": "Responsible for performing physical and chemical cGMP testing of ophthalmic formulations Responsible for performing physical and chemical cGMP testing of ophthalmic formulations Performed raw material, in process and finished product testing as well as method transfers to Quality Control Developed and validated stability indicating copendial and non-compendial analytical methods in accordance with ICH and FDA guidelines"
+        },
+        {
+            "title": "Chemist / Supervisor",
+            "company": "Company Name City, State",
+            "start_date": "1998-01",
+            "end_date": "2001-01",
+            "description": "Supervision of a busy contract laboratory Responsible for running, developing and validating methods for wet chemistry and ICP, AA and GFLAA instruments Responsible for preparation of reports and communication of results to customers"
+        },
+        {
+            "title": "Chemist",
+            "company": "Company Name City, State",
+            "start_date": "1995-01",
+            "end_date": "1997-01",
+            "description": "Performed toxicological screening and conformational studies using GC/MS on horse serum and urine for illegal or banned drugs and their metabolites Conducted both qualitative and quantitative analysis."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Chemistry",
+            "school": "University of North Carolina",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Science in Forensic Science",
+            "school": "Michigan State University",
+            "year": 1996
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

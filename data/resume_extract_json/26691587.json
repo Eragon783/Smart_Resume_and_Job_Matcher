@@ -1,0 +1,73 @@
+{
+    "name": "Grace Celsi",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Cheerful head hostess with 4 years of guest service experience, strong multitasking and team collaboration skills, proficient in merchandising, payments and cash handling, and previous nanny experience. Adept at prioritizing guest needs, upselling, maintaining clean dining areas, and supporting multiple departments in fast-paced environments.",
+    "skills": [
+        "Service prioritization",
+        "Guest service",
+        "Table Bussing",
+        "Effective customer upselling",
+        "Computer skills",
+        "Friendly, positive attitude",
+        "Work ethic",
+        "Reliable and trustworthy",
+        "Team management",
+        "Communication",
+        "People skills",
+        "Customer service",
+        "Basic math",
+        "High-volume dining",
+        "Relationship management",
+        "Child psychology knowledge",
+        "First aid and CPR certified",
+        "Analytical"
+    ],
+    "experience": [
+        {
+            "title": "Head Hostess",
+            "company": "Company Name | City , State",
+            "start_date": "03/2018",
+            "end_date": "Current",
+            "description": "Handled guest complaints and promoted positive dining experience for all restaurant customers by maintaining pleasant attitude in all situations. Answered customers' questions about hours, seating, current wait time and other information. Consistently received positive feedback from guests and created repeat business by developing long-term relationships with customers. Accommodated guests with children and special needs to promote comfortable dining experience."
+        },
+        {
+            "title": "Apparel Team Lead",
+            "company": "Company Name | City , State",
+            "start_date": "03/2019",
+            "end_date": "10/2020",
+            "description": "Recommended merchandise to customers based on needs and preferences. Observed customer behaviors to identify security threats and escalate concerns to supervisors. Maintained visually appealing and effective displays for entire store to drive sustained revenue and move target products. Helped customers sign up for loyalty programs and submitted completed paperwork. Used register system to ring up customer purchases, process payments and issue receipts. Met or exceeded upselling, donation and credit card sign-up targets on consistent basis by leveraging excellent communication and interpersonal strengths. Performed floor moves, merchandising, display maintenance and housekeeping to keep sales areas well-stocked, organized and current."
+        },
+        {
+            "title": "Waitress",
+            "company": "Company Name | City , State",
+            "start_date": "01/2017",
+            "end_date": "08/2020",
+            "description": "Cleared table and bussed dishes to allow for quick setups. Stocked server areas with supplies before, during and after shifts. Maintained accuracy while handling payments, giving change and printing receipts to customers. Resolved customer concerns with friendly and knowledgeable service. Welcomed guests with personable attitude and brought beverage orders while reviewing menu options. Developed strong and lasting resident relationships."
+        },
+        {
+            "title": "Private Nanny",
+            "company": "Company Name | City , State",
+            "start_date": "01/2016",
+            "end_date": "01/2020",
+            "description": "Performed light housekeeping duties, such as preparing nutritious meals, cleaning laundry, tidying bedrooms, dusting and sanitizing play areas. Engaged with children to create nurturing, safe environments to promote emotional, social and intellectual growth. Prepared snacks and meals, scheduled and coordinated projects and reinforced appropriate discipline for children according to parents' specifications. Aided with bathing, dressing, teeth brushing and diapering to promote healthy personal hygiene and good oral health. Kept parents' contact information, emergency services phone number and child's health history on hand in case of emergency situations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Some College (No Degree)",
+            "school": "Wayne County Community College District",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Riverview Community High School",
+            "year": "2022"
+        }
+    ],
+    "certifications": [
+        "Certified in CPR"
+    ],
+    "languages": []
+}

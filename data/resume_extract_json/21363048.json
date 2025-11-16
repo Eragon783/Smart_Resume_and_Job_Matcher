@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Mechanical Engineer with an MBA and General Contractor's license, over 15 years of experience in facilities design, construction, and maintenance for high-end residential and commercial projects. Proven leadership in attraction design, budgeting, A&E design, energy management, and delivering multi-location openings. Strong ability to coordinate with Boards, executives, city officials, and cross-functional teams to turn vision into built environments.",
+    "skills": [
+        "Academically Educated",
+        "Commercial Renovations",
+        "Residential Builds",
+        "Building Additions",
+        "Experienced Cost Estimator",
+        "Commercial Builds"
+    ],
+    "experience": [
+        {
+            "title": "Director of Facilities and Construction",
+            "company": null,
+            "start_date": "2012-02",
+            "end_date": "2014-04",
+            "description": "Led facilities team, site development, and new location selection; coordinated architects and engineers on innovative restaurant designs; managed new store construction and openings; implemented energy management programs saving 23% of prior electricity usage with ROI in ~8 months; deployed preventative maintenance for critical equipment; directed renovations to enhance offerings and guest experience; established asset-based work order system for lifecycle cost tracking."
+        },
+        {
+            "title": "Project Manager/Construction Engineer/Co-Owner",
+            "company": null,
+            "start_date": "2006-06",
+            "end_date": "Present",
+            "description": "Provided construction engineering consulting, project management, and general contracting for public and private sectors. Services included design-build; handled church gymnasiums, high-end residential, sports facilities, multi-tenant and single-family home projects; oversaw restaurant additions/renovations, public works facilities, and infrastructure projects (water/wastewater, force mains, lift stations, ponds, stormwater). Notable projects include Smokey Bones Restaurants, City Hall in West Melbourne, Altamont Springs Public Annex, and energy-efficient multi-chiller/ice plant installations."
+        },
+        {
+            "title": "General Manager Southeast Operations",
+            "company": null,
+            "start_date": "2004-07",
+            "end_date": "2006-06",
+            "description": "Led the Southeast Division of Production Resource Group (PRG), a premier entertainment technology provider for large-scale events (e.g., Super Bowl, Grammys, MTV awards). Managed construction of scenic venues including Disney projects (Parade enhancements, castle shows) and other major shows such as Nickelodeon and Paramount Parks productions."
+        },
+        {
+            "title": "Manager, Facilities Engineering",
+            "company": null,
+            "start_date": "1999-03",
+            "end_date": "2004-07",
+            "description": "Directed the Engineering Services Department (100+ staff) at Walt Disney World – Magic Kingdom. Managed maintenance strategies (preventive, predictive, day-to-day), budget of $16M, A&E resources, and outsourced design/engineering. Recruited and managed contractors; rotational park duty manager; led major projects including Space Mountain upgrade, Fantasyland and Big Thunder Mountain rehab, Pirates of the Caribbean rehab, and numerous refurbishments to improve guest experience."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration (MBA)",
+            "school": "University of Florida",
+            "year": 2004
+        },
+        {
+            "degree": "Mechanical Engineering",
+            "school": "California Polytechnic State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "General Contractor License",
+        "Certified Underground Utility License",
+        "Excavation Contractor",
+        "CUC Advanced MOT (Traffic Management for road work)",
+        "Certified OSHA Safety Rep.",
+        "Confined Space Certification (Lift Station work)"
+    ],
+    "languages": []
+}

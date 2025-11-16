@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Petroleum Engineering graduate and Military Veteran seeking a full-time position in an organization that will allow for professional growth, a long career, and meaningful employment. Over 4 years of operations and management experience and 6 months of Engineering Internship experience working on multi-million dollar projects. Highly-motivated and quick learner. Can perform in fast-paced environments, make sound decisions, and direct and provide personnel with technical guidance. Embraces new challenges.",
+    "skills": [
+        "administrative",
+        "cash receipts",
+        "customer service",
+        "directing",
+        "instruction",
+        "inventory",
+        "leadership",
+        "logistics",
+        "machinery",
+        "marketing",
+        "mentoring",
+        "natural gas",
+        "organizing",
+        "personnel",
+        "police",
+        "progress",
+        "promotion",
+        "proposals",
+        "quality",
+        "quality control",
+        "reading",
+        "reconciling",
+        "risk management",
+        "safety",
+        "sales",
+        "supervisory",
+        "supervision"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Intern",
+            "company": "Company Name City , State",
+            "start_date": "06/2015",
+            "end_date": "08/2015",
+            "description": "Reviewed project instructions and specifications to identify, modify and plan requirements. Used software applications to simulate working conditions of units and components in order to investigate proposals for improving equipment performance. Conferred with technicians, submitted reports to engineering department staff, and recommended design changes. Obtained specified equipment performance by calculating required capacities of proposed systems. Analyzed equipment performance by reading dials and meters which measure temperature, pressure, volumetric output and input at operating conditions. Developed safety and operating procedures to be employed by workers who operate pipeline equipment. Developed total utilization tool for all natural gas compressors maintained by the company. Developed blow-down sizing tool and purge-time tool for various pipe configurations to be used in pipeline operations."
+        },
+        {
+            "title": "Field Engineering Intern",
+            "company": "Company Name City , State",
+            "start_date": "06/2014",
+            "end_date": "08/2014",
+            "description": "Prepared production progress reports for management. Scheduled the project in logical steps and budgeted time required to meet deadlines. Conferred with supervisory personnel, owners, contractors, and design professionals to discuss and resolve matters such as work procedures, complaints, and construction problems. Directed and supervised workers by planning, organizing, and directing activities concerned with the construction of systems. Operated and maintained personal protective equipment. Verified that safety equipment was available to employees, and monitored the use of equipment. Inspected facilities, machinery, and safety equipment to identify and correct potential hazards."
+        },
+        {
+            "title": "Assistant Service Manager",
+            "company": "Company Name City , State",
+            "start_date": "09/2011",
+            "end_date": "01/2012",
+            "description": "Provided customer service by greeting and assisting customers and responding to customer inquiries. Supervised employees who were engaging in sales, inventory-taking, reconciling cash receipts, and performing services for customers. Monitored sales activities to ensure that customers received satisfactory service and quality goods. Instructed staff on how to handle difficult and complicated sales. Examined merchandise to ensure correct prices are displayed and that the product functioned as advertised. Authorized payments and merchandise returns when problems arised. Performed work activities of subordinates such as cleaning shelves and organizing displays. Trained and evaluated personnel in sales and marketing skills, while recommending employees for promotion or termination when appropriate. Prepared work schedules and kept records of employees' schedules and time cards."
+        },
+        {
+            "title": "Non-Commissioned Officer",
+            "company": "Company Name City , State",
+            "start_date": "09/2006",
+            "end_date": "10/2010",
+            "description": "Provided leadership, instruction, training, supervision, and mentoring to a team of 4 to 30 members. Ensured team readiness through quality control of equipment, risk management assessment, and constant updated training. Monitored execution of operations involving security, safety, logistics, communication, equipment and personnel tracking. Performed log keeping of significant events regarding security, safety, operations, communications, and reported to higher level of management when necessary. Oversaw area of operations by communicating with incoming units, relaying pertinent information, and tracking their progress. Supervised the administrative operations of a fledgling foreign police force, and provided operational and technical guidance. Developed into a qualified leader who trained and directed teams while coordinating with supporting units."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : Petroleum Engineering",
+            "school": "Louisiana State University",
+            "year": "2016"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

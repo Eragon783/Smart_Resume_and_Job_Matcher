@@ -1,0 +1,73 @@
+{
+    "name": "William Hale",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Over nineteen years of experience in Information Technology. Information Technology professional with well-developed interpersonal, communication, organizational and presentation skills. Solutions-focused, team oriented Senior Technical Support Analyst with broad-based experience and hands-on skills in the successful implementation of highly effective desktop support operations. A broad understanding of computer hardware and software, including installation, configuration, management, trouble-shooting, and support. Extensive experience with HP products to include Desktop, Laptop, high-end MFP devices and Web JetAdmin. Areas of direct expertise include Project Coordination & Design, In-depth Technical Support, Corporate Desktop Support, Microsoft OS experience including installations-configuration-imaging, migration, and registry editing. Network and Citrix experience.",
+    "skills": [
+        "Security+",
+        "Customer Service",
+        "Networking",
+        "Internet Explorer",
+        "Symantec Antivirus",
+        "Windows 7",
+        "Series 7",
+        "XP",
+        "DOS",
+        "Windows 8.1",
+        "Mac OS",
+        "iPhone",
+        "iPad",
+        "User Interface Writing",
+        "Troubleshooting",
+        "IT Operations"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Certified Technician",
+            "company": "Current Company Name",
+            "start_date": "2010-03",
+            "end_date": "Present",
+            "description": "Desktop support, software/hardware installations and configurations for Manhattan area."
+        },
+        {
+            "title": "Senior Technical Support Technician",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2011-01",
+            "description": "Senior Desktop Support Analyst responsible for software & hardware assets for company. Dedicated technician to 500+ end users. Senior Technician for SAP Project 2006-2010."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MCSE, CNA, A+, CNA, Information Technology",
+            "school": "Computer Career College",
+            "year": 2017
+        },
+        {
+            "degree": "Computer and Information Systems Security / Information Assurance",
+            "school": "City University of New York",
+            "year": null
+        },
+        {
+            "degree": "Finance",
+            "school": "Rollins College",
+            "year": 1987
+        }
+    ],
+    "certifications": [
+        "MCSE",
+        "MCP",
+        "CNA",
+        "CompTIA A+",
+        "A+ Network",
+        "A+ Security",
+        "HIPAA",
+        "Series 7",
+        "Series 63",
+        "Series 24",
+        "Microsoft",
+        "Novell"
+    ],
+    "languages": []
+}

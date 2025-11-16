@@ -1,0 +1,70 @@
+{
+    "name": "Sumankumari",
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Human Resource Professional with over 4 years of experience in Recruitment, Organization Development, Time Management, Training & Development, Performance Management, Employee Engagement, TPM & Audit. Former Assistant Manager - HR (Generalist) with VARROC POLYMERS PVT. LTD, involved in SAP, audits, and HR operations. Proficient in recruitment, training design and delivery, employee engagement, and HR administration with strong communication and analytical skills; quick learner and a mentor capable of implementing processes and driving improvements.",
+    "skills": [
+        "SAP R/3 4.7",
+        "MS Office (Word, Excel, PowerPoint, Outlook, Internet Applications)",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Windows OS",
+        "Recruitment",
+        "Organization Management",
+        "Time Management",
+        "Payroll",
+        "Benefits",
+        "Personal Administration",
+        "Training and Development",
+        "ESS",
+        "Performance Appraisal",
+        "TPM",
+        "Audit",
+        "SAP-HR"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Manager - HR (Generalist)",
+            "company": "VARROC POLYMERS PVT. LTD",
+            "start_date": "2012-09",
+            "end_date": "2013-08",
+            "description": "Defined the Enterprise Structure, Personnel Structure and Pay Scale Structure; linked Pay Scale with Enterprise Structures. Configured user parameters, number range intervals for personnel numbers, and personal data. Customized settings for Personnel Administration and personnel actions. Assigned Personnel Area to Company Code; performed hiring, organizational reassignment, pay changes, and terminations. Executed PA30, PA40, PA10, PA20; managed recruitment and selection life cycle; induction of new joiners; prepared Job Descriptions and Roles & Responsibilities. Led Training & Development initiatives including competency model deployment, training need identification, and calendar. Managed Training budgets, internal/external programs, assessments, and evaluation tools. Led Employee Engagement activities; supported Performance Management processes; acted as TPM ET-Pillar Head for Education & Training. Participated in statutory compliance, grievances, audits (ISO/TS 16949:2009, EMS-OHSAS, TPM), and administrative duties."
+        },
+        {
+            "title": "Assistant Manager - HR",
+            "company": "",
+            "start_date": "2010-07",
+            "end_date": "2011-07",
+            "description": "Maintained HR database and generated management reports. Managed organizational structures in SAP, provided support to HR Business Partners and senior managers, and tracked attendance/leave in SAP. Handled full life cycle of Recruitment and Onboarding. Prepared and updated Organizational charts, headcount, and requirement reports. Drafted Job Descriptions and Roles & Responsibilities. Managed Training & Development systems, including competency mapping, training calendars, scheduling, and budgets. Coordinated Employee Engagement activities and Performance Appraisal processes; ensured timely delivery of appraisal/promotion letters. Assisted mid-year and annual reviews."
+        },
+        {
+            "title": "Assistant Manager - HR",
+            "company": "",
+            "start_date": "2008-05",
+            "end_date": "2010-05",
+            "description": "Oversaw recruitment process, sourcing suitable profiles, interviewing candidates, and assessing fit. Coordinated with clients to confirm profile suitability and scheduling of interviews through final selection. Maintained records and relationships with clients to ensure best-fit hires; handled recruitment inquiries and operational HR activities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Education (B.Ed)",
+            "school": "Magadh University",
+            "year": "2014-2015"
+        },
+        {
+            "degree": "MBA",
+            "school": "Xavier Institute of Social Service",
+            "year": "2006-2008"
+        },
+        {
+            "degree": "Bachelor of Science (B.Sc) - Biotechnology",
+            "school": "Ranchi University",
+            "year": "2002-2005"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

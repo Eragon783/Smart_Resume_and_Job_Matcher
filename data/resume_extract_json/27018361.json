@@ -1,0 +1,83 @@
+{
+    "name": "T. Catherine Mercy",
+    "email": null,
+    "phone": null,
+    "location": "Chennai, Tamil Nadu, India",
+    "summary": "Experienced finance professional with 9 years in BPO finance, strong analytical and communication skills, seeking to contribute financial expertise and leadership to drive business success.",
+    "skills": [
+        "account reconciliation",
+        "accounting",
+        "accounts payable (AP)",
+        "balance",
+        "balance sheet",
+        "Tally Accounting Package 6.3 & 7.2",
+        "financial accounting",
+        "internal audit",
+        "legal",
+        "people management",
+        "Windows",
+        "operating system",
+        "negotiation",
+        "process improvement",
+        "quality",
+        "quick learner",
+        "reporting",
+        "sales",
+        "scheduling",
+        "Siemens",
+        "tax",
+        "Lean Training"
+    ],
+    "experience": [
+        {
+            "title": "Finance Analyst",
+            "company": "Not specified",
+            "start_date": "January 2009",
+            "end_date": "May 2016",
+            "description": "Coordinated with onshore business to review AUC balances and update WBSE status; scheduled monthly calls with onshore teams and Finance/Business leads; led team meetings; served as single point of contact for ad hoc requests and statutory reporting; contributed to Capex/Asset capitalization and close processes, including audit responses and internal control activities."
+        },
+        {
+            "title": "Process Associate",
+            "company": "Home Depot",
+            "start_date": "June 2007",
+            "end_date": "January 2009",
+            "description": "Handled asset capitalization, transfer, disposal, cost adjustment and CIP account reconciliation; performed asset depreciation; managed AP payments and corresponding JEs; verified backup records; reclassified assets as expenses when required; managed inter-branch asset transfers and disposals; performed depreciation reconciliation; recognized as top performer with multiple client awards."
+        },
+        {
+            "title": "Process Associate",
+            "company": "Not specified",
+            "start_date": "April 2006",
+            "end_date": "May 2007",
+            "description": "Involved in MI consolidation and MI audit; resolved queries; cross-skilled across processes; trained new team members; completed Lean Training; achieved high-quality output and productivity; involved in knowledge sharing and process improvement initiatives."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.L.I.S",
+            "school": "Madras University",
+            "year": 2006
+        },
+        {
+            "degree": "B.Com",
+            "school": "Madras University",
+            "year": 2005
+        },
+        {
+            "degree": "Higher Secondary",
+            "school": "St. John Higher Secondary School",
+            "year": 2002
+        },
+        {
+            "degree": "Secondary School Leaving Certificate",
+            "school": "St. John Higher Secondary School",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        "Lean Training"
+    ],
+    "languages": [
+        "Tamil",
+        "English"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Zagazig, Egypt",
+    "summary": "Mechanical engineer with more than 7 years' experience in construction field of EPC Oil & Gas industries onshore and offshore projects including structural, process piping, underground piping system, flow lines, transmission pipelines, pressure vessels, storage tanks and static/rotating equipment.",
+    "skills": [
+        "AutoCAD",
+        "Solid Works",
+        "Visio",
+        "Project Management",
+        "Microsoft PowerPoint",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "System Facility and Plant Modifications",
+        "Material Handling",
+        "Pump and Piping Systems",
+        "ASME",
+        "Technical Writing",
+        "Time Management",
+        "HSE Awareness",
+        "Welding",
+        "Inspection",
+        "Quality Control",
+        "Fabrication",
+        "Pre-commissioning",
+        "Commissioning",
+        "Hydro Testing",
+        "NDT",
+        "Field Change Proposals (FCP)"
+    ],
+    "experience": [
+        {
+            "title": "Senior Construction Piping Engineer",
+            "company": "Unknown",
+            "start_date": "2013-11",
+            "end_date": "Present",
+            "description": "Installation of equipment including slug catcher, high-pressure scrubber, knockout drum, 16 inch Metering Gas Skid and oily water treatment unit with tie-in to new piping network. Construction of oil and gas pipelines (16 inch x 30 km oil line; 16 inch x 18 km gas line). Fabrication of oil and firefighting tanks (500 m3). Oil, gas and firefighting piping network around GOSP. Plant commissioning and startup. Offshore activities: platform A/B works with carbon steel transmission lines (24 inch, 8 inch, 4 inch x 17 km), deck extensions (110 ton), well head hookup piping, multiple deck extensions with marine rigs, replacement of pipelines and valves at platform AMAL-A, installation of conductors and piles, and related erection work."
+        },
+        {
+            "title": "Construction Piping Engineer",
+            "company": "BADR Petroleum Company and SHELL",
+            "start_date": "2009-06",
+            "end_date": "2013-11",
+            "description": "Replacement of old 2 regeneration columns (34 m height, 80 tons). Tie-in piping network for pre-compression plant to support a rectification project replacing over 500 valves and implementing ~50 plant modifications (FCP). Fabrication and installation of new metering. Recycle compressors A&B (FCP-239) — changing first and second stages from carbon steel to duplex; hydro test. Construction of several carbon steel transmission pipelines including trenching, stringing, welding, coating, lowering, sand-bedding, back filling; wellhead hookup piping (duplex), hydro test, cable tray and electrical & instrument works for 10 wellheads. Supervisor for grit blasting & painting of OBAIYED south F/L (carbon steel 10650 m/l) with epoxy HR coating. Construction and installation of a new water treatment project."
+        },
+        {
+            "title": "Constructions / Piping Engineer",
+            "company": "Unknown",
+            "start_date": "2011-07",
+            "end_date": "2011-09",
+            "description": "Erection and installation procedure for the ultrasonic flow metering system. Remove/dismantle and install metering skid with valves. Remove/dismantle and install old cable & control house and sampler. Connect all instrument cables to metering house and junction box. Pre-commissioning and commissioning service."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Mechanical Engineering",
+            "school": null,
+            "year": 2009
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

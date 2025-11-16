@@ -1,0 +1,80 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Financial professional who is a self-starter and capable of effectively functioning with minimum supervision. Known for taking initiative and skilled at meeting challenges and deadlines. A team player who is attentive to detail and produces quality results. Computer proficient. Areas of expertise include: Analysis Accounts Payable/Payroll Microsoft Office Written and Verbal Communications Detail Oriented Multi Tasking Organization/Prioritizing Data Entry Highlights Strategic and financial planning expert Process implementation Staff leadership and development Strength in financial planning Account reconciliations Customer relations Word PowerPoint Access Excel Microsoft Office Facebook Twitter Accomplishments Provided suggestions and helped to develop a formal plan for the reconstruction of a local Bloomington restaurant.",
+    "skills": [
+        "Analysis",
+        "Accounts Payable/Payroll",
+        "Microsoft Office",
+        "Written and Verbal Communications",
+        "Detail Oriented",
+        "Multi Tasking",
+        "Organization/Prioritizing",
+        "Data Entry",
+        "Strategic and financial planning",
+        "Process implementation",
+        "Staff leadership and development",
+        "Financial planning",
+        "Account reconciliations",
+        "Customer relations",
+        "Word",
+        "PowerPoint",
+        "Access",
+        "Excel",
+        "Facebook",
+        "Twitter",
+        "Chinese",
+        "Conferences",
+        "Clients",
+        "English",
+        "Meetings",
+        "Business Presentations",
+        "Progress",
+        "Quality",
+        "Strategy"
+    ],
+    "experience": [
+        {
+            "title": "Court Appointed Special Advocate",
+            "company": "Company Name",
+            "start_date": "January 2015",
+            "end_date": "Present",
+            "description": "Reviewed documents and records, interviewed the children, family members and professionals in their lives. Provided written reports at court hearings. Advocated for the child's best interests and provided testimony when necessary. Helped the child understand the court proceedings. Ensured that the children and their family are receiving appropriate services and advocated for those that are not immediately available. Bring concerns about the child's health, education, mental health, etc. to the appropriate professionals. Monitored case plans and court orders, Checked to see that plans are being followed and mandated review hearings are being held. Updated the court on developments with agencies and family members. Ensured that appropriate motions are filed on behalf of the child so the court knows about any changes in the child's situation."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "May 2014",
+            "end_date": "August 2014",
+            "description": "Computed and recorded totals of transactions. Issued receipts, refunds, credits, or change due to customers. Resolved customer complaints. Calculated total payments received during a time period, and reconciled this with total sales. Answered customers' questions, and provided information on procedures or policies. Compiled and maintained non-monetary reports and records. Kept periodic balance sheets of amounts and numbers of transactions."
+        },
+        {
+            "title": "Event Planner",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "May 2012",
+            "description": "Collaborated with diverse faculties and students to prepare annually parties, and organize holiday travel, and athletic game. Created executive analysis reports highlighting business issues, potential risks and profit opportunities. Assigned diverse talented team member different missions and gave feedback on work process to the manager. Negotiated and reviewed business contracts and financial models with profitability and financial success in mind."
+        },
+        {
+            "title": "Manager Assistant",
+            "company": "Company Name",
+            "start_date": "August 2008",
+            "end_date": "October 2009",
+            "description": "Facilitated and planned all conferences, meetings and presentations for the manager. Assigned team members to different projects to improve the quality of public areas. Communicated with local residents on mission of the committee and provided these comments to the manager in order to improve neighborhood strategy. Designed questionnaire to collect feedback from our clients and developed a plan to solve the issue. Tracked progress of committee members and reported to the manager. Attended weekly trainings provided by the committee. Researched market trends and surveys and used information to stimulate business and revenue growth."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Public Financial Management; Mathematics",
+            "school": "Indiana University Bloomington",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Chinese"
+    ]
+}

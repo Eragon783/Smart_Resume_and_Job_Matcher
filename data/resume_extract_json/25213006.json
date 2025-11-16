@@ -1,0 +1,87 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Professional, dedicated hard worker with over 10 years of customer service experience. Self-motivated inside sales representative with excellent verbal and written communication skills and strong computer and CRM experience. Customer service professional dedicated to effective team management and customer satisfaction. Management professional effective at building highly-motivated teams as well as leading cross functional teams in a fast-paced environment. Enthusiastic, resourceful high school graduate with academic and professional background. Ability to establish priorities and meet challenges head-on. Strong project management skills. Organized, independent worker with strong time-management skills.",
+    "skills": [
+        "Adobe Proficient",
+        "Windows XP Proficiency",
+        "Windows 7 Proficiency",
+        "MS Office Proficiency",
+        "Inventory control procedures",
+        "Employee scheduling",
+        "Cash handling accuracy",
+        "CRM Expertise",
+        "Dealersocket Proficiency",
+        "Excellent multitasking",
+        "Time management"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "June 2015",
+            "end_date": "September 2015",
+            "description": "Help customers select products that best fit their needs. Complete customer orders professionally and on time. Advise customers of services and product of the month. Inform customer of knowledge on Survey and Pack Plus services. Pack and ship customer packages."
+        },
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "February 2015",
+            "end_date": "June 2015",
+            "description": "Maintained accuracy in calculation discounts, interest and commissions. Assist customers in finding vehicle which fits their needs and wants. Inform customer of all features on vehicles, and different trim levels. Contacted customer per internet request to make appointments and bring them in. Advise customer of all warranty and service information."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name",
+            "start_date": "February 2012",
+            "end_date": "January 2015",
+            "description": "Composed effective accounting reports summarizing accounts payable data. Balanced monthly general ledger accounts to accurately record cost and month end accruals. Created daily and weekly cash reports for accounting management. Supervised invoice processing, purchase orders, expense reports, credit memos and payment transactions. Supervised employees with following company polices. Hired and terminated employees."
+        },
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "March 2011",
+            "end_date": "September 2011",
+            "description": "Identified and qualified customer needs, developed sales strategies and negotiated and closed profitable sales with an 85% success rate. Consistently hit and exceeded sales goals by 20%. Assisted Customers in purchasing a vehicle, to fit all needs, at affordable rates."
+        },
+        {
+            "title": "Customer Service Rep",
+            "company": "Company Name",
+            "start_date": "April 2010",
+            "end_date": "February 2011",
+            "description": "Effectively managed a high-volume of inbound and outbound customer calls. Addressed and resolved customer product complaints empathetically and professionally. Defused volatile customer situations calmly and courteously. Managed customer calls effectively and efficiently in a complex, fast-paced and challenging call center environment. Identified chronic customer issues by creating and maintaining customer complaint log. Resolved service, pricing and technical problems for customers by asking clear and specific questions."
+        },
+        {
+            "title": "Customer Service Rep",
+            "company": "Company Name",
+            "start_date": "March 2008",
+            "end_date": "May 2009",
+            "description": "Effectively managed high-volume of inbound and outbound customer calls. Addressed and resolved customer product complaints empathetically and professionally. Gathered and verified all required customer information for tracking purposes. Defused customer situations calmly and courteously. Identified chronic customer issues by creating and maintaining customer complaint log."
+        },
+        {
+            "title": "Price Team Specialist",
+            "company": "Company Name",
+            "start_date": "April 2007",
+            "end_date": "March 2008",
+            "description": "Resolved all customer complaints in a professional manner while prioritizing customer satisfaction. Priced merchandise, stocked shelves and took inventory of supplies, cashier. Handled all customer relations issues in a gracious manner and in accordance with company policies. Determined customer needs by asking relevant questions and listening actively to the responses."
+        },
+        {
+            "title": "Swing Manager",
+            "company": "Company Name",
+            "start_date": "August 2005",
+            "end_date": "April 2007",
+            "description": "Interviewed job candidates and made staffing decisions. Verified cash drawers and made bank deposits. Assigned employees to specific duties to best meet the needs of the store. Reordered inventory when it dropped below predetermined levels. Instructed staff on appropriately handling difficult and complicated sales. Hired, trained and evaluated personnel in sales and marketing. Examined merchandise to verify that it was correctly priced and displayed. Planned budgets and authorized payments and merchandise returns. Reported to the district manager regarding all store and staff issues."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Pine Ridge High School",
+            "year": "2005"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

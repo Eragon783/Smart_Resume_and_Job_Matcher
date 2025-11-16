@@ -1,0 +1,76 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Executive profile highlighting exceptional verbal and written communication, leadership in diversity and inclusion initiatives, and experience implementing organization-wide changes to promote inclusion, with a focus on aligning communications with strategic goals.",
+    "skills": [
+        "conflict resolution",
+        "council",
+        "counseling",
+        "creativity",
+        "customer service",
+        "drafting",
+        "human resources",
+        "leadership",
+        "legal",
+        "mail",
+        "newsletters",
+        "organizational",
+        "personnel",
+        "presentations",
+        "presentation skills",
+        "promotional materials",
+        "proofreading",
+        "public relations",
+        "public speaking",
+        "speaking",
+        "quality",
+        "radio",
+        "television",
+        "unique",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Intern, Claim Representative, Human Resources Generalist, Public Affairs Liaison Superintendent",
+            "company": "State Farm",
+            "start_date": "05/1988",
+            "end_date": "Current",
+            "description": "Claim Section Manager at the Kalamazoo Operations Center. Responsibilities include developing goals, strategies and action plans that encourage unsurpassed customer service, while focusing on employee satisfaction and retention levels. Responsible for selecting and developing high quality, customer-focused managers and employees who will assist the company with achieving its goals and aspirations. Additionally, responsible for implementing diversity and inclusion programs and initiatives for my section. While at State Farm I have orchestrated the planning and implementation of transitions and redeployments. My experience in the Human Resources Department provided in-depth training with conflict resolution issues, personal and confidential matters and implementation of diversity related programs. Also dealt with a wide-array of legal and personnel issues. My human resources experience equipped me to handle extensive guidance counseling issues, career counseling issues, and other training devices."
+        },
+        {
+            "title": "Public Relations Intern",
+            "company": "Oprah Winfrey's production company",
+            "start_date": "01/1988",
+            "end_date": "05/1988",
+            "description": "Interned with Oprah Winfrey's production company in Chicago, Illinois. Responsibilities included interacting with affiliate television and radio stations, drafting promotional materials and responding to fan mail. I was often called upon to make verbal and written presentations to affiliate stations. This experience enabled me to develop phenomenal public speaking and presentation skills."
+        },
+        {
+            "title": "Public Relations Intern",
+            "company": "Public Relations Department",
+            "start_date": "01/1982",
+            "end_date": "01/1985",
+            "description": "Interned in the Public Relations Department. Responsible for formulating, drafting and proofreading newsletters and other pertinent company-oriented documents. This position enabled me to make verbal presentations about upcoming organizational changes to internal customers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Doctoral Degree in Organizational Management and Leadership (Diversity and Inclusion)",
+            "school": "University of Phoenix",
+            "year": "2013"
+        },
+        {
+            "degree": "Master of Science Degree in Organizational Communications (Diversity/Inclusion and Intercultural Communications)",
+            "school": "Illinois State University",
+            "year": "2011"
+        },
+        {
+            "degree": "Bachelor's Degree in Journalism and Mass Communications (Human Resources)",
+            "school": "Drake University",
+            "year": "1987"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

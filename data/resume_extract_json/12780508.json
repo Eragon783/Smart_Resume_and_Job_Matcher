@@ -1,0 +1,111 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Detail-oriented Accountant with 5 years effectively maintaining accurate accounting information for large-scale financial organizations.",
+    "skills": [
+        "Superior attention to detail",
+        "Invoice coding familiarity",
+        "QuickBooks",
+        "Self-motivated",
+        "Strong communication skills",
+        "Accounting",
+        "Accounting System",
+        "accounts payable",
+        "accruals",
+        "Articulate",
+        "ATM",
+        "banking",
+        "budget",
+        "Business Intelligence",
+        "calculator",
+        "cash flow",
+        "cashier",
+        "closing",
+        "Credit",
+        "documentation",
+        "equipment maintenance",
+        "filing",
+        "Finance",
+        "Financial",
+        "financial reports",
+        "financial statements",
+        "preparation of financial statements",
+        "fixed assets",
+        "funds",
+        "general ledger",
+        "general ledger accounts",
+        "ledger",
+        "mailing",
+        "Access",
+        "Excel",
+        "Microsoft Office",
+        "office",
+        "PowerPoint",
+        "Microsoft Word",
+        "Works",
+        "networks",
+        "PeopleSoft",
+        "policies",
+        "processes",
+        "coding",
+        "receiving",
+        "reconciling",
+        "Maintains files",
+        "reporting",
+        "research",
+        "sales",
+        "scanning",
+        "scheduling",
+        "phone",
+        "year-end"
+    ],
+    "experience": [
+        {
+            "title": "Accountant II",
+            "company": "Company Name – City , State",
+            "start_date": "02/2017",
+            "end_date": "Current",
+            "description": "Accounting operations professional responsible for cash flow analysis, data trending, and advanced bookkeeping. Posts entries for daily posting packets, verifies and balances system-originated interfaces, and monitors the flow of credit union transactions into and out of the general ledger. Identifies and resolves errors, omissions, and irregularities to provide accurate records. Calculates and posts month-end and year-end accruals; maintains fixed assets and prepaid sub-ledger accounts; prepares budget variance reports; assists with annual budget; responds to inquiries; prepares analyses. Manages accounts payable (including employee/volunteer reimbursements), 1099 forms, and Corporate VISA accounts; processes wires; assists with financial statements."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name – City , State",
+            "start_date": "06/2015",
+            "end_date": "02/2017",
+            "description": "Coordinated and supervised accounts payable staff; oversaw employee business expense processing; communicated accounting policies and procedures to managers, vendors, and internal customers; maintained knowledge of Credit Union processes affecting the general ledger. Reconciled clearing accounts and prepared month-end postings and financial statements. Prepared and maintained order reconciliations; utilized office automated systems for data input and reporting; maintained vendor records, 1099s, and corporate Visa accounts."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name – City , State",
+            "start_date": "08/2013",
+            "end_date": "06/2015",
+            "description": "Performed a variety of accounting support duties, including accounts payable processing, posting general ledger entries, reconciling accounts, filing/scanning checks and invoices. Prepared daily cash flow, analyzed accounting records and financial statements (ACH, wires) for accuracy and compliance. Supervised two accounting clerks, scheduling shifts, assigning responsibilities, and addressing questions. Articulated policies and procedures to members and staff; maintained files; printed daily AP checks and processed payments; ensured staff were trained and updated on products and services."
+        },
+        {
+            "title": "Financial Service Representative/ Back-up Supervisor",
+            "company": "Company Name – City",
+            "start_date": "01/2011",
+            "end_date": "08/2013",
+            "description": "Provided customers with prompt, accurate, courteous banking service; identified and referred sales opportunities; assisted customers with opening/closing accounts; processed loan applications and conducted loan interviews; handled cash transactions and maintained cash levels; managed cash shipments to/from main office; processed commercial deposits and balanced vault; performed equipment maintenance and conducted spot checks to ensure cash levels met branch limits."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science, Finance",
+            "school": "University of Maryland",
+            "year": "2010"
+        }
+    ],
+    "certifications": [
+        "Military Training Certificate (2005)",
+        "PNC Conversation: Deep Dive into Savings and Investment training (2012)",
+        "Operational and Soundness Training (2013)",
+        "Employee of the Month (November) at PNC Bank (2011)",
+        "Employee of the Quarter at PNC Bank (2011)",
+        "Retail Banking Achievement Award (2012)",
+        "NMLS - Nationwide Mortgage Licensing System (2013)"
+    ],
+    "languages": []
+}

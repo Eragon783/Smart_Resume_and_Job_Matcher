@@ -1,0 +1,59 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Family Advocate with experience identifying and documenting cases of child abuse. Skilled at finding and implementing solutions, managing a caseload, and navigating court procedures. Highlights include DCFS Child Welfare License, behavioral therapy, empathy, sound judgment, and a passion for social work.",
+    "skills": [
+        "child care",
+        "Council",
+        "government",
+        "Meetings",
+        "money",
+        "progress",
+        "sales",
+        "social services",
+        "staffing"
+    ],
+    "experience": [
+        {
+            "title": "Family Advocate",
+            "company": "Company Name",
+            "start_date": "04/2011",
+            "end_date": "Current",
+            "description": "Recruit in neighborhoods that are close to the Head Start/Early Head Start centers that are below poverty level, in social services agencies, homeless shelters, resource events for children and families to make aware of free government child care services for low income families. Assist forty to fifty-five eligible families in applying for Head Start/Early Head Start child care services. Meet with families to find out their needs and goals, and refer families to services to successfully meet needs and goals. Encourage families to get involved in children's education by explaining to the parents that children's daily attendance is important to learning, attending Parent Meetings, participating in Policy Council to be able to make decisions in the program, volunteer in the Head Start/Early Head Start classrooms, and educationally connecting with children at home. Document families progress in the system ChildPlus."
+        },
+        {
+            "title": "Family Care Manager",
+            "company": "Company Name",
+            "start_date": "09/2005",
+            "end_date": "02/2009",
+            "description": "Handled ten dependency cases in the state of Florida and five dependency cases out of state. Conducted evaluations on homes of parents, relatives, and non-relatives for safe placement of children. Performed monthly home visits at children's current residence to monitor wellbeing of children. Referred parents to services to assist with case plan completion to reunify with children and case closure. Responsible for being present at court hearings and reported the progress parents made on case plan. Gone to multiple staffing to discuss the status of the cases and followed all recommendations. Documented cases on program Home Safe Net/FSFN."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "08/2004",
+            "end_date": "06/2005",
+            "description": "Assisted customers in locating items in the department. Recognized for bringing in most sales in the department. Cleaned fitting rooms."
+        },
+        {
+            "title": "Student Assistant/Building Manager",
+            "company": "Company Name",
+            "start_date": "09/2002",
+            "end_date": "05/2004",
+            "description": "Signed in customers to play pool. Collected money for pool usage. Promoted to Building Manager for displaying hard work and performing well on assigned work task."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's of Social Work",
+            "school": "Western Connecticut State University",
+            "year": "2004"
+        }
+    ],
+    "certifications": [
+        "DCFS Child Welfare License"
+    ],
+    "languages": []
+}

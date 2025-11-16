@@ -1,0 +1,56 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Orange County, CA",
+    "summary": "High-performing executive with in-depth knowledge of business operations at all levels. Proficient in sales, budgeting, and customer relations. General Manager of an elite gym. Responsible for sales goals, daily operations, member retention, hiring and developing staff. Client-focused Personal Trainer for over 22 years with an emphasis in human development and performance.",
+    "skills": [
+        "Sales & account management",
+        "Budget development and achievement",
+        "Interpersonal communication skills",
+        "Client retention, customer service",
+        "Leadership, organizational skills",
+        "Comprehension of policies & procedures",
+        "Business, self development, staff development",
+        "Financial management, general manager"
+    ],
+    "experience": [
+        {
+            "title": "Owner/Operator",
+            "company": "Company Name, City, State",
+            "start_date": "2006-06",
+            "end_date": "2015-08",
+            "description": "Started and managed the premier functional training studio in Orange County, CA. Trained clients one-on-one to achieve health and fitness goals."
+        },
+        {
+            "title": "General Manager/Master Trainer",
+            "company": "Company Name, City, State",
+            "start_date": "2002-01",
+            "end_date": "2006-06",
+            "description": "Managed leading private personal training studio in Orange County, CA."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name, City, State",
+            "start_date": "1997-02",
+            "end_date": "2001-10",
+            "description": "Developed within each department (group exercise, personal training, sales, operations). until promoted to upper management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters in Exercise Science, Human Performance Emphasis",
+            "school": "University of Wisconsin, City, State",
+            "year": "1996"
+        },
+        {
+            "degree": "Bachelors in Exercise Science, Strength and Conditioning Emphasis",
+            "school": "University of Wisconsin, City, State",
+            "year": "1994"
+        }
+    ],
+    "certifications": [
+        "IFBB professional fitness athlete"
+    ],
+    "languages": []
+}

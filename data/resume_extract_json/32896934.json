@@ -1,0 +1,101 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Translates business vision into HR initiatives that improve performance, profitability, growth, and employee engagement. Developing, improving and managing HR strategies in benefits and compensation, employee recruitment and development, ethics and corporate social responsibility, diversity, safety and security, and business strategy. Worked with continuous improvement programs in connection to development of Lean and Six Sigma strategy programs.",
+    "skills": [
+        "New Employee Orientation",
+        "Applicant Tracking System",
+        "Onboarding",
+        "Payroll Management",
+        "Kronos Timekeeping System",
+        "Compensation and Benefits",
+        "Performance Management",
+        "Workers Compensation",
+        "General Ledger",
+        "Accounting",
+        "Database Management",
+        "Continuous Improvement",
+        "Six Sigma",
+        "Lean Manufacturing",
+        "Business Strategy",
+        "Recruitment",
+        "Employee Records Maintenance",
+        "Timekeeping System Administration",
+        "HR Administration",
+        "Accounts Payable",
+        "Administrative Support",
+        "Payroll Administration",
+        "Benefits Administration",
+        "Invoicing",
+        "Staffing",
+        "Safety Programs",
+        "MRP",
+        "Project Coordination",
+        "Training and Development"
+    ],
+    "experience": [
+        {
+            "title": "HR Clerk",
+            "company": "Company Name",
+            "start_date": "02/2016",
+            "end_date": "Current",
+            "description": "Coordinate and oversea recruitment and orientation program support for other HR assigned special projects. Coordinates and support for hiring of temporary hourly employees."
+        },
+        {
+            "title": "Administrative Coordinator",
+            "company": "Company Name",
+            "start_date": "01/2012",
+            "end_date": "01/2015",
+            "description": "Coordinates, oversees, and performs a wide variety of administrative, secretarial, and program support activities. Serves as primary point of operational and administrative contact for internal and external constituencies, often on complex and confidential issues. Participates in the coordination, supervision, and completion of special projects and/or events. One project included setup up of IT Service provider contract. HR duties included maintenance of employee records, recruitment, employee orientation and onboarding."
+        },
+        {
+            "title": "Administrative Assistant/Bookkeeper",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "01/2012",
+            "description": "Provides high-level administrative support for human resources, accounts payable, and purchasing departments. Primary duties includes bookkeeping (A/R, A/P, and General Ledger) duties related to daily maintenance and financial period closure as well as Human Resources support focusing on payroll administration, compensation and benefits administration responsibilities. HR duties included applicant tracking, employee records maintenance, benefits and compensation, payroll, and Workers Compensation reporting."
+        },
+        {
+            "title": "Clerical II",
+            "company": "Company Name",
+            "start_date": "01/2000",
+            "end_date": "01/2010",
+            "description": "Provides high-level administrative support by conducting research, preparing statistical reports, handling information requests, and performing clerical functions such as preparing correspondence, receiving visitors, arranging conference calls, and scheduling meetings. Provides HR administrative support including administration of timekeeping system, coordination of employee time-off scheduling, maintenance of employee information and interpretation of policy regarding employee time-off. Administrator to three databases (Labor, Skills and MRP Vacation Calendar). Provides administrative support for Continuous Improvement Program and Safety Programs."
+        },
+        {
+            "title": "Executive Secretary",
+            "company": "Company Name",
+            "start_date": "01/1983",
+            "end_date": "01/1999",
+            "description": "Provides bookkeeping and clerical support including monthly invoicing, correspondence, receiving visitors, arranging conference calls, and scheduling meetings. Provides support for Human Resource functional areas including tracking for Workers Compensation, developing employee handbook, and maintaining the material safety data sheets."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates Degree: Business Management",
+            "school": "Blue Ridge Community College",
+            "year": "1985"
+        },
+        {
+            "degree": "Bachelor's Degree, BSM/HRM: Business Management & HR Management",
+            "school": "University of Phoenix",
+            "year": "2015"
+        },
+        {
+            "degree": "SHRM Learning System - SHRM Program",
+            "school": "SHRM",
+            "year": "2015"
+        },
+        {
+            "degree": "SHRM Essentials of HR Management",
+            "school": "SHRM",
+            "year": "2015"
+        }
+    ],
+    "certifications": [
+        "SHRM-CP Certification (2006)"
+    ],
+    "languages": []
+}

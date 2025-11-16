@@ -1,0 +1,65 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Efficient, dedicated, hard-working Financial Manager skilled at consistently meeting strict deadlines, paying high attention to detail and effectiveness when reporting to senior management. Extensive experience in budgeting, forecasting, strategic planning and analysis.",
+    "skills": [
+        "Financial statement analysis",
+        "budgeting",
+        "forecasting",
+        "strategic planning",
+        "financial modeling",
+        "strong communication",
+        "interpersonal skills",
+        "organizational skills",
+        "Microsoft Access",
+        "Excel",
+        "Microsoft Office",
+        "Microsoft Outlook",
+        "PowerPoint",
+        "Microsoft Word",
+        "Onyx",
+        "PeopleSoft",
+        "Citrix"
+    ],
+    "experience": [
+        {
+            "title": "Finance Manager",
+            "company": "Company Name",
+            "start_date": "March 2003",
+            "end_date": "Present",
+            "description": "Serving as a business and financial advisor to a portfolio of ten trade show teams by working closely with Senior Management, Industry Vice Presidents, and Sales Directors, as well as the Operations, Registration, Marketing, and Conference departments. Prepare detailed show budgets, monthly financial forecasts, strategic plan projections, and financial analysis of the P&L's for ten trade shows. Manage these tasks effectively to complete on a timely basis, and within strict deadlines. Analyze show revenue and expenses versus budget/forecast and provide analysis on variances. Review general ledger accounts, prepare journal entries and support schedules as needed to discuss findings with show management. Perform due diligence for potential business acquisitions, and then prepare and present the financial models to Senior Management. Assist Show Management with decisions relating to exhibit space, advertising and media product pricing, as well as customer package creation and pricing. Review and approve all purchase orders, vendor invoices, and expense reports relating to shows and ensure all documents are in accordance with company policies. Monitor sales and marketing results against established milestones and expense commitments relating to new show launches. Review key business contracts related to events and provide guidance and information on financial and non-financial matters to event teams. Manage onsite trade show financial needs which includes establishing banking requirements, preparing and reconciling financial documents onsite, and training and supervising cashiers and temporary help at the show. Partner with and maintain professional relationships with key association and business partners within trade show events. Created and implemented financial reports which detail customer packages sold by show teams. These reports are mainly used by Finance, Sales and Operations teams. Redesigned and streamlined the Show Set Up Process that is used by Finance, Accounting, and Sales departments. Monitor accounts receivable and assist collections and sales with determining collectability. Collaborate with Reed Exhibitions France on cross border events held in the U.S. Provide financial support on these events and assist with onsite event needs. Assist in the interviewing process for new team members, as well as help train new staff accountants and finance managers within the department. Streamlined and automated Interim and Year-End audit process for the finance and accounting departments which made it more efficient for the auditors to review reconciliations and financials."
+        },
+        {
+            "title": "Portfolio Administrator",
+            "company": "Company Name",
+            "start_date": "June 2000",
+            "end_date": "June 2001",
+            "description": "Managed, tracked and ensured the integrity of financial data for over 70 portfolio companies. Communicated and interfaced with CEO, CFO, COO of the portfolio companies and discussed quarterly financial updates, stock splits, fundraising and cash flow. Project manager for the company's quarterly meetings which entailed the maintenance and updating of information on the financial performance and the business status of the portfolio companies. Analyzed financial statements and created reports for management which were used to formulate future investment strategies. Primary liaison between all levels of management of the portfolio companies and the private equity division of Bowman Capital."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "October 1998",
+            "end_date": "June 2000",
+            "description": "Prepared monthly, quarterly and yearly financial statements for consolidation process, which included the balance sheet, profit and loss statement and cash flow statement. Assisted in streamlining and automating our consolidation and reporting process using the Peoplesoft system. Performed monthly financial statement analysis and account reconciliations and developed and presented conclusions to management. Assisted Investor Relations by providing financial information to support sales press releases."
+        },
+        {
+            "title": "Advanced Staff Auditor",
+            "company": "Company Name",
+            "start_date": "October 1996",
+            "end_date": "October 1998",
+            "description": "Performed financial statement audits for high-tech, food and beverage, financial services, health care, manufacturing and telecommunication clients. Identified accounting issues, utilized technical knowledge, research skills and analytical abilities to determine proper accounting treatment and ensure compliance with GAAP. Analyzed internal control procedures to determine audit risk and to assist clients in strengthening their control procedures. Provided suggestion to management for improving their internal operations. Used strong organizational skills, detailed documentation and computer proficiency to record the procedures, results and conclusions of testwork."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA in Accounting",
+            "school": "University of Massachusetts Amherst",
+            "year": "1996"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

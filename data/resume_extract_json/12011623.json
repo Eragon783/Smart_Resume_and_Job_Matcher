@@ -1,0 +1,84 @@
+{
+    "name": "Yitayew, Anteneh, Workineh",
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "A highly experienced analytics professional with an MSc in Analytics. Proficient in SAS, web scraping, SQL, predictive modeling and data visualization. Experienced in data cleaning, modeling, and communicating insights via visualization; background as a researcher, data analyst, and instructor with 6+ years in engineering, environmental science, IT and education. Skilled in R, Python, SQL, data warehousing, machine learning and dashboard tools; led teams and managed large groups of students.",
+    "skills": [
+        "ASP.NET 4.5",
+        "C#",
+        "HTML",
+        "SQL",
+        "Oracle",
+        "Microsoft SQL",
+        "Python",
+        "Pandas",
+        "R",
+        "SAS",
+        "SPSS",
+        "JMP",
+        "GIS",
+        "Tableau",
+        "ggplot (R)",
+        "Web scraping",
+        "data mining",
+        "data warehouse",
+        "data analysis",
+        "machine learning",
+        "clustering",
+        "Random Forests",
+        "Decision Trees",
+        "Boosted Trees",
+        "PCA",
+        "Ridge",
+        "LASSO",
+        "Elastic Net",
+        "Linear regression",
+        "Logistic regression",
+        "SQL data management",
+        "environmental science",
+        "curriculum development"
+    ],
+    "experience": [
+        {
+            "title": "Engineering and Quality Technician",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2016-01",
+            "description": "Planned, performed and conducted semiconductor production process development and engineering designs as well as managed small projects and prepared statements and monitored project schedules. Identified product defects introduced in data warehouse by performing quality tests using SQL and JMP. Coordinated with scientists, engineers, manager, analysts to understand the impacts due to defects and provided valuable information for product shipping and customer satisfaction. Managed multiple tasks and accomplished goals efficiently and per schedule with a strong work performance to meet the goals of the department. Monitored and adjusted semiconductor production process or/and equipment for improving quality and productivity and achieved a 10% higher performance rate for the fiscal year of 2014. Provided technical support in developing, building and testing prototypes, new products, processes and procedures and provided training and advice to other Engineering technicians. Applied database management and data analysis methods which helped enhancing production efficiency and reduced costs for the department by 5% in every quarter."
+        },
+        {
+            "title": "Lecturer in Environmental Science and Technology",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2012-01",
+            "description": "Effectively engaged in course curriculum development, taught courses and engaged in research projects and community services on the areas of Statistics, GIS and natural resource management. Developed course material that support the goal of the course including design of curriculum and schedule of instructions, provided student with guidance in regards to their grades and progress in the course work and elected as best instructor of the College in 2008. Established a GIS laboratory facility with other staff members, provided technical support for environmental remediation projects and for legal actions. Used SQL and SPSS for managing student database and for analysis of data."
+        },
+        {
+            "title": "Assistant Lecturer in Natural Resource Management",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2006-01",
+            "description": "Assisted in teaching, researching and developing methods which helps in improving both the university and students' performance. Highly engaged in curricular and extra-curricular activities and community services. Established and coordinated nature and environmental protection club in the university. Developed teaching methodologies and techniques that added to the knowledge base and understanding of resource management by preparing teaching materials, handouts and laboratory manuals. Engaged in major research projects of resources management which was undertaken in collaboration with Universities, NGOs, and engineering consulting companies. Served as lead of the college's audiovisual center and arranged workshops, meetings and documented academic resources."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Analytics",
+            "school": "University of New Hampshire",
+            "year": 2017
+        },
+        {
+            "degree": "Master of Science: Environmental Science and Technology",
+            "school": "UNESCO-IHE",
+            "year": 2010
+        },
+        {
+            "degree": "Bachelor of Science: Resource Management",
+            "school": "Debub University",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

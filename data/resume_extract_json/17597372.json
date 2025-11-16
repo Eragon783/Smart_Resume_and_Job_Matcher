@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Lawrence, KS",
+    "summary": "",
+    "skills": [
+        "3-D",
+        "budgets",
+        "color",
+        "Council",
+        "CPT",
+        "client",
+        "floor plans",
+        "Forklift",
+        "Manufacturing Processes",
+        "presentations",
+        "real estate",
+        "Safety",
+        "sales",
+        "seminars",
+        "spreadsheet",
+        "Technician",
+        "vision"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Consultant",
+            "company": "Company Name City, State",
+            "start_date": "March 2014",
+            "end_date": "August 2014",
+            "description": "Phoned, emailed and actively followed up with potential leads given to me by management. Answered calls and scheduled appointments with the sales team. Logged all customer information in VinSolutions. Confirmed appointments and scheduled follow ups with customers. Notified necessary departments when appointments have been set. Maintained a goal of 8-10 appointments created daily. Recorded daily and weekly appointment information in a spreadsheet to measure success against our goals."
+        },
+        {
+            "title": "Senior Design Consultant",
+            "company": "Company Name City, State",
+            "start_date": "November 2011",
+            "end_date": "April 2014",
+            "description": "Developed exterior design concepts and planned the schematic color and finish of the colors chosen. Reviewed project costs, budgets and adherence to schedules. Ensured that the project vision and design intent were reflected successfully."
+        },
+        {
+            "title": "Expo Design Desk Associate",
+            "company": "Company Name City, State",
+            "start_date": "April 2009",
+            "end_date": "November 2011",
+            "description": "Generated more sales leads than any other design associate. Assisted lead designers with their floor plans, elevations and 3-D perspective views prior to presentation to the client. Assisted designers with their material boards for in-house review and presentation. Reviewed project costs initially with home owners. Voted Employee Committee President and planned all employee events and fundraisers."
+        },
+        {
+            "title": "Sales Associate/Wall Paper Specialist",
+            "company": "Sherwin Williams",
+            "start_date": "March 2004",
+            "end_date": "March 2009",
+            "description": "Ordered, contacted and handled all wallpaper sales. Passed all skill level tests in the 95th percentile each month. Organized and conducted presentations at all the faux finish clinics to public. Cultivated long term relationships with area contractors. Primary representative for area home shows and real estate seminars. Visited home sites to assess and fulfill customer needs both interior and exterior projects."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Interior Design",
+            "school": "University of Kansas",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Fine Arts in Interior Design",
+            "school": "University of Kansas City",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Professional Certified Production Technician (CPT), Manufacturing Skill Standards Council (MSSC)",
+        "Forklift Certification, Washburn Institute of Technology, Topeka, KS",
+        "Kansas WorkReady! Certification, Silver Level, 2016",
+        "OSHA 10, General Industry Certification, May 2007"
+    ],
+    "languages": []
+}

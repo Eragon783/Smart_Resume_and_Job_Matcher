@@ -1,0 +1,226 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Recognized innovator who drives change by engineering new processes and technologies, resulting in streamlined operations and company growth. Demonstrated expertise in all aspects of product management and software development, from conception through implementation. Skilled leader supervising in-house and offshore teams as small as 3 and as large as 78. Strong background in implementing solutions that meet the needs of rapidly expanding operations. Excellent communication, presentation, public speaking, and motivational skills. Broad experience in marketing, operations, finance, quality, IT, and sourcing. Proficiency in entrepreneurial, business unit, and large corporate environments.",
+    "skills": [
+        "Infrastructure Design",
+        "Strategic Planning",
+        "Vendor Selection/RFPs",
+        "Product/Project Management",
+        "Agile",
+        "Design & Architecture",
+        "Change Management",
+        "Presentations",
+        "Mergers & Acquisitions",
+        "Process Improvement",
+        "Budgets and P&L",
+        "International Experience",
+        "Pricing",
+        "Procurement",
+        "Product Development",
+        "Product Management",
+        "Product Marketing",
+        "Program Management",
+        "Quality Assurance",
+        "Sales",
+        "E-commerce",
+        "Strategy",
+        "Supply Chain",
+        "Venture Capital",
+        "Project Scheduling",
+        "Team Structure Management",
+        "Client Relationship Management",
+        "Project Planning Oversight",
+        "Data Migration",
+        "Database Administration",
+        "Information Technology",
+        "Net",
+        "photo",
+        "analyst",
+        "Apple",
+        "automation",
+        "banking",
+        "business plan",
+        "closing",
+        "com",
+        "consulting",
+        "content",
+        "contracts",
+        "credit",
+        "encryption",
+        "customer satisfaction",
+        "imaging",
+        "inventory",
+        "managing",
+        "market planning",
+        "marketing",
+        "messaging",
+        "office",
+        "new product development",
+        "developer",
+        "order management",
+        "camera",
+        "policies",
+        "presenting",
+        "pricing",
+        "procurement",
+        "Product manager",
+        "product management",
+        "program management",
+        "quality",
+        "QA",
+        "radio",
+        "real-time",
+        "receiving",
+        "retail",
+        "sales management",
+        "shipping",
+        "software development",
+        "stories",
+        "strategy",
+        "technical support",
+        "television",
+        "UI design",
+        "utilities",
+        "vision",
+        "workflow",
+        "year-end"
+    ],
+    "experience": [
+        {
+            "title": "Director of Engineering",
+            "company": "Calero",
+            "start_date": "04/2018",
+            "end_date": "05/2018",
+            "description": "In control of two new product development teams and one legacy team; started the Atlanta Engineering office; hired 12 junior engineers; built a platform enabling the existing marquee software to be multi-tenant and cloud-enabled; enabled one-click upgrades/migrations, seamless movement across nodes, and unified performance monitoring; 60% of all implementations are now deployed on this platform; created a new mobility product segment with mobile-first UI, e-bonding, self-service portal, unbilled usage tracking, and workflow-enabled device ordering."
+        },
+        {
+            "title": "Sr. Director Software Development",
+            "company": "CLA",
+            "start_date": "04/2016",
+            "end_date": "04/2018",
+            "description": "Led three development teams across consumer lending, merchants, and medical insurance; moved the team to agile scrum; increased quality and decreased time between releases; implemented a new single ticketing system; created a mobile-responsive UI for healthcare."
+        },
+        {
+            "title": "VP of Engineering and Operations",
+            "company": "PictureU",
+            "start_date": "08/2013",
+            "end_date": "04/2016",
+            "description": "Responsible for all technology and operations; delivered innovative applications and solutions; built 4 new products from scratch including a 16-camera computer-controlled array and computer vision; product manager for new products; hired staff in-house, moving development in-house; saved $30K in 4 months; key sales contributor enabling major deals."
+        },
+        {
+            "title": "CTO",
+            "company": "Ticket Alternative",
+            "start_date": "02/2012",
+            "end_date": "08/2013",
+            "description": "Accountable for all technology, hosting, vendors, development team, architecture, and IT; built a new e-commerce platform on Ruby on Rails using Spree; hired the technology team from scratch; developed event ticketing & box office system in three months increasing online sales by 45% and total sales by 65%; designed multi-tenant DIY ticketing and deal platform."
+        },
+        {
+            "title": "Co-Founder and COO",
+            "company": "TripLingo",
+            "start_date": "01/2011",
+            "end_date": "02/2012",
+            "description": "Managed all operations, partnerships and sales; raised funding and provided technical guidance; launched initial product in 90 days and generated revenue in 14 weeks; drove over 45,000 downloads in App Store; built 14 mobile applications across iOS, Nook, and Android; product featured on the Apple App Store six times."
+        },
+        {
+            "title": "VP of Engineering",
+            "company": "Deposco",
+            "start_date": "01/2009",
+            "end_date": "12/2010",
+            "description": "Administered all technology development, hosting, and implementations for existing and new customers; improved product quality, uptime to three nines, and reduced support calls to 10% of previous volume; launched version 2 with architectural improvements and scalability; migrated to onshore team reducing total costs."
+        },
+        {
+            "title": "VP Solutions Sales",
+            "company": "SVG",
+            "start_date": "09/2006",
+            "end_date": "12/2008",
+            "description": "Directed technical pre-sales (10 consultants) for Fortune 1000 customers; led worldwide marketing strategy across products; closed the largest deal in company history; created a SaaS move plan; supported marketing and sales across EMEA and APAC; designed new comp plans and quotas for pre-sales and account executives."
+        },
+        {
+            "title": "CTO Commerce Science",
+            "company": "Commerce Science",
+            "start_date": "Apr 2004",
+            "end_date": "Sep 2006",
+            "description": "SaaS e-commerce provider focused on multi-store, many-to-many retail; focused on product development and program management; led vendor and reseller management; supervised hybrid onshore/offshore development."
+        },
+        {
+            "title": "Independent Consultant",
+            "company": "Independent Consultant",
+            "start_date": "01/2003",
+            "end_date": "04/2004",
+            "description": "Provided high-level technical consulting; web services design and data migration for a major credit card company; performed Data Rights Management and security evaluations; designed DRM tech; created and sold technology aggregating 15 popular job service boards."
+        },
+        {
+            "title": "CTO & Founder",
+            "company": "MediaOcean",
+            "start_date": "10/1999",
+            "end_date": "11/2002",
+            "description": "Created the first electronic television and radio sales management system with full integration to multiple systems; grew organization from 2 to 94 in two years; raised $14.7M VC; completed the first fully electronic end-to-end transaction in the industry; negotiated a $30M merger."
+        },
+        {
+            "title": "Engineering Manager",
+            "company": "Company Name",
+            "start_date": "01/1999",
+            "end_date": null,
+            "description": ""
+        },
+        {
+            "title": "Product Manager",
+            "company": "Company Name",
+            "start_date": "01/1997",
+            "end_date": null,
+            "description": ""
+        },
+        {
+            "title": "Systems Engineer",
+            "company": "Company Name",
+            "start_date": "01/1996",
+            "end_date": null,
+            "description": ""
+        },
+        {
+            "title": "Technical Team Lead",
+            "company": "Company Name",
+            "start_date": "01/1995",
+            "end_date": null,
+            "description": ""
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name",
+            "start_date": "01/1992",
+            "end_date": null,
+            "description": ""
+        },
+        {
+            "title": "Systems Operator",
+            "company": "Company Name",
+            "start_date": "01/1990",
+            "end_date": null,
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Management of Technology",
+            "school": "Georgia Institute of Technology",
+            "year": 2006
+        },
+        {
+            "degree": "Bachelor of Science: Computer Science",
+            "school": "Rutgers University",
+            "year": 1992
+        }
+    ],
+    "certifications": [
+        "Coursera / Johns Hopkins Data Science: Data Scientist's Toolbox - March 2015 (Distinction)",
+        "R Programming - May 2015 (Distinction)",
+        "Getting and Cleaning Data - May 2015 (Distinction)",
+        "Exploratory Data Analysis - August 2015 (Distinction)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

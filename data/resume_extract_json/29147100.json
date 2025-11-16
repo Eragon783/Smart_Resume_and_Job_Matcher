@@ -1,0 +1,64 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "A hardworking, focused and determined artist looking to obtain a full-time position as a Graphic Designer.",
+    "skills": [
+        "Adobe Photoshop",
+        "Adobe After Effects",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Premiere",
+        "Adobe Dreamweaver",
+        "Sketchbook Pro",
+        "HTML Coding",
+        "Microsoft Word",
+        "Windows Troubleshooting",
+        "Microsoft PowerPoint"
+    ],
+    "experience": [
+        {
+            "title": "Multimedia Designer and Graphic Designer",
+            "company": "Company Name",
+            "start_date": "September 2015",
+            "end_date": "May 2016",
+            "description": "Worked on branding and logo design for the office as well as inside designing of templates for the office's online services. Consulted with clients on poster designs for their conferences and presentations to their leadership Boards."
+        },
+        {
+            "title": "Graphic Designer/ Promoter",
+            "company": "Company Name",
+            "start_date": "June 2014",
+            "end_date": "Present",
+            "description": "Helped the management team with future events and promotional tactics along with designing promotional materials and designed flyer's."
+        },
+        {
+            "title": "FreeLance Graphic Designer",
+            "company": "Company Name",
+            "start_date": "July 2013",
+            "end_date": "Present",
+            "description": "Created graphics for pamphlets, banners, screen graphics and web graphics for the church. Helped with film design and created after effects bumps for message series."
+        },
+        {
+            "title": "Free Lance Digital/Graphic Designer",
+            "company": "Company Name",
+            "start_date": "August 2009",
+            "end_date": "Present",
+            "description": "Freelance designed for networked Clients upon request."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's of Fine Arts (B.F.A), Digital Art & Design",
+            "school": "Towson University",
+            "year": "2016"
+        },
+        {
+            "degree": "Digital Art & Design",
+            "school": "Community College of Baltimore County",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

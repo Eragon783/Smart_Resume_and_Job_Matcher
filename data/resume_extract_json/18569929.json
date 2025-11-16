@@ -1,0 +1,102 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Sixteen years experience reconciling the general ledger system, four years experience in accounts payable and eleven years experience in accounts receivable. Good organizational skills and detailed oriented.",
+    "skills": [
+        "Accounting",
+        "Accounts payable",
+        "Accounts Receivable",
+        "accruals",
+        "acquisitions",
+        "billing",
+        "closing",
+        "Consulting",
+        "contracts",
+        "Controller",
+        "credit",
+        "Customer Support",
+        "financials",
+        "financial statements",
+        "fixed assets",
+        "general ledger",
+        "Human Resource",
+        "insurance",
+        "Internet Explorer",
+        "JD Edwards",
+        "Job costing",
+        "KRONOS",
+        "Lotus",
+        "marketing",
+        "MAS90",
+        "Excel",
+        "Outlook Express",
+        "Windows",
+        "Word",
+        "Netscape",
+        "Payroll",
+        "personnel",
+        "Quickbooks"
+    ],
+    "experience": [
+        {
+            "title": "Payroll Accountant",
+            "company": "Company Name City, State",
+            "start_date": "2006-07",
+            "end_date": "Present",
+            "description": "Answered employee questions regarding pay and resolved any issues and discrepancies. Advised managers on organizational policy matters and recommend needed changes. Processed and submitted Teacher Retirement reports and payments. Updated confidential employee banking information with accuracy and speed. Ran the monthly and bi-weekly payroll process. Reviewed salary changes stemming from merit increases, promotions, and pay adjustments."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name City, State",
+            "start_date": "2002-04",
+            "end_date": "2006-06",
+            "description": "Verified details of transactions, including funds received and total account balances. Coded the general ledger and processed vendor invoice payments. Deposited third party checks, as well as monthly reserve transfers. Balanced batch summary reports for verification and approval. Researched and resolved billing and invoice problems. Maintained detailed administrative and procedural processes to improve accuracy and efficiency. Provided support for owner and sales team in managing operation work flow. Handled cash and deposits using the proper accounting procedures and documentation. Researched and resolved collections and billing disputes with tact and efficiency. Set up, tested and configured networks, desktops, laptops and printers."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name City, State",
+            "start_date": "2001-07",
+            "end_date": "2002-03",
+            "description": "Prepare consolidated financial statements. Reconcile fixed asset system with general ledger. Run and make journal entries for depreciation of fixed assets. Transition financials and fixed assets due to merger with PRG."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name City, State",
+            "start_date": "2000-01",
+            "end_date": "2001-06",
+            "description": "Process billing and cash receipts. Reconcile accounts receivable general ledger account. Verified/requested insurance coverage on all equipment. Processed journal entries. Prepared reports for the Board of Directors. Prepared weekly reports for creditors and Controller."
+        },
+        {
+            "title": "Accounts Receivable Administrator",
+            "company": "Company Name City, State",
+            "start_date": "1999-01",
+            "end_date": "1999-12",
+            "description": "Processed cash receipts and credit card payments. Reconciled general ledger account. Reviewed new accounts for credit."
+        },
+        {
+            "title": "Contracts Processor",
+            "company": "Company Name City, State",
+            "start_date": "1993-02",
+            "end_date": "1998-12",
+            "description": "Audited customer contracts. Verified and billed contracts billing fixed price. Assisted project managers in closing out contracts. Assisted with both, internal and external, audits. Trained personnel in Raleigh, NC on processing contracts. Reconciled state accounts. Assisted marketing in collecting large dollar invoices. Audited vendor invoices for payment. Verified accuracy of hourly charges, living expenses and equipment acquisitions. Tracked purchase order balances and generated Lotus reports for vendor files. Processed and audited service/contractor activity records which applied billing to service contracts and generated customer invoices. Advised project managers when contracts were overcharged on service contracts. Audited vendor invoices for payment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master: Accounting & Financial Management",
+            "school": "Keller Graduate School of Management",
+            "year": "2014"
+        },
+        {
+            "degree": "Bachelor of Science: Accounting",
+            "school": "DeVry University",
+            "year": "1993"
+        }
+    ],
+    "certifications": [
+        "Certified Fraud Examiner"
+    ],
+    "languages": []
+}

@@ -1,0 +1,65 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced with over 10 years in high-level executive support roles. Organized, professional, and committed to delivering high quality results with little supervision. Jack of all trades and wearer of many hats.",
+    "skills": [
+        "Clerical skills",
+        "Management skills",
+        "Administrative skills",
+        "Microsoft Office",
+        "Customer service"
+    ],
+    "experience": [
+        {
+            "title": "Client Advocate / Escalation Specialist",
+            "company": "Company Name - City, State",
+            "start_date": "Nov 2015",
+            "end_date": "May 2016",
+            "description": "Takeover of escalated calls from customer service. Coached customer service representatives to improve skills."
+        },
+        {
+            "title": "Business Manager, HR Coordinator, Training Coordinator, Receptionist",
+            "company": "Company Name - City, State",
+            "start_date": "Jun 2008",
+            "end_date": "Oct 2015",
+            "description": "Managed administrative, accounting, financial, and purchasing functions for the office and the individuals supported. Assisted with recruiting and orientating new employees. Performed bi-weekly payroll, reconciled payroll, created payroll reports used for budgeting and to adjust staffing. Managed and audited employee personnel and training files. Maintained employee training database and ensured employees were current in training. Purchased office and janitorial supplies. Acted as receptionist and managed a multi-line telephone system."
+        },
+        {
+            "title": "Records Management / Document Management System Implementer",
+            "company": "Company Name - City, State",
+            "start_date": "Jan 2007",
+            "end_date": "Nov 2007",
+            "description": "Assisted in building a DMS library that fit the global model for the site. Assisted with department and site-wide document audits."
+        },
+        {
+            "title": "Telerecruiter",
+            "company": "Company Name - City, State",
+            "start_date": "Feb 2005",
+            "end_date": "Jun 2005",
+            "description": "Contacted blood donors, scheduled future appointments, and updated contact information. Trained new telerecruiters."
+        },
+        {
+            "title": "Student Administrative Assistant, Vice Chancellor",
+            "company": "Company Name - City, State",
+            "start_date": "Sep 2001",
+            "end_date": "Sep 2004",
+            "description": "Independently created database and audited university resident alien files in university's HR department during free time, which saved the university a minimum of $200,000 in potential fines. Managed the university's utilities, legal bills, and contract database. Created and maintained database for university's Business Travel Account."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts, Political Science Pre-Law",
+            "school": "University of New Orleans",
+            "year": 2017
+        },
+        {
+            "degree": "Certificate, Paralegal",
+            "school": "East Tennessee University",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

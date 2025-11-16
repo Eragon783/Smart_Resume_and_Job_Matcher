@@ -1,0 +1,111 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Bilingual self-starter with broad customer service background. Skilled in developing relationships and providing exceptional individualized service. As well as an enthusiastic, resourceful recent graduate with academic and professional background. Ability to establish priorities and meet challenges head-on.",
+    "skills": [
+        "Excellent attention to details",
+        "Fluent in Spanish",
+        "Excellent driving skills",
+        "administrative",
+        "balance sheets",
+        "budgets",
+        "budget",
+        "charts",
+        "interpersonal skills",
+        "CRM",
+        "customer service",
+        "driving",
+        "Economics",
+        "financial",
+        "First Aid",
+        "letters",
+        "Managerial",
+        "managing",
+        "meetings",
+        "Microsoft Excel",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "painting",
+        "policies",
+        "seminars",
+        "spreadsheets",
+        "Statistics"
+    ],
+    "experience": [
+        {
+            "title": "Finance Officer",
+            "company": "Company Name",
+            "start_date": "2014-11",
+            "end_date": "Present",
+            "description": "Monitor the financial system of Grant Answers by using Turbo Cash and Microsoft Excel. Assist with the arrangement of the budget. Prepare income statements and balance sheets. Maintained integrity of general ledger, including the chart of accounts. Optimized and managed research and development spending through collaboration with key business leaders."
+        },
+        {
+            "title": "Teller",
+            "company": "Company Name",
+            "start_date": "2014-04",
+            "end_date": "Present",
+            "description": "Process customer transactions while engaging in conversation in order to provide pleasing customer service and to detect possible fraud. Inform customers about our products that may suit their needs as well as cross-sell bank products and services. Manage the bank's vault to verify balances. Resolve discrepancies in accounts while assuring comfort to our customers. Hold a weekly meeting with the branch manager in order to learn more about our products and enhance my performance. Attend corporate events."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2012-10",
+            "end_date": "2013-11",
+            "description": "Trained and supervised seasonal employees on job function, company's policies/procedures. Determined customers' needs by interacting with them and provided suggestions and alternatives. Helped customers with questions, problems and complaints in person and via telephone. Organized racks and shelves to maintain the visual appeal of the store. Stocked and replenished merchandise according to store merchandising layouts. Educated customers about the brand to incite excitement about the company's mission and values. Shared best practices for sales and customer service with other team members to help improve the store's efficiency."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2012-04",
+            "end_date": "2012-10",
+            "description": "Trained and supervised seasonal employees on job function, company's policies/procedures."
+        },
+        {
+            "title": "Secretary/Senator",
+            "company": "Company Name",
+            "start_date": "2011-09",
+            "end_date": "2013-11",
+            "description": "Provided administrative and executive services in order to make sure everything operated smoothly for the senators and the executive board by managing the calendar/agenda, by preparing reports and spreadsheets. Spoke on behalf of the student body and interacted with many students in order to make decisions that will benefit the majority. Announced updates that have been made to senators, faculty and staff through Microsoft Outlook. Used Microsoft Word to record and distribute minutes of Executive board and senate meetings. Created charts and power points with Microsoft Excel and Microsoft PowerPoint to organize and update meetings, committee reports, and organize budgets."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2011-07",
+            "end_date": "2012-07",
+            "description": "Utilized effective interpersonal skills to meet the needs of customers. Processed shipment deliveries and restocked clothing and accessories. Organized, displayed and processed thorough knowledge regarding the merchandised offered for sale."
+        },
+        {
+            "title": "Volunteer",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2013-01",
+            "description": "Committed to community services with free financial literacy seminars to improve low income communities by educating teenagers and homeless parents. Volunteered at soup kitchens, community clean up and at schools."
+        },
+        {
+            "title": "Volunteer",
+            "company": "Company Name",
+            "start_date": "2008-10",
+            "end_date": "Present",
+            "description": "Participate in various activities helping children by painting elementary schools for motivation and writing letters to Santa Claus during the holiday season."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Economics",
+            "school": "Lehman College",
+            "year": "2014"
+        },
+        {
+            "degree": "Flight Attendant Program",
+            "school": "ACADEMICS OF FLIGHT",
+            "year": "2012"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

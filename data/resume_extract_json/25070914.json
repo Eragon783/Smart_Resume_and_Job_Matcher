@@ -1,0 +1,66 @@
+{
+    "name": "Ms. Alexander",
+    "email": null,
+    "phone": null,
+    "location": "Los Angeles, CA",
+    "summary": "Public relations, communications and events executive with 15+ years of experience in PR, business development and operations. Strong strategic thinking, planning and interpersonal management; proven track record in managing campaigns, media relations, celebrity events and crisis PR; proficient with databases and software including Excel, PowerPoint, Outlook and Cision.",
+    "skills": [
+        "Media relations",
+        "Strategic management",
+        "Event planning",
+        "Print media",
+        "Strategic thinking",
+        "Planning",
+        "Interpersonal skills",
+        "Public relations",
+        "Social media",
+        "Budgeting",
+        "Press campaigns",
+        "Media pitching",
+        "Client relationship management"
+    ],
+    "experience": [
+        {
+            "title": "Public Relations Executive",
+            "company": "Company Name – City, State",
+            "start_date": "2002-08",
+            "end_date": "Present",
+            "description": "Sign new business, write PR proposals, broker talent deals, maintain client relationships, supervise music & red carpet events, provide crisis PR and manage staff. Develop and execute creative press campaigns and special events for recording artists, athletes, TV/film personalities and entertainment companies; manage VIP/celebrity event management; delegate tasks to associate publicists, managers, coordinators and executive assistants; create targeted marketing plans; pitch clients for media coverage; build relationships with major media outlets; prepare budget estimates; monitor social media trends; prepare bi-monthly status reports; develop campaigns for events and award shows; secure national and international media coverage."
+        },
+        {
+            "title": "Senior Director",
+            "company": "Company Name – City, State",
+            "start_date": "2000-08",
+            "end_date": "2002-08",
+            "description": "Create and implement press campaigns for high-profile artists; manage national campaigns; coordinate music press for films; develop online, print and on-air media strategies aligned with corporate & artist objectives; structure long-term PR plans; supervise national and local television coverage and trade publications; set up artist releases (EPKs, press kits); oversee press materials; coordinate photo shoots with talent and budgets; manage red carpet coverage and event activities."
+        },
+        {
+            "title": "Senior Account Executive",
+            "company": "Company Name – City, State",
+            "start_date": "1993-09",
+            "end_date": "2000-08",
+            "description": "Design and implement PR projects, special events and publicity campaigns for recording artists, producers, labels and entertainment companies; implemented PR strategies that grew client business and increased department billings; lead strategy sessions; supervise account teams; ensure quality control of press releases and media alerts; manage event publicity and media contact lists; coordinate media for major awards shows and celebrity initiatives; work with talent reps and managers on campaigns."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Management",
+            "school": "University of Phoenix",
+            "year": null
+        },
+        {
+            "degree": "Associate of Arts in Law / Legal Studies / Paralegal (Entertainment)",
+            "school": "Los Angeles City College",
+            "year": null
+        },
+        {
+            "degree": "Associate of Arts in Law / Legal Studies",
+            "school": "Los Angeles City College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

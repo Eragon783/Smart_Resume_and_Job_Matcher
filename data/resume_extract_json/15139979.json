@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Joint Base Pearl Harbor Hickam, Hawaii, United States",
+    "summary": "Knowledgeable Engineering Superintendent well-versed in supporting projects and managing related documentation. First-rate multitasker, problem-solver and organizer with methodical and thorough approach. Proficient in PowerPoint and Word Documents.",
+    "skills": [
+        "Administrative support",
+        "AP",
+        "Critical thinking",
+        "Doors",
+        "Engineer",
+        "Senior Management",
+        "Forms",
+        "Functional Leadership",
+        "Machinery",
+        "Navy",
+        "Oil",
+        "Organizational",
+        "Pearl",
+        "Personnel",
+        "Personnel management",
+        "Pick",
+        "Problem solving",
+        "Progress",
+        "Project management",
+        "Proposals",
+        "Quality assurance",
+        "Repairs",
+        "Reporting",
+        "Requirement",
+        "Switches",
+        "Time management",
+        "Troubles",
+        "Technical review",
+        "Blueprint understanding",
+        "Project support",
+        "Document control",
+        "Engineering operational functions",
+        "SharePoint",
+        "Manufacturing systems integration",
+        "Team management"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Assistant",
+            "company": "Department of the Navy",
+            "start_date": "01/2019",
+            "end_date": "Present",
+            "description": "Supports twelve ships in the waterfront, provides technical expertise to visiting ships, trains over 60 personnel in problem solving, management and equipment repairs; responsible for maintenance and training for homeported surface ships at JBPHH, Hawaii; provides administrative support to sailors' families."
+        },
+        {
+            "title": "Electrical Superintendent",
+            "company": "USS JOHN PAUL JONES (DDG-53)",
+            "start_date": "06/2014",
+            "end_date": "12/2018",
+            "description": "Oversaw master project scheduling and plans for electrical installations; provided leadership to ensure quality and safety; mentored I&E supervisors and contract personnel; developed look-ahead schedules; ensured compliance with local and state codes."
+        },
+        {
+            "title": "Engineering Assistant",
+            "company": "USS PORT ROYAL (CG-73)",
+            "start_date": "10/2007",
+            "end_date": "11/2010",
+            "description": "Led electrical crew scheduling and coordination; supervised lower-level electricians; followed electrical codes; tested installations for circuit continuity, compatibility and safety; coordinated maintenance schedules."
+        },
+        {
+            "title": "Electrical Apprentice",
+            "company": "US Navy",
+            "start_date": "10/2002",
+            "end_date": "09/2007",
+            "description": "Apprentice performing electrical tasks under supervision; followed electrical and building codes; built controllers and panels; tested wiring and systems for faults; maintained safety and organization."
+        }
+    ],
+    "education": [
+        {
+            "degree": "GED",
+            "school": "State of Ohio",
+            "year": "2000"
+        }
+    ],
+    "certifications": [
+        "Engineering Common Core (NAVY A-651-0118)",
+        "Engineering Mechanical (NAVY A-651-0120)",
+        "Gas Turbine Mechanical (NAVY A-652-0298)",
+        "Shipboard Gage Calibration (A-652-0240)",
+        "Shipboard Firefighting (A-495-0018)",
+        "Waste Heat Boilers (A-652-0188)",
+        "Class Facilitator Instructional Delivery Continuum",
+        "Machinery Control System",
+        "Marine Maintenance And Ship Repair 3-M System Coordinator/Inspector"
+    ],
+    "languages": [
+        "English"
+    ]
+}

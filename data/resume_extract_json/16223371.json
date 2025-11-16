@@ -1,0 +1,65 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "SALES Summary To obtain a position where I can utilize my skills and work in an environment that will enhance my knowledge and career. Great organization and communication skills that will aid in excellent customer service and satisfaction.",
+    "skills": [
+        "Bi-lingual",
+        "Excellent communication skills",
+        "Outstanding people skills",
+        "Creative",
+        "insightful",
+        "innovative",
+        "assertive",
+        "Leadership- result oriented and goals achiever",
+        "Efficient under pressure",
+        "Proficient phone skills"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "03/2016",
+            "end_date": "Current",
+            "description": "Managing job after sale to completion of install Handling claims Invoices Ordering material Exchanges and returns Track down custom orders to make sure they arrive on time Up-selling customers on special materialsManaged wide variety of customer services and administrative tasks to resolve customer issues quickly and efficiently"
+        },
+        {
+            "title": "Install Sales Coordinator",
+            "company": "Company Name",
+            "start_date": "03/2014",
+            "end_date": "03/2016",
+            "description": "Managing job after sale to completion of install Handling claims Invoices Installer payroll Ordering material Exchanges and returns Track down custom orders to make sure they arrive on time Up-selling customers on special materials Managed wide variety of customer services and administrative tasks to resolve customer issues quickly and efficiently"
+        },
+        {
+            "title": "Keyholder/Sales Associate/Copy Center Supervisor",
+            "company": "Company Name",
+            "start_date": "03/2008",
+            "end_date": "12/2013",
+            "description": "Open/close the store in place of manager. Handle customer \"issues\" in a professional manner. Match customers with the absolute best solution to meet their needs. Complete customer orders in a timely manner. Manage & help all departments of the store reach an exceed sales budgets & goals. Train all new associates in correct policy and procedure. Prepare deposit for previous day of business. Cashier/ Customer Services"
+        },
+        {
+            "title": "Cashier/ Customer Services",
+            "company": "Company Name",
+            "start_date": "01/2006",
+            "end_date": "03/2014",
+            "description": "Responsibilities Customer service. Meet & exceed sales goals. Help customer find solutions for his/her business or home. Re-stock and clean front end at the end of shift."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business, Freshman",
+            "school": "Truckee Meadows Community College",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "West High School",
+            "year": "2007"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Bi-lingual"
+    ]
+}

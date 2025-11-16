@@ -1,0 +1,90 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced Field Application Scientist with a unique balance of comprehensive, academic, wet-bench experience across all research sectors, a strategic understanding of scientific business including field marketing and technical sales, along with an ability to work alongside dynamic, intelligent teammates to close business for the team.",
+    "skills": [
+        "Time and Territory Management",
+        "Molecular Biology Techniques",
+        "Assay Design/Development",
+        "Presentation Skills",
+        "DNA/RNA Sequencing",
+        "PCR",
+        "Cell Biology/Tissue Culture",
+        "Data Analysis/Software",
+        "Field Application Scientist",
+        "Product Specialist",
+        "High Throughput Screening (HTS)",
+        "Virology",
+        "Immunology",
+        "Real Time PCR",
+        "RT-PCR",
+        "Sample Preparation",
+        "Assay Troubleshooting",
+        "Scientific Writing",
+        "Scientific Presentations",
+        "Seminars",
+        "Strategic Marketing",
+        "Leadership",
+        "Sales"
+    ],
+    "experience": [
+        {
+            "title": "Adjunct Faculty, Zanvyl Kreiger School of Arts and Sciences, Advanced Academic Programs",
+            "company": "Zanvyl Kreiger School of Arts and Sciences, Advanced Academic Programs",
+            "start_date": "February 2013",
+            "end_date": "December 2015",
+            "description": "Co-Designed and Lectured for 12-14 graduate students attending the High Throughput Screening (HTS) and Automation Lab Course; Designed and executed 7 labs across detection chemistries used in HTS; Provided lectures on physical chemistry principles of reagents used in HTS labs; Educated graduate students on HTS techniques, instrumentation, software analysis, and experimental designs; Created quizzes, exams, and a final comprehensive exam for grading."
+        },
+        {
+            "title": "Senior Field Application Scientist/Product Specialist",
+            "company": "PerkinElmer",
+            "start_date": "November 2005",
+            "end_date": "Present",
+            "description": "Member of a regional sales team in PerkinElmer's Discovery and Analytical Solutions division. Provided pre-sales and post-sales application support to generate revenue (e.g., in 2016) in the territory. Facilitated relational sales through field support across Pharmaceutical, Industrial/Biotech, Government, Military, Academic, and Pre-Clinical Labs. Initiated scientific discussions to introduce PerkinElmer's HTS reagents, consumables, multimodal plate readers, and analysis software for complex assay development projects. Conducted on-bench demonstrations of Alpha, LANCE, DELFIA, and Luminescence chemistries in various plate formats. Advised on assay design, constructed matrices and workflows, and assisted with data analysis. Designed and executed offsite trainings for Sales Specialists and FAS. Gathered customer feedback for distribution to Field/Strategic Marketing, R&D, and Manufacturing; collaborated with R&D to troubleshoot field issues and push reagent solutions."
+        },
+        {
+            "title": "PCR/SDS/Genomic Assays/SPS Technical Application Specialist",
+            "company": "PerkinElmer",
+            "start_date": "February 2000",
+            "end_date": "November 2005",
+            "description": "Provided technical recommendations on Applied Biosystems product lines; acted as liaison between product group, sales, service and customers to add value through pre-sales and post-sales activities. Maintained leadership in managing and communicating Sample Preparation Systems information to the TAS group. Conducted training seminars on SPS, PCR, SDS, and Real-Time instrumentation; created and edited support documentation, FAQs, tutorials, and instructions for customers. Trained new hires and updated colleagues with new product/theoretical information. Responsibilities included Lab Monitor, Lab Safety Officer duties, and administrative duties for the TAS group."
+        },
+        {
+            "title": "Biologist",
+            "company": "Unknown",
+            "start_date": "August 1995",
+            "end_date": "February 2000",
+            "description": "Constructed a full-length consensus clone of GB Virus B (GBV-B), an animal virus related to HCV. Used nested RT-PCR to obtain viral cDNA; discovered novel 3' end sequence and contributed to the construction of the infectious GBV-B clone, pGBB. Analyzed RT-PCR data to support the argument that GBV-C/HGV is not a hepatitis virus with clinically relevant disease. Investigated viability of GB Virus A/B as surrogate models. Performed RNA structure analysis and DNA sequencing using in-house software; created written guidelines for standard lab procedures in a Clean Room environment; trained personnel; developed vendor relationships for procurement."
+        },
+        {
+            "title": "Research Assistant II",
+            "company": "Unknown",
+            "start_date": "July 1992",
+            "end_date": "August 1995",
+            "description": "Assembled HIV retroviral vectors; transfected HIV DNA into mammalian cell lines; tested RNA transcription and DNA integration via Northern/Southern blot. Applied cell culture techniques for viral studies; analyzed transfected cell lines for syncytium formation as a marker of in vitro HIV infection. Performed DNA sequence data analysis using ABI 373 A; synthesized primers using ABI 394; analyzed data with sequencing software; contributed molecular biology assistance to HIV/SIV research."
+        },
+        {
+            "title": "Process Development Associate",
+            "company": "Unknown",
+            "start_date": "March 1989",
+            "end_date": "July 1992",
+            "description": "Performed microbiological screening to elucidate proteins with commercial value; conducted chemiluminescent and spectrophotometric assays for protease activity; monitored pH, aeration, glucose, and enzyme production. Operated 10-1000 L fermenters for production of biologicals. Performed DNA sequencing analysis, GC, protein chromatography, protein precipitation, and enzyme assays as QC for pilot-scale biologicals."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Biotechnology",
+            "school": "Johns Hopkins University",
+            "year": "2002"
+        },
+        {
+            "degree": "Bachelor of Science: Biotechnology",
+            "school": "East Carolina University",
+            "year": "1988"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

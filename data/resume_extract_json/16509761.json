@@ -1,0 +1,53 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Competent and reliable professional seeking an internship or co-op position that will allow me to apply my education and enthusiasm in a professional, mutually beneficial, growth-oriented business environment.",
+    "skills": [
+        "Adobe Photoshop",
+        "Adobe Premiere"
+    ],
+    "experience": [
+        {
+            "title": "Digital Media Intern",
+            "company": "Company Name",
+            "start_date": "01/2017",
+            "end_date": "Current",
+            "description": "Researched and implemented the use of immersive technology like Oculus Rift, HTC Vive and Samsumg VR in Florida International University's Virtual Reality Lab Collaborated in the production and post-production of 360 video content Published an article on an inter-displinary play focused on Sea Level Rise for FIU's Inspicio Magazine"
+        },
+        {
+            "title": "Marketing Assistant",
+            "company": "Company Name",
+            "start_date": "09/2015",
+            "end_date": "06/2016",
+            "description": "Assisted Product Managers with the launch of new products Participated in weekly customer briefings and team meetingsÂ Supported the marketing team in advertising new products through Social Media Gained useful knowledge on financial statements and how they are leveraged by the finance team to enhance daily business operations."
+        },
+        {
+            "title": "Project Engineer Assistant",
+            "company": "Company Name",
+            "start_date": "08/2014",
+            "end_date": "12/2014",
+            "description": "Assisted project engineer, accounting, and superintending staff with daily duties Collaborated with construction observation, staking, and administration duties"
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "12/2013",
+            "end_date": "06/2015",
+            "description": "Ensure high levels of customer satisfaction while maintaining excellent sales service Assess customers' needs and provide assistance and information on product features"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Digital Media Communications",
+            "school": "Florida International University",
+            "year": "2018"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

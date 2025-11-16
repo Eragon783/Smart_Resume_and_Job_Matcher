@@ -1,0 +1,124 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Provide customers with strategic guidance in regard to IT technology, defining software, hardware and network requirements, developing agreed solutions and implementing new systems; assist customers with change-management activities, designing, testing, installing and monitoring new systems; independent and objective IT guidance; Windows 7 migrations; server rebuilds and installs; laptop and desktop rebuilds and HDD recovery; virus/malware removal; system cleanup; WiFi maintenance; website design; experienced in managing vendor relationships and high-priority technology projects for Fortune 500 users.",
+    "skills": [
+        "A+",
+        "Active Directory",
+        "auditing",
+        "automation",
+        "Avaya",
+        "Backup Exec",
+        "budget",
+        "cables",
+        "CD-ROM",
+        "change-management",
+        "Citrix",
+        "hardware",
+        "Encryption",
+        "Dell",
+        "designing",
+        "hard drives",
+        "help desk",
+        "HP",
+        "IBM",
+        "IMAC",
+        "Inventory",
+        "ITIL",
+        "LAN",
+        "Lotus Notes 6.5",
+        "managing",
+        "Access",
+        "Excel",
+        "Microsoft Office 97",
+        "Microsoft Office Specialist",
+        "Microsoft Outlook",
+        "Windows 7",
+        "2000",
+        "Windows XP",
+        "Microsoft Word",
+        "Enterprise",
+        "Network",
+        "networking",
+        "networks",
+        "Novell",
+        "Operating System",
+        "PC's",
+        "printer",
+        "processes",
+        "reporting",
+        "Research",
+        "Service Level Agreement",
+        "strategic",
+        "switches",
+        "Symantec",
+        "System Administrator",
+        "telephony",
+        "Tivoli",
+        "Troubleshoot",
+        "Troubleshooting",
+        "Visio",
+        "Voice communications",
+        "VPN",
+        "WAN",
+        "Website design",
+        "ZENworks"
+    ],
+    "experience": [
+        {
+            "title": "IT Consultant",
+            "company": "Company Name",
+            "start_date": "2013-07",
+            "end_date": "Present",
+            "description": "Provide customers with strategic guidance in regard to IT technology - defining software, hardware and network requirements, developing agreed solutions and implementing new systems; assist customers with change-management activities, designing, testing, installing and monitoring new systems; independent and objective advice on the use of IT; Windows 7 migrations; server rebuilds; server installs; laptop and desktop rebuilds HDD recovery; virus and malware removal; system clean up; WIFI maintenance; Website design."
+        },
+        {
+            "title": "End User Computing Architect",
+            "company": "Company Name",
+            "start_date": "2009-12",
+            "end_date": "2013-07",
+            "description": "Symantec Endpoint Protection Administrator; BigFix IT Asset & Software; Inventory System Administrator; JAMF Administrator using Casper; Novell ZENworks Administrator; ServiceNow Implementation; GoToAssist Remote Support Administrator; Laptop and Desktop standard design and implementation; IT Asset Inventory auditing & reporting; Windows XP & Windows 7 PC Operating System Architecture; Windows 7 rollout; Managing vendor relationships; Capital budget for hardware refresh (2 - 4 million); HP/Dell/Lenovo Systems; Research and recommend infrastructure and platform tools and technologies; 3rd level support for XP/Windows 7 and IOS devices; Virus, Malware, Phishing expertise; Active Directory, Maintenance, Password resets, Access; Troubleshooting all platform levels."
+        },
+        {
+            "title": "Information Technology Field Services Specialist",
+            "company": "Company Name",
+            "start_date": "2006-06",
+            "end_date": "2009-12",
+            "description": "Migrated 900+ end user computers & networks to new Richmond, VA headquarters; Duties included preparation of equipment, telephony diagnostic, and testing of network devices including server, tape libraries, and switches; Perform weekly on-call rotation, with 24/7 hour response to urgent incidents affecting supported location; Troubleshoot user submitted tickets ITIL, Remedy, Team Track help desk management software packages; Deployed systems to end users as older systems are replaced, PC life cycle management and refresh; Creating/deleting/modifying/configuring users, mailbox, distribution list, and public folders, using Lotus Notes 6.5 and Microsoft Outlook; Assist user in support and installation of software for proprietary and standard hardware configurations; Assist with network connectivity problems involving VPN, LAN, WAN connections; Maintain inventory data, including on-hand stock, disposal, and new equipment orders; Support enterprise mobile devices for corporation, utilizing Blackberry Enterprise Server; Execute mass user relocation and IMAC projects; Service Level Agreement & Incident Report development."
+        },
+        {
+            "title": "Computer Lab Educator",
+            "company": "Company Name",
+            "start_date": "2005-06",
+            "end_date": "2006-06",
+            "description": "Resolve computer lab user incidents; Troubleshoot networking & PC incidents in classrooms and lab; Timely, accurate escalation of critical technology incidents; PC component troubleshooting & replacement; Assist students with lab assignments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Management Information Systems",
+            "school": "Auburn University",
+            "year": ""
+        },
+        {
+            "degree": "Information Systems Technology",
+            "school": "Sargeant Community College",
+            "year": ""
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Central High School",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Microsoft Office Specialist",
+        "Symantec Endpoint Protection",
+        "Symantec Backup Exec",
+        "A+",
+        "Network+"
+    ],
+    "languages": []
+}

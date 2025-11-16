@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Executive Profile Territory Human Resource Manager offering outstanding presentation, communication and cross-cultural team management skills. High-energy, results-oriented leader who ensures a fair, diverse, and engaged workforce.",
+    "skills": [
+        "Human Resources Leadership",
+        "Employee Relations",
+        "Certified Strategic Workforce Planner",
+        "Employee Development",
+        "Performance Analysis",
+        "Coaching",
+        "Counseling",
+        "Leadership and communication skills",
+        "Advising and navigating crucial conversations",
+        "Employee Engagement",
+        "Wage Analysis",
+        "Legal Compliance"
+    ],
+    "experience": [
+        {
+            "title": "Territory HR Manager",
+            "company": "Company Name",
+            "start_date": "2010-10",
+            "end_date": "Present",
+            "description": "Advises managers on discipline issues; analyzes barriers to performance and devises strategies; counsels staff and management to apply policies in compliance with state/federal law. Plans, organizes and controls all human capital activities for the territory; participates in workforce plans, succession planning, talent management, and strategic direction. Communicates effectively with employees and executives; mitigates risk by addressing associate concerns. Oversees recruiting to ensure adherence to company policies and legal guidelines; monitors HR programs and provides training/coaching; coordinates with corporate counsel on legal responses to formal charges (FMLA, ADA, FLSA, DEH, OSHA, DOL, CFRA, CAPDL, DFEH, EEOC). Partners with leaders to implement strategies, develops staff, and drives engagement and retention."
+        },
+        {
+            "title": "Store Manager",
+            "company": "Company Name",
+            "start_date": "2000-03",
+            "end_date": "2010-10",
+            "description": "Led store operations with a team of 4 Executives, 4 Assistants, 20 Supervisors and 120 department associates on a $24 million volume. Directed merchandising and presentation to meet standards; managed staffing, scheduling, payroll projections and expenses; led hiring and development; implemented loss prevention and inventory control programs; ensured pricing and policy compliance; fostered high-performing teams and strong customer satisfaction."
+        },
+        {
+            "title": "District Business Planning Manager - Progressive positions leading to the Multi Unit level",
+            "company": "Company Name",
+            "start_date": "1989-04",
+            "end_date": "1999-10",
+            "description": "Managed inventory control for two divisions and 16 stores across 3 states (volume $110 million). Developed merchandise plans to meet market needs and maximize sales and gross margins. Analyzed data/trends to direct store management through meetings, plan-o-grams, floor layouts, and training. Coordinated divisional training for 45 first-level managers, 25 supervisors, and 500+ sales associates; planned and supervised merchandising, selling and promotions for Women's division. Opened new stores; hired staff and oversaw initial setup."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Management",
+            "school": "Metropolitan State College of Denver",
+            "year": "1995"
+        },
+        {
+            "degree": "Strategic Work Force Planning",
+            "school": "Human Capital Institute",
+            "year": "2016"
+        },
+        {
+            "degree": "Certified Strategic Workforce Planner",
+            "school": "",
+            "year": ""
+        },
+        {
+            "degree": "Influencing Without Direct Authority",
+            "school": "University of Wisconsin",
+            "year": "2016"
+        }
+    ],
+    "certifications": [
+        "Certified Strategic Workforce Planner"
+    ],
+    "languages": []
+}

@@ -1,0 +1,88 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Motivated real estate professional with 16 years of experience. Versed in all aspects of real estate, time management, negotiation, conflict resolution, property management, asset and portfolio management and administrative functions.",
+    "skills": [
+        "Asset Management",
+        "Administrative",
+        "Client Relations",
+        "Computer Proficient",
+        "Conflict Management",
+        "Contract Negotiation",
+        "Digital Photography",
+        "File Management",
+        "Marketing",
+        "Microsoft Office",
+        "Organizational Skills",
+        "Problem Solving",
+        "Property Management",
+        "Real Estate and Tax Research",
+        "Sales Software: Sales Force",
+        "Social Media"
+    ],
+    "experience": [
+        {
+            "title": "Realtor",
+            "company": "Company Name, City, State",
+            "start_date": "10/1999",
+            "end_date": "Current",
+            "description": "Negotiation. Managed the entire process of selling real estate. Minimized losses on foreclosures through analysis, management, marketing and liquidation of real estate owned properties by clients and investors. Evaluated economics of the property (including BPO and appraisal analysis) for month-end figures and the best marketing disposition plans. Prepared listings, sales contracts, and counter-offers for negotiation with banks. Negotiated seller's deficiencies to be waived with financial institutions and others who had a vested monetary interest in the property. Provided marketing direction to brokers and monitored the performance of outside agents. Evaluated preforeclosure BPOs and appraisals to assist in bidding and buydown analysis. Communicated with clients to understand their property needs and preferences. Negotiated contracts on behalf of clients. Ensured that the legal formalities are completed prior to closing dates."
+        },
+        {
+            "title": "In-House Realtor",
+            "company": "Company Name, City, State",
+            "start_date": "04/2014",
+            "end_date": "12/2015",
+            "description": "Buyer's Agent for Restore Utah. Successfully negotiated and closed 55 MLS transactions during my one year contract. Identified long term value in properties. Prepared documents such as representation contracts, purchase contracts and estimated settlement statements. Evaluated properties, established values, and developed marketing strategies that maximized sales proceeds and reduced marketing time. Monitored multiple databases to keep track of all company inventory."
+        },
+        {
+            "title": "Sr. REO Asset Manager",
+            "company": "Company Name, City, State",
+            "start_date": "07/2007",
+            "end_date": "06/2011",
+            "description": "Effectively managed the marketing of REO assets according to specific timelines while focusing on lowering loss severity. Monitored the eviction process and negotiated cash-for-keys with occupants. Evaluated properties, established values, and developed marketing strategies that maximized sales proceeds and reduced marketing time. Supervised brokers to ensure that properties were being marketed according to client standards. Managed third party vendors and obtained bids, overseeing repairs and maintaining properties. Negotiated contracts based on the best interests of clients. Met all monthly and quarterly sales goals."
+        },
+        {
+            "title": "Tax Research Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "02/2005",
+            "end_date": "08/2006",
+            "description": "Produced tax reports for builders and title companies. Extensive file management and maintenance. Performed tax research including the research of all 1915 and 1972 Act Bonds including Mello-Roos tax assessments for the state of California. Delivered tax reports on time per clients and customer time constraints."
+        },
+        {
+            "title": "Licensed Title and Escrow Officer",
+            "company": "Company Name, City, State",
+            "start_date": "05/2003",
+            "end_date": "11/2003",
+            "description": "Actively communicated and assisted realtors, mortgage bankers, and loan officers with real estate transactions of all types. Maintained connections with sellers and buyers, financial institutions, homeowner's associations and other institutions that had vested interest in the properties. Prorated fees such as real property taxes, per the contract, and prepared the settlement statements and loan documents. Reviewed documents ensuring all conditions and legal requirements were fulfilled. Coordinated in-house and outside closings."
+        },
+        {
+            "title": "Realtor / BPO Specialist / Accredited Buyer's Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "08/1999",
+            "end_date": "05/2003",
+            "description": "Negotiated, facilitated and managed real estate transactions. Followed up with prospective buyers regarding incentives from the builder and new developments in the surrounding area. Developed and maintained a list of properties suited to different needs and budgets. Managed contracts, negotiations and all aspects of sales to finalize purchases and exceed customer expectations. Negotiated contracts on behalf of clients. Guided clients from beginning to end of the home buying process in choosing the right property. Extensive file management and document imaging. Performed all property evaluations for banks, relocation and asset management companies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Escrow License",
+            "school": "DW Moore",
+            "year": "2003"
+        },
+        {
+            "degree": "Real Estate License",
+            "school": "Stringham Real Estate School",
+            "year": "1999"
+        }
+    ],
+    "certifications": [
+        "UT Real Estate License",
+        "Accredited Buyer's Representative",
+        "Title and Escrow",
+        "REO and Foreclosures"
+    ],
+    "languages": []
+}

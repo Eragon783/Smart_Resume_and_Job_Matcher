@@ -1,0 +1,108 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "India",
+    "summary": "HR professional with nearly 5 years of experience in HR operations, benefits, employee relations, HRIS, payroll, HR metrics, and employee database management. Strong communicator and negotiator with conflict resolution skills; experienced in developing and implementing HR plans and procedures with minimal guidance.",
+    "skills": [
+        "HR Operations",
+        "Benefits",
+        "Employee Relations",
+        "HRIS",
+        "Payroll",
+        "HR Metrics",
+        "Employee Database Management",
+        "Microsoft Office",
+        "Excel",
+        "SAP",
+        "Oracle",
+        "Cognos",
+        "Oracle BI",
+        "Discoverer",
+        "Kronos",
+        "KABA",
+        "Time Keeping",
+        "Compensation",
+        "Budgetary Planning",
+        "Audit & MIS",
+        "Legal Compliance",
+        "Training",
+        "Excel Advanced",
+        "HR Implementation",
+        "Requirement Gathering",
+        "Process Flows",
+        "Testing",
+        "Training Documentation",
+        "Recruit-to-Retire",
+        "Self Service HR (SSHR)",
+        "Payroll Calculation",
+        "Personnel Time Management",
+        "Evaluation",
+        "Recruitment",
+        "Reporting"
+    ],
+    "experience": [
+        {
+            "title": "HR/Payroll Consultant",
+            "company": "L'Oreal India Pvt Ltd",
+            "start_date": "January 2012",
+            "end_date": "April 2014",
+            "description": "Managed compensation & benefits for 1300 employees; involved in Oracle HRMS implementation; gathered requirements and provided IT with documentation; documented process flows including Recruit-to-Retire, learning management, and iRecruitment; trained HR team on Oracle ERP; collaborated with IT to implement complex reports (HSSE, ERA, maternity act, provident fund); tested reports and ensured data integrity; led payroll integration for a newly acquired company."
+        },
+        {
+            "title": "HR Consultant",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "January 2012",
+            "description": "Handled end-to-end employment cycle from onboarding to exit formalities; processed monthly salary changes including merit increases, promotions, incentives, and pay adjustments; reconciled payroll and released payments on time; managed performance reviews; maintained HR data in Oracle; contributed to policy development and process improvements; produced regular HR metrics reports."
+        },
+        {
+            "title": "Executive, HR & Payroll",
+            "company": "Company Name",
+            "start_date": "January 2008",
+            "end_date": "January 2011",
+            "description": "Single point of contact for 2000 employees across client engagements; managed recruitment phases (vacancy understanding, postings, screening, interviews); processed salary and ensured timely disbursement; reconciled payouts with accounts; prepared wage registers, muster rolls, and leave cards; maintained MIS for final settlements; acted as liaison between management and employees; used HRIS (SAP) for payroll and attendance; contributed to policy implementation and client relations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Arts - Economics",
+            "school": "University of Mumbai",
+            "year": 2006
+        },
+        {
+            "degree": "Diploma in Human Resources",
+            "school": "Welingkar Institute of Management India",
+            "year": 2008
+        },
+        {
+            "degree": "MBA in Human Resources",
+            "school": "Welingkar Institute of Management India",
+            "year": null
+        },
+        {
+            "degree": "PHR Certification",
+            "school": "HR Certification Institute",
+            "year": 2015
+        },
+        {
+            "degree": "PHR Certification",
+            "school": "Saylor Academy",
+            "year": 2015
+        },
+        {
+            "degree": "Human Resource Management Certification",
+            "school": "Ulyanovsk State University of Russia",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        "PHR Certification (HR Certification Institute) - 2015",
+        "PHR Certification (Saylor Academy) - 2015",
+        "Human Resource Management Certification - 2014",
+        "Diploma in Human Resource - 2008"
+    ],
+    "languages": [
+        "English"
+    ]
+}

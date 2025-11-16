@@ -1,0 +1,54 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior Finance leader with 12+ years of professional experience heavily focused in financial analytics and accounting practices. Professional presence with a solid work ethic and customer service oriented. Team player who is comfortable working with all levels of management and staff. Creative problem solver who provides and implements cost effective solutions and continuously looking for way to create efficiencies and drive business profitability. Detail oriented with advanced skills in all Microsoft office applications.",
+    "skills": [
+        "Accounting",
+        "Budgeting and Planning",
+        "Business Analysis",
+        "Business process re-engineering",
+        "Cost reduction analysis",
+        "Finance Reporting",
+        "Financial Statements",
+        "Forecasting",
+        "Inventory reconciliations",
+        "Manufacturing Costing analysis",
+        "Oracle",
+        "Payroll",
+        "Risk management",
+        "Sales",
+        "System conversions/Implementations",
+        "SAP",
+        "Six Sigma",
+        "Strategic planning",
+        "Tax returns",
+        "Trend analysis"
+    ],
+    "experience": [
+        {
+            "title": "DIRECTOR OF FINANCE",
+            "company": "Company Name City, State",
+            "start_date": "07/2011",
+            "end_date": "Current",
+            "description": "Facilitated and led the logistics finance team during month-end close processes, including invoicing, journal entries, accrual obligations and account reconciliations. Created executive analysis reports highlighting business issues, potential risks and profit opportunities. Created detailed financial models and analytical tools to facilitate variance analysis. Managed 250M+ annual expense budgets across logistics finance organization. Provided guidance for monthly forecast process and giving strategic financial leadership to the business on achieving goals. Analyzed financial, operational, and accounting data for the development of reports delivered to various business segments. Supported reporting and analytics such as KPIs and dashboards. Provided metrics and KPIs to improve the key drivers of operations enabling effective management, decision-making and execution. Performed ad hoc reporting and analysis as required to support the business and its leaders. Recap and analyze business results versus plan and forecast on a weekly, monthly, quarterly and ad hoc basis to ensure goals are reached. Streamlined spending analysis to a more accurate, efficient and automated process. Designed and created weekly and monthly spending reports. Executed and reported variance and gap analysis. Created monthly PowerPoint presentations illustrating business performance and goals. Participated in ERP system transitions and new implementations in finance organization. Worked across all business functions to create strong relationships and ensure communication across the company and knowledge of downstream/upstream processes. Participated in quarterly and annual audits with internal and external partners. Created and presented pro forma statements and what-if analyses to executive leadership."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA : FINANCE",
+            "school": "University of North Texas",
+            "year": "2006"
+        },
+        {
+            "degree": "Bachelor of Science : ACCOUNTING",
+            "school": "Southeastern Oklahoma State University",
+            "year": "2003"
+        }
+    ],
+    "certifications": [
+        "Six Sigma/Lean Management Certified"
+    ],
+    "languages": []
+}

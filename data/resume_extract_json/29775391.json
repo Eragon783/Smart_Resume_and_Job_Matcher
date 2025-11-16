@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Executive Banquette Sous Chef with over 13 years of experience in hospitality, specializing in banquettes operations for large and small events, ceremonies, and massive functions. Skilled in baking, pastries, roasting, cooking, grilling, cold larder, garnishing, tasting, customer service. Experienced in all sections and venues, cuisines and food service. Proven ability to manage kitchen staff, reduce food and labor costs, and maintain high hygiene standards in high-pressure environments. Strong leadership, menu development, and event planning with focus on quality and profitability.",
+    "skills": [
+        "Beautiful presentation of food",
+        "Institutional and batch cooking",
+        "Cake decorating expertise",
+        "Safe food handling procedures",
+        "Mediterranean cuisine expert",
+        "Effective planner",
+        "Extensive catering background",
+        "Food presentation talent",
+        "Hospitality and service industry background",
+        "Menu marketing expertise",
+        "Special events planning",
+        "Staff training",
+        "Skilled waitstaff",
+        "Catering",
+        "Inventory management systems",
+        "Courteous and helpful",
+        "Hotel operations and management",
+        "Event planning and coordination",
+        "POS systems",
+        "Hospitality background",
+        "Five-star hotel experience",
+        "Resort experience",
+        "Food and beverage services",
+        "Natural leader",
+        "Team building",
+        "Skilled negotiator"
+    ],
+    "experience": [
+        {
+            "title": "Executive Banquette Sous Chef",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "2014-06",
+            "description": "Reduced food costs by 18 percent by using seasonal ingredients, set standards for portion size and minimized waste. Managed kitchen staff by recruiting, training, supervising, evaluating and enforcing discipline when necessary. Verified proper portion sizes and consistently attained high food quality standards. Maintained a skilled kitchen staff by properly coaching, counseling and disciplining employees. Instructed new staff in proper food preparation, food storage, use of kitchen equipment and utensils, sanitation and safety issues. Actively involved in cost control, sanitation, menu development, training, recruitment, private dining and catering. Ensured all staff understood expectations and parameters of kitchen goals and daily kitchen work. Achieved and exceeded performance, budget and team goals. Maintained smooth and timely operations in preparation and delivery of meals and kitchen sanitation. Promptly reported any maintenance and repair issues to Executive Chef. Recommended menu items to the Executive Chef for new dish development, holidays, special events and promotions. Met production requirements for all aspects of banquet and outlet desserts and breakfast pastries. Verified freshness of products upon delivery."
+        },
+        {
+            "title": "Head Chef",
+            "company": "Moulin Noir European Bistro",
+            "start_date": "2008-01",
+            "end_date": "2012-01",
+            "description": "Running a busy cafe / bistro / restaurant. Catering. Serving over 600 meals daily. Reducing costs for the business. Comprehensive knowledge of food and catering trends. Accurately and efficiently prepared healthy, delicious fish, meat and vegetable-based dishes. Verified freshness of products upon delivery. Prepared food items consistently and in compliance with recipes, portioning, cooking and waste control guidelines. Reduced food costs by 15 percent by using seasonal ingredients, setting standards for portion size and minimizing waste. Managed kitchen staff by recruiting, selecting, hiring, orienting, training, assigning, scheduling, supervising, evaluating and enforcing discipline when necessary. Verified proper portion sizes and consistently attained high food quality standards. Maintained a skilled kitchen staff by properly coaching, counseling and disciplining employees. Developed menus, pricing and special food offerings to increase revenue and customer satisfaction. Instructed new staff in proper food preparation, food storage, use of kitchen equipment and utensils, sanitation and safety issues. Actively involved in cost control, sanitation, menu development, training, recruitment, private dining and catering. Ensured all staff understood expectations and parameters of kitchen goals and daily kitchen work. Led shifts while personally preparing food items and executing requests based on required specifications. Regularly interacted with guests to obtain feedback on product quality and service levels. Achieved and exceeded performance, budget and team goals. Maintained smooth and timely operations in preparation and delivery of meals and kitchen sanitation. Created and managed budgets for operations and capital equipment. Enhanced and maintained the central standardized recipe and ingredient repository, including nutritional and cost information. Properly labeled and stored all raw food ingredients including produce, meat, fish, poultry, dairy and dry goods in the appropriate storage room, walk-in refrigerator, freezer or cooler. Positively engaged with customers, offering menu information, providing suggestions and showing genuine appreciation for their business. Decorated and merchandised quality bakery goods. Ordered and received bakery products and supplies. Properly wrapped, boxed, and weighed bakery department products. Practiced safe food handling procedures at all times."
+        },
+        {
+            "title": "Sous Chef",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2008-02",
+            "description": "Recommended menu items to the Executive Chef for new dish development, holidays, special events and promotions. Assisted customers in placing special orders for large-scale events such as weddings and birthday parties. Successfully reduced the restaurant's annual food and labor costs by 27 % through proper budgeting, scheduling and management of inventory. Verified freshness of products upon delivery. Expertly managed 43 staff and maintained appropriate staffing levels throughout shifts. Comprehensive knowledge of food and catering trends. Accurately and efficiently prepared healthy, delicious fish, meat and vegetable-based dishes. Developed menus, pricing and special food offerings to increase revenue and customer satisfaction. Actively involved in cost control, sanitation, menu development, training, recruitment, private dining and catering."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma",
+            "school": "Academia International",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        "RSA - Responsible Service of Alcohol (Australia) (2004)",
+        "OH&S Short course in Food Garnishing and Specialty Knives",
+        "Culinary Arts Certificate",
+        "Personal Training certificate"
+    ],
+    "languages": [
+        "English",
+        "Hebrew"
+    ]
+}

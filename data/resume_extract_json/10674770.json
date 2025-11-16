@@ -1,0 +1,108 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly analytical and detail-oriented professional; possessing extensive financial statement background in quality assurance, compliance, auditing, customer service and regulatory requirements. Thorough knowledge of: financial reporting, cash and accrual basis accounting, fund basis reporting, GAAP and other accounting standards. Adapt quickly when new software and systems are installed. Proficient with: QuickBooks, MAS, ADP, Condo Manager, Adobe, and all Microsoft applications software. Excel in problem solving and strategic planning skills.",
+    "skills": [
+        "accounting",
+        "accounts payable",
+        "accounts receivable",
+        "ADP",
+        "advertising",
+        "balance sheet",
+        "bank reconciliations",
+        "benefits",
+        "billing",
+        "book keeping",
+        "budget",
+        "cash flow projections",
+        "cash flow",
+        "controller",
+        "credit",
+        "clients",
+        "data collection",
+        "delivery",
+        "documentation",
+        "email",
+        "finance",
+        "financial",
+        "financial reporting",
+        "financial statements",
+        "fixed assets",
+        "general ledger",
+        "inventory",
+        "job costing",
+        "ledger",
+        "legal",
+        "materials",
+        "meetings",
+        "Microsoft Access",
+        "Microsoft Excel",
+        "Excel",
+        "Microsoft Word",
+        "negotiating",
+        "DBA",
+        "Payables",
+        "payroll",
+        "Peachtree",
+        "processes",
+        "coding",
+        "purchasing",
+        "Express",
+        "Quick Books",
+        "QuickBooks",
+        "Research",
+        "Sage",
+        "Sales",
+        "Spreadsheet",
+        "Tax",
+        "software support",
+        "valuation",
+        "year-end"
+    ],
+    "experience": [
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "October 2014",
+            "description": "Performs month-end close and produces financial statements. Reconciles operating and payroll bank accounts; records sales, payroll journals, accrued payroll, and sales tax; submits sales tax to NC Department of Revenue; records inventory adjustments and balance sheet month-end entries. Entered all payables and receivables for seven franchise locations; works with vendors to resolve issues. Maintained franchise documents; collaborated with controller on year-end review. Assembled requested financial and legal documentation for presentation. Maintained weekly franchise royalties and advertising fees spreadsheet used for year-end audit. Managed a company owning and renting 12 commercial properties; negotiated rents, wrote leases, collected rent, managed cash flow, payables, and tenant inquiries. Managed a small farming entity; maintained cash flow, payables, and vendor credit accounts. Entered payroll journals and maintained cash flow for the farming operation. Filed NC Annual Reports for all companies managed by Cary Keisler Inc. and ensured filings were current."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "March 2013",
+            "end_date": "January 2014",
+            "description": "Collected daily deposits for newly entered SOs and balances for completed job-status reports. Interacted with customers on deposits and balances due. Responsible for all PO and non-PO payable entry/coding for all companies. Worked with vendors to resolve payables discrepancies. Pulled weekly unpaid bills reports for cash flow projections. Executed weekly check runs for all companies. Reconciled monthly purchasing American Express cards ($60,000–$100,000+). Assisted in turnover period to fill Purchasing Manager role. Ordered materials and supplies for factory production. Collaborated with VP of Finance and production teams to develop unit valuation for BOM and job costing."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "April 2012",
+            "end_date": "March 2013",
+            "description": "Led balance sheet reconciliations to ensure no discrepancy with General Ledger. Researched and resolved transactions deviating from ordinary operations. Ran project cost reconciliations at month end to ensure billable expenses are posted to projects; provided billing information and correct GL postings. Designed Excel spreadsheets for prepaid employee benefits for end-of-month reconciliation. Reconciled American Express accounts for SDI and Battleware. Managed fixed assets depreciation (10 accounts). Daily reconciliation of SDI's Operating, Interest Sweep, and Line of Credit accounts for cash projections. Coded and posted all payables for SDI and Battleware. Prepared monthly Sales and Use Tax."
+        },
+        {
+            "title": "Financial Management Partner",
+            "company": "Company Name",
+            "start_date": "July 2010",
+            "end_date": "August 2011",
+            "description": "Identified, reported, tracked, and resolved subsidiary ledger discrepancies across revenues and receivables processes. Provided end-to-end financial statement assurance, performing monthly bank reconciliations and applying financial regulations in preparing and delivering financial statements. Supported clients and staff via email on implementations, software support, and financial reporting. Trained accounting staff on QuickBooks, Peachtree, and Excel. Performed duties across accounts payable, accounts receivable, legal coordination and transactional audit. Coordinated lien and foreclosure preparations; researched ownership statuses and balance histories for legal claims. Analyzed interim financial reports and variance explanations; assisted in fund accounting budgeting and presenting at board meetings. Coordinated audits, review, and tax returns; prepared year-end budgets and GL postings to correct errors."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Accounting",
+            "school": "University of North Carolina",
+            "year": 2010
+        },
+        {
+            "degree": "Bachelor of Science: Business Administration - Finance",
+            "school": "University of North Carolina",
+            "year": 2010
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

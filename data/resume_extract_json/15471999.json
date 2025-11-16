@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "High-achieving Sales Associate with extensive background in customer service, sales, client relations and merchandising. Self-directed, self-motivated and able to work well both in a team and independently. Demonstrates reliability, punctuality, strong communication skills, cash handling accuracy and proficiency with POS systems.",
+    "skills": [
+        "customer service",
+        "sales",
+        "client relations",
+        "merchandising",
+        "cash handling",
+        "POS systems",
+        "cash register operations",
+        "time management",
+        "communication",
+        "problem solving",
+        "opening/closing procedures",
+        "store display maintenance",
+        "eyelash extensions",
+        "hair cutting",
+        "hair coloring",
+        "cosmetology",
+        "product demonstration",
+        "retail operations"
+    ],
+    "experience": [
+        {
+            "title": "Designer Stylist",
+            "company": "Company Name",
+            "start_date": "02/2014",
+            "end_date": "11/2014",
+            "description": "Cut, trimmed and shaped hair or hairpieces, based on customers' instructions, hair type and facial features, using clippers, scissors, trimmers and razors Analyzed patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles Scheduled client appointments Eyelash extensions Utilized bleach, dye, or tint hair, using applicator or brush Shampooed, rinsed, conditioned and dried hair according to state regulations Demonstrate and sell hair care products and cosmetics Used cash register, in charge of daily total sales, and answered phone. Helped customers select products that best fit their personal needs. Processed an average of 30 transactions each day in a timely manner. Answered customers' questions and addressed problems and complaints in person and via phone. Opened and closed the store, which included counting cash drawers and making bank deposits. Helped customers select products that best fit their personal needs. Maintained visually appealing and effective displays for the entire store. Educated customers on product and service offerings.Offered exceptional customer service to differentiate and promote the company brand.Consulted with customers on the latest styles and trends.Kept the showroom clean and maintained neat, orderly product displays.Built customer confidence by actively listening to their concerns and giving appropriate feedback."
+        },
+        {
+            "title": "Stylist and Receptionist",
+            "company": "Company Name",
+            "start_date": "12/2012",
+            "end_date": "11/2013",
+            "description": "Cut, trimmed and shaped hair or hairpieces, based on customers' instructions, hair type and facial features, using clippers, scissors, trimmers and razors Analyzed patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles Scheduled client appointments Eyelash extensions Utilized bleach, dye, or tint hair, using applicator or brush Shampooed, rinsed, conditioned and dried hair according to state regulations Demonstrate and sell hair care products and cosmetics Used cash register, in charge of daily total sales, and answered phone. Computed sales prices, total purchases and processed payments.Described merchandise and explain operation of merchandise to customers.Operated a cash register to process cash, check and credit card transactions.Administered all point of sale opening and closing procedures.Explained information about the quality, value and style of products to Influence customer buying decisions."
+        },
+        {
+            "title": "Stylist",
+            "company": "Company Name",
+            "start_date": "07/2012",
+            "end_date": "09/2012",
+            "description": "Cut, trimmed and shaped hair or hairpieces, based on customers' instructions, hair type and facial features, using clippers, scissors, trimmers and razors Analyzed patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles Scheduled client appointments Men's Haircut Utilized bleach, dye, or tint hair, using applicator or brush Shampooed, rinsed, conditioned and dried hair according to state regulations Demonstrate and sell hair care products and cosmetics. Administered all point of sale opening and closing procedures.Guided customers in choosing items that reflected personal style and shape."
+        },
+        {
+            "title": "Student Stylist",
+            "company": "Company Name",
+            "start_date": "01/2011",
+            "end_date": "01/2012",
+            "description": "Cut, trimmed and shaped hair or hairpieces, based on customers' instructions, hair type and facial features, using clippers, scissors, trimmers and razors Analyzed patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles Scheduled client appointments Utilized bleach, dye, or tint hair, using applicator or brush Shampooed, rinsed, conditioned and dried hair according to state regulations Demonstrate and sell hair care products and cosmetics. Explained information about the quality, value and the style of products to Influence customer buying decisions.Guided customers in choosing items that reflected personal style and shape."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Cosmetology License",
+            "school": "Marinello's School of Beauty",
+            "year": 2012
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Eleanor Roosevelt High School",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "Cosmetology License"
+    ],
+    "languages": [
+        "English"
+    ]
+}

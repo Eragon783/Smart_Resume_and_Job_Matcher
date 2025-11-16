@@ -1,0 +1,80 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To provide safe, efficient, and quality care to patients and their families while adhering to policies and procedures.",
+    "skills": [
+        "Nursing",
+        "Emergency medicine",
+        "Immunizations",
+        "Patient care",
+        "Patient safety",
+        "Resuscitation",
+        "Triage",
+        "Medical terminology",
+        "Healthcare statistics and reporting",
+        "Health information systems (CHCS, ALTHA)",
+        "Microsoft Office (Word, Excel, PowerPoint, Outlook)",
+        "Training and mentoring",
+        "HIPAA compliance",
+        "OSHA PPE compliance",
+        "Data visualization"
+    ],
+    "experience": [
+        {
+            "title": "Registered Nurse",
+            "company": "Company Name",
+            "start_date": "2016-06",
+            "end_date": null,
+            "description": "Self‑motivated registered nurse with experience in emergency medicine and health care; dedicated to safe, efficient patient care, adherence to policies and procedures, and mentoring staff. Completed over 120 clinical hours in Medical Surgical, Pediatric, and Psychiatric health services."
+        },
+        {
+            "title": "Medical Technician/ Healthcare Specialist",
+            "company": "Company Name",
+            "start_date": "2010-11",
+            "end_date": "2013-05",
+            "description": "Produced health care statistics/reports from CHCS and ALTHA; tracked appointments and health services; created visual aids with PowerPoint; presented statistical information in weekly meetings; trained and mentored Medical Technicians; collaborated on medical in-service trainings; supported CEUs and first responder training."
+        },
+        {
+            "title": "Medical Technician",
+            "company": "Company Name",
+            "start_date": "2008-08",
+            "end_date": "2010-11",
+            "description": "Extracted physician orders from CHCS, verified demographics, and obtained procedural consent; administered immunizations and updated immunization records; maintained HIPAA practices; adhered to OSHA PPE guidelines."
+        },
+        {
+            "title": "Medical Technician",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2008-08",
+            "description": "Prepared patients for immunizations; administered immunizations; ensured privacy and security of patient information per Privacy Act and HIPAA; followed OSHA safety practices."
+        }
+    ],
+    "education": [
+        {
+            "degree": "ASN (Nursing)",
+            "school": "Columbus Technical College",
+            "year": "2015"
+        },
+        {
+            "degree": "A.S Nursing",
+            "school": "Columbus Technical College",
+            "year": null
+        },
+        {
+            "degree": "BSN",
+            "school": "South University",
+            "year": null
+        },
+        {
+            "degree": "Diploma, General Studies",
+            "school": "Bainbridge High School",
+            "year": "2004"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Customer service oriented individual with relevant work experience and integrity looking to further my career within the accounting industry. Over four years of work experience within student finance. Excellent communication skills including listening, telephone, written, and interpersonal. In- depth knowledge of financial aid/ financial analyst/ account management policies and procedures. Experience working with internal and external auditors in auditing, accounting, and regulatory compliance projects.",
+    "skills": [
+        "Communication",
+        "Customer service",
+        "Financial aid",
+        "Auditing",
+        "Accounting",
+        "Billing and invoicing",
+        "Account reconciliation",
+        "Data entry",
+        "Microsoft Office Suite",
+        "Teamwork",
+        "Analytical skills",
+        "Attention to detail",
+        "Cash handling"
+    ],
+    "experience": [
+        {
+            "title": "Student Finance Consultant",
+            "company": "Company Name, City, State",
+            "start_date": "2014-07",
+            "end_date": "Present",
+            "description": "Provided information, advice and assistance regarding the various types of financial aid available to students. Analyzed student applications and determined eligibility for financial aid. Performed duties in the areas of compliance, reconciliation, professional judgment and satisfactory academic progress. Collected documents, managed, and maintained accurate student files without error. Performed heavy customer contact regarding past due or delinquent account balances. Prepared billing statements and informed current and former students of their financial obligations and options outside of Title IV. Audited student files and resolved concerns and discrepancies for matters related to assigned financial accounts. Responsible for managing multiple tasks in a time-sensitive work environment. Faxing, filing, data entry, and scanning."
+        },
+        {
+            "title": "Financial Aid Reporting Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "2013-06",
+            "end_date": "2014-06",
+            "description": "Conducted research and analysis of student financial data refunding both Title IV and non-title IV overpayments and ineligible funds. Forecasted and assessed financial need(s) of students to ensure financial assistance meets their education goals. Planned, monitored, and reviewed student progress of course completion, evaluating results and financial aid eligibility. Reviewed financial aid and/or loan applications according to institution guidelines to minimize in correct funding. Teamwork with school and home office administrators to ensure student credit balances are resolved accurately and efficiently. Demonstrated a general knowledge of company guidelines, processes, practices, and procedures."
+        },
+        {
+            "title": "Financial Aid Officer/Student Accounts",
+            "company": "Company Name, City, State",
+            "start_date": "2009-09",
+            "end_date": "2012-11",
+            "description": "Provided information, advice and assistance regarding the various types of financial aid available to students. Analyzed student applications and determined eligibility for financial aid. Managed large paperwork caseloads, completed, managed, and maintained completed accurate student files without error. Followed students through until graduation or inactive student status to ensure financial aid eligibility. Informed current and former students of their financial obligations and options outside of Title IV. Teamwork with internal and external auditors in auditing, accounting, and regulatory compliance projects. Prepare billing statements and informed current and former students of their financial obligations and options outside of Title IV. Prepare and process payment transactions. Faxing, filing, data entry, and scanning."
+        },
+        {
+            "title": "Assistant Store Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2007-08",
+            "end_date": "2009-09",
+            "description": "Assisted the store manager in daily operation of the store (occasionally assuming store responsibility in his absence). Managed and maintained a full staff of sales floor, stock room, and overnight associates. Ensured the provision of customer service on the sales floor. Training, scheduling, interviews, payroll. Cash handling, bank deposits, cash drawer management."
+        },
+        {
+            "title": "Front Desk Receptionist",
+            "company": "Company Name, City, State",
+            "start_date": "2007-01",
+            "end_date": "2007-08",
+            "description": "Greet guests and patrons as they arrive. Handle guest check-ins and check-outs appropriately. Operate hotel switchboard, take calls and provide information and transfer calls. Provide guests with room keys and call for bellboys. Provide guests with directions around the hotel. Balance cash at the end of the shift and generate accounting reports for the benefit of the next shift. Professional work references available upon request."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Communications",
+            "school": "Clark Atlanta University",
+            "year": 2006
+        },
+        {
+            "degree": "Microsoft Office Suite Course Completion Certificate",
+            "school": "Atlanta Metropolitan College",
+            "year": 2015
+        }
+    ],
+    "certifications": [
+        "Microsoft Office Suite Course Completion Certificate"
+    ],
+    "languages": []
+}

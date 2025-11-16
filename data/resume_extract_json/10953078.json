@@ -1,0 +1,87 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [
+        "Therapeutic touch",
+        "Teach-back communication",
+        "Assessments",
+        "IV care",
+        "Telemetry care",
+        "Wound care (including wound vacs)",
+        "Dressing changes",
+        "Age-based care planning",
+        "Organizational skills",
+        "Collaborative teamwork",
+        "Open and effective communication",
+        "Oral and written communication",
+        "EMR navigation",
+        "Basic computer skills",
+        "Medication reconciliation",
+        "Care management",
+        "Patient/family communication during crisis",
+        "Geriatric care",
+        "Acute/med-surg/telemetry nursing",
+        "Care planning and coordination"
+    ],
+    "experience": [
+        {
+            "title": "RN Staff Nurse",
+            "company": "Company Name City , State",
+            "start_date": "August 2008",
+            "end_date": "April 2014",
+            "description": "Participate in multidisciplinary plan of care. Follow Best Practice Protocols, Evidence based practice as well as patient-centered and team-based care. Identify barriers to successful treatment and share with team. Monitor, measure and report/document progress of interventions and outcomes. Timely and effective communication of newly implemented changes to unit-based methods of practice. Accomplishments: MOAB in-house Certified Instructor, Patient Experience Champion, Shared Governance Chair of Policy & Procedure Committee, Oncology Certification, Implementation of unit Bedside Report and hourly rounding."
+        },
+        {
+            "title": "RN- Resident Care Manager",
+            "company": "Company Name City , State",
+            "start_date": "July 2007",
+            "end_date": "July 2008",
+            "description": "Care management of adult and senior patient population. Knowledge of care levels including SNF, ECF, ICF, ALF, rehab and hospice. Attending and participating in care conferences. Development and distribution of expected outcomes to interdisciplinary team. Assignment and direction of care provided by licensed staff across 24 hour schedule. Reconciliation of monthly MARs. Disposal of out-dated/discontinued medications. Development and monitoring of appropriate care plans. Accomplishments: Created, communicated and modeled a unit Mission Statement. Developed effective teamwork model for licensed staff and caregivers."
+        },
+        {
+            "title": "RN Charge Nurse",
+            "company": "Company Name City , State",
+            "start_date": "July 2000",
+            "end_date": "June 2007",
+            "description": "Assessment of acuity, assignment of staff, Review of charts, obtaining and signing off orders. Guidance/monitoring and assistance to team members to balance work load throughout shift. Attend and participate in staff meetings and hospital wide agendas. In the Geriatric Assessment Center (GAC), I performed total body assessments including hearing, vision, labs and Accomplishments: Geriatric Resource Nurse (GRN) certification 2003-2008. Hospital based NICHE member. Pain Management Resource team member. Participant in Evidence Based Practice implementation. Geriatric Assessment Center on call RN."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name City , State",
+            "start_date": "April 1990",
+            "end_date": "April 1996",
+            "description": "Maintaining informational material and application packets availability. Assisting applicants accurately complete and provide information required form application completion. Compile information for reports. Setting up and maintaining supervised bank accounts monthly. Reconcileing local office concentrated banking system. Servicing delinquent accounts, Prepares tax vouchers as applicable. Weekly back up of computer files and secure storage of files."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSN: Nursing",
+            "school": "Washington State University",
+            "year": 2007
+        },
+        {
+            "degree": "ADN: Nursing",
+            "school": "Clark College",
+            "year": 2000
+        },
+        {
+            "degree": "AA: General Studies",
+            "school": "Clark College",
+            "year": 1987
+        },
+        {
+            "degree": "Medical Admin. Assistant in Front/back office",
+            "school": "Western Business College",
+            "year": 1982
+        }
+    ],
+    "certifications": [
+        "Management of Aggressive Behavior (MOAB) in-house Certified Instructor",
+        "Oncology Certification",
+        "Geriatric Resource Nurse (GRN) certification (2003-2008)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Venena Hutcherson",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Ten years of experience with Cerner implementations as a Consultant and Employee. Experience across all phases of Cerner implementations from current state workflows to conversion for inpatient and outpatient hospitals/clinics. Skilled at initiating and leading multi-clinic rollouts (often 1-2 months), designing and building PowerChart/PowerChart Office/Enhanced View components (Inbox, Schedule Viewer, PowerOrders, PowerPlans, Zynx Autospace, Caresets, Charges, Task Lists, Easyscript, MAR, Powerforms, Clinical Notes, Powernotes, Dynamic Documentation, Bedrock, Data Collection Worksheet). Proficient in cost estimation, requirements gathering, testing, training, production support, and change control across Cerner Millennium applications.",
+    "skills": [
+        "Cerner Millennium",
+        "PowerChart",
+        "PowerChart Office",
+        "Enhanced View",
+        "PowerForms",
+        "PowerNote",
+        "Clinical Documentation",
+        "CPOE (PowerPlans, Ordersets)",
+        "Zynx Autospace",
+        "ePrescribe",
+        "Message Center",
+        "Data Collection Spreadsheets",
+        "Training",
+        "Documentation",
+        "Test Scripts",
+        "Change Control",
+        "Design/Build",
+        "CIM",
+        "SQL",
+        "UNIX/AIX",
+        "Windows 7",
+        "Windows 8",
+        "Citrix",
+        "GroupWise",
+        "Novell",
+        "Data Warehouse",
+        "Finance",
+        "QA Testing",
+        "Regression Testing",
+        "Systems Analyst",
+        "Workflow",
+        "XML",
+        "Electronic Health Records",
+        "PowerChart Orders",
+        "Clinical Notes",
+        "PowerOrders"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name, City, State",
+            "start_date": "2006-11",
+            "end_date": "Present",
+            "description": "Led a team of analysts through implementations of PowerChart, PowerChart Office and Enhanced View from current state to conversion (48 ambulatory clinics). Directed nursing and physician documentation implementations (PowerForms, PowerNote, Clinical Notes templates). Facilitated meetings with physicians, nurses, and management. Executed design/build for CPOE projects (PowerPlans, Ordersets, Zynx Autospace) and for Message Center and ePrescribe. Estimated project costs; defined system specifications and conducted business walkthroughs for PowerChart Office and Enhanced View. Managed demonstrations for providers and clinical staff; trained hospital IS staff and end-users; created requirements and functional design documents; performed system, regression, and integration testing; supported production issues and on-call duties."
+        },
+        {
+            "title": "Consultant",
+            "company": "Company Name, City, State",
+            "start_date": "2004-11",
+            "end_date": "2006-11",
+            "description": "Assisted clients implementing PowerChart or PowerChart Office and other Cerner components; contributed to design, build, testing, and conversions. Resolved open production issues; performed design/build within PowerChart and PowerChart Office; conducted testing (system, regression, integration) and documented upgrades; completed additional builds for nursing and physician documentation."
+        },
+        {
+            "title": "Systems Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "2002-10",
+            "end_date": "2004-11",
+            "description": "Implemented Cerner Millennium PowerChart Office using CIM; guided clients through design, build, and testing for PowerChart Office and PowerChart. Built and demonstrated the Proof of Concept (10% build); advised on Electronic Health Record design considerations; supported testing, training, and policy/procedure updates. Analyzed current department workflows, designed future state workflows, and updated policies/procedures. Performed SQL-based data querying and updates; uploaded/downloaded CSV/XML via pre-build tools. Troubleshot PowerChart Office/PowerChart Orders builds; cycled servers; developed and executed comprehensive test scripts for unit, integration, and regression testing; delivered training and demonstrations."
+        },
+        {
+            "title": "Financial/Data Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "2000-09",
+            "end_date": "2002-10",
+            "description": "Led the finance department in monthly statistical analyses; performed QA testing within Production domain; trained new hires on utility software. Supported data warehouse projects (designs, reconfigurations, business rules). Analyzed claims expense to identify trends and provide insights to senior management and provider networks. Created requirements and functional design documentation; developed and executed test plans. Monitored health plan performance against benchmarks; performed financial reporting, month-end closing, and analyses. Trained Health Plan staff on software in classroom settings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA, Business",
+            "school": "Point Park University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts, Business",
+            "school": "Point Park University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

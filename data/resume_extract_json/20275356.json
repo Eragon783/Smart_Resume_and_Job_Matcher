@@ -1,0 +1,65 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Skilled accounting professional with experience in budgeting and forecasting, financial analysis, and system implementation/testing. Proven leadership in finance teams; experienced with Hyperion and Oracle; CPA-certified.",
+    "skills": [
+        "Balance Sheet analysis",
+        "Budgeting",
+        "Forecasting",
+        "Hyperion",
+        "Excel",
+        "PowerPoint",
+        "Word",
+        "Oracle"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Director of Finance",
+            "company": "Company Name",
+            "start_date": "05/2013",
+            "end_date": "Present",
+            "description": "Assist in oversight of the month end close for the Select Managed hotels and the Genpact team, including validation of the payroll journal and other areas. Review and assist hotel General Managers with preparation of annual budgets. Manage the relationship with the owner of 10 of our managed hotels, including reporting, forecasting and month end close related questions. Responsible for monthly and quarterly reconciliations. Main point of contact for Select Hotel Hyperion needs from the other Assistant Directors of Finance, the Select RVPs, the HSS team and the General Managers. Build reports and tools to help the General Managers in their duties. Created reports to roll up data for review by the Director of Finance and other Assistant Directors of Finance. Streamlined monthly Health and Welfare journal entries booked for the Full Service hotels our team oversees. Assisted in the preparation of documents in the sale of 50+ hotels. Provided feedback and performed testing in Phase I and Phase II of the change in our financial systems. Participated in training of our General Managers upon the rollout of the new financial systems."
+        },
+        {
+            "title": "Planning and Analysis Manager",
+            "company": "Company Name",
+            "start_date": "09/2010",
+            "end_date": "05/2013",
+            "description": "Maintained and updated a Daily Revenue report for the Select Managed and Franchised hotels. Created a weekly and monthly roll up of Smith Travel data for all North America Full Service and Select Service hotels. Loaded monthly Full Service and Select Service Franchise actuals data during month end to Hyperion. Reviewed financials during month end for Select Service Managed hotels. Prepared annual budget for the Full Service and Select Service Franchise hotels. Assisted in review and preparation of the Select Service Managed hotel budgets. Converted data for 22 acquired hotels to be formatted and loaded into our systems. Provided support for Select Operations teams: F&B, Rooms, Revenue Management, Sales. Created analytical reports for Select Operations for their use. Prepared monthly/quarterly owner reporting packages."
+        },
+        {
+            "title": "Senior Analyst",
+            "company": "Company Name",
+            "start_date": "06/2008",
+            "end_date": "09/2010",
+            "description": "Assisted in preparation of the Corporate Management Review package. Prepared monthly Balance Sheet and P&L analysis on the Lodging Segment for the Consolidations team. Assisted in training sessions, data gathering, data input and budget review with the corporate department heads of the Business Unit during the annual budget process. Reviewed Management Agreements for new hotels to identify possible financial impacts that would need to be accounted for. Worked closely with the Corporate Accounting team to manage the close and review of monthly financials. Worked with RVPs on finalizing pre-opening budgets and spend on Full Service hotels."
+        },
+        {
+            "title": "Senior Consolidations Accountant",
+            "company": "Company Name",
+            "start_date": "01/2006",
+            "end_date": "07/2008",
+            "description": "Consolidations contact person for regional offices that head operations in EAME, ASPAC and Latin America. Responsible for the coordination and clean up of the international entities' consolidations processes. Coordinate the project of setting up over twenty international entities' ledgers to automatically feed into the Hyperion. Prepare various stand-alone financial statements and related footnotes for individual hotels and companies. Assist in the preparation and review of the quarterly and year-end financial statements."
+        },
+        {
+            "title": "General Ledger Accountant",
+            "company": "Company Name",
+            "start_date": "05/2003",
+            "end_date": "01/2006",
+            "description": "Responsible for monthly billings to all Domestic hotels for various expenses paid by the parent company. Reconcile outstanding unbilled balances and coordinate with appropriate individuals for the preparation of hotel allocations of the expenses paid on their behalf. Complete monthly reconciliations and wires for various benefits accounts for all North America hotels as well as the Corporate Office. Responsible for allocating costs and expenses to all departments and affiliates that benefit from the shared office functions of the Human Resources, Financial Systems Support, Dining Room and Computer Information Systems departments. Accumulate the data and set up the cost allocation drivers of department headcount and department square footage to allocate the shared office functions' costs and expenses."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Accounting",
+            "school": "DePaul University",
+            "year": "2002"
+        }
+    ],
+    "certifications": [
+        "CPA"
+    ],
+    "languages": []
+}

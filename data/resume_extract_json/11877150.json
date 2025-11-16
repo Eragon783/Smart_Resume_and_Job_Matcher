@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Jakarta, Indonesia",
+    "summary": "A versatile, highly motivated, adaptable, and responsible accounting graduate. Possessing highly analytical skill and ability to manage and complete projects to the highest standards. Now wish to transition solid background in accounting and finance towards business and property consultancy, which is a challenging position that will enable me to capitalise my own knowledge and work experience.",
+    "skills": [
+        "Superior time management",
+        "Customer relations",
+        "Self-motivated professional",
+        "Excellent communication skills",
+        "Strong interpersonal skills",
+        "Multilingual in English and Indonesian",
+        "Proficient in MS Office",
+        "Critical thinking",
+        "Attention to detail",
+        "Creative thinker",
+        "Excellent managerial techniques",
+        "English",
+        "Finance",
+        "Access",
+        "Excel",
+        "Word",
+        "Promotion",
+        "Sales"
+    ],
+    "experience": [
+        {
+            "title": "Finance",
+            "company": "Company Name",
+            "start_date": "2013-07",
+            "end_date": "Present",
+            "description": "Proposed and achieved cost savings by reducing expenses on the company. Forecasted operating costs for scheduled projects by strategizing with other departments. Analyzed budgets, financial reports and projections for accurate reporting of financial standing. Worked with management at the project level to ensure expense plans are achieved. Worked with managers to develop annual expense plan goals. Collected and reported monthly expense variances and explanations. Performed periodic budgeting/modeling to project monthly cash requirements. Calculated commissions for sales stores. Responsible for petty cash and bank transactions."
+        },
+        {
+            "title": "Junior Auditor",
+            "company": "Company Name",
+            "start_date": "2012-02",
+            "end_date": "2012-06",
+            "description": "Analyzed and reviewed cost reports and communicated final results to clients. Reported internal control issues to management and supplied comprehensive recommendations to mitigate the associated risks. Gathered data for internal audits through interviews, financial research and downloads. Articulated audit findings, risks and detailed recommendations to upper management. Met with clients to identify and assess business controls, risks, process gaps and work flow inefficiencies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "S.E: Accounting",
+            "school": "Kwik Kian Gie School of Business",
+            "year": "2013",
+            "location": "City, State"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Don Bosco 2 Senior High School",
+            "year": "2008",
+            "location": "City, State"
+        }
+    ],
+    "certifications": [
+        "Wall Street Institute - SPO (Sales Promotion Officer) / SPG, 2012",
+        "KAP A.K Rahman - Junior Auditor (Magang), 2013",
+        "PT. Mitra Manunggal Mahardika - Finance, 2013 - Present"
+    ],
+    "languages": [
+        "English",
+        "Indonesian"
+    ]
+}

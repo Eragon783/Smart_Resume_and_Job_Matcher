@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Dominican Republic",
+    "summary": "Industrial Engineer with wide experience in manufacturing, quality, material planning and inventory control. Reach revenue goals through hard work and process improvement. Expert in MRP II, proficient in MS office and Exact Macola. Bilingual English/Spanish.",
+    "skills": [
+        "MRP II",
+        "Exact Macola",
+        "MS Office",
+        "Crystal Reports",
+        "Project Management / MS Project",
+        "Quickbooks - Contractor Edition",
+        "CRM - Goldmine",
+        "APICS concepts",
+        "Lean Manufacturing",
+        "Theory of Constraints",
+        "ERP systems implementation"
+    ],
+    "experience": [
+        {
+            "title": "Inventory Analyst / Materials Planner",
+            "company": "Company Name",
+            "start_date": "2008-06",
+            "end_date": "2013-08",
+            "description": "Analyzed MRP output and exceptions. Worked with Procurement to expedite and prevent shortages, revised and corrected safety stock levels, audited inventory transactions and posted corrections. Managed sub-contractors. Implemented weekly cycle counting. Achieved 99% inventory accuracy through BOM analysis and process improvement. Eliminated material shortage trough in depth analysis of process flow and transactions. Mentored a comprehensive use of the software (Exact Macola)."
+        },
+        {
+            "title": "Operations Manager",
+            "company": "Company Name",
+            "start_date": "2005-11",
+            "end_date": "2008-05",
+            "description": "Scheduled Job installation, placed and kept track of purchase orders and productions orders. Kept track of budget vs expenses. Prepared executive reports. Implemented Quickbooks - Contractor Edition. Achieved: Improved cost control and project management with Quickbooks. Achieved: Improved customer service through automation of the Quote - Order Entry - Billing Cycle."
+        },
+        {
+            "title": "Project Manager / Senior Consultant",
+            "company": "Company Name",
+            "start_date": "1998-02",
+            "end_date": "2005-03",
+            "description": "Successfully managed numerous software implementations of Exact Macola (ERP), MP2 (maintenance), Goldmine (CRM). As senior consultant trained customers and automatized operations for medium and large companies. Achievement: Reduced implementation time to 50%."
+        },
+        {
+            "title": "Warehouse Manager / Production Manager",
+            "company": "Company Name",
+            "start_date": "1994-03",
+            "end_date": "1998-02",
+            "description": "Managed logistics and operations in the Distribution Center. Setup and launched production lines until fully operative. Achievements: Implemented the Quality Control System and personnel training. Reached desired efficiency in short time."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Industrial Engineer",
+            "school": "Pontificia Universidad Catolica Madre y Maestra",
+            "year": "1993"
+        }
+    ],
+    "certifications": [
+        "APICS Courses: Master Planning of Resources; Detailed Scheduling and Planning; Execution and Control of Operations; Strategic Management of Resources (certification pending)",
+        "Manufacturing Planning and Control, Exact Software, 1998",
+        "Enterprise Resource Planning, Exact Software, 1999",
+        "Datastream - MP2, Certified Consultant, Santo Domingo, D.R., 2002"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

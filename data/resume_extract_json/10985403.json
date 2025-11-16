@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "CAD | CAM | Finite Element Analysis | Mechanical Design | Product Design and Development Skills 5 years of experience with CAD packages (SolidWorks, Autodesk Inventor, AutoCAD, CATIA, PTC CREO) 2.5 years of experience with CAE Softwares (HyperMesh, Abaqus, ANSYS, Optistruct) 2.5 years of experience with Analysis (Linear & Non-linear Static, Dynamic, GD & T, Tolerance Analysis, Design Optimization) Experience with Sheet metal, Design for manufacturing, generating Bill of Materials, DFMEA, Sculpting. Experience with advanced material selection for rapid prototyping, advanced manufacturing, welding and 3D printing.",
+    "skills": [
+        "3D",
+        "ANSYS",
+        "AutoCAD",
+        "automation",
+        "Automotive",
+        "CAD/CAM",
+        "CAD",
+        "CATIA",
+        "Dec",
+        "Engineering Analysis",
+        "lathe",
+        "Manufacturing process",
+        "Materials",
+        "material selection",
+        "Oil",
+        "Optimization",
+        "pick",
+        "prototyping",
+        "Robotic",
+        "safety",
+        "simulation",
+        "SolidWorks",
+        "SPC",
+        "statistical analysis",
+        "welding"
+    ],
+    "experience": [
+        {
+            "title": "Finite Element Analysis of Industrial Robotic Assembly",
+            "company": "Illinois Institute of Technology, Chicago",
+            "start_date": "09/2013",
+            "end_date": "05/2014",
+            "description": "Performed finite element analysis using stainless steel 304 to evaluate maximum load before yielding; analyzed gripper and joints; optimized design using OptiStruct by varying mesh sizes and element order; simulated assembly with dynamic analysis to verify optimized structure."
+        },
+        {
+            "title": "6-axis SCARA Robot Conceptualization and Design",
+            "company": "Illinois Institute of Technology, Chicago",
+            "start_date": "01/2016",
+            "end_date": "05/2016",
+            "description": "Conceptualized, brainstormed and designed a 6-axis SCARA robot for pick-and-place operation in automotive industry. Performed static analysis and dynamic analysis to verify structural integrity; optimized design using OptiStruct."
+        },
+        {
+            "title": "Reliability Engineering Analysis on Automotive Oil Pump",
+            "company": "Illinois Institute of Technology, Chicago",
+            "start_date": "09/2015",
+            "end_date": "12/2015",
+            "description": "Used industrial reliability specifications to select power consumption and flow rate at three rpm levels; improved system using Taguchi analysis; conducted FMEA to analyze potential causes of failures."
+        },
+        {
+            "title": "Gearbox Design",
+            "company": "Narsee Monjee Institute of Management Studies, Mumbai",
+            "start_date": "01/2013",
+            "end_date": "05/2013",
+            "description": "Designed gear box with gears (spur, helical, worm); considered seals, lubricating oil and bearings; assigned materials and performed dynamic simulation to define contact surfaces."
+        },
+        {
+            "title": "Mechanical Engineering Intern",
+            "company": "Company Name",
+            "start_date": "06/2013",
+            "end_date": "08/2013",
+            "description": "Initiated a failure investigation in mufflers due to low road clearance; coordinated maintenance, GD&T, safety procedures, service schedule and materials; developed failure reports; calibrated accelerometers on Hyundai cars to analyze vibration modes."
+        },
+        {
+            "title": "Manufacturing Engineering Intern",
+            "company": "Company Name",
+            "start_date": "05/2012",
+            "end_date": "07/2012",
+            "description": "Analyzed automation and process parameters for shaping and controlling chip profiles; redesigned shop floor to improve space utilization and material flow; performed SPC and DOE analyses; generated Bills of Materials and calculated overall manufacturing cost."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's in Mechanical & Aerospace Engineering",
+            "school": "Illinois Institute of Technology",
+            "year": "2017"
+        },
+        {
+            "degree": "Bachelor of Technology in Mechanical Engineering",
+            "school": "Narsee Monjee Institute of Management Studies",
+            "year": "2014"
+        }
+    ],
+    "certifications": [
+        "Autodesk Certified Professional in Autodesk Inventor",
+        "Autodesk Certified Associate in AutoCAD"
+    ],
+    "languages": []
+}

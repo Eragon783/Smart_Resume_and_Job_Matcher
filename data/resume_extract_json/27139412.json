@@ -1,0 +1,61 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "An achievement driven professional highly skilled in sales, product development, strategic marketing and Salesforce lead management. Creative with an extensive knowledge of industry sales points, both in and out of consumer markets. Dynamic communicator who consistently exceeds goals and expectations.",
+    "skills": [
+        "Brand development",
+        "Analyzing market trends",
+        "Established track record of exceptional sales results",
+        "Account Management",
+        "Excellent negotiating tactics",
+        "Skilled multi-tasker",
+        "SalesForce lead management",
+        "Strong interpersonal skills"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Executive",
+            "company": "Ceridian",
+            "start_date": "2017-01",
+            "end_date": "Present",
+            "description": "Responsible for growing Ceridian's business throughout the Canadian Enterprise Market. Collaborates with internal stakeholders to develop strategic GTM. Works with internal marketing team to develop campaigns for the targeted market. Manages the introduction of new programs and/or features within Ceridian to consumer base. Conducts market research, profiles customers, makes presentations and participates in sales calls and marketing events to establish customers and determine market segment revenue potential. Develops and implements marketing and sales strategy for securing and/or increasing market share, sales and profit. Participates in quarterly QBR's."
+        },
+        {
+            "title": "Solutions Analyst",
+            "company": "Company Name",
+            "start_date": "2015-11",
+            "end_date": "2017-01",
+            "description": "Reviewed new customer orders and manually enter data into SAP. Processed transactions pertaining to designated vendor. Provided information and guidance on vendor products and programs."
+        },
+        {
+            "title": "Product Marketing Specialist",
+            "company": "Company Name",
+            "start_date": "2012-10",
+            "end_date": "2015-10",
+            "description": "Owned the communication of Vendor Partner business strategy to internal partners (Sales, Purchasing, and Marketing Services). Consumer and sales rep marketing at 5LINX convention seminars including marketing, branding and consumer relations. Met and interacted regularly with Vendor Partner reps, management, and executives to make formal presentations on product trends, performance, profitability and results of product line promotions. Assumed leadership role in the department and vendor meetings on assigned projects."
+        },
+        {
+            "title": "Project Coordinator/ Sales",
+            "company": "Company Name",
+            "start_date": "2011-12",
+            "end_date": "2012-07",
+            "description": "Created publications that were focused on key business sectors reaching corporate-level executives worldwide. Delivered content through print and online media. Developed and maintained long-term relationships with vendors and clients. Consistently hit and exceeded sales goals. Built strong client relationships and provided value-adding services. Developed sales strategies and negotiated and closed profitable projects."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Marketing Management",
+            "school": "Miami Dade College",
+            "year": 2013
+        },
+        {
+            "degree": "Real Estate",
+            "school": "Miami Dade College",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

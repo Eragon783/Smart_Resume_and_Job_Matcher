@@ -1,0 +1,105 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Healthcare professional with extensive experience as a Clinical Analyst, nurse, and researcher. Proven leadership in appeals processing, quality assurance, training, and program management across multiple healthcare settings.",
+    "skills": [
+        "administrative",
+        "budget",
+        "Cancer",
+        "chemotherapy",
+        "Database",
+        "DNA",
+        "FAST",
+        "forms",
+        "grant writing",
+        "law",
+        "marketing",
+        "mentor",
+        "processes",
+        "program evaluation",
+        "quality",
+        "quality assurance",
+        "QA",
+        "recruitment",
+        "Research",
+        "therapy",
+        "venipunctures"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Clinical Analyst",
+            "company": "Company Name",
+            "start_date": "November 2012",
+            "end_date": "September 2015",
+            "description": "Led appeals across commercial, state group, and Medicare lines; collaborated with medical directors, medical policy, pharmacy, and others to render appeal decisions. Created training materials, mentored new employees, and delivered formal training across medical operations. Drove constant process improvement."
+        },
+        {
+            "title": "Manager, National Children's Study",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "November 2012",
+            "description": "Managed over thirty employees including data collectors and ancillary staff. Developed and implemented the QA program, ensured study integrity and adherence to protocol, conducted field training and inspections, evaluated compliance, and maintained quality of files. Managed the lab and supervised staff; prepared statistical reports for the principal investigator and identified trends for QA improvements."
+        },
+        {
+            "title": "Oncology Nurse",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "January 2011",
+            "description": "Administered immunoglobulin therapy, chemotherapy, blood products, hydration, and pain medications. Educated patients and families about medications and healthcare navigation, including self-administered subcutaneous administration. Prepared and administered chemotherapy and other medications; maintained central lines and venipunctures; assessed patient condition changes, evaluated labs, consulted on dose modifications, and managed symptoms."
+        },
+        {
+            "title": "GI Infusion Nurse",
+            "company": "Company Name",
+            "start_date": "January 2005",
+            "end_date": "January 2007",
+            "description": "Performed venous and arterial punctures; maintained intravascular sites, monitored for infections, initiated emergency therapies, and assessed adverse reactions. Educated patients on therapy side effects and complications."
+        },
+        {
+            "title": "Clinical Research Coordinator",
+            "company": "Company Name",
+            "start_date": "January 2002",
+            "end_date": "January 2003",
+            "description": "Coordinated a DNA collection study, including subject recruitment, informed consent administration, collection of case report forms, IRB collaboration, and report preparation. Worked with numerous surgeons and staff to identify eligible participants."
+        },
+        {
+            "title": "FAST Program Coordinator",
+            "company": "Company Name",
+            "start_date": "January 1999",
+            "end_date": "January 2001",
+            "description": "Recruited, hired, trained, and supervised all FAST program employees; conducted site visits, managed budgets, and coordinated program evaluation. Responsible for grant writing/management, marketing, volunteer recruitment/training, and acted as liaison between FAST program and school faculty/administration."
+        },
+        {
+            "title": "Research Coordinator",
+            "company": "Company Name",
+            "start_date": "January 1997",
+            "end_date": "January 1998",
+            "description": "Served as principal investigator for a study of complementary/unconventional cancer therapies. Developed a survey of oncologists distributed to major cancer centers; analyzed and presented data. Contributed to studies on cancer survivors and the Behavioral Research Database; helped create and distribute a membership directory."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Nursing ADN",
+            "school": "Florida State College",
+            "year": 2005
+        },
+        {
+            "degree": "Master of Public Health",
+            "school": "Emory University",
+            "year": 1998
+        },
+        {
+            "degree": "Special Student Program",
+            "school": "Harvard University",
+            "year": 1995
+        },
+        {
+            "degree": "BA in Psychology",
+            "school": "Emory University",
+            "year": 1994
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

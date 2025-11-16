@@ -1,0 +1,62 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Bookseller with extensive customer service experience across multiple departments, including apparel and jewelry, plus childcare teaching roles. Known for reliability, strong work ethic, and ability to work with diverse customers including parents and children. Currently pursuing a career in Speech and Language Pathology.",
+    "skills": [
+        "Customer service",
+        "Return merchandise processing",
+        "Enthusiasm",
+        "Professional appearance",
+        "Restocking",
+        "Cheerfulness",
+        "Efficiency",
+        "Cash handling",
+        "Cashier",
+        "Cash registers",
+        "Communication",
+        "English",
+        "American Sign Language",
+        "Inventory",
+        "Listening",
+        "MS Office",
+        "Teaching",
+        "Time Management"
+    ],
+    "experience": [
+        {
+            "title": "Bookseller",
+            "company": "Company Name",
+            "start_date": "2016-08",
+            "end_date": "Current",
+            "description": "Cleaned and straightened work area. Bagged merchandise by following standard procedures. Organized register supplies. Worked with customer service to resolve issues. Unboxed new merchandise. Rotated stock to maintain freshness. Operated cash register with proficiency. Provided professional and courteous service at all times. Worked overtime shifts during busy periods."
+        },
+        {
+            "title": "Teacher / Closer",
+            "company": "Southside Christian Childcare and Preschool",
+            "start_date": "2014-09",
+            "end_date": "Current",
+            "description": "Duties included teaching young children according to the curriculum, maintaining clean classrooms, preparing materials, ensuring doors are locked, and supervising routines. Responsibilities as closer included housekeeping tasks, dishwashing, and ensuring safety. Organized activities to promote physical, mental and social development; taught basic skills (color, shape, number, letter recognition, personal hygiene, social skills). Observed and evaluated children's performance and health; read to groups; attended to basic needs; communicated with parents; identified signs of emotional, developmental, or health issues and discussed with supervisors and guardians; adapted teaching methods to meet varying needs."
+        },
+        {
+            "title": "Apparel and Jewelry Associate / Cashier",
+            "company": "Wal-Mart",
+            "start_date": "2013-04",
+            "end_date": "2015-01",
+            "description": "Cleaned up apparel, folded clothes, supervised fitting rooms, answered phones, stocked merchandise, and used handhelds to locate products. Cashier duties included customer service, maintaining clean registers, and processing payments. At the Jewelry Counter, secured cases, assisted with jewelry sales, layaway, and merchandise counting. Greeted customers, advised on merchandise, answered questions, and helped with purchases. Opened and closed cash registers, balanced drawers, and prepared deposits. Managed inventory, ticketing, and merchandise displays; monitored for security risks and prevented theft."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Oldham County High School",
+            "year": "2015"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "American Sign Language"
+    ]
+}

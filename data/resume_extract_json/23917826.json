@@ -1,0 +1,108 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To obtain an administrative assistant position where I can apply my 10 years of customer service, gift of multitasking, and professional experience to provide a team with a high quality of consistent supportive experience.",
+    "skills": [
+        "computer knowledge",
+        "conflict resolution",
+        "contracts",
+        "clients",
+        "customer satisfaction",
+        "customer service",
+        "electronics",
+        "Email",
+        "fax",
+        "ink",
+        "inventory",
+        "leadership",
+        "management skills",
+        "managing",
+        "marketing",
+        "access",
+        "excel",
+        "money",
+        "office",
+        "power point",
+        "publisher",
+        "word",
+        "newsletter",
+        "peak",
+        "pricing",
+        "receiving",
+        "record keeping",
+        "recruitment",
+        "selling",
+        "sales",
+        "staff management",
+        "phone skills",
+        "phone",
+        "upgrade",
+        "website",
+        "web page"
+    ],
+    "experience": [
+        {
+            "title": "Library Educational Aide",
+            "company": "Green Valley Elementary and North Ridge Elementary",
+            "start_date": "August 2015",
+            "end_date": "Current",
+            "description": "Teaches students how to locate media in the library, empowers students to be responsible for their individual library needs; checks library accounts for staff, parents, and students; organizes books, keeps a clean workspace and processes daily shelving needs; assists in individual needs for the entire school; works in a library environment with emphasis on customer service and collaboration."
+        },
+        {
+            "title": "Office Manager/ Program Director",
+            "company": "The dojo (ATA Martial Arts)",
+            "start_date": "April 2014",
+            "end_date": "Current",
+            "description": "Managed operations for a martial arts school: implemented an in-house system to replace paid software, negotiated contracts for commercial accounts, set up new wholesale accounts, improved pricing, planned relocations and renovations, coordinated communications with students and parents, handled scheduling, events, recruitment, marketing, bookkeeping, and customer service; improved family and parent relations."
+        },
+        {
+            "title": "Children's Ministry",
+            "company": "Company Name",
+            "start_date": "September 2009",
+            "end_date": "May 2013",
+            "description": "Created a warm and welcoming environment for children, staff and parents; led worship time, small group discussions, and all children's activities; helped maintain employees and volunteer schedules."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "June 2007",
+            "end_date": "November 2009",
+            "description": "Increased sales productivity and guest service by utilizing various communication methods; established an organized system for handling emails, faxes, and phone calls; learned essential business and management skills by using computer systems to handle site visits with clients and customers."
+        },
+        {
+            "title": "Team Lead Specialist",
+            "company": "Company Name",
+            "start_date": "October 2004",
+            "end_date": "December 2006",
+            "description": "Managed electronics department; handled exchanges, returns, purchases, customer service, and complaints; built displays, inventory, back stock; led a team during peak and off-peak seasons; trained staff."
+        }
+    ],
+    "education": [
+        {
+            "degree": "English and Journalism",
+            "school": "University Of New Mexico",
+            "year": 2004
+        },
+        {
+            "degree": "English and Journalism General",
+            "school": "New Mexico State University",
+            "year": 2000
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Mayfield High School",
+            "year": 2000
+        },
+        {
+            "degree": "Educational Aide Certification",
+            "school": null,
+            "year": 2015
+        }
+    ],
+    "certifications": [
+        "Educational Aide Certification (2015)"
+    ],
+    "languages": []
+}

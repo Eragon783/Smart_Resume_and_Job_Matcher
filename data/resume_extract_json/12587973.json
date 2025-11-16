@@ -1,0 +1,108 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "San Diego, CA",
+    "summary": "Substitute Teacher with a background in Psychology pursuing teaching certification; experienced Sales Manager and Business Development professional with a track record of achieving sales targets, employee retention, and growth in new and existing accounts; skilled in relationship-building, leadership, and multi-tasking.",
+    "skills": [
+        "agency",
+        "budgeting",
+        "budgets",
+        "business strategy",
+        "closing",
+        "cold calling",
+        "interpersonal",
+        "communication skills",
+        "Excellent Communication",
+        "oral",
+        "contracts",
+        "Critical thinking",
+        "clients",
+        "Client Relations",
+        "Customer Service",
+        "customer service skills",
+        "databases",
+        "database",
+        "Fluent in English",
+        "forms",
+        "FTP",
+        "HR",
+        "Insurance",
+        "Leadership",
+        "legal",
+        "Marketing",
+        "meetings",
+        "Mergers and acquisitions",
+        "Works",
+        "organizational",
+        "policies",
+        "executive presentations",
+        "Problem Solver",
+        "process improvement",
+        "progress",
+        "proposals",
+        "quality assurance",
+        "recruitment",
+        "sales",
+        "sales and training",
+        "Spanish",
+        "Strategic marketing",
+        "supervision",
+        "Time management",
+        "vendor relations",
+        "website",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "2016-01",
+            "end_date": "Present",
+            "description": "Manage classrooms, and help children throughout the day, by assessing the lesson of the day. Maintaining discipline in the classroom."
+        },
+        {
+            "title": "HR / Recruitment",
+            "company": "Company Name",
+            "start_date": "2011-10",
+            "end_date": "2017-01",
+            "description": "Advised prospective employees on various tips and tricks that would assist them in gaining employment in the organization. Implemented effective HR policies to ensure practices followed labor and employment regulations. Increased employee retention above 90% by maintaining a positive work environment. Developed targeted outreach recruitment programs to recruit more minorities and meet affirmative action requirements. Created a website with an embedded database and FTP functionality to enable online recruitment and reduce recruitment costs by 10%. Developed user-friendly application forms and questionnaires to be used by the organization during staff recruitment and interviewing. Arbitrate labor disputes in collaboration with the legal department."
+        },
+        {
+            "title": "Operations Sales Manager",
+            "company": "Company Name",
+            "start_date": "2008-09",
+            "end_date": "2011-10",
+            "description": "Established operational objectives and work plans and delegated assignments to subordinate managers. Supervised a team of 15 area managers and 35 associates. Developed executive presentations and reports to facilitate project evaluation and process improvement. Directed planning, budgeting, vendor selection and quality assurance efforts. Defined clear targets and objectives and communicated them to other team members. Reviewed sales, customer concerns and new opportunities to drive business strategy at weekly planning sessions. Assessed vendor products and maintained positive vendor relations. Supported the sales team in writing proposals and closing contracts. Developed quarterly and annual sales department budgets. Developed a comprehensive training program for new sales associates. Reviewed operational records and reports to project sales and determine profitability. Trained all incoming sales team members. Maintained knowledge of current sales and promotions, policies regarding payment and exchanges and security practices."
+        },
+        {
+            "title": "Insurance Agent",
+            "company": "Fred Loya Insurance",
+            "start_date": "2005-08",
+            "end_date": "2008-08",
+            "description": "Met with existing and prospective clients each week to select appropriate insurance policies. Calculated quotes and educated potential clients on insurance options. Tracked the progress of all outstanding insurance claims. Calculated premiums and established payment methods for sales. Identified and solicited sales prospects in agency databases. Evaluated leads obtained through direct referrals, lead databases and cold calling. Modeled exceptional customer service skills and appropriate diagnostic sales techniques. Collected all premiums on or before effective date of coverage. Contributed ideas and offered constructive feedback at weekly sales and training meetings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Eagle Pass High School",
+            "year": 2000
+        },
+        {
+            "degree": "Associate of Science (Medical)",
+            "school": "Kaplan University",
+            "year": 2009
+        },
+        {
+            "degree": "Bachelor of Arts in Psychology, minor in Child Development",
+            "school": "Kaplan University",
+            "year": 2017
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

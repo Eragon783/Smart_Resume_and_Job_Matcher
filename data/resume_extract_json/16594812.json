@@ -1,0 +1,65 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "To obtain a position within an environment that offers a challenge and the capability to gain more knowledge about the company. To be given the opportunity to grow within the company and the chance to progress in my career. Once a job is obtained within a specific organization, to have the ability to help the company advance productively and efficiently.",
+    "skills": [
+        "credit",
+        "clients",
+        "personnel",
+        "sales reports",
+        "tables"
+    ],
+    "experience": [
+        {
+            "title": "Chef",
+            "company": "Company Name",
+            "start_date": "August 2007",
+            "end_date": "September 2009",
+            "description": "Prepped food for catered events such as; weddings, parties and business luncheons. Set-up tables and chairs for banquet and dining space. Executed banquet style and plated lunches and dinner."
+        },
+        {
+            "title": "Chef/Assistant Manager",
+            "company": "Company Name",
+            "start_date": "October 2007",
+            "end_date": "September 2009",
+            "description": "Prep and cook for lunch service. Catered business lunches for CEO of the Museum. Manage daily sales reports. Train new personnel, both front and back of the house. Track weekly food cost."
+        },
+        {
+            "title": "Cook",
+            "company": "Company Name",
+            "start_date": "October 2006",
+            "end_date": "October 2007",
+            "description": "Prep for dinner service. Prep and cook for banquet parties of 50 or more clients. Line cook during dinner service. Bake desserts for both the restaurant and banquet services."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "April 2004",
+            "end_date": "August 2005",
+            "description": "Process customer transactions. Help customers apply for Sears credit cards. Process customer return of merchandise. Sort, fold, put away unwanted merchandise."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates - Applied Science in Medical Billing and Coding",
+            "school": "Grantham University Online College",
+            "year": "Present"
+        },
+        {
+            "degree": "Certification in Baking and Pastry",
+            "school": "California Culinary Academy",
+            "year": "2006"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Walla Walla High School",
+            "year": "2005"
+        }
+    ],
+    "certifications": [
+        "Certification in Baking and Pastry"
+    ],
+    "languages": []
+}

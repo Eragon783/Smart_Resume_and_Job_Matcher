@@ -1,0 +1,80 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "An energetic, skillful and dedicated Administrative Assistant offering versatile office management, planning and detailed skills. Able to provide extensive experience of administrative support, organization, time management and confidentiality for executive-level staff of daily operations and functions. Ambitious and goal-oriented individual looking to obtain a position at a successful company which offers opportunities for professional growth.",
+    "skills": [
+        "Customer service oriented",
+        "Microsoft Office proficient",
+        "Detail-oriented",
+        "Professional phone etiquette",
+        "Social media knowledge",
+        "Flexible and team player",
+        "Type 80 wpm",
+        "Time management",
+        "Appointment and meeting planning",
+        "Works well under pressure",
+        "Manage work flow of an office",
+        "Professional, self-starter",
+        "Articulate",
+        "Excellent interpersonal skills",
+        "Creative",
+        "Strong communicator",
+        "Accounting, invoice processing experience",
+        "Payroll",
+        "Knowledge of proper grammar",
+        "Filing, organizing",
+        "Edit and proofread department documents and marketing collateral",
+        "Create PowerPoint presentations for executives",
+        "Social media management",
+        "Marketing coordination",
+        "Event coordination"
+    ],
+    "experience": [
+        {
+            "title": "Secretary - Finance Division",
+            "company": "Company Name",
+            "start_date": "08/2014",
+            "end_date": "Present",
+            "description": "Manage records retention for the department; professionally respond to daily phone calls; filing, organizing; edit and proofread documents and marketing collateral; create and manage committee meeting agendas (Finance and Investment Advisory Committees) using AgendaQuick; handle and manage all Massage Establishment permits in Brea; create Desk Diary and Influential Communicator's list; assist Finance Manager with Lease Revenue and Water Bonds, Recognized Obligation Payments Schedule (ROPS), and other deadline oriented projects; provide support to other divisions while maintaining privacy; supervise Volunteen annually."
+        },
+        {
+            "title": "Secretary - Communications & Marketing Division",
+            "company": "Company Name",
+            "start_date": "08/2014",
+            "end_date": "Present",
+            "description": "Maintain same job duties as the beginning of my career with the Communications and Marketing division, but at half-time. Duties include tracking all jobs through department filing, organizing, editing and proofreading documents and marketing collateral; open, read, and write answers to routine letters; prepare and distribute payroll for staff; oversee inventory and office supply purchases; manage supervisor's calendar and coordinate team meetings; create and design PowerPoint presentations for special meetings with top-level executives; provide various reports on request; regularly correspond with clients as well as co-workers; community outreach; gather data on community needs and interests; coordinate employee luncheons, celebrations and annual events; maintain up-to-date program files; develop and send out Marketing Weekly via email; press releases; social media."
+        },
+        {
+            "title": "Secretary - Communications & Marketing Division",
+            "company": "Company Name",
+            "start_date": "02/2007",
+            "end_date": "08/2014",
+            "description": "Manage workflow of office work with city council and executives on various events including city council meetings; professionally respond to multiple daily phone calls regarding a wide range of subjects; revise Desk Diary, press releases, flyers, etc.; social media; create presentations for meetings; City Plaque Inventory created; C&M Weekly concept for efficiency; maintain Influential Communicator's list; company credit cards; create Emergency go kits; community outreach; maintain equipment inventory; Department Coordinator, Weight Room Rehabilitation, Employee."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Psychology, Mental Health and Well Being",
+            "school": "Grand Canyon University",
+            "year": "2017"
+        },
+        {
+            "degree": "Bachelor of Science in Education, Educational Studies",
+            "school": "Grand Canyon University",
+            "year": "2016"
+        },
+        {
+            "degree": "Associate of Science in General Education",
+            "school": "Cypress College",
+            "year": "1992"
+        }
+    ],
+    "certifications": [
+        "CERT trained and certified",
+        "EOC backup for public information office",
+        "Disaster Preparedness Academy attendee"
+    ],
+    "languages": []
+}

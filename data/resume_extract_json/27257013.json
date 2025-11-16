@@ -1,0 +1,64 @@
+{
+    "name": "Migdaliz Ortiz",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Strategic, results oriented and licensed PR professional with extensive experience directing communication campaigns in both agency and in-house settings. Proven creative talent with demonstrated strength in producing and implementing media strategies. Well-versed in corporate communication, promotional support and branding. Exceptional writing, editing and interpersonal skills with internal and external audiences. Deadline-driven, tenacious and successful at thriving in high-pressure environments.",
+    "skills": [
+        "Creative writing",
+        "Strategic messaging",
+        "Team Leadership",
+        "Press Releases & Press Kits",
+        "Crisis Management",
+        "Promotion & Image",
+        "Media Relations",
+        "Campaign Development",
+        "Community Relations",
+        "Social media coordination",
+        "Problem solving",
+        "Media relations training"
+    ],
+    "experience": [
+        {
+            "title": "Public Relations & Communications Manager",
+            "company": "Company Name",
+            "start_date": "2019-01",
+            "end_date": "Present",
+            "description": "Lead the development, implementation and monitoring of the work strategy aligned to the operation of the station. Oversee public relations activities and communications including press releases, social media, company literature, announcements, programming launches and media kits. Build a favorable brand image; serve as primary media contact; plan and implement media action plans; manage corporate reputation; coordinate with the Crisis Communications Committee; build relationships with media; identify opportunities to partner with community organizations; develop communications pieces (fact sheets, speeches, letters, press releases); coordinate media tours; maintain relationships with external parties; coordinate events; monitor feedback from media/community to ensure positive positioning."
+        },
+        {
+            "title": "Public Relations Coordinator",
+            "company": "Company Name",
+            "start_date": "2011-06",
+            "end_date": "2019-01",
+            "description": "Led internal and external communications for programming launches and cross-promotions; developed and executed public relations campaigns integrated with clients' marketing strategies; wrote press releases and stories, pitched ideas to media and compiled research; arranged interviews and other media opportunities; created messages, position statements and other corporate communications based on company's objectives; coordinated events and cross-promotions; supported corporate culture initiatives."
+        },
+        {
+            "title": "Account Executive",
+            "company": "Company Name",
+            "start_date": "2005-01",
+            "end_date": "2011-06",
+            "description": "Managed up to five clients, including international accounts such as McDonalds and Nissan; wrote fact sheets, press releases, talking points, letters, speeches and articles; coordinated events, press conferences, exhibitions, meetings, launches and promotions; performed media monitoring, analysis and ROI reports; coordinated media tours; trained up to three employees; produced over 15 PR pieces per month with many published in multiple outlets; generated over $1M ROI publicity for a client; served as General Editor of a corporate newsletter read by over 3,000 employees."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Public Relations",
+            "school": "University of Sacred Heart",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelor of Arts: Advertising & Public Relations",
+            "school": "University of Puerto Rico",
+            "year": 2005
+        }
+    ],
+    "certifications": [
+        "Communications Manager Certification - Business School of Navarra, Spain - 2010",
+        "Public Relations License R-223 since 2014"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

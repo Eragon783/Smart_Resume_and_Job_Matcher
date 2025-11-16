@@ -1,0 +1,78 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "A goal-driven food service manager, dietitian, and culinary professional specializing in quick paced, high-volume operations, team building, and systems improvement eager to offer 15+ years experience towards maximizing productivity and profitability.",
+    "skills": [
+        "Multi-unit management",
+        "High-volume operations",
+        "Team building",
+        "Audit compliance",
+        "Excellent communication",
+        "Computer skills",
+        "Recipe modification",
+        "Zero-based budget management",
+        "Compliance",
+        "Nutritional education",
+        "Public speaking",
+        "Recruitment",
+        "Curriculum development",
+        "Nutrition and clinical resources",
+        "Food service management",
+        "Dietitian",
+        "Culinary instruction"
+    ],
+    "experience": [
+        {
+            "title": "Lecturer, Chef Instructor, Researcher, and Recruiter",
+            "company": "Loma Linda University Health (LLUH)",
+            "start_date": "2013-01",
+            "end_date": "Present",
+            "description": "Created sustainable clinical nutrition resources for patient care. Provided engaging lectures integrating nutrition and foods earning the highest peer evaluation. Integrated Affordable Health Care Act clinical impacts and resources throughout lecture series. Provided dynamic cooking shows for LLUH audiences of 20-500 compliant to protocol."
+        },
+        {
+            "title": "Professor, Biology and Nutrition Department",
+            "company": "Unknown Institution",
+            "start_date": "2012-02",
+            "end_date": "Present",
+            "description": "Constructed a dynamic nutrition curriculum/syllabus consistent with department standards. Tailored unique classroom activities to enhance comprehension, and participation, as well as foster communication. Created fluid and engaging classroom instruction centered around cutting-edge presentations authored to support the assigned textbook, current evidence-based practices, and guidelines."
+        },
+        {
+            "title": "Nutrition/Chef Consultant",
+            "company": "Claremont USD; Rialto USD; Fontana USD; San Bernardino City USD",
+            "start_date": "2010-09",
+            "end_date": "Present",
+            "description": "Crafted signature recipes from the edible gardens and presented the recipes at open house to the press, parents, and children. Provided nutritional instruction to the teachers grades 6-12 to support wellness policies. Authored nutrition services newsletter distributed campus wide. Taught K-12 teachers project-based learning over a 3 year continuum for nutrition, foods, and health. Integrated GIS mapping with City of Rialto, Healthy Rialto, and RUSD staff for district benefit. Created high-energy, televised demonstrations to increase participation in school salad bars."
+        },
+        {
+            "title": "Chef Instructor/Nutritionist",
+            "company": "Unknown Institution",
+            "start_date": "2006-06",
+            "end_date": "2009-08",
+            "description": "Created interactive curricula uniquely tailored for children ages 4-16 to include farm-to-table cooking. Synchronized specialty programs that accommodated all food allergies, ensuring accessibility to all. Restructured banquet services for 300+ attendees."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Public Health: Nutrition",
+            "school": "Loma Linda University",
+            "year": "2011"
+        },
+        {
+            "degree": "Bachelor of Science: Human Nutrition",
+            "school": "California State Polytechnic University",
+            "year": "2009"
+        },
+        {
+            "degree": "Associate of Science: Culinary Arts",
+            "school": "Le Cordon Bleu",
+            "year": "2006"
+        }
+    ],
+    "certifications": [
+        "Registered Dietitian #1023289",
+        "ServSafe Management #11458213"
+    ],
+    "languages": []
+}

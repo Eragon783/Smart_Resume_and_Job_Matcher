@@ -1,0 +1,80 @@
+{
+    "name": "Jordan C. Wu",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior Industrial Designer with 20+ years of experience guiding industrial design for new product development across high-profile clients. Proven leader and problem solver with expertise in DFM, 3D CAD, and front-end UX research. Proficient in SolidWorks, Rhino 3D, Adobe Creative Suite, 3D printing, KeyShot rendering, HTML/CSS/WordPress, and cross-functional collaboration. Multilingual and experienced in fast-paced environments with a track record of successful product launches and design-for-manufacturing standards.",
+    "skills": [
+        "Industrial Design",
+        "Strategic Planning & Analysis",
+        "Front-end UX Research",
+        "Design for Manufacturing (DFM)",
+        "3D Design",
+        "Modeling",
+        "CAD",
+        "Graphic Design",
+        "Web Design",
+        "3D Printing",
+        "Project Management",
+        "New Product Development",
+        "Collaboration",
+        "Product Design",
+        "Problem Solving",
+        "SolidWorks",
+        "Rhino 3D",
+        "Adobe Creative Suite",
+        "Illustrator",
+        "Photoshop",
+        "Geomagic Freeform Plus",
+        "Moldflow",
+        "KeyShot",
+        "HTML",
+        "CSS",
+        "WordPress",
+        "Color",
+        "Packaging Design",
+        "Rendering",
+        "Websites",
+        "Microsoft Office Suite",
+        "Word",
+        "PowerPoint",
+        "Excel"
+    ],
+    "experience": [
+        {
+            "title": "Senior Industrial Designer",
+            "company": "Company Name - City, State",
+            "start_date": "Jan 1998",
+            "end_date": "Current",
+            "description": "Led conception, form/function/fit design, DFM ( e.g. for injection molding) and engineering endeavors for products, such as consumer products, packaging design, iPhone cases/accessories, electronic handheld devices, Internet-of-Thing (IoT). Collaborated with production engineers in the U.S., China, and Korea. Clientele includes Johnson & Johnson, Unilever, L'Oreal, Clinique, Avon, and L Brands. Played an integral role in the successful launches of Victoria's Secret Victoria and Ed Hardy Skulls perfume lines. Proactively established GD& T engineering design standards for all design detail presentations. Continuously hones expertise in SolidWorks, 3D printing, Adobe Creative Suite, Keyshot rendering, and Rhino 3D. Developed successful product launch campaigns using websites built on HTML, CSS, and Wordpress."
+        },
+        {
+            "title": "Principal Design Consultant",
+            "company": "FutureDash",
+            "start_date": "Jan 2011",
+            "end_date": "Jan 2013",
+            "description": "Planned and executed direction of Energybuddy, a home energy monitor for green energy hi-tech startup. Devised conceptualization, detail form language development, electro-mechanic design, moldflow simulation, color/material study, product graphics, packaging design, and presentation, effectively managing product development from design to pilot manufacturing in just 3 months, launched at 2012 CES in Las Vegas."
+        },
+        {
+            "title": "Front-End Research Consultant",
+            "company": "Company Name - City",
+            "start_date": "Jan 2004",
+            "end_date": "Jan 2007",
+            "description": "Successfully identified latent user needs for product development through ethnographic observation, focus group, and interviews. Creatively generating scenario and business model for new products/services. Extensive projects included research for NeoVideo Portable Digital HDTV, Digital Home Network scenario planning, IPTV usability research, a Digital Picture Frames usability study and digital display trend survey."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Industrial Design (MID)",
+            "school": "Pratt Institute",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Certified New Product Development Professional (NPDP)"
+    ],
+    "languages": [
+        "Chinese",
+        "Japanese"
+    ]
+}

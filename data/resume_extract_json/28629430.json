@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "CREATIVE DIRECTOR Career Focus Creative Director, Graphic Artist, Studio Artist, Data Analyst, Sales and Marketing Representative - I have extensive experience with creating and directing page layout and collateral design. I am a self-motivated, detail-oriented designer and problem solver. I can conceptualize and execute visuals in a fast-paced environment, while maintaining accuracy and quality of the finished product. I often implement some of my skills as a professional Fine artist and Illustration artist to add a unique spin to many projects when the objective merits it. Clean, contemporary layouts with logical use of typography are my style.",
+    "skills": [
+        "Adobe CS",
+        "Acrobat",
+        "InDesign",
+        "Illustrator",
+        "Photoshop",
+        "Dreamweaver",
+        "Microsoft Office",
+        "Excel",
+        "Word",
+        "Access",
+        "PowerPoint",
+        "MySQL",
+        "Citrix",
+        "Retrieve",
+        "HTML",
+        "Dynamic HTML",
+        "Photography",
+        "Illustration",
+        "Oil painting",
+        "Acrylic painting",
+        "Drawing",
+        "Mural work",
+        "Tile work",
+        "Furniture restoration",
+        "JavaScript",
+        "Eclipse"
+    ],
+    "experience": [
+        {
+            "title": "Professional Studio Artist/Graphic Artist",
+            "company": "Company Name",
+            "start_date": "April 1999",
+            "end_date": "February 2016",
+            "description": "Create art work for gallery display and sale as well as provide work to various charities, events and silent auctions (public as well as private). Teach classes on painting and life drawing. Worked with furniture for restoration and reinvention. Produced marketing materials and studio announcements for various groups and individuals. CLIENTS included Leukemia and Lymphoma Society, Susan G Komen Foundation, CAR, Slant, Douglas Frohman, Cornelia Arts Building, Girls Rock! Chicago, Cancer Research and Charity funding Chicago, Delaware Street Capital, Southern Wine and Spirits."
+        },
+        {
+            "title": "Art Director/Graphic Designer",
+            "company": "Company Name",
+            "start_date": "August 2000",
+            "end_date": "October 2002",
+            "description": "Work directly with clients to provide images used for instructional booklets and large volume catalogs, as well as producing warning labels for various products with tight deadlines and strict accuracy. Created original product packaging and branding for our largest clients. CLIENTS included Elkay Manufacturing, Spitfire Spark Plugs, NAF Graphic Arts Firm, Inverness Golf Club, Ironbridge Software. Art directed and designed catalog layouts. Heavy image manipulation for various clients' products and equipment photo shoots. Created line art for all instruction manuals for our clients. Produced and designed original packaging for clients' products. Branded many products and concepts for clients as well as in-house. Designed and produced Newsletter for LCH - The Lake County Haven with support of Master Arts, Inc. Created all sales and marketing materials for Master Arts, Inc. Worked directly with proofing department to create effect layouts for numerous instruction manuals, brochures and catalogs. Website layout and design."
+        },
+        {
+            "title": "Creative Director",
+            "company": "Company Name",
+            "start_date": "January 2002",
+            "end_date": "January 2015",
+            "description": "Mentored our restructured Sales and Marketing Department which oversaw website design, web advertising, conference banners and ad creation for promotional marketing and catalog layouts. Responsible for: new logo creation and branding of new products, motivating and problem solving. Also took on role of Data Analyst over the past 7 years - pulling data from Citrix, Retrieve, ftp sources, various client websites, IRI, and directly from clients with increases in return time to our clients by over 60%. Managed and met aggressive personal and team deadlines, handled changing priorities, while adhering to strategy, accuracy and time lines. Work closely with marketing staff and clients to ensure visual content is compelling, effective and on strategy. Consult with marketing department on promotional and collateral material. Took designs from concept to completion. Art directed and designed custom publishing material for print and promotional materials. Print work featured in CGM - Consumer Goods Magazine and other periodicals related to conferences and events."
+        },
+        {
+            "title": "Medical Billing for Radiology Department",
+            "company": "Company Name",
+            "start_date": "December 1994",
+            "end_date": "July 1998",
+            "description": "Working with medical records and insurance information to locate patient information for updating medical records and contact information. Ran documentation and brought records up to speed for the department. Used proprietary medical record software to update patient information. Blended data from various insurance providers to add to hospital billing systems. Learned and used medical shorthand coding to update and override incorrect information. Increased current and updated insurance and billable data by over 30% in the first year and 22% in subsequent years as a medical biller."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Art, Painting, Graphic Design",
+            "school": "Drake University",
+            "year": 2000
+        },
+        {
+            "degree": "Associate of Arts in Painting and Graphic Design",
+            "school": "College of DuPage",
+            "year": 1998
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,67 @@
+{
+    "name": "S.Mohamed Mohideen",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior Executive - Finance with approximately 6.5 years of corporate experience, strong analytical ability, and proficiency in month-end and year-end processes, accounts payable/receivable, general ledger, and process improvements. Proven ability to meet deadlines and communicate effectively.",
+    "skills": [
+        "ERP Packages",
+        "SAP ECC 6.0",
+        "Tally ERP9",
+        "Operating System: Windows 95/98/2000/NT/XP",
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "Office 2000/2002/XP/2003",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Bank reconciliation",
+        "General Ledger",
+        "GL",
+        "Fixed Asset register",
+        "Forex",
+        "MIS",
+        "Month end close",
+        "Procurement",
+        "Sales",
+        "Tax",
+        "TDS",
+        "Sundry Creditors",
+        "ERP",
+        "Arabic"
+    ],
+    "experience": [
+        {
+            "title": "Senior Executive - Finance",
+            "company": "Company Name",
+            "start_date": "2008-08",
+            "end_date": "2015-09",
+            "description": "Resolving payment issues and ensuring timely payments to vendors (local and foreign); assisting regional accountants for AP/GL/GR/IR related issues; posting admin invoices (Rent, Electricity, Office Maintenance) with cost centre allocation; posting import invoices; single point of contact for related party payments and reconciliations; GR/IR analysis and reporting; updating Forex rates in SAP; bank reconciliations; petty cash management; coordinating with internal and external auditors for audit requirements."
+        },
+        {
+            "title": "Accounts Executive",
+            "company": "Company Name",
+            "start_date": "2005-07",
+            "end_date": "2008-07",
+            "description": "Handling petty cash; preparation of journal vouchers and commission statements; general ledger reconciliation; sundry debtors and creditors analysis; monthly bank reconciliations; inter-branch reconciliations; fixed asset register; vendor payments; MIS reports; internal audit support; cash flow and fund flow preparation; TDS, Service Tax, ESI & PF; monthly book close activities; receipts vs payments analysis."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA - Finance",
+            "school": "Manonmaniam Sundaranar University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Commerce",
+            "school": "Kamaraj College of Arts and Science, affiliated to Manonmaniam Sundaranar University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Tamil",
+        "Arabic"
+    ]
+}

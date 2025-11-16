@@ -1,0 +1,78 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Consultant with extensive experience in employee relations, performance management, and HR program development. Skilled in stakeholder management, coaching, policy development, HR operations including payroll and compliance. SHRM-SCP course prep (May 2017).",
+    "skills": [
+        "Employee relations",
+        "Performance management",
+        "Interpersonal skills",
+        "Coaching",
+        "SHRM-SCP course preparation",
+        "Employee handbook development",
+        "Event management",
+        "Manager coaching",
+        "Hiring and retention",
+        "Business presentations",
+        "Sales strategy development",
+        "Proposal management",
+        "Budgeting",
+        "Payroll processing",
+        "HR policy and compliance",
+        "Contract negotiation"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "August 2015",
+            "end_date": "Present",
+            "description": "Create professional business presentations; contacted new and existing customers to discuss how specific services could meet their needs; developed innovative business plans and sales strategies; researched economic processing factors to determine the best process and sales strategies; coordinated and managed major proposal processes from initiation to implementation; formulated a comprehensive business plan with clear and actionable sales goals; analyzed client requirements, created a business plan and drove strategy development; planned and negotiated media buys across TV, radio, print and digital."
+        },
+        {
+            "title": "Director",
+            "company": "Company Name",
+            "start_date": "April 2012",
+            "end_date": "August 2014",
+            "description": "Carefully selected, developed and retained qualified staff; trained [number] new staff annually; created annual goals, objectives and budget; made recommendations to reduce costs; assisted in the design and execution of programs contributing to growth; administered, directed and coordinated the activities of the agency; liaison between management, clinical staff and the community; planned, coordinated, organized and directed all operations; maintained up-to-date knowledge of applicable state and federal laws and regulations; evaluated employee performance; led weekly personnel meetings; developed and managed budget and revenue while seeking ways to reduce expenses; revised policies and procedures; created exit and interview program; advised top management on corrective actions; ran the bi-weekly payroll process."
+        },
+        {
+            "title": "Director",
+            "company": "Company Name",
+            "start_date": "July 2009",
+            "end_date": "Present",
+            "description": "Created and implemented the exit and interview program; created and modified job descriptions; facilitated monthly meetings to develop strategies positively influencing workplace relationships; identified growth opportunities; managed day-to-day tactical and long-term strategic activities; reduced expenses by improving resource allocation; represented the agency to government, funding and field sources at meetings and conferences; addressed program and policy issues, developed best practices and improved service delivery; created executive analysis reports highlighting business issues, potential risks and profit opportunities; negotiated and reviewed contracts and financial models with profitability and financial success in mind; reviewed federal and state laws to ensure compliance; addressed inquiries from employees and management regarding new-hire activity and ongoing employee relation issues."
+        },
+        {
+            "title": "Human Resource Manager",
+            "company": "Company Name",
+            "start_date": "June 2007",
+            "end_date": "September 2009",
+            "description": "Increased the employee base by [Number]% to meet changing staffing needs; implemented an innovative employee incentive program resulting in a [Number]% increase in staff productivity; recruited and interviewed [Number] applicants per [Time period]; answered employee questions regarding [Topic] and [Topic]; advised managers on organizational policy matters; conducted new employee orientation; served as a link between management and employees; identified staff vacancies and recruited, interviewed and selected applicants; directed personnel, training and labor relations activities."
+        },
+        {
+            "title": "Human Resource Assistant",
+            "company": "Company Name",
+            "start_date": "June 2003",
+            "end_date": "September 2007",
+            "description": "Worked quickly and efficiently, with minimal oversight, to accomplish assigned duties; improved accuracy of payroll journal entries by developing and implementing a payroll reconciliation tool; accurately processed data, validation and transmission for weekly, semi-monthly and salary payrolls; prepared and filed sales and use tax returns, telecommunications tax returns, gross receipts returns, franchise tax returns, annual reports and other miscellaneous filings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Counseling Education and Educational Psychology",
+            "school": "Mississippi State University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science in Business Administration",
+            "school": "Mississippi University for Women",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "SHRM-SCP Course Prep (May 2017)"
+    ],
+    "languages": []
+}

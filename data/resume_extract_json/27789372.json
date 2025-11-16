@@ -1,0 +1,45 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Finance Director with experience in strategic planning, budgeting and accounting. Highlights Data trending Motivated Professional Process implementation Process implementation Staff leadership and development",
+    "skills": [
+        "Microsoft Excel (Intermediate)",
+        "Microsoft Access (Basic)",
+        "QuickBooks (3 years)",
+        "ADP Payroll System (3 years)"
+    ],
+    "experience": [
+        {
+            "title": "Finance Director",
+            "company": "Company Name",
+            "start_date": "May 2012",
+            "end_date": "Current",
+            "description": "Implemented new Accounting procedures within Quickbooks. Prepare company payroll and submit to ADP bimonthly. Work daily with Microsoft Excel in creating worksheets when needed. Prepare monthly Payroll Financial Statements for the Corporation. Review Financial Statements within Quickbooks. Work Directly with HR Director, Standards Compliance Coordinator, Treasurer and CEO."
+        },
+        {
+            "title": "Systems Manager",
+            "company": "Company Name",
+            "start_date": "July 2011",
+            "end_date": "May 2012",
+            "description": "Process all Medicaid Claims as well as billing errors, denials and payments. Entered new Medicaid patient Enrollment papers into Medical Program Daily. Analyze patient accounts daily for errors. Assist Financial Director daily with various tasks. Process and post Medicaid billing daily. Developed work with data entry including: Customer and Patient Satisfaction, Clinical Monthly Packets as well as the Employee Census."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "June 2008",
+            "end_date": "March 2010",
+            "description": "Analyzed financial and accounting records Used Accounting and Auditing Sox procedures to evaluate information and review compliances Conducted payroll audits and inventory counts Assisted with internal audits Applied cash deposits against accounts receivables daily Reviewed Journal Entries and monthly Landowner Statements to pass Sox compliance"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "Youngstown State University",
+            "year": 2008
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

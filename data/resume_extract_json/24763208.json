@@ -1,0 +1,114 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Long Island, New York",
+    "summary": "Seeking a setting to expand on and use my sales and management experience; I have a strong track record of exceptional customer service, pro-active business strategies and award-winning sales. My passion is leading teams to success through employee engagement, and I look forward to using my marketing and sales skills to grow with your team.",
+    "skills": [
+        "Training",
+        "Recruiting",
+        "Sales",
+        "Sales Goals",
+        "CPR",
+        "Therapeutic",
+        "Teaching",
+        "Assistant Director",
+        "Writing Skills",
+        "Audits",
+        "Budgets",
+        "Financial Reports",
+        "Marketing",
+        "Award",
+        "Collection",
+        "Customer Service",
+        "Data Collection",
+        "Employee Engagement",
+        "Patience",
+        "Progress",
+        "Receptionist",
+        "Retail Sales"
+    ],
+    "experience": [
+        {
+            "title": "District Manager",
+            "company": "Knowledge Universe",
+            "start_date": "Mar 2012",
+            "end_date": "Present",
+            "description": "Oversaw 6 early childhood education centers in Long Island, NY; focused on improving financial results, program quality, brand recognition, and employee engagement. Achievements include moving two centers from negative EBITA to positive EBITA within 12 months; opened a new center in fall 2014; guided five centers toward NAEYC accreditation."
+        },
+        {
+            "title": "Director",
+            "company": "Tutor Time",
+            "start_date": "Aug 2007",
+            "end_date": "Oct 2012",
+            "description": "Directed Tutor Time child care center; oversaw health, welfare, diet, and nurture; curriculum and program development; recruiting, training and supervising staff; planned activities and learning; maintained records; held NYS child care license. Increased revenue and enrollment; reduced labor and expenses through effective management."
+        },
+        {
+            "title": "Area Manager",
+            "company": "The Learning Experience",
+            "start_date": "Oct 2012",
+            "end_date": "Mar 2013",
+            "description": "Oversaw nine franchise-owned schools; collected monthly financial reports and conducted audits; managed budgets and enrollment goals; evaluated centers for brand standards; reviewed monthly director reports and approved school newsletters; supported licensing compliance; addressed parent complaints; set marketing goals and supported touring and enrollment."
+        },
+        {
+            "title": "Director",
+            "company": "Good Shepherd Child Care Center",
+            "start_date": "Jan 2006",
+            "end_date": "Aug 2007",
+            "description": "Directed the child care center; cared for health, welfare, diet and nurture; curriculum and program development; recruiting, training, and supervising staff; planning and leading activities; maintaining records as required; wrote grants and organized fundraisers and trainings; maintained licenses."
+        },
+        {
+            "title": "Teacher",
+            "company": "West Houston Charter School",
+            "start_date": "Jan 2005",
+            "end_date": "Jan 2006",
+            "description": "Taught science, math, computers and art to 6th-8th graders; wrote lesson plans; planned projects; monitored student behavior; communicated with parents and staff; collaborated with special education to meet modified academic and behavior needs."
+        },
+        {
+            "title": "Assistant Director",
+            "company": "Private Preschool",
+            "start_date": "Jan 2004",
+            "end_date": "Jan 2005",
+            "description": "Opened and closed the school; ensured compliance with state child care and health laws; trained and supervised staff; wrote curriculum for ages two through six; led staff meetings; planned events; communicated with parents; promoted and enrolled students."
+        },
+        {
+            "title": "Youth Advocate",
+            "company": "Youth Advocate Programs",
+            "start_date": "Jan 2000",
+            "end_date": "Jan 2004",
+            "description": "Implemented treatment plans for children with various disabilities including autism; worked one-on-one with autistic children; behavior modification, attending skills and social skills; collaborated with a team to develop best treatment approaches; received annual training in Autism Spectrum Disorder, CPR, CPI; worked in community, school, and home settings."
+        },
+        {
+            "title": "Substitute Teacher",
+            "company": "Unknown/Various",
+            "start_date": "Jan 1999",
+            "end_date": "Jan 1999",
+            "description": "Implemented and followed the absent teacher's work plan; supervised activities and maintained a safe learning environment."
+        },
+        {
+            "title": "Assistant Store Manager",
+            "company": "Kiosk / Retail",
+            "start_date": "Jan 1992",
+            "end_date": "Jan 1996",
+            "description": "Supported store manager in duties of the kiosk; displayed and sold merchandise; helped achieve store sales goals."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Social Work",
+            "school": "State University of Stony Brook",
+            "year": "1993-1995"
+        },
+        {
+            "degree": "Associate's degree",
+            "school": "Suffolk County Community College",
+            "year": "1991-1993"
+        }
+    ],
+    "certifications": [
+        "CPR",
+        "CPI",
+        "ABA"
+    ],
+    "languages": []
+}

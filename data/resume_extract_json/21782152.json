@@ -1,0 +1,78 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Resourceful and accomplished Office Manager with extensive office operations and personnel organization expertise. Versatile Office manager capable of managing dynamic and cross-functional teams as well as projects. Over 10 years of progressive experience in business management and the legal arena. Highlights include interpersonal skills, ability to work independently, handle pressure, meet deadlines, proficient managerial skills, effective team leader and efficient team player, excellent customer service skills, exemplary work ethic, multitasks, plans and organizes individual and corporate meetings, and excellent written and verbal communication skills. Skills include typing (70 WPM), dictaphone, transcription, speed writing, CaseNet, proficiency in Microsoft Word (95 through Word 2007), WordPerfect, Excel, Outlook, Access, PowerPoint, Timeslips, QuickBooks, calendaring, travel arrangements, itineraries, Proficient in using the Tickle System for legal and corporate matters, filing, fax machine, copiers, e-filing, multi-line telephone systems. Data entry (Superior), minutes of meetings, A/P - A/R. Legal experience (10+ years): Administrative Law, Corporate Law, IP, Contractual Law, Bankruptcy Law (Debtor's rights: Chapter 7 and 13), Workers' Compensation Law; Domestic/Family Law, Estate Planning, Personal Injury, Medical Malpractice, Plaintiff and Defendant Work, Creditor and Debtors' Rights. Accomplishments include increasing office organization by developing more efficient filing system and customer database protocols, planned and executed all aspects of a major office headquarters move, developed and implemented company's first employee manual outlining all proper business procedures and office policies.",
+    "skills": [
+        "Typing (70 WPM)",
+        "Dictaphone",
+        "Transcription",
+        "Speed Writing",
+        "CaseNet",
+        "Microsoft Word (95 through Word 2007)",
+        "WordPerfect",
+        "Excel",
+        "Outlook",
+        "Access",
+        "PowerPoint",
+        "Timeslips",
+        "QuickBooks",
+        "Calendaring",
+        "Travel Arrangements",
+        "Itineraries",
+        "Tickle System",
+        "Filing",
+        "Fax Machine",
+        "Copiers",
+        "E-filing",
+        "Multi-line Telephone Systems",
+        "Data Entry (Superior)",
+        "Minutes of Meetings",
+        "A/P - A/R"
+    ],
+    "experience": [
+        {
+            "title": "Project Coordinator – Construction Side",
+            "company": "Company Name, City, State",
+            "start_date": "September 2014",
+            "end_date": "May 2014",
+            "description": "Designed electronic file systems and maintained electronic and paper files. Managed the day-to-day tactical and long-term strategic activities within the business. Compiled and synthesized relevant business data for coordination of integrators, local jurisdictions, materials, and customers for successful delivery and completion of projects."
+        },
+        {
+            "title": "Dispatch – Life Safety – Managed IP Services",
+            "company": "Company Name, City, State",
+            "start_date": "January 2012",
+            "end_date": "September 2013",
+            "description": "Monitor and dispatch on Burglary Alarms, Fire Alarms, and Medical Emergency Alarms and Signals using proven methods from the book of Standard Operating Procedures Handbook ensuring life safety measures during life threatening emergencies. Monitor and dispatch for maintenance issues with alarm systems and backup monitoring equipment, including panels, receivers, sensors and key fobs. Enter and request service for such issues and schedule field tech support appointments. Take incoming calls from clients, informing, answering questions and troubleshooting problem areas with alarms and signals."
+        },
+        {
+            "title": "Temporary placement of Leasing Agents, Assistant Property Managers and Property Managers",
+            "company": "Company Name, City, State",
+            "start_date": "July 2011",
+            "end_date": "December 2011",
+            "description": "Various Leasing computer programs, i.e. MRI program, Yardi program, Model and Vacant Tours, Add Guests, Work Orders, Follow up, Accept Monies, Lease Apartments (most leased – 2 apartments in one business day). Closing Skills, Desire to make large strides in short period of time. Small Communities Boulder Springs (100+ units), Medium Communities (Bonhomme Village, Meadow Park) (200 – 400 units), Large Communities (600+ units) Knollwood Apartments, Marlboro Trails, Mills Property, Gingco Property. File Audits, Insurance Audits. Ensure compliance of legal standard for all tenants, maintenance crew and office staff."
+        },
+        {
+            "title": "Office Manager/Field Supervisor",
+            "company": "Company Name, City, State",
+            "start_date": "July 2007",
+            "end_date": "April 2011",
+            "description": "Under $500,000 annual income and budget. Help write and implement mission statement, ensure SEC filings, Certificate of Good Standing, Annual Reports, etc., Administrative Policies and Procedures, Company Rules and Regulations, Highly ethical and practice due diligence, ensure confidentiality of all business matters and compliance of all state laws and legal requirements. General Office Duties: A/R, A/P including monthly reconciliation of business accounts using QuickBooks, Annual Tax Preparation, General Office Procedures included Filing, Correspondence, Ordering Office Materials, Client Contact, Sales and Marketing, including direct mailings and flyer designing and distribution. Field Supervisor Duties: Schedule work crews, Ordering and Pickup/Delivery of equipment, tools, and materials for each job. Schedule job labor and deliver materials, ensure local and state compliance of all jobs. Job site quality control and training on simple work tasks. Ongoing communication with crew and customers through completion of job assignment. Handle Negotiations of contracts when necessary to help facilitate the best outcome for all parties involved."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science: Business Administration",
+            "school": "St. Charles Community College",
+            "year": "2011"
+        },
+        {
+            "degree": "Associate of Applied Science: Paralegal Studies",
+            "school": "Washburn University",
+            "year": "1994"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

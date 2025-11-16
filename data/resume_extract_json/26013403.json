@@ -1,0 +1,94 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Skilled financial professional with over twenty years of financial services industry and fifteen years of practical management experience. Highly detail-oriented and organized. Areas of expertise include conflict management, customer service, marketing and client interface. Advanced training in risk assessments, management controls and audit planning.",
+    "skills": [
+        "Benefits",
+        "Budgets",
+        "Business planning",
+        "Monthly billing",
+        "Quarterly billing",
+        "Flow charts",
+        "Conflict resolution",
+        "Database",
+        "Documentation",
+        "Hiring",
+        "HR generalist",
+        "Inventory control",
+        "Legal research",
+        "Microsoft Office",
+        "SQL",
+        "Excel",
+        "Concur",
+        "Workday",
+        "Kronos",
+        "SOX",
+        "DOJ",
+        "Audit",
+        "Operations management",
+        "Project management",
+        "Risk assessment",
+        "Management controls",
+        "Audit planning",
+        "Customer service",
+        "Schedule management",
+        "Mergers and acquisitions",
+        "Negotiations",
+        "Risk mitigation",
+        "Financial planning",
+        "Strategic planning"
+    ],
+    "experience": [
+        {
+            "title": "Operations Finance Director",
+            "company": "Company Name",
+            "start_date": "2016-01",
+            "end_date": "Present",
+            "description": "Planned and executed operational audits of various business areas using risk-based audit methodology. Created executive analysis reports highlighting business issues, potential risks and profit opportunities. Developed and implemented efficient accounting, financial and operational systems. Generated new accounts by implementing effective networking and content marketing strategies. Reviewed new customer orders and requests and manually entered data. Systematically prepared documents and assembled financial statements for independent auditors into a centralized database."
+        },
+        {
+            "title": "Managing Director - Head Of Trading Floor Operations",
+            "company": "Company Name",
+            "start_date": "2009-02",
+            "end_date": "2015-10",
+            "description": "Supervised and managed all daily operational trading floor activities, all trading floor staff and all trading floor broker operations on the San Francisco trading floor. Worked with FINRA Floor staff to enforce trading floor rules. Responsible for enforcement of trading floor rules and regulation for open out-cry trading. Developed strategy for internal and external regulatory examinations, collaborated with internal and external audit and market compliance. Created organizational flow charts and career path reports to evaluate employee compensation information. Designed the employee performance evaluation process and merit program. Wrote all employee company policies and procedures for the trading floor. Increased the employee base to meet changing staffing needs. Implemented an innovative employee incentive and training program. Handled exchange customer error account for San Francisco SR."
+        },
+        {
+            "title": "Sr. Director - Options Trading Services and Operations",
+            "company": "Company Name",
+            "start_date": "2007-10",
+            "end_date": "2009-02",
+            "description": "Stationed in New York for the launch and merger between the NYSE and the American Stock Exchange. Implemented and authored all company policies and procedures for the trading floor. Recruited and interviewed 70 applicants per one year period. Reviewed federal and state laws to confirm and enforce company compliance. Wrote all employee performance evaluation reviews and recommended merit increases. Implemented an employee bonus program. Maintained all of the departments procedures and written documentation for both NYSE SF and NYSE Amex NY."
+        },
+        {
+            "title": "Director - Manager - Options Trading Services",
+            "company": "Company Name",
+            "start_date": "1992-05",
+            "end_date": "2007-10",
+            "description": "Managed trading floor staff and all trading floor procedures. Oversaw all facilities and maintenance of the entire options department. Developed and managed quarterly operating budgets for the entire San Francisco Trading Floor and Options department. Analyzed employment-related data and prepared required reports. Collected and analyzed data to evaluate operational issues and make process improvement recommendations. Communicated the duties, compensation, benefits and working conditions to all potential candidates. Defined strategy and business plans for entire SF-options trading floor. Rolled out new front end proprietary software for all trading firms. Traded customer orders in a fast paced open-out-cry environment. Oversaw scheduling for the day-to-day activities of assigned trading pit."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts, History",
+            "school": "Diablo Valley College",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts in Finance, Economics, Spanish",
+            "school": "Los Medanos College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Certified Trading Floor Broker Certificate - NYSE-REG",
+        "MBCI (Member Business Continuity Institute)",
+        "Computer Information Systems Certificate - Project Management - DVC",
+        "Spanish Foreign Language Certificate - LMC"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

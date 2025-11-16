@@ -1,0 +1,71 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "",
+    "skills": [
+        "billing",
+        "brochures",
+        "client",
+        "editing",
+        "email",
+        "event production",
+        "film",
+        "marketing",
+        "Excel",
+        "Microsoft Office",
+        "Outlook",
+        "PowerPoint",
+        "Publisher",
+        "Word",
+        "sales",
+        "Salesforce"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "12/2016",
+            "end_date": "Current",
+            "description": "Respond to member inquires via email or phone. Establish referral programs using OTF sales system. Sell memberships or upgrades."
+        },
+        {
+            "title": "Marketing Coordinator",
+            "company": "Company Name",
+            "start_date": "08/2016",
+            "end_date": "11/2016",
+            "description": "Promote ridesharing programs by hosting events at client locations. Develop marketing flyers using Publisher. Manage all aspects of event production. Support Field Directors in project management. Manage social media accounts (Facebook, Twitter)."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Helped film the Malden holiday parade using editing skills. Designed brochures for upcoming events. Collaborated with members of the Malden neighborhood."
+        },
+        {
+            "title": "Staff Writer",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Student -run campus newspaper. Researched information for news articles using library and web sources. Composed and edited informational articles as well as conduct interviews. Gained knowledge in taking photographs and writing captions and sidebars."
+        },
+        {
+            "title": "Customer Service/Sales Representative",
+            "company": "Company Name",
+            "start_date": "11/2013",
+            "end_date": "06/2016",
+            "description": "Help customers resolve billing questions, collect payments, and renew oil contracts. Answer inbound calls and make outbound calls. Promote oil as a safer choice. Train new hires."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Communications, Public Relations, Political Science",
+            "school": "Salem State University",
+            "year": "2016"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

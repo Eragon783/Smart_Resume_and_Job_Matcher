@@ -1,0 +1,95 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Chicago, IL",
+    "summary": "To obtain a position as a registered nurse where my experience and leadership skills can be utilized to provide a positive and effective team environment resulting in excellent patient care and satisfaction.",
+    "skills": [
+        "allergies",
+        "blood draws",
+        "budget",
+        "charts",
+        "coaching",
+        "CPR",
+        "decision making",
+        "EKGs",
+        "equipment maintenance",
+        "filling",
+        "financial",
+        "first aid",
+        "health education",
+        "hiring",
+        "immunizations",
+        "injections",
+        "instruction",
+        "inventory",
+        "inventory control",
+        "lab test",
+        "leadership",
+        "meetings",
+        "mentoring",
+        "office",
+        "Nursing",
+        "organizing",
+        "patient care",
+        "patient flow",
+        "preparing patient",
+        "Performance reviews",
+        "personnel",
+        "policies",
+        "presenting",
+        "problem solving",
+        "protocols",
+        "quality",
+        "Reporting",
+        "scheduling",
+        "Supervision",
+        "surgery",
+        "phone",
+        "triage",
+        "patient triage",
+        "urgent care",
+        "Vaccine",
+        "vital signs",
+        "wound care"
+    ],
+    "experience": [
+        {
+            "title": "Registered Nurse Clinical Care Coordinator- First Aid",
+            "company": "First Aid",
+            "start_date": "2015-05",
+            "end_date": "Present",
+            "description": "Provided leadership to staff through coaching, mentoring and remodeling in order to achieve high quality patient care in a safe and customer focused environment. Provided clinical expertise and a resource to clinical staff. Worked closely with management, physician leadership, and staff to optimize patient flow and improve patient care. Provided emergency/urgent care to Cubs staff and patrons including wound care, patient triage, applying splints and assessment of injuries. Coordinated care with Superior in starting IV's, performing EKGs or patient transport. Able to independently demonstrate problem solving, critical decision making, and utilizing appropriate resources. Able to demonstrate appropriate action and take a lead role in emergency situations. Supported a safe environment for patients and associates through effective monitoring of staff compliance to established standards of care, policies and procedures and HIPAA compliance. Maintained an effective process for inventory control and medication supply utilization."
+        },
+        {
+            "title": "Clinical Supervisor / Registered Nurse",
+            "company": "Company Name",
+            "start_date": "2008-06",
+            "end_date": "Present",
+            "description": "Managed Day-to-Day operations. Device-related adverse events training. Medical equipment maintenance and certification. Vaccine inventory and reports. Clinical staff scheduling. Performance reviews. Chart audits. Clinical evaluations. Maintained current employee files for clinical staff. Conducted interviews and hiring. Attended and held staff meeting and In-services. Attended annual OSHA/CPR reviews. Maintained staff communication. Responsible for first, second and weekend shifts. Oriented/trained new clinical staff. Coordinated communication between departments. Worked directly with the owners of the practice. Delegated clinical staff, as needed. Prepared patients for the doctors: performed nurse triage, obtained vital signs and patient measurements (height, weight, head circumference). Carry out physician orders: Administering immunizations, urinary catheter collection, starting I.V.'s, preparing patient samples to be sent out to the lab, performing blood draws, bilirubin blood draws, performing and sending newborn screens, administering oxygen and/or oxygen with nebulizer treatments, organizing and setting up admissions to the hospital, making follow up phone calls per doctor request, filling out requisitions for tests, giving instruction for medication to be given at home- inhalers, nebulized treatments. Assist doctors with ordering medical tests, with procedures, and preparing and explaining medications. Triaging incoming calls from patients- giving medical advice, determining if the patient needs to be seen by a doctor. Recorded incoming lab test results, reviewed results with the doctor, and contacted patients as necessary. Developed and maintained quality care systems and standards, including but not limited to, creating and improving. Educated campers and staff in accident/illness prevention, and ensured medications were safeguarded. Conducted screenings on all campers before trips and at check-in and checkout. Coordinated and dispensed all medications on a mealtime schedule and at the end of the evening program."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Midwifery",
+            "school": "University of Illinois- Chicago College of Nursing",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science: Nursing",
+            "school": "Illinois State University- Mennonite College of Nursing",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science: Nursing Degree",
+            "school": "University of Hawaii",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "CPR",
+        "OSHA certification",
+        "Registered Nurse Practitioner – Illinois"
+    ],
+    "languages": []
+}

@@ -1,0 +1,109 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Digital and print media professional and consultant with a strong vision to develop new projects and specialist in business development. Strong management skills and leading teams. Result oriented. Passionate and experienced in product and audience development, analytic tools, emerging technologies and their applications in the media industry. Social media and content strategist. Bilingual.",
+    "skills": [
+        "Journalism",
+        "Editorial Leadership",
+        "New Media",
+        "Digital Media",
+        "Business Development",
+        "Audience Development",
+        "Strategic Planning",
+        "Product Management",
+        "Social Media",
+        "Online Journalism",
+        "Mobile Advertising",
+        "Marketing",
+        "Digital Marketing",
+        "Media Strategy",
+        "Content Strategy",
+        "Content Management",
+        "SEO",
+        "Digital Analytics",
+        "Staff Development",
+        "Blogging",
+        "Media Relations",
+        "Editing",
+        "Editorial Writing",
+        "Storytelling",
+        "Multimedia Storytelling"
+    ],
+    "experience": [
+        {
+            "title": "Director of Digital Transformation / Vice President of Content",
+            "company": "ImpreMedia",
+            "start_date": "1999-01",
+            "end_date": "2006-01",
+            "description": "In charge of digital and print operations; led digital transition of ImpreMedia, the leading Hispanic news and information company in the U.S. in online and print. Managed online properties and advised on audience development and digital strategy; involved in the La Nación transition as Senior Consultant."
+        },
+        {
+            "title": "CEO and Owner",
+            "company": "Mediathink Consultores",
+            "start_date": "2007-01",
+            "end_date": "2013-01",
+            "description": "International media consultancy and research company specialized in news media: new digital and business projects and how to change legacy companies to a digital environment. Served clients across Europe and Latin America."
+        },
+        {
+            "title": "CEO and General Manager",
+            "company": "Independent consulting (news media, content, product, business development, newsroom organization and design)",
+            "start_date": "1996-01",
+            "end_date": "1999-01",
+            "description": "CEO and General Manager focusing on news media consultancy, content, product development, and newsroom organization."
+        },
+        {
+            "title": "Managing Editor",
+            "company": "Diario 16",
+            "start_date": "1995-01",
+            "end_date": "1997-01",
+            "description": "Managing Editor for the Madrid-based national newspaper Diario 16."
+        },
+        {
+            "title": "Managing Editor and Art Director",
+            "company": "El Periódico de Catalunya",
+            "start_date": "1992-01",
+            "end_date": "1995-01",
+            "description": "Managing Editor and Art Director; executive editor of the El Períodico de Catalunya's special edition during Olympic Games in Barcelona, 1992."
+        },
+        {
+            "title": "Founder, Art Director and Managing Editor",
+            "company": "El Sol",
+            "start_date": "1990-01",
+            "end_date": "1992-01",
+            "description": "Founder, Art Director and Managing Editor of El Sol, a Spanish national newspaper."
+        },
+        {
+            "title": "Reporter",
+            "company": "Cinco Días",
+            "start_date": "1989-01",
+            "end_date": "1989-12",
+            "description": "Reporter in the business newspaper Cinco Días (Madrid)."
+        },
+        {
+            "title": "Reporter",
+            "company": "El Ideal Gallego",
+            "start_date": "1989-01",
+            "end_date": "1989-12",
+            "description": "Reporter for the local newspaper El Ideal Gallego (A Coruña, Spain)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master in Journalism (MA)",
+            "school": "El País - Universidad Autónoma de Madrid",
+            "year": "1989"
+        },
+        {
+            "degree": "Bachelor of Arts in Journalism",
+            "school": "University of Navarra",
+            "year": "1987"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish",
+        "English"
+    ]
+}

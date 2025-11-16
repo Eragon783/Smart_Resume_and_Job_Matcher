@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "I am a highly motivated professional with seven years of financial industry experience in risk management and compliance. Skilled in organizational, project management, and communication abilities, with expertise in compliance and risk management in retail and commercial banking. Proficient with Microsoft Office (Word, Excel, PowerPoint, Outlook) and Oracle Discover.",
+    "skills": [
+        "ATM",
+        "Banking",
+        "Brochures",
+        "Budget",
+        "Counselor",
+        "Credit",
+        "Senior management",
+        "Financial",
+        "Director",
+        "Market",
+        "Marketing materials",
+        "Meetings",
+        "Mentoring",
+        "Excel",
+        "Microsoft Office Applications",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "Oracle",
+        "Policies",
+        "Processes",
+        "Progress",
+        "Reporting",
+        "Retail",
+        "Risk Assessment",
+        "Sales",
+        "Scripts",
+        "Statistics",
+        "Supervision",
+        "Telemarketing",
+        "Workshops"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Consultant",
+            "company": "Company Name City, State",
+            "start_date": "2010-01",
+            "end_date": "Present",
+            "description": "Develop commercial account procedures and guidelines. Create business member informational brochures, disclosures, applications, and marketing materials. Develop action plans to accomplish assigned goals for business accounts; manage activity within assigned budget. Track and report business account activity. Accumulate and report business account statistics; identify trends; recommend solutions/corrective actions/ process improvements. Regularly meet with current and prospective business members, as well as, support vendors (i.e. printing vendors, merchant processing vendors, etc.) to develop and enhance relationships. Provide monthly training to PSCU staff regarding all aspects of business member services."
+        },
+        {
+            "title": "Business Sales Manager",
+            "company": "Company Name City, State",
+            "start_date": "2007-10",
+            "end_date": "2009-10",
+            "description": "Directed the Branch Business Banker program for 133 branches in the Michigan Market, including the training and development of Assistant Branch Managers and the communication of progress and necessary action steps to senior management. Partnered with Retail Regional Managers & Branch Managers to identify performance gaps and develop strategies in order to close these gaps (telemarketing events, workshops, group training, one-on-one mentoring, etc.). Executed on all Business Sales Campaigns by coordinating Market wide 'kick-off' calls, crafting call scripts, and ensuring proper tracking and reporting. Managed all aspects of off-site Business Banking Events which includes; the event organization, event agenda, workshop development, facilitation, and event host-person Facilitated communication of business products, offers, and processes."
+        },
+        {
+            "title": "Operations Manager",
+            "company": "Company Name City, State",
+            "start_date": "2004-06",
+            "end_date": "2007-10",
+            "description": "Prepared a region of 16 branches for audit by performing a Quarterly Risk Assessment to ensure all internal controls were adequate. Analyzed several reports daily such as Branch Cash Limits, ATM Balancing, and Regulation DD & Z (policy followed) to make recommendations for improvement and/or disciplinary action. Facilitated monthly Regional Manager's meetings to train Branch Managers on various operational topics, help write audit responses, and act as an operational expert. Developed branch operational policies and exceptions under the supervision of the State Retail Operations Director. Executed monthly Teller Manager conference calls and in person Operational Integrity training for Teller Managers and Branch Managers in Southeast Michigan and Toledo to train on new and existing operational developments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Organizational Studies",
+            "school": "University of Michigan",
+            "year": "2000"
+        },
+        {
+            "degree": "MBA in Finance",
+            "school": "Wayne State University",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "Certified Credit Union Financial Counselor"
+    ],
+    "languages": []
+}

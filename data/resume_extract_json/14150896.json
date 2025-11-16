@@ -1,0 +1,53 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Energetic and dedicated film student currently completing degree in media management and production. Strong interests in creative development, character writing and acting.",
+    "skills": [
+        "Microsoft Office",
+        "Social media tools and management",
+        "Publicity",
+        "Marketing",
+        "Customer relations",
+        "Video and Audio Production",
+        "Tech savvy",
+        "Voice acting",
+        "Improvisation acting",
+        "Plot and story building",
+        "Computer hardware and software",
+        "Music Theory"
+    ],
+    "experience": [
+        {
+            "title": "Production assistant intern",
+            "company": "Company Name, City, State",
+            "start_date": "October 2015",
+            "end_date": "January 2016",
+            "description": "Assist casting directors, producers and actors with audition process; Organize schedules, video and audio files; Handle cameras and various production equipment; Assisting with setup for printer and profiling; Assist with locked computer account."
+        },
+        {
+            "title": "Social media relations intern/ Teacher assistant",
+            "company": "Company Name, City, State",
+            "start_date": "July 2015",
+            "end_date": "December 2015",
+            "description": "Collect and retrieve data; Research and aggregate content for Media Literacy Week event; Social Media Community Engager; Manage Press Release and social media post schedules; Social media creative distributor; Teacher assistant to professor at CSUN in mass communications research; Maintain blog tracking and social media calendars; Software troubleshooting (Outlook, Email support); Hardware troubleshooting (Printers, Desktop units, Laptop units, cell phones and tablets); Calling business clients (Schedule meetings, document information, data collection)."
+        },
+        {
+            "title": "Martial Arts Instructor",
+            "company": "Company Name, City, State",
+            "start_date": "June 2011",
+            "end_date": "January 2014",
+            "description": "Provide self defense training to students of various ages ranging from K-12 to adults; Answer incoming and outgoing phone calls; Provide customer support; Attend weekly marketing and business instructor meetings; Attend and assist with community marketing events."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts, Cinema and Television Arts",
+            "school": "California State University Northridge",
+            "year": "2016"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

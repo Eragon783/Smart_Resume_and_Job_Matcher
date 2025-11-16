@@ -1,0 +1,116 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Glasgow, UK",
+    "summary": "Trained Quality Assurance Specialist with a demonstrated history of working in the pharmaceuticals industry. Skilled in Risk Assessment, Regulatory summary writings, Documentation, Quality Assurance, Quality System, and Data Analysis. Strong quality assurance professional with a Masters in Computer Science and Bachelors in Electronics.",
+    "skills": [
+        "ASP.NET",
+        "ASP",
+        "HTML",
+        "HTML5",
+        "CSS3",
+        "Dreamweaver",
+        "C",
+        "C#",
+        "C++",
+        "Embedded C",
+        "Embedded System",
+        "Oracle",
+        "Oracle 9i",
+        "ORACLE8.0",
+        "SQL",
+        "PLSQL",
+        "Access 2000",
+        "Visio",
+        "Excel",
+        "Word",
+        "PowerPoint",
+        "Office",
+        "Adobe Acrobat",
+        "API",
+        "Data Management",
+        "Database",
+        "Database Management",
+        "Data Analysis",
+        "Quality Assurance",
+        "Risk Analysis",
+        "Risk Assessment",
+        "System Design",
+        "Web Designer",
+        "Web Designing",
+        "Visual Basic 6.0",
+        "Visual Basic6.0",
+        "PLC",
+        "Graphic / computer graphics"
+    ],
+    "experience": [
+        {
+            "title": "Webmaster",
+            "company": "IBTN research group, UIC",
+            "start_date": "2014-02",
+            "end_date": "Present",
+            "description": "Developed the official website of IBTN research group; weekly updates; uploaded files and photographs; created a user-friendly interface."
+        },
+        {
+            "title": "Assistant Technical Officer (ATO)",
+            "company": "South Glasgow NHS Trust, UK",
+            "start_date": "2004-01",
+            "end_date": "2005-01",
+            "description": "Data monitoring and analysis; recording and updating database of sterilisation equipment; responsible for correct assembly, checking, packing and marking of items prior to sterilisation; operation of decontamination equipment; maintenance of quality system records and traceability."
+        },
+        {
+            "title": "Web Designer / Database Designer",
+            "company": "One Plus, Glasgow, UK",
+            "start_date": "",
+            "end_date": "",
+            "description": "Web designer and database designer."
+        },
+        {
+            "title": "Web Designer",
+            "company": "Nuclear Disarmament, Glasgow, UK",
+            "start_date": "",
+            "end_date": "",
+            "description": ""
+        },
+        {
+            "title": "Office Assistant",
+            "company": "Iona Community, Glasgow, UK",
+            "start_date": "",
+            "end_date": "",
+            "description": ""
+        },
+        {
+            "title": "Polling Clerk",
+            "company": "Scottish Parliament Election",
+            "start_date": "2004",
+            "end_date": "2004",
+            "description": "Polling Clerk in a Scottish Parliament election (2004)."
+        },
+        {
+            "title": "Care Assistant",
+            "company": "BUPA Care Home, Glasgow",
+            "start_date": "",
+            "end_date": "",
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Computer Applications (MCA)",
+            "school": "CMR Institute of Management Studies, Bangalore, India",
+            "year": ""
+        },
+        {
+            "degree": "BSc Electronics",
+            "school": "",
+            "year": "1999"
+        }
+    ],
+    "certifications": [
+        "ECDL Certification",
+        "SQA qualification",
+        "Oracle Certified Associate (OCA)"
+    ],
+    "languages": []
+}

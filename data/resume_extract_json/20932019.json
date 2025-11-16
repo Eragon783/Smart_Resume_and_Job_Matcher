@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "CAD",
+        "CATIA V5",
+        "SolidWorks",
+        "Inventor",
+        "Pro/ENGINEER (Pro-E)",
+        "Wildfire 4",
+        "Creo 2.0",
+        "3D design",
+        "3D modeling",
+        "Assembly",
+        "AutoCAD",
+        "GD&T",
+        "Design for Manufacturability",
+        "Production floor support",
+        "Supplier support",
+        "Surfacing",
+        "Surface modeling",
+        "Teamcenter",
+        "PDM",
+        "JD Edwards",
+        "Process Engineering"
+    ],
+    "experience": [
+        {
+            "title": "CAD Designer",
+            "company": "Company Name",
+            "start_date": "April 2013",
+            "end_date": "Present",
+            "description": "Team member in Engine Peripheral group; 3D design and creation of 2D drawings using Creo 2.0; Process Engineering Change Notices in Teamcenter PDM and JD Edwards software; Create complex models of engine intakes, exhausts, style covers, etc.; Hose routings of engine fluid systems; Assembly prints; Prototype build support; Completed one week advanced surfacing training."
+        },
+        {
+            "title": "Senior Designer",
+            "company": "Oshkosh Defense",
+            "start_date": "September 2007",
+            "end_date": "March 2013",
+            "description": "Team member in Armor and Survivability group; 3D design and creation of 2D drawings using Catia V5, Pro/Engineer Wildfire and Creo; Process Engineering Change Notices in Smarteam PDM and JD Edwards software; Utilized GD&T and carried out tolerance stack ups on complex weldments and assemblies; Utilized Catia Kinematics work bench to create and prove out various mechanical assemblies such as four bar linkages, automotive latches, and control cables; Worked extensively on M-ATV and FMTV truck program proposals; Worked in two person design team to design FMTV truck cab shell; Designed numerous after-market armor kits in production and fielded on military trucks; Extensive experience supporting prototype builds and helping production floor launch new products; Surface modeling of stamped sheet metal parts and plastic parts; 3D modeling in large assemblies (complete trucks)."
+        },
+        {
+            "title": "Project Engineer/Technical Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "June 2006",
+            "end_date": "August 2007",
+            "description": "Cradle to grave design of after-market and OEM motorcycle accessories; Specialized in sheet metal and tubing products; 3D design using SolidWorks and Inventor; 2D drawings using SolidWorks, AutoCAD, and Inventor; Hand fabrication of prototype parts using shop and production machines; Design and fabrication of all production tooling and fixtures; Finish requirements of parts such as polishing, chrome, powder coating, etc.; Managed production employees during prototype and production stages; Traveled to trade shows to receive feedback on products and assist sales staff."
+        },
+        {
+            "title": "Payroll Auditor",
+            "company": "Company Name",
+            "start_date": "February 2006",
+            "end_date": "May 2006",
+            "description": "Analyze and fix payroll errors for the Chicago Public School District; Use of various computer databases."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Mathematics",
+            "school": "Mount Mercy College",
+            "year": 2005
+        },
+        {
+            "degree": "Associate of Science",
+            "school": "College of DuPage",
+            "year": 2003
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

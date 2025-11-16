@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am an efficient and cheerful worker who relates to people with compassion and understanding. I am discreet, trustworthy, and dedicated. Authorized to work in the US for any employer.",
+    "skills": [
+        "Highly organized",
+        "Professional behavior and telephone manner",
+        "Computer literate",
+        "Able to perform without close supervision",
+        "Able to prioritize",
+        "Able to work under stress",
+        "Patient care and safety",
+        "Medical terminology",
+        "Electronic medical records",
+        "Vital signs and patient monitoring",
+        "Privacy/HIPAA regulations",
+        "Patient advocacy and support",
+        "Patient-focused care",
+        "Excellent interpersonal skills",
+        "Compassionate and trustworthy caregiver",
+        "Detail-oriented"
+    ],
+    "experience": [
+        {
+            "title": "Concierge",
+            "company": "Company Name",
+            "start_date": "2016-02",
+            "end_date": "Present",
+            "description": "Welcome owners and vendors upon entrance; act as point of reference for those who need assistance or information and attend to their wishes and requirements; understand the owner's needs and provide them with personalized solutions by suggesting activities and facilities provided; provide extensive knowledge of the premises and the nearby venues and businesses to make the most suitable recommendations; arrange events, excursions, transportation etc. upon request; answer the phone and make reservations, take and distribute messages, mail, and packages and redirect calls; respond to complaints and find the appropriate solutions; monitor a very extensive security system to maintain the owner's privacy and safety."
+        },
+        {
+            "title": "Health Unit Coordinator / Certified Nurse Assistant",
+            "company": "Company Name",
+            "start_date": "2009-02",
+            "end_date": "2016-02",
+            "description": "Performing various activities to support the provision of patient care and clerical duties under the supervision and/or direction of Staff Nurse and assists RN/LVNs in treatment and care of patients. Performing numerous personal care and clerical services to ensure patient's safety, comfort, cleanliness, and to support patient activities. Training new employees; Ensure HIPAA compliance; Scheduling lab tests; Registering patients; Ensure patient safety and comfort while providing transfer, or assisting with mobility, from one location to another in accordance with established procedures; Assists with proper nutrition and accurately records meal and nourishment intake and calorie count; Promptly answers all patient call lights; Initiates, and assembles and maintains patient chart/Kardex in accordance with established procedures; Uses Epic computer charting accurately and promptly transcribes physician orders; Processes ordered tests, medications, procedures, and appointments appropriately and coordinates appropriate transportation; Processes admits/transfers/discharges; Monitors and records patient's vital signs, intake and output and other measurements in accordance with unit routines as directed; Monitors patients and reports patients' conditions at regular intervals and promptly reports any signs or symptoms of concern to appropriate party; Helping patients with toilet and bathroom needs; Peri and catheter care on ante partum, laboring, and postpartum women; Maintains unit equipment in good working order and notifies the appropriate parties promptly when requires service or repairs; Prepared patient rooms prior to their arrival; Ensuring a safe and healthy environment for nursing staff and patients; Ensuring compliance with hospital rules and regulations."
+        },
+        {
+            "title": "Housekeeping",
+            "company": "Company Name",
+            "start_date": "2008-02",
+            "end_date": "2009-02",
+            "description": "Environmental Services; Labor and Delivery; Performed routine cleaning and sanitizing in offices, exam rooms, procedure rooms, stairs, restrooms, elevators, and other ancillary areas. Performed discharge cleaning of patient rooms; Changed bed lines and cleaned patients rooms; Terminal clean of labor beds and operating rooms; Cleaned equipment properly and distributed based on patient needs; Followed infection control; Maintained all assigned rooms, areas, and spaces in a clean, neat, and sanitary manner using the chemicals and process required by the EVS Department."
+        },
+        {
+            "title": "Certified Fitness Instructor/Circuit Coach",
+            "company": "Company Name",
+            "start_date": "2002-02",
+            "end_date": "2008-02",
+            "description": "Trained and motivated ladies in the use of the 30 minute Curves Circuit; Conducted nutrition meetings on a 1:1 basis and group setting; Completed monthly fitness goals for members; Gave assistance, instruction, and motivation of members on the Curves Weight Loss Program; Participated in new member campaigns, guest production, and sales; Marketing of Curves gym and obtaining new members; Various Club administration activities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma (General)",
+            "school": "Belton High School",
+            "year": "1988"
+        }
+    ],
+    "certifications": [
+        "Certified Nursing Assistant"
+    ],
+    "languages": []
+}

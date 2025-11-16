@@ -1,0 +1,69 @@
+{
+    "name": "Virginia Francis",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Capable Accountant successful at managing multiple projects and consistently meeting deadlines under pressure. Managed complex accounting functions and reconciled accounts involving multiple budgets and funding sources. Hands-on supervisory experience directing and training accounting and support staff. HR experience.",
+    "skills": [
+        "Account reconciliation",
+        "Adobe software",
+        "MAS 90",
+        "Sage Software",
+        "Complex problem solving",
+        "Time management",
+        "Advanced computer proficiency",
+        "Flexible team player",
+        "General ledger accounting",
+        "Strong organizational skills",
+        "Customer relations"
+    ],
+    "experience": [
+        {
+            "title": "Staff Accountant",
+            "company": "Cypress Healthcare Partners",
+            "start_date": "2010-09",
+            "end_date": "Present",
+            "description": "Responsible for monthly financials for seven medical groups, reconciling bank statements (including ZBA accounts), recording general ledger entries, payroll, transaction entries, month-end and year-end entries; reconciling balance sheet and income statement accounts; recording fixed assets and depreciation; reviewing financials for completeness, trends, and discrepancies; maintaining daily cash reports and cash flow spreadsheets; reviewing and processing accounts payable/receivable; preparing invoices; coordinating with payroll for medical and dental deductions; assisting with annual audit data; reconciling medical, dental, and COBRA with monthly statements; running monthly reports and creating special allocations and payroll reconciliations."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2008-07",
+            "end_date": "2009-10",
+            "description": "Directed staff of three and managed accounting, budgeting, HR, and administrative responsibilities at a state-operated military academy. Assisted with staff hiring decisions and HR policies, administered federal/state budgets, completed quarterly reports, audited accounts, approved invoices, maintained petty cash, managed procurement contracts up to $25,000, created inter-agency service agreements, monitored WIA budget expenditures."
+        },
+        {
+            "title": "Accounting Supervisor I",
+            "company": "Company Name",
+            "start_date": "2007-07",
+            "end_date": "2008-07",
+            "description": "Supervised five accounting staff handling accounts payable and travel transactions for nine divisions; reviewed and certified all AP and travel expenses in AKSAS; assisted with HR policies and procedures."
+        },
+        {
+            "title": "Accounting Technician II",
+            "company": "Company Name",
+            "start_date": "2002-11",
+            "end_date": "2008-07",
+            "description": "Started as Administrative Clerk in 2002, advanced to Accounting Technician II in 2006; performed complex accounting adjustments across three systems; prepared detailed spreadsheets; improved productivity and reduced processing time; ensured payment of child support in accordance with court and administrative orders."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA: Business Administration/Accounting",
+            "school": "University of Anchorage Alaska",
+            "year": 2009
+        },
+        {
+            "degree": "Associate of Science: General",
+            "school": "Umpqua Community College",
+            "year": 2000
+        },
+        {
+            "degree": "Associate of Applied Science: Electronics",
+            "school": "Umpqua Community College",
+            "year": 2000
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

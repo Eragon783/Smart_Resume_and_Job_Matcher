@@ -1,0 +1,47 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced Retail Sales Manager, known for hiring and training solid, long-term staff, adept at problem solving, who possesses a strong background in Visual Merchandising.",
+    "skills": [
+        "Visual Merchandising",
+        "Staff hiring and training",
+        "Problem solving",
+        "Game-plans execution",
+        "Store opening and closing procedures",
+        "Cash office execution"
+    ],
+    "experience": [
+        {
+            "title": "Softlines Manager",
+            "company": "Company Name, City, State",
+            "start_date": "March 2011",
+            "end_date": "Present",
+            "description": "Managed the Sales performance of the Footwear and Apparel associates to meet sales and margin goals. Implemented game plans in the Apparel and Footwear Departments to maximize sales. Interviewed, hired, and trained essential staff. Granted title of 'Store Human Resource Adviser' to issue appropriate counceling to all store associates."
+        },
+        {
+            "title": "Apparel Sales Leader",
+            "company": "Company Name, City, State",
+            "start_date": "December 2006",
+            "end_date": "March 2011",
+            "description": "Assisted the store management team with general supervision in the store in accordance with company policies and procedures. Implemented merchandise presentation standards and signage of the apparel department to meet company standards. Maximized profits by supporting company standards of selling and customer service. Educated new staff on merchandising and selling standards of Dick's Sporting Goods."
+        },
+        {
+            "title": "Nike Brand Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "October 2005",
+            "end_date": "December 2006",
+            "description": "Encompassed the Nike brand image, ensuring the highest standards of visual presentation at all times. Introduced new product lines by highlighting features and benefits. Coached and inspired store associates to maintain the Nike retail presence. Increased profitability of sales on an average of 4% yearly."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma (General Studies)",
+            "school": "Mount Everett Regional High School",
+            "year": 2000
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

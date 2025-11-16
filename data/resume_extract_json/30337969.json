@@ -1,0 +1,103 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Environmental scientist with an MBA and a BS in Biology, experienced in environmental research and development, and eight years running a home-based Personal Chef business. Skilled in marketing, business development, client relationships, budgeting, negotiations, and project management.",
+    "skills": [
+        "General Accounting",
+        "Biology",
+        "Budgeting",
+        "Business Administration",
+        "Business Development",
+        "Chemistry",
+        "Closing",
+        "Client",
+        "Clients",
+        "Customer Support",
+        "Environmental Scientist",
+        "Environmental Science",
+        "Finance",
+        "Focus",
+        "Genetics",
+        "Human Resource Management",
+        "Interpretation",
+        "Marketing",
+        "Market",
+        "Marketing Management",
+        "Marketing and Sales",
+        "Needs Assessment",
+        "Negotiations",
+        "Paint",
+        "Persuasive",
+        "Physiology",
+        "Pricing",
+        "Project Management",
+        "Proposal",
+        "Quality",
+        "Real Estate",
+        "Relationship Management",
+        "Research",
+        "Selling",
+        "Sales",
+        "Sales Analysis",
+        "Strategic Management",
+        "Surveys",
+        "Unique"
+    ],
+    "experience": [
+        {
+            "title": "Owner, Personal Chef",
+            "company": "Company Name, City, State",
+            "start_date": "January 2006",
+            "end_date": "January 2014",
+            "description": "Established marketing and sales strategies including Gourmet-to-Go counter at local supermarket; acquired 20 new clients within first year; managed entire selling cycle from needs assessment to pricing and closing; planned, coordinated and executed events for up to 125 guests; recognized with Freshwater Flavors Award; Business by Referral Team Facilitator for Blue Water Chamber of Commerce."
+        },
+        {
+            "title": "Environmental Scientist",
+            "company": "Company Name, City, State",
+            "start_date": "January 2001",
+            "end_date": "January 2006",
+            "description": "Performed Phase I and II Environmental Site Assessments, NEPA Reviews, and Real Estate Transaction Screens; interpreted analytical results and developed corrective actions; conducted Hazardous Materials Surveys including asbestos, lead-based paint, and mold investigations; performed industrial hygiene sampling and indoor air quality investigations; conducted on-site field quality controls including soil and groundwater monitoring; maintained client accounts and project management; liaison with Verizon and Sprint regarding environmental statutes, regulations, training and applications."
+        },
+        {
+            "title": "Product Development Technician",
+            "company": "Intertape Polymer Group, Marysville, Michigan",
+            "start_date": "1999",
+            "end_date": "2001",
+            "description": "Performed ASTM testing methods and ISO standards for product development phases including standard and end-use performance testing; performed quality control functions including testing and development of laboratory work instructions; collaborated with Environmental Health and Safety Coordinator to address safety; updated Chemical Hygiene Plan for R&D."
+        },
+        {
+            "title": "Optometric Technician",
+            "company": "Shores & Associates, Port Huron, Michigan",
+            "start_date": "1997",
+            "end_date": "1999",
+            "description": "Managed daily operations of a small optometric physician's office; scheduling, filing, supply ordering, inventory control and customer service; obtained patient vital signs and performed initial diagnostic testing prior to Optometrist exam."
+        },
+        {
+            "title": "Telemetry Technician",
+            "company": "Mercy Hospital, Marysville, Michigan",
+            "start_date": "1993",
+            "end_date": "1995",
+            "description": "Performed Cardiac Telemetry monitoring; assisted nurses with obtainment of vital signs and basic patient care."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "University of Michigan",
+            "year": 2003
+        },
+        {
+            "degree": "Bachelor of Science in Biology",
+            "school": "Wayne State University",
+            "year": 1999
+        }
+    ],
+    "certifications": [
+        "Certified Hazardous Materials Manager (2004-2010)",
+        "Accredited Asbestos Building Inspector - Michigan (2003-2006)",
+        "OSHA 29 CFR 191.120 40-hour Hazardous Waste Training and subsequent 8-hour refresher courses (2002-2006)"
+    ],
+    "languages": []
+}

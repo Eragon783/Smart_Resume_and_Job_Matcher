@@ -1,0 +1,82 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Virginia, USA",
+    "summary": "IT professional with extensive experience in training, business analysis, and enterprise system implementations across Virginia state agencies. Expertise in requirements gathering, change management, data warehouse training, and stakeholder engagement; proven ability to lead large-scale projects, develop training curricula, and drive process improvements and cost savings.",
+    "skills": [
+        "Requirements analysis",
+        "Business analysis",
+        "Change management",
+        "Training and development",
+        "Curriculum development",
+        "User training",
+        "Data Warehouse",
+        "Data governance",
+        "Stakeholder engagement",
+        "Project management",
+        "Team leadership",
+        "Leadership and management",
+        "Problem solving",
+        "Troubleshooting",
+        "Technical writing",
+        "Software testing",
+        "User manuals",
+        "Workflow analysis",
+        "Microsoft Office Suite",
+        "SharePoint",
+        "Articulate",
+        "Camtasia",
+        "SnagIt",
+        "SPIDeR",
+        "Training coordination"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "June 2011",
+            "end_date": "Present",
+            "description": "Led efforts to implement the Paperless Office across 33 local Virginia agencies; trained users; managed enterprise systems; captured business rules and policies; drove change management and successful solutions; improved efficiency in agency operations."
+        },
+        {
+            "title": "Training Consultant/Business Analyst",
+            "company": "Company Name",
+            "start_date": "March 2013",
+            "end_date": "August 2013",
+            "description": "Developed DW refresher course and new user curriculum; created updated DW training manuals; liaised between users, administrators, developers and program managers; identified improvements to VDSS DW training techniques; created updated training resources (Articulate); trained state and local administrators on Data Warehouse."
+        },
+        {
+            "title": "Training Consultant/Business Analyst",
+            "company": "Company Name",
+            "start_date": "January 2008",
+            "end_date": "June 2008",
+            "description": "Identified and documented functional requirements for the implementation of an enterprise system (HR, E-Finance, E-Pharmacy, Crisis, Case Management and Reporting); developed user readiness surveys, business process models, vendor selection guidance, and a training implementation plan; supported RFP development; acted as liaison between software vendors and stakeholders."
+        },
+        {
+            "title": "Training Consultant/Business Analyst",
+            "company": "Company Name",
+            "start_date": "January 2006",
+            "end_date": "January 2008",
+            "description": "Project Lead Trainer for ChildWins; delivered training for SPIDeR and Data Warehouse statewide; increased usage and efficiency; led 'Train the Trainer' sessions and 'Super User' groups; developed DW curricula and user manuals; introduced curriculum development tools (Articulate) and supported SIT/UAT testing; represented VDSS on local committees; oversaw training resources and stakeholder communications."
+        },
+        {
+            "title": "Training Director/Business Consultant",
+            "company": "Company Name",
+            "start_date": "January 2001",
+            "end_date": "January 2006",
+            "description": "Lead business and workflow consultant; Director of Training for 8 traveling trainers; managed day-to-day training needs of 33 local DSS agencies and 8 EZ-Filer trainers; developed curricula for multiple learning environments; authored user manuals; oversaw hardware installations and training logistics; supported Medicaid Smart Card project and other program policies; 100% travel."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Buckingham County High School",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

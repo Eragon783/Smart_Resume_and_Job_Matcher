@@ -1,0 +1,58 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Nairobi, Kenya",
+    "summary": "Financial Accountant specializing in financial planning, reporting and analysis in both private and public sectors. Well-informed accountant adept at supplying quick responses to financial inquiries from internal management and potential clients. Creative accountant equipped with a broad knowledge of concepts and strategies to yield the best possible financial outcomes.",
+    "skills": [
+        "Periodic financial reporting",
+        "General ledger accounting",
+        "Invoice coding",
+        "Complex problem solving",
+        "Strong communication",
+        "Account reconciliation",
+        "Organization",
+        "Time Management",
+        "Budgeting",
+        "Adaptability"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Shantilal Gala & Company",
+            "start_date": "July 2012",
+            "end_date": "October 2015",
+            "description": "Maintained accounts receivable documentation electronically and on paper. Processed bank reconciliations and financial reports. Increased efficiency by creating a new Excel financial recording system. Collaborated with auditors during preliminary and year-end audit processes. Entered weekly sales and customer count sheets for review by management. Processed payroll, electronic deposits and employee pay adjustments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Business Studies",
+            "school": "University of Greenwich",
+            "year": 2014
+        },
+        {
+            "degree": "Certificate in Business - Level 3 (Association of Business Executives)",
+            "school": "Oshwal College",
+            "year": 2013
+        },
+        {
+            "degree": "Diploma in Business Management (Higher) - Level 5",
+            "school": "Oshwal College",
+            "year": null
+        },
+        {
+            "degree": "Diploma in Business Management (Graduate) - Level 6",
+            "school": "Oshwal College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Certificate in Business - Level 3 (Association of Business Executives) - Oshwal College",
+        "Diploma in Business Management (Higher) - Level 5 (Association of Business Executives) - Oshwal College",
+        "Diploma in Business Management (Graduate) - Level 6 (Association of Business Executives) - Oshwal College"
+    ],
+    "languages": [
+        "English"
+    ]
+}

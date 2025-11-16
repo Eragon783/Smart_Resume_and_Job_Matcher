@@ -1,0 +1,81 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "Austin, Texas, USA",
+    "summary": "Experienced accounting professional with extensive expertise in accounts payable/receivable, health insurance billing, budgeting, and regulatory compliance within educational and government environments. Demonstrated ability to drive process improvements, deliver financial reporting (CAFR), and collaborate across departments.",
+    "skills": [
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Billing and Invoicing",
+        "Budgeting",
+        "Budget Reconciliation",
+        "Financial Reporting",
+        "CAFR",
+        "General Ledger",
+        "Cash Reconciliation",
+        "Vendor Management",
+        "Health Insurance Billing",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Process Improvement",
+        "Automation",
+        "Ad-hoc Reporting",
+        "Contract Compliance",
+        "Record Retention",
+        "Cross-functional Collaboration",
+        "Purchasing",
+        "Procurement",
+        "Accounts Payable Processes",
+        "Credit Card Reconciliation"
+    ],
+    "experience": [
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name",
+            "start_date": "2013-03",
+            "end_date": "Present",
+            "description": "Responsible for auditing third-party vendor health insurance billing for participating Texas school districts. Monitors delinquent districts and recommends warrants to withhold state funds via the Texas Education Agency to collect outstanding dues. Prepares monthly analyses to detect billing issues and recommends solutions to repair and prevent future issues. Compiles monthly Accounts Receivable reconciliations for management review. Advises school district officials on state regulations, health coverage plans, and Texas legislative decisions. Resolves retroactive credit requests involving complex research and billing audits. Reviews and approves vendor invoices for contract compliance; reconciles budget reports; adjusts monthly annuity disbursements for TRS retirees; approves refunds for overpayments. Compiles CAFR data and applies knowledge of health care and insurance programs and related regulations."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2007-06",
+            "end_date": "2013-03",
+            "description": "Utilized financial software to generate payment documents (purchase orders, delivery orders, requisitions, travel advances). Processed payments through City of Austin credit card system with transaction reconciliation. Reconciled statements to resolve discrepancies and avoid payment delays. Analyzed contracts to recommend extensions or dollar increases; monitored contract performance and ensured billing compliance. Recorded fixed assets and maintained asset tags. Assisted budget team with expenses, revenue, and operational plans, including data entry using ECombs. Knowledge of City practices, purchasing policies, and accounts payable regulations. Managed petty cash and performed monthly audits. Maintained records per City retention policies. Served as an interviewer for aviation department hiring. Led initiatives such as paperless systems and cross-functional projects."
+        },
+        {
+            "title": "Specialist Program Technician",
+            "company": "Company Name",
+            "start_date": "2005-12",
+            "end_date": "2006-04",
+            "description": "Performed data entry for enrollment applications for Child Medicaid and CHIP. Oversaw application processing queues in the Specialty Programs Work Group and resolved discrepancies found during eligibility processing. Appointed Assistant Supervisor after three months due to quota results, enrolling more than 1500 children statewide."
+        },
+        {
+            "title": "Accounting Clerk",
+            "company": "Company Name",
+            "start_date": "2002-07",
+            "end_date": "2005-10",
+            "description": "Assigned to Accounts Receivable to create invoices and statements; monitor account balances and cash flow. Prepared cash balance reports and ensured accurate bank deposits. Assisted with Accounts Payable processes including PO requests and payments. Monitored departmental budget with balance spreadsheets and projections. Supported AR and AP functions and contributed to cost savings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Business Administration",
+            "school": "Concordia University, Austin, Texas",
+            "year": "2012-2014"
+        },
+        {
+            "degree": "Associate of Arts in Business Administration",
+            "school": "American Intercontinental University",
+            "year": "2010-2011"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Eagle Pass High School",
+            "year": "1998"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

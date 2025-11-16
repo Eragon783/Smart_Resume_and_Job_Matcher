@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced IT Manager with 10+ years leading Business Intelligence, SharePoint, ERP/CRM, and Web initiatives. Skilled in project management, resource leadership (onshore/offshore), stakeholder engagement, and delivering accurate, integrated data for decision making. Proven track record in BI redesigns, governance, and cost savings.",
+    "skills": [
+        "Personnel Management",
+        "Leadership",
+        "Management of on-shore/off-shore resources",
+        "Financial budgets/planning",
+        "Project Management",
+        "Business Intelligence",
+        "Communications",
+        "Business Analysis",
+        "Report Development/Analysis",
+        "User Relations/User Training",
+        "Microsoft Office",
+        "SharePoint",
+        "SAP BI (SAP BO/SAP BW)",
+        "Business Objects",
+        "Oracle",
+        "MS SQL",
+        "SQL",
+        "DBA",
+        "ERP",
+        "CRM",
+        "Data analysis",
+        "Data warehouse",
+        "Systems architecture",
+        "Staff development"
+    ],
+    "experience": [
+        {
+            "title": "Applications Team Leader",
+            "company": "Company Name, City, State",
+            "start_date": "2012-05",
+            "end_date": "Present",
+            "description": "Manager of Business Intelligence, DBA, SharePoint, and Web departments; including strategic planning, overall systems architecture, and personnel. Worked with various reporting structures to communicate progress. Built partnerships across the organization, oversaw project management and staff development, and managed onshore and offshore personnel."
+        },
+        {
+            "title": "Business Intelligence Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2005-12",
+            "end_date": "2012-05",
+            "description": "Manager of reporting department; strategic planning and overall systems architecture. Collaborated with executives to align projects with company goals. Performed data analysis, managed reporting software and data warehouse environments, supervised budgets and staffing; delivered on-time, on-budget projects. Notable upgrades include Business Objects to SAP BO with BW and database migrations."
+        },
+        {
+            "title": "Information Systems Software Administrator",
+            "company": "Company Name, City, State",
+            "start_date": "1997-11",
+            "end_date": "2005-10",
+            "description": "Managed and maintained ERP, CRM, SQL databases, and reporting software. Analyzed company needs to align software configuration with business objectives. Led Help Desk and advised on software and reporting deployments; delivered ERP/CRM implementations on time and within budget."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Management",
+            "school": "Western Governors University",
+            "year": "2012"
+        },
+        {
+            "degree": "General Studies - Management Focus",
+            "school": "University of Phoenix",
+            "year": "2007"
+        },
+        {
+            "degree": "Diploma in General Studies",
+            "school": "Denmark High School",
+            "year": "1993"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

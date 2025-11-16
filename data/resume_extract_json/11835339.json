@@ -1,0 +1,84 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Eastern Shore, Virginia, USA",
+    "summary": "Become an integral part of company team, applying skills learned from 30+ years of managing the Wachapreague Hotel, Marina & Island House Restaurant. A self-motivated and goal-oriented professional who works well with others to plan and coordinate many aspects of on- and off-premise catering functions. Utilize experience to manage daily operations, encourage and direct staff, and develop new ideas to improve existing procedures within the facility.",
+    "skills": [
+        "Banquet & catering management",
+        "Menu development",
+        "Food & beverage production",
+        "Equipment maintenance and operation",
+        "Staff training and scheduling",
+        "Customer service excellence",
+        "Budgeting and cost controls",
+        "Marketing and business planning",
+        "Vendor selection and purchasing",
+        "Inventory management",
+        "Quality control and inspections",
+        "Permit, licensing, and insurance coordination",
+        "Event planning and coordination",
+        "Private/corporate catering",
+        "Sales growth and staff motivation"
+    ],
+    "experience": [
+        {
+            "title": "PRESIDENT",
+            "company": "Island House Restaurant & Marina",
+            "start_date": "1979-05",
+            "end_date": "2010-10",
+            "description": "Led hotel, marina and restaurant operations; menu development and daily menu execution; equipment maintenance; implemented employee incentive programs; ensured timely lunches and on- and off-premise catering; managed driver safety and vehicle sanitation; ensured customer service standards; developed business plans and operating budgets for restaurant construction."
+        },
+        {
+            "title": "GENERAL MANAGER",
+            "company": "Island House Restaurant & Marina",
+            "start_date": null,
+            "end_date": null,
+            "description": "Oversee scheduling and training of 35-40 staff across marina, motel and restaurant operations; ensure high levels of customer service; manage staff coverage for events and holidays; train managers in sales growth and cost controls; develop corrective actions for customer complaints; lead budgeting and marketing initiatives."
+        },
+        {
+            "title": "VENDOR & PURCHASING SUPERVISOR",
+            "company": "Island House Restaurant & Marina",
+            "start_date": null,
+            "end_date": null,
+            "description": "Research vendors, process credit applications, manage purchasing of food, beverage and equipment; monitor vendor performance for price, quality and service; manage food and beverage inventory; perform biweekly physical inventory and cost tracking; maintain par levels; inspect incoming shipments and storage practices."
+        },
+        {
+            "title": "INSURANCE, LICENSE & PERMIT SPECIALIST",
+            "company": "Island House Restaurant & Marina",
+            "start_date": null,
+            "end_date": null,
+            "description": "Set up and manage insurance accounts (property, liability, workers' comp & health); file applications for business licenses, ABC license and health department permits; coordinate with tax authorities for weekly, quarterly and annual filings."
+        },
+        {
+            "title": "Consultant to Owner",
+            "company": "Consultant to Owner (Unknown Experience Company)",
+            "start_date": "2012-11",
+            "end_date": "2013-04",
+            "description": "Advised startup and operation of a new restaurant and catering facility; managed physical inventory; developed recipes and input them into the cost system; set up beverage program and glassware; advised on local marketing and merchandising."
+        },
+        {
+            "title": "General Manager",
+            "company": "Exmore Store (Retail)",
+            "start_date": "2011-10",
+            "end_date": "2012-07",
+            "description": "Hire and maintain staff; control payroll relative to budget; achieve monthly sales and expense goals; manage biweekly orders from Ace Warehouse and local vendors; process purchase orders; attend monthly GM meetings."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Exmore McDonald's",
+            "start_date": "2011-04",
+            "end_date": "2011-10",
+            "description": "Oversee daily operations during breakfast, lunch and dinner shifts; supervise staff; ensure fast service times; align payroll with budget; conduct weekly management meetings; focus on customer service excellence and drive-through efficiency."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors Degree in Hospitality Management",
+            "school": "Florida International University",
+            "year": "1984"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

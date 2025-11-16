@@ -1,0 +1,98 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Seasoned Information Technology leader with 15+ years of experience as an IT Director and Consultant. Expertise in vendor management (VMO), vendor selection (RFI, RFP, MSA, SOW) and contract negotiations, and senior project management. Co-Chair of Change Management Review Board. Demonstrated success in cost savings through strategic sourcing partnerships and building Business Relationship Management teams. MBA holder with strong business acumen and ability to present executive-level technical and business communications. Focus areas include global and strategic sourcing, negotiations, vendor management, project management, IT technical support, and cloud computing.",
+    "skills": [
+        "streamline",
+        "Banking",
+        "budget",
+        "Business Systems",
+        "C",
+        "Cisco",
+        "Consulting",
+        "contracts",
+        "CRM",
+        "Client",
+        "Customer Service",
+        "E-Business",
+        "Email",
+        "Senior Management",
+        "Finance",
+        "Information Systems",
+        "Information Technology",
+        "Insurance",
+        "Investments",
+        "ITIL",
+        "ITIL v3",
+        "Leadership",
+        "Director",
+        "Managing",
+        "MSA",
+        "negotiating",
+        "Enterprise",
+        "Oracle",
+        "Project Management",
+        "quality",
+        "Relationship Management",
+        "RFI",
+        "RFP",
+        "Sales",
+        "Sales Support",
+        "SLA",
+        "Strategic",
+        "technical support",
+        "Vendor Management",
+        "VoIP"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Senior Manager",
+            "company": "Company Name, City, State",
+            "start_date": "April 2013",
+            "end_date": "February 2015",
+            "description": "Leading worldwide major manufacturer, distributor and retailer of high quality vitamins & supplements. Leadership in the vendor selection process (RFI/RFP/SOW). Negotiated and contracted with selected technology vendors to optimize quality and minimize IT costs. Directed several major Vendor sourcing projects for Enterprise Business critical applications (Oracle EBS Suite). Draft, negotiate, and manage large complex vendor contracts. Measured vendor performance via Scorecards (SLAs, Performance Metrics, System Availability). Implemented and managed multiple successful partnerships with carefully selected key Vendors (Infosys, Accenture, MindTree, Presidio, Salesforce, Oracle (OMCS), Cisco, Genpact, TechDemocracy, Tata, Pegasystems, Amdocs, etc.). Annual recurring savings of $2.75 million from large re-negotiated support agreements. Implemented onsite, onshore and offshore talent sourcing models. Worked with the Business and IT Teams to successfully implement new technical support vendors/partners."
+        },
+        {
+            "title": "Information Technology Director",
+            "company": "Company Name, City, State",
+            "start_date": "January 2000",
+            "end_date": "February 2013",
+            "description": "Major Entertainment Company providing Internet, Email, VoIP and HDTV/VOD to 3.2 million customers. Researched, selected, implemented and managed multiple Vendor relationships. Led several RFI, RFP, MSO and SOW processes. Drafted and approved contract amendments/renewals. Extensive Business Systems, Project Management and Business Relationship achievements. Directly responsible for Managing Infrastructure and Technical Application Support teams. Improved overall contact center system uptime from 99.93% to 99.99% through monitoring and proactive maintenance. Maintained JD Powers top system performance ratings. Directed a Business Relationship Management team integrated within the Business Units. IT customer surveys improved from C- to B+ under leadership. Successfully managed over 45 IT Projects, on-time, on-budget and with required Business functionality. Extensive Strategic Vendor Management expertise and responsibility for System Availability (vendor performance metrics, report cards and SLA's)."
+        },
+        {
+            "title": "Business Systems Delivery Consultant",
+            "company": "Cablevision Systems (Client)",
+            "start_date": "January 1999",
+            "end_date": "January 2000",
+            "description": "Contract-to-hire engagement with Cablevision Systems. Started a new Technology Support team, centrally supporting over 110+ Business Applications."
+        },
+        {
+            "title": "Client Services Manager",
+            "company": "Company Name, City",
+            "start_date": "January 1998",
+            "end_date": "January 1999",
+            "description": "Provided professional consulting services to multiple Fortune 500 Companies in Investments, Banking, Finance and Insurance. Clients included Merrill Lynch, Guardian and JP Morgan Chase. Implemented customized CRM applications to streamline money transfer reconciliations between World Bank Members. Responsible for System Implementations, Project Management, Project Costing and all Customer Executive Level communications. Assisted the Sales team in closing 3 major new accounts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "school": "Adelphi University",
+            "year": null
+        },
+        {
+            "degree": "B.S. in Management and Economics",
+            "school": "State University of New York",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "ITIL v3 Foundation",
+        "ITIL v3 Practitioner",
+        "Pega Certified Project Management",
+        "Project Manager Certification"
+    ],
+    "languages": []
+}

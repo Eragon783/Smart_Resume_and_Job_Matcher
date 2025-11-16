@@ -1,0 +1,85 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Seasoned Engineering Manager with ability to build and motivate high-performing engineering team with over 14+ years of experience in cards and payments industry, committed to rapidly and efficiently completing projects by leveraging team-based frameworks to best leverage available engineering talent. Self-motivated, forward thinking mindset, solution-focused, clear communicator, decision maker and problem solver.",
+    "skills": [
+        "QA Engineering",
+        "Test Automation",
+        "Python",
+        "Katalon Studio",
+        "PERL scripting",
+        "Regression Testing",
+        "Technical communication",
+        "Root Cause Analysis",
+        "Release Management",
+        "Roadmap",
+        "Stakeholder Management",
+        "Leadership",
+        "Team Building",
+        "Mentoring",
+        "Training & Development",
+        "EMV Certification",
+        "Jira",
+        "QA Complete",
+        "Zephyr",
+        "Automation",
+        "Spreadsheet automation",
+        "SQL",
+        "Oracle",
+        "PostgreSQL",
+        "MongoDB",
+        "XML",
+        "JSON",
+        "REST",
+        "Unix Shell",
+        "EMV Systems",
+        "Payment terminals",
+        "Version Control (Git, SVN)"
+    ],
+    "experience": [
+        {
+            "title": "QA Engineering Manager",
+            "company": "Company Name",
+            "start_date": "01/2016",
+            "end_date": "Present",
+            "description": "Seasoned Engineering Manager with ability to build and motivate high-performing engineering team with over 14+ years of experience in cards and payments industry, committed to rapidly and efficiently completing projects by leveraging team-based frameworks to best leverage available engineering talent. Self-motivated, forward thinking mindset, solution-focused, clear communicator, decision maker and problem solver. Managed fast paced project delivery from QA for time sensitive and key projects for company. Collis tool (BTT) automation using Python to reduce EMV test cases execution time to 1 week for all brands, thus completing any EMV certification within 3 months. Design test automation using Katalon to for improved regression test coverage and reduce time to complete release cycles to less than 1 week. Managed and Implemented spreadsheet-based automation, that helped in improved test coverage and reduced production bug by 20% and rollbacks by 80%. Performed resource and project trade off analysis to meet roadmap schedule, product life-cycle (PLC)/Software Dev Life-cycle (SDLC) and QA requirements, resulting in development of best practice models. Reviewed project goals and objectives on monthly basis with project manager and design team. Used critical thinking to break down problems, evaluate solutions and make decisions. Managed team of 8 employees, overseeing hiring, training, and professional growth of employees. 4 promotions within team including 1 lead and 1 manager."
+        },
+        {
+            "title": "Software Certification Analyst",
+            "company": "Company Name",
+            "start_date": "04/2015",
+            "end_date": "01/2016",
+            "description": "Instrumental in procuring 1st EMV certification within 6 months of joining. Reduced overall EMV certification timeline from 1+ year to Automation of EMV Certification and Transaction link application using spreadsheet based input. Established myself as go to person for any QA issue within QA and Merchant Implementations team. Created common test/tool strategy to supplement automation for regression and functional testing; reduced time to market. Instrumental in doing POC on different test management tools (zypher, Jira, QA complete) to identify best suited for company needs(Jira)."
+        },
+        {
+            "title": "Project Lead",
+            "company": "Company Name",
+            "start_date": "09/2005",
+            "end_date": "04/2015",
+            "description": "Received core value awards - SYNERGY in 2009 for team building and SMART in 2012 for Individual performances. Nominated for BRAVO award in First Data (2012 and 2014). Automation improvement using PERL scripting. Established involvement of frontend application into Change release management and helped to identify key issues during backend testing. 3 times achiever of 0 issues in support queue as offshore lead. Planned, executed and promoted total of 10+ releases in calendar year. Produced quality standards, checklists, report templates and processes for same. Developed and trained junior team members by leveraging industry experience to achieve optimal project strategy."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Computer Applications (MCA)",
+            "school": "Devi Ahilya University",
+            "year": "2005"
+        },
+        {
+            "degree": "Bachelors of Science",
+            "school": "Devi Ahilya University",
+            "year": "2002"
+        }
+    ],
+    "certifications": [
+        "Certified Scrum Master (CSM) – Certificate code: 1221056, Expires May 2022",
+        "Certified Tester Foundation Level (CTFL) - Certificate code: 17-CTFL-02141-USA No Expiry",
+        "Agile Scrum Foundation - Certificate code: 2146592, No Expiry",
+        "Using Python for Automation – LinkedIn, No Expiry",
+        "Python: XML, JSON, and the Web – LinkedIn, No Expiry",
+        "SQL for Testers – LinkedIn, No Expiry"
+    ],
+    "languages": []
+}

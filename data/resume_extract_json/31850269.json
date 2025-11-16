@@ -1,0 +1,73 @@
+{
+    "name": "Maurice Madison",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "United States Army veteran with expertise in property accountability, logistics and configuration management. Technically skilled in mechanical and electrical maintenance, problem solving, leadership and operations. Strong interpersonal and communication skills; adept at multitasking, team leadership, and customer-focused service; committed to quality and continuous improvement.",
+    "skills": [
+        "Athletic Training",
+        "Budget planning",
+        "Marketing",
+        "Public Relations",
+        "Presentations",
+        "Resource management",
+        "Communications",
+        "Windows proficiency",
+        "Facilities Management",
+        "Mac proficiency",
+        "Office Experience",
+        "Planning",
+        "Computer Knowledge",
+        "Logistics",
+        "Case Management",
+        "Research",
+        "Microsoft Word",
+        "Writing",
+        "Microsoft Excel",
+        "Bookkeeping",
+        "Microsoft PowerPoint",
+        "Leadership",
+        "HAZMAT handling",
+        "Emergency response",
+        "CPR certified",
+        "Hydraulic systems repair",
+        "Pneumatic systems repair",
+        "Equipment maintenance",
+        "Small arms weapons specialist",
+        "Valid Michigan driver's license",
+        "Troubleshooting",
+        "Problem Solving",
+        "Teaching",
+        "Team Work",
+        "Time Management",
+        "Stress management"
+    ],
+    "experience": [
+        {
+            "title": "Construction Equipment Repairer/ Shop Foreman/ Squad Leader",
+            "company": "Company Name",
+            "start_date": "August 2001",
+            "end_date": "March 2015",
+            "description": "Heavy construction vehicle repairer mechanic; oversaw and performed maintenance on equipment used for earth moving, grading, compaction, loading, quarrying, mixing, surfacing, pumping and powered bridging. Supervised 40 personnel, supported over 2,000 troops in four countries; managed an inventory of 1,500 line items and material assets valued at $65M including large vehicles. Areas of expertise included personnel management, logistics, and operations; senior management level with strategic planning and tactical application; effective decision-maker in high-pressure environments; maintained accountability during redeployment of sensitive items and communication equipment."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "October 1999",
+            "end_date": "May 2001",
+            "description": "Customer service role; greeted customers, accounted for purchases, and ensured accuracy of orders; handled cash; assisted in food preparation; trained new employees with hands-on computer instruction and A/V orientation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Miami Northwestern Senior High",
+            "year": "2001"
+        }
+    ],
+    "certifications": [
+        "Army Hazardous Waste Management Certified",
+        "CPR certified"
+    ],
+    "languages": []
+}

@@ -1,0 +1,93 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Professional Information Technology Specialist with over 10 years of experience in customer relations and IT support. Strong verbal and written communication, problem solving, leadership, and ability to work under pressure. Proficient in Microsoft Office, Windows OS, Remedy/IBM ticketing, and network administration; bilingual in English and Spanish. Experienced in customer service across diverse environments, including healthcare and military contexts.",
+    "skills": [
+        "Army",
+        "clerical",
+        "communication",
+        "hardware",
+        "computer knowledge",
+        "contracts",
+        "customer service",
+        "customer support",
+        "electrical wiring",
+        "English",
+        "filing",
+        "IBM",
+        "information technology",
+        "leadership",
+        "mechanic",
+        "Excel",
+        "Microsoft Office",
+        "Outlook",
+        "PowerPoint",
+        "Windows 7",
+        "Word",
+        "migration",
+        "weapons",
+        "multitasking",
+        "network administration",
+        "network",
+        "operating system",
+        "problem solving",
+        "project management",
+        "quality",
+        "record keeping",
+        "shipping",
+        "Spanish",
+        "supervisor",
+        "supervising",
+        "supervision",
+        "technical support",
+        "technician",
+        "answering phones",
+        "phone",
+        "troubleshooting",
+        "typing"
+    ],
+    "experience": [
+        {
+            "title": "Windows 7 Support Desk Technician",
+            "company": "CompuCom Systems, Inc.",
+            "start_date": "2013-02",
+            "end_date": "2013-12",
+            "description": "Provided Windows 7 customer support for Cigna HealthCare; supported 35,000 employees after migration. Handled inbound calls for diverse requests, installed software/hardware, offered solutions to customer needs, and resolved issues quickly. Worked in English and Spanish; utilized communication and problem-solving tools to deliver high-quality service."
+        },
+        {
+            "title": "Information Technology Specialist",
+            "company": "Unknown",
+            "start_date": "2010-10",
+            "end_date": "2012-08",
+            "description": "Maintained customer service for unit members and leadership; provided customer and network administration services; maintained hardware, software and networks; performed clerical duties and record keeping; solved technical support issues with minimal supervision; installed software/hardware for programs."
+        },
+        {
+            "title": "Maintenance Supervisor",
+            "company": "Unknown",
+            "start_date": "2007-05",
+            "end_date": "2010-10",
+            "description": "Supervised and performed maintenance and recovery operations on wheeled and heavy vehicles and construction equipment; oversaw field and sustainment maintenance; supervised recovery operations, electrical wiring harness repair/maintenance; managed stock records, warehouse functions, and equipment parts; ensured accuracy with contracts and shipping documents."
+        },
+        {
+            "title": "Team Leader Infantryman",
+            "company": "Schofield Barracks, HI (US Army)",
+            "start_date": "1998-04",
+            "end_date": "2003-02",
+            "description": "Led infantry fire team operations, mobilized vehicles and troops, aided reconnaissance missions, processed prisoners of war and documents, and maintained records and maintenance for military weapons."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Management - Technical Management",
+            "school": "DeVry University",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "name": "Cheryl Porter",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Committed and motivated Administrative Assistant with exceptional customer service and decision making skills. Strong work ethic, professional demeanor and great initiative.",
+    "skills": [
+        "administrative",
+        "photo",
+        "advertising",
+        "arts",
+        "Business Communications",
+        "charts",
+        "community hospital",
+        "Counseling",
+        "client",
+        "clients",
+        "direct mail",
+        "direction",
+        "email",
+        "event planning",
+        "expense reports",
+        "Focus",
+        "forms",
+        "government",
+        "human resource",
+        "invoicing",
+        "letters",
+        "office",
+        "office manager",
+        "payroll",
+        "personnel",
+        "print advertising",
+        "proposals",
+        "public relations",
+        "Recruiting",
+        "research",
+        "scheduling",
+        "supervising",
+        "switchboard"
+    ],
+    "experience": [
+        {
+            "title": "Transfer Recruiter/Admissions Counselor",
+            "company": "Company Name City, State",
+            "start_date": "2014-01",
+            "end_date": "2015-06",
+            "description": "Recruiting of transfer and non-traditional students. Creation of transfer guide and official transfer data on college webpage. Work directly with students to secure admission to the college. Develop partnerships with area community colleges and organizations to encourage enrollment of students."
+        },
+        {
+            "title": "Executive Assistant",
+            "company": "Company Name City, State",
+            "start_date": "2011-08",
+            "end_date": "2013-12",
+            "description": "Maintain and manage schedule of the President, including travel and coordinating arrangements. Preparation of monthly travel and expense reports, itineraries, document drafts and correspondence. Event creation and planning for the office of the President. Successful completion of office set-up, supervising and coordinating the daily office functionality."
+        },
+        {
+            "title": "Executive Assistant to the Chief Marketing Officer",
+            "company": "Company Name City, State",
+            "start_date": "2009-02",
+            "end_date": "2011-10",
+            "description": "Maintain, manage and create schedule of the CMO, including travel and coordinating arrangements. Work closely with various clients on event planning, national tour scheduling and media advertising. Occasional office manager when required completing invoicing, payroll distribution, call/email inquiry and correspondence management. Assist in the development of company templates, including letters, memos, outlines, forms and charts."
+        },
+        {
+            "title": "Virtual Executive Assistant",
+            "company": "Company Name City, State",
+            "start_date": "2007-01",
+            "end_date": "2009-12",
+            "description": "Independently owned and operated national public relations company. At the direction of the president, managed and assigned team projects. Collaborated with team leaders, provided research and other support for projects. Developed and maintained human resource information and files. Compile monthly client reports and authorize billable hours for payment. Managed emails, paper work, inquiries, correspondence, proposals and confidential administrative client data. Wrote copy for email, direct mail and print advertising."
+        },
+        {
+            "title": "Operator/Receptionist",
+            "company": "Company Name City, State",
+            "start_date": "2002-11",
+            "end_date": "2009-10",
+            "description": "Jackson Park is a 270 patient facility and 900-faculty member community hospital serving over 1 million people. Operated facility main switchboard. Paged physicians, and all other hospital personnel overhead, in-house and long range. Greeted and assisted patients, visitors and staff members. Paged physicians, faculty overhead, and in-house and long range system. Created and presented communication guidelines and operations for orientation classes for new hires and residents."
+        },
+        {
+            "title": "Law Enforcement Officer/Police Officer",
+            "company": "The Metropolitan Water Reclamation District of Greater Chicago",
+            "start_date": "1985-11",
+            "end_date": "1997-12",
+            "description": "Focus on protecting and serving the community and property. Patrol assigned areas and respond to calls, enforce laws, make arrests and issue citations. Daily patrol of incorporated and unincorporated areas of Cook County, IL on district owned property. Illinois state peace officer certification with full IL peace officer arrest authority and weapon certification. Doubles as officer and dispatcher on a rotating basis, verified employee identification including photo and fingerprint verification."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Communications",
+            "school": "G.M.O.R.",
+            "year": null
+        },
+        {
+            "degree": "Counseling & Pastoral Care",
+            "school": "Theological Institute",
+            "year": null
+        },
+        {
+            "degree": "Certification",
+            "school": "Illinois State Peace Officer",
+            "year": null
+        },
+        {
+            "degree": "Diploma",
+            "school": "Northern Illinois University",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Chicago St. Thomas Aquinas H.S",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Illinois State Peace Officer"
+    ],
+    "languages": []
+}

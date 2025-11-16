@@ -1,0 +1,84 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dedicated and focused Office Administrator who excels at prioritizing, completing multiple tasks simultaneously and following through to achieve project goals. Seeking a role of increased responsibility and authority. Receptionist who answers a high volume of incoming calls while handling in-person inquiries from clients and colleagues. Flexible and hardworking with the drive to succeed.",
+    "skills": [
+        "Microsoft Office proficiency",
+        "Excel spreadsheets",
+        "Meticulous attention to detail",
+        "Self-directed",
+        "Time management",
+        "Professional and mature",
+        "Strong problem solver",
+        "Resourceful",
+        "Dedicated team player",
+        "Strong interpersonal skills",
+        "Understands grammar",
+        "Proofreading",
+        "QuickBooks expert",
+        "AR/AP",
+        "Medical terminology",
+        "Mail management",
+        "Self-starter",
+        "Motivated",
+        "Dependable",
+        "PowerPoint proficiency",
+        "Outlook proficiency",
+        "Internet research"
+    ],
+    "experience": [
+        {
+            "title": "Receptionist and Veterinary Technician",
+            "company": "Company Name, City, State",
+            "start_date": "June 2007",
+            "end_date": "September 2014",
+            "description": "Scheduled surgeries and routine appointments; Drew blood samples; Developed X-rays; Managed inventory and documentation; Ordered medical supplies and animal food; Administered vaccines, medication and performed lab tests; Assisted in surgeries and euthanasias."
+        },
+        {
+            "title": "Administrative Specialist and Personal Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "May 2013",
+            "end_date": "December 2013",
+            "description": "Coordinated calendars, scheduled and coordinated arrangements for meetings, anticipated conflicts and needs; processed expense reports; regular communications for cross-functional departments; provided systems support; established documentation and tracking of business processes including budget reports; updated church members on New Songs custom computer program (CCB). Created mail distribution process and maintained daily operations."
+        },
+        {
+            "title": "Administrative Executive and Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "February 2013",
+            "end_date": "December 2013",
+            "description": "Provided customer service; performed general office work (filing, scanning, printing, invoice processing); prepared invoices, billed clients, initiated payment plans; maintained office communications; prepared monthly financial reports and financial analysis; presented quotes; managed cash transactions; balanced revenue daily; managed accounts receivable and accounts payable with Quicken Books."
+        },
+        {
+            "title": "Fitness Executive and Corporate Sales Representative",
+            "company": "Company Name, City, State",
+            "start_date": "November 2011",
+            "end_date": "December 2012",
+            "description": "Engaged members and prospective members in product sales and promotions; scheduled preventative maintenance and vendor management; maintained corporate partnerships; drove lifetime membership sales; handled daily currency; CPR and AED certified; greeted and assisted members and staff in any needs or issues."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates Degree in Business Management",
+            "school": "Harford Community College",
+            "year": 2007
+        },
+        {
+            "degree": "Emergency Medical Technician-Basic, Emergency Vehicle Operator, CPR/AED Certified",
+            "school": "Maryland Fire and Rescue Institute",
+            "year": 2005
+        },
+        {
+            "degree": "Diploma",
+            "school": "North Harford High School",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        "Emergency Medical Technician-Basic",
+        "Emergency Vehicle Operator",
+        "CPR/AED Certified"
+    ],
+    "languages": []
+}

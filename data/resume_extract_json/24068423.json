@@ -1,0 +1,105 @@
+{
+    "name": "S. Nambuthiri",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "15+ years of research experience in agricultural research; 5 years extension experience as an agronomic resource professional; PhD in Soil Science and Crop Physiology; strong background in conducting and managing research trials across crops and production systems; GIS web application development; water and nutrient management; drought stress; irrigation scheduling; multidisciplinary collaboration; grant writing and publications.",
+    "skills": [
+        "research design and data analysis",
+        "agricultural extension",
+        "GIS web application development",
+        "HTML5",
+        "JavaScript",
+        "CSS3",
+        "PHP",
+        "water management",
+        "nutrient management",
+        "drought stress",
+        "irrigation scheduling",
+        "field trials",
+        "crop production systems",
+        "growth and phenology",
+        "automation of irrigation",
+        "drip irrigation",
+        "sprinkler irrigation",
+        "soil water sensing",
+        "Capacitance probes",
+        "Green Seeker",
+        "Hydro-N sensor",
+        "Spectro radiometer",
+        "LICOR 6400",
+        "CIRAS3",
+        "Campbell Scientific",
+        "GC",
+        "HPLC",
+        "grant writing",
+        "technical reports",
+        "peer-reviewed publications",
+        "presentations to growers and scientists",
+        "modeling",
+        "statistical design"
+    ],
+    "experience": [
+        {
+            "title": "Research Associate",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "Present",
+            "description": "Managing sustainable horticultural crop production through environment control; hydroponics tomato production under controlled environment of light, water and nutrients; identification and characterization of drought and nutrient stress resistance varieties."
+        },
+        {
+            "title": "Research Associate",
+            "company": "University of Kentucky",
+            "start_date": "2010-07",
+            "end_date": "2014-12",
+            "description": "Production environments: field crops, nursery, greenhouse, high tunnels, plasticulture vegetables. Conducted field trials on irrigation and nutrient management, nitrogen cycling. Developed physiological models on water use for irrigation scheduling for nursery crops. Strong background in growth, development and phenology of various crops. Multistate USDA project in collaboration with industry on sustainable nursery practices. Presented results at grower meetings, national and international scientific meetings. Developed programs for automation of irrigation volume, timing and frequency. Working knowledge in drip, sprinkler irrigation systems, compost spreaders, mulchers, bed formers, chop gates. Worked closely with growers and industry in obtaining first-hand information about their field. Prepared successful grant proposals, technical reports, popular articles and peer reviewed papers."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Plant and Soil Sciences Dept., Univ. of Kentucky",
+            "start_date": "2006-08",
+            "end_date": "2010-05",
+            "description": "Field investigations of spatial variability on soil water storage and nitrogen status in corn and winter wheat in a no-till farmer's field. Used soil water sensing capacitance probe, crop growth sensors; Green Seeker, Hydro-N sensor and Spectro radiometer to assess spatial variability at field scale. Practical knowledge of field equipment: fertilizer applicators, cultivators, tractors, combines."
+        },
+        {
+            "title": "Agricultural Officer",
+            "company": "Company Name",
+            "start_date": "2004-07",
+            "end_date": "2006-02",
+            "description": "Acted as a technical consultant for effective knowledge translation and transfer of technology. Worked on agronomic practices for field crops and fruits, vegetables and trees. Solved site specific soil, nutrient, pest and disease problems in the field."
+        },
+        {
+            "title": "Junior Research Fellow",
+            "company": "Kerala State Land Use Board, Govt. of Kerala",
+            "start_date": "2003-04",
+            "end_date": "2003-10",
+            "description": "Identified farming systems suitable for different agro-ecological zones of Kerala state. Development of Site Specific Nutrient Management strategies for farm models of Kerala. Investigated rice response to nitrogen fertilization in farmer's fields. Used simulation models to transfer nitrogen fertilizer recommendations for rice tracts across soil and climatic barriers."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Company Name",
+            "start_date": "2000-11",
+            "end_date": "2000-05",
+            "description": "Developed sustainable technologies to retain soil, moisture and vegetation in eroded regions using Coir Geo textiles. Identified different types of coir geo textiles for conserving soil and water under varying slopes."
+        }
+    ],
+    "education": [
+        {
+            "degree": "PhD in Soil Science and Crop Physiology",
+            "school": "University of Kentucky",
+            "year": 2010
+        },
+        {
+            "degree": "MS in Soil Science and Agricultural Chemistry",
+            "school": "Tamil Nadu Agricultural University",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelors in Soil Science and Agricultural Chemistry",
+            "school": "Kerala Agricultural University",
+            "year": 2000
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

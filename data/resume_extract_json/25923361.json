@@ -1,0 +1,99 @@
+{
+    "name": "Maria Arguelles",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am a passionate, hard-working educator with over 30 years of experience in curriculum, instruction, and professional development. I have worked as an elementary teacher, Sacramento County Office of Education Curriculum Specialist, and instructional coach, providing on-site support and professional development for teachers and administrators throughout the state. Most recently, I have focused on helping districts transition to the Common Core State Standards, and I have led numerous trainings on their implementation and effective use in the classroom.",
+    "skills": [
+        "academic",
+        "Arts",
+        "Art",
+        "coaching",
+        "CA",
+        "content",
+        "CSU",
+        "English",
+        "FileMaker Pro",
+        "focus",
+        "instruction",
+        "Instructor",
+        "Mac",
+        "materials",
+        "Math",
+        "Mathematics",
+        "meetings",
+        "Excel",
+        "Microsoft Office",
+        "Office",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "internet search engines",
+        "Organizing",
+        "progress",
+        "Reading",
+        "Recruitment",
+        "Report Writing",
+        "research",
+        "Short Stories",
+        "Staff Development",
+        "Teacher",
+        "training materials",
+        "workshops"
+    ],
+    "experience": [
+        {
+            "title": "Instructional Coach",
+            "company": "Company Name",
+            "start_date": "11/2011",
+            "end_date": "01/2015",
+            "description": "Conducted research-based professional development trainings for teachers and staff in Direct Interactive Instruction, Common Core implementation strategies, and achievement-focused coaching Provided training and assistance in standards-based lesson design to support all students, with a particular focus on English Language Learners Delivered in-classroom coaching services that included demonstration lessons, co-plan/co-teach sessions, and observation/feedback consultations Supported districts with the implementation of the Synced Solution, a web-based tool that provides a CCSS scope and sequence for English Language Arts and Mathematics, K-12, unit progress monitoring assessments, and integration of existing textbooks and materials Utilized PC Microsoft Office (Word, Outlook), and internet search engines on a daily basis."
+        },
+        {
+            "title": "Classroom Teacher",
+            "company": "Company Name, City",
+            "start_date": "08/1981",
+            "end_date": "06/1997",
+            "description": "Provided instruction in multiple content areas to develop academic skills, differentiating as needed for GATE, struggling students, and English Language Learners Collaborated with fellow teachers and administrators on instructional practice Assessed, recorded, and communicated students' academic and social/behavioral progress Planned and coordinated out-of-classroom learning experiences such as field trips and science camp Collaborated with parents, psychologists, psychiatrists, educational therapists, and tutors to provide accommodations for students with specific learning disabilities or behavioral needs."
+        },
+        {
+            "title": "Curriculum Specialist, English Language Arts",
+            "company": "Company Name",
+            "start_date": "01/2012",
+            "end_date": "01/2015",
+            "description": "Served as Coordinator, Reading Lions Project, K-3, funded by Packard Humanities Institute (PHI); scheduled and organized project-wide meetings and events, acted as liaison between PHI and 27 California school district coordinators Served as Coordinator, Instructor Recruitment and Support, Reading First and AB466/SB472 Institutes; recruited, hired, scheduled, monitored, and evaluated up to 600 seasonal instructors for statewide five-day, 40 hour professional development institutes (Open Court Reading 2002 and HM Reading 2003) Scheduled and organized Training of Instructor workshops and served as Lead Instructor for HM Medallions Member of Development Team that produced and edited training materials for K-6 ELA state adopted programs Served as site-coordinator for institutes of up to 1,200 participants in various cities throughout California Scheduled and supported national presenters for state-wide Reading Lions Center events"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Specialist Credential, Mild/Moderate",
+            "school": "CSU Sacramento",
+            "year": "1983"
+        },
+        {
+            "degree": "Multiple Subjects Credential",
+            "school": "CSU Sacramento",
+            "year": "1991-1995"
+        },
+        {
+            "degree": "Bachelor of Science in Anthropology",
+            "school": "University of California, City",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "SB 472 Training of Instructors",
+        "Lead Instructor, Houghton Mifflin Reading, Medallion Edition AB 1086 Training",
+        "Yolo County Office of Education, \"The Structure of the English Language\"",
+        "CA Reading by Nine Conference, Los Angeles, \"CA Reading/Language Arts Framework: A Teacher's Guide\"",
+        "Standards and Assessment Conference, Asilomar, \"A Multi-Level Staff Development Model\"",
+        "Sacramento City Unified School District, \"Reading Strategies for the Intermediate Grades\"",
+        "Davis USD, \"Using Literature Circles in the Classroom\"",
+        "CA Reading and Literature Project Academy, CSUS, \"Connecting Art and Literature\"",
+        "CA Association of Independent Schools, \"Creative Report Writing\"",
+        "CA Association of Independent Schools, \"Comprehension Strategies from the CA Literature Project\""
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "Multiple locations (UK, US, Ghana)",
+    "summary": "Administrative & HR professional with 10+ years of experience in HR, recruiting, employee relations, workers' compensation and benefits, employee records, and compliance. Holds a Master of Arts (Honors) in Human Resource Development from Bowie State University with a 4.0 GPA. Highly organized, detail-oriented, and able to communicate effectively with all organizational levels. Skilled in policy analysis, training and development, project management, onboarding, HRIS, and high-volume workforce support; proficient in Microsoft Office Suite and ADP.",
+    "skills": [
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "Workers' Compensation",
+        "Benefits Administration",
+        "Payroll",
+        "HRIS",
+        "Onboarding",
+        "Training and Development",
+        "Policy Analysis",
+        "Compliance",
+        "Project Management",
+        "Microsoft Office Suite",
+        "ADP",
+        "Communication",
+        "Customer Service",
+        "Staff Training",
+        "HR Analytics",
+        "Organizational Development",
+        "Employee Engagement",
+        "Labor Laws",
+        "Payroll Processing",
+        "FMLA",
+        "401(k) Administration"
+    ],
+    "experience": [
+        {
+            "title": "Sales & Customer Service Rep",
+            "company": "Company Name",
+            "start_date": "September 2012",
+            "end_date": "Current",
+            "description": "Manage high-volume workload in a sales and customer service environment (approximately 550 customers per week); analyze customer needs to recommend products and provide customer service to drive sales; achieved 100% customer service satisfaction; assist current and new reps with processes, onboarding, product knowledge; conduct exit interviews; collaborate with HR partners for year-end talent reviews; participate in recruitment and job description development; assess employee performance and issue disciplinary notices; handle 401(k), FMLA, workers' compensation, benefits; manage personnel files and payroll-related records; coordinate benefits enrollment and orientation communications; design and implement onboarding and new hire packages; support social media initiatives for applicant search; liaise with IT to streamline onboarding; organize employee schedules and communications."
+        },
+        {
+            "title": "HR Generalist",
+            "company": "The Co-operative",
+            "start_date": "August 2003",
+            "end_date": "July 2007",
+            "location": "London, UK",
+            "description": "Provided support to staff regarding policies, procedures, and practices; compiled and maintained employee records and payroll data; assisted with recruiting, processing applications, and onboarding; created and maintained employee files; administered compensation programs; oversaw HR processes and analytics; maintained organization charts and employee directory; contributed to benefits administration; ensured compliance with federal, state, and local laws; prepared reports from personnel records; supported payroll and reporting activities."
+        },
+        {
+            "title": "Office Manager",
+            "company": "Company Name",
+            "start_date": "August 2007",
+            "end_date": "September 2010",
+            "location": "City, State",
+            "description": "Provided administrative and business support to the firm, CEO and executive team; coordinated conference calls, board meetings, travel, and special events; negotiated favorable terms with vendors, saving significant costs; improved office efficiency with organized filing systems; maintained CEO's calendar; supported managers with onboarding and recruitment-related activities; conducted market research and reported findings; developed and maintained databases; supported client relations and reporting; facilitated communication between administration and the executive team."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Human Resource Development",
+            "school": "Bowie State University",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor's in Human Resources Management",
+            "school": "Central University College",
+            "year": 2003
+        }
+    ],
+    "certifications": [
+        "Certificate in Project Management, Bowie State University (March 2011)",
+        "Graduate Certificate in Organizational Development, Bowie State University"
+    ],
+    "languages": []
+}

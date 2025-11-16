@@ -1,0 +1,93 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Central Pennsylvania",
+    "summary": "Information Technology Director with over 16 years of leadership in IT operations for a large law firm in Central Pennsylvania. Experienced in strategic planning, security, risk management, project management, vendor negotiations, and deployment of mobile and cloud-enabled solutions. Proven ability to reduce downtime, optimize costs, implement disaster recovery and HIPAA compliance programs, and manage cross-location teams to deliver secure, reliable IT services.",
+    "skills": [
+        "Air Force",
+        "attorney",
+        "backup",
+        "balance",
+        "billing",
+        "budget",
+        "business operations",
+        "interpersonal",
+        "competitive",
+        "CRM",
+        "Client",
+        "clients",
+        "dictation",
+        "disaster recovery",
+        "document management",
+        "Ethernet",
+        "fast",
+        "financial",
+        "GroupWise",
+        "Insurance",
+        "Internet Protocols",
+        "team leader",
+        "law",
+        "Marketing",
+        "Messaging",
+        "access",
+        "Microsoft Office",
+        "office",
+        "Microsoft Office 2000",
+        "Outlook",
+        "negotiation",
+        "pricing",
+        "processes",
+        "project management",
+        "Relationship Management",
+        "Scanner",
+        "strategic planning",
+        "Technical Training",
+        "phones",
+        "upgrading",
+        "VPN",
+        "voice and data",
+        "VOIP",
+        "Word Perfect"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Director",
+            "company": "Company Name",
+            "start_date": "April 1999",
+            "end_date": "January 2015",
+            "description": "Led IT operations for the largest law firm in the Central Pennsylvania area, serving 275 in-office users across 6 locations and 200 work-from-home users. Directed security, budgeting, vendor negotiations, and staff development (team of seven IT professionals). Implemented VOIP, mobile access, and integration with document management systems. Achieved minimal unplanned downtime, led CRM deployment, and orchestrated multiple system upgrades (WordPerfect to Office, GroupWise to Outlook, Worldox GX3, Audix to Mutare). Served as Security Officer, conducted annual HIPAA program reviews and biannual vulnerability audits, and oversaw business continuity and disaster recovery planning. Managed projects from cradle to grave, coordinated with users and vendors, and trained users on new systems."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate's Degree in Computer Information Systems",
+            "school": "Harrisburg Area Community College",
+            "year": null
+        },
+        {
+            "degree": "Associate's Degree in Business Administration",
+            "school": "Harrisburg Area Community College",
+            "year": null
+        },
+        {
+            "degree": "MBA in Leadership",
+            "school": "Elizabethtown College",
+            "year": null
+        },
+        {
+            "degree": "Leadership Program",
+            "school": "Elizabethtown College",
+            "year": null
+        },
+        {
+            "degree": "Various Technical Training Certification Courses",
+            "school": null,
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Various Technical Training Certification Courses"
+    ],
+    "languages": []
+}

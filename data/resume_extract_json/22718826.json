@@ -1,0 +1,70 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Las Vegas, NV; Chicago, IL",
+    "summary": "Detail-oriented construction professional with over 30 years of experience in residential and commercial construction, sales and professional development. Verifiable track record delivering multi-million-dollar projects in Las Vegas and Chicago downtown areas by coordinating trades, building partnerships, and maintaining cost controls. Skilled in contract negotiation, project budgeting, design issue resolution, document preparation, building code compliance, material procurement, and site management through occupancy certification.",
+    "skills": [
+        "Leadership & Team Building",
+        "Quality Control Management",
+        "Permits & Building Codes",
+        "Workplace Safety & Compliance",
+        "Construction Planning & Scheduling",
+        "Organization & Time Management",
+        "Critical Path Project Management",
+        "Vendor & Materials Management",
+        "Budget Analysis",
+        "Estimating Job Cost",
+        "Concrete estimation",
+        "MS Office Proficient",
+        "Project budgeting",
+        "Cost control",
+        "Heavy equipment operation (Skid Steer Loader, Meg-Roller, Forklift)"
+    ],
+    "experience": [
+        {
+            "title": "Licensed Contractor",
+            "company": "Company Name, City, State",
+            "start_date": "January 2011",
+            "end_date": "February 2016",
+            "description": "Led planning, budgeting, and direction of all construction projects. Managed trades including painters, carpenters, laborers, electricians, plumbers, and HVAC installers. Oversaw material procurement and coordination of RFIs, submittals, and samples. Managed rights of way, easement, and dedication processes. Monitored safety and quality standards; trained general contractor personnel on quality standards. Directed a team of 20 onsite general contractors for over 5 years. Obtained notices of completion and compliance certifications; oversaw project closeout documentation. Ensured adherence to project schedules and FF&E installations."
+        },
+        {
+            "title": "Foreman",
+            "company": "Company Name, City, State",
+            "start_date": "January 2008",
+            "end_date": "January 2011",
+            "description": "Interface with contractors, owners, and regulatory advocates to determine appropriate project handling. Managed 25+ employees. Analyzed new M&P guidelines; led resolution of issues during project construction and commissioning. Liaised with safety representatives to promote safety protocols. Proficiently used the Incident and Issues Tracking (IIT) system to document onsite issues. Properly maintained onsite equipment and vehicles."
+        },
+        {
+            "title": "Foreman",
+            "company": "Company Name, City, State",
+            "start_date": "January 2004",
+            "end_date": "January 2008",
+            "description": "Work with surveyors and engineers for site layout. Placed orders for projects and maintained stock levels. Managed 35+ employees. Assisted the project manager with bidding new jobs and projects. Led a team of 35 on-site general contractors. Assigned projects and tasks based on competencies. Provided status information on project progress to project management."
+        },
+        {
+            "title": "Carpenter Foreman",
+            "company": "Company Name, City, State",
+            "start_date": "January 1987",
+            "end_date": "January 2004",
+            "description": "Work with surveyors; blueprint reading; maintain stock levels. Effectively managed a diverse crew of 35 with time and payroll. Built strong working relationships with internal and external stakeholders."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Engineer",
+            "school": "Chicago State University",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Leesville High School",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "OSHA certified"
+    ],
+    "languages": []
+}

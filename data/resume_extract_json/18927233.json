@@ -1,0 +1,72 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Digital Marketing Coordinator skilled in leveraging the power of blogs, online communities and social media platforms to increase brand awareness and boost brand loyalty. SEO optimization expert adept at creating highly-targeted web content that drives inbound traffic.",
+    "skills": [
+        "Digital Marketing",
+        "SEO",
+        "SEM",
+        "WordPress",
+        "Google Analytics",
+        "Google AdWords",
+        "Adobe Photoshop",
+        "Budget planning",
+        "Budgeting",
+        "Content creation",
+        "Creative content",
+        "Web content",
+        "Websites",
+        "Press releases",
+        "Public relations",
+        "Media relations",
+        "Strategic media placement",
+        "Marketing strategies",
+        "Market trends",
+        "Social media management",
+        "Social media platforms",
+        "Networking",
+        "Special events planning",
+        "Customer service",
+        "Sales",
+        "Sales experience",
+        "Articles",
+        "Reports generation and analysis"
+    ],
+    "experience": [
+        {
+            "title": "Digital Marketing Coordinator",
+            "company": null,
+            "start_date": "12/2016",
+            "end_date": "Current",
+            "description": "Identified, developed and evaluated marketing strategies based on knowledge of company objectives and market trends. Managed all social media programs, including online reputation, blogs, and social networking. Planned and managed monthly budgets. Developed marketing strategies and campaigns each month. Maintained and updated websites. Increased following by over 400%."
+        },
+        {
+            "title": "Sales & Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "02/2015",
+            "end_date": "02/2016",
+            "description": "Described use and operation of merchandise to customers. Received and processed cash and credit payments for in-store purchases. Exceeded targeted sales goals by 30%. Placed special merchandise orders for customers. Shared product knowledge with customers while making personal recommendations. Worked as a team member to provide the highest level of service to customers."
+        },
+        {
+            "title": "Sales & Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "03/2011",
+            "end_date": "01/2013",
+            "description": "Achieved high sales percentage with consultative, value-focused customer service approach. Earned \"Top Seller\" for four consecutive times. Worked as a team member performing cashier duties, product assistance and cleaning. Expressed appreciation and invited customers to return to the store."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Communications, Cinema Arts",
+            "school": "Vanguard University",
+            "year": "2016"
+        }
+    ],
+    "certifications": [
+        "Google Analytics Certification",
+        "Google AdWords Certification"
+    ],
+    "languages": []
+}

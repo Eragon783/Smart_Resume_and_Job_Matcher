@@ -1,0 +1,73 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Results-focused management professional offering 6 years of progressive leadership experience. Transforms high-potential staff into outstanding leaders who demonstrate the creativity and savvy that is critical to financial and operational success.",
+    "skills": [
+        "Microsoft Certified",
+        "120+ WPM",
+        "Top-rated sales performer",
+        "Training and development",
+        "Hummingbird",
+        "C-Net",
+        "Touch Pointe",
+        "E-Automate",
+        "Microsoft Office Suite",
+        "Web-based reporting tools",
+        "Budget development",
+        "Operations management",
+        "Cross-functional team management",
+        "Staff training",
+        "Negotiation",
+        "Problem solving",
+        "Sales",
+        "Marketing",
+        "Credit analysis",
+        "Client relations",
+        "Customer service",
+        "Risk analysis",
+        "Strategic alliances",
+        "Cold calling"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Banking Center Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2010-01",
+            "end_date": "Present",
+            "description": "Managed banking center operations including financial reporting and bank reconciliations; knowledge of commercial law; negotiation and complex problem solving. Responsibilities included client interface, profile management, and compliance. Cross-sold banking services, developed strategic alliances, and led marketing initiatives. Achieved increased annual gross sales by 15% and 8% growth in customer base through direct mass mailings; recognized as a top 10 performer in the region. Coordinated quarterly audits and mergers-related activities; supervised staff and ensured governance adherence."
+        },
+        {
+            "title": "Sr. Financial Banker",
+            "company": "Company Name, City, State",
+            "start_date": "2007-07",
+            "end_date": "2010-01",
+            "description": "Profile management to solicit business accounts and develop strategic alliances; increased assets and profitability within territory; implemented innovative marketing principles and promotional events; counseled individuals and corporate clients on investments, risk analysis, and monetary returns. Cross-sold banking services and participated in community events to strengthen market position."
+        },
+        {
+            "title": "Sr. Financial Service Rep",
+            "company": "Company Name, State",
+            "start_date": "2003-11",
+            "end_date": "2007-07",
+            "description": "Directed daily operations for retail banking, including branch sales, business development, customer service, and credit analysis. Managed staff, analyzed financial statements to assess creditworthiness, and counseled corporate clients and high net-worth individuals on borrowing needs. Promoted to Sr. Financial Rep within two years."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Finance / HR Management",
+            "school": "University of Houston-Downtown",
+            "year": null
+        },
+        {
+            "degree": "Associates",
+            "school": "Houston Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Microsoft Certified",
+        "NMLS Certified"
+    ],
+    "languages": []
+}

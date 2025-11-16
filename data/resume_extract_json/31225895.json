@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Customer support professional with versatile communication skills, experienced in sales, problem resolution, ticketing, and client management. Adaptive and able to work independently or with teams, with leadership experience overseeing a team. Skilled at handling multiple priorities in fast-paced environments. Knowledgeable about airport security rules and airline software (Amadeus, Altea, Gaetan, Oscar, Deltamatic) and proficient with computers and technology. Fluent in Spanish and English, with French as a proficient language.",
+    "skills": [
+        "Customer service",
+        "Sales",
+        "Problem resolution",
+        "Ticketing",
+        "Client management",
+        "Team leadership",
+        "Flight monitoring",
+        "Re-booking and hotel vouchers",
+        "Policy and security compliance",
+        "Check-in and baggage handling",
+        "Passenger assistance (reduced mobility)",
+        "Training and mentoring",
+        "Data entry",
+        "Organizational skills",
+        "Public speaking",
+        "Adaptability",
+        "Vendor coordination",
+        "Inventory management",
+        "Computer literacy",
+        "Airline software: Amadeus, Altea, Gaetan, Oscar, Deltamatic"
+    ],
+    "experience": [
+        {
+            "title": "Passenger Service Agent",
+            "company": "Company Name",
+            "start_date": "2010-04",
+            "end_date": "Present",
+            "description": "Lead agent on departure and arrivals; skilled in flight monitoring and ticket sales; handle passengers during flight disruptions; provide customer service assistance including re-booking and hotel vouchers; maintain customer satisfaction; help the team work smoothly with an action plan; implement company policy and security requirements; manage check-in baggage; direct passengers to designated areas; assist passengers with special needs; shadow and oversee newly trained agents as a senior lead agent."
+        },
+        {
+            "title": "Assistant Buyer",
+            "company": "Company Name",
+            "start_date": "2007-06",
+            "end_date": "2009-12",
+            "description": "Performed multifaceted clerical tasks (data entry, filing, records management, billing); coordinated events; monitored the buyer's weekly schedule; placed orders and monitored inventory databases; supervised two staff; liaised with warehouse and vendors; communicated across departments; resolved errors and contributed to store distribution decisions."
+        },
+        {
+            "title": "Sales Associate Supervisor",
+            "company": "Company Name",
+            "start_date": "2005-07",
+            "end_date": "2007-06",
+            "description": "Trained and directed staff to operate cash registers, scanners, and computers; managed store restocking, floor displays, and daily procedures; balanced cash registers; greeted clients, explained promotions, and encouraged purchases; guided cashiers through returns and exchanges; opened and closed the store on weekends; promoted to corporate office position (as noted in the CV)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science in Nursing",
+            "school": "Queensborough Community College",
+            "year": 2013
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Jonh Bowne High School",
+            "year": 2007
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish",
+        "English",
+        "French"
+    ]
+}

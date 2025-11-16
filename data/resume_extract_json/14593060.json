@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Accomplished Senior IT Engineer with demonstrated ability to analyze business requirements and create effective technical solutions applicable to diverse industries. Serves as strategic partner to senior management, identifying business requirements, aligning IT assets with company goals and making key strategic contributions. An experienced Network Engineer with excellent troubleshooting skills. Over 15 years of experience in design, installation and management of data and voice networks. Expertise includes designing, building and maintaining Microsoft Windows Servers including Domain Controllers, Exchange, SQL databases and Web servers; Novell and Linux servers; virtualization with VMware/ESXi and Hyper-V. Holds a Master of Information Systems and a Bachelor's degree in Electrical Engineering. Areas of expertise include networking hardware and appliances (Cisco, Meraki, SonicWall, HP, Dell, Juniper), LAN/WAN, VPN, remote access (Citrix/Terminal Services), Microsoft servers, Office 365, backups, and regulatory compliance (HIM/HIPAA).",
+    "skills": [
+        "Microsoft Windows Server (Domain Controllers, Active Directory, Exchange, SQL Server, Web servers)",
+        "Novell NetWare (NetWare 3.0-6.5, Border Manager, GroupWise)",
+        "Linux servers",
+        "VMware/ESXi",
+        "Hyper-V",
+        "Networking hardware: Cisco, Meraki, SonicWall, HP, Dell, Juniper",
+        "LAN/WAN design and maintenance",
+        "Wireless networks",
+        "VPN and remote access (Citrix, Terminal Services)",
+        "Microsoft Server design and maintenance across versions (Windows NT, 2000, 2003, 2008, 2012, 2013, Office 365, SQL 2000-2014)",
+        "Office 365",
+        "Backup and disaster recovery (BackupExec, Veeam, Acronis, Datto, Barracuda)",
+        "Applications: MS Office (2003-2013), Visio",
+        "Endpoint protection (Anti-Virus/Anti-Malware)",
+        "HIM operations and HIPAA compliance",
+        "Project management and IT consultancy",
+        "Server and network administration",
+        "Web servers and SQL database administration",
+        "Remote access and virtualization"
+    ],
+    "experience": [
+        {
+            "title": "IT Consultant",
+            "company": "Company Name",
+            "start_date": "2011-11",
+            "end_date": "Present",
+            "description": "Provides hardware and software specifications to users based on application and business needs and anticipated growth, installs new servers, routers, firewall and maintains the entire infrastructure. Recommends changes to improve systems and network configurations, and determine hardware or software requirements related to proposed changes. Performs troubleshooting for complex hardware, software and network problems. Defines procedures for monitoring and evaluates, diagnoses, and establishes work plan to resolve system issues. Manages multiple projects and work as a project leader and as a project team member to help complete the jobs on time. Researches, evaluates and recommends new and more efficient software and hardware products. Maintains and administers computing environments including computer hardware, systems software, applications software, and all configurations. Manages major upgrades of systems and/or relocation offices and facilities including assessment of requirements through to implementation and testing of solutions.  Manage data backup, availability, and recommends data recovery solutions."
+        },
+        {
+            "title": "IT Consultant/Analysts/Network Engineer",
+            "company": "Company Name",
+            "start_date": "2009-11",
+            "end_date": "2011-10",
+            "description": "Install and manage Local Area Network, Servers, firewalls, routers, switches, VPN connection, Remote access and security components. Perform daily administration functions such as add/change users, check backups, virus detection, signature updates, intrusion prevention, monitoring, and performance tuning. Deploy, manage, upgrade and update VMware, Microsoft Hyper-V servers. Maintain and update company's websites, Server's firmware, patches and service packs. Manage backup, image of servers and workstations and disaster recovery architecture. Modify user accounts, password, content filtering, rights and securities. Maintain SQL databases, create, modify and optimize as necessary to increase productivity. Organize and optimize network directory and file layout for ease of use and management. Serves as a technical resource to the HIMS function in other centers throughout the region if needed. Performs other duties & accepts responsibility as assigned. Provided annual savings through implementation of automated data system utilizing latest technologies. Responsible for HIM operations involving continuous evaluation and re-engineering of applicable processes and organizational design based on current and new client needs. Ensures the efficient day-to-day operations of the HIMS departments within a cluster. Establish procedures & practices within organizational policies & service standards & ensure the prompt resolution of internal customer & member concerns. Participates in the Research, development & implementation of HIMS policies & procedures, operations & automated systems providing medical information to client staff & providers. Ensure that company is fully compliant, following proper HIPAA policy, rules, regulations, guidelines and other standards. Forecasts the hospital's future technical and information needs and various property improvement projects. Develops and adheres to annual operating and capital budgets."
+        },
+        {
+            "title": "IT Consultant/Network Administrator",
+            "company": "Company Name",
+            "start_date": "1994-12",
+            "end_date": "2009-09",
+            "description": "Served as Project Manager for GNC Operations Center and on several central offices build out projects in Los Angeles Counties. Acted as consultant to senior executives of GNC to accommodate Y2K network deployment. Responsible for effective establishment of strategic relationships that fueled adjacent market growth. Successfully established relationships with key customers that included Verizon Wireless and others. Managed functions that provided field engineering, logistics support and system assessment worldwide. Marketed support products that resulted in increased revenue while positioning organization for further growth. Effectively led delivery of support programs while increasing sales by 17% and building strong customer relationships. Designs, plans and implements Microsoft and Novell Networks. Setup and configures Microsoft, Novell and Linux, Citrix, Terminal, WEB and Blackberry Servers Setup, configure, administer and maintain CISCO, Juniper, Sonicwall and other manufacturer switches, routers and Firewalls. Implements new technology and network strategies. Managed overall optimum performance of the WAN/LAN and security infrastructure. Performs automation projects. Managed Healthcare clients, installing and maintaining medical application programs."
+        },
+        {
+            "title": "Computer SERVICE Engineer",
+            "company": "Company Name",
+            "start_date": "1991-01",
+            "end_date": "1994-11",
+            "description": "Designs and implements Local Area Network Systems (i.e. prepares servers, load application programs, configure switches, routers and firewalls). Setup and maintain multiple and mixed domain networks. Troubleshoots network problems, LAN and WAN. Handles all servers and networking technical support. Researches escalated problems and provide solutions as necessary. Setup and configures Backup and disaster recovery. Evaluates new systems and checks product quality. Provides training to new employees."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Information Systems",
+            "school": null,
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Electrical Engineering",
+            "school": null,
+            "year": null
+        }
+    ],
+    "certifications": [
+        "CCNA",
+        "MCP",
+        "CNE",
+        "Netware 6 Certified Professional",
+        "CPC",
+        "CPC-H"
+    ],
+    "languages": []
+}

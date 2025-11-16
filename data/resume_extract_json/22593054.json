@@ -1,0 +1,60 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Energetic Customer Service or PR Representative motivated to maintain customer satisfaction and contribute to company success. I'm enthusiastic to connect with people and offer them the best customer service they've experienced to date, all while capitalizing on my strengths listed below. I will be an asset to ANY company and will assist in helping to grow & expand their business.",
+    "skills": [
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Leadership",
+        "Keynote",
+        "Telephone skills",
+        "10-Key",
+        "Multi-tasking",
+        "Notary (20 years)",
+        "Proofreading",
+        "Proficient in Spanish",
+        "Includer",
+        "Achiever",
+        "Responsible",
+        "Disciplined",
+        "Consistent"
+    ],
+    "experience": [
+        {
+            "title": "Independent Consultant",
+            "company": "Company Name, City, State",
+            "start_date": "July 2013",
+            "end_date": "Present",
+            "description": "Generate sales from existing clients & focused on new client acquisition. Provide excellent customer service to all clients including prompt responsiveness and delivery of product. Troubleshoot and coach consultants on my team. Create invitations and flyers for advertising purposes."
+        },
+        {
+            "title": "Creative Worship Arts Director",
+            "company": "Company Name, City, State",
+            "start_date": "December 2011",
+            "end_date": "May 2016",
+            "description": "Responsible for organization of weekly church services, including leading the worship team & band, song selection, creating & designing Keynote slides (songs and announcements) and overall presentation of church facility. Successfully led volunteer worship team and band with a variety of personalities and schedules; coordinated monthly schedule including practices and performances. Planned, organized and led many all-church and women's events (i.e. retreats, dinners, BBQ's, family movie nights, etc). Designed creative visual displays to assist with sermon themes."
+        },
+        {
+            "title": "Office Manager",
+            "company": "Company Name, City, State",
+            "start_date": "May 2011",
+            "end_date": "Present",
+            "description": "Responsible for running district office that assists and oversees 72 churches across LA & Orange County. Single handedly coordinate annual convention for over 600 pastors & delegates. Prepared annual out of town retreats, including facility selection and arrangement, hotel reservations, meal coordination, speaker bookings, schedule management & creation of printed materials, collection of required information from attendees and excursion planning. Process and document all monies received from churches. Accounts Receivable & Accounts Payable. Assist District Superintendent with any and all emergency projects that arise, often requiring flexibility, creativity and quick thinking."
+        },
+        {
+            "title": "Executive Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "January 1992",
+            "end_date": "November 2009",
+            "description": "5 years as company receptionist and expert customer service provider. Promoted to Executive Assistant to the Vice President. Responsible for all billing of invoices to customers. Accounts Receivable & Accounts Payable. 401(k) contact person. Filing of all legal Construction Preliminary Notices & Lien Releases. Handled all DMV transactions for fleet of 15-20 trucks. Assisted Vice President with various projects."
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

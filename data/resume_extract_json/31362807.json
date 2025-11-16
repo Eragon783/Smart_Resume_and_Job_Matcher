@@ -1,0 +1,117 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Results-oriented, strategic sales professional with thirty years in the Retail industry. Skilled in training and development, and in using INFOREM, Excel, Word, mainframe applications, Telxon, and Lotus Notes. Track record includes reducing shrink, increasing sales, coaching staff to improve customer service, and earning multiple performance awards.",
+    "skills": [
+        "Assistant Manager",
+        "CPR",
+        "Credit",
+        "Editing Sku's",
+        "Financial",
+        "P&L",
+        "First Aid",
+        "Inforem",
+        "Inventory Control",
+        "Lotus Notes",
+        "Mainframe",
+        "Managerial",
+        "Market",
+        "Merchandising",
+        "Organization",
+        "EXCEL",
+        "WORD",
+        "Payroll",
+        "Personnel",
+        "Sales",
+        "Supervisor",
+        "Supervision",
+        "Teaching",
+        "Training and Coaching",
+        "Customer Service"
+    ],
+    "experience": [
+        {
+            "title": "Supervisor",
+            "company": "Company Name",
+            "start_date": "April 2013",
+            "end_date": "Present",
+            "description": "Provide training and direct supervision for all clients; demonstrate job functions during training; maintain high work standards within the community; CPR and First Aid cards up to date; trained new hires for Enclave Supervisor; prepared weekly schedules for Enclave Supervisors and clients; transitioned to the Workshop area to train and coach clients for community jobs; trained workshop staff to prepare clients for community jobs; awarded Staff of the Month."
+        },
+        {
+            "title": "Store Manager",
+            "company": "Company Name",
+            "start_date": "November 2007",
+            "end_date": "March 2013",
+            "description": "Oversee store merchandising and company standards. Develop plans to increase store sales and reduce loss. Provide training and development for Assistant Store Managers and staff. Manage store expenses and payroll; maintain communication with District/Regional Management. District winner achieved 110% of last year's credit goals. Reduced store shrink from 1.44% to 0.90%. Increased sales as Assistant Manager to over one million dollars from the previous year."
+        },
+        {
+            "title": "Assistant Store Manager - Soft lines",
+            "company": "Company Name",
+            "start_date": "April 2006",
+            "end_date": "November 2014",
+            "description": "Manager of a twenty-million-dollar corporate store. Directed a team of thirty associates plus seasonal staff. Implemented new merchandise and visual standards; led the team to adhere to the Company's new standards. Men's department exceeded plan sales and was Number One in the Company. Interfaced with Buyers and Corporate Visual Merchandising Team daily."
+        },
+        {
+            "title": "Department Manager - Ladies Apparel",
+            "company": "Company Name",
+            "start_date": "September 2004",
+            "end_date": "April 2006",
+            "description": "Manager of a five-million-dollar Ladies Apparel department with 49.6k sq ft. Directed a team of twenty associates and seasonal staff. Coordinated Visual Merchandising and Inventory Control. Recruited associates for the entire store. Exceeded Spring Sales & Credit Goals."
+        },
+        {
+            "title": "Associate Merchandise Planner - Home Area",
+            "company": "Company Name",
+            "start_date": "April 2001",
+            "end_date": "September 2004",
+            "description": "Create, review and input financial plans by location. Analyze sales and stock performance, including tracking and analyzing sales and stock by location for department/class/vendor level to maximize trends. Use online systems to recommend strategies. Communicate with stores and RMMs on business opportunities, assortment needs, stock levels and strategies by door. Review and validate sales and promotions through adequate location prep and recap results. Allocate merchandise, recommending orders and assortments by projecting needs and then allocate orders by store/region."
+        },
+        {
+            "title": "Replenishment Analyst",
+            "company": "Company Name",
+            "start_date": "April 1997",
+            "end_date": "April 2001",
+            "description": "Solely oversaw adequate core merchandise levels for major retailer with emphasis on intimate apparel, men's dress shirts and accessories. Utilize the INFOREM Replenishment System to maximize sales and optimize turn in core merchandise. Conducted extensive training for buyers and assistant buyers on the INFOREM Replenishment System. Coordinate partnerships with merchants and vendors to identify replenishment opportunities along with validating and editing merchandise assortment. Shop the market quarterly."
+        },
+        {
+            "title": "Linens & Soft Lines Manager",
+            "company": "Company Name",
+            "start_date": "October 1996",
+            "end_date": "April 1997",
+            "description": "Directed all activities related to operating my departments. Coordinated the re-merchandising of the linens department."
+        },
+        {
+            "title": "Store Manager",
+            "company": "Company Name",
+            "start_date": "January 1992",
+            "end_date": "October 1996",
+            "description": "Managed one of the largest sites for this upscale lingerie chain (with 120 stores nationally). Recruited, trained, scheduled and supervised a seasonal staff of forty including managerial personnel. Reduced shrinkage from 3% to 2%. Awarded a trip for outstanding performance."
+        },
+        {
+            "title": "Soft Lines Manager/Assistant Manager",
+            "company": "Company Name",
+            "start_date": "September 1979",
+            "end_date": "January 1992",
+            "description": "Directed a team of 35 associates for all Soft Lines. Coordinated visual merchandising and inventory control. Interfaced extensively with buyers, designed and implemented visual merchandising."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Philo High School",
+            "year": "1979"
+        },
+        {
+            "degree": "Nurses Aide Certification",
+            "school": "Muskingum Vocational School",
+            "year": "1980"
+        }
+    ],
+    "certifications": [
+        "CPR",
+        "First Aid",
+        "Nurses Aide Certification"
+    ],
+    "languages": []
+}

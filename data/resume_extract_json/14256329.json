@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Jamaica",
+    "summary": "A multi-skilled professional with good all-round HR imformatory skills. Very capable with an ability deal with all the recruitment/processing needs of the organization. Experienced in providing timely and up to date HR advice to both managers and employees whilst at the same time making sure both the employee and employers interests are best represented.",
+    "skills": [
+        "Human Resource Management",
+        "Basis",
+        "Benefit Plans",
+        "Benefits",
+        "Claims",
+        "Contracts",
+        "Databases",
+        "Documentation",
+        "File",
+        "Hr",
+        "Increase",
+        "Induction",
+        "Packaging",
+        "Recruiting",
+        "Recruitment",
+        "Security",
+        "Accounts",
+        "Cash",
+        "CSR",
+        "Customer Service",
+        "Customer Service Representative",
+        "Dispatch",
+        "Faxing",
+        "Filing",
+        "Loans",
+        "Payroll",
+        "Receptionist",
+        "Retail Sales",
+        "Vouchers",
+        "Confident",
+        "Excel",
+        "Microsoft Word",
+        "Presentation Skills",
+        "Proactive",
+        "Self Motivated",
+        "Telephone",
+        "Word"
+    ],
+    "experience": [
+        {
+            "title": "HR Services Representative",
+            "company": "Company Name, City, State",
+            "start_date": "10/2012",
+            "end_date": "Current",
+            "description": "Recruiting and selection techniques; dealing with recruitment needs & employment issues; ensuring timely recruitment and onboarding including offer letters and contracts; enrollment of new recruits; communicating with applicants; explaining employee handbook during orientations; processing leave requests and benefits enrollment; updating records; preparing offer letters and employment contracts; conducting pre/post-employment checks; maintaining employee records in system databases; providing employment references; preparing payroll-related documents; liaising with managers; filing and scanning documentation; assisting employees and customers to resolve issues; payroll packaging and preparing weekly payrolls."
+        },
+        {
+            "title": "Teller/Customer Service Representative (HEART Trainee)",
+            "company": "Company Name, City, State",
+            "start_date": "05/2010",
+            "end_date": "07/2011",
+            "description": "Opened accounts and processed transactions; assisted members with branch facilities and product information; batched teller vouchers daily; prepared utility payment vouchers; prepared loan vouchers; prepared daily cash deposit listings; assisted with filing and concierge queue; assisted with member signature cards and documents; prepared letters to customers and suppliers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSc : Human Resource Management",
+            "school": "University College of the Caribbean",
+            "year": "2019"
+        },
+        {
+            "degree": "7 CSEC (CXC) Subjects",
+            "school": "St. Jago High School",
+            "year": "2009"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

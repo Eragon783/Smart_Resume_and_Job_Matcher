@@ -1,0 +1,86 @@
+{
+    "name": "Snega Prabha S",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "An enthusiastic student, highly motivated and committed to developing personally and professionally. Has the ability to learn quickly, work efficiently and apply educational knowledge in work settings. Skilled in research, multi-tasking, time management and communication. Experienced in human resource/organizational management, counselling and business development.",
+    "skills": [
+        "Microsoft Excel",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "Excellent communication",
+        "Organisational skills",
+        "SPSS",
+        "Data entry",
+        "Research"
+    ],
+    "experience": [
+        {
+            "title": "HR Intern",
+            "company": "Company Name",
+            "start_date": "2016-07",
+            "end_date": "Present",
+            "description": "I get candidates moved through the hiring process, ensuring they are properly credentialed and meet all company and client requirements. Perform basic background checks, review candidates' references and collect necessary information. License and employment verification; reviewing/uploading credentials. Pre-screen applicants from job boards (Indeed & Zip Recruiter). Make and send badges. Attend/transfer calls, take messages. Work independently and as part of a team to achieve the company's goals."
+        },
+        {
+            "title": "Bookstore Volunteer",
+            "company": "Company Name",
+            "start_date": "2016-02",
+            "end_date": "2016-07",
+            "description": "Opened the store. Account and check the closing and opening balance. Maintain complete and accurate records of the store's transactions. Rearranged books to maintain a neat and tidy reading area. Assessed customer needs and responded to questions."
+        },
+        {
+            "title": "Assistant to the General Manager",
+            "company": "Company Name",
+            "start_date": "2015-04",
+            "end_date": "2015-11",
+            "description": "Managed the day-to-day tactical and long-term strategic activities within the business. Reviewed and approved billing invoices and expense reports. Counseled and mentored 53 staff members by offering constructive feedback, stress management techniques and guidance. Traveled with the manager to take notes and prepare minutes at meetings. Screened telephone calls and inquiries and directed them as appropriate. Maintained and recorded financial accounts of daily sales, purchases and other expenses."
+        },
+        {
+            "title": "Student Intern",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "2015-02",
+            "description": "Administrative Assistance. Conducted & scored tests (16PF, Stress Inventories) to new clients and as follow-ups. Established rapport, collected & organised new client data. Administered \"Positive Therapy\" to patients. Assisted with rehabilitation activities. Individual, Family & Matrimonial Well Being/Therapy, Educational counselling, De-addiction / Smoking cessation and suicide prevention."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "2014-12",
+            "end_date": "2015-01",
+            "description": "Assistance and guidance to families below poverty line. Counselling individuals with issues relating to family, marital, legal issues. Provided sex education, awareness about good/ bad touch to young school students. Observed the counselling sessions provided to sex workers."
+        },
+        {
+            "title": "Summer Intern",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "2014-06",
+            "description": "Internship program was systematically split to accommodate sufficient training in De-addiction centre, Special school for mentally challenged children, Psychiatric clinic for adults and counselling centre. Witnessed and assisted with an ECT session administered by the Chief Doctors. Collected information about clients, using techniques such as testing, interviewing, discussion, and observation. Gathered feedback from patients on medications, diagnosis and effectiveness of therapies. Gained knowledge and experience observing doctors provide counselling to patients and families."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Organisational Psychology",
+            "school": "Alliant International University, California School of Professional Psychology",
+            "year": 2018
+        },
+        {
+            "degree": "Master of Science in Counselling Psychology",
+            "school": "Avinashilingam Institute for Home Science and Higher Education for Women",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelor of Arts in Mass Communication",
+            "school": "Amrita Viswa Vidhyapeetham, Amrita School of Communication",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "Foundation Course on Education of Children with Learning Disabilities, Rehabilitation Council of India (2014)",
+        "TA-101. Introduction to Transactional Analysis (2015)",
+        "Hypnotism and its Application in practice (2015)",
+        "Bio Ethics in Research (2014)"
+    ],
+    "languages": []
+}

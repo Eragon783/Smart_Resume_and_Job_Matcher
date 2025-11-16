@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly motivated team player with a vast skill set and strong work ethic. Proficient in computer aided design (CAD). Experienced in AutoCAD and Microstation. On-site installation experience both domestically and internationally. Fluent in both verbal and written Spanish.",
+    "skills": [
+        "Microsoft Office",
+        "AutoCAD",
+        "MicroStation",
+        "ProjectWise Explorer",
+        "Adobe Professional",
+        "JD Edwards",
+        "ERP",
+        "HART Communication",
+        "SharePoint",
+        "SAP"
+    ],
+    "experience": [
+        {
+            "title": "Electrical CAD Designer",
+            "company": "Company Name",
+            "start_date": "05/2012",
+            "end_date": "03/2017",
+            "description": "Create and assist in creating and maintaining accurate electrical drawings such as plan views of electrical equipment, one line and riser diagrams, panel schematics, panelboard schedules and lighting plans. Support the Process Control, Forming Electronics and Cold End Packaging groups with their CAD and/or design needs. Write scopes of work for electrical contractors. Order equipment. Support the North American factories by providing drawings, technical information or spare parts and designing minor projects."
+        },
+        {
+            "title": "Project Planner",
+            "company": "Company Name",
+            "start_date": "01/2011",
+            "end_date": "05/2012",
+            "description": "Project Planner for the Machine Manufacturing - Global Glass Technology group. Track orders of machine parts for on-time delivery to machine shops and glass manufacturing facilities based on production schedules. Create work orders. Go-to contact to coordinate rush shipments. Customer Service Representative to third party suppliers and machine shops. Coordinator of the machine parts repair program."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "09/2008",
+            "end_date": "01/2011",
+            "description": "Global Equipment Sales - Global Glass Technology. Order entry, price quotes. Arrange shipments. Expedite rush shipments in emergency situations."
+        },
+        {
+            "title": "Process Control Designer and Field Service Technician",
+            "company": "Company Name",
+            "start_date": "11/1998",
+            "end_date": "09/2008",
+            "description": "Process Control Services - Global Glass Technology. Design proprietary control panels for various furnace/forehearth heating and cooling processes, as defined by project scope, budget and customer requirements for both domestic and international facilities. Configuration of systems and field equipment. Perform functional check out of completed panels. Order all panel and field equipment. Write scope of work and specifications for field contractors. On-site installation and training both domestically and internationally in both English and Spanish. Write technical training and troubleshooting documents for both plant personnel and colleagues. Teach training classes on new and existing systems and equipment in both English and Spanish."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Industrial Electronics Associates Degree",
+            "school": "Owens Community College",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts in Spanish and International Relations",
+            "school": "State University of New York",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Lean Six Sigma Yellow Belt",
+        "Lean Six Sigma Green Belt"
+    ],
+    "languages": [
+        "Spanish",
+        "English"
+    ]
+}

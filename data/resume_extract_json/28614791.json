@@ -1,0 +1,68 @@
+{
+    "name": "Unknown",
+    "email": "",
+    "phone": "(304) 558-2686",
+    "location": "Charleston, WV, USA",
+    "summary": "Energetic mother of 4 with 10+ years experience in high-level support roles. I am organized, professional and detail-oriented as well as a dedicated and focused individual who excels at prioritizing, completing multiple tasks simultaneously and following through to achieve project goals in a timely manner. Effective, analytical approach to identifying and solving complex problems. Self-motivated with a strong work ethic with extensive bookkeeping, accounting and clerical knowledge. Experienced in A/P processes, managing vendor relations and great problem resolution capabilities.",
+    "skills": [
+        "Microsoft Office Specialist - Word",
+        "Microsoft Office Specialist - Excel",
+        "Microsoft Office - Advanced",
+        "Typing 62+ WPM (97% accuracy)",
+        "Strong organizational skills",
+        "Sharp problem solver",
+        "Courteous demeanor",
+        "Energetic work attitude",
+        "Meticulous attention to detail",
+        "Results-oriented",
+        "Self-directed",
+        "Time management"
+    ],
+    "experience": [
+        {
+            "title": "Accountant III",
+            "company": "WV Department of Education - Division of Student Services Internal Operations",
+            "start_date": "11/2009",
+            "end_date": "10/2010",
+            "description": "Verified that information in the FIMS computer system was up-to-date and accurate. Organized billing and invoice data and prepared accounts receivable. Paid invoices after ensuring information was correct and complete. Identified and resolved system and account issues. Checked online car reservation system and ensured educators received the state car binder."
+        },
+        {
+            "title": "Secretary II",
+            "company": "WV Department of Education - Division of Student Support Services, Child Nutrition",
+            "start_date": "11/2009",
+            "end_date": "10/2010",
+            "description": "Worked in the Office of Child Nutrition and supported four coordinators. Made travel arrangements, drafted meeting agendas, prepared advance materials and followed up for meetings and conferences. Responded to telephone and in-person requests for information."
+        },
+        {
+            "title": "Secretary II",
+            "company": "WV Department of Education - Division of Teaching and Learning Special Programs, Reading First",
+            "start_date": "02/2005",
+            "end_date": "11/2007",
+            "description": "Assisted three coordinators to ensure they had necessary tools to teach educators, complete school assessments, fulfill RF grant requirements and handle day-to-day office tasks. Answered phones, routed calls, took messages, emailed, filed travel reimbursement forms, and planned and executed meetings. Created attendee database and organized materials, hotel bookings and contract arrangements for meetings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Science",
+            "school": "Mountain State University",
+            "year": null
+        },
+        {
+            "degree": "GED",
+            "school": "Ravenswood Annex",
+            "year": null
+        },
+        {
+            "degree": "Business Education",
+            "school": "Garnet Career Center",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Microsoft Office Specialist - Word",
+        "Microsoft Office Specialist - Excel",
+        "Certificate of Accomplishment",
+        "Typing Institute of America"
+    ],
+    "languages": []
+}

@@ -1,0 +1,92 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To obtain a position that will provide me with the necessary tools in order for me to provide excellent customer service. One that will allow room for advancement and continued educational training.",
+    "skills": [
+        "Administrative Assistant",
+        "Billing",
+        "CPR certified",
+        "CPT",
+        "Data entry",
+        "NexGen EHR",
+        "Dispatching",
+        "Documentation",
+        "Filing",
+        "Goldmine",
+        "Scanning & indexing",
+        "Lawson",
+        "Medisoft",
+        "Microsoft Excel",
+        "Typing 45 wpm",
+        "Workflow",
+        "Onbase",
+        "Heat",
+        "Fast Track",
+        "Allegra",
+        "Artiva",
+        "Medical terminology",
+        "ICD-9",
+        "Office support (phones, faxing, filing)",
+        "Records maintenance",
+        "Verbal communication",
+        "Insurance",
+        "Private insurance",
+        "Insurance and collections procedures",
+        "Adept multi-tasker",
+        "Reading",
+        "Data base",
+        "e-mail",
+        "Medical coding",
+        "Database",
+        "Sorting",
+        "Problem solving"
+    ],
+    "experience": [
+        {
+            "title": "Customer Service Agent",
+            "company": "Company Name, City, State",
+            "start_date": "February 2015",
+            "end_date": "Current",
+            "description": "Answering phones; Discussing patient accounts; Providing assistance to patients with their bills; Reading EOBs to provide information; Collecting payments; Scheduling payment plans for large balance accounts; Updating patient information in Allegra; Changing strategies on accounts; Updating insurance information; Scheduling claims to be sent; Printing and mailing documents (Financial Assistance Forms, Itemized Bills, Statements, & Receipts); Faxing documents; All other duties as assigned by management."
+        },
+        {
+            "title": "File Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "July 2014",
+            "end_date": "February 2015",
+            "description": "Sorting & prepping paper Employee Files; Accurately removing confidential patient information from all Employee files prior to scanning and indexing; Working a daily Onbase Workflow report to ensure applications and background check information are properly scanned and indexed; Scanning and indexing supporting I-9 documents; Manual entry of I-9 information into Heat; Prepping and sorting education assistance documentation prior to scanning; Uploading & indexing documents sent via e-mail to the Medical Records online queue."
+        },
+        {
+            "title": "DME Billing Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "April 2013",
+            "end_date": "March 2014",
+            "description": "Obtaining evidence of Durable Medical Equipment dispensed; Billing charges for equipment to the patient and/or insurance company; Reading doctor/surgical notes to locate and apply the appropriate ICD-9 code; Locating ABN and other documentation scanned into the patient’s medical chart for Medicare billing; Maintaining deadlines and timely filing limits; Researched CPT and ICD-9 coding discrepancies for compliance and reimbursement accuracy; Maintaining strict patient and physician confidentiality."
+        },
+        {
+            "title": "Billing Document Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "May 2006",
+            "end_date": "March 2013",
+            "description": "Data entry of orders for Durable Medical Equipment; Applying the correct ICD-9 code; Dispatching calls within the facility using Alcatel overhead paging and phones; Assisting patients with questions about equipment delivery and other services; Assisting walk-in patients with pickup/return of equipment; Created Letters and Certificates of Medical Necessity for Durable Medical and Respiratory Equipment; Contacted Physicians’ Offices to obtain documentation for billing; Searched database for diagnosis codes, ABNs, and signed orders to support insurance billing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "AAS in Medical Billing & Coding Reimbursement",
+            "school": "Bryant & Stratton College",
+            "year": 2016
+        },
+        {
+            "degree": "Medical Administrative Assistant Certificate",
+            "school": "Everest College",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        "CPR certified"
+    ],
+    "languages": []
+}

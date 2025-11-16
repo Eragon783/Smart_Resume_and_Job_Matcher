@@ -1,0 +1,81 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am a motivated individual with highly effective communication skills as well as a level-headed health professional who remains calm and effective in extremely difficult and stressful situations. I am seeking a job in the Medical field in a Clinical position that will enable me to grow as a knowledgeable professional and enhance my current abilities.",
+    "skills": [
+        "General Administrative",
+        "handling escalated phone calls",
+        "multi line phone system",
+        "Front Office knowledge/General reception skills",
+        "scheduling appointments",
+        "Collecting Copays",
+        "Verifying insurance eligibility",
+        "Consent forms",
+        "Epic (EMR system)",
+        "patient-focused care",
+        "team player",
+        "telephone etiquette",
+        "multi-tasking",
+        "working under pressure",
+        "quick learner",
+        "Customer Service",
+        "Quality Assurance",
+        "medical terminology",
+        "medical billing and coding",
+        "problem solving",
+        "MS Windows",
+        "medical terminology knowledge"
+    ],
+    "experience": [
+        {
+            "title": "Certified Nurse Assistant",
+            "company": "Company Name – City , State",
+            "start_date": "04/2009",
+            "end_date": "10/2012",
+            "description": "Identifies/responds to critical changes in patients and reports to RN/LVN. Repositions patient for maximum comfort & hygiene measures and gives general hygiene to patients. Obtains patients self-report of pain when taking vital signs and reports to nurse. Charts vital signs in graphic. Observes patient for signs of discomfort. Makes frequent rounds, answers call lights. Reports changes in condition/behavior of patient. Prepares room for admission/transfer/discharge."
+        },
+        {
+            "title": "Box Office Aide 1",
+            "company": "Company Name – City , State",
+            "start_date": null,
+            "end_date": null,
+            "description": "Maintained accurate records of patient care, condition, progress and concerns. Monitored vital signs, such as blood pressure and pulse. Responded appropriately to the physical, emotional and developmental needs of patients. Responded appropriately to the physical, emotional and developmental needs of patients. Obtained information about clients' medical history, drug history, complaints and allergies. Provided pre- and post-operative care. Maintained a clean, healthy and safe environment. Performed clerical duties, such as word processing, data entry, answering phones and filing. Maintained sanitary residents' and program rooms. Performed procedures and uses equipment as delegated by a licensed professional, including blood draws and EKGs. Documents objective data and routine aspects of patient care. Reported any unusual circumstances in the patients' condition or environment. Collects patient specimens and data, including vital signs, input/output and other delegated measurements. Educated patients and families about infant care, preparation of healthy meals, independent living and adaptation to disability or illness. Provided a comforting and soothing environment. Took advantage of opportunities for continuing education, quality assurance and performance improvement activities. Monitored expiration of medical supplies and medications. Monitored expiration of medical supplies and medications."
+        },
+        {
+            "title": "Box Office Aid",
+            "company": "Company Name – City , State",
+            "start_date": "01/2007",
+            "end_date": "08/2011",
+            "description": "Alphabetical filing. Answer phone calls regarding performances and ticketing. Assist customers with questions during performances. Office duties such as copying papers, faxing, and packaging mail."
+        },
+        {
+            "title": "Telephone Interviewer",
+            "company": "Company Name – City , State",
+            "start_date": "09/2005",
+            "end_date": "05/2006",
+            "description": "Survey Interviewer for Bank of America and Scion. Administer questionnaire as written and record responses verbatim into a computer. Entered data into databases in a timely and accurate manner. Obtained and scanned documentation and entered into the database. Produced monthly reports using advanced Excel spreadsheet functions. Reviewed medical records for completeness and filed records in alphabetic and numeric order. Organized forms, made photocopies, filed records and prepared correspondence and reports. Reviewed and updated client correspondence files and scheduling database. Identified abnormal test results and referred them to the Clinical Laboratory Scientist for further review. Properly calibrated and adjusted malfunctioning equipment to ensure precise test results."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Medical Assisting Diploma",
+            "school": "Downey Adult School",
+            "year": 2012
+        },
+        {
+            "degree": "Certified Nurse Assistant/Medical Core Program",
+            "school": "Cypress College",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "Medical Assistant Diploma",
+        "Certified Nurse Assistant",
+        "American Heart Association Healthcare Provider (BLS) for CPR and AED",
+        "Nonviolent Crisis Intervention (CPI)",
+        "HIPAA/OSHA Diploma"
+    ],
+    "languages": []
+}

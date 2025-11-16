@@ -1,0 +1,67 @@
+{
+    "name": "Hassan Aly Aboulela",
+    "email": "Hassan_aly1014@yahoo.com",
+    "phone": "+201207673477",
+    "location": "Alexandria, Egypt",
+    "summary": "I have around 6 years experiences in the field of Accounting & banking works, with Egyptians and foreign companies, I'm really honored to introduce myself as a hardworking, good Communication skills, with the highest level of integrity, honesty, loyalty, strong beliefs, goal orientated, sober habits and the desire to produce the best of the work.",
+    "skills": [
+        "Final accounts",
+        "Balance Sheet",
+        "QuickBooks",
+        "financial statements",
+        "accounting cycle",
+        "Excel",
+        "Microsoft Word",
+        "bank reconciliations",
+        "customer service",
+        "databases",
+        "pricing",
+        "forms",
+        "general ledger",
+        "office",
+        "English",
+        "Arabic"
+    ],
+    "experience": [
+        {
+            "title": "General Accountant",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "2016-10",
+            "description": "Completed opening customer accounts using National Bank of Egypt system; evaluated requests for new accounts to ensure compliance with Egyptian standards; processed around 50 branches per day and nearly 500 accounts per day."
+        },
+        {
+            "title": "Customer Service",
+            "company": "Green Towers Egypt, Alexandria",
+            "start_date": "2013-03",
+            "end_date": "2014-05",
+            "description": "Delt with customers via telephone, email, or face-to-face; responded promptly to inquiries; resolved complaints; provided pricing and delivery information; set up new customer accounts."
+        },
+        {
+            "title": "General Accountant",
+            "company": "Company Name, City",
+            "start_date": "2011-10",
+            "end_date": "2013-02",
+            "description": "Prepared financial and accounting reports for presentation to the Financial Manager; produced weekly and monthly revenue and expense reports; prepared journal entries; managed general ledger operations; performed account/bank reconciliations; assisted with audit preparation and coordination."
+        },
+        {
+            "title": "General Accountant",
+            "company": "Company Name",
+            "start_date": "2010-08",
+            "end_date": "2011-09",
+            "description": "Prepared financial and accounting reports or presentations to the Financial Manager; prepared weekly and monthly revenue and expense reports; journal entries; complete general ledger operations; account/bank reconciliations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Accountant (training)",
+            "school": "Alexandria University",
+            "year": "2010"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Arabic",
+        "English"
+    ]
+}

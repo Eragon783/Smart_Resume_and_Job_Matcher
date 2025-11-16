@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Aircraft Sales professional with extensive background in aviation, construction management and human factors. Experienced in investigative policy research, statistical analysis and aviation safety; strong leadership and multitasking abilities; proficient with FAA and DOT regulations; proficient in SPSS, Excel, PowerPoint and some R. Master's degree in Science Technology Aviation Management (Human Factors) from Arizona State University (2012) and Bachelor's degree in Aviation Science from Utah Valley University (2010).",
+    "skills": [
+        "Investigative policy research",
+        "Statistical analysis",
+        "Aviation safety",
+        "Crew resource management",
+        "Group team leadership",
+        "Aviation research and statistical analysis",
+        "FAA and DOT standards and regulations (FAR/CFR)",
+        "Computer data processing concepts",
+        "Verbal communication",
+        "Visual communication",
+        "SPSS",
+        "Excel",
+        "PowerPoint",
+        "R (basic)",
+        "Welding",
+        "Safety",
+        "Scheduling",
+        "Leadership",
+        "Recruitment",
+        "Research",
+        "Tax knowledge"
+    ],
+    "experience": [
+        {
+            "title": "Aircraft Sales",
+            "company": "Aircraft Sales",
+            "start_date": "02/2013",
+            "end_date": "Present",
+            "description": "Research aircraft in various advertisement media. Investigate currency of aircraft within the FAA aircraft data registry. Research and investigate if each aircraft is compliant to FAA (FARS and CFR)/DOT standards. Research and analyze each component on each aircraft. Research and investigate aircraft bluebook for price differentials. Help create an appraisal for each aircraft. Photo each aircraft and their respective log books for the use of advertisement and to make sure the records are current with proper maintenance and proper weight and balance. Help with advertisement and facilitate the sale of each aircraft."
+        },
+        {
+            "title": "Airport Safety Intern",
+            "company": "Airport Safety Inspections",
+            "start_date": "01/2012",
+            "end_date": "05/2012",
+            "description": "Investigate, research and analysis of loss of customer retention and fuel purchase income. Uphold current State Aviation Laws Revision and New Aviation tax laws. Authored a new written policy for Line Crews Safety Gear (Vest)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Technology Aviation Management - Human Factors",
+            "school": "Arizona State University",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Science in Aviation Science",
+            "school": "Utah Valley University",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "Private Pilot Certificate",
+        "Instrument Certificate",
+        "Single Engine Commercial Rating",
+        "Twin Commercial Rating",
+        "Ground Instructor Rating",
+        "Welding Certificates: 6010, 7018, 202, 211"
+    ],
+    "languages": []
+}

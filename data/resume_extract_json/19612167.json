@@ -1,0 +1,53 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Dedicated engineer with excellent technical, analytical and communication skills demonstrated by 9 years of experience. Team-oriented Electrical Engineer with over four years experience designing, developing and testing electronic products. Forward-thinking Electrical Engineer with hands-on experience performing quality troubleshooting, electronics system, and plumbing. Perform general repairs on all floor covering, upholstery, welding, and fabrication. Maintain a property-wide clean and safe work area. Troubleshoot and repair mechanical equipment ranging from heating, ventilation and air conditioning equipment, fan coils, chillers, pumps, boilers, and cooling towers. Receive and respond to maintenance calls in the hotel and casino from guests and other departments.",
+    "skills": [
+        "Leadership Development Program",
+        "Hands On Training: Electrical",
+        "Plumbing",
+        "Painting",
+        "Full Finish",
+        "Wall Paper",
+        "Management Training",
+        "Team Builder",
+        "Outlook Training",
+        "Excel Training",
+        "Hotsos Training",
+        "Stratton Warren MMS"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Supervisor",
+            "company": "Company Name",
+            "start_date": "11/2014",
+            "end_date": "Current",
+            "description": "Assist management indirect oversight of department daily operation. Ensures effective communication between the Facilities Director and all other supervisors of the Engineering Department. Performs all other duties as assigned by the Facilities Director. Ensures that quality services and controls conform to established standards. Quickly assesses problems or situations and takes the proper corrective action without hesitation, and makes prompt and just decisions."
+        },
+        {
+            "title": "Engineering Assistance Supervisor",
+            "company": "Company Name",
+            "start_date": "06/2005",
+            "end_date": "05/2014",
+            "description": "Managed team of 21 professionals. Utilize reporting tools to analyze and monitor status of project and individual work efforts. Collaborate with all departments and engineering teams to continuously manage trade-offs between scope, resources and time during the project/task durations. Perform all duties as deemed necessary for the success of the department. Ability to communicate with employees and other Department Heads. Previous experience using industrial hand tools, power tools, testing, and monitoring equipment."
+        },
+        {
+            "title": "Sky Cap",
+            "company": "Company Name",
+            "start_date": "09/2001",
+            "end_date": "05/2005",
+            "description": "Confirmed that appropriate changes were made to resolve customers' problems. Exercises sound judgment in issuing credits and making exceptions to customer policies to maintain high levels of customer satisfaction. Managed wide variety of customer service and administrative tasks to resolve customer issues quickly and efficiently."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "El Dorado High School",
+            "year": "12"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

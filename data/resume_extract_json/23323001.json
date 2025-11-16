@@ -1,0 +1,120 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Wellington, New Zealand",
+    "summary": "Project Coordinator with strong time management, attention to detail, and goal orientation. Effective communicator with experience coordinating cross-functional teams, managing budgets, stakeholder engagement, risk registers, and reporting. Proficient in MS Office, MS Project, SAP, and video conferencing; experienced in event management and training coordination.",
+    "skills": [
+        "Customer Service",
+        "Payroll",
+        "Receptionist",
+        "Retail Sales",
+        "Statistics",
+        "Cash handling",
+        "Induction",
+        "Microsoft Project",
+        "Ms Project",
+        "Training",
+        "Adult Learning",
+        "Business Management",
+        "Business Planning",
+        "Finance",
+        "First Aid",
+        "Marketing",
+        "Presentation Skills",
+        "Taxation",
+        "Business Writing",
+        "Excel",
+        "Microsoft Office",
+        "Problem Solving",
+        "Project Management",
+        "Team Player",
+        "Time Management",
+        "Visio",
+        "Access",
+        "Budget",
+        "Case Management",
+        "Networking",
+        "Opex",
+        "Payments",
+        "Purchase Orders",
+        "SAP",
+        "Telecom",
+        "Video Conferencing"
+    ],
+    "experience": [
+        {
+            "title": "Project Coordinator",
+            "company": "Current Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Develop/maintain project schedule information using MS Project 2013; manage day-to-day priorities; facilitate project resources using Demand & Supply tool; maintain risk registers; escalate issues; manage project budget using SAP; facilitate meetings and event management for training and stakeholders; monthly reporting to Investment board and Portfolio Office."
+        },
+        {
+            "title": "Business Process Co-ordinator",
+            "company": "Telecom NZ Ltd",
+            "start_date": "",
+            "end_date": "",
+            "description": "Set up new WBSE for Capex and Opex Projects; arrange set up of new activity codes for new employees; Health & Safety rep for the team; coordinate staff moving to a new building; set up contractors; maintain contractor details; create and manage Purchase Orders; arrange travel & accommodation for managers; event management including catering, bookings & rooms; team purchases; manage access to online documents; coordinate meetings: agenda prep, audio & video conference setup, and minute taking."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Birthright Wellington",
+            "start_date": "",
+            "end_date": "",
+            "description": "Project manage a pilot to enhance working relationships with Government Department - Child Youth & Family and non-Government agencies; establish Differential Response principles; strengthen collaboration with agencies; facilitate cross-agency training; develop and implement new ways of working; communicate with stakeholders; manage the project budget."
+        },
+        {
+            "title": "Te Rito Co-ordinator",
+            "company": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Coordinate and facilitate groups; assess, monitor and input Police-reported family violence incidents; facilitate case management meetings; organize monthly networking meetings; set strategic plan; project manage plan for coming year; monitor quarterly; manage Community Action Fund; conduct media and awareness campaigns; run weekly radio show with guest speakers; organize events."
+        },
+        {
+            "title": "Strengthening Families (SF) Co-ordinator",
+            "company": "Hutt Valley",
+            "start_date": "",
+            "end_date": "",
+            "description": "Convene, facilitate and monitor SF Meetings; maintain meeting records; prepare reports; promote SF processes to government and community agencies; organize facilitation training; supervise facilitation staff; undertake related project work; maintain discretionary fund."
+        },
+        {
+            "title": "Teller / Investment Advisor Co-ordinator",
+            "company": "Company Name",
+            "start_date": "07/1996",
+            "end_date": "12/1999",
+            "description": "Head Teller/Teller duties: manage trust money and cash; provide quality customer service; reconcile ATM; coordinate Advisors nationwide; arrange venues, accommodation, travel and catering; prepare induction packs; produce monthly statistics and quarterly reports; review and return Investment plans written by Advisors."
+        },
+        {
+            "title": "Customer Service / WINZ Call Centre",
+            "company": "LINZ",
+            "start_date": "01/1989",
+            "end_date": "01/1996",
+            "description": "Handled various roles across LINZ customer service, WINZ call centre, and related roles; also contributed to wine & food initiatives; volunteered with Women's Refuge Crisis Line and Victim Support."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma in Health & Human Development",
+            "school": "",
+            "year": 2012
+        },
+        {
+            "degree": "NZ Certificate in Frontline Management",
+            "school": "",
+            "year": 2012
+        },
+        {
+            "degree": "MS Project Task Management",
+            "school": "",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "First Aid Course",
+        "NZ Certificate in Frontline Management"
+    ],
+    "languages": [
+        "English"
+    ]
+}

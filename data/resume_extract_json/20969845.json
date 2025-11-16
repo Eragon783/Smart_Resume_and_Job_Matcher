@@ -1,0 +1,99 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A self-motivated professional with a dynamic personality and more than eight years of experience in management, finance, administration, advisory, translation, and tutoring. Has worked with reputable international organizations over the last five years in various roles. Proficient in Dari, Persian and Pashto; also proficient in English, Russian, Arabic and Urdu.",
+    "skills": [
+        "Management",
+        "Finance",
+        "Administration",
+        "Advisory",
+        "Translation",
+        "Interpretation",
+        "Tutoring",
+        "Recruitment",
+        "Budgeting",
+        "Procurement",
+        "Cash management",
+        "Financial reporting",
+        "Reconciliation",
+        "Team leadership",
+        "Training",
+        "Time management",
+        "Communication",
+        "Policy advisory",
+        "Fundraising",
+        "Report writing"
+    ],
+    "experience": [
+        {
+            "title": "Finance & Admin Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2011-10",
+            "end_date": "2015-07",
+            "description": "Identified staff vacancies and recruited, interviewed and selected applicants. Conducted new employee orientation to foster positive attitude toward organizational objectives. Advised managers on organizational policy matters and recommended changes. Prepared contracts, subsidies, financial agreements, suppliers, services, and consultancies; prepared program budget planning; maintained accurate cash records; ensured procurement is completed in accordance with financial policies and procedures; prepared monthly reconciliation of cash, financial monitoring, accounting and financial plans. Supervised a team of over 15 employees."
+        },
+        {
+            "title": "Advisor & Interpreter/Translator",
+            "company": "Company Name, City, State",
+            "start_date": "2011-06",
+            "end_date": "2011-09",
+            "description": "Translated conversations from Dari to English and vice versa; organized trips and meetings; traveled around Mazar Districts; interviewed women; observed the women’s situation in rural areas; prepared reports for fundraising."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name, City, State",
+            "start_date": "2010-06",
+            "end_date": "2010-08",
+            "description": "Worked in Credit Banking and Accounting departments; maintained records and accounts for bank transactions; reported monthly financial statements; prepared daily reconciliation of customer accounts."
+        },
+        {
+            "title": "Assistant - Voluntarily",
+            "company": "Company Name, City, State",
+            "start_date": "2009-01",
+            "end_date": "2011-03",
+            "description": "Communicated with national and international staff; organized trips; supported finance issues; arranged official meetings, conferences, and other events."
+        },
+        {
+            "title": "Tutor",
+            "company": "Company Name, City, State",
+            "start_date": "2004-07",
+            "end_date": "2005-01",
+            "description": "Applied required teaching methods for students; received training on introduction to GIZ financial administration; participated in training on financial administration, procurement, O&R regulation and internal control; engaged in time management, communication, and team-building trainings; participated in risk management information portal training."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Business Administration (Concentration: Management)",
+            "school": "University of Akron",
+            "year": "2017"
+        },
+        {
+            "degree": "BBA in Business Administration (Concentration: Finance, Banking & Investment)",
+            "school": "American University of Central Asia",
+            "year": "2011"
+        }
+    ],
+    "certifications": [
+        "Fulbright Scholarship Program – The University of Akron (Master's degree) – Aug 2015 – present",
+        "American Scholarship Program – American University of Central Asia (Bachelor's degree) – Aug 2007 – Jun 2011",
+        "Introduction to GIZ Financial Administration (Oct 2011 – Nov 2011)",
+        "Financial Administration, Procurement, O&R Regulation and Internal Control (Jan 2012 – Feb 2012)",
+        "Time Management and Communication (Jun 2013)",
+        "Qualification on Anti-Corruption (Jul 2013)",
+        "Communication and Team Building (Sep 2013)",
+        "IPO-Information Portal Online of the Risk Management (Sep 2012)",
+        "Financial Management and WINPACCS Cost Control (Oct 2012)",
+        "Capacity WORKS Training (Jun 2012)"
+    ],
+    "languages": [
+        "Dari",
+        "Persian",
+        "Pashto",
+        "English",
+        "Russian",
+        "Arabic",
+        "Urdu"
+    ]
+}

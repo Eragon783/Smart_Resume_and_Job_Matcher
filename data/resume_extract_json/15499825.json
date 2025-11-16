@@ -1,0 +1,68 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly efficient, detail oriented HIM Specialist with extensive experience in all types of request relating to release of information and medical record management. Dedicated professional skilled in technical and clerical support with strong ability to clearly and professionally communicate with providers, patients, attorneys and insurance companies. Over 10 years Health Information experience. Skill profile Enhanced knowledge of HIPAA and HITECH compliance; state and federal laws governing release of protected health information in both paper and electronic form. Technologically advanced in utilizing release of information database with advanced proficiency in various EMR database such as Epic, Meditech, Medilink, Centricity, Docuware, 3M Encoder, and Medisoft; various MS Applications. Reliable analyst to ensuring medical record readiness and completeness through management of ICR feature and audit. Solid leadership in customer service, excellent interpersonal relations and problem solving and can effectively coordinate amongst diverse range of clients hence, promoting optimal outcome.",
+    "skills": [
+        "HIPAA",
+        "HITECH compliance",
+        "state and federal laws governing release of protected health information",
+        "release of information management",
+        "ICR (intelligent character recognition) management",
+        "EMR databases: Epic, Meditech, Medilink, Centricity, Docuware, 3M Encoder, Medisoft",
+        "Microsoft Office / MS Applications",
+        "quality assurance",
+        "billing/revenue cycle",
+        "chart documentation",
+        "coding and diagnosis",
+        "patient privacy",
+        "privacy and confidentiality",
+        "policies and procedures",
+        "research",
+        "PHI / HIPAA compliance",
+        "data management"
+    ],
+    "experience": [
+        {
+            "title": "Health Information Specialist",
+            "company": "Company Name",
+            "start_date": "January 2016",
+            "end_date": "Current",
+            "description": "Process release of protected health information to other health care facilities and providers for continuation of care; insurance carriers; attorneys; DDS; copy service organizations; employers; educational Institutions; as well SLRI policy and procedure. Validates and releases protected health information for legal proceedings including subpoenas and court orders; and also for the purpose of audits, regulatory requirements, research and reviews. Assembles and ensures patient chart completeness through ICR management. Performs most favorable guest relations interaction with diverse clients that reflects SLRI values and principles."
+        },
+        {
+            "title": "Health Information Specialist",
+            "company": "Company Name",
+            "start_date": "April 2013",
+            "end_date": "January 2016",
+            "description": "Collaborated/coordinated with physicians and various coding/insurance companies to clarify queries regarding medical procedures, medical diagnosis codes and patient chart documentation to meet appropriate billing process. Key team member to ensuring adequate patient chart documentation and accurate medical diagnosis coding that meets billing requirement that then resulted to precise and timely reimbursement for the organization and physicians. Ensured timely completion/submission of billing; resolved issues with billing delays; analyzed underpayment/non-payment. Managed process to ensure that billing errors rate of resolutions remained under 10 days. Supported the revenue cycle process by reducing outstanding billing of $800K to under $400K. Coordinated with Department of Labor and Industries for patient paperwork completion and for proper reimbursement. Oriented and mentored new physicians to understanding procedures and essentials of proper patient chart documentation."
+        },
+        {
+            "title": "Healthcare Record/Payroll Coordinator",
+            "company": "Company Name",
+            "start_date": "September 2011",
+            "end_date": "March 2013",
+            "description": "Managed healthcare records and billing for home health care facilities; audited files for quality, accuracy and completeness with focus on achieving high quality metrics; and released all types or ROI request. Maintained compliance with city, state and federal guidelines/regulations by promoting policies to ensure staff adherence to documentation handling/completeness guidelines as well as document confidentiality and security practices. Monitored and ensured physician license status is active and current; audited POC and physician orders accuracy. Recognized and awarded for timely/accurate payroll processing for 400 employees and billing process."
+        },
+        {
+            "title": "Medical Records Lead",
+            "company": "Company Name",
+            "start_date": "July 2009",
+            "end_date": "October 2010",
+            "description": "Initiated and led as ROI Specialist managing all aspects of medical records storage and audits for three clinics representing 3K+ active charts; performed quality assurance audit to promote accurate records maintenance; and consistently verified adherence to state/federal patient privacy laws, HIPAA compliance and government regulations. Held direct accountability for 200 active charts; streamlined document availability through improved medical record organization; identified medical record inefficiency and resolved issues to eradicate future discrepancies which resulted to optimal audit readiness."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts Degree in Health Information Technology",
+            "school": "Spokane Community College",
+            "year": "2009"
+        }
+    ],
+    "certifications": [
+        "Health Records Clerk certification",
+        "RHIT Pending"
+    ],
+    "languages": []
+}

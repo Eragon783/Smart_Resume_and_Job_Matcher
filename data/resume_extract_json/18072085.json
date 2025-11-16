@@ -1,0 +1,124 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Accurate, Alert, Ambitious, Analytical, Articulate, Efficient, Dependable, Responsible, People-Oriented, Honest, Independent and Hardworking. Integrity, Competence, Honesty, Growth, Family, Decisiveness, Stability and Leadership.",
+    "skills": [
+        "Accounting",
+        "General Accounting",
+        "Accountant",
+        "Articulate",
+        "Balance",
+        "Balance Sheet",
+        "bank reconciliations",
+        "Bank Reconciliation",
+        "banking",
+        "Bookkeeping",
+        "Budgeting",
+        "Budgets",
+        "Budget",
+        "C",
+        "CaseWare",
+        "Cash Management",
+        "Com",
+        "Credit",
+        "creditor",
+        "Clients",
+        "delivery",
+        "Dependable",
+        "English",
+        "Filling",
+        "Finance",
+        "Financial Management",
+        "Financial Statements",
+        "Prepare financial statements",
+        "Fixed Asset Register",
+        "Fixed Assets",
+        "Forecasting",
+        "forms",
+        "Funds",
+        "General Ledger",
+        "Hyperion",
+        "Invoicing",
+        "Leadership",
+        "Managing",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "Office Administration",
+        "Organizing",
+        "Problem Solving",
+        "processes",
+        "process Management",
+        "project management",
+        "reconciling",
+        "Reporting",
+        "Retail",
+        "SAP",
+        "Shared Service",
+        "Statistics",
+        "Take messages",
+        "Tax",
+        "Tax Returns",
+        "Team Player",
+        "Telephones",
+        "Type",
+        "VAT Returns"
+    ],
+    "experience": [
+        {
+            "title": "Trainee Accountant - SAICA Trainee",
+            "company": "Company Name – City , State",
+            "start_date": "2007-09",
+            "end_date": "2009-09",
+            "description": "Cashbooks, VAT returns, Manual IRP5s, IT3(a)s and IT14s, EMP501s, bank reconciliation. Finalising VAT, advising clients, preparing the financial statements. Debtors reconciliation, Creditors reconciliation, Fixed Asset Register."
+        },
+        {
+            "title": "Senior Accounts Assistant",
+            "company": "Company Name – City , State",
+            "start_date": "2009-09",
+            "end_date": "2013-08",
+            "description": "Transitioning fixed assets duties of all business units within the Anglo American Group into a Global Shared Service environment; managing the fixed asset registers, calculating depreciation, posting and reconciling. Disposing of assets and all other transactions that involve fixed assets. Analysing depreciation. Also assisted with project management at Anglo Coal."
+        },
+        {
+            "title": "Management Accountant",
+            "company": "Company Name – City , State",
+            "start_date": "2013-08",
+            "end_date": "2015-01",
+            "description": "General Ledger System Management, perform month-end procedures to finalise accounts, produce monthly budget variance report, perform month-end reconciliations for all balance sheet accounts, prepare monthly management reports and distribute to management. Participate in budgeting and forecasting processes, and in the 3-year plan. Assist in the preparation and running of the audit, prepare annual tax returns, analyze monthly expenses against the budget, calculate monthly incentives for store staff, allocate expense lines to all stores. Liaise with store managers on overspending, manage rental expenses, ensure landlords are paid. Invoicing to MTN, Cell C, Vodacom and other providers for cellular income; follow up on unpaid invoices. Manage credit cards and petrol cards, calculate margin and ensure alignment with KPIs."
+        },
+        {
+            "title": "Finance Assistant",
+            "company": "Company Name – City , State",
+            "start_date": "2015-01",
+            "end_date": "2015-12",
+            "description": "Receive purchase request forms, process and issue purchase orders to suppliers, send purchase orders to suppliers, submit supplier invoices for payment, follow up on delivery (GRVs), obtain tax invoices, process quotations and invoices on system, submit all transactions for approval, daily follow up on outstanding invoices, submit supplier forms to line manager, maintain Asset Register, perform reconciliations per creditor, ensure receipt of statements from suppliers, print proof of payments and send to suppliers, monitor funds available, assist with audit information, monthly payroll processing, debtors management and reconciliations, cash management and bank reconciliations, purchasing cards and other ad hoc admin duties."
+        }
+    ],
+    "education": [
+        {
+            "degree": "National Diploma: Internal Auditing",
+            "school": "Walter Sisulu University of Technology",
+            "year": "2005"
+        },
+        {
+            "degree": "Matric: Standard 10",
+            "school": "Thubalethu Senior Secondary School",
+            "year": "2000"
+        },
+        {
+            "degree": "B com: Internal Auditing",
+            "school": "University of South Africa",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "IsiXhosa",
+        "IsiZulu",
+        "SeSotho"
+    ]
+}

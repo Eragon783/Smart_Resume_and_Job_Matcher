@@ -1,0 +1,72 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Friendly and energetic Spanish teacher with ten years of expertise in academic instruction and classroom management. Holds professional certification in Secondary Spanish and Inclusive Education. Experienced in lesson planning, assessments, field trips, and student support, with a track record of fostering student achievement and engagement.",
+    "skills": [
+        "Strong interpersonal skills",
+        "SMART Board Notebook software",
+        "Microsoft Office",
+        "Photography editing and slide shows",
+        "Lesson planning and curriculum development"
+    ],
+    "experience": [
+        {
+            "title": "Spanish Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "2003-10",
+            "end_date": "Present",
+            "description": "Teach Spanish levels 1A, 1B, II, III. Create lessons incorporating Smart Board technology. Administer the 8th grade State Proficiency Exam. Administer the level 3 Spanish Competency Exam. Administered Student Learning Objective assessments. Received tenure status September 1, 2006. Advised the Middle School International Club. Developed and taught the 6th grade World Cultures and Languages program. Chaperoned High School Europe trip (April, 2005)."
+        },
+        {
+            "title": "Director of Harris Whalen location",
+            "company": "Company Name, City, State",
+            "start_date": "2002-06",
+            "end_date": "2004-08",
+            "description": "Directed a summer recreation camp with 2 assistant directors and 3 staff members. Supervised 60 children ages 5-14 from 9-4pm. Planned theme days and daily activities for children 5-12 years old. Supervised and managed 5 staff members. Interacted with parents daily. Evaluated and trained staff. Supervised and organized field trips to various Rochester locations."
+        },
+        {
+            "title": "Director of Harris Whalen recreation camp",
+            "company": "Company Name, City, State",
+            "start_date": "2002-06",
+            "end_date": "2004-08",
+            "description": "Directed a summer recreation camp with 2 assistant directors and 3 staff members. Supervised 60 children ages 5-14 from 9-4pm. Planned theme days and daily activities for children 5-12 years old. Supervised and managed 5 staff members. Interacted with parents daily. Evaluated and trained staff. Supervised and organized field trips to various Rochester locations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Novice Teaching Academy",
+            "school": "BOCES",
+            "year": "Summer 1999"
+        },
+        {
+            "degree": "Master of Science",
+            "school": "University of Madrid, Complutense",
+            "year": "Spring 2008"
+        },
+        {
+            "degree": "Bachelor of Arts: Spanish and secondary certification Spanish",
+            "school": "Nazareth College",
+            "year": "Spring 2003"
+        },
+        {
+            "degree": "Bachelor of Arts: Sociology and Spanish",
+            "school": "State University of New York College City",
+            "year": "December 1999"
+        },
+        {
+            "degree": "Bachelor of Science in Sociology and Spanish",
+            "school": "State University of New York College City",
+            "year": "2004"
+        }
+    ],
+    "certifications": [
+        "Permanent Certification, Secondary Spanish and Inclusive Education, 2008",
+        "SUNY Fredonia College Ambassador"
+    ],
+    "languages": [
+        "Spanish",
+        "English"
+    ]
+}

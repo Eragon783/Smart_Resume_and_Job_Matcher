@@ -1,0 +1,106 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Westbrook, ME, US",
+    "summary": "Team-oriented Engineering Associate with over 8 years experience designing, developing, maintaining, and testing electro-mechanical systems.",
+    "skills": [
+        "Electro-mechanical design",
+        "JMP",
+        "Microsoft Visual Basic",
+        "Microsoft Excel",
+        "Vision system programming",
+        "Microsoft PowerPoint",
+        "Electronic computer systems",
+        "Microsoft Visio",
+        "Engineering software",
+        "Six Sigma",
+        "5X methodology",
+        "Strong presentation skills",
+        "Adaptable",
+        "Process improvement",
+        "Electrical Troubleshooting",
+        "Tools",
+        "Team player",
+        "Ability to read schematics",
+        "Mechanical design/implementation",
+        "Ability to write and read wiring diagram",
+        "CAD",
+        "hardware",
+        "client",
+        "DC",
+        "Drafting",
+        "electronics",
+        "Engineer",
+        "Engineering Design",
+        "frame",
+        "functional",
+        "inspection",
+        "Logic",
+        "machinery",
+        "materials",
+        "mechanical",
+        "PLC",
+        "scheduling",
+        "radiography",
+        "read",
+        "reporting",
+        "schematics",
+        "Six Sigma",
+        "software testing",
+        "system integration",
+        "triage",
+        "validation",
+        "Vision",
+        "wiring diagram"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Associate",
+            "company": "IDEXX Laboratories",
+            "start_date": "2008-05",
+            "end_date": "Present",
+            "description": "Engineering Associate responsible for product reliability, improvement, and NPD qualification in the Digital Radiography department; wrote test protocols, conducted testing, analyzed data, and reported findings. Also performed lab maintenance, ESD testing, and managed obsolescences and validation testing; trained new personnel; served as hardware subject matter expert for CR and DR instruments; designed components and test fixtures; oversaw technicians and interns; collaborated with suppliers and customers; cross-functional team member; familiar with software and system integration."
+        },
+        {
+            "title": "Electrical Technician and Mechanist",
+            "company": "Unknown Company",
+            "start_date": "2007-02",
+            "end_date": "2008-03",
+            "description": "Resolved part and assembly discrepancies; collaborated with engineers and project managers on design parameters for client projects; designed brackets and custom framing for automated machines; prepared material specifications for purchasing; debugged and troubleshot analog, digital, and RF circuits; worked with and troubleshooted PLCs and assembly lines to maintain productivity; assembled complex electrical circuits (AC and DC)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science",
+            "school": "Southern Maine Community College (SMCC)",
+            "year": "2007-2008"
+        },
+        {
+            "degree": "CAD and Drafting",
+            "school": "York County Community College (YCCC)",
+            "year": ""
+        },
+        {
+            "degree": "Industrial Management (electro-mechanical systems, mechanical engineering)",
+            "school": "York County Community College (YCCC)",
+            "year": "2015"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Sanford High School",
+            "year": "2007"
+        },
+        {
+            "degree": "Vocational Electronics Program",
+            "school": "Sanford Regional Vocational Center",
+            "year": "2007"
+        }
+    ],
+    "certifications": [
+        "Six Sigma 5X training (4 weeks)",
+        "Geometric Dimensioning and Tolerance (GD&T) training",
+        "GD&T training (2015)"
+    ],
+    "languages": []
+}

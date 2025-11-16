@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Serviceoriented employee with 19 year background in Customer Service. Dedicated to making customers happy and aiding in fulfilling their needs, as well as excellent communication and time management skills. Handles tasks with accuracy and efficiency. Willing to go the extra mile and do what it takes to get the task done. Whether it's taking orders via phone or in person. Will take the time and care needed, to make sure the job and task at hand are done right.",
+    "skills": [
+        "advertising",
+        "cash register",
+        "color",
+        "cooking",
+        "Critical Thinking",
+        "Customer Service",
+        "Decision Making",
+        "English",
+        "maintain inventory",
+        "inventory",
+        "Listening",
+        "machinery",
+        "Marketing",
+        "materials",
+        "personnel",
+        "processes",
+        "product-marketing",
+        "Speaking",
+        "quality",
+        "Reading",
+        "safety",
+        "Sales",
+        "tables",
+        "Phones",
+        "Time Management"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "11/2008",
+            "end_date": null,
+            "description": "Answer customers' questions about merchandise and advise customers on merchandise selection. Itemize and total customer merchandise selection at checkout counter, using cash register, and accept cash or charge card for purchases. Pack customer purchases in bags or cartons. Take inventory or examine merchandise to identify items to be reordered or replenished. Stock shelves, racks, cases, bins, and tables with new or transferred merchandise. Stamp, attach, or change price tags on merchandise, referring to price list. Receive, open, unpack and issue sales floor merchandise. Clean display cases, shelves, and aisles. Design and set up advertising signs and displays of merchandise on shelves, counters, or tables to attract customers and promote sales."
+        },
+        {
+            "title": "Lead Decorator",
+            "company": "Company Name",
+            "start_date": "07/2003",
+            "end_date": "09/2014",
+            "description": "Oversee activities directly related to making products or providing services. Train new employees, or oversee those personnel processes. Determine goods and services to be sold, based on forecasts of customer demand. Perform sales floor work, such as greeting or assisting customers, stocking shelves, or taking inventory. Plan and direct activities such as sales promotions, coordinating with other department heads as required. Develop or implement product-marketing strategies, including advertising campaigns or sales promotions. Plan store layouts or design displays. Observe color of products being baked and adjust oven temperatures, humidity, or conveyor speeds accordingly. Set oven temperatures and place items into hot ovens for baking. Combine measured ingredients in bowls of mixing, blending, or cooking machinery. Measure or weigh flour or other ingredients to prepare batters, doughs, fillings, or icings, using scales or graduated containers. Roll, knead, cut, or shape dough to form sweet rolls, pie crusts, tarts, cookies, or other products. Place dough in pans, molds, or on sheets and bake in production ovens or on grills. Check the quality of raw materials to ensure that standards and specifications are met. Check equipment to ensure that it meets health and safety regulations and perform maintenance or cleaning, as necessary. Apply glazes, icings, or other toppings to baked goods, using spatulas or brushes. Decorate baked goods, such as cakes or pastries. Set time and speed controls for mixing machines, blending machines, or steam kettles so that ingredients will be mixed or cooked according to instructions. Prepare or maintain inventory or production records. Order or receive supplies or equipment. Operate slicing or wrapping machines. Develop new recipes for baked goods. Work one on one with customers to help fill their needs. Sit down with customers to design both birthday cakes, anniversary cakes and wedding cakes."
+        },
+        {
+            "title": "Decorator",
+            "company": "Company Name",
+            "start_date": "04/1996",
+            "end_date": "11/2000",
+            "description": "Set time and speed controls for mixing machines, blending machines, or steam kettles so that ingredients will be mixed or cooked according to instructions. Decorate baked goods, such as cakes or pastries. Apply glazes, icings, or other toppings to baked goods, using spatulas or brushes. Check equipment to ensure that it meets health and safety regulations and perform maintenance or cleaning, as necessary. Customer Service Phones Deliveries."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Coastal Carolina University",
+            "year": 1999
+        },
+        {
+            "degree": "Marine Sciences",
+            "school": "Coastal Carolina University",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Trinity High School",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

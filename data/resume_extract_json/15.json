@@ -1,0 +1,81 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Holon, Israel",
+    "summary": "Frontend Developer with 8 years of experience in WEB technologies including Angular, Webpack, REST, Ajax, jQuery, HTML, CSS, Bootstrap; proficient in JavaScript, NodeJS, TypeScript, Python, Perl; databases such as SQLite, MySQL, MongoDB, Neo4j, tinyDB; experienced with Agile, Waterfall, SCRUM.",
+    "skills": [
+        "Angular",
+        "Webpack",
+        "REST",
+        "Ajax",
+        "jQuery",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "JavaScript",
+        "NodeJS",
+        "TypeScript",
+        "Python",
+        "Perl",
+        "SQLite",
+        "MySQL",
+        "MongoDB",
+        "Neo4j",
+        "tinyDB",
+        "AngularJS",
+        "WebSocket",
+        "ReactJS",
+        "AJAX"
+    ],
+    "experience": [
+        {
+            "title": "Web Front End Developer",
+            "company": "Britannica",
+            "start_date": "2017-04",
+            "end_date": "2018-10",
+            "description": "Knowledgebase project with time and resource management for educational processes in commercial specialized educational institutions. Responsibilities: renewed and optimized UI and UX, renewed REST API, migrated from legacy solution (ASPX) to newest solutions and technologies(Angular 7+), refactored code. Technologies used: HTML5, CSS3 , Angular(7+), Typescript, NodeJS, WebSocket"
+        },
+        {
+            "title": "Web Front End Developer",
+            "company": "Athena",
+            "start_date": "2016-03",
+            "end_date": "2017-04",
+            "description": "Documentation accounting system. Search engine for seeking information in open sources and building structured knowledge base with internal search. Responsibilities: renewed UI and UX. renewed API. Migrated legacy code to newest solutions and technologies Technologies used: HTML5, CSS3 , AngularJS(1.5), Angular(2+), NodeJS, WebSocket"
+        },
+        {
+            "title": "Web Front End Developer",
+            "company": "Neighbro (Freelance)",
+            "start_date": "2012-02",
+            "end_date": "2016-03",
+            "description": "Freelance project designed as mini social network for tenants and landlords. Responsibilities: projected and implemented API and UX. written documentation Technologies used: HTML5, Jquery, JavaScript, AngularJS(1.3), NodeJS"
+        },
+        {
+            "title": "Panels Dashboard",
+            "company": "Neighbro (Freelance)",
+            "start_date": "2012-02",
+            "end_date": "2016-03",
+            "description": "Web application/dashboard for analysis survey data, visualization statistical data. Responsibilities: projected and implemented API and UX Technologies used: HTML5, AJAX, JavaScript, ReactJS, Bootstrap, CSS"
+        },
+        {
+            "title": "Web Front End Developer",
+            "company": "WOXAPP",
+            "start_date": "2012-02",
+            "end_date": "2016-03",
+            "description": "Cloud storage for photos, with social networking, forum and chat. Responsibilities: projected and implemented UX and client-server logic Technologies used: HTML5, AJAX, JavaScript"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's Degree in Software Development",
+            "school": "National Mining University Dnepropetrovsk, Ukraine",
+            "year": "2007"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Hebrew",
+        "English",
+        "Russian"
+    ]
+}

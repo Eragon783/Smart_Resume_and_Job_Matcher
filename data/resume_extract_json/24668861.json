@@ -1,0 +1,90 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior Aerospace Quality Engineer with Six Sigma Black Belt; results-driven Mechanical Engineer with extensive QA experience in product engineering and testing for commercial and military turbines. Proficient in quality management systems, statistical analysis, process improvement, supplier quality, and Lean/Kaizen methodologies; strong leadership, training, and project management skills.",
+    "skills": [
+        "Six Sigma Black Belt",
+        "Total Quality Management",
+        "SPC",
+        "QFD",
+        "Mistake-Proofing",
+        "Root Cause Corrective Action",
+        "Value Stream Mapping",
+        "Gage Capability",
+        "PFMEA",
+        "APQP",
+        "DFMEA",
+        "Poka-yoke",
+        "Cpk",
+        "DMADV",
+        "SIPOC",
+        "COPIS",
+        "CAPA",
+        "MATLAB",
+        "Minitab",
+        "Quality control",
+        "Reliability Testing",
+        "Process Improvement",
+        "Lean Manufacturing",
+        "Kaizen",
+        "Statistical Analysis",
+        "Auditing",
+        "Documentation Control",
+        "NDT",
+        "AS9100",
+        "Project Management"
+    ],
+    "experience": [
+        {
+            "title": "Senior Aerospace Quality Engineer",
+            "company": "Company Name – City , State",
+            "start_date": "2009-02",
+            "end_date": "2014-09",
+            "description": "Handled authorization of internal blueprint and UTC revision changes. Supervised the NDT and ETL lab. Performed AS9102 First Article Inspections and prepared documents for submittal per AS9100 standards. Directed Kaizen and Lean Manufacturing meetings weekly. Identified negative quality trends and initiated corrective/preventive actions. Lead project engineer of the JSF F-35 ramjet development stages. Reviewed and approved all process routers to ensure quality clauses and customer specifications. Maintained Aerospace Quality Management Systems. Collaborated with engineers and project managers on design parameters. Initiated a statistical analysis project resulting in recommendations adopted by the department through Value Stream Mapping. Auditing with outside agencies and internal. Trained junior Quality Engineers on FAIR packaging and Six Sigma methods. Handled regulatory complaints from DoD and FAA and took corrective action. Knowledge of CFRs as they pertain to GE Aviation."
+        },
+        {
+            "title": "Materials Program Manager",
+            "company": "Company Name – City , State",
+            "start_date": "2005-01",
+            "end_date": "2009-11",
+            "description": "Focal point to Supplier Quality Assurance, Materials Control Lab, and Engineering Source Approval personnel to ensure compliance with procedures and audit requirements. Liaised with clients; prepared specifications for purchasing materials and equipment. Led the program's supply chain activities and advised the SCM Director on material strategies and plans. Reported unit reliability, repair costs & investigations, and repair shop capacity & performance metrics. Developed and led supply chain proposals including task descriptions, bases of estimates, RFP solicitation, and cost/pricing. Developed EAC and material forecasts by coordinating inputs from supply chain and finance. Participated in Daily Management and prepared KPI-driven corrective actions. Adhered to aerospace standards; wrote reproduction procedures for anomalies and generated comprehensive reports. Demonstrated experience in manufacturing and continuous improvement tools; involved in SCM, contract law, FAR/DFAR as it relates to Government contracts; directed customer installations and resolved part/discrepancy issues."
+        },
+        {
+            "title": "Mathematics and Physics Tutor",
+            "company": "Independent / Tutor",
+            "start_date": "2002-01",
+            "end_date": "2005-05",
+            "description": "Educated students on solving mathematical equations using formulas and proofs, and using technology including TI calculators, MATLAB, and Minitab. Tutored Calculus I–III, Differential Equations, Partial Derivatives, Statistics, Stochastic Processes, Advanced Calculus, Discrete Mathematics, Linear Algebra, Number Theory, Finite Element Analysis, Lie Super-Algebra, Fluid Mechanics, Applied Physics, Solid State Physics; prepared FE Exam and actuarial exam prep."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. Theoretical Physics",
+            "school": "Massachusetts Institute of Technology",
+            "year": "2010"
+        },
+        {
+            "degree": "M.B.A. in Econometrics",
+            "school": "MIT Sloan School of Management",
+            "year": "2007"
+        },
+        {
+            "degree": "M.S. in Applied Physics",
+            "school": "Massachusetts Institute of Technology",
+            "year": "2005"
+        },
+        {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "school": "Massachusetts Institute of Technology",
+            "year": "2002"
+        }
+    ],
+    "certifications": [
+        "Lean Six Sigma Black Belt (Villanova University) - 2008",
+        "Lean Six Sigma Green Belt (Villanova University) - 2007",
+        "Certified Quality Improvement Associate (ASQ)"
+    ],
+    "languages": []
+}

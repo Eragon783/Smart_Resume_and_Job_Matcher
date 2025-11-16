@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Summary I am a PMP certified marketing, technical, and research project manager. I currently work as a technical and research project manager at PMA Media Group. I have led projects that include:  User Research/Testing and Product Planning UX Design and Graphics Design Web Development and Technical Software Creation Online Campaigns (Marketing Strategy and Asset Creation) SEO, Analytics, and other data points. I have a current Project Management Professional certificate and am working towards my Agile Project Management certificate and my IIBA Business Analyst certification. I have not just lead projects, I am also experienced in production in the following areas: Front end web-development UX and Graphics Design for Web sites SEO and Keyword Research Analytics for web, social, and email",
+    "skills": [
+        "Project Management (including Agile Methodologies)",
+        "Workfront",
+        "JIRA",
+        "Trello",
+        "Slack",
+        "JavaScript",
+        "PHP",
+        "HTML/CSS",
+        "VBA",
+        "jQuery",
+        "Angular",
+        "Marketing Strategy",
+        "Microsoft Office",
+        "Microsoft Excel",
+        "Adobe Analytics",
+        "User Research scripts",
+        "Testing plans",
+        "Focus groups",
+        "Usability testing",
+        "Surveys"
+    ],
+    "experience": [
+        {
+            "title": "Technical Project Manager",
+            "company": "PMA Media Group",
+            "start_date": "May 2017",
+            "end_date": "Present",
+            "description": "Lead all technical projects for PMA Media Group and it's AU credit card division. This includes both internal and client facing technical solution creation--From finance department tools creation to client facing web services creation. I have also started to help PMA Media implement a scrum process for all technical development, with an agile approach to user discovery."
+        },
+        {
+            "title": "Project Manager - Digital Marketing/Web",
+            "company": "Company Name",
+            "start_date": "Aug 2014",
+            "end_date": "May 2017",
+            "description": "Lead projects that included: Web Development and Website Content Creation; User Research/Analytics/Testing/SEO; UX Design and Graphics Design; Campaign Marketing Strategy and Asset Creation. This included the management of the creation of many of FamillySearch.org's campaigns; including Pioneer campaign, Meet my Grandma, Freedmen's Bureau and more."
+        },
+        {
+            "title": "Digital Media Analyst",
+            "company": "Company Name",
+            "start_date": "Jan 2014",
+            "end_date": "Jul 2014",
+            "description": "Worked with clients to determine Business Requirements and KPIs for their digital products. We would create measurement strategies for their websites, apps, email campaigns, and social channels. This was mostly done in Adobe Analytics, ClickTale, and Localytics, but sometimes in Google Analytics as well. This included both report creation as well as code implementation."
+        },
+        {
+            "title": "Content Publisher and Front End Developer",
+            "company": "Company Name",
+            "start_date": "Sep 2013",
+            "end_date": "Jan 2014",
+            "description": "Working with clients and an in house content management system, I would create web pages with some custom style. I would also collaborate on marketing strategy behind each page being created."
+        },
+        {
+            "title": "Language Technical Writer",
+            "company": "Company Name",
+            "start_date": "Mar 2013",
+            "end_date": "Sep 2013",
+            "description": "I translated Finnish language bank documents to English and created simple web pages out of them using HTML/CSS and some JavaScript."
+        }
+    ],
+    "education": [],
+    "certifications": [
+        "Project Management Professional Certification - March 2016",
+        "Agile Project Management certificate (in progress)",
+        "IIBA Business Analyst certification (in progress)"
+    ],
+    "languages": [
+        "Finnish",
+        "English"
+    ]
+}

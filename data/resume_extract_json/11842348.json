@@ -1,0 +1,102 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior banking and wealth-management executive with proven ability to lead large teams, deliver personalized financial strategies across banking, borrowing and investments for affluent clients, and drive growth of client assets. Strong presenter and relationship-builder with capabilities in sales leadership, client relations, and end-to-end service delivery.",
+    "skills": [
+        "Sales",
+        "Market Research",
+        "Sales Staff",
+        "Sales Team",
+        "Client Relations",
+        "Wealth Management",
+        "Regional Sales",
+        "Sales Director",
+        "Closing",
+        "Coaching",
+        "Problem Solver",
+        "Customer Service",
+        "Detail Oriented",
+        "Self Motivated",
+        "Series 6",
+        "Series 7"
+    ],
+    "experience": [
+        {
+            "title": "SVP, Regional Sales Director Wealth Management",
+            "company": "Company Name",
+            "start_date": "September 2014",
+            "end_date": "Present",
+            "description": "Responsible for managing a team of 24 relationship managers delivering personalized financial strategies for affluent clients across banking, borrowing, and investments; grew client assets; single point of contact for all banking needs; holistic delivery of service and sales solutions."
+        },
+        {
+            "title": "SVP, Group Leader",
+            "company": "Company Name",
+            "start_date": "April 2014",
+            "end_date": "September 2014",
+            "description": "Managed Citizens Bank's Business Banking Contact Center in RI and PA; short-term project to enhance client experience and create efficiencies in Phonebank related sales; Total FTE responsible: 210."
+        },
+        {
+            "title": "SVP, Regional Manager-Business Banking Group",
+            "company": "Company Name",
+            "start_date": "April 2004",
+            "end_date": "March 2014",
+            "description": "Manage a team of 21 Business Banking Officers in Boston Downtown Region; Member of Citizens Management advisory council."
+        },
+        {
+            "title": "Business Banking Officer",
+            "company": "Company Name",
+            "start_date": "January 2002",
+            "end_date": "April 2004",
+            "description": ""
+        },
+        {
+            "title": "Branch Business Banker",
+            "company": "Company Name",
+            "start_date": "April 2000",
+            "end_date": "December 2001",
+            "description": ""
+        },
+        {
+            "title": "Department Head, Men's Wear",
+            "company": "Company Name",
+            "start_date": "January 1997",
+            "end_date": "January 1999",
+            "description": "Managed a sales staff of 15; established follow-up program; expanded Dockers Men's Wear business from $2M to $3M while maintaining gross margin >50%; analyzed needs and implemented cost-effective programs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSc Economics",
+            "school": "University of Ottawa",
+            "year": "1997"
+        },
+        {
+            "degree": "MA: Executive Leadership Management Programme",
+            "school": "Babson College Executive Education",
+            "year": "2011"
+        },
+        {
+            "degree": "Executive Leadership Management Programme",
+            "school": "Babson College Executive Education",
+            "year": "2011"
+        },
+        {
+            "degree": "Commercial Lending Training Program",
+            "school": "Citizens Bank",
+            "year": "2008"
+        },
+        {
+            "degree": "Moody's Analytics Training",
+            "school": "Moody's Analytics, inc.",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Series 7 License",
+        "Series 6 License",
+        "Life and Health Insurance License (Massachusetts)"
+    ],
+    "languages": []
+}

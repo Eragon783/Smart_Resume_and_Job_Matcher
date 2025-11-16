@@ -1,0 +1,97 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Goal is to become associated with a company where I can utilize my skills and gain further experience while enhancing the company's productivity and reputation. Skilled in communication, engineering standards, complex problem solving, advanced critical thinking, and MS Office suite (Excel, Project, Visio). Experienced with engineering operations, project management, documentation, testing, safety and validation processes; capable of leading pilot lines, coordinating cross-functional teams, and maintaining quality and reliability.",
+    "skills": [
+        "Excellent communication",
+        "Engineering standards",
+        "Complex problem solving",
+        "Advanced critical thinking",
+        "Microsoft Excel",
+        "Microsoft Project",
+        "Microsoft Visio",
+        "Engineering operational functions",
+        "Multidisciplinary exposure",
+        "Project management",
+        "Engineering knowledge",
+        "Troubleshooting",
+        "Independent work",
+        "Strategic thinking",
+        "Quality inspection",
+        "Collaboration",
+        "Document management",
+        "Testing",
+        "Safety",
+        "Validation process",
+        "5S",
+        "MS Office",
+        "Google Docs"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Technician II",
+            "company": "Company Name City , State",
+            "start_date": "02/2012",
+            "end_date": "Present",
+            "description": "Initiated statistical analysis projects and documented reports. Managed multiple projects; collaborated with engineers and project managers on Water Savings, Photochromic and Nidek tinting projects. Supervised photochromic production. Maintained network environment and archives. Prepared specifications for photochromic lenses production. Developed records and maintenance reports for efficiency. Applied engineering principles to develop and operate Hard Coating and data processing systems. Executed root cause analysis to improve yield and reliability. Analyzed technical data for proper workflow in RX labs. Ensured safety and testing compliance; produced design documentation for HC, spin coat and photochromic processes. Traveled to RX laboratories domestically and internationally; organized and led pilot line activities; trained personnel; documented and reported on pilot line activities."
+        },
+        {
+            "title": "HMC HC Laboratory Assistant III",
+            "company": "Company Name City , State",
+            "start_date": "02/2005",
+            "end_date": "02/2009",
+            "description": "Worked with engineers to establish coating formulations and processes for HC and Lamination machines. Responsible for blending, mixing, analyzing, and testing coatings using commercial and R&D chemicals. Set up lamination (Back Side Transfer) machines; trained staff and provided technical support. Instrumental in industrializing new products and processes for coating Rx lenses; established hard coating processes; documented project progress and analyzed chemical properties of hard coatings. Worked independently."
+        },
+        {
+            "title": "Hard Coating Technician",
+            "company": "Company Name City , State",
+            "start_date": "10/2003",
+            "end_date": "02/2005",
+            "description": "Plan, schedule, and oversee daily Dip/Dip processes; train personnel per SOPs; perform advanced technical duties including titration and machine troubleshooting; maintain process logs; ensure system readiness and record test results."
+        },
+        {
+            "title": "Surfacing Lab Technician",
+            "company": "Company Name City , State",
+            "start_date": "01/2003",
+            "end_date": "02/2003",
+            "description": "Handle lenses in the Surfacing Department; block lenses, conduct final inspections, and ensure Rx accuracy."
+        },
+        {
+            "title": "Monogram Operator",
+            "company": "Company Name City , State",
+            "start_date": "06/1999",
+            "end_date": "01/2003",
+            "description": "Setup, operate, and maintain monogram sawing machines."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Engineering Management",
+            "school": "Arizona State University",
+            "year": 2020
+        },
+        {
+            "degree": "Associate of Science: Chemical Technician",
+            "school": "Chemical and Textile School Sanski Most, Yugoslavia",
+            "year": 1993
+        },
+        {
+            "degree": "ESOL Program Certificate",
+            "school": "Saint Petersburg College",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "Certificate of competition, Resource Conservation and Recovery Act (RCRA) Internal Auditor for engineering group",
+        "Laboratory University Course Efficient Communication Training",
+        "Global Engineering Customer Orientation Training",
+        "Project Management Training",
+        "How to Capture Customer Requirements & Develop Project Scope",
+        "Skills Calibration, Chemical Engineering technician, documentation, Engineering Management, equipment inventory, inspection, materials, safety, SOP, staffing, supervision, technical support, troubleshooting, validations"
+    ],
+    "languages": [
+        "English"
+    ]
+}

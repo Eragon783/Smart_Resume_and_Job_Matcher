@@ -1,0 +1,101 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "Jamaica",
+    "summary": "Urban and regional planning professional with experience in land use planning, GIS, project management, and beekeeping extension. Proven ability to lead teams, liaise with communities and researchers, prepare proposals, and produce regular reports. Strong communication and documentation skills.",
+    "skills": [
+        "Land Use",
+        "Basis",
+        "Business Operations",
+        "Inspection",
+        "Operations",
+        "Proposals",
+        "Training",
+        "Global Positioning System (GPS)",
+        "Geographic Information System (GIS)",
+        "Survey Technician",
+        "Liaison",
+        "Award",
+        "Excellent Written and Verbal Communication Skills",
+        "Land Use Planning",
+        "Written and Verbal",
+        "Recruiting",
+        "Documenting",
+        "Mapping",
+        "Topo",
+        "Progress"
+    ],
+    "experience": [
+        {
+            "title": "Jamaica- Apiculture Extension Specialist",
+            "company": "Jamaica",
+            "start_date": "07/2013",
+            "end_date": "Current",
+            "description": "Assess and manage government-owned apiaries in a region of three parishes; inspect and monitor apiaries owned by the government and beekeepers; train and develop beekeepers; identify areas for research and liaise between researchers and beekeepers; conceptualize and implement projects; supervise group projects; prepare monthly, quarterly, and annual reports."
+        },
+        {
+            "title": "Planning Technician",
+            "company": "Portmore Development Plan Project",
+            "start_date": "07/2012",
+            "end_date": "08/2012",
+            "description": "Member of planning team; conducted land use surveys in designated special areas of the development order region; served as team leader; submitted weekly progress reports; liaised with the community; input land use data into GIS; generated land use maps for designated special areas."
+        },
+        {
+            "title": "Planning Technician",
+            "company": "National Environment and Planning Agency, Jamaica",
+            "start_date": "06/2011",
+            "end_date": "12/2011",
+            "description": "Conducted land use surveys; served as team leader; weekly reports; liaison with community; input land use data into GIS; generated land use maps for designated areas."
+        },
+        {
+            "title": "Planning Technician",
+            "company": "National Environment and Planning Agency, Jamaica",
+            "start_date": "06/2010",
+            "end_date": "08/2010",
+            "description": "Conducted land use surveys; weekly reports; liaison with community; planned community consultations."
+        },
+        {
+            "title": "Planning Intern",
+            "company": "National Environment and Planning Agency, Jamaica",
+            "start_date": "08/2008",
+            "end_date": "10/2008",
+            "description": "Conceptualized, researched, and presented a proposal for the Conservation of Historic Buildings in Emancipation Square, Spanish Town; led a team; GIS-based site visits and surveys; submitted proposal to Tourism Enhancement Fund; project funded and implemented; participated in land verification surveys and development projects."
+        },
+        {
+            "title": "Planning Intern",
+            "company": "National Environment and Planning Agency, Jamaica",
+            "start_date": "07/2008",
+            "end_date": "08/2008",
+            "description": "Involved in policy compilation for Kingston & St. Andrew Development Order; data gathering and GIS-based land use updates."
+        },
+        {
+            "title": "Planning Intern",
+            "company": "National Environment and Planning Agency, Jamaica",
+            "start_date": "01/2008",
+            "end_date": "01/2008",
+            "description": "Various planning tasks including land use surveys and GIS updates as part of Kingston & St. Andrew Development Order work."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Urban and Regional Planning",
+            "school": "University of Technology, Jamaica",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Campion College, Jamaica",
+            "year": null
+        },
+        {
+            "degree": "Certificate of Education (GCE) – Advanced Level",
+            "school": "Campion College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "General Certificate of Education (GCE), Advanced Level"
+    ],
+    "languages": []
+}

@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dedicated and experienced business professional with a track record of achieving corporate goals in sales, operations, merchandise, customer service, and safety. Skilled in inventory control, pricing, staff training, team leadership, cash handling, and payroll systems (Kronos). Proficient in vendor and customer relations, financial reporting, and OSHA compliance.",
+    "skills": [
+        "Strong organizational skills",
+        "Active listening",
+        "Sharp problem solver",
+        "Energetic work attitude",
+        "Inventory control familiarity",
+        "Top sales performer",
+        "Visual merchandising proficiency",
+        "accounting",
+        "Accounts Receivable",
+        "Budget Management",
+        "budget",
+        "Business Administration",
+        "contracts",
+        "credit",
+        "Customer Service",
+        "staff training",
+        "Financial Management",
+        "inventory",
+        "marketing",
+        "meetings",
+        "Operations Management",
+        "Payroll",
+        "personnel",
+        "policies",
+        "POS",
+        "Retail Sales",
+        "sales",
+        "Sales Reporting",
+        "Staff Management",
+        "trainer"
+    ],
+    "experience": [
+        {
+            "title": "Team Member / Pricer",
+            "company": "Company Name, City, State",
+            "start_date": "2012-07",
+            "end_date": "Present",
+            "description": "Set up store prior to grand opening. Selected products to be sold. Priced accordingly. Placed product to the sales floor. Worked as a team member performing cashier duties, product assistance and cleaning. Cross-trained and provided back-up for other customer service representatives when needed. Expressed appreciation and invited customers to return to the store. Organized the store by returning all merchandise to its proper place."
+        },
+        {
+            "title": "Club Manager/Assistant Manager • Sales Manager/Assistant Manager • Operations Manager",
+            "company": "Company Name, City, State",
+            "start_date": "1990-01",
+            "end_date": "2012-01",
+            "description": "Managed all operational areas of busy fitness club with 6 direct reports, a total staff of 30, and 400-800 daily patrons. Operational areas included Customer Service, Programs, Personal Training, Retail Sales, Kids' Club, Maintenance, and Financial Management (Payroll, Accounts Receivable, Sales Reporting, Budget Management). Responded quickly to customer inquiries and issues to maintain a high level of member satisfaction/retention. Influenced prospects, sold memberships and accounted for cash/credit card receipts. Conducted facility tours and new member orientations; developed new member fitness goals. Scheduled appointments and registered patrons for classes, personal training, and fitness sessions. Drove revenue growth through referrals by building positive and enduring relationships with members. Processed all contracts, payments, and membership corrections. Programs oversaw entire program schedule, ensuring instructors' commitment and participant registration. Monitored program enrollment to ensure profitability. Personal Training monitored new memberships to ensure participation in new member session with a personal trainer. Identified and communicated customers' needs to personal trainers. Accountable for a $20,000 monthly budget. Sold individual personal training sessions to customers. Retail Sales accountable for a $30,000 annual budget for nutritional items and ancillary merchandise. Maintained proper levels of inventory to meet customer demands. Opened, closed, and balanced POS system on a daily basis. Scheduled nursery personnel, monitored attendance, and evaluated performance. Enforced company policies to minimize risk potential. Maintenance communicated equipment malfunctions to maintenance staff to sustain a high level of equipment reliability. Scheduled and monitored nightly facility cleaning. Responded immediately to emergency situations and prepared and submitted timely accident reports. Staff Management hired, trained, motivated, evaluated, and disciplined staff to achieve corporate performance standards. Coached and mentored employees to contribute to club's success. Conducted ongoing staff training. Operations Management organized department schedules to ensure adequate coverage and efficient operations. Consistently achieved percentage to budget bonus pay for meeting or surpassing corporate goals. Previous experience includes various management roles for Chicago Health Club. Educational background includes Bally Total Fitness monthly training/meetings to increase skill level in management, sales, marketing, and accounting, and Moraine Valley Community College."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Administration",
+            "school": "Bally Total Fitness",
+            "year": null
+        },
+        {
+            "degree": null,
+            "school": "Moraine Valley Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

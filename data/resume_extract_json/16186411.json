@@ -1,0 +1,61 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Software Engineer with 2 years in Web Development, specializing in front-end development and Microsoft .NET-based solutions. Proficient in SDLC and SCRUM/Agile methodologies. Experienced in C#, ASP.NET, JavaScript, jQuery, CSS/Bootstrap, HTML, XML, AJAX, and data access with ADO.NET and Entity Framework. Skilled in building, modifying, and deploying services and databases, and delivering quality software with QA collaboration.",
+    "skills": [
+        "ASP.NET",
+        "VB.Net",
+        "Active Directory",
+        "ADO.Net",
+        "Dreamweaver",
+        "Web Development",
+        "AGILE",
+        "AJAX",
+        "HTML",
+        "Java",
+        "JavaScript",
+        "JQuery",
+        "C#",
+        "C++",
+        "CSS",
+        "Bootstrap",
+        "Entity Framework",
+        "LINQ",
+        "SQL",
+        "SQL Server",
+        "ASP.NET MVC",
+        "Web Services",
+        "XML",
+        "Visual Studio",
+        "Tortoise SVN",
+        "GitHub",
+        "Windows",
+        ".NET Framework 4.0/4.5",
+        "Data Access"
+    ],
+    "experience": [
+        {
+            "title": "Database Programmer/Analyst (.NET Developer)",
+            "company": "Application Development Network (ADN), DoIT, University of Missouri System",
+            "start_date": "Jun 2014",
+            "end_date": "Feb 2016",
+            "description": "Graduate Research Assistant and Database Programmer/Analyst responsible for agile development of .NET-based applications. Led projects including Atlas, AppInventory, GoAdmin, Mizzou Checkout, and LDAP/AD integration. Implemented Availability Calendar Grid, automated email scheduling, integrated CKEditor, applied role-based authorization, used Redgate SQL Compare for cross-environment deployment, and developed data access layers with ADO.NET and Entity Framework. Collaborated with Scrum teams, QA, and cross-functional stakeholders to deliver features on time."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science, Computer Engineering",
+            "school": "University of Missouri",
+            "year": "Present"
+        },
+        {
+            "degree": "Bachelor of Technology, Electrical and Electronics Engineering",
+            "school": "Jawaharlal Nehru Technological University",
+            "year": "May 2013"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

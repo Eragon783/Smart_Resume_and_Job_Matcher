@@ -1,0 +1,49 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Driven sales professional with 2 years of experience, skilled in developing sales strategies, customer service, and operational discipline. Independent, energetic, and communicative, with experience in fast-paced retail and electronics industries, fluent in Spanish.",
+    "skills": [
+        "Fast paced worker",
+        "Attention to detail",
+        "Customer service",
+        "Fluent in Spanish",
+        "Communication and verbal skills",
+        "Fast learner"
+    ],
+    "experience": [
+        {
+            "title": "Sale Consultant",
+            "company": "Company Name",
+            "start_date": "March 2015",
+            "end_date": "November 2015",
+            "description": "Answered customers' questions and addressed problems and complaints in person and through the phone. I also helped customers select products that best fit their personal needs, and processed an average of 80 transactions each day in a timely manner. Maintained visually appealing and effective displays for the entire store. Educated customers on product and service offerings. Completed purchases with cash, credit and debit payment methods. Trained all new sales employees on effective techniques. Organized items in visually appealing manner. And Inventory checks throughout the day."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "October 2014",
+            "end_date": "December 2014",
+            "description": "While working at Michael's Arts&Crafts my job was to assist customers with their needs, handle money throughout the day and give change back. I learned to greet customers and ensure satisfaction in a seasonal position. Completed purchases with cash, credit and debit payment methods. Organized items in visually appealing manner."
+        },
+        {
+            "title": "Front Clerk",
+            "company": "Company Name",
+            "start_date": "February 2014",
+            "end_date": "June 2014",
+            "description": "Accepted payment from customers and made change as necessary. Cleaned up spills, removed trash, and maintained a neat work area. Took cake orders over the phone."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Northwood High School",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

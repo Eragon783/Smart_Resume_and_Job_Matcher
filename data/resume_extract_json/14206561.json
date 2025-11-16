@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced Engineering Technician with a strong background in production validation, documentation, training certification management, safety audits, vendor coordination, MRB/DMR metrics, and manufacturing software; proficient in MS Office (Excel, PowerPoint, Outlook), Oracle, and network/hardware concepts.",
+    "skills": [
+        "budget",
+        "hardware",
+        "network systems",
+        "database",
+        "documentation",
+        "inspection",
+        "logistics",
+        "meetings",
+        "MS Excel",
+        "Microsoft Office",
+        "Outlook",
+        "PowerPoint",
+        "network",
+        "networking",
+        "Operating Systems",
+        "Oracle",
+        "personnel",
+        "presentations",
+        "progress",
+        "quality",
+        "Maintain documentation",
+        "routers",
+        "safety",
+        "scheduling",
+        "shipping",
+        "spreadsheets",
+        "supervision"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Technician",
+            "company": "Company Name City , State",
+            "start_date": "01/2014",
+            "end_date": "Current",
+            "description": "Analyze documentation to ensure production accuracy. Use MS Excel and PowerPoint to create presentations and spreadsheets. Engage engineering to resolve production issues. Create and maintain production training certifications. Generate training matrix to determine and eliminate training gaps. Conduct weekly safety audits to reduce accidents and ensure safe workplace. Use Oracle to track material transactions, verify vendor and material information, and print transfer orders. Point of contact for Vendor, OSSR, PM, Buyer, Planner and Manager for many part issues. Initiate stock purge of suspected discrepant material and coordinate the inspection and disposition of the material. Manage weekly MRB meetings and provide weekly DMR disposition metrics. Work with suppliers to resolve issues with parts found on the manufacturing floor. Effectively manage all DMR/RTS material initiated by test, remotes and build activities. Support the \\\"TXZ cover recycle\\\" effort through SR initiation and material preparation for shipment to Japan."
+        },
+        {
+            "title": "Consultant",
+            "company": "Austin Free-Net",
+            "start_date": "12/2012",
+            "end_date": "12/2012",
+            "description": "Analyzed and determined factors affecting networking needs including hardware and attenuation/interference. Set up dual network infrastructure utilizing both wired and wireless routers. Assist in the design of deployment server for the distribution of updates to various computer labs. Dec 2012."
+        },
+        {
+            "title": "Engineering Technician",
+            "company": "Company Name City , State",
+            "start_date": "01/2011",
+            "end_date": "12/2013",
+            "description": "Maintain documentation and records. Analyze documentation to ensure production accuracy. Managed incoming product and shipping process. Assist Manufacturing Engineering team on new product production and quality procedures. Review production orders and provide updates to ensure production accuracy."
+        },
+        {
+            "title": "Manufacturing Lead",
+            "company": "Company Name City , State",
+            "start_date": "07/2004",
+            "end_date": "12/2010",
+            "description": "Analyzed production orders and schedules to ascertain types, quantities and specifications. Planned production operations, establishing priorities and sequences. Utilized Microsoft Office to document and update status reports. Analyzed production reports and resolved operational and manufacturing problems to ensure scheduling needs. Provided training, supervision and logistics coordination. Maintain training certification and documentation. Aligned internal resources to achieve on-time and budget performance objectives. Analyzed reports and consulted with quality, management, and engineering personnel to solve problems. Interface with customer to monitor project progress and cost. Assisted in administration of software database. Installation of network systems. Assisted in implementing production software in a high volume manufacturing environment. Coordinate product transition and support team."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Administration",
+            "school": "University of Phoenix",
+            "year": 2019
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

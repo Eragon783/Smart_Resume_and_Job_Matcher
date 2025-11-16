@@ -1,0 +1,50 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "To obtain a position in Company.",
+    "skills": [
+        "Problem solving",
+        "Adaptability",
+        "Collaboration",
+        "Time management",
+        "Leadership"
+    ],
+    "experience": [
+        {
+            "title": "Customer Advocate",
+            "company": "Company Name",
+            "start_date": "September 2014",
+            "end_date": "Present",
+            "description": "Handle incoming calls from a national customer base. Provide detailed information on services and products to customers. Make appropriate account recommendations based on customer requirements. Enter accurate and complete customer information into system. Research and resolve service, product and billing issues. Maintain updated records of all customer interactions. Achieve and exceed key performance indicators in all areas. Addressed customer service inquiries in a timely and accurate fashion. Made reasonable procedure exceptions to accommodate unusual customer requests. Built customer loyalty by placing follow-up calls for customers who reported product issues."
+        },
+        {
+            "title": "Caregiver",
+            "company": "Company Name",
+            "start_date": "September 2010",
+            "end_date": "August 2015",
+            "description": "Read stories to the children and taught them painting, drawing and crafts. Employed a variety of materials for children to explore and manipulate in learning activities and imaginative play. Planned and implemented educational programs for children Managed general housekeeping duties, including feeding, diapering, resting, and cleanup. Supported children's emotional and social development by adapting communication tactics for differing client needs. Planned and led games, reading and activities for groups of school-age children. Disciplined children and recommended other measures to correct behavior. Carefully monitored children's play activities."
+        },
+        {
+            "title": "Club Connect Team Member",
+            "company": "Company Name",
+            "start_date": "August 2013",
+            "end_date": "May 2015",
+            "description": "Contact potential students to schedule campus tours. Provide incoming students with scholarship opportunities available to each individual. Contact potential students to inform them of scholarship deadlines. Help potential students signup for campus events via online portals."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA in Marketing",
+            "school": "University of Central Arkansas",
+            "year": "2014"
+        }
+    ],
+    "certifications": [
+        "Delta Sigma Theta — 2013 to Present",
+        "Keep a Child Alive — 2011 to 2015",
+        "Kids Life and Money Volunteer — 2012 to 2015"
+    ],
+    "languages": []
+}

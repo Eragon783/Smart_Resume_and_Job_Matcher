@@ -1,0 +1,128 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Herzliya, Israel",
+    "summary": "Software developer with 5 years of experience in frontend web development (≈70%) and Java backend development (≈30%). Proficient in Java, JavaScript/TypeScript, HTML/CSS, and a wide range of frameworks and tools including Angular, React, Vue, Spring, Hibernate, REST, and microservices. Strong debugging, problem solving, and collaboration in Agile environments.",
+    "skills": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "VBA",
+        "Spring",
+        "Spring Boot",
+        "Spring Security",
+        "Lombok",
+        "Swagger",
+        "Hibernate",
+        "JUnit",
+        "Java Persistence API",
+        "Multithreading",
+        "Maven",
+        "jQuery",
+        "Bootstrap",
+        "REST",
+        "Kafka",
+        "Heroku",
+        "Angular",
+        "Material Design",
+        "React",
+        "Redux",
+        "Context API",
+        "Formik",
+        "Axios",
+        "Lodash",
+        "Hooks",
+        "Vue.js",
+        "Node.js",
+        "IntelliJ IDEA",
+        "WebStorm",
+        "Eclipse",
+        "VS Code",
+        "Xcode",
+        "MySQL",
+        "MongoDB",
+        "Firebase",
+        "NoSQL",
+        "Git",
+        "Bitbucket",
+        "GitHub",
+        "Jira",
+        "Agile",
+        "Scrum",
+        "OOP",
+        "JSON",
+        "Design Patterns",
+        "Microservices",
+        "Dependency Injection",
+        "Mac OS",
+        "Windows",
+        "Photoshop",
+        "Illustrator",
+        "XD",
+        "Dreamweaver",
+        "Acrobat Professional",
+        "Access",
+        "Excel",
+        "Word",
+        "Figma",
+        "Mailchimp",
+        "English",
+        "Hebrew",
+        "Russian"
+    ],
+    "experience": [
+        {
+            "title": "Web Developer",
+            "company": "Naya Technologies / migVisor",
+            "start_date": "2020",
+            "end_date": "present",
+            "description": "Cloud database migration assessment; Developing responsive frontend website on Angular, Material Design. Troubleshooting and debugging application. Tools: TypeScript, Angular, HTML, CSS, Material Design, REST, Firebase."
+        },
+        {
+            "title": "Web Developer",
+            "company": "Inetex Ltd.",
+            "start_date": "2018",
+            "end_date": "2020",
+            "description": "P2P car sharing; Developing responsive frontend websites on Angular and React. Backend web application development. RESTful services with Spring Boot. Creation, integration, and management of NoSQL databases on Firebase. Troubleshooting and debugging. Tools: TypeScript, Angular, JavaScript, React, HTML, CSS, Material Design, Bootstrap, REST, Google Maps API, Firebase, Spring, Spring Boot, Spring Security, Swagger, Dependency Injection."
+        },
+        {
+            "title": "Web Developer",
+            "company": "Regions Group",
+            "start_date": "2015",
+            "end_date": "2017",
+            "description": "Development and maintenance of frontend websites for commercial real estate; usability-focused optimization, cross-browser CSS, and issue resolution."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Mathematics and Computer Science in Finance",
+            "school": "Plekhanov Russian University of Economics",
+            "year": "2004"
+        },
+        {
+            "degree": "HTML",
+            "school": "Moscow, Russia",
+            "year": "2006"
+        },
+        {
+            "degree": "Web-Development",
+            "school": "Moscow, Russia",
+            "year": "2015"
+        },
+        {
+            "degree": "Full Stack Java Development",
+            "school": "Rehovot, Israel",
+            "year": "2018"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hebrew",
+        "Russian"
+    ]
+}

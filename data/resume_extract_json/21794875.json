@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Bilingual accounting professional with expertise in automated systems and general ledger. Analytical, detail-oriented, organized planner who performs well in a project setting and communicates effectively with all levels of management. Experience in public accounting.",
+    "skills": [
+        "Bilingual Spanish",
+        "Microsoft Office (Word, Excel, PowerPoint, Outlook, Publisher)",
+        "QuickBooks",
+        "Tax software",
+        "Interpersonal skills",
+        "Analytical",
+        "Detail-oriented",
+        "Organizational skills",
+        "Coordination",
+        "General ledger",
+        "Financial reporting",
+        "Internal controls"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2012-04",
+            "end_date": "Present",
+            "description": "Reconciled various general ledger fund accounts and prepared various specialty reports as well as documenting operational procedures. Ascertained accuracy of financial reporting to Board of Directors through review and correction of month end and annual financial reports. Recorded monthly transactions through posting of deposits, bank debits, and posting of journal entries for month end closing. Brought uniformity of reporting for association of churches by assisting in standardizing chart of accounts which would be used in financial reporting."
+        },
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name",
+            "start_date": "1997-01",
+            "end_date": "2004-01",
+            "description": "Maintained reconciliation and documentation for damage recovery accounts; communicated with Florida Power & Light (FPL) centers though out the State of Florida to assure appropriate and timely recovery of damage amounts and clearing of service center pending items; researched transactions where discrepancies were located and resolved with the appropriate manager. Designed reconciliation format of several tax suspense accounts to focus on outstanding items and to assist the FPL Corporate Tax Department in resolving outstanding items. Assured that internal controls and procedures were properly implemented and maintained by performing periodic tests of internal control. As part of the Accounting Team at FPL, assisted in all functions of monthly closing including reconciling general ledger accounts and researching outstanding items, preparing and posting journal entries into the FPL system, preparing and updating spreadsheets, and assuring the accuracy of financial report information."
+        },
+        {
+            "title": "Bookkeeper/Accountant",
+            "company": "Company Name",
+            "start_date": "1994-01",
+            "end_date": "Present",
+            "description": "Recorded a wide variety of transactions to the Quick Books Software program including: Charts of Accounts classifications; Accounts Receivable: invoicing and processing payments; recording deposits to bank accounts and downloading bank transactions; initiating standard accounting and customized reports. Reconciliation of all cash/bank accounts; assured accuracy of all transactions posted to bank; researched discrepancies. Other Duties: Opened mail and prepared deposits to the bank; created monthly and annual financial reports; input accounting information to create tax returns."
+        },
+        {
+            "title": "Community Service Director",
+            "company": "The Rock Miami Church",
+            "start_date": "1999-01",
+            "end_date": "2006-01",
+            "description": "Brought new life to the church's programs by developing, implementing and establishing a formal structure for the Children's Ministry and Audio-visual Ministry for teens. Insured coordination among the different volunteer groups by ensuring appropriate training and support; Scheduled volunteers in numerous functions including greeters, worship leaders, teachers, and assistants. As part of a ministry team, built the groundwork for the puppet ministry; this required preparing the proposal for the church leadership; submitting tentative budget requirements, obtaining appropriate training for the team, scheduling training sessions, designing of props, lighting and puppets."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Accounting",
+            "school": "University of Florida",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Business Administration",
+            "school": "Florida International University",
+            "year": null
+        },
+        {
+            "degree": "Associate of Arts, Liberal Arts",
+            "school": "Miami Dade College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "CPA, State of Florida"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

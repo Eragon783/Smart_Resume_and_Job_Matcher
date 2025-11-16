@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "email": "lov3at1stsit3@yahoo.com",
+    "phone": "818-336-2640",
+    "location": "2140 N Hollywood Way #10071, Burbank, CA 91510",
+    "summary": "",
+    "skills": [
+        "Art",
+        "Blueprints",
+        "Budgets",
+        "Cash registers",
+        "Charts",
+        "COM",
+        "Communication skills",
+        "Cooking",
+        "Credit",
+        "Customer service",
+        "Employee training",
+        "Hiring",
+        "Inspect",
+        "Inventory",
+        "Issue receipts",
+        "Management skills",
+        "Materials",
+        "Exchange",
+        "Money",
+        "Personnel",
+        "Policies",
+        "Processes",
+        "Quality",
+        "Read",
+        "Retail sales",
+        "Safety",
+        "Sales",
+        "Tables",
+        "Type"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "11/2006",
+            "end_date": "01/2007",
+            "description": "Greeted customers; described merchandise; helped locate items; computed sales prices; processed payments; answered questions; prepared sales slips; displayed merchandise; monitored security; inventoried stock; handled exchanges and returns."
+        },
+        {
+            "title": "Cashier/Crew Leader",
+            "company": "Company Name",
+            "start_date": "02/2007",
+            "end_date": "07/2009",
+            "description": "Received payments by cash, check, or card; issued receipts; assisted customers; greeted and advised customers; supervised others; maintained inventories; performed some food preparation or service tasks when needed; tracked sales and item profitability."
+        },
+        {
+            "title": "Crew Member",
+            "company": "Keller Meyers Bergenson's Services",
+            "start_date": "08/2012",
+            "end_date": "10/2013",
+            "description": "Performed cleaning duties: serviced or supplied restrooms; emptied trash; cleaned floors; prepared cleaning solutions; notified managers of repairs; cleaned windows and laboratory equipment; dusted and polished furniture; maintained cleanliness of facilities."
+        },
+        {
+            "title": "Shoe Dept Lead Supervisor",
+            "company": "Keller Meyers Bergenson's Services",
+            "start_date": "11/2013",
+            "end_date": "12/2015",
+            "description": "Enforced safety and sanitation regulations; directed and coordinated activities of staff; planned schedules and production sequences; inspected materials and equipment; conducted training; analyzed production data; determined standards and budgets; motivated employees; managed personnel actions; planned new products and processes."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Unknown",
+            "year": 2007
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

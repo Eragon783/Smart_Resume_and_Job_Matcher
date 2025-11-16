@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Executive Profile: Global Business Development offering outstanding presentation, communication and cross-cultural team management skills. High-energy, results-oriented leader with an entrepreneurial attitude. History of strong and effective management with dealer principals, C-Level corporate end users, A/D community, Real Estate and construction industry. Ambitious Sales Leader who creates strategic alliances with organization leaders to effectively align with and support key business initiatives. Builds and retains high performance teams by hiring, developing and motivating skilled professionals.",
+    "skills": [
+        "Strong Leadership communication skills",
+        "Strategic account development",
+        "Fortune 500 partner experience",
+        "National account management",
+        "Exceeds sales goals",
+        "Cross-functional team management",
+        "Negotiations expert",
+        "Goal-oriented",
+        "Team building expertise",
+        "Staff Development",
+        "Attitude",
+        "Drive",
+        "Motivation"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Director",
+            "company": "Company Name",
+            "start_date": "2014-02",
+            "end_date": "2016-01",
+            "description": "Created new revenue streams by understanding client goals and objectives; Generated new business through positioning Staples wide disciplines to outperform expectations. Problem solve at organizational levels utilizing National contracts such as Avendra, Group Purchasing Organizations and buying consortium agreements. Increased profit margins by 50% in one year through restructuring client-specific contracts leveraging their total spend with Staples. Implemented National furniture standards program reducing rogue vendor spend by 50%; 20 million-dollar book of new business."
+        },
+        {
+            "title": "Regional Sales Director",
+            "company": "Company Name",
+            "start_date": "2007-02",
+            "end_date": "2014-02",
+            "description": "Development of sales team professionals with annual revenues of $35,000,000. Extensive P/L responsibilities, margin growth, and regional strategy deployment. Pivotal in partnering with sales team to build strong relationships with top A&D firms resulting in a $2,000,000 renovation of Fontainebleau Hotel (Miami, Florida). Recruited top-notch sales team and spearheaded cross-functional SAL initiative to increase furniture sales penetration. Led territory to reverse declining sales and achieve 375% increase in sales. Supervised regional division of 42 staff members with direct growth responsibilities of 14 furniture sellers. Responsible for managing all aspects of the daily sales cycle, including sales, quotations, proposals, design, Project Management, bid documents and closing business. Responsible for 3-point bottom line margin growth for focused team through billable design hours."
+        },
+        {
+            "title": "Corporate Account Manager/ Business Development Manager",
+            "company": "Company Name",
+            "start_date": "1996-04",
+            "end_date": "2007-01",
+            "description": "Managed the development, revenue growth, and distribution of key contract office furniture dealerships in the San Diego and Hawaii markets. Responsible for $10.3 million of revenue. Responsible for A&D coverage, GSA sales and new end-user business development. 2005 increased annual territory goal by 53.7%; 2005 Q1 505% over plan. Pragmatically converted competitive dealership to strong co-branded Allsteel partnership. 2002 Q1 254% of volume goal, 269% of gross margin goal; 2002 Q2 249% of goal. 2002 winner of highest annual Terrace product sales. 2001 Master's program winner for achievement. 2001 grew territory by 145.75% over goal attainment. 2001 increased revenues by $2,697,666.00 over previous year."
+        },
+        {
+            "title": "Senior Account Executive",
+            "company": "Company Name",
+            "start_date": "1994-08",
+            "end_date": "1996-04",
+            "description": "Responsible for 1.2 million dollars in sales annually. Corporate marketing and business development for Steelcase systems and contract furniture dealership. 1997 Office Depot Outstanding Salesperson award at 400% of goal. 1997 promoted to North Island Federal Credit Union's Total Quality Management Program Partners in Quality for outstanding customer relations and service from a vendor. Orchestrated product launch and vendor trade show for hospital resulting in 50% increase in account sales. 1996 won strategic vendor competition in Southern California. 1995 implemented, coordinated and raised funding for Neocon West/ architect and designer marketing event resulting in two new multi-party contracts of over $100,000 in revenues each."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Applied Arts: Interior Design & Industrial Technology",
+            "school": "University of California",
+            "year": "1988"
+        },
+        {
+            "degree": "Education certificate",
+            "school": "University of California",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

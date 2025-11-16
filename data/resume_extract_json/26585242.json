@@ -1,0 +1,102 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior Analyst in Data Quality & Governance with experience in data analysis, reporting, user acceptance testing, and solving complex problems in high-pressure environments; excels at cultivating, managing, and leveraging relationships.",
+    "skills": [
+        "Streamline Processes",
+        "Business Objects",
+        "Cognos",
+        "Crystal Reports",
+        "Customer Service",
+        "Data Analysis",
+        "Databases",
+        "Financial Invoicing",
+        "Managing",
+        "Microsoft Access",
+        "Microsoft Excel",
+        "Microsoft Office",
+        "Problem-Solving",
+        "Problem Resolution",
+        "Process Analysis",
+        "Project Management",
+        "Project Planning",
+        "User Acceptance Testing",
+        "Reporting",
+        "SAS",
+        "Securities Reporting",
+        "SQL",
+        "Troubleshooting",
+        "Annual reports",
+        "Tableau Server",
+        "Tableau Desktop"
+    ],
+    "experience": [
+        {
+            "title": "Senior Analyst Data Quality & Governance",
+            "company": "Company Name",
+            "start_date": "04/2018",
+            "end_date": "Present",
+            "description": "Create policies and procedures for actuarial and analytics group. Monitor adherence to policies with scheduled reviews. Conduct training on quality and governance policies. Lead analyst for HIPAA compliance. Create and analyze validation reports for health plan data. Lead discussions regarding data issues identified."
+        },
+        {
+            "title": "Healthcare Data Analyst",
+            "company": "Company Name",
+            "start_date": "04/2012",
+            "end_date": "Present",
+            "description": "Experience with process analysis and other analytic functions. Ability to interact effectively with different business units, team members, and external client at all levels. Creates ad hoc data analyses and reports as needed. Prepares monthly, quarterly, and annual reports of established clinical, utilization, and financial metrics for all Health Ministries and SmartHealth. Proficient in computer and analytic tools such as SAS, SQL, and MS Office (excel and access). Performs medical and prescription drug claims analysis necessary to understand relative unit pricing across provider networks, and to inform decisions about provider fee schedules. Generates eligibility, medical, and pharmacy claims data needed for each Health Ministry to support budgeting, rate development, and manage the reinsurance program."
+        },
+        {
+            "title": "Business Analyst",
+            "company": "Company Name",
+            "start_date": "03/2008",
+            "end_date": "05/2012",
+            "description": "Responsible for identifying processes to streamline and assist with various projects. Created and maintained access databases for departmental use. Identified system issues and coordinated with vendor for resolution. Involved in project planning and testing system enhancements. Defined business requirements for various projects. Created adhoc reports as needed. Created audit process for all securities applications. Created reports for SEC and FINRA audits."
+        },
+        {
+            "title": "Finance Analyst",
+            "company": "Company Name",
+            "start_date": "06/2005",
+            "end_date": "05/2008",
+            "description": "Backup to department manager. Created and maintained managerial reporting daily, monthly, quarterly and yearly. Created work schedule for department on weekly basis. Created and distributed department stats and analysis to upper management monthly. Primary contact for electronic invoicing candidates. Created multiple databases for interdepartmental need."
+        },
+        {
+            "title": "Trust Analyst",
+            "company": "Company Name",
+            "start_date": "02/2003",
+            "end_date": "03/2005",
+            "description": "Responsible for daily operations of 401(k) accounts for retirement services clients. Balanced 401(k) accounts on a weekly, monthly, quarterly, and yearly basis. Researched and resolved out of balance situations quickly."
+        },
+        {
+            "title": "Conversion Analyst",
+            "company": "Company Name",
+            "start_date": "02/2002",
+            "end_date": "02/2003",
+            "description": "Responsible for managing incoming and outgoing account conversions, daily DTCC reconciliation troubleshooting, and problem-solving. Revised an existing Microsoft Access program for incoming assets for accuracy. Created a new reporting process in Access to identify asset balance discrepancies. Resolved daily out of balance situations with various depository institutions."
+        },
+        {
+            "title": "Registration Analyst",
+            "company": "Company Name",
+            "start_date": "02/2000",
+            "end_date": "02/2002",
+            "description": "Responsible for re-registration of physical assets for trust customers. Streamlined processes by automating applications for quicker processing and problem resolution. Solved re-registration issues through brainstorming and troubleshooting. Created a Microsoft Access program to track pending registration issues and generate reports. Collaborated with company legal counsel for asset restriction removal. Authored and updated procedures for registration process."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Business Information Technology: Project Management",
+            "school": "Walsh College",
+            "year": 2007
+        },
+        {
+            "degree": "Bachelor: Business Administration",
+            "school": "Rochester College",
+            "year": 1996
+        }
+    ],
+    "certifications": [
+        "Certificate in Health Care Informatics"
+    ],
+    "languages": []
+}

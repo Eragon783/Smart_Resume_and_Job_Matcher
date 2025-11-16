@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Dedicated and skilled professional with experience as a Cash Administrator and Customer Service Specialist. Known for prioritizing and handling multiple tasks, delivering high-quality results on time, with little supervision. Energetic, organized, and professional, with strong interpersonal and problem-solving abilities.",
+    "skills": [
+        "Microsoft Office",
+        "Excel",
+        "PowerPoint",
+        "Quick learner",
+        "Outstanding interpersonal skills",
+        "Issue resolution",
+        "Excellent analytical skills",
+        "Cooperative team member",
+        "Computer proficient",
+        "Extremely organized",
+        "Energetic and organized",
+        "Attention to detail",
+        "Data Organization",
+        "Policy Development",
+        "Reporting",
+        "Multitasking",
+        "Inventory Management",
+        "Front-desk reception",
+        "VeriBalance reports"
+    ],
+    "experience": [
+        {
+            "title": "Cash Office Administration",
+            "company": "Company Name",
+            "start_date": "01/2016",
+            "end_date": "08/2016",
+            "description": "Managed cash inventory and office budgeting for supplies; handled telephone, e-mail, fax and front-desk reception in a high-volume environment; developed and implemented effective filing systems to accelerate paperwork; maintained status reports for customer projects; compiled daily budget reports, organizational charts and company data reports using VeriBalance functions; identified customer needs, built trust, and resolved problems to maximize efficiency."
+        },
+        {
+            "title": "Aviation Electrician",
+            "company": "Company Name",
+            "start_date": "08/2010",
+            "end_date": "08/2014",
+            "description": "Performed scheduled and unscheduled maintenance on 10 F/A-18C aircraft electrical systems and related equipment; promoted to Work Center Training Petty Officer (April 2012); maintained training records for over 19 personnel; achieved multiple qualifications and was selected Plane Captain of the Quarter; volunteered for aircraft maintenance; progressed to greater responsibilities; engaged in Ground Support Equipment qualifications in May 2011."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "09/2009",
+            "end_date": "04/2010",
+            "description": "Assessed customer needs and answered questions; cleaned and organized work area; issued receipts; prepared and organized register supplies; unboxed new merchandise; rotated stock; operated cash register proficiently; provided professional and courteous service; worked overtime during busy periods."
+        },
+        {
+            "title": "Delicatessen",
+            "company": "Company Name",
+            "start_date": "08/2006",
+            "end_date": "04/2010",
+            "description": "Greeted customers; delegated tasks to team members to optimize productivity; handled products and equipment per safety and sanitation guidelines; fulfilled special order requests (e.g., dinners and party platters); safely used knives, scales, wrappers, compactors, garbage disposals, pallet jack and hand trucks; organized product cases in the produce warehouse and walk-in cooler; served shoppers promptly and courteously."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "05/2015",
+            "end_date": "Current",
+            "description": "Worked as a team member performing cashier duties, product assistance and cleaning; expressed appreciation and invited customers to return; upsold additional menu items, beverages and desserts to increase restaurant profits; addressed customer needs and effectively resolved food or service issues; recorded customer orders and repeated them back in a clear, understandable manner."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "03/2009",
+            "end_date": "04/2010",
+            "description": "Assessed customer needs and responded to questions; cleaned and straightened work area; issued receipts for purchases; organized register supplies; unboxed new merchandise; rotated stock; operated cash register; provided professional and courteous service; worked overtime during busy periods."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "09/2007",
+            "end_date": "04/2010",
+            "description": "Greeted customers; delegated tasks to team members to optimize productivity; handled products and equipment in line with safety and sanitation guidelines; fulfilled special order requests; safely used knives, scales, wrappers, compactors, garbage disposals, pallet jack and hand trucks; organized product cases in the produce warehouse and walk-in cooler; served shoppers promptly and courteously."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science in Paralegal",
+            "school": "Central Piedmont Community College",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

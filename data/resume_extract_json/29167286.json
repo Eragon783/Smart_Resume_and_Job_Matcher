@@ -1,0 +1,80 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [
+        "streamline",
+        "Army",
+        "Hardware",
+        "CTC",
+        "documentation",
+        "Functional",
+        "Hydraulics",
+        "instruction",
+        "Instructor",
+        "Logistics",
+        "materials",
+        "monitors",
+        "organizational",
+        "personnel",
+        "policies",
+        "presentations",
+        "processes",
+        "Quality",
+        "quality assurance",
+        "Risk Management",
+        "Safety",
+        "Supervisor",
+        "technical manuals",
+        "Troubleshooting"
+    ],
+    "experience": [
+        {
+            "title": "Instructor/Writer",
+            "company": "Company Name, City, State",
+            "start_date": "February 2013",
+            "end_date": "Current",
+            "description": "Conducted student training and administered maintenance instruction for UH-60 A/L helicopter airframe systems across multiple subjects; prepared and reviewed lesson plans, materials, references, training aids, briefs, slides, and presentations; delivered comprehensive instruction on areas including Construction & Mission Capabilities, Contemporary Operational Environment, Shop and Flight Line Safety, Hazardous Material Program, Common and Precision Tools, Hardware and Safety Devices, Ground Support Equipment & Aircraft Ground Handling, Troubleshooting, and Army maintenance publications; performed performance evaluations."
+        },
+        {
+            "title": "Maintenance Supervisor",
+            "company": "Company Name, City, State",
+            "start_date": "July 2011",
+            "end_date": "November 2012",
+            "description": "Managed and coordinated maintenance/production activities for 30 subordinates; supervised and provided technical guidance to maintenance personnel performing UH-60 A/L aircraft and subsystem maintenance; evaluated maintenance operations and facilities for compliance with directives, technical manuals, work standards, safety procedures, and operational policies; implemented process improvements to decrease cycle time and streamline work processes."
+        },
+        {
+            "title": "Technical Inspector",
+            "company": "Company Name, City, State",
+            "start_date": "August 2010",
+            "end_date": "June 2011",
+            "description": "Inspected, monitored, observed and evaluated maintenance operations to ensure compliance with the latest maintenance manuals and to ensure that all documentation is thoroughly and accurately researched and accomplished; reported deficiencies and recommended corrective actions; ensured standard procedures for conducting ground tests and preflight, daily, scheduled and unscheduled inspections; responsible for the overall operation of the Inspection Department with authority to release airframes, engines, appliances and component parts."
+        },
+        {
+            "title": "Quality Assurance Evaluator",
+            "company": "Company Name, City, State",
+            "start_date": "June 2007",
+            "end_date": "June 2010",
+            "description": "Served as a Quality Assurance Evaluator (QAE) for the Aviation Center Logistics Command, coordinating with the Aviation Training Brigade (ATB) and the maintenance contractor; monitored contractor performance and resolved issues related to maintenance techniques, work accomplishment, and technical compliance; implemented the Contracting Officer Representative's quality assurance plan, including QA inspections (QAESP) and evaluations of contractor maintenance and repair (Aircraft Availability Inspection) in support of organizational and intermediate maintenance on assigned aircraft types."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Technical or Occupational Certificate",
+            "school": "North Central Institute",
+            "year": "2009"
+        }
+    ],
+    "certifications": [
+        "Instructor Certification for UH-60 A/L Helicopters",
+        "Cadre Training Course(CTC)",
+        "UH-60 M Helicopter Course",
+        "UH-60 A/L Helicopter Repairers Course",
+        "Fundamentals of Systems Acquisition Management ACQ101 Section 308",
+        "Risk Management CLM017",
+        "Production, Quality & Manufacturing Fundamentals PQM101 Section 302"
+    ],
+    "languages": []
+}

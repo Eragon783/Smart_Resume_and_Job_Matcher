@@ -1,0 +1,96 @@
+{
+    "name": "Dr. Rahman",
+    "email": null,
+    "phone": null,
+    "location": "Dhaka, Bangladesh",
+    "summary": "Public health consultant with MPH and MBBS, experienced in GMP program implementation, immunization, maternal and child health, and community health campaigns. Skilled in program design, data reporting, health education, and stakeholder engagement.",
+    "skills": [
+        "Anatomy",
+        "Biochemistry",
+        "Oral",
+        "Delivery",
+        "Dermatology",
+        "Documentation",
+        "English",
+        "Family Medicine",
+        "Genetics",
+        "GMP",
+        "Health Education",
+        "Immunization",
+        "Immunology",
+        "Internal Medicine",
+        "Excel",
+        "PowerPoint",
+        "Microsoft Word",
+        "Molecular Biology",
+        "OB/GYN",
+        "Ophthalmology",
+        "Pathology",
+        "Pediatrics",
+        "Pharmacology",
+        "Physiology",
+        "Program Implementation",
+        "Promotion",
+        "Psychiatry",
+        "Public Health",
+        "Speaking",
+        "Read",
+        "Reporting",
+        "Research",
+        "SPSS",
+        "Surgery",
+        "Teaching",
+        "Urdu",
+        "Written",
+        "Hindi"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2015-10",
+            "end_date": "2015-11",
+            "description": "Identified GMP program implementation deficits and suggested recommendations for improvement; reviewed project documentation to locate gaps; conducted field visits to four districts in southwest to observe and provide technical input to ongoing child nutrition activities with specific focus on GMP sessions; located gaps in program participation and data reporting and monitoring; presented research findings to relevant stakeholders."
+        },
+        {
+            "title": "Public Health Campaign Volunteer",
+            "company": "UNICEF & WHO in Bangladesh",
+            "start_date": "1998-09",
+            "end_date": "2003-05",
+            "description": "Participated in campaigns for ante-natal check-ups and educating mothers about breastfeeding; conducted physical examinations, provided treatment and follow-up; contributed to Expanded Program on Immunization (EPI) including vaccination campaigns (DPT, MMR, BCG). Volunteered during medical studies."
+        },
+        {
+            "title": "Volunteer / Community Health Campaign Participant",
+            "company": "Red Crescent Society of Bangladesh",
+            "start_date": "1996-06",
+            "end_date": "2003-09",
+            "description": "Engaged in community education about maternal health (eclampsia); promoted ORS usage to reduce diarrhea-related mortality; participated in blood donation campaigns, collected donor histories, and provided medical information."
+        },
+        {
+            "title": "Physician (Family Medicine)",
+            "company": "Dr. Shahina Motalib, Dhaka, Bangladesh",
+            "start_date": "2003-09",
+            "end_date": "2005-05",
+            "description": "Treated patients, performed physical examinations, provided consultations and follow-up services."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MPH",
+            "school": "George Washington University",
+            "year": 2016
+        },
+        {
+            "degree": "MBBS",
+            "school": "Bangladesh Medical College, University of Dhaka",
+            "year": 2003
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Bengali",
+        "English",
+        "Hindi",
+        "Urdu"
+    ]
+}

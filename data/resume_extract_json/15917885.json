@@ -1,0 +1,64 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [
+        "approach",
+        "coaching",
+        "clients",
+        "Journalism",
+        "market research",
+        "marketing",
+        "media relations",
+        "messaging",
+        "Microsoft Office",
+        "PR",
+        "recruitment",
+        "retail",
+        "sales",
+        "San",
+        "scheduling",
+        "strategic"
+    ],
+    "experience": [
+        {
+            "title": "Senior Account Executive",
+            "company": "Company Name, City, State",
+            "start_date": "10/2011",
+            "end_date": "Current",
+            "description": "Serve as day-to-day contact for senior level Microsoft clients (e.g. collaborate, strategize and counsel on approach to business problem and/or storytelling goals) Oversee strategic storytelling efforts in major metropolitan markets that aim to grow consumer perceptions of Microsoft and its positive impact on a community (e.g. markets include New York, San Francisco, Seattle, Boston, Los Angeles etc.) Integrate with internal and external stakeholders on messaging, narrative development and communications plans support a holistic storytelling approach (e.g. PR, social, product, marketing, stakeholders etc.). Maintain lasting relationships with top-tier influencers across a variety of tech and consumer sectors on behalf of clients like Microsoft, Volvo and Safeway. Manage junior level team members, offer career coaching and mentorship Managed and grew Microsoft Office brand ambassador program (e.g. which worked to drive brand awareness, credibility and shift consumer perceptions through notable consumer lifestyle bloggers and influencers via online and social campaigns Drove strategic campaign development and execution for Microsoft Office events and key seasonal moments (e.g. holiday, back to school, etc.)."
+        },
+        {
+            "title": "Public Relations Associate",
+            "company": "Company Name, City, State",
+            "start_date": "10/2009",
+            "end_date": "10/2011",
+            "description": "Provided public and media relations/public affairs support for Walmart stores in Oregon (e.g., market research, public outreach, public sentiment monitoring, political analysis, building and maintaining relationship with statewide nonprofits and other stakeholders). Managed media relations and executed ongoing awareness campaign for an alternative youth education program (Oregon National Guard Youth Challenge Program). Managed healthcare association, Oregon Society of Physician Assistants (e.g., membership recruitment, conference planning and execution)."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name, City, State",
+            "start_date": "01/2008",
+            "end_date": "10/2009",
+            "description": "Managed team of up to 10 sales associates (e.g., scheduling, sales coaching and retail operations). Ensured that associates are successfully marketing the Fossil brand. Coached associates on sales floor; trained new associates on company values and sales expectations."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name, City, State",
+            "start_date": "01/2007",
+            "end_date": "12/2007",
+            "description": "Promoted to people manager; managed team of 80-plus employees; sought and recruited brand reps (e.g., conducted interviews, hired and led new employee orientations). Worked as visual manager (e.g., supervised visual and marketing layouts and brand presentation)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A",
+            "school": "University of Oregon",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

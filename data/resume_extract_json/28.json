@@ -1,0 +1,110 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Netanya, Israel",
+    "summary": "Full stack developer with 7+ years of experience. Front-end ~70%: TypeScript, React, Redux; back-end ~30%: JavaScript, Node.js, MongoDB. Experienced in building corporate web applications, REST APIs, integration with external services, and database design.",
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "JAVA",
+        "PHP",
+        "C++",
+        "HTML5",
+        "CSS3",
+        "Node.js",
+        "REST API",
+        "jQuery",
+        "Bootstrap",
+        "Material Design",
+        "React",
+        "React Router",
+        "React Day Picker",
+        "React Carousel",
+        "Redux",
+        "Redux Thunk",
+        "Redux DevTools",
+        "Styled Components",
+        "Context API",
+        "Axios",
+        "Fetch",
+        "Lodash",
+        "Nodemon",
+        "Google Maps API",
+        "Google Geocoding API",
+        "Express",
+        "Spring",
+        "Spring Boot",
+        "Multithreading",
+        "Maven",
+        "Lombok",
+        "Swagger",
+        "Hibernate",
+        "MongoDB",
+        "MongoDB Atlas",
+        "Firebase",
+        "MySQL",
+        "NoSQL",
+        "SQL",
+        "Eclipse",
+        "IntelliJ IDEA",
+        "WebStorm",
+        "VS Code",
+        "GitHub",
+        "Heroku",
+        "Postman",
+        "React Router",
+        "React Day Picker",
+        "React Carousel",
+        "Material-UI",
+        "3Ds Max",
+        "Photoshop",
+        "Illustrator",
+        "CorelDraw",
+        "Grid",
+        "Flex",
+        "CSS Modules",
+        "Google Maps API"
+    ],
+    "experience": [
+        {
+            "title": "Full Stack Developer",
+            "company": "Optisor LTD",
+            "start_date": "2021",
+            "end_date": "Present",
+            "description": "Rehovot, Israel. Built a corporate web application for a creative event agency. Responsibilities included designing and implementing the web interface, integrating approved design layouts, creating and populating pages, developing components and galleries, implementing registration and authorization for customers and admins, setting up a content management system, and database optimization. Technologies used: TypeScript, React, Redux, Material-UI, Axios, JavaScript, Node.js, Express, Nodemon, Google Maps API."
+        },
+        {
+            "title": "Front End Developer",
+            "company": "VClouds",
+            "start_date": "2019",
+            "end_date": "2021",
+            "description": "Moscow, Russia. Developed and maintained the corporate website. Implemented layout and functionality of web application components based on approved UI/UX, implemented an order management system, user registration for new customers, and content administration. Technologies used: JavaScript, React, Redux, Bootstrap, HTML, CSS, Firebase."
+        },
+        {
+            "title": "Front End Developer",
+            "company": "Insight",
+            "start_date": "2014",
+            "end_date": "2019",
+            "description": "Moscow, Russia. Worked on a training center automation web app: created components to display courses with filters and sorting, implemented authorization for different user groups, managed routing based on user type, and built statistics components with data visualization. Also contributed to an online store project: order management, registration and authorization, order administration, content pages, and database/site management. Technologies used: HTML, CSS, JavaScript, PHP, Laravel, Bootstrap, MySQL."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor Degree in System Programming",
+            "school": "Moscow State University (MSU)",
+            "year": "2009"
+        },
+        {
+            "degree": "Special program for adaptation of software developer according to Israel IT technologies",
+            "school": "Tel-Ran Educational Center",
+            "year": "2021"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Hebrew",
+        "English",
+        "Russian"
+    ]
+}

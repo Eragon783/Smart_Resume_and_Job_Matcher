@@ -1,0 +1,81 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Lead Maintenance Mechanic with 7+ years experience specializing conveyor equipment, sortation systems, Crisplant S2000 tilt tray sorters. Electrical and mechanical maintenance experience with spare parts inventory, preventative maintenance programs, and IT/network connectivity support.",
+    "skills": [
+        "Conveyor systems maintenance",
+        "Electrical maintenance",
+        "AC motors",
+        "Sensors",
+        "Controls",
+        "Crisplant S2000 tilt tray sorters",
+        "Sortation systems",
+        "Spare parts inventory",
+        "Preventive maintenance",
+        "Ethernet/TCP-IP networking",
+        "IT/network connectivity",
+        "Team leadership",
+        "Pallet rack installation",
+        "Video surveillance installation (CCTV) and IP networking",
+        "VFD installation and tuning",
+        "Forklifts / order pickers / aerial work platforms",
+        "Mechanical troubleshooting",
+        "Belt conveyors",
+        "Live rollers"
+    ],
+    "experience": [
+        {
+            "title": "Lead Maintenance Mechanic",
+            "company": "Company Name, City, State",
+            "start_date": "2016-06",
+            "end_date": "Present",
+            "description": "Supervised a team of four mechanics; provided onsite technical guidance and skill development; planned and executed the preventative maintenance program on various conveyor systems; coordinated with management across the distribution center; oversaw facility maintenance duties; handled parts purchasing and vendor lead times; continued hands-on equipment work; served as primary contact for external vendors; onsite IT contact for connectivity; implemented CCTV as an IP solution and configured Hikvision servers; developed and implemented equipment preventative maintenance program; maintained data and accountability."
+        },
+        {
+            "title": "Maintenance Mechanic",
+            "company": "Company Name, City, State",
+            "start_date": "2014-06",
+            "end_date": "2016-06",
+            "description": "Performed preventive maintenance on mechanical systems (conveyors); unscheduled, and emergency repairs on mechanical systems. Replaced gearboxes, reducers, sprockets, chains, and most mechanical drive components. Modified mechanical systems to improve reliability and availability; specified replacement parts for obsolete motor control components; performed AC motor replacement; troubleshooting, replacement, and repair of various motor and control components (photoelectric switches, encoders, tachometers, inductive proximity sensors, limit switches, emergency stop hardware, speed control (VFD), PC back planes, solenoids, float switches, pressure switches, motor starters, motor overloads, branch circuit protection); worked extensively on belt conveyors and live rollers; specialized in repair and maintenance of Crisplant S2000 tilt tray sortation system; installed pallet racking systems per engineering drawings; operated with minimal supervision."
+        },
+        {
+            "title": "Maintenance Technician",
+            "company": "Company Name, City, State",
+            "start_date": "2013-06",
+            "end_date": "2014-06",
+            "description": "Maintained various mechanical systems, primarily conveyors; maintained various electrical systems on conveyors; maintained and repaired industrial battery chargers and batteries; performed facilities maintenance duties as needed; maintained high bay, egress, and exterior lighting; installed CCTV components and cabling; installed Ethernet cabling."
+        },
+        {
+            "title": "Maintenance Helper",
+            "company": "Company Name, City, State",
+            "start_date": "2011-06",
+            "end_date": "2013-06",
+            "description": "Assisted mechanics with preventative maintenance on conveyor systems; assisted with electrical installations and repairs; performed basic facilities maintenance; assisted with assembly and repair of warehouse racking systems; performed maintenance on fleet industrial batteries."
+        },
+        {
+            "title": "Warehouse Associate",
+            "company": "Company Name, City, State",
+            "start_date": "2010-01",
+            "end_date": "2011-06",
+            "description": "Performed general warehouse duties pertaining to open stock; used RF handheld scanner; picking and packing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "West Deptford High",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        "Lock Out/Tag Out, 2016 - J. J. Keller & Associates, Inc.",
+        "Personal Protective Equipment, 2016 - J. J. Keller & Associates, Inc.",
+        "Electrical Safety: Training for Unqualified Employees, 2016 - J. J. Keller & Associates, Inc.",
+        "Fall Protection: Workplace Safety, 2016 - J. J. Keller & Associates, Inc.",
+        "Welding Safety, 2015 - J. J. Keller & Associates, Inc.",
+        "Machine Guard Safety, 2015 - J. J. Keller & Associates, Inc."
+    ],
+    "languages": []
+}

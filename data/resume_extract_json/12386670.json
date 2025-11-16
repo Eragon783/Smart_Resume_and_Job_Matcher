@@ -1,0 +1,58 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Tempe, Arizona, USA",
+    "summary": "Motivated teaching professional with over 22 years' experience addressing student needs and ensuring proper student development through formative assessments and student-centered innovations in curriculum implementation of art across multiple content fields. Highlights Creative lesson planning Adept classroom manager Differentiating instruction specialist Data-driven curriculum expertise Learning disabilities expertise Assessment techniques for documented growth Kind and empathetic Urban public schools background",
+    "skills": [
+        "Art Education",
+        "Curriculum Design and Development",
+        "Goal Setting",
+        "Leadership",
+        "Organizational skills",
+        "Instructional skills in mural painting",
+        "Photography",
+        "Hand-built ceramics",
+        "Claymation",
+        "Computer animation",
+        "Serigraphy",
+        "Graphic arts",
+        "Drawing",
+        "Lesson Plan Development",
+        "Creative problem solving"
+    ],
+    "experience": [
+        {
+            "title": "Arts Instructor",
+            "company": "Company Name - City , State",
+            "start_date": "08/1990",
+            "end_date": "05/2012",
+            "description": "Planned, implemented, monitored, and assessed a classroom instructional program which was consistent with Tempe and Arizona Board of Education Art standards. Taught visual arts, specializing in photography, serigraphy, ceramics, mural painting, mask making, glass mosaics and commercial graphic arts applications. Recognized success in art curriculum. Curriculum designed, developed and implemented daily lessons for 150 students daily. Effectively motivated students through interactive teaching with audio and visual aids and stimulation of the creative imagination. Good working relationships with parents to resolve conflicting educational priorities and issues. Successful experience in positions of leadership which demanded flexible problem solving skills and organizational abilities. Participated in regular training courses to keep up-to-date with new teaching methods and developments in the field. Used a variety of teaching methods such as lectures, discussions and demonstrations. Presented all class material and policies accurately and clearly for 8 classes each semester."
+        },
+        {
+            "title": "Arts Instructor",
+            "company": "Company Name - City , State",
+            "start_date": "01/1998",
+            "end_date": "01/2012",
+            "description": "Designed and implemented over 10 individually focused programs in the arts for after school programs including claymation, ceramics, mask making, drawing, photography, silk screening and painting. Methods Applied Curriculum Design: designed, developed and implemented daily lessons for 150 students daily. Education Strategies: employed special educational strategies and techniques during instruction to improve the development of sensory/perceptual-motor skills, language, cognition, and memory. Plan Development: planned and conducted activities for a balanced program of instruction, demonstration, and work time that provided students with opportunities to observe, question, and investigate. Goal Setting: established clear objectives for all lessons/projects and communicated with students, achieving a total understanding of grading rubric and overall class expectations. Technology Integration: increased student participation and test scores by introducing relevant computer programs and exercises to encourage student interest and enjoyment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters Degree in Secondary Education Curriculum Development",
+            "school": "Arizona State University",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelor of Fine Arts Photography",
+            "school": "Arizona State University",
+            "year": 1973
+        }
+    ],
+    "certifications": [
+        "Structured English Immersion K-12",
+        "Secondary Education 7-12 Certification",
+        "Art Certification K-12"
+    ],
+    "languages": []
+}

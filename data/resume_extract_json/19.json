@@ -1,0 +1,113 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Ashdod",
+    "summary": "Full Stack Java Developer with 5 years of total experience in frontend (70%) and backend (30%) development.",
+    "skills": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "SQL",
+        "HTML",
+        "CSS",
+        "VBA",
+        "Spring",
+        "Spring Boot",
+        "Spring Security",
+        "Lombok",
+        "Swagger",
+        "Hibernate",
+        "JUnit",
+        "Java Persistence API",
+        "Multithreading",
+        "Maven",
+        "jQuery",
+        "Bootstrap",
+        "REST",
+        "Kafka",
+        "Heroku",
+        "Angular",
+        "Material Design",
+        "React (Redux, Context API, Formik, Axios, Lodash, Hooks)",
+        "Vue.js",
+        "Node.js",
+        "IntelliJ IDEA",
+        "WebStorm",
+        "Eclipse",
+        "VS Code",
+        "Xcode",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Git",
+        "Bitbucket",
+        "GitHub",
+        "Jira",
+        "Agile",
+        "Scrum",
+        "OOP",
+        "JSON",
+        "Design Patterns",
+        "Microservices",
+        "Dependency Injection",
+        "Mac OS",
+        "Windows",
+        "Adobe Creative Suite: Photoshop, Illustrator, XD, Dreamweaver, Acrobat Professional",
+        "MS Office: Access, Excel, Word",
+        "Figma",
+        "Mailchimp"
+    ],
+    "experience": [
+        {
+            "title": "Web Developer",
+            "company": "Naya Technologies, migVisor",
+            "start_date": "2020",
+            "end_date": "present",
+            "description": "Cloud database migration assessment; Developing responsive frontend website on Angular, Material Design; Troubleshooting and debugging application."
+        },
+        {
+            "title": "Full Stack Java Developer",
+            "company": "Inetex Ltd.",
+            "start_date": null,
+            "end_date": null,
+            "description": "Developing responsive frontend websites on Angular and React; Developing backend website application; RESTful web service based on Spring Boot; Creation, integration, and management of NoSQL databases on Firebase; Troubleshooting and debugging application."
+        },
+        {
+            "title": "Web Developer",
+            "company": "Regions Group",
+            "start_date": null,
+            "end_date": null,
+            "description": "Development and commercial real estate management; Production, maintenance, updating and optimization of frontend websites based on usability; Creating cascading style sheets that are consistent across all browsers and platforms; Identifying and troubleshooting various website issues and coding problems."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Mathematics and Computer Science in Finance",
+            "school": "Plekhanov Russian University of Economics",
+            "year": "2004"
+        },
+        {
+            "degree": "HTML",
+            "school": "Moscow, Russia",
+            "year": "2006"
+        },
+        {
+            "degree": "Web-Development",
+            "school": "Moscow, Russia",
+            "year": "2015"
+        },
+        {
+            "degree": "Full Stack Java Development",
+            "school": "Rehovot, Israel",
+            "year": "2018"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hebrew",
+        "Russian"
+    ]
+}

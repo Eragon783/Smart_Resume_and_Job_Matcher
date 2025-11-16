@@ -1,0 +1,50 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Marketing Manager accomplished in all aspects of campaign development, including copywriting and editing, list selection, email, social media marketing and production. Excited to grow with a company that is innovative, groundbreaking and revolutionary in the fields of journalism and social media.",
+    "skills": [
+        "Creative Writing",
+        "Public Speaking",
+        "Social Media Savvy",
+        "Event Planning"
+    ],
+    "experience": [
+        {
+            "title": "Finance Director",
+            "company": "Company Name",
+            "start_date": "10/2012",
+            "end_date": "Present",
+            "description": "Liaison between Blacks Interested in Business and the Council. Created fundraising events to sponsor annual conference Allocated the councils finances to different committees for a productive annual conference Ensured financial responsibilities were being met on a weekly basis. Advocated for the council for funding from the university , raised $2000."
+        },
+        {
+            "title": "Advocate",
+            "company": "Company Name",
+            "start_date": "08/2012",
+            "end_date": "Present",
+            "description": "Mentor minority freshman women through their first year at the University Create programming that would aid in the esteem and retention of SIS participants Liaison between first year students and resources on campus."
+        },
+        {
+            "title": "Vice President",
+            "company": "Company Name",
+            "start_date": "08/2013",
+            "end_date": "01/2014",
+            "description": "Managed the progress of committee chairs, while maintaining positive professional relationships with other organizations on campus. Serve as contact personal for the Minority Student Leadership Council. Speaker of the House during service events Created events that expanded beyond the College of Business into the Communications Department."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Journalism",
+            "school": "Southern Illinois University",
+            "year": 2015
+        },
+        {
+            "degree": "Associate of Arts in Creative Writing",
+            "school": "Lincoln College",
+            "year": 2012
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

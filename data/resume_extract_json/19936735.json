@@ -1,0 +1,50 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Executive profile focused on broadcast management, media sales, radio station programming and on-air broadcast execution.",
+    "skills": [
+        "Media Consulting and Digital Content Analysis",
+        "Syndicated Development and Management",
+        "Affiliate Sales Management and Analysis",
+        "Radio and Podcasting",
+        "Brand Management",
+        "Development",
+        "Digital Content Delivery and Music Scheduling",
+        "Social Media Integration and SEO",
+        "Website Development and Consulting Services"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "April 2013",
+            "end_date": "Current",
+            "description": "Our team creates and develops national programming for radio stations across the country. We syndicate and distribute radio shows, imaging packages and media content. Working as a Consultant with local radio stations, national radio shows, major record labels and social media integrators of media."
+        },
+        {
+            "title": "Sr. Director",
+            "company": "Company Name",
+            "start_date": "November 2009",
+            "end_date": "February 2014",
+            "description": "Directed and coordinated affiliate sales and on-air personnel. Developed, maintained and coordinated syndicated radio programs. Developed and managed 24 hour national radio formats."
+        },
+        {
+            "title": "Operations Director, Brand Manager and On-Air Personality",
+            "company": "Company Name",
+            "start_date": "January 2001",
+            "end_date": "November 2009",
+            "description": "Executed content delivery for WWDM-FM. Managed daily operations of WWDM-FM, coordinated promotions for the local sales team and on-air production. Ranked #1 with Persons both 18-34 and 24-54."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts in Mass Communications",
+            "school": "Lincoln College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "India",
+    "summary": "Seasoned Financial Markets professional with over 12 years of experience in Global Financial Markets Sales & Trading across the Corporate and Institutional space in India. Skill Highlights include developing and sustaining strong client relationships, delivering solutions based on analytical skills, and suitability for both independent and collaborative work. Project management, product development, and risk management experience.",
+    "skills": [
+        "Bloomberg",
+        "Reuters",
+        "MS Office",
+        "Global Markets",
+        "Sales & Trading",
+        "Advisory & Execution",
+        "Product development",
+        "Risk management",
+        "Project management",
+        "Credit & Risk assessment",
+        "Regulatory compliance",
+        "Client relationship management",
+        "Financial analysis"
+    ],
+    "experience": [
+        {
+            "title": "Senior Associate",
+            "company": "Company Name, City",
+            "start_date": "2012-12",
+            "end_date": "2016-06",
+            "description": "Advisory & execution to Corporate & Institutional clients across Foreign Exchange, Interest Rates & Commodities; reviewed client accounts and results; analyzed financial information to meet financial & risk objectives; supported portfolio performance reviews and new loan transaction quality; contributed to product structuring and launch of new products; collaborated on off-shore service delivery and multi-geographical client engagement; performed due diligence for fraud and compliance in new client onboarding; assisted senior credit officers with complex loan applications."
+        },
+        {
+            "title": "FX Dealer",
+            "company": "Company Name, City",
+            "start_date": "2009-05",
+            "end_date": "2012-12",
+            "description": "Market making & proprietary trading in spot (USD/INR) and G7 currencies; managed INR risk and liquidity funding in coordination with money market desk; monitored Net Open Position (NOP) and Aggregate Gap Limit (AGL); developed pricing mechanism and oversaw the launch of an electronic trading platform; franchise building through regular interaction with Sales and Clients; supported offshore counterparts and contributed to daily market commentary and research publications."
+        },
+        {
+            "title": "Associate",
+            "company": "Company Name, City",
+            "start_date": "2004-05",
+            "end_date": "2009-03",
+            "description": "Provided advisory & execution capabilities to manage Foreign Exchange & Interest Rate hedging flows for Corporate Coverage Group; led a two-trader team on the High Frequency trading desk for top-tier clients using technical and fundamental analysis; generated and managed FX flows; priced and executed currency options including vanilla, barrier, and exotic structures; contributed to system setup and implementation of a new in-house trade capture system."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Post Graduate Diploma in Business Administration: Finance & Marketing",
+            "school": "S.I.E.S College of Management Studies",
+            "year": 2004
+        },
+        {
+            "degree": "Bachelor of Commerce: Accounting and Finance",
+            "school": "Mumbai University",
+            "year": 2001
+        },
+        {
+            "degree": "Post Graduate Diploma in Export-Import Management",
+            "school": "Indian Merchant Chambers",
+            "year": 2001
+        }
+    ],
+    "certifications": [
+        "CPA (in progress)"
+    ],
+    "languages": []
+}

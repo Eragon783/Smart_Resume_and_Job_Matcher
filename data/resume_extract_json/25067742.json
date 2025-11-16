@@ -1,0 +1,67 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Well qualified and results oriented Accounting Professional with over fourteen years of successful experience in positions of increasing responsibility in dynamic entertainment companies. Skilled at training staff in Accounts Payable and Receivable and Payroll functions and creating effective teams. Highlights Windows XP, Microsoft Office (Outlook, Excel, Word), QuickBooks Enterprise 17.0, Timberline, File Maker, POS. Accomplishments General Ledger Accounts Maintained accurate accounts including cash, inventory, prepaid, fixed assets, accounts payable, accrued expenses and line of credit transactions.",
+    "skills": [
+        "General Accounting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Microsoft Office",
+        "Outlook",
+        "Windows XP",
+        "Word",
+        "Excel",
+        "QuickBooks Enterprise 17.0",
+        "Timberline",
+        "FileMaker",
+        "POS"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "Present",
+            "description": "Responsible for all aspects of accounts payable, receivable and payroll. Banking liaison: reconciled statements, credit card and additional reconciliations. Month end analysis, closing and production of month and year end financial reporting. Preparation of monthly commission reports. Control and monitoring of complex, high volume Production Petty Cash and daily Cash Report. Preparation of 1099-s."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2009-01",
+            "description": "Supervised, trained and managed a staff of four permanent employees, plus interns. Oversaw the general accounting department areas: accounts payable, receivable and payroll. Banking liaison: reconciled statements, credit card, lockbox and additional reconciliations. Month end analysis, closing and production of month and year end financial reporting. Preparation of monthly commission reports. Control and monitoring of complex, high volume Production Petty Cash process."
+        },
+        {
+            "title": "Junior Accountant",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2006-01",
+            "description": "Responsible for all aspects of accounts payable and accounts receivable functions. Reorganizing and reconciling online based business transactions. Bank, credit card and other reconciliations. Month end analysis and closing. Managed and trained college interns. Preparation of royalty reports. Preparation of 1099-s."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Accounting",
+            "school": "Phoenix University/US-Florida-Miami",
+            "year": "Present"
+        },
+        {
+            "degree": "Certificate - Bookkeeping Fundamentals",
+            "school": "Sheridan Technical Center/US-Florida-Miami",
+            "year": "2003"
+        },
+        {
+            "degree": "Bachelor of Arts Degree in Business Administration",
+            "school": "CUC University /Colombia",
+            "year": "1998"
+        }
+    ],
+    "certifications": [
+        "Bookkeeping Fundamentals Certificate"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

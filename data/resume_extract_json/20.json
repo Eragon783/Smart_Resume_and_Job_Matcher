@@ -1,0 +1,68 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Main stack: PHP, Node.js, React.js (Redux, Mobx), MySQL/PostgreSQL. Don't have experience but would like to develop skills with Python, Golang, MongoDB, Angular, and Vue.js. Don't want to work with CSS/LESS/SASS.",
+    "skills": [
+        "PHP",
+        "Node.js",
+        "React.js",
+        "Redux",
+        "Mobx",
+        "MySQL",
+        "PostgreSQL",
+        "Python",
+        "Golang",
+        "MongoDB",
+        "Angular",
+        "Vue.js",
+        "ReactNative",
+        "Docker",
+        "AWS",
+        "Heroku",
+        "Webpack",
+        "ES6",
+        "Backbone.js",
+        "Symfony 2.8",
+        "ExtJS",
+        "Chrome Extensions"
+    ],
+    "experience": [
+        {
+            "title": "Full Stack Developer",
+            "company": "Tanndu",
+            "start_date": null,
+            "end_date": "present",
+            "description": "Experience with external APIs; Integrated PayPal and authorization with Apple/Google/Facebook; Gained experience in ReactJS (Redux, MobX), ReactNative, PHP, MySQL, Docker, Chrome Extensions; Deployed projects on AWS/Heroku; Was involved in the hiring process developer positions, interviewed candidates."
+        },
+        {
+            "title": "Full-Stack Developer",
+            "company": "BOOKIE iGaming",
+            "start_date": null,
+            "end_date": null,
+            "description": "Implemented new features; Developed strong skills in React JS, Backbone.js, Node.js, PHP; Migrated the project from gulp + RequireJS to Webpack (ES6); Acquired software design pattern knowledge; Gained eld relevant experience; On-job skills advancement for career growth; Learned good programming practices from seasoned developers."
+        },
+        {
+            "title": "Full-Stack Developer",
+            "company": "Mapsoft",
+            "start_date": null,
+            "end_date": null,
+            "description": "Implemented new features; Managed bug xes; Gained experience in Symfony 2.8, ExtJS."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Engineering-Psychological Maintenance Of Information Technologies",
+            "school": "Belarusian State University of Informatics and Radioelectronics",
+            "year": "2017-2021"
+        },
+        {
+            "degree": "Associate's Degree in Information Technology Software",
+            "school": "MCB",
+            "year": "2012-2017"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

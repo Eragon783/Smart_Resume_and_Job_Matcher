@@ -1,0 +1,103 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Overnight Pharmacy Technician Professional Summary Highly motivated and skilled individual with extensive background experience in customer service, administration, retail; long-term care; and hospital pharmacy. Studied Intro to Pharmacy, Anatomy & Physiology, Medical Terminology, Pharmacology & Pharmaceutical Calculations. Trained in the principles of Pharmacy Math and Dosages with knowledge of unit dose and medication preparation.",
+    "skills": [
+        "Trained in compounding intravenous and chemotherapy admixtures",
+        "Extensive training in calculating and compounding pediatric admixtures and chemotherapy",
+        "Sterile environment for compounding IVs",
+        "Ability to manage multiple tasks in a fast-paced environment",
+        "Strong organizational skills",
+        "Inventory management",
+        "Medication compounding expert",
+        "Pharmaceutical storage awareness",
+        "HIPAA trained",
+        "Exceptional patient care and interaction",
+        "Meticulous attention to detail",
+        "Excellent multi-tasker",
+        "Works well under pressure",
+        "Able to work with hands continuously",
+        "Ability to handle fast-paced environment",
+        "Strong decision-making ability",
+        "Efficient and accurate",
+        "Strong clinical background",
+        "Accomplished in pediatrics",
+        "Hospital and retail pharmacy professional",
+        "Large cash/check deposits expert",
+        "Customer service expert",
+        "Adaptive team player",
+        "Opening/closing procedures",
+        "Focused on customer satisfaction",
+        "Cash handling",
+        "Reliable team worker",
+        "Food and beverage handling expert",
+        "Strong customer relationship builder",
+        "Alcohol knowledge",
+        "Strong leader"
+    ],
+    "experience": [
+        {
+            "title": "Overnight Pharmacy Technician",
+            "company": "Company Name",
+            "start_date": "October 2014",
+            "end_date": "Present",
+            "description": "Fill all scheduled and stat patient orders. Process all refill requests in Care Connection, charge patient, print, and fill patient order. Fill all code carts, clot boxes, or any other emergency drug kits. Take inventory of all batched IV compounds based on set par levels and drug stability. Answer phone calls to assist Pharmacists in resolving any questions or problems that do not require and RPh. Compound all routine IV order while paying special attention to all STAT IV orders that are extremely time sensitive in severe situations. Compound any chemotherapy orders using appropriate personal protective equipment, correct supplies for closed-system compounding, and correct calculations for appropriate dosage."
+        },
+        {
+            "title": "Pharmacy Technician Registry",
+            "company": "Company Name",
+            "start_date": "August 2014",
+            "end_date": "April 2015",
+            "description": "Fill unit dose medications, as well as compounding admixtures STAT orders for patients. Prepare and refill the anesthesia, epidural, and crash cart trays to be replaced in carts. Collect and prepare all medications and patient orders for Pyxis. Refill the Pyxis machine with correct medications, pull all outdated medications, as well as returns/discontinued patient medications. Sterile compounding of all IV fluids using aseptic technique."
+        },
+        {
+            "title": "IV Technician",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "April 2015",
+            "description": "Compound all intravenous admixtures using proper sterilization techniques. Correctly label all IV compounds with accurate patient, drug, and facility information. Scan all orders to designated totes sorted by facility. Restock all supplies used for orders and place an order with purchaser for any items that are low in stock."
+        },
+        {
+            "title": "Control Technician/Control EDK Technician/Fill Floor Technician",
+            "company": "Company Name",
+            "start_date": "April 2013",
+            "end_date": "January 2014",
+            "description": "Control Technician- Fill and send narcotic prescription orders for patients. Take inventory of all narcotics on hand everyday. Control EDK Technician- Take inventory of all returned narcotic Emergency Drug Kits, document all drugs removed by nursing facilities, and replenish missing drugs in each box. Fill floor technician-Fill and send prescriptions orders for patients, as well as non-sterile compounding of topical and oral medications."
+        },
+        {
+            "title": "Certified Pharmacy Technician",
+            "company": "Company Name",
+            "start_date": "July 2012",
+            "end_date": "May 2013",
+            "description": "Verify prescription, count medication, label, and dispense. Type and process new prescriptions. Ordering medication through warehouse or McKesson. Troubleshooting insurance problems. Comprehensive knowledge about HIPAA laws."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "April 2012",
+            "end_date": "October 2012",
+            "description": "Successful leader, equally effective as member of a team. Highly organized able to multi-task and accomplish multiple objectives. Professional demeanor and attentive to detail. Expertise in coordinating and supervising school functions and activities."
+        },
+        {
+            "title": "Cashier / Server",
+            "company": "Company Name",
+            "start_date": "May 2008",
+            "end_date": "January 2012",
+            "description": "Cross trained as cashier and wait staff in fast-paced restaurant. Cashing out all orders on the register and retrieving customer's items. Extensive cash handling in large amounts. Calculating using basic math to give appropriate amount of change to customers. Assisted in the training of all new employees. Delivered exceptional service to all customers in a timely and friendly manner inside dining room and pick up areas of the restaurant. Served all customer who were dining in their food as well as mixing all alcoholic and non-alcoholic."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science in Pharmacy",
+            "school": "Rasmussen College",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "Certified Pharmacy Technician – State of Illinois",
+        "Licensed Pharmacy Technician – State of Illinois"
+    ],
+    "languages": []
+}

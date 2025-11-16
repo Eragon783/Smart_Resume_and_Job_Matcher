@@ -1,0 +1,46 @@
+{
+    "name": "Ibukun M. Ogunade",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Results-driven animal nutritionist with research and teaching experience; expertise in dairy nutrition, food safety, and feed supplementation strategies.",
+    "skills": [
+        "Great organizational skills",
+        "Good numerical and analytical skills"
+    ],
+    "experience": [
+        {
+            "title": "Graduate Research Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "2013-07",
+            "end_date": "Present",
+            "description": "Ongoing research on: 1) effect of prototype sequestering agents on performance and milk aflatoxin M1 concentrations of dairy cows fed aflatoxin B1-contaminated diets; 2) effect of selected lactic acid bacteria on the microbial composition and the survival of pathogens in the rumen in context with their probiotic effects on ruminants; 3) an in-vitro study on the use of tropical plants and essential oils in mitigating methanogenesis in ruminant."
+        },
+        {
+            "title": "Assistant Lecturer",
+            "company": "Company Name, City, State",
+            "start_date": "2010-08",
+            "end_date": "2013-06",
+            "description": "Instructed a class of 156 students in animal feed and feeding; lectured and communicated effectively with students from diverse backgrounds; inspired students to translate their academic interests into real-world actions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. in Ruminant Nutrition",
+            "school": "University of Florida",
+            "year": 2017
+        },
+        {
+            "degree": "Master of Science in Monogastric Nutrition",
+            "school": "University of Agriculture",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelor of Agriculture in Animal Nutrition",
+            "school": "University of Agriculture, Abeokuta",
+            "year": 2009
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

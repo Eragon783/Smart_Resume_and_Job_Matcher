@@ -1,0 +1,89 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Enthusiastic, hard working, former military trainer and course delvoper who has designed and taught course for use in the United States Air Force and JCM Global. Qualifications Currently Working on MS in Instructional Design Great Group Worker Able to analyze data to find trends Won Diamond Sharp award for leadership and professionalism Experience working with high level management Experience",
+    "skills": [
+        "Public Speaking",
+        "Adult Learning Theory",
+        "Articulate Storyline",
+        "Microsoft Office Suite",
+        "ATD Certified",
+        "Adaptability",
+        "Adult Training Theory",
+        "Management",
+        "Leadership",
+        "Electronic Warfare",
+        "Avionics",
+        "Instructional Design",
+        "Computer Based Training",
+        "Learning Management System",
+        "Online Learning",
+        "Online Training",
+        "Budget",
+        "Liaison",
+        "Maintenance"
+    ],
+    "experience": [
+        {
+            "title": "Technical Trainer/ Instructional Designer",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "Present",
+            "description": "Develop training classes for customers; Develop Computer Based Training, Webinar training, Hybrid Training, and train clients face-to-face; work with subject matter experts; review technical documents; track training progress and due dates; work with customers to determine if and what type of training is required; Train peers, temp employees, and management; review evaluations and use data to adjust the training plan. Accomplishments: Developed and implemented online training including implementation of back end LMS; created twelve online training classes in less than one year."
+        },
+        {
+            "title": "Electronic Warfare Technician",
+            "company": "Company Name",
+            "start_date": "2013-05",
+            "end_date": "2014-05",
+            "description": "Train personnel on use of equipment, procedures, customs and courtesies. Accomplishments: Was liaison between EW shop, Combat Shield Team, and leadership."
+        },
+        {
+            "title": "Combat Shield Lead",
+            "company": "Company Name",
+            "start_date": "2009-05",
+            "end_date": "2013-05",
+            "description": "Manage Combat Shield program to ensure all test and evaluations were met for each year; ensured program stayed within the budget given; provided feed back to AF leadership to ensure aircraft were combat capable; developed training course used Air Force Wide; briefed Air Force Leadership on findings and suggestions for improvement. Accomplishments: Co-authored Technical documents; Developed training initiative called Project House Call to address shortfalls in the education command; trained military and civilian personnel world wide; won Diamond Sharp award for professionalism and leadership."
+        },
+        {
+            "title": "Electronic Warfare Production Supervisor",
+            "company": "Company Name",
+            "start_date": "2007-06",
+            "end_date": "2009-05",
+            "description": "Ensure EW pod production outpaced the need of the aircraft; reviewed work schedule to ensure maximum use of personnel; documented all work related actions; train personnel on maintenance and troubleshooting; Brief the Shop Chief on status and repairs. Accomplishments: Worked with Subject Matter Experts to set up the first test stand for new pods; First military person certified to work on newest EW pod."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MS in Instructional Design",
+            "school": "Saint Leo University",
+            "year": "2017"
+        },
+        {
+            "degree": "Associate of Arts in Criminal Justice",
+            "school": "Community College of the Air Force",
+            "year": "2015"
+        },
+        {
+            "degree": "Bachelor of Arts in Criminal Justice",
+            "school": "Saint Leo University",
+            "year": "2014"
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "University of Phoenix",
+            "year": "2010"
+        },
+        {
+            "degree": "AA in Criminal Justice",
+            "school": "Saint Leo University",
+            "year": "2012-2014"
+        }
+    ],
+    "certifications": [
+        "ATD Certified Trainer"
+    ],
+    "languages": []
+}

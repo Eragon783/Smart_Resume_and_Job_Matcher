@@ -1,0 +1,64 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "From my first job as a retail salesperson, I had a passion for leadership and the development of others. As a Human Resources professional I have had the privilege of working with new staff members to help them be successful in the organization. My Human Resources experience is comprised of Generalist responsibilities where I have been able to contribute to the betterment of the organization and play a key role in increasing retention for my employer.",
+    "skills": [
+        "HR policies and procedures",
+        "Employee handbook development",
+        "Staff training and development",
+        "New employee on-boarding",
+        "Off-boarding",
+        "Employment law knowledge",
+        "Payroll expertise",
+        "Benefits administration",
+        "Organized",
+        "Maintains confidentiality",
+        "Microsoft Office Suite",
+        "Creative problem solving",
+        "Attention to detail",
+        "Computer proficiency",
+        "Customer service",
+        "Benefits",
+        "Payroll",
+        "Records management",
+        "Employee relations",
+        "On-boarding and training",
+        "HRIS",
+        "ADP and Sage payroll"
+    ],
+    "experience": [
+        {
+            "title": "HR COORDINATOR",
+            "company": "Girl Scouts of Gulfcoast Florida",
+            "start_date": "12/2011",
+            "end_date": "Current",
+            "description": "Implemented new technology to manage volunteer information, progressed the on-boarding program for newly hired employees, and engaged in all aspects of human resources. Improved how the organization manages volunteer information and approvals by learning, implementing, and training others on a new computer program. Oversaw the volunteer approval process including background screening. 1000+ new volunteers and 1000+ existing volunteers are re-screened each year. Designed new employee packages and sent them via mail and e-mail. Resolved personnel issues regarding HR matters needing clarification, submissions and corrections. Post and audit job postings; draft department-specific employee announcements. Explain HR policies and procedures to all employees. Manage communication regarding employee orientation and open enrollment for benefits. Process all salary changes stemming from merit increases, promotions, bonuses and pay adjustments. Address inquiries from employees and management regarding new-hire activity and ongoing employee relations issues. Work with senior-level management to create fair and consistent HR policies and procedures. Guide clients on how to conduct background checks and verify references. Advanced the on-boarding process by creating a positive, comprehensive new hire experience; conduct all new hire training; oversee completion of required paperwork and documentation. Manage employee benefits enrollment and termination; comprehensive knowledge of benefit details. Key contributor to the revision of corporate background screening policy, practices, and legal adherence."
+        },
+        {
+            "title": "HUMAN RESOURCES/OFFICE MANAGER",
+            "company": "Company Name City, State",
+            "start_date": "06/2003",
+            "end_date": "04/2011",
+            "description": "Conducted benefits administration for benefit-eligible employees. Worked with senior-level management to create fair and consistent HR policies and procedures. Developed an employee handbook, including content and layout. Guided the development and management of HR operations and processes for the organization. Created and managed confidential personnel records. Managed personnel files according to policy and federal and state law and regulations. Generated employee tracking reports each month. Offered consistent payroll disbursement with accurate record keeping of employee PTO and vacation accruals. Managed communication regarding employee orientation and open enrollment for benefits. Resolved personnel issues regarding human resources matters needing clarification, submissions and corrections. Planned and led training programs on staff development. Provided support for CEO and sales team in managing operation work flow. Handled and processed confidential client information."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Organizational Leadership",
+            "school": "Regent University",
+            "year": "2011"
+        },
+        {
+            "degree": "Bachelor of Science in Apparel and Merchandising",
+            "school": "Colorado State University",
+            "year": "1991"
+        }
+    ],
+    "certifications": [
+        "PHR/SPHR preparation course (2013)",
+        "Girl Scout University Leadership Series (2014)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [
+        "advertising",
+        "cash registers",
+        "Coach",
+        "conferences",
+        "cost reduction",
+        "Credit",
+        "Resolve customer complaints",
+        "clients",
+        "delivery",
+        "directing",
+        "employee training",
+        "financial statements",
+        "inventory",
+        "law enforcement",
+        "marketing strategies",
+        "meetings",
+        "money",
+        "personnel",
+        "policies",
+        "processes",
+        "product-marketing",
+        "reporting",
+        "sales",
+        "staffing",
+        "trade shows",
+        "trauma"
+    ],
+    "experience": [
+        {
+            "title": "Direct Client Coordinator- Counselor/ Victim Advocate",
+            "company": "Company Name City, State",
+            "start_date": "09/2014",
+            "end_date": "Current",
+            "description": "Conducts individual counseling sessions with clients to address social, emotional, and interpersonal deficits related to sexual trauma or abuse. Facilitates psychoeducational support groups consisting of 6 to 10 clients focusing on coping skills, emotional regulation, and sexual abuse recovery. Interacts with out of agency clinicians and external resources such as school or community personnel. Charts and records confidential information in client files. Effectively manages time and caseloads based on agency needs (counseling, court advocacy, groups, community education, etc.) Quickly responds to crisis situations when severe mental health and behavioral issues arose. Conducts outreach, advocacy and rehabilitative services for regular cases and crisis intervention. Collaborates with other programs and community agencies to enhance treatment processes for clients. Properly trained and supervised crisis- line volunteers.Strengthened agency rapport with law enforcement officers, court officials and community service agencies."
+        },
+        {
+            "title": "Sales Lead",
+            "company": "Company Name",
+            "start_date": "08/2012",
+            "end_date": "03/2014",
+            "description": "Oversee operations on and off the sales floor while directing employees. Resolve customer complaints regarding sales and service. Open and close cash registers, performing tasks such as counting money, separating charge slips, coupons, and vouchers, balancing cash drawers, and making deposits. Credit Coach\"- responsible for tracking the number of store credit cards opened each month, and holding employee training meetings to encourage sales. Recommend, select, and help locate or obtain merchandise based on customer needs and desires. Maintain knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices. Watch for and recognize security risks and thefts, and know how to prevent or handle these situations."
+        },
+        {
+            "title": "District Manager, Salon Manager, Marketing Manager",
+            "company": "Company Name City, State",
+            "start_date": "07/2010",
+            "end_date": "08/2013",
+            "description": "Manage staff at multiple tanning salons in the Salt Lake Valley, preparing work schedules and assigning specific duties. Determine staffing requirements, and interview, hire and train new employees, or oversee those personnel processes. Review financial statements, sales and activity reports, and other performance data to measure productivity and goal achievement and to determine areas needing cost reduction and program improvement. Develop and implement product-marketing strategies, including advertising campaigns or sales promotions. Perform sales floor work, such as greeting or assisting customers, stocking shelves, or taking inventory."
+        },
+        {
+            "title": "Salon Sales and Service Representative",
+            "company": "Company Name City, State",
+            "start_date": "11/2012",
+            "end_date": "08/2013",
+            "description": "Identify prospective customers by using business directories, following leads from existing clients, and attending trade shows and conferences. Assist new salon owners in all aspects of the business, including product and equipment purchase, software requirements, licensing requirements, marketing strategies, and more. Estimate or quote prices for tanning beds, tanning bulbs, service maintenance, credit terms, warranties, and delivery dates. Arrange and direct delivery and installation of products and tanning equipment. Consult with clients after sales or tanning bed installs to resolve problems and to provide ongoing support."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts: Psychology, MFT & PCC Dual Emphasis",
+            "school": "Brandman University",
+            "year": "2017"
+        },
+        {
+            "degree": "Bachelor of Science: Psychology",
+            "school": "University of Utah",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

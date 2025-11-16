@@ -1,0 +1,99 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Administrative Assistant with 1.5+ years in the medical field and 6+ years in customer service and sales. Holds an Associate of Applied Science in Medical Billing and Coding (Dec 2012) and related certifications. Seeking to leverage administrative, bookkeeping, and communications skills to support department operations.",
+    "skills": [
+        "Microsoft Office",
+        "Access",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "QuickBooks 2012",
+        "Medisoft",
+        "Electronic Medical Records (Practice Management Software Eyefinity)",
+        "OfficeMate (Practice Management Software Eyefinity)",
+        "ExamWRITER (Electronic Health Record Software)"
+    ],
+    "experience": [
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2012-06",
+            "end_date": "2013-06",
+            "description": "Assist with creating all documents and a bookkeeping/accounting system. Payroll and Bookkeeping. Tax preparation for accountants. Answer phones in a professional manner and take messages. Schedule Meetings. Post job openings and screen candidates. Completely run the office by myself."
+        },
+        {
+            "title": "Independent Consultant",
+            "company": "Company Name",
+            "start_date": "2012-02",
+            "end_date": "Present",
+            "description": "Market and sell high quality kitchen tools and accessories through in-home demonstrations, booths at trade shows and fundraiser programs. Create and publish monthly newsletters for customers and other consultants. Help plan, lead, and execute monthly kitchen consultant meetings and potential consultant workshops."
+        },
+        {
+            "title": "Paraoptometric Technician",
+            "company": "Company Name",
+            "start_date": "2008-05",
+            "end_date": "2009-10",
+            "description": "Answered phones, greeted patients, and scheduled patients, called in prescriptions to pharmacies, and set up patient referrals to other doctors. Gathered and recorded patient history. Performed pre-examination tests using techniques, procedures and equipment as instructed. Assisted optometrists conducting and recording patient examinations."
+        },
+        {
+            "title": "Sales and Service Specialist",
+            "company": "Company Name",
+            "start_date": "2007-10",
+            "end_date": "2008-03",
+            "description": "Accepted phone orders for flower arrangements. Represented items for 10 different companies. Reconciled customer issues. Accepted payments for orders. Issues credit when necessary. Answered customer questions."
+        },
+        {
+            "title": "Shift Lead / Assistant Manager",
+            "company": "Company Name",
+            "start_date": "2007-03",
+            "end_date": "2007-05",
+            "description": "Took and ordered inventory. Operated cash register. Prepared food following customers' specifications. Reconciled income and prepared and made bank deposits. Trained and scheduled employees and began interviewing employees when store closed. Assisted General Manager."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2006-03",
+            "end_date": "2007-09",
+            "description": "Answered questions regarding the store and its merchandise. Bagged / packaged purchases. Maintained a clean and safe work environment. Faced and cleaned shelves, counters, and tables. Computed sales prices and received cash or credit payment. Described merchandise and explained use, operation, and care of merchandise to customers. Greeted customers and ascertained what each customer wanted or needed. Helped customers try on or fit merchandise. Inventoried stock and requisitioned new stock. Maintained knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices. Opened and closed cash registers, performing tasks such as counting money, separating charge slips, coupons, and vouchers, balancing cash drawers. Placed special orders or called other stores to find desired items. Recommended, selected, and helped locate or obtain merchandise based on customer needs. Arranged and displayed merchandise to promote sales. Maintained awareness to ensure safety and to prevent theft."
+        },
+        {
+            "title": "Customer Service Rep",
+            "company": "Company Name",
+            "start_date": "2006-02",
+            "end_date": "2006-03",
+            "description": "Answered phone calls for RCA Electronics. Performed troubleshooting duties for customers. Logged information into computerized system. Looked up and cross referenced information in order to assist customers in an accurate manner."
+        },
+        {
+            "title": "Secretary",
+            "company": "Company Name",
+            "start_date": "2004-08",
+            "end_date": "2005-08",
+            "description": "Answered phone calls in a professional manner. Greeted customers. Completed shop tickets. Operated office machinery. Accepted payments and wrote receipts. Performed payroll and bookkeeping functions. Used a computer. Set up a website and listed cars for sale on the Internet. Completed paperwork for titling/retitling (title transfers)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates of Applied Science: Medical Billing and Coding",
+            "school": "Cowley County Community College",
+            "year": "2012"
+        },
+        {
+            "degree": "Medical Office Support - College Certificate",
+            "school": "Cowley County Community College",
+            "year": ""
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Stillwater High School",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Certified Paraoptometric (expires 11/2012)"
+    ],
+    "languages": []
+}

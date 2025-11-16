@@ -1,0 +1,89 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced Corporate Recruiter who is self-motivated, results driven, highly responsive and able to prioritize effectively to accomplish multiple tasks and stay calm under pressure. Offering over 6 years of recruiting, human resources and staffing experience with a Bachelor's Degree in Human Resources Management. Experience with full life-cycle recruiting of qualified IT professionals including college graduates, experienced software developers, business/technical consultants, sales executives, project managers, and executive level staff. Highlights Excellent interpersonal, communications and negotiation skills Pro-active and creative sourcing strategies Full life-cycle recruiting Infor Talent Management Thrive in a fast paced environment Knowledge of EEO/AA regulations Experience with online recruiting sources College recruiting Extremely adept working with multiple hiring managers Comfortable handling high requisition load On-boarding New hire orientation HR management ADP Workforce Now Benefits Administration Strong MS Office skills including Word, Excel, PowerPoint and Outlook",
+    "skills": [
+        "Recruiting",
+        "Staffing",
+        "Training",
+        "College Recruiting",
+        "Sourcing",
+        "Phone screens",
+        "Interviewing",
+        "Negotiation",
+        "Recruiting Events",
+        "New Hires",
+        "On-boarding",
+        "HRIS/ATS",
+        "HR Administration",
+        "Employee Issues",
+        "Terminations",
+        "Recruiting Best Practices",
+        "Performance Evaluations",
+        "EEO",
+        "Human Resources Management",
+        "MS Office Suite"
+    ],
+    "experience": [
+        {
+            "title": "Recruiting and HR Manager",
+            "company": "ENAVATE (and Celenia North America)",
+            "start_date": "06/2015",
+            "end_date": "Current",
+            "description": "Responsible for managing and leading the recruitment process to meet staffing goals across ENAVATE and Celenia North America (Development, Delivery/Consulting, Sales/Marketing, Operations, Program Management, Managed Services, and Shared Services). Develop recruitment strategies to achieve required staffing levels; manage all recruiting activities from sourcing to hiring; create and update recruiting processes, forms, and tools; maintain partnerships with hiring managers; develop specific recruiting plans; execute sourcing strategies; create/update job descriptions; pre-screen, interview and coordinate interviews; provide information to candidates; coach on interview techniques; develop training for managers; manage relationships with agencies; coordinate onboarding; identify process gaps and measure progress."
+        },
+        {
+            "title": "Talent Acquisition Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "11/2014",
+            "end_date": "05/2015",
+            "description": "Recruitment of Shift Supervisors, Assistant General Managers, General Managers, Area Managers, and Regional Operation Managers across over 450 locations in the U.S. Source talent via CareerBuilder, LinkedIn Recruiter, Indeed, and Snagajob. Post and manage job ads; review applications and resumes; conduct phone screens, interviews, and background/reference checks; provide candidate feedback; generate offers; communicate with hiring/area managers; implement recruiting best practices; provide virtual support for field management; train managers on recruiting strategies; track candidates in the ATS; develop new recruitment initiatives."
+        },
+        {
+            "title": "Manager of Employee Recruitment & Development/Recruitment Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "05/1999",
+            "end_date": "10/1999",
+            "description": "Led recruiting efforts for experienced software developers, testers, sales managers, and executive staff; guided full recruiting lifecycle from screening to offers; managed campus/internet recruitment channels and employee referral program; handled employee issues for the Denver office (90+ employees); prepared ER&D reports for Executive Board; supervised HR Generalist and Benefits Administrator."
+        },
+        {
+            "title": "Regional HR Manager/Recruiter",
+            "company": "Company Name, City, State",
+            "start_date": "01/1998",
+            "end_date": "01/1999",
+            "description": "Regional HR Manager for Denver office (75 employees). Conduct orientations and exit interviews; HR administration; coordinate training and benefits; visa processing; manage HRIS data; participate in staffing meetings; develop staffing pipeline; recruit software developers, technical consultants, project managers and IT professionals; represent at career fairs and manage referrals; advise managers on policies."
+        },
+        {
+            "title": "Corporate Recruiter/Staffing",
+            "company": "Company Name, City, State",
+            "start_date": "05/1995",
+            "end_date": "11/1998",
+            "description": "Recruitment of technical and functional IT professionals; represented firm at job fairs; reviewed thousands of resumes; developed training materials for campus interviews; conducted campus interviews; managed staffing pipeline; collaborated with Denver-based recruiting team; acted as Staffing Coordinator for Telecommunications Group."
+        },
+        {
+            "title": "Human Resources Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "06/1994",
+            "end_date": "05/1995",
+            "description": "Coordinated recruiting process; set up interviews; screened candidates; extended job offers; conducted new hire orientations; handled health, dental, 401k and HR inquiries; assisted with benefits administration; maintained automated HRIS; developed service award program; coordinated company-sponsored programs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Management of Human Resources",
+            "school": "Colorado Christian University",
+            "year": 1997
+        },
+        {
+            "degree": "Real Estate License",
+            "school": "Armbrust Real Estate Institute",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Colorado Real Estate Brokers License"
+    ],
+    "languages": []
+}

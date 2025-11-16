@@ -1,0 +1,74 @@
+{
+    "name": "L Goodwyn",
+    "email": "",
+    "phone": "",
+    "location": "New York City, NY",
+    "summary": "Freelance Graphic Designer with cross-disciplinary experience in web and print design, branding, and jewelry industry marketing. Proficient in Adobe Creative Suite (Photoshop, InDesign, Illustrator, Acrobat), typography, layout, color management, image retouching, and HTML/CSS. Experienced in development of logos, icons, and marketing materials for high-end brands; skilled in coordinating photo shoots, production pipelines, and social media/website updates.",
+    "skills": [
+        "Adobe Creative Suite (Photoshop, InDesign, Illustrator, Acrobat)",
+        "Typography",
+        "Layout design",
+        "Color management",
+        "Image editing/retouching",
+        "Image/file preparation",
+        "Packaging",
+        "Press checks",
+        "Web design (HTML & CSS)",
+        "CMS (Tumblr, Squarespace, WordPress)",
+        "Microsoft Office (Word, Excel, PowerPoint)",
+        "Outlook",
+        "Mac OS",
+        "Branding",
+        "Photography",
+        "Jewelry design & fabrication"
+    ],
+    "experience": [
+        {
+            "title": "Freelance Graphic Designer",
+            "company": "Self-employed / Freelance",
+            "start_date": "2016-05",
+            "end_date": "Present",
+            "description": "Influential graphic designer for a high-end jewelry company in New York City; branding, logo/icon development, and marketing collateral. Built WYNDesigns jewelry brand and contributed to multi-platform campaigns. Created a multifunction icon for Evolve.Space and collaborated with founder to realize vision for web and print."
+        },
+        {
+            "title": "Graphic Designer & Assistant",
+            "company": "Madison Avenue Jewelry Boutique (owned by Ann Ziff)",
+            "start_date": "2012-04",
+            "end_date": "2016-01",
+            "description": "Lead graphic designer producing advertisements, exhibition invitations, and marketing materials; managed production for print and web; updated boutique website and social media; coordinated events and offsite shoots; oversaw jewelry production fabrication; handled client communication and inventory."
+        },
+        {
+            "title": "Owner & Designer",
+            "company": "WYNDesigns",
+            "start_date": "2011-11",
+            "end_date": "2012-03",
+            "description": "Designed and sold bespoke key chains; built brand presence in Amethyst jewelry boutique; donated pieces to charity auctions; created jewelry pieces using metalworking skills (sketching, sawing, welding, soldering, polishing)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Studio Art",
+            "school": "Rollins College",
+            "year": "2011"
+        },
+        {
+            "degree": "Jewelry Essentials, Colored Stone Essentials, Diamond Essentials",
+            "school": "Gemological Institute of America (GIA)",
+            "year": "2013"
+        },
+        {
+            "degree": "Metal Sculpture and Wire Jewelry (summer program)",
+            "school": "University of Edinburgh, College of Art",
+            "year": "2009"
+        },
+        {
+            "degree": "Introduction to Metal Jewelry (summer program)",
+            "school": "Rhode Island School of Design",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "GIA Accredited Gemologist Professional"
+    ],
+    "languages": []
+}

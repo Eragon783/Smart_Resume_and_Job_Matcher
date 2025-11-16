@@ -1,0 +1,121 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A dynamic, results-oriented, and highly talented in Process Technology and Engineering with couple of years experience who has consistently received high ratings for technical and chemical expertise. Expertise in a wide range of manufacturing processes and manufacturing control systems. Demonstrated success in developing, implementing and managing new processes to improve quality and productivity. Skills include: process troubleshooting and maintenance of equipment/instrumentation. Experienced in quality control, statistical process controls, lean six-sigma, route cause analysis, sample chemical analysis, safety awareness as a fast paced learner and consistent team player. Well organized, innovative, and reliable who is able to work in any setting that requires a technical and a professional attitude. Proven ability in operating equipment, instrumentation, systems and operations in a safe manner.",
+    "skills": [
+        "API",
+        "approach",
+        "attention to detail",
+        "basic",
+        "color",
+        "hardware",
+        "content",
+        "conversion",
+        "data analysis",
+        "documentation",
+        "downstream",
+        "drivers",
+        "film",
+        "interpretation",
+        "inventory",
+        "inventory control",
+        "ISO9000",
+        "laser",
+        "math",
+        "Excel",
+        "Microsoft Office",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "Monitors",
+        "oil",
+        "policies",
+        "problem solving",
+        "processes",
+        "profit",
+        "quality",
+        "receiving",
+        "safety",
+        "shipping",
+        "specification",
+        "statistics",
+        "strategic",
+        "team player",
+        "troubleshooting",
+        "upgrades"
+    ],
+    "experience": [
+        {
+            "title": "Aviation Fuel Quality Control Specialist",
+            "company": "Company Name",
+            "start_date": "June 2010",
+            "end_date": "Current",
+            "description": "Regularly inspects equipments, valves, strainers, pipes, filters and hoses for any leakage or abnormality. Proven ability to leverage engineering skill-set by applying math, science, and engineering knowledge to provide a disciplined approach to problem solving. Known as a resourceful and innovative personality. Routinely performs icing inhibitor additive (prist) percentage concentration test using refractometer. Uses thermo hydrometer for API Gravity fuel test and correct temperature factor to 60F. Monitors differential pressure on filter vessels and nozzle pressure in PSI. Conducts color membrane and particulate test on downstream filtration. Executes line tracing and measures level underground fuel tanks."
+        },
+        {
+            "title": "Quality Implementation Assistant",
+            "company": "Company Name",
+            "start_date": "June 2010",
+            "end_date": "August 2011",
+            "description": "Collected strategic experimental data for analysis; used basic statistical tools and route cause analysis. Participated in the implementation of ISO9000 policies. Supported quality analysis on all new projects. Fully participated in external and internal audits as well as unscheduled inspections that assess safety of operations and safety processes, and followed through on recommended actions to improve performance. Initiated and reviewed environmental impact studies and sets appropriate procedures to meet guidelines. Prepared safety statistics for operations; evaluated against KPIs to ensure continuous improvements. Played a leading and instrumental role in the development of a detailed and complex Facility Security. Planned and was fully responsible for all subsequent awareness and refresher training for all directives. Conducted audits and identified health and safety hazards according to established policies and procedures."
+        },
+        {
+            "title": "Formulation Chemist",
+            "company": "Company Name",
+            "start_date": "July 2008",
+            "end_date": "September 2009",
+            "description": "Performed on Polyvinyl Alcohol functionalization and neutralization for the production of nelfilicon polymer. Demonstrated expertise while working either independently or as a comprehensive team player. Duties included analysis of aqueous polyvinyl alcohol for percentage of solids such as nitrogen, acetate content. Handled synthesized of batch processes of N-Acryloylaminoacetaldehyde-Dimethyl Acetal (NAAADA) by applying innovative methods of extraction, separation, distillation, salination, and purification. Assured that the chemical discharges were not higher than the regulated allowable limit in collected samples. Initiated the preparation of Irgacure used as photointiator for the production of nelfilicon polymer."
+        },
+        {
+            "title": "Quality Software Tester",
+            "company": "Company Name",
+            "start_date": "April 2003",
+            "end_date": "July 2006",
+            "description": "Increased profit by reducing defects to the lowest level by working with the vendor to the rework components. Initiated failure mode statistical data analysis and studied satellite signal behaviors at various transponders. Reviewed hardware and software to ensure they meet requirements prior to inputting into IT system. Provided attention to detail to detect errors early on in the process before errors became business issues. Management recognized for ability to understand and resolve issues related to hardware/software systems."
+        },
+        {
+            "title": "Inventory Associate",
+            "company": "Company Name",
+            "start_date": "April 1998",
+            "end_date": "January 2002",
+            "description": "Packaged tools and parts according customer specification. Duties included shipping/receiving of orders. Directed warehouse employees and drivers to ensure consistency in inventory receiving and restocking. Responsibilities included: inventory control, shipping/receiving, employee safety, and hazardous training."
+        },
+        {
+            "title": "Process Development Technician",
+            "company": "Company Name",
+            "start_date": "January 1994",
+            "end_date": "January 1998",
+            "description": "Managed prototype process for laser diode manufacturing, and studied sputtering uniformity deposition. Collaborated with engineers and managers regarding optical design parameters. Collected experimental data for analysis and interpreted yield results. Certified/trained on course of optical design for engineers. Provided troubleshooting of automated production equipment problems (conveyer belts, line equipment). Supported the development and implementation of solutions to improve line performance and reliability. Implemented process changes; maintained equipment for building fiber mount units. Installed software, conducted upgrades, trained operators, and identified ways to reduce production costs."
+        },
+        {
+            "title": "Research and Development Assistant",
+            "company": "Company Name",
+            "start_date": "July 1994",
+            "end_date": "December 1997",
+            "description": "Scaled up and modeled low pressure chemical vapor deposition processes. Conducted uniformity experiment on polysilicon film deposition. Worked out to identify transport phenomena and chemical reactions influencing these strategic processes. Called upon to determine parameters that fractional conversion depends on flow rate inside the reactor. Duties included final inspections and creation of quality documentation outlining inspection procedures. Maintained a professional attitude when handling laboratory work to ensure and verify expected results."
+        },
+        {
+            "title": "Analytical Chemist",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": null,
+            "description": "Conducted analysis of petroleum hydrocarbons, extraction of oil and grease, biological oxygen demand, and total organic carbon. Prepared standard and buffer stocks, blanks and spikes for determining of analysis. Managed and supervised the project sampling and analysis plan; converted data into a field executable sampling plan, securing laboratory services, ordering project supplies, and providing chains of custodies; demonstrated ability in providing expert opinion and results interpretation of data quality and usability to the project teams or regulatory customers to meet company regulatory deliverables and milestones."
+        }
+    ],
+    "education": [
+        {
+            "degree": "A.A.S. in Process Technology",
+            "school": "Lee College",
+            "year": "2012"
+        },
+        {
+            "degree": "Bachelor of Science in Chemical Engineering",
+            "school": "New Jersey Institute of Technology",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

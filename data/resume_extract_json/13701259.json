@@ -1,0 +1,61 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Senior Accounting Professional with extensive experience in accounting and finance. Visionary with strategic analytical skills; practical, articulate and creative with proven ability to improve an organization's financial health. Lean Six Sigma certified; strong negotiation and ROI focus, vendor relations and customer service.",
+    "skills": [
+        "Cost control",
+        "Month-end reconciliation and analysis",
+        "Budgeting and forecasting",
+        "Financial statements reporting",
+        "Analytical and critical thinker",
+        "Self-starter",
+        "Lean Six Sigma",
+        "Internal and external auditing",
+        "Vendor relations",
+        "Customer service",
+        "Negotiation"
+    ],
+    "experience": [
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name",
+            "start_date": "2009-11",
+            "end_date": "2016-01",
+            "description": "Managed Subsidy Revenue and A/R for over 70 contracts totaling $53M. Included monthly closings, journal entries, reconciliations and analysis; prepared invoices, audit lead-schedules, budgeting and forecasting; improved revenue recognition and cash flow; negotiated payment plans; led cross-functional discussions with Executives and Legal to ensure compliance and accurate revenue reporting; streamlined billing and A/R processes, reducing outstanding balances and bad debt."
+        },
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name",
+            "start_date": "2006-02",
+            "end_date": "2009-11",
+            "description": "A health care organization with annual revenue over $5M, specializing in drug and alcohol rehabilitation."
+        },
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2009-01",
+            "description": "A health care organization that operated a contract with the State of Florida Department of Juvenile Justice to provide psychiatric and other behavioral health services principally to at-risk troubled female youth. Maintained day-to-day financial activities including payroll, AR, AP, month-end closings; performed financial statement reconciliations, GL analysis and variance analysis; cost containment and cash management; collaborated with corporate office to ensure integrity of financial information; contributed to pre-merger due diligence and company-wide consolidation planning."
+        },
+        {
+            "title": "Controller",
+            "company": "Company Name",
+            "start_date": "2001-01",
+            "end_date": "2006-01",
+            "description": "Prepared financial statements, GL, reconciliations and variance analysis; cost containment and cash management; compiled periodic financial packages; supported external audits; partnered with CFO on accuracy and integrity of financial information; merger due diligence; supervised AR team of 3; managed HR records; HR compliance and safety program administration; contributed to Horizon Health acquisition transition; reduced costs through vendor consolidation and in-house collections; implemented automated timekeeping; improved payroll accuracy and productivity."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Accounting",
+            "school": "Mercy College",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Lean Six Sigma certified"
+    ],
+    "languages": []
+}

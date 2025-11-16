@@ -1,0 +1,122 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "IT MANAGEMENT Career Overview Detail-oriented professional with extensive Information Technology experience in hardware and software troubleshooting/management. With additional experience in networking, task automation, server technologies, digital graphic design, client + server side programming technologies and popular industry software packages including Microsoft Office and Adobe Creative Suite.",
+    "skills": [
+        "A+ certified",
+        "ActionScript",
+        "Active directory",
+        "administrative",
+        "Adobe Creative Suite 5",
+        "Photo",
+        "Audio",
+        "Brochure",
+        "newsletter formatting",
+        "budgeting",
+        "business management",
+        "CMS",
+        "Hardware",
+        "computer repair",
+        "consulting",
+        "Content Management",
+        "CSS",
+        "CSS3",
+        "HTML",
+        "HTML5",
+        "PHP",
+        "Information security",
+        "Java",
+        "Java programming",
+        "JavaScript",
+        "Linux",
+        "Logic",
+        "Logo",
+        "Mac OS",
+        "managing",
+        "marketing",
+        "Medical technology",
+        "Microsoft Office",
+        "office",
+        "Windows",
+        "Windows 95",
+        "Network engineering",
+        "network",
+        "Networking",
+        "newsletter",
+        "Operating Systems",
+        "Organization development",
+        "Programming",
+        "protocols",
+        "Prototyping",
+        "Search Engine Optimization",
+        "servers",
+        "Storyboarding",
+        "TCP/IP",
+        "Telephony",
+        "Phone 7.0",
+        "Troubleshooting",
+        "upgrade",
+        "video",
+        "video editing",
+        "Web Development I",
+        "Website",
+        "website management",
+        "Windows Server",
+        "Wiring",
+        "Electronic circuits",
+        "Prototyping"
+    ],
+    "experience": [
+        {
+            "title": "IT Management",
+            "company": "Company Name – City, State",
+            "start_date": "March 2012",
+            "end_date": "November 2012",
+            "description": "In charge of planning, budgeting, and executing all IT projects. In addition to office troubleshooting, building/managing the company website and designing/updating the business's electronic newsletter."
+        },
+        {
+            "title": "Information Technology Consultant",
+            "company": "Company Name – State",
+            "start_date": "July 2011",
+            "end_date": "February 2012",
+            "description": "Contracted IT consulting work from client computer repair to network expansion."
+        },
+        {
+            "title": "Information Technology Consultant",
+            "company": "Company Name – City, State",
+            "start_date": "May 2011",
+            "end_date": "July 2011",
+            "description": "In charge of company website management, social media administration, as well as assisting in administrative tasks."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science: Information Technology",
+            "school": "Lyons Township",
+            "year": 2014
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Lyons Township",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "CompTIA A+ certified (2012)",
+        "CompTIA Net+ certification class",
+        "MCSA certification class"
+    ],
+    "languages": [
+        "Java",
+        "JavaScript",
+        "PHP",
+        "HTML",
+        "HTML5",
+        "CSS",
+        "CSS3",
+        "XML",
+        "ActionScript"
+    ]
+}

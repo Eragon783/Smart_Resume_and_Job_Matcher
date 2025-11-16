@@ -1,0 +1,73 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced Construction Equipment Operator and Carpenter that is hardworking, dependable, and reliable; offering extensive experience with heavy equipment operation. Highly motivated to produce quality work on tight deadlines with safety in mind and to exceed expectations.",
+    "skills": [
+        "Construction equipment operation",
+        "Carpentry",
+        "Training program development",
+        "Project management",
+        "Budgeting and cost reporting",
+        "Contract language interpretation",
+        "Blueprint reading",
+        "Concrete form construction",
+        "Concrete pouring",
+        "Masonry",
+        "Safety compliance",
+        "CDL Class A",
+        "Active Secret Clearance",
+        "AutoCAD",
+        "Microsoft Office Suite"
+    ],
+    "experience": [
+        {
+            "title": "Training Specialist - Construction Equipment",
+            "company": "Company Name, City, State",
+            "start_date": "October 2010",
+            "end_date": "present",
+            "description": "Serve as a Training Specialist and Training Manager for construction equipment the U.S. Army procures. Developed, updated, and managed training material that provides the Soldier on basic operation, techniques, and maintenance procedures for the various types of construction equipment that the U.S. Army's owns. Developed scope of work and contract language. Conducted reviews and provide recommendations on associated Technical Manuals for construction equipment before authentication and publishing in occurs. Evaluated training materials prepared by instructors. Monitored training costs and created budget reports for management."
+        },
+        {
+            "title": "Delivery Driver",
+            "company": "Company Name, City, State",
+            "start_date": "August 2000",
+            "end_date": "October 2010",
+            "description": "Delivered product and filling vending machines at all points of availability within established accounts. Completed a daily pre-trip inspection checklist before first delivery of the day. Operated motor vehicles in a safe and efficient manner. Loaded and unloaded merchandise at stores and vendor locations. Maintained a Commercial Drivers License Class A."
+        },
+        {
+            "title": "Combat Engineer: Construction Foreman, E-7",
+            "company": "Company Name, City, State",
+            "start_date": "February 1999",
+            "end_date": "present",
+            "description": "Platoon Sergeant of a 42 Marine size platoon responsible for the professional development, morale, health and welfare of Marines. Mentored Marines on the knowledge and procedures for: horizontal and vertical construction, blueprint reading, concrete form construction, concrete mixing and pouring, concrete saw operations, masonry work, concrete block and brick laying techniques, 250/260 CFM compressor operation and maintenance procedures, basic surveying techniques, soils testing, airfield damage repair, bridging operations, and security operations. Create bill of materials, drawings, and submitted supporting documentation required for construction projects as necessary. Maintained accountability for over 1.2 million dollars in tools and equipment. Awards: (3) Navy and Marine Corps Achievement Medals Iraq Campaign Medal with Bronze Star Global War on Terrorism Service Medal (4) Selected Marine Corps Reserve Medals National Defense Medal Armed Force Reserve Medal with Bronze Hour Glass and \"M\" Devices (3) Certificate of Commendations"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "Eastern Michigan University",
+            "year": 2015
+        },
+        {
+            "degree": "Associate of Applied Science",
+            "school": "Henry Ford Community College",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        "Program Management Level I",
+        "Life Cycle Logistics Level I",
+        "Life Cycle Logistics Level II",
+        "AutoCAD",
+        "Microsoft Office Suite",
+        "Troxler Nuclear Gauge Densometer",
+        "Radiation Safety Officer",
+        "Radioactive Commodity Identification/Transportation",
+        "Hazmat",
+        "CDL Class A",
+        "CPR"
+    ],
+    "languages": []
+}

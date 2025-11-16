@@ -1,0 +1,102 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Award-winning sales executive with international sales experience.",
+    "skills": [
+        "accounting",
+        "budget",
+        "cold calling",
+        "Credit",
+        "client",
+        "clients",
+        "staff training",
+        "Financial",
+        "Director",
+        "marketing",
+        "Market",
+        "Marketing and Management",
+        "materials",
+        "Excel",
+        "office",
+        "Outlook Express",
+        "Power Point",
+        "win",
+        "Word",
+        "networking",
+        "processes",
+        "promotion",
+        "public relations",
+        "relationship building",
+        "Restaurant Management",
+        "Sales",
+        "Sales Manager",
+        "telemarketing"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Associate",
+            "company": "Company Name",
+            "start_date": "January 2015",
+            "end_date": "Present",
+            "description": "Prospected and developed relationships for unqualified and qualified sales leads using Market Master, Salesforce, cold calls, and networking. Generated 60-70 sales calls per day and distributed sales materials to future clients. Secured appointments for District Managers and built relationships to secure new leads and appointments with proper contacts before or after qualification to support the sale."
+        },
+        {
+            "title": "Managing Director",
+            "company": "Company Name",
+            "start_date": "January 2000",
+            "end_date": "January 2015",
+            "description": "Marketing and Management Company for telemarketing firms and the hospitality/hotel industry. Managed projects for Accelerated Financial Center, LLC, M.R. Carter, LLC, The Ramada Inn (Stuart, FL), and the Tourist Information Center of Martin County. Responsible for telemarketing functions and sales, relationship building, and administration for two million-dollar companies handling consumer credit card interest rate reductions under the Federal Credit Card Act. Oversaw guest services, group sales, conference services, catering, and restaurant management with an annual budget of about $4 million. Initiated a cold-calling program and used CRS with the Ramada to prospect clients, promote sales, and develop client relationships."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "January 1999",
+            "end_date": "January 2000",
+            "description": "Developed and operated a small thirty-room upscale resort. Responsible for guest services, rooms, operations, accounting, and sales/marketing. Built a robust sales prospecting program for new clients and prospects through PR and consumer awareness. First-year revenue: $400,000."
+        },
+        {
+            "title": "Director of Sales",
+            "company": "Company Name",
+            "start_date": "January 1997",
+            "end_date": "January 1999",
+            "description": "Responsible for all sales and marketing staff and activities for the resort, including public relations, client base relationship, awareness building, and staff training to support sales promotions. Annual revenue exceeded $10 million."
+        },
+        {
+            "title": "Director of Travel Industry Sales",
+            "company": "Company Name",
+            "start_date": "January 1990",
+            "end_date": "January 1997",
+            "description": "Indian River Plantation Resort & Yacht Harbor. Managed positions including Manager on Duty, Group Sales Manager, and Director of Travel Industry Sales (Domestic and International). Led as leading Group Sales Manager for four years; appointed in 1995 as Director to develop international and domestic leisure markets, increasing leisure market room revenue by $2 million in 18 months."
+        },
+        {
+            "title": "Senior Group Sales Manager",
+            "company": "Company Name",
+            "start_date": "January 1980",
+            "end_date": "January 1990",
+            "description": "Trained in all departments: Management Trainee, Director of Conference Services & Catering, Group Sales Manager and Resort Manager on Duty. Responsible for groups and group bookings across Midwest, Northeast, and Florida markets. Implemented a sales process that improved the bottom line. Annual revenues exceeded $60 million. Led as Leading Group Sales Manager, exceeding goal production for 5 years."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "January 1975",
+            "end_date": "January 1980",
+            "description": "Concentration on group, front and back-of-house for the Food & Beverage Division. Primary employment during college."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S.B.A in Management",
+            "school": "Xavier University",
+            "year": ""
+        },
+        {
+            "degree": "M.B.A in Marketing & Finance",
+            "school": "Xavier University",
+            "year": "1978"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

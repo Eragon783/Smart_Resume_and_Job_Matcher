@@ -1,0 +1,65 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Israel",
+    "summary": "Executive summary: Simultaneously managing multiple projects with minimum direction and maintaining accuracy under pressure. Contributed to product development & product roadmap planning. Defined architecture of new iOS apps and developed them broadly from engineering and coding features to polishing user interfaces. Knowledge of UI design principles, patterns and practices. Self-starter with a strong work ethic and a passion for problem-solving.",
+    "skills": [
+        "Swift",
+        "Alamofire",
+        "SwiftyJSON",
+        "SwiftUI",
+        "CoreData",
+        "REALM",
+        "Firebase",
+        "MVP",
+        "MVVM",
+        "MVC",
+        "Autolayout",
+        "REST API",
+        "SOLID",
+        "Git",
+        "UI design principles"
+    ],
+    "experience": [
+        {
+            "title": "Independent Developer",
+            "company": "Independent Developer",
+            "start_date": "2021",
+            "end_date": "present",
+            "description": "Performed technical designs and implementations of iOS apps with user-friendly and intuitive interface. Improved product quality through code reviews, writing effective unit tests and collaborating with QA on implementing automation testing. Created an application called 'Mobile Wallet' to track finances; worked with Core Data, server data, and TableView. Experienced in CocoaPods, Alamofire and SwiftGen; three screens created using storyboard, two screens written in code. Gathered functional requirements, developed technical specifications and project test & planning."
+        },
+        {
+            "title": "IOS-Developer Intern",
+            "company": "Softteco",
+            "start_date": "2021",
+            "end_date": "2021",
+            "description": "Completed commercial projects. Managed teamwork by participating in groups to create apps. Learned to read any code in existing code-base and change it. Collaborated in multi-functional tasks and worked under pressure."
+        },
+        {
+            "title": "IOS-Developer",
+            "company": "365scores",
+            "start_date": "2022",
+            "end_date": "2022",
+            "description": "Working with RESTful APIs, Core Data and GCD. Made a WatchOS App with SwiftUI. Testing and debugging mobile application. Worked to expand/improve on an ongoing basis by adding new functionality and resolving existing issues."
+        }
+    ],
+    "education": [
+        {
+            "degree": "IOS Developer",
+            "school": "Programming School Teach me skills, Minsk",
+            "year": null
+        },
+        {
+            "degree": "Veterinary Paramedic",
+            "school": "Minsk Veterinary University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English (Upper Intermediate)",
+        "Russian (Fluent)",
+        "Belarusian (Advanced)"
+    ]
+}

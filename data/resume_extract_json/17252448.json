@@ -1,0 +1,58 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "I am a sports person by heart and a Civil engineer by profession. I am currently pursuing Master's in Civil Engineering at Auburn University. I am a seasoned construction professional with exceptional leadership and project management skills. Competent in team, budget and schedule oversight. Able to develop scopes, check field activities and update clients making me the perfect candidate for project management. I hold sports close to my heart and make sure to practice it in my daily life. I have been a national level tennis champion during my college days and am also a Registered tennis coach. I aspire to run a successful construction management firm in future.",
+    "skills": [
+        "Project scheduling",
+        "Estimating",
+        "Budget planning",
+        "Value engineering",
+        "Contract coordination",
+        "OSHA safety requirements",
+        "Auto-CAD",
+        "REVIT Architecture",
+        "Navisworks",
+        "RS Means",
+        "Streetsaver",
+        "Bluebeam",
+        "WinTR55",
+        "Kenslabs",
+        "BIM 360",
+        "MS Project",
+        "MS Office"
+    ],
+    "experience": [
+        {
+            "title": "Construction Project Manager",
+            "company": "Company Name - City, State",
+            "start_date": "01/2016",
+            "end_date": "04/2017",
+            "description": "Managed submittals and processing of Requests for Information between general contractor, owner and owner's consultants Mitigated risk, coordinating plans and specifications to ensure compliance with permitting and regulatory agencies Analyzed trade and material proposals and negotiated contracts Monitored construction operations for $2 Million dollar plus Housing Project Monitored, coached and supervised team of 25 employees in 2017 Maintained zero site accidents and lost work days for 1.5 years"
+        },
+        {
+            "title": "Site Supervisor",
+            "company": "Company Name - City, State",
+            "start_date": "01/2015",
+            "end_date": "12/2015",
+            "description": "Maintained Pile Driving heavy equipment, tools and machinery in good working order by efficiently completing Pile Driving Operations Initiated onsite safety program and properly trained all team members, decreasing injuries by 95% Sourced suppliers and purchased necessary materials for work Analyzed project blueprints and specifications to identify exact number of worker's needed to complete job Delegated assignments based on site plans, project needs and knowledge of individual team members"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Civil Engineering",
+            "school": "Auburn University",
+            "year": 2019
+        },
+        {
+            "degree": "Bachelor of Science in Civil Engineering",
+            "school": "L.J. Institute of Technology",
+            "year": 2017
+        }
+    ],
+    "certifications": [
+        "Professional Tennis Registry - Registered Tennis Coach"
+    ],
+    "languages": []
+}

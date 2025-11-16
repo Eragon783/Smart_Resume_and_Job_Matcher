@@ -1,0 +1,56 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Motivated student seeking entry-level position. Friendly, outgoing and energetic team player with hard-working and driven nature.",
+    "skills": [
+        "Great communication skills",
+        "excellent customer service",
+        "customer service experience",
+        "Customer service",
+        "fast",
+        "focus",
+        "inventory control",
+        "Multi- tasking",
+        "purchasing",
+        "quality"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name City , State",
+            "start_date": "01/2016",
+            "end_date": null,
+            "description": "Provided high-quality customer service to optimize customer purchasing and payment process. Initiated inventory control measures to sustain stock levels, and helped to order new inventories. Educated customers on available product options to meet and exceed customer service experience. Investigated and resolved customer complaints or issues to strengthen store reputation and grow customer retention."
+        },
+        {
+            "title": "Cafe Attendant",
+            "company": "Company Name City , State",
+            "start_date": "01/2014",
+            "end_date": "01/2015",
+            "description": "Maintained high standards of customer service during high-volume, fast-paced operations. Consistently provided friendly guest service and heartfelt hospitality. Promptly and empathetically handled guest concerns and complaints. Demonstrated integrity and honesty while interacting with guests, team members and managers. Greeted customers and provided excellent customer service."
+        },
+        {
+            "title": "Food Prep",
+            "company": "Company Name City , State",
+            "start_date": "01/2013",
+            "end_date": "01/2014",
+            "description": "Responsible for the production and plating of desserts. Ensured freshness of food and ingredients by checking for quality, keeping track of old and new items, and rotating stock. Helped with preparation, set-up, and service for catering events. Spoke with patrons to ensure satisfaction with food and service. Prepared food items."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Manchester Central High School",
+            "year": 2016
+        },
+        {
+            "degree": "Sociology and Justice Studies",
+            "school": "University of New Hampshire",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

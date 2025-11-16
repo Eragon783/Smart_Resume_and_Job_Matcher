@@ -1,0 +1,155 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Accomplished development professional with over ten years of experience in integrating IT Operations processes with sustainable customized applications to promote team performance and efficiency gains. An apt student in programming and markup languages matching multiple technologies together to best enhance and complement IT Service Management and Project Management best practices and deliver consistent, quality solutions in the fast-paced, evolving environment of technology.",
+    "skills": [
+        "Architecture",
+        "Automotive",
+        "Best Practices",
+        "Lean Manufacturing",
+        "Maintenance",
+        "Operations",
+        "Premier",
+        "Project Manager",
+        "Provisioning",
+        "Service Level Agreement",
+        "Software Development",
+        "Structured Software",
+        "Engineer",
+        "Testing",
+        "Training",
+        "Databases",
+        "Excel",
+        "MySQL",
+        "Solutions",
+        "Associate",
+        "Data Visualization",
+        "Integration",
+        "Integrator",
+        "Visualization",
+        "Budget",
+        "Corporate Communications",
+        "Streaming",
+        "CRM",
+        "Customer Relationship Management",
+        "Deployment",
+        "JavaScript",
+        "Sales",
+        "Trouble Tickets",
+        "XML",
+        "XSLT",
+        "Marketing",
+        "Image Processing",
+        "Optimization",
+        "Photoshop",
+        "Leads",
+        "Market Research",
+        "Real Estate",
+        "Sorting",
+        "Title Insurance",
+        "Visual Basic",
+        "Visual Basic For Applications",
+        "Data Warehouse",
+        "HTML",
+        "ITIL",
+        "It Procurement",
+        "Metrics",
+        "Oracle",
+        "Perl",
+        "PHP",
+        "Procurement",
+        "Technology Infrastructure",
+        "VBScript",
+        "Web Based",
+        "Web Services",
+        "Web-based"
+    ],
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "company": "Digital Media Solutions (VDMS)",
+            "start_date": "September 2012",
+            "end_date": "Present",
+            "description": "Customize the Service-Now platform using server-side and client-side JavaScript to complement the release of Incident, Problem, and Change management processes and policies. Utilize Jelly scripting, and the AngularJS and Bootstrap framework to produce automated management reports with custom UI and navigational features. Architect the Configuration Management Database (CMDB) to complement Service Operations processes, identifying known errors and driving down Incident resolution times. Integrate Confluence, JIRA, Service-Now, Active Directory, Bitbucket, and Git to synchronize data between both development and operations, utilizing both native configurations and extended capabilities via web services."
+        },
+        {
+            "title": "Technical Project Manager",
+            "company": "Edmunds.com",
+            "start_date": "January 2010",
+            "end_date": "September 2012",
+            "description": "Lead a team building out Continuous Integration and Continuous Delivery efforts utilizing Maven, Jenkins, Chef, CloudStack, and Selenium to build, deploy, and test in an automated fashion. Apply best practices in Agile SCRUM software development, lean manufacturing concepts, and lean startup principles to the IT Operations group to ensure support and maintenance projects are completed in a consistent and predictable manner. Foster a DevOps community within the organization by creating and promoting a framework that encourages early and frequent communication between development and operations in launching services, from resource provisioning through service architecture and Service Level Agreement (SLA) definitions."
+        },
+        {
+            "title": "Automation and Integration Engineer",
+            "company": "Company Name",
+            "start_date": "January 2008",
+            "end_date": "January 2010",
+            "description": "Extend the capabilities of the Service-Now application, including the development and implementation of the Service Catalog module in Service-Now, adding a corporate training calendar and tracking module, and improving Service Support workflows through business rules. Develop and maintain a data visualization (LAMP) application to inform management decisions and technical decisions through event correlation from multiple tools, such as Service-Now, Gomez, and Omniture."
+        },
+        {
+            "title": "Reports Engineer",
+            "company": "Company Name",
+            "start_date": "January 2005",
+            "end_date": "January 2008",
+            "description": "Program reports in the Request Tracker application and later in Service-Now, including automated data imports to other applications such as Excel, Confluence and MySQL databases."
+        },
+        {
+            "title": "Client Manager",
+            "company": "IVT",
+            "start_date": "January 2003",
+            "end_date": "January 2005",
+            "description": "Assess client business objectives and recommend suitable solutions within the allotted budget and time considerations, leveraging the power of video synchronized to animations, slides, text transcripts with interactive chat and polling components to the ideal level. Supervise and engage in the development, execution, and testing of client projects to ensure on time delivery within the client's demands and constraints. Manage client requests for enhancement (RFEs) to our products and generate functional specifications based on requirements, analysis and system design."
+        },
+        {
+            "title": "Senior Production Associate",
+            "company": "Company Name",
+            "start_date": "August 2000",
+            "end_date": "January 2003",
+            "description": "Employ programming knowledge (JavaScript, XML, XSL) to extend the power of IVT's proprietary software solution to meet client business objectives and needs. Responsible for the development, testing and deployment of a custom CRM web application to track client history, sales development, and trouble tickets. Assist the production staff in generating client assets and optimizing assets for web delivery. Design and develop webcast interfaces that are consistent with client color palettes."
+        },
+        {
+            "title": "Graphics Production Intern",
+            "company": "Company Name",
+            "start_date": "December 1999",
+            "end_date": "April 2000",
+            "description": "The online division of a major motion picture production house, Centropolis Interactive developed a loyal following for their online magazines aimed at science fiction and independent movie enthusiasts. Develop and implement procedures for automated bulk image processing and optimization, including batch functions in Photoshop for image watermarking for high-traffic, content rich websites."
+        },
+        {
+            "title": "Market Research Intern",
+            "company": "Company Name",
+            "start_date": "May 1999",
+            "end_date": "September 1999",
+            "description": "A leading firm for real estate services, since acquired by Fidelity National Financial to become the nation's largest title insurance company. Utilized Visual Basic for Applications to create sophisticated macros, formatting and sorting raw data from several different sources to streamline leads research practices."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in Economics; American Literature",
+            "school": "University of California",
+            "year": 2000
+        },
+        {
+            "degree": "B.A., Economics, Minor: American Literature",
+            "school": "University of California, Los Angeles (UCLA)",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        "ITIL Foundation",
+        "Service-Now Application Developer"
+    ],
+    "languages": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "Perl",
+        "XML",
+        "XSLT",
+        "JSON",
+        "PHP",
+        "MySQL",
+        "VBScript"
+    ]
+}

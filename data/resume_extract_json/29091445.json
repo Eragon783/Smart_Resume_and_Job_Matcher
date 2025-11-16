@@ -1,0 +1,70 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Professional with extensive experience in Human Resources in Oil & Gas Company. Wants to be part of an organization that allows me to utilize my strongest skills to achieve the goals for the company, as well as my own personal goals. Accomplishments MVP Award (Houston, 2009). Experienced in mobilization of expatriates and global HR processes including assignment offers, compensation packages, payroll, benefits, and policy development.",
+    "skills": [
+        "MS Office (Word, Excel, Outlook, PowerPoint)",
+        "SAP database",
+        "Applicant tracking system",
+        "Strong organizational and administrative skills",
+        "Develop and implement creative solutions with cost efficiency and deadlines",
+        "Articulate and effective communicator and trainer",
+        "Benefits administration",
+        "Employee relations",
+        "Policy development",
+        "Process invoices",
+        "Structured tasks"
+    ],
+    "experience": [
+        {
+            "title": "HR Generalist",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "Present",
+            "description": "Mobilized high volume expatriates overseas on short/long term assignments (accompanied/unaccompanied). Served as point of contact from beginning to end of expat/Inpat assignments. Directed and implemented HR policies and procedures; provided guidance to field HR managers. Created assignment offers with compensation packages including uplifts, base pay, per diem, and benefits. Managed employee relations, policy development, training, recruitment, payroll and benefits administration. Attended corporate planning meetings and helped rewrite international assignment policies and procedures. Interviewed and trained new employees. Administered Goods and Services review program biannually. Evaluated new hire documents and employee evaluations; provided extensive staff training. Assisted with employee benefits, payroll, HR systems and administrative issues. Managed regions: Germany, Kuwait, Brazil, Australia, Italy, Mexico, China, Zambia, Angola."
+        },
+        {
+            "title": "HR Associate Mobilization Coordinator",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2009-01",
+            "description": "Handled unemployment and workers' compensation claims; maintained personnel files; updated affirmative action plan. Resolved employee problems with sensitivity and timeliness. Presented company policies, procedures, philosophy, and benefits to new employees. Attended corporate planning meetings and assisted in policy/procedure writing. Arranged medical appointments, assignment paperwork, travel, lodging, and tax briefings. Prepared and processed personnel transfer paperwork. Prepared and distributed correspondence to internal and external candidates. Applied for entry and work visas. Managed regions: Nigeria, Chad, Indonesia, Algeria, Canada, Qatar."
+        },
+        {
+            "title": "Administrative Specialist Administrative Associate / Tax Assistant",
+            "company": "Company Name",
+            "start_date": "2005-01",
+            "end_date": "2007-01",
+            "description": "Managed Tax Equalization Program for expats and inpatriates. Collected payments and submitted to payroll for endorsement. Assisted expats with tax forms and questions. Initiated move notices. Administered Certificate of Coverage program for expats on assignment. Ordered office materials and supplies; prepared collections letters and correspondence. Backed up timesheet keeper and Web pan initiator. Coded and processed invoices and overhead financial numbers."
+        },
+        {
+            "title": "Administrative Associate",
+            "company": "Company Name",
+            "start_date": "2003-01",
+            "end_date": "2005-01",
+            "description": "Provided administrative or secretarial support to a department. Supported general business operations with administrative tasks. Collected, copied, sorted and filed records. Managed mail, passport and visa pictures. Notified payroll, HR and A&F of assignments or completions. Maintained a clean and organized office."
+        }
+    ],
+    "education": [
+        {
+            "degree": "A.A.",
+            "school": "San Jacinto College",
+            "year": 2007
+        },
+        {
+            "degree": "B.A. in Business Management",
+            "school": "University of Houston Downtown",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "Expatriate and Foreign National Taxation Training (Houston, 2007)",
+        "Death Notification Training (KBR Employee Assistance Program, Houston, 2008)"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

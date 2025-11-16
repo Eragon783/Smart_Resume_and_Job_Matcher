@@ -1,0 +1,65 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Dedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company success.",
+    "skills": [
+        "Exceptional customer service",
+        "Bilingual in Spanish",
+        "Sales expertise",
+        "Reliable",
+        "Strong work ethic",
+        "Team player",
+        "Excellent communication skills",
+        "Flexible",
+        "Windows",
+        "XP",
+        "PowerPoint",
+        "Microsoft Word",
+        "Excel",
+        "Outlook",
+        "Internet research"
+    ],
+    "experience": [
+        {
+            "title": "Garden Associate",
+            "company": "Company Name",
+            "start_date": "02/2010",
+            "end_date": "09/2013",
+            "description": "Helped customers select products that best fit their personal needs. Maintained visually appealing displays for the entire store. Built customer confidence by actively listening to their concerns and giving appropriate feedback. stocked shelves and carried merchandise out on the floor for customers."
+        },
+        {
+            "title": "Construction Worker",
+            "company": "Company Name",
+            "start_date": "06/2009",
+            "end_date": "12/2010",
+            "description": "Cleaned all construction areas to avoid hazards. Removed old roofing materials. Performed heavy labor such as ditch digging, paving and hauling. Continually cleaned work areas and equipment."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "06/2006",
+            "end_date": "06/2008",
+            "description": "Took necessary steps to meet customer needs and effectively resolve food or service issues. Received orders, processed payments and responded to guest concerns. Recorded customer orders and repeated them back in a clear manner. Resolved guest complaints promptly and professionally. Served orders to customers at windows, counters and tables."
+        },
+        {
+            "title": "Community Service Volunteer",
+            "company": "Samaritan Community Center",
+            "start_date": "",
+            "end_date": "2012",
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "GED",
+            "school": "Bentonville High School",
+            "year": "2010"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

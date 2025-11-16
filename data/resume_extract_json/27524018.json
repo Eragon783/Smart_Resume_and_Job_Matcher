@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Career-focused professional seeking a full-time position with a background in assistant teaching, child care, disaster services, and delivery/logistics; strong organizational, communication, and leadership skills; experienced in coordinating volunteers and managing classrooms.",
+    "skills": [
+        "CDL A",
+        "Private Pilot License",
+        "Clean MVR",
+        "computer literacy",
+        "Windows product knowledge",
+        "typing 40 wpm",
+        "strong work ethic",
+        "ability to inspire and motivate others",
+        "administrative",
+        "arts",
+        "basic",
+        "Coach",
+        "Customer service",
+        "Inspect",
+        "instruction",
+        "inventory",
+        "laundry",
+        "transport materials",
+        "meal prep",
+        "personnel",
+        "read",
+        "safety",
+        "scheduling",
+        "shipping",
+        "supervision",
+        "teaching"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Teacher",
+            "company": "Company Name",
+            "start_date": "2016-03",
+            "end_date": "2016-05",
+            "description": "Care for children in institutional settings; communicate with parents about daily activities and behaviors; discipline and manage routines; assist with health and personal habits; observe signs of emotional or developmental problems and report to guardians; instruct children in health and personal habits; keep records; maintain a safe play environment; supervise and organize activities; perform housekeeping; read to children; teach painting, drawing, and songs; sanitize toys; support emotional and social development."
+        },
+        {
+            "title": "Delivery Driver",
+            "company": "Company Name",
+            "start_date": "2015-07",
+            "end_date": "2016-02",
+            "description": "Drive vehicles to transport materials; inspect and maintain vehicle; load/unload; obey traffic laws; present bills and collect payments; read maps and follow directions; report mechanical problems; manage receipts; verify inventory against shipping papers."
+        },
+        {
+            "title": "Before and After School Teacher",
+            "company": "CLUB 66",
+            "start_date": "2014-08",
+            "end_date": "2016-02",
+            "description": "Arrange indoor and outdoor space for creative play; attend meetings and professional development; provide basic needs; demonstrate activities; establish rules for behavior; identify and discuss emotional or health issues with supervisors, parents or guardians; maintain student records; organize activities to promote development; plan and supervise class projects and field trips; prepare materials; provide resources for exploration; read to groups; serve meals and snacks."
+        },
+        {
+            "title": "Disaster Service Specialist",
+            "company": "Company Name",
+            "start_date": "2011-08",
+            "end_date": "2013-09",
+            "description": "Oversee disaster services for 18 counties; supervise over 100 volunteers; recruit and train volunteers for local and national disasters; serve as liaison in the Emergency Operation Center; perform administrative work and support community events."
+        },
+        {
+            "title": "Preschool Teacher",
+            "company": "Company Name",
+            "start_date": "2004-08",
+            "end_date": "2010-10",
+            "description": "Adapt teaching methods and materials; organize space for activities; welcome new arrivals; participate in professional development; meet children's basic needs; collaborate with staff; plan and evaluate lessons; maintain records; plan and supervise class projects, field trips, and experiential activities; provide assistive devices and accessibility; teach basic skills; manage classroom materials and supplies; provide meals and supervise nutrition."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. in Homeland Security Policy and Coordination",
+            "school": "Walden University",
+            "year": null
+        },
+        {
+            "degree": "Master of Arts in Homeland Security",
+            "school": "American Military University",
+            "year": "2009"
+        },
+        {
+            "degree": "Bachelor of Science in Liberal Studies",
+            "school": "Iowa State University",
+            "year": "2009"
+        }
+    ],
+    "certifications": [
+        "CDL Class A",
+        "Private Pilot License",
+        "Clean MVR"
+    ],
+    "languages": []
+}

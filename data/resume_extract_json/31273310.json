@@ -1,0 +1,95 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Summary Extensive and diverse sales, business development, and management background. Creative professional with records of increasing revenue and department effectiveness. Proficient in prioritizing and completing tasks in a timely manner, yet flexible to multi-task when necessary. Customer focused with diverse industry experience including security, computer, sales, management, psychology, non-profit, and retail. Enjoys learning new programs and processes. Team player who is attentive to detail and able to work in fast paced environments. Excellent oral and written communication skills. Highlights Trained in business development Accomplished in relationship selling Friendly and cheerful MS Office proficiency Team leadership Proven sales track record Goal-oriented Detail-oriented Exceptional time management Analytical problem solver Sales management",
+    "skills": [
+        "Account management",
+        "business development",
+        "client relations",
+        "cold calling",
+        "computer literate",
+        "computer proficient",
+        "creative problem solving",
+        "CRM systems",
+        "customer needs assessment",
+        "customer satisfaction",
+        "customer service",
+        "expense control",
+        "lead development",
+        "marketing",
+        "multi-tasking management",
+        "reporting",
+        "sales",
+        "MS office",
+        "HTML coding"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Manager",
+            "company": "Company Name",
+            "start_date": "07/2015",
+            "end_date": "Current",
+            "description": "Generate new business from cold calling efforts. Manage advertisement budget. Maintain key performance measures. Identify, coordinate and participate in client relationship-building activities and meetings. Assist sales managers with new and pre-owned sales through writing, negotiating, and closing sales. Develop and manage CRM tool. Design social media content and company webpage. Conduct discovery and needs analysis with each potential client. Participate and make recommendation in screening/hiring and development of associates. Sponsorship & Exhibition."
+        },
+        {
+            "title": "Sponsorship & Exhibition Account Executive",
+            "company": "Company Name",
+            "start_date": "07/2015",
+            "end_date": "Current",
+            "description": "Research and develop a list of potential sponsors for each MMA event. Develop and maintain relationships with existing and potential sponsorship clients. Keep precise records of conversations with all clients and sponsors. Invoice sponsors once agreements have been reached. Coordinate various services for clients and sponsors. Assist in preparing promotional material. Maintain knowledge of MMA event timelines and sponsorship deadlines."
+        },
+        {
+            "title": "Internal Operations Manager",
+            "company": "Company Name",
+            "start_date": "08/2014",
+            "end_date": "07/2015",
+            "description": "Manage reconditioning process of all pre owned vehicles. Resolve customer complaints in a quick and friendly manner. Handle all internal service tickets. Sell customers additional service based off recommendations of technician. Increase service department revenue and profit by 30% in just 6 months. Develop and share best sales practice throughout service department. Support sales, business office, and buyer when needed."
+        },
+        {
+            "title": "Used Car Manager",
+            "company": "Company Name",
+            "start_date": "02/2013",
+            "end_date": "08/2014",
+            "description": "Procure and sell pre-owned inventory through auction sites, 3rd party vendors, and physical car auctions. Appraise customer trade ins. Assist sales professionals in pre-owned sales including customer relationship building, negotiating, and arranging financing. Increase pre-owned sales from 40 cars per month to 70 cars per month within 3 months. Participate and make recommendation in screening/hiring and development of associates."
+        },
+        {
+            "title": "Business Development Sales Manager",
+            "company": "Company Name",
+            "start_date": "07/2009",
+            "end_date": "01/2013",
+            "description": "Cold and warm called 80-100 new and existing accounts per day. Manage advertisement budget. Maintain key performance measures. Contact new and existing customers to discuss how specific products could meet their needs. Identify, coordinate and participate in client relationship-building activities and meetings. Assist sales managers with new and pre-owned sales through writing, negotiating, and closing sales. Develop and manage CRM tool. Design social media content and company webpage. Manage online inventory. Participate and make recommendation in screening/hiring and development of associates."
+        },
+        {
+            "title": "Internet Sales Manager",
+            "company": "Company Name",
+            "start_date": "05/2007",
+            "end_date": "07/2009",
+            "description": "Manage, analyze, and data mine CRM. Acquired new sales opportunity by filtering incoming calls and aggressive follow up with existing customers. Negotiate and close sales. Manage monthly online advertisement budget. Manage online inventory. Forecast e-commerce sales along with planning and implementing changes along the way to maximize sales, revenue, and profit."
+        },
+        {
+            "title": "Sales Consultant",
+            "company": "Company Name",
+            "start_date": "01/2007",
+            "end_date": "05/2007",
+            "description": "Identify prospective customers using lead generating methods and performing an average of 60 cold calls per day. Develop tools to track and monitor personal sales opportunities, deals in progress and finish contracts. Retain and ensure proper handling and care of 150 existing client accounts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science Degree in Psychology",
+            "school": "Argosy University",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Science: Integrated Marketing Communications",
+            "school": "Winthrop University",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        "CNA certificate"
+    ],
+    "languages": []
+}

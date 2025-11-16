@@ -1,0 +1,110 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Kerrville, TX",
+    "summary": "To maintain a long term position in a cohesive, diverse environment, that promotes a professional environment and values employees and families. To obtain a teaching opportunity in grade levels EC - 4th grade.",
+    "skills": [
+        "Speaking",
+        "Math",
+        "Planning",
+        "Leading",
+        "Computer skills",
+        "Communication with staff, parents and students",
+        "Microsoft Word",
+        "Microsoft Works",
+        "Excel",
+        "Internet Research",
+        "PowerPoint",
+        "Accounts Receivable",
+        "Lesson planning",
+        "Listening",
+        "Problem solving",
+        "Teaching"
+    ],
+    "experience": [
+        {
+            "title": "Accounts Receivable Clerk",
+            "company": "The SALT Group",
+            "start_date": "August 2012",
+            "end_date": "August 2014",
+            "description": "Accounts receivable collection calls, answering questions for new customers, maintain a good relationship with clients; problem solving for clients in difficult situations; achieved weekly monetary goals. Proficient in Microsoft Word, Works, Excel, Internet Research, and PowerPoint."
+        },
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "August 2015",
+            "end_date": "Present",
+            "description": "Teaching all subjects to High School and Junior High; Coach for PE. Responsible for lesson planning, grades, and reports."
+        },
+        {
+            "title": "Kindergarten Teacher",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "Present",
+            "description": "Mathematics instruction (3 hours/day), Reading, Social Studies, Science; Writing."
+        },
+        {
+            "title": "Daycare Lead Teacher",
+            "company": "Company Name",
+            "start_date": "June 2010",
+            "end_date": "Present",
+            "description": "Teaching 2, 3, 4 year old age group; Math, writing, letter and number recognition, listening skills, color recognition; preparing 4-year-olds for kindergarten; early scaffolding techniques to build knowledge and growth through play and activities."
+        },
+        {
+            "title": "Accounts Receivable",
+            "company": "Company Name",
+            "start_date": "June 2012",
+            "end_date": "June 2014",
+            "description": "Customer service, data entry, making and receiving collection calls; daily reports; achieving set monetary goals."
+        },
+        {
+            "title": "Cooperative Teacher",
+            "company": "A Child's Learning Place",
+            "start_date": "2011",
+            "end_date": "2012",
+            "description": "Cooperative teaching for 3 and 4-year-olds and Kinder Ready for summer day camp; student teaching and observation."
+        },
+        {
+            "title": "Student Teacher",
+            "company": "Tally Elementary",
+            "start_date": "March 2010",
+            "end_date": "May 2010",
+            "description": "Student teaching in a self-contained 2nd grade classroom; taught reading, math, grammar, social studies, and science; engaged in individualized and small-group instruction; used technology including smart boards and overhead projectors."
+        },
+        {
+            "title": "Special Service Associate",
+            "company": "The Kerrville Home Depot, Special Services",
+            "start_date": "March 2007",
+            "end_date": "January 2010",
+            "description": "Special services role; supported customers and staff; contributed to a positive learning environment."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Bealls, Shoe Dept",
+            "start_date": "June 2006",
+            "end_date": "March 2007",
+            "description": "Customer service and sales in Kerrville, TX."
+        },
+        {
+            "title": "Policy Board Member",
+            "company": "Kerrville Head Start",
+            "start_date": "2006",
+            "end_date": "2006",
+            "description": "Policy board involvement; school policy, employment, and safety concerns."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Education",
+            "school": "Schreiner University",
+            "year": "2010"
+        }
+    ],
+    "certifications": [
+        "Certified Teacher EC-4"
+    ],
+    "languages": [
+        "English"
+    ]
+}

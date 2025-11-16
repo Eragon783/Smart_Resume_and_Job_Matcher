@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Venezuela",
+    "summary": "Customer service and sales expert who identifies customer needs and delivers solutions to problems. Driven to exceed sales and customer satisfaction goals and build long term relationships with the clients. Creates a positive experience through high quality customer care. Bilingual manager able to build, lead and train efficient and friendly service teams.",
+    "skills": [
+        "Customer services supervision",
+        "Decision making",
+        "Dependable",
+        "Staff training and development",
+        "Problem solving",
+        "Public relations",
+        "Dynamic team player",
+        "Motivating employees to reach high performance",
+        "Commercial awareness",
+        "Conversations and interviews",
+        "Developing high trust work relationships",
+        "Group facilitation / Facilitating group discussions",
+        "Making decisions",
+        "Speeches and speech making",
+        "Interpersonal skills",
+        "Role of a manager",
+        "Coaching approach"
+    ],
+    "experience": [
+        {
+            "title": "Accommodation Service Executive II",
+            "company": "Company Name",
+            "start_date": "12/2016",
+            "end_date": "Current",
+            "description": "Communicate with Partners by telephone or by e mail to provide guidance and assistance regarding Booking.com platform Extranet. Provide commercial advise and orientation to partners based on Booking.com business model. Gather information to solve partner and guests issues regarding reservations in order to coordinate assistance with Customer Service department. Review and process new partnership registrations and set them ready to open on Booking.com webpage. Keep partners and guests as center of all our operations to guarantee maximum satisfaction."
+        },
+        {
+            "title": "Customer Service Executive",
+            "company": "Company Name",
+            "start_date": "02/2016",
+            "end_date": "11/2016",
+            "description": "Communicate with customers by telephone or by email to provide information about hotel reservations, take or enter information, cancel reservations, gather complaints details. Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments, as well as actions taken. Check and ensure that appropriate changes were made to resolve customers' problems. Contact customers to respond to inquiries or to notify them of claim investigation results or any planned adjustments. Refer unresolved customer grievances to designated departments for further investigation."
+        },
+        {
+            "title": "General Manager / Sales Manager",
+            "company": "Company Name",
+            "start_date": "12/2011",
+            "end_date": "01/2016",
+            "description": "Managed sales team generating daily new memberships according to sales quota, interacted with prospects and new customers and provided high level of service to achieve 100% customer satisfaction and company revenue. Hired and trained all sales and customer service staff. Monitored customer preferences to determine focus of sales efforts. Developed, implemented and monitored programs to maximize customer satisfaction. Manage projects or contribute to committee or team work. Create, maintain, and enter information into databases."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "01/2005",
+            "end_date": "12/2011",
+            "description": "Managed sales and customer service operation. Control retention and attrition. Responsible for new hire process. Supervised over 30 employees. Reported to District Vice President."
+        },
+        {
+            "title": "Guest Service Manager",
+            "company": "Company Name",
+            "start_date": "01/2000",
+            "end_date": "12/2004",
+            "description": "Served as public relations representative for the hotel. Assisted guests with any special requests during their visits. Answer inquiries pertaining to hotel services, guest registration, and travel directions, or make recommendations regarding shopping, dining, or entertainment. Record guest comments or complaints, referring customers to managers as necessary. Transmit and receive messages, using telephones or telephone switchboards. Accomplishments researched, calmed and rapidly resolved client conflicts to ensure customer retention increasing it up to 85% per month. Consistently generated additional revenue through skilled customer services and sales techniques used to generate new corporate accounts to service high volume employee corporations. Satisfactory managed company new locations pre sale and openings to guarantee revenue profit and investment return."
+        }
+    ],
+    "education": [
+        {
+            "degree": "J.D. in Law",
+            "school": "Universidad Santa Maria",
+            "year": "2000"
+        },
+        {
+            "degree": "Bachelor of Science in Tourism",
+            "school": "IUTIRLA",
+            "year": "1995"
+        },
+        {
+            "degree": "Hospitality and Tourism",
+            "school": "Instituto Universitario de Tecnologia Industrial Rodolfo Loero Arismendi (El Morro, Anzoategui)",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "Portuguese",
+        "French",
+        "Italian"
+    ]
+}

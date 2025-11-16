@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Israel, Netanya",
+    "summary": "An energetic, motivated and responsible young developer. I enjoy learning new technologies and want to improve my skills that I acquired at university and studied independently and grow as a developer. Now I'm developing on React.js/Node.js. I graduated from Art School, like design and my creativity helps me in front- end development, and I would like to use it in my work.",
+    "skills": [
+        "React.js",
+        "Redux",
+        "Node.js",
+        "Express.js",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SCSS",
+        "MongoDB",
+        "Java",
+        "Spring Boot",
+        "Spring MVC",
+        "OOP",
+        "Hibernate",
+        "Bootstrap",
+        "PostgreSQL",
+        "SQL",
+        "Git"
+    ],
+    "experience": [
+        {
+            "title": "Java software developer",
+            "company": "Gold ventures investment",
+            "start_date": null,
+            "end_date": null,
+            "description": "Responsibilities: Develop database structure, develop backend on Spring Boot/MVC/Security/JPA; Develop frontend with Thymeleaf, HTML and Bootstrap; Deploy project. Group management. Key Achievements: I worked as a team leader, developed a working application, and deployed it to a web server."
+        },
+        {
+            "title": "Frontend developer",
+            "company": "Neolines",
+            "start_date": null,
+            "end_date": null,
+            "description": "Technologies: Drupal, Photoshop, Bootstrap, HTML, CSS. Responsibilities: Develop frontend elements, using HTML, CSS, Photoshop, Bootstrap; Content management and copywriting, using Drupal 6/7. Key Achievements: Participated in the development and support of four projects."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Software Engineering",
+            "school": "Moscow Technological University",
+            "year": null
+        },
+        {
+            "degree": "Udemy course: Development on React.js/Node.js",
+            "school": "Udemy",
+            "year": null
+        },
+        {
+            "degree": "Java programming",
+            "school": "Masa Tlalim Israel education program",
+            "year": null
+        },
+        {
+            "degree": "Certificate in Java and Android Programming",
+            "school": "IITC College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Cisco CCNA course (Routing and switching; Introduction to network technologies)",
+        "IITC College certificate: Java and Android Programming"
+    ],
+    "languages": [
+        "English (professional working proficiency)",
+        "Russian (native)",
+        "Hebrew (basic)"
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Creative marketing professional with MBA and extensive leadership experience in sales, marketing, management, and business development across public and private sectors; skilled in international trade, event planning, and strategic initiatives.",
+    "skills": [
+        "Trade show coordination",
+        "Buyer / procurement",
+        "Market research",
+        "Marketing",
+        "Accounts",
+        "Procurement",
+        "Cold calling",
+        "Commodities",
+        "Credit",
+        "Import/Export",
+        "Prospecting",
+        "Sales",
+        "Sales management",
+        "Fleet management",
+        "Liaison",
+        "Trading",
+        "Database management",
+        "Promotional activities",
+        "Staffing",
+        "Strategic direction",
+        "Training",
+        "Budget",
+        "Documentation",
+        "Quotations",
+        "Shipping",
+        "Business development",
+        "Commercial real estate",
+        "Event planning",
+        "Human resources",
+        "Telecom",
+        "Peachtree (software)",
+        "Property management",
+        "Real estate",
+        "Real estate lending",
+        "Sales representative",
+        "Induction",
+        "Finance",
+        "Risk management",
+        "Advertising",
+        "Associate"
+    ],
+    "experience": [
+        {
+            "title": "President",
+            "company": "Company Name",
+            "start_date": "1999-08",
+            "end_date": "2002-01",
+            "description": "Provided contract services to organizations through implementation of global business strategies: identifying new business opportunities, conducting market research, market promotions, trade show representation, and product demonstrations. Negotiated export contracts; managed a Canadian/US Trade Mission for SUSTA, including conferences, guest transportation, media kits, and press releases; served as Master of Ceremony and delivered presentations on international marketing."
+        },
+        {
+            "title": "Director, International Trade Division",
+            "company": "Company Name",
+            "start_date": "1996-11",
+            "end_date": "1999-08",
+            "description": "Supervised maintenance of international trade database and export trade lead program; provided strategic direction, budgetary allocation, training, and staffing for Atlanta and Brussels offices. Organized trade show pavilions, developed seminars on international trade, and linked local suppliers with foreign buyers and distributors. Served on SUSTA allocation committee; oversaw promotional literature, brochures, and press releases; organized trade missions to Canada and Mexico."
+        },
+        {
+            "title": "Assistant Director",
+            "company": "Company Name",
+            "start_date": "1995-05",
+            "end_date": "1996-11",
+            "description": "Supported international trade programs; contributed to program management and promotional activities for international initiatives."
+        },
+        {
+            "title": "International Account Executive",
+            "company": "Scanwell Freight Express",
+            "start_date": "1994-11",
+            "end_date": "1995-05",
+            "description": "Appointed to secure new logistic accounts; computed air and ocean freight rate quotations; increased shipping volume through consolidation; arranged domestic cargo transportation; coordinated shipments; liaison with overseas offices, airlines, and steamship lines; prepared and reviewed international documentation."
+        },
+        {
+            "title": "Cotton/Textile Broker & Sales Manager",
+            "company": "Company Name",
+            "start_date": "1991-10",
+            "end_date": "1994-11",
+            "description": "Increased cotton fiber and textile sales in the Southern U.S. and international markets; expanded domestic and overseas accounts; negotiated lines of credit and letters of credit; directed import/export of agricultural commodities; trained at the International School of Cotton."
+        },
+        {
+            "title": "Supervisor - Risk Fleet Management",
+            "company": "Company Name",
+            "start_date": "1989-01",
+            "end_date": "1990-01",
+            "description": "Supervised a staff of five; coordinated property, casualty, and automobile insurance coverage; negotiated contract renewals and new purchases."
+        },
+        {
+            "title": "Budget Analyst / Legislative Relations",
+            "company": "Company Name",
+            "start_date": "1988-01",
+            "end_date": "1988-01",
+            "description": "Liaison to six large state government agencies; negotiated budgetary requests with facility managers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "Mercer University, Stetson School of Business and Economics",
+            "year": 1993
+        },
+        {
+            "degree": "Bachelor of Business Administration",
+            "school": "University of Georgia, Terry College of Business Administration",
+            "year": 1987
+        },
+        {
+            "degree": "Associate in Business Administration",
+            "school": "Middle Georgia College",
+            "year": 1984
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

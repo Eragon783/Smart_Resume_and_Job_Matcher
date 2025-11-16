@@ -1,0 +1,55 @@
+{
+    "name": "Nolan",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Entry-level laborer seeking challenging opportunities. Nolan has excellent communication skills, works well with others, and can make independent decisions. Looking for a long-term position to develop professionally.",
+    "skills": [
+        "Dependable",
+        "Fast Learner",
+        "Trustworthy",
+        "Hard working"
+    ],
+    "experience": [
+        {
+            "title": "Laborer",
+            "company": "Company Name",
+            "start_date": "08/2016",
+            "end_date": "12/2016",
+            "description": "Aided in aircraft mechanics, aircraft clean up, and restoration."
+        },
+        {
+            "title": "Laborer",
+            "company": "Company Name",
+            "start_date": "02/2016",
+            "end_date": "05/2016",
+            "description": "Categorized livestock to be sold at auction. Worked with live animals in livestock pens and with auctioneers. In charge of loading and unloading livestock."
+        },
+        {
+            "title": "Laborer",
+            "company": "Company Name",
+            "start_date": "06/2014",
+            "end_date": "08/2014",
+            "description": "Part time summer worker in charge of general labor and maintenance of parts and inventory."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Advance Diploma (HVAC)",
+            "school": "New River Community College",
+            "year": "2015"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Rural Retreat High School",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "CDL Class A Learners",
+        "Pesticide Applicator Certificate",
+        "Boating Safety Course Certificate",
+        "Hunter Safety Course Certificate"
+    ],
+    "languages": []
+}

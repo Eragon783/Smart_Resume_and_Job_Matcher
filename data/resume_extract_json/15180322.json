@@ -1,0 +1,72 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Nursing student who recently obtained CNA license, with prior GNA experience in the UK. Passionate about patient care, multi-tasking, and learning. Eager to contribute to a medical team with a strong work ethic and willingness to learn.",
+    "skills": [
+        "Mobility assistance",
+        "Charting",
+        "Medical procedures",
+        "Grooming and bathing assistance",
+        "General housekeeping",
+        "Medical terminology",
+        "Food industry knowledge",
+        "Natural foods industry knowledge",
+        "Culinary arts",
+        "Chef experience",
+        "Driver's license (valid state)",
+        "Reliable transportation",
+        "Nursing care",
+        "ADLs assistance",
+        "Communication",
+        "Teamwork",
+        "Customer service",
+        "Office operations",
+        "Sales",
+        "Geriatric patient care"
+    ],
+    "experience": [
+        {
+            "title": "Chef",
+            "company": "Company Name, City, State",
+            "start_date": "March 2007",
+            "end_date": "December 2008",
+            "description": "Trained in catheter change and preparation; calm and level-headed under duress; quick problem solver; valid state driver's license; reliable transportation; medical terminology knowledge; extensive knowledge of the food industry as well as the natural foods industry; degree in Culinary Arts and experience as a chef in a fine dining establishment."
+        },
+        {
+            "title": "CNA/GNA",
+            "company": "Company Name, City, State",
+            "start_date": "January 2005",
+            "end_date": "January 2007",
+            "description": "Observed and documented patient status; read and recorded temperature, pulse and respiration; massaged patients and applied preparations; completed and submitted clinical documentation; prepared patient rooms; collected urine and fecal samples; supported diagnostic and technical treatment procedures; assisted with nutrition and fluids; directed patients in ROM exercises; provided transportation and companionship; cleaned living quarters; positioned residents for comfort; assisted with transfers; stocked supplies; provided personal nursing care pre- and post-operative; performed routine tests; tended to patients with chronic illnesses; assisted with catheter insertions; charted daily information; reported abnormalities; assisted with ADLs; provided emotional support; communicated with families; promoted continuity of care and safety."
+        },
+        {
+            "title": "Office Manager",
+            "company": "Company Name, City, State",
+            "start_date": "February 1998",
+            "end_date": "December 2004",
+            "description": "Point of contact for all contacts; sales for a commercial grounds maintenance company; managed all office operations. Responsibilities included assisting residents with mobility and daily living activities, administering basic nursing and post-operative care; assisting with bathing, oral hygiene, grooming, feeding and elimination; helping patients move in and out of beds, baths, wheelchairs and vehicles; preparing meals; scheduling medical appointments; following lifting instructions; maintaining sanitary conditions; transporting patients; assisting with enemas, catheterization and bladder irrigations; ambulation and crutch walking; documenting resident records; charting vital signs and outputs; providing emotional support; promoting safety and continuity of care; demonstrated compassion and responsiveness to geriatric patients."
+        },
+        {
+            "title": "Private Chef",
+            "company": "Company Name, City, State",
+            "start_date": "June 2011",
+            "end_date": "August 2014",
+            "description": "Private chef role providing culinary services; developed and prepared meals and snacks; contributed to client satisfaction in private dining settings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Culinary Arts AA degree",
+            "school": "Baltimore International College",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Certified Nursing Assistant (CNA) license"
+    ],
+    "languages": [
+        "English"
+    ]
+}

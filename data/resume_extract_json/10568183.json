@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Committed and motivated medical support assistant with exceptional customer service and decision making skills. Strong work ethic, professional demeanor and great initiative. Proficient at quickly learning new procedures and taking ownership of diverse projects.",
+    "skills": [
+        "Patient scheduling",
+        "Excellent communication and interpersonal skills",
+        "Flexibility",
+        "Reception area management",
+        "Detail-oriented",
+        "Self-starter",
+        "Team player"
+    ],
+    "experience": [
+        {
+            "title": "Medical Support Assistant (OA) GS-5 Step 2",
+            "company": "Company Name, City, State",
+            "start_date": "12/2015",
+            "end_date": "Current",
+            "description": "Enters, manipulates and/or retrieves information from automated systems; maintains and monitors patient appointment schedules; coordinates and/or schedules patient appointments with other clinics or specialties; receives patients and visitors as the initial point of contact; records and relays messages and/or redirect calls; provides information regarding the practice, clinic, and hospital policies, procedures, and locations to patients, family members, staff, etc; maintains all patients' records, both electronic and paper; responsible for the clerical duties inherent to the in processing (reception), care, and out processing (transition) of outpatients, families/caregivers and guests; Screen patients to determine eligibility of care for their treatment; always keep medical assistants informed regarding the policies, procedures, and goals of the organization; passes on the supervisor's instructions on work assignment, priorities, and deadlines; manages templates for 3 providers; substitutes for absent medical support assistants to ensure there is coverage; provide on the job training to newly assigned employees; maintain appointment calendars to schedule and/or cancel appointments; knowledgeable of DCPS, ATAAPS, CPOL; provide clerical/administrative and automation support using multiple computer systems and technologies, including Microsoft Office; well-versed in CHCS, AHLTA, DMHRSI."
+        },
+        {
+            "title": "Healthcare Assistant Rep",
+            "company": "Company Name, City, State",
+            "start_date": "10/2013",
+            "end_date": "12/2014",
+            "description": "Assisted with FSA/HRA benefits; Cobra benefits; responded to telephone inquiries and complaints using standard scripts and procedures; filed personal information; researched/resolved inquiries and logs customer calls; communicated appropriate options for resolution; informed customers about services available and assessed customer needs; provided functional guidance/training/assistance to lower level staff; assisted in planning and implementing department goals and made recommendations to management to improve efficiency and effectiveness; operated word processing equipment to produce a variety of narrative and tabular materials, including labels, graphics, correspondence, memorandums, promotion recommendations, award recommendations, evaluations, meeting minutes, extensive updated departmental policies, procedures and reports."
+        },
+        {
+            "title": "Account Adjuster II",
+            "company": "Company Name, City, State",
+            "start_date": "01/2003",
+            "end_date": "08/2012",
+            "description": "Contacted customers to collect past due payments; made acceptable payment arrangements with customer; filed personal information; performed skip tracing as needed; sent appropriate correspondence to customers; scheduled appointments for designated personnel and reminded them of such commitments; collected, selected, rearranged, tabulated, and consolidated data from numerous source documents."
+        },
+        {
+            "title": "Technical Representative",
+            "company": "Company Name, City, State",
+            "start_date": "08/2002",
+            "end_date": "12/2002",
+            "description": "Accepted inbound calls from customers regarding satellite radios; activated new satellite service; resolved customer complaints and processed refunds; arranged for defective satellite equipment to be repaired, replaced or refunded."
+        },
+        {
+            "title": "Pharmacy Technician",
+            "company": "Company Name, City, State",
+            "start_date": "01/2001",
+            "end_date": "12/2001",
+            "description": "Received and stored incoming pharmacy supplies; verified stock and entered data into the computer to maintain inventory records; entered customer information and prescriptions in company database; dispensed medications; greeted patients in person and by phone; answered questions and requests; referred inquiries to the pharmacist; maintained inventory and ensured medication availability; organized medications for pharmacist to dispense; prepared labels; calculated quantities; assembled intravenous solutions and other pharmaceutical therapies; maintained records and prepared reports; delivered medications to patients and departments; contributed to team effort."
+        },
+        {
+            "title": "Bookkeeper",
+            "company": "Company Name, City, State",
+            "start_date": "10/1997",
+            "end_date": "11/2000",
+            "description": "Maintained and kept records of cashiers' till balances; prepared bank deposits; balanced cashier tills and office ledgers; developed system to account for financial transactions by establishing a chart of accounts; defined bookkeeping policies and procedures; maintained subsidiary accounts by verifying, allocating, and posting transactions; balanced subsidiary accounts by reconciling entries; maintained general ledger by transferring subsidiary account summaries; balanced general ledger by preparing a trial balance; reconciled entries; maintained historical records by filing documents; prepared financial reports by collecting, analyzing, and summarizing account information and trends; complied with federal, state, and local legal requirements; advised management on needed actions; contributed to team effort."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "University of Phoenix",
+            "year": "2016"
+        },
+        {
+            "degree": "Associates",
+            "school": "Fayetteville Tech Community College",
+            "year": "2011"
+        }
+    ],
+    "certifications": [
+        "Certificate of Acheivement"
+    ],
+    "languages": []
+}

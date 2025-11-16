@@ -1,0 +1,127 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "A results driven Controls Engineer and Project Manager with over 20 years of experience in manufacturing. Skilled in Industrial Automation and Process Engineering with a strong mechanical design background. Proven ability to lead and motivate high performance teams. History of building systems with improved functionality and productivity, consistently meeting critical requirements.",
+    "skills": [
+        "Industrial Automation",
+        "Process Engineering",
+        "Mechanical Design",
+        "Project Management",
+        "Team Leadership",
+        "Siemens PLC",
+        "WINCC SCADA",
+        "Allen-Bradley PLC",
+        "ControLogix",
+        "CompactLogix",
+        "FactoryTalk View ME",
+        "FactoryTalk View SE",
+        "HMI",
+        "VFD Troubleshooting",
+        "PLC Programming",
+        "SCADA",
+        "Electrical systems",
+        "Power distribution",
+        "Maintenance & reliability",
+        "Asset management",
+        "Budgeting",
+        "Energy management",
+        "NFPA 70E and NEC compliance",
+        "Automation project execution",
+        "Process optimization"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Services Manager",
+            "company": "Company Name",
+            "start_date": "2013-02",
+            "end_date": "2015-08",
+            "description": "Maintained the efficiency and effectiveness of production manufacturing processes to ensure quality, repeatability, and cost effectiveness. Managed engineering services, energy provisioning, and resources. Oversaw mechanical repairs and design within departments. Supported wastewater operations with advanced Siemens PLC troubleshooting and WINCC SCADA configuration. Ensured expenditures stayed within budget and developed asset management software to track costs and work orders. Performed PLC support for plant equipment."
+        },
+        {
+            "title": "Electrical Superintendent",
+            "company": "Company Name",
+            "start_date": "2008-05",
+            "end_date": "2013-02",
+            "description": "Supervised electrical and instrumentation activities; ensured proper operation of automation and controls on production equipment, power distribution, plant communications, and security systems. Managed design-to-startup installation projects (> $1M). Directed large Allen-Bradley PLC networks (ControLogix, CompactLogix) with FactoryTalk View ME/SE. Trained electricians and instrument technicians in advanced troubleshooting and PLC programming; maintained NFPA 70E and NEC compliance."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Company Name",
+            "start_date": "2005-05",
+            "end_date": "2008-05",
+            "description": "Reviewed designs and specifications for suitability and initiated revisions. Led a team of 5 engineers in machine section design to ensure on-time project completion. Supervised mechanical and electrical assembly, coordinated with vendors and contractors, and managed project budgets, contracts, and quality controls for on-time installations."
+        },
+        {
+            "title": "Facility Supervisor",
+            "company": "Company Name",
+            "start_date": "2004-04",
+            "end_date": "2005-05",
+            "description": "Managed 6 maintenance personnel. Oversaw construction of new buildings and facility alterations. Performed troubleshooting and repairs on production equipment (hydraulic presses, autoclaves, etc.) and designed/installed industrial automation for production equipment. PLC and HMI programming primarily on the Allen-Bradley SLC500 platform."
+        },
+        {
+            "title": "Maintenance Manager/Safety & Environmental Manager",
+            "company": "Company Name",
+            "start_date": "1996-01",
+            "end_date": "2004-04",
+            "description": "Led plant maintenance and engineering personnel; ensured compliance with federal, state, and local regulations. Managed electrical and mechanical systems, HVAC, pumps, piping, fire protection, and building safety; implemented maintenance programs and inventory management. Oversaw environmental health and safety programs and permits. Installed, programmed, and operated material handling control systems; created custom databases and production/accounting programs; migrated from Modicon to Allen-Bradley PLC with Wonderware HMI; trained maintenance staff."
+        },
+        {
+            "title": "Maintenance Technician",
+            "company": "Company Name",
+            "start_date": "1995-04",
+            "end_date": "1995-12",
+            "description": "Performed routine electrical and mechanical maintenance and emergency repairs on automated PLC-controlled conveyors and other equipment. Updated PLC logic and maintained revision history."
+        },
+        {
+            "title": "Electrician",
+            "company": "Company Name",
+            "start_date": "1991-08",
+            "end_date": "1995-04",
+            "description": "Repaired and maintained plastic extrusion equipment; troubleshooting of PLCs, AC/DC drives, motors, and control equipment. Maintained plant utilities and implemented a CMMS to track maintenance resources and costs. Trained staff in PLC programming and troubleshooting."
+        },
+        {
+            "title": "Microwave Communications Technician",
+            "company": "Company Name",
+            "start_date": "1987-02",
+            "end_date": "1991-04",
+            "description": "Rebuilt and overhauled microwave communications equipment; repaired UHF and VHF radios. Created computerized inventory control to streamline quarterly inventories."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate of Completion",
+            "school": "AIB - HACCP Online Course",
+            "year": 2015
+        },
+        {
+            "degree": "Coursework in Business Management",
+            "school": "Yuba Community College",
+            "year": 2004
+        },
+        {
+            "degree": "NEEC Building Operator Certification",
+            "school": "Butte College",
+            "year": 2003
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Elk Creek High School",
+            "year": 1985
+        },
+        {
+            "degree": "Better Process Control School - Level 1",
+            "school": "Better Process Control School",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "HACCP Online Course (AIB)",
+        "NEEC Building Operator Certification (Butte College)",
+        "Better Process Control School - Level 1"
+    ],
+    "languages": [
+        "English"
+    ]
+}

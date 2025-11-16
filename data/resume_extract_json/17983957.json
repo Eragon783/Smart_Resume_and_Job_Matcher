@@ -1,0 +1,96 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Franklin, TN",
+    "summary": "Consultant with expertise in project management, process improvements, and professional training and development, focused on electronic health care software and clinic workflow.",
+    "skills": [
+        "Army",
+        "Asset Management",
+        "budget",
+        "business processes",
+        "change management",
+        "Community Health",
+        "Configuration Management",
+        "conversion",
+        "Client",
+        "clients",
+        "customer satisfaction",
+        "customer support",
+        "Database",
+        "documentation",
+        "email",
+        "Senior Management",
+        "firewalls",
+        "group facilitation",
+        "information technology",
+        "managing",
+        "meetings",
+        "exchange",
+        "office",
+        "Windows 2000",
+        "needs analysis",
+        "network security",
+        "network",
+        "Networks",
+        "operating systems",
+        "PBX",
+        "policies",
+        "problem resolution",
+        "Processes",
+        "program design and evaluation",
+        "progress",
+        "Project Management",
+        "project plans",
+        "quality assurance",
+        "reporting",
+        "Routers",
+        "servers",
+        "Service Level Agreements",
+        "strategic",
+        "strategic management",
+        "Cisco Switches",
+        "teamwork",
+        "technical support",
+        "troubleshooting",
+        "VoIP",
+        "workflow"
+    ],
+    "experience": [
+        {
+            "title": "CONSULTANT",
+            "company": "Company Name, City, State",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Currently contracted by Community Health Systems (CHS) of Franklin, TN to work with the training manager and coordinator to manage training issues and risks associated with projects, using standard tools and processes. Collaborate with CHS project team to populate and establish training environments for training activities. Apply principles of adult learning theory, group dynamics, group facilitation, needs analysis, program design and evaluation and change management into day-to-day practice and program offerings. Provide WebEx sessions as well as on-site training classes where necessary. Ensure training sessions are consistent with regulatory and clinical workflows. Work with organizations to solve issues, create value, maximize growth and improve business performance. Assist with follow up evaluations for recommendations on improving usage of the software systems in the various clinics and specialties. Advise clients on how to use information technology to meet their business objectives and overcome problems. Provide strategic guidance regarding technology, IT infrastructures and enabling major business processes through enhancements to IT."
+        },
+        {
+            "title": "PROJECT MANAGER",
+            "company": "Company Name, City, State",
+            "start_date": "2006-01",
+            "end_date": "2014-01",
+            "description": "Provided strategic management and operational oversight of support teams consisting of 6 direct reports and 55 technicians on Output Device Service & Support, including budget control; production timetable, status reporting, client/project team coordination; and quality assurance. Designed and deployed several highly successful projects from the ground up managing all aspects of the projects including customer support, client services, operations and quality assurance. Ensured monthly Service Level Agreements were met. Worked to monitor, track and report progress against a project plan to Senior Management. Accomplished project fielding and deployment on time and within budget. Was responsible for comprehensive planning of systems fielding, deployment tasks and budget. Created policies and procedures that incorporate day to day activities for all Output Device Technicians throughout the Army Corp of Engineers. Asset Manager and Configuration Item owner of over 12,000 output devices. Led dedicated and non-dedicated resources to accomplish project fielding/deployment phase. Promoted teamwork and cooperation to achieve objectives. Interacted with Internal/External Senior Management Client side and Organization Side. Conducted weekly Integrated Project Team meetings with Output Device Technicians & Support Team on Asset Management, Configuration Management Database Processes & Procedures."
+        },
+        {
+            "title": "PROJECT LEAD",
+            "company": "Company Name, City, State",
+            "start_date": "1999-01",
+            "end_date": "2006-01",
+            "description": "Provided technical support for Central office as well as all site offices, which included Windows 2000/XP, Windows 2000/2003 server operating systems. Served as Project Manager for 18-month private branch exchange (PBX) to voice over internet protocol (VoIP) conversion project. Served as the single point of contact for all data and network and communication design development, installation, documentation and problem resolution. Completed maintenance, troubleshooting and documentation of network architectures including: Cisco Switches, Routers, Virtual Private Networks (VPNs) and firewalls. Monitored and administered print, file application and email servers. Implemented and maintained network security and policy."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Management",
+            "school": "Florida Institute of Technology",
+            "year": 2003
+        },
+        {
+            "degree": "Bachelor of Science in Computer and Information Sciences",
+            "school": "Alabama A&M University",
+            "year": 1992
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

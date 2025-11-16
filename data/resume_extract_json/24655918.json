@@ -1,0 +1,55 @@
+{
+    "name": "Denyse Mohan",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior Graphic Designer with 30+ years of experience in print, logo design and dimensional signs. Proven ability to lead design teams, develop branding, and deliver campaigns from concept to final rendering.",
+    "skills": [
+        "Invoicing: QuickBooks",
+        "Adobe Illustrator CC & CS6",
+        "Adobe Photoshop CC",
+        "Corel Draw X7",
+        "Microsoft Office Suite",
+        "Omega Composer",
+        "Printers: HP 5500, HP DesignJet L25500",
+        "Vinyl Plotters: Summa D120R, Graphtec, Ioline, HS15, FC 7500",
+        "Sign Tracking Software: Keyed IN, Pace"
+    ],
+    "experience": [
+        {
+            "title": "Senior Graphic Designer",
+            "company": "Company Name, City, State",
+            "start_date": "2017-03",
+            "end_date": "2018-08",
+            "description": "Sketched designs for large home builders; adhered to branding guidelines; designed logos and interior acrylic signs with stand-off wall mounts, 3-D signs, impact logo signs, routed top signs, whip flags, mailboxes, take-one boxes, feather flags, amenity signs, site ID signs, model ID signs, banners, and more. Prepared final print files; uploaded sketches and final print file links to Keyed IN initially, then to Pace Software. Cut vinyl on FC7500 plotter."
+        },
+        {
+            "title": "Senior Graphic Designer/Production Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2005-01",
+            "end_date": "2017-01",
+            "description": "Developed creative graphics that simplified complex messages; recommended techniques and media to produce desired visual effects; adhered to corporate brand guidelines; mentored staff on customer service initiatives; spearheaded and coordinated graphic design projects from conception to completion; collaborated with clients to create vision, conceive designs, and meet tight deadlines; built relationships with vendors and outside installers to ensure project success; created and delivered persuasive sales and marketing proposals; processed estimates, price proposals and invoices; printed in-house designs and customer-prepared files on wide-format printers."
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name, City, State",
+            "start_date": "1995-05",
+            "end_date": "2005-01",
+            "description": "Designed interior and exterior signs, banners, trade show graphics, association graphics, dimensional signs, and more; vectorized and designed client logos; cut vinyl on Ioline Graphics Plotter; printed graphics on HP 5500 large-format printer."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Liberal Arts",
+            "school": "Florida State University Panama Canal Branch",
+            "year": null
+        },
+        {
+            "degree": "Associates Degree in Visual Communications",
+            "school": "Art Institute of Pittsburgh",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

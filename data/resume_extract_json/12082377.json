@@ -1,0 +1,73 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Sales professional with over 13 years of outside sales experience, territory management, and closing deals. Strong communicator with computer literacy; focused on driving sales, maximizing profits, and customer satisfaction. Experienced in managing sales teams and developing long-term client relationships.",
+    "skills": [
+        "attention to detail",
+        "Strong interpersonal skills",
+        "contracts",
+        "credit",
+        "clients",
+        "database",
+        "Dependable",
+        "English",
+        "estimating",
+        "outlook",
+        "natural",
+        "negotiator",
+        "Persuasive",
+        "progress",
+        "purchasing",
+        "Sales",
+        "Sales Management",
+        "seminars",
+        "Spanish",
+        "Strategic",
+        "supervising",
+        "tops",
+        "trade shows"
+    ],
+    "experience": [
+        {
+            "title": "Sales Representative",
+            "company": "Company Name",
+            "start_date": "12/2012",
+            "end_date": "09/2014",
+            "description": "Increased sales volume by adding 10 accounts in the territory; negotiated prices and service agreements; contacted new and existing customers to discuss how their needs could be met through specific products and services."
+        },
+        {
+            "title": "Territory Manager",
+            "company": "Company Name",
+            "start_date": "04/2012",
+            "end_date": "11/2013",
+            "description": "Established new territory; managed a portfolio of 30 accounts and $60,000-$90,000 in monthly sales; negotiated prices, terms, and service agreements; prospected and conducted face-to-face sales calls; built relationships to promote long-term growth; exceeded team sales goals by 30%."
+        },
+        {
+            "title": "Sales",
+            "company": "Decora Kitchen Bath & Floors",
+            "start_date": "01/2008",
+            "end_date": "09/2010",
+            "description": "Managed residential and commercial sales; retailed flooring and related products; coordinated installations; project estimating and purchasing; attended trade shows; negotiated prices and terms; identified prospective customers; wrote sales contracts."
+        },
+        {
+            "title": "Owner",
+            "company": "Company Name",
+            "start_date": "01/2000",
+            "end_date": "07/2007",
+            "description": "Coordinated residential and commercial sales; supervised installations; project estimating and purchasing; negotiated prices and service agreements; attended trade shows; wrote sales contracts; supervised staff and managed client relationships."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "James Pace High School",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

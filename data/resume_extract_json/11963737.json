@@ -1,0 +1,65 @@
+{
+    "name": "Craig Gabron",
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Motivated Business Analyst with the technical expertise and business acumen necessary to translate business requirements and objectives into scalable, highly resilient and successful system solutions.",
+    "skills": [
+        "Data analysis",
+        "Business artifacts documentation",
+        "Strategic planning",
+        "Business development",
+        "Team player",
+        "Workflow analysis",
+        "Product launches",
+        "Brand management",
+        "MS Project",
+        "SQL",
+        "Databases",
+        "Risk mitigation and management",
+        "Data mapping",
+        "Service-oriented architecture",
+        "Release planning",
+        "Collaboration tools",
+        "Test case scenarios",
+        "Requirements gathering",
+        "Gap analysis"
+    ],
+    "experience": [
+        {
+            "title": "Senior Client Advocate II",
+            "company": "BlueCross BlueShield of South Carolina (TRICARE line of business)",
+            "start_date": "2002-12",
+            "end_date": "2017-12",
+            "description": "Functioning in an analyst role for the TRICARE line of business. Documented business processes, analyzed procedures to meet changing business needs, and conducted interviews with key users. Identified process inefficiencies through gap analysis; increased annual revenue by 5% via efficiency improvements in routine pricing updates. Performed TRICARE benchmarking and identified savings opportunities and potential product enhancements. Researched and resolved issues extracting data from a clinical EHR for HEDIS measures (Colorectal Cancer Screening and Controlling Blood Pressure). Implemented user acceptance testing with defect documentation and test cases using HP ALM. Managed testing cycles, including test plan creation, SQL script development, and coordination of UAT."
+        },
+        {
+            "title": "Senior Client Advocate II",
+            "company": "Health Net / BlueCross Operations and BlueCross Information Systems",
+            "start_date": "2002-12",
+            "end_date": "2017-12",
+            "description": "Managed relationships between Health Net, BlueCross Operations, and BlueCross Information Systems applications, with ten direct reports. Optimized and managed R&D spending through collaboration with key business leaders. Trained four new employees on accounting principles and procedures. Created periodic reports comparing budgeted costs to actual costs. Suggested budgetary changes to increase profits. Provided timely actuals, forecasts, and budget data for IT and corporate management. Worked with management at the project level to ensure expense plans were achieved."
+        },
+        {
+            "title": "Manager Information Systems",
+            "company": "Cable and Wireless Communications",
+            "start_date": "1992-03",
+            "end_date": "1996-11",
+            "description": "Managed the relationship with Cable and Wireless Communications in London, England on the installation of a telecom billing system. Led a team of 12 analysts and programmers in analysis, design, and coding of international telecommunications billing software. Gathered detailed use cases and requirements via on-site visits, virtual meetings, and customer advisory board sessions. Translated business goals and customer needs into prioritized product requirements and use cases. Collaborated with sales, marketing, and support to launch products on time and within budget. Coached and mentored twelve new staff. Led communication with stakeholders regarding product goals and progress. Tested and implemented new technology-based global projects such as an international telephone billing system. Created features such as a packetized billing system."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "Slippery Rock University of Pennsylvania",
+            "year": 1976
+        },
+        {
+            "degree": "Computer Science",
+            "school": "Northampton Community College",
+            "year": 1980
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To obtain a rewarding position in a field where my skills can be further developed and utilized.",
+    "skills": [
+        "Microsoft Office",
+        "Word",
+        "Excel",
+        "Outlook",
+        "SharePoint",
+        "Costpoint",
+        "Administrative Assistant",
+        "Benefits",
+        "Clerical",
+        "Data entry",
+        "Database",
+        "GIS",
+        "Mailing",
+        "Meetings",
+        "Office equipment",
+        "Policies",
+        "Processes",
+        "Reception",
+        "Recording",
+        "Retail",
+        "Scanning",
+        "Telephone",
+        "Typing"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Office Clerk",
+            "company": "Company Name – City, State",
+            "start_date": "01/2018",
+            "end_date": "01/2019",
+            "description": "Provides departmental clerical support to Engineering staff including typing, filing recordkeeping, telephone screening, primary reception contact and other clerical duties as required. Researches, orders, purchases and maintains office equipment and supplies. Types correspondence and maintains central business files for department. Processes records for the department, creates and maintains accurate records. Responds to complaints or requests for services in accordance with departmental policies. Receives and maintains citizen complaint logs relating to drainage and project issues. Serves as recording secretary for formal and informal bid meetings. Picks up and delivers documents from other city offices. GIS data entry for Municipal Software System. Scanning Engineering drawings and files. Mailing various correspondences. Assist Administrative Assistant to the Department Head and other Engineering employees, as needed."
+        },
+        {
+            "title": "Benefits Clerk",
+            "company": "Company Name – City, State",
+            "start_date": "01/2017",
+            "end_date": "01/2018",
+            "description": "Scan and file various documents onto the company database. Organize and create online employee files. Process and file benefits forms and related information. Maintain benefit records. Request needed documents for employee benefits. Mail out employee benefit packages. Inform employees of benefit eligibility. Work in reception area as needed greeting and signing in visitors. Answer phone calls and route to the correct employee or department. Schedule meetings and reserve conference rooms. Organize incoming and outgoing mail and packages."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name – City, State",
+            "start_date": "01/2015",
+            "end_date": "01/2017",
+            "description": "Ensure that customers receive excellent service through direct salesmanship and prompt and courteous service. Open new accounts as a means of adding new clients. Assist customers in finding merchandise. Deliver results on departmental/store event goals. Maintain floor standards including replenishment. Present product features and benefits in a knowledgeable way. Assist customers with purchase decisions. Handle monetary transactions between customer and retail store. Handle customer related issues."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. Degree",
+            "school": "University of Alabama in Huntsville",
+            "year": 2020
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "East Limestone High School",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

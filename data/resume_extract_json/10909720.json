@@ -1,0 +1,60 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Talented early education professional with diverse experience in planning and implementing various activities for promoting physical, social, emotional and intellectual growth of children.",
+    "skills": [
+        "Early Childhood Education",
+        "Head Start programs",
+        "Classroom management",
+        "Differentiated learning",
+        "Lesson planning",
+        "Language development",
+        "Storytelling",
+        "First aid",
+        "Parent/teacher conferences",
+        "Curriculum development",
+        "Communication with children",
+        "Calm and patient demeanor"
+    ],
+    "experience": [
+        {
+            "title": "Master Teacher",
+            "company": "Company Name",
+            "start_date": "2010-09",
+            "end_date": "2013-04",
+            "description": "Conducted small group and individual classroom activities based on differentiated learning needs. Encouraged students to be understanding of and helpful to others. Observed students to supply teachers with feedback regarding potential learning blocks and opportunities for support. Physically and verbally interacted with students throughout the day to keep them engaged. Supported students in developing strategies for individual needs and classroom group dynamics. Organized field trips to local parks, fire stations and zoos. Helped prepare daily lesson plans for activities and lessons. Implemented emergent curriculum to encourage student participation. Supplied one-on-one attention to each student, while maintaining overall focus on the entire group. Wrote daily and weekly lesson plans. Administered minor first aid to injured students. Applied the positive reinforcement method to redirect negative behaviors. Promoted language development skills through reading and storytelling. Implemented family style meals. Conducted parent/teacher conferences. Kept personal profiles of each child."
+        },
+        {
+            "title": "Teachers Associate",
+            "company": "Company Name",
+            "start_date": "2004-08",
+            "end_date": "2009-11",
+            "description": "Promoted language development skills through reading and storytelling. Applied the positive reinforcement method to redirect negative behaviors. Conducted small group and individual classroom activities based on differentiated learning needs. Assisted 5-6 children per station during small group learning periods. Organized field trips. Encouraged students to be understanding of and helpful to others. Observed students to supply teachers with feedback regarding potential learning blocks and opportunities for support. Physically and verbally interacted with students throughout the day to keep them engaged. Helped prepare daily lesson plans for activities and lessons. Implemented emergent curriculum. Supplied one-on-one attention to each student, while maintaining overall focus on the entire group. Communicated effectively with educators from various grade levels. Wrote daily and weekly lesson plans. Administered minor first aid to injured students. Organized field trips to local parks, fire stations and zoos. Maintained daily records of children's individual activities, behaviors, meals and naps. Established a safe play environment for the children. Distributed quarterly educational assessments to each parent. Developed professional relationships with parents, teachers, directors and therapists. Observed children for signs of illness, injury, emotional disturbance, learning disorders and speech problems."
+        },
+        {
+            "title": "Teacher aide",
+            "company": "Company Name",
+            "start_date": "1999-08",
+            "end_date": "2001-03",
+            "description": "Promoted language development skills through reading and storytelling. Applied the positive reinforcement method to redirect negative behaviors. Conducted small group and individual classroom activities based on differentiated learning needs. Organized field trips to local parks, fire stations and zoos. Assisted 5-6 children per station during small group learning periods. Encouraged students to be understanding of and helpful to others. Observed students to supply teachers with feedback regarding potential learning blocks and opportunities for support. Physically and verbally interacted with students throughout the day to keep them engaged. Supported students in developing strategies for individual needs and classroom group dynamics. Helped prepare daily lesson plans for activities and lessons. Implemented emergent curriculum to encourage student participation. Supplied one-on-one attention to each student, while maintaining overall focus on the entire group. Communicated effectively with educators from various grade levels. Wrote daily and weekly lesson plans. Administered minor first aid to injured students. Maintained daily records of children's individual activities, behaviors, meals and naps. Established a safe play environment for the children. Created and implemented developmentally-appropriate curriculum that addressed all learning styles. Distributed quarterly educational assessments to each parent. Maintained a child-friendly environment with access to outdoor activities. Completed all required documentation for the National Head Start program."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate in Early Childhood Education",
+            "school": "San Jacinto College",
+            "year": 2000
+        },
+        {
+            "degree": "High School Diploma - General",
+            "school": "Beaumont High School",
+            "year": 1991
+        }
+    ],
+    "certifications": [
+        "Certified in Early Childhood Education"
+    ],
+    "languages": []
+}

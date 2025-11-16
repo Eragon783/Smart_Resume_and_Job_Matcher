@@ -1,0 +1,83 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Professional leader with strong emphasis on management initiatives, focused on developing comprehensive family and child-related programs and services. Goal-oriented professional with strong leadership capabilities.  Detail-oriented exhibiting excellent communication, building networks, problem solving and strategic planning skills.  Exceeding deadlines, and managing multiple projects on time and budget without compromising quality. Passionate about helping others.",
+    "skills": [
+        "Strong leadership",
+        "Analytical & problem solving",
+        "Adaptability, teamwork & communication",
+        "Program management",
+        "Family and children's programs knowledge",
+        "Exemplary people management skills",
+        "Exceptional communication skills",
+        "HIPAA guidelines",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Access",
+        "Outlook",
+        "Google Docs",
+        "Google Sheets",
+        "Research",
+        "SPSS Statistic Software",
+        "SAP Accounting Software"
+    ],
+    "experience": [
+        {
+            "title": "Program Manager",
+            "company": "Company Name",
+            "start_date": "07/2009",
+            "end_date": "",
+            "description": ""
+        },
+        {
+            "title": "Coding Compliance Auditor",
+            "company": "Company Name",
+            "start_date": "03/2011",
+            "end_date": "11/2011",
+            "description": "Management and coordination of daily operations of the clinic and physicians practice including attending physicians, fellows, residents and medical students. Analyzed and audited medical records retrospectively and concurrently for accuracy of documentation and coding in compliance with Medicare guidelines for an outpatient multi-specialty facility. Performed training sessions for physicians on selecting the accurate level of Evaluation & Management (E/M) and Procedural codes; to ensure they met national standards. Educated 20-30 physicians individually on how to accurately use the Current Procedural Terminology (CPT) and International Classification Diseases 9th Revision (ICD-9) codes to the highest level of specificity that led to billing error reduction. Created and implemented new documentation template for the department of Cardio-Vascular Intravenous Therapy Department increasing accurate documentation and billing. Processed accounting requisitions, office management: scheduling using ID extend, billing, processed health insurance claims."
+        },
+        {
+            "title": "Experience College Assistant",
+            "company": "Company Name",
+            "start_date": "10/2013",
+            "end_date": "02/2014",
+            "description": "Explained program offerings and requirements to parents and students and answered related questions. Recruited high school students in the community and registered them into Baruch College's College Now program which provided students with a great opportunity to earn college credits while in high school. Coordinated and assisted in the recruitment and retention initiatives that increased recruitment by 50% for the spring 2014 semester. Organized and developed strategies for students and parents involvement to encourage success in the program. Collaborated with representative(s) from both our partner and prospective schools on our enrichment programs for college preparation. Collectively worked as a team with the Director and the Associate Director on marketing strategies for various events, such as new student orientation. Created database for participating students and high schools in Microsoft Access and Excel. Increased public awareness of Baruch College through the promotion of programs, institutional image and student's engagement. Performed clerical duties to include, emailing, faxing, scanning, photocopying and answering phone. Engaged in effective customer service support to the students, alumni, faculties and staff of Baruch College."
+        },
+        {
+            "title": "Program Manager",
+            "company": "Company Name",
+            "start_date": "08/2009",
+            "end_date": "Present",
+            "description": "Manages several programs in the karate school, including the after school and summer karate program for approximately 100 children ages 4-17 while maintaining alignment of the organization's mission. Explain program offerings and requirements to parents and students and answer related questions. Identify the needs for each child and take educational initiative to create additional tutoring tools and resources to address these challenges. Assess and track students' progress and make recommendations to modify program to enhance effectiveness in their academic and martial arts development. Address program and policy issues, developed best practices and improve service delivery. Implement software to track payments, program effectiveness and generate reports. Analyze budget to plan and organize activities for the various programs. Coordinate and team leader for meetings, appointments and special events/activities. Collaborate and encourage students and parent's commitment to promote academic development. Handle sensitive information in a confidential manner."
+        },
+        {
+            "title": "President of PTO (Volunteer)",
+            "company": "The New American Academy Charter School (TNAACS)",
+            "start_date": "09/2015",
+            "end_date": "Present",
+            "description": "Oversee all aspect of PTO body. Act as chief spokesperson for PTO, and chief liaison between all components of the TNAACS community, including parents, teachers, staff and Principal."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Public Administration: Public Management",
+            "school": "Baruch College",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Professional Studies: Applied Business Management",
+            "school": "Medgar Evers College",
+            "year": ""
+        },
+        {
+            "degree": "Associate of Science: Business Administration",
+            "school": "",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

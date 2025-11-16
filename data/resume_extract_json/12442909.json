@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To utilize my customer relations and management background to obtain a position with a company that places importance on efficiency and success. Employ natural leadership and interpersonal skills to build relationships throughout the organization.",
+    "skills": [
+        "Accounting",
+        "Payroll",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Financial Reporting",
+        "Budgeting",
+        "Forecasting",
+        "Journal Entries",
+        "Reconciliations",
+        "Cost Control",
+        "Cash Management",
+        "Vendor Management",
+        "Billing",
+        "Collections",
+        "Financial Analysis",
+        "Cost Analysis",
+        "Purchasing",
+        "Inventory Management",
+        "Tax forms (W-2, 1099)",
+        "Staff Training",
+        "Leadership",
+        "Team Coordination",
+        "Office Administration"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "Aug 2015",
+            "end_date": "Present",
+            "description": "Responsible for payroll processing, electronic deposits and employee pay adjustments; reconciled bank and credit card accounts; processed journal entries and online transfers; analyzed cost controls and provided timely financial information; assisted CFO with monthly financials and management reports; prepared monthly and annual expense forecasts; managed purchasing and vendor communications; handled A/P with 50+ vendors; resolved collections and billing disputes."
+        },
+        {
+            "title": "Director of Finance & Accounts",
+            "company": "Company Name",
+            "start_date": "Jun 2014",
+            "end_date": "Aug 2015",
+            "description": "Daily entry of accounting transactions; cash handling and bank reconciliation; verified purchase orders, managed accounts payable; reconciled bank and credit card accounts; processed payroll for 70+ employees; issued paychecks to contractors; issued W-2s and 1099s; maintained confidential payroll data; produced monthly financial summaries and reports; maintained employee files and training progress."
+        },
+        {
+            "title": "Operations & Training Consultant, Franchisee & General Manager",
+            "company": "Company Name",
+            "start_date": "Feb 2004",
+            "end_date": "Present",
+            "description": "State Training & Operations Consultant role focusing on assisting six-store franchise in training staff, streamlining operations to corporate standards; conducted monthly inspections; partnered with store managers to develop action plans and guide execution."
+        },
+        {
+            "title": "Franchisee",
+            "company": "Company Name",
+            "start_date": "Jun 2007",
+            "end_date": "Feb 2011",
+            "description": "Built a performance culture emphasizing teamwork and training; developed advertising and promotional deals; implemented corporate standards; drove revenue and controlled costs; maintained store integrity, including coding, sanitation, equipment; managed labor and food costs; inventory management; training and time-management programs; payroll, inventory and scheduling; managed payables and receivables; prepared reports and documents."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "Feb 2004",
+            "end_date": "Apr 2007",
+            "description": "Orchestrated and directed a crew up to 20; recruited, trained and promoted staff; improved operational statistics and efficiency; ensured restaurant environment aligned with corporate culture."
+        },
+        {
+            "title": "Patient Service Representative",
+            "company": "Company Name",
+            "start_date": "Jun 2012",
+            "end_date": "Nov 2016",
+            "description": "Built positive rapport with patients; registered patients accurately; performed cash management; processed insurance; aided patient account resolution and billing; performed preliminary health assessments; served as liaison between patients and medical providers; mentored new employees; applied HIPAA compliance; prioritized tasks."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science, Accounting",
+            "school": "Strayer University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,68 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Knowledgeable of banking procedures and finance, sales and risk management whose success is based on integrity, exceptional customer service, efficiency and ambition. Self-motivated professional, highly proficient in developing creative solutions and implementing objective decision making. Skilled for managing multiple projects at one time. Ability to work equally in both team-oriented and self directed environments. Core Competencies Credit & financial analysis Analytical problem solver Excellent communicator Action planning Relationship management Risk management Strategic thinking Deadline efficient Detailed oriented Excellent time management",
+    "skills": [
+        "Credit & financial analysis",
+        "Analytical problem solver",
+        "Excellent communicator",
+        "Action planning",
+        "Relationship management",
+        "Risk management",
+        "Strategic thinking",
+        "Deadline efficient",
+        "Detailed oriented",
+        "Excellent time management"
+    ],
+    "experience": [
+        {
+            "title": "Branch Manager",
+            "company": "Company Name",
+            "start_date": "01/2004",
+            "end_date": "01/2005",
+            "description": "Received region performance recognition for increased sales and customer service. Motivated, trained and increased employee productivity by 45%. Maintained and built strong relationships while assisting and advising in financial decisions. Implemented a new up-selling program of banking products to exceed goals & expectations. Executed branch objectives, improved product profitability and service performance. Dramatically increased branch revenue through various partner referrals. Made initial analysis on applicant's financial status, credit and property evaluation."
+        },
+        {
+            "title": "Director of Business Operations/Finance Officer",
+            "company": "Company Name",
+            "start_date": "01/2005",
+            "end_date": "01/2009",
+            "description": "Designed, developed and presented project sales models to increase business. Developed sales campaigns and marketing projects. Acquired, sourced, serviced and expanded new client relationships. Monitored business productivity and ensured quality in all levels of business production. Developed a new business plan that oversaw all new business sectors. Performed all accounting for federal and state tax obligations and sales reports. Prepared monthly, quarterly and annual financial statements. Monitored the progress of open funds budget, fiscal reports, revenues contracts, acct payables and receivables."
+        },
+        {
+            "title": "Business Banking Officer",
+            "company": "Company Name",
+            "start_date": "01/2009",
+            "end_date": "11/2012",
+            "description": "2010 Annual Pinnacle Winner for Outstanding Performance. Source, develop, expand, service and retain profitable business banking relationships. Provide the highest level of professionalism and outstanding customer service. Structure banking solutions in order to help the customer reach success financially. Perform complex financial analysis in the area of credit, cash flow and collateral. Obtain and monitor financial statements and credit information of existing portfolio. Proactively partner with customers to better understand their business goals and strategies. Work closely with underwriting to accurately complete credit requests in a timely manner. Partner with bank internal and external teams to increase cross-sell opportunities. Ensure highest level of accuracy and clarity in all communications."
+        },
+        {
+            "title": "Business and Consumer Banking Specialist",
+            "company": "Company Name",
+            "start_date": "01/2002",
+            "end_date": "01/2004",
+            "description": "2003 Annual Star of Excellence. Achieved great success in sales and customer service. Advised and suggested financial and credit solutions. Reviewed and gathered client financial and credit information. Regularly visit business customers to better understand banking needs and maximize results. Effectively partnered with other lines of business bankers to deliver full range of products. Organized and managed special events and promotions. Proactively partnered with external partners to attain new business leads."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "Keller Graduate School of Management",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelor of Science in Business Administration/Finance",
+            "school": "Central Connecticut State University",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        "Credit Risk Fundamentals, US Bank 2011",
+        "Omega Credit Analysis Certification, US Bank 2011",
+        "Organizational Development and Leadership Certificate, US Bank 2010",
+        "FDIC Certification, Central Connecticut State University 2009"
+    ],
+    "languages": []
+}

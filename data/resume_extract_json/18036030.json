@@ -1,0 +1,55 @@
+{
+    "name": "Ashanique Gray",
+    "email": "",
+    "phone": "",
+    "location": "Halethorpe, MD",
+    "summary": "Diligently coordinates all warehouse activities to keep products moving quickly and meet continuous shipping demands. Highly organized leader with good program management and team-building abilities focused on maximizing efficiency and performance. Proven track record of enforcing best practices in fast-paced environments.",
+    "skills": [
+        "Mental health assessments",
+        "Behavior modification",
+        "Conflict mediation",
+        "Data analysis and reporting",
+        "Loading/unloading trailers",
+        "Machine operations",
+        "Team leadership",
+        "Communication skills",
+        "Cleanliness and professionalism"
+    ],
+    "experience": [
+        {
+            "title": "Warehouse/Logistics Associate",
+            "company": "Express Employment Professionals",
+            "start_date": "Jan 2014",
+            "end_date": "May 2021",
+            "description": "Assigned to multiple client sites (e.g., FedEx in Halethorpe, MD; Amazon; DAP; Goetze's Candy Company). Resolved crises using intervention skills. Improved profit margins by streamlining operations and workflow. Defined strategies and plans to achieve operational objectives. Motivated and encouraged team members to communicate openly and constructively. Resolved interpersonal conflicts by listening and building relationships. Demonstrated leadership by improving processes and training others. Duties included palletizing work orders and operating a power jack to store away orders; on-the-job training."
+        },
+        {
+            "title": "Warehouse Associate",
+            "company": "First Team Staffing",
+            "start_date": "Mar 2013",
+            "end_date": "Aug 2020",
+            "description": "Authored error-free formal and informal business correspondence. Provided insight regarding job duties to optimize productivity. Supported executive decision‑making by reporting on metrics and recommending actionable improvements. Diminished obstacles and saved time by spearheading special projects through effective emergency resolution. Responsibilities included trailer loading; outbound/inbound scanning; shrink wrapping; machine operations; team lead training; pick and pack production; scanning, shipping, and receiving data entry."
+        },
+        {
+            "title": "Server / Team Lead",
+            "company": "La Fontaine Bleu",
+            "start_date": "Sep 2013",
+            "end_date": "Dec 2016",
+            "description": "Provided exceptional service to more than 200 customers per day. Roles included Server, Waiter, Busser, and Cook; led team; performed opening and closing duties; maintained cleanliness of dining areas and equipment. Greeted guests, answered questions, and recommended specials; coordinated with hosts and kitchen staff to ensure smooth service. Managed table settings, beverage service, and event tasks."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Chesapeake High School",
+            "year": "2012"
+        },
+        {
+            "degree": "Some College (No Degree) - Human Services / Social Worker",
+            "school": "CCBC Essex Campus",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,95 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State, US",
+    "summary": "Customer Service Representative with a focus on long-term, enjoyable work environments and the ability to support a family. Strong emphasis on service excellence, process improvement, and collaborative problem solving across departments.",
+    "skills": [
+        "Operations management",
+        "Leadership",
+        "Management proficiency",
+        "Weapons training",
+        "Aircraft safety",
+        "Communicator",
+        "Quick learner",
+        "Computer proficiency",
+        "Background checks",
+        "Microsoft Office",
+        "Analytical skills",
+        "File/records maintenance",
+        "Problem solving",
+        "Reports generation and analysis",
+        "Change management",
+        "Financial records and processing",
+        "First Aid",
+        "AED",
+        "Customer service",
+        "Negotiation",
+        "Troubleshooting",
+        "Telecommunications",
+        "CRM software",
+        "Multi-channel contact center software",
+        "Customer account software",
+        "Automated attendant systems",
+        "Data integrity",
+        "Conflict resolution",
+        "Process improvement",
+        "Data analysis",
+        "Safety",
+        "Test equipment",
+        "Radar",
+        "Wiring",
+        "Cash handling",
+        "Active listening",
+        "Public speaking",
+        "Physiology",
+        "Logic and analysis"
+    ],
+    "experience": [
+        {
+            "title": "Customer Service Rep",
+            "company": "Company Name",
+            "start_date": "Jul 2015",
+            "end_date": "Present",
+            "description": "Collected customer feedback and implemented process changes to exceed satisfaction goals. Provided accurate information to inquiries, demonstrated mastery of call scripts, and maintained up-to-date records. Built relationships across call center departments and worked with upper management to drive improvements and customer loyalty through follow-up on product issues. Directed inbound calls to improve call flow and enforced Service Center policies and QA measures."
+        },
+        {
+            "title": "Apprentice Tech",
+            "company": "Company Name",
+            "start_date": "Jun 2014",
+            "end_date": "May 2015",
+            "description": "Followed checklists to verify important parts, examined vehicles for damage, communicated with customers about issues and repairs. Operated pneumatic tools and air compressors, replaced tires and wheels, organized work records, and ordered parts to maintain inventory. Guided mechanics in repair decisions and maintained documentation."
+        },
+        {
+            "title": "Aviation Warfare Operator Electronic Operator",
+            "company": "Company Name",
+            "start_date": "Jun 2012",
+            "end_date": "Jun 2014",
+            "description": "Coordinated department functions for a team of 250, managed deadlines and inquiries, and coordinated with airport vendors for logistics. Operated cabin management systems, enforced safety measures, and prepared equipment and records. Conducted troubleshooting of test equipment, coordinated port visits and fleet operations, and maintained accurate information in the computer systems. Demonstrated effective decision-making under pressure and maintained asset accountability."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Aviation Warfare Operator-A1 A School",
+            "school": "City , State , US",
+            "year": "2014"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Naval Aircrew Candidate School",
+            "year": "2012"
+        },
+        {
+            "degree": "Moon Valley High School",
+            "school": "Moon Valley High School",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "First Aid training (2014)",
+        "AED training (2014)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

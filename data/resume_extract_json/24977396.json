@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Recent Biola University Communication Studies graduate with experience in HR/ Training and Development, recruitment, billing, event planning, and education. Seeking opportunity to work in a collaborative environment to build professional experience.",
+    "skills": [
+        "Educator",
+        "Social Media",
+        "Recruitment",
+        "Communicator"
+    ],
+    "experience": [
+        {
+            "title": "Administrative Clerk / Public Relations Manager",
+            "company": "Company Name",
+            "start_date": "2016-08",
+            "end_date": "Present",
+            "description": "Manages an average of three hundred active members on a daily basis. Actively engages in recruitment, outreach trainings, billing, telephone inquiry (incoming and outgoing). Organizes medium-scale events. Assists all members and staff in logging sensitive information. Works directly under business owner, coaches, and other staff members to develop strong interpersonal relationships with clients."
+        },
+        {
+            "title": "Youth Leader",
+            "company": "Company Name",
+            "start_date": "2016-02",
+            "end_date": "2017-03",
+            "description": "Responsible for teaching an average of fifteen high school children every Sunday. Assisted youth group in leading discussion-based learning and inquiry. Presented various arguments pertaining to topics. Engaged in questions of morality, ethics, and issues today. Aided youth with life lessons, tools for the future, and room to explore ideas. Acted as tutor when needed."
+        },
+        {
+            "title": "Human Resources & Training and Development Intern",
+            "company": "Company Name",
+            "start_date": "2015-09",
+            "end_date": "2016-06",
+            "description": "Access Services para-transit organization provides transportation to the disabled community. Worked directly under the Training and Development Manager as well as HR director. Created several training programs for internal usage. Wrote RFQs and conducted outreach for large-scale job fairs. Led multiple HR projects such as new hire material compilation and distribution. Updated over one hundred employee files containing sensitive information. Observed and participated in executive meetings. Operated within several departments to complete tasks across HR and administrative support."
+        },
+        {
+            "title": "Realtor Assistant",
+            "company": "Keller Williams",
+            "start_date": "2014-03",
+            "end_date": "2015-06",
+            "description": "Handled probate, trust, and various aspects of real estate. Transported sensitive information to and from law firms and Realtor offices. Assisted in hosting open houses for potential buyers and real estate agents. Cold-called clients and handled inquiries regarding estates. Regularly updated new client information in computer systems. Worked under supervision to complete tasks within short timeframes."
+        },
+        {
+            "title": "Student Voice",
+            "company": "Biola University",
+            "start_date": "2012-10",
+            "end_date": "2014-05",
+            "description": "Served as a student's recruiter for Biola's Multi-Ethnic Parent Advisory Counsel. Worked with Provost and several department heads to establish recruitment goals and improve incoming student retention. Facilitated effective communication between departments and counsel; organized large-scale outreach events."
+        },
+        {
+            "title": "Biola Ethnic Advancement Team",
+            "company": "Biola University",
+            "start_date": "2012-09",
+            "end_date": "2014-04",
+            "description": "Responsible for traveling to recruit from churches, schools, and college fairs. Delivered PowerPoint presentations on behalf of Biola University. Traveled within the greater Los Angeles region acting as a student recruiter. Honed public speaking skills through time and experience."
+        },
+        {
+            "title": "Apprentice Electrician",
+            "company": "Hilight Electric",
+            "start_date": "2012-06",
+            "end_date": "2015-09",
+            "description": "As an apprentice electrical worker, replaced lights, fixed wiring, and assisted co-workers. Loaded work trucks with supplies to modify client locations. Demonstrated hard labor with strong memory, intelligence, and technical skills. Recruited and trained peers; internship at Access Services noted for leadership and professionalism."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Rhetorical/Interpersonal Communication, minor Biblical Studies",
+            "school": "Biola University",
+            "year": "2016"
+        }
+    ],
+    "certifications": [
+        "Millennium Momentum Leadership Developmental Institute Graduate (2014-2015)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,55 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced Engineering Technician with extensive background in testing and analyzing complex circuit packs and systems. Takes initiative to solve challenging problems and works well independently or as part of a team. Experienced with fiber optics receivers and transmitters since 1999. Proficient in troubleshooting, schematics reading, and improving on-time delivery.",
+    "skills": [
+        "Microsoft Office Suite",
+        "Reading Schematics",
+        "Troubleshooting",
+        "Problem solving",
+        "Lean Manufacturing",
+        "Inventory",
+        "Government Sell-Offs"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Technician",
+            "company": "Company Name",
+            "start_date": "12/2014",
+            "end_date": "05/2015",
+            "description": "Tested CWB and analyzed to the component level. Worked from complex and detailed manufacturing documentation and/or verbal/written instructions. Installed parts along a moving production line. Engaged in the practical application of engineering science and technology."
+        },
+        {
+            "title": "Thermal Technician",
+            "company": "Company Name",
+            "start_date": "07/2006",
+            "end_date": "Present",
+            "description": "Leads the Thermal Production Line. Analyzed and interpreted blueprints to determine precise specifications. Worked from complex manufacturing documentation and/or verbal/written instructions. Calibrated and aligned focal plane arrays; performed video setup, function test, electrical alignment, MRT, MRC and final test for Thermal Devices. Prepared operational reports and provided information to supervisors. Recommended corrective actions to minimize defects. Communicated product and machine failure details to the design and reliability teams. Maintained repair status in production quality review spreadsheets."
+        },
+        {
+            "title": "Technical Support Specialist",
+            "company": "Company Name",
+            "start_date": "02/1992",
+            "end_date": "11/2003",
+            "description": "Helped achieve company goals by supporting production workers. Collaborated with engineers to troubleshoot test systems. Performed testing and troubleshooting of products including printed wiring boards, integrated circuits and systems to meet engineering specifications. Trained peers on analysis processes and debugging techniques. Performed daily analysis routines using troubleshooting methods and developed new techniques. Worked with engineers on startup of the surface mount line and on HP test sets. Troubleshot field returns using schematics and tuned circuit packs to different wavelengths."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science in Electronic Technology",
+            "school": "Northern Essex Community College",
+            "year": 2002
+        },
+        {
+            "degree": "Associate Degree",
+            "school": "Hesser College",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        "Certificate in Microsoft Office"
+    ],
+    "languages": []
+}

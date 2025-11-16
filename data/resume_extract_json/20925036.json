@@ -1,0 +1,98 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Chicago, IL",
+    "summary": "HR generalist with experience in recruitment, attendance management system, payroll processing, MIS, and employee engagement; skilled in SAP HR/payroll, employee master data management, and end-to-end HR operations; proficient in Microsoft Office and leveraging online search and networks for hiring; strong focus on process improvement and engagement.",
+    "skills": [
+        "agency",
+        "Banking",
+        "basic",
+        "Benefits",
+        "Business Administration",
+        "bi",
+        "CTC",
+        "client",
+        "fast",
+        "focus",
+        "forms",
+        "GDC",
+        "Hiring",
+        "HR",
+        "team building",
+        "leadership",
+        "Excel",
+        "Microsoft Office",
+        "Office",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "MIS",
+        "negotiations",
+        "organizational",
+        "Payroll",
+        "payroll processing",
+        "Processing Payroll",
+        "policies",
+        "presentations",
+        "rapport",
+        "Recruitment",
+        "Reporting",
+        "SAP",
+        "Scheduling",
+        "SLA",
+        "phone",
+        "Training programs",
+        "trend",
+        "website"
+    ],
+    "experience": [
+        {
+            "title": "Sr. Team Member HR",
+            "company": "Tata Motors Limited",
+            "start_date": "02/2010",
+            "end_date": "05/2011",
+            "location": "Pune, MH, India",
+            "description": "Recruitment: Handling end to end recruitment process single handedly for IT, Strategic Projects, HR, Procurement, F&A, Admin, and Sales departments; recruited for Contract/Flexi, Permanent, IJPs and employee transfers."
+        },
+        {
+            "title": "HR Executive",
+            "company": "Company Name",
+            "start_date": "01/2012",
+            "end_date": "03/2014",
+            "location": "City, State",
+            "description": "Selection ratio management; updating & creating job descriptions; coordination with hiring managers; posting on job portals; developed MINT system to track recruitment workflow; sourcing candidates via portals, social media, employment agencies, and referrals; interview scheduling and processing; offer letters and medical check-ups; joining logistics; SAP hiring data and IJP management; MIS & reporting."
+        },
+        {
+            "title": "HR Generalist",
+            "company": "Company Name",
+            "start_date": "05/2014",
+            "end_date": "04/2016",
+            "location": "",
+            "description": "End-to-end HR operations including recruitment lifecycle, onboarding, payroll processing (SAP ECC 6) for ~2500 employees, employee master data management in SAP HCM, attendance and payroll submissions; MIS, reporting and analytics; employee engagement initiatives; IJP and bench-marking; training and development; compliance with statutory labor laws."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Human Resource Management",
+            "school": "Cardiff University",
+            "year": 2010
+        },
+        {
+            "degree": "MBA: Human Resource",
+            "school": "MIT School of Business, City, State, India",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science: Computer Science",
+            "school": "MGM College, City, State, India",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "FSMS Lead Auditor Course by URS, Delhi (2011)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

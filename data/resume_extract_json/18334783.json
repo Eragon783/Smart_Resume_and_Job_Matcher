@@ -1,0 +1,91 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A self-motivated HR Director/Administrator with over 20 years' experience managing diverse enterprises, skilled in HR, document control, project management, and establishing and overseeing new offices. Proven ability to liaison between owners, contractors, vendors and staff, manage budgets, and drive process improvements.",
+    "skills": [
+        "administrative",
+        "budget",
+        "contracts",
+        "customer service",
+        "documentation",
+        "expense reports",
+        "financial",
+        "government",
+        "hiring",
+        "HR",
+        "office",
+        "office administration",
+        "office management",
+        "payroll",
+        "personnel",
+        "processes",
+        "proposals",
+        "quality",
+        "quality assurance",
+        "sales",
+        "supervising",
+        "transmission"
+    ],
+    "experience": [
+        {
+            "title": "HR Director/Administrator",
+            "company": "Forbes Bros Inc",
+            "start_date": "January 2015",
+            "end_date": "Current",
+            "description": "Responsible for the HR department and supervising administrative staff and trained support staff. Handled all hiring and payroll. Reviewed all invoices for appropriate documentation. Managed the construction of the new office for Forbes Bros Inc in the Houston office. Facilitated the start of the company in Houston."
+        },
+        {
+            "title": "Executive Administrator",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "January 2015",
+            "description": "Responsible for preparing reports and financial data, training and supervising other support staff, and customer relationships. Prepared all bid proposals as well as administrated daily affairs."
+        },
+        {
+            "title": "Senior Administrator",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "January 2013",
+            "description": "Assist in the development of processes for support functions within the group. Compiled and analyzed financial information for the transmission project. Ensured that project contracts and bids were completed and filed on time. Reviewed all invoices for appropriate documentation and approval prior to payment. Provided master document control and coordination for several concurrent transmission projects, including all information flows among owners, contractors, sub-contractors, utility companies, environmental consultants, landowners, and government agencies. Served as the main point of contact between contractors and all L-Con personnel. Provided company HR functionality at the site. Supervised an office staff of 15."
+        },
+        {
+            "title": "Site Office Administrator",
+            "company": "E.ON Climate and Renewables",
+            "start_date": "2006",
+            "end_date": "2010",
+            "description": "Responsible for all aspects of site office administration for E.ON's largest wind power construction site (in Roscoe, TX), comprising over 750 MW of wind power and over 2010 employees, contractors, and subcontractors. Provided master document control and coordination for several concurrent wind projects, including all information flows between the owner, contractors, sub-contractors, wind turbine suppliers, utility companies, environmental consultants, landowners, and governmental agencies. Served as the main point of contact between contractors and all E.ON personnel. Provided company HR functionality at the site."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Airtricity",
+            "start_date": "January 2005",
+            "end_date": "January 2006",
+            "description": "Managed office for Airtricity's US flagship Forest Creek and Sand Bluff wind farms sites near Big Spring, Texas. Responsibilities included overseeing all document control, site office management, site HR needs (including timesheets and expense reports), and acting as meeting planner / facilitator for periodic staff / VIP site visits."
+        },
+        {
+            "title": "Manager of House Accounts",
+            "company": "Total Design on Marble & Granite",
+            "start_date": "2002",
+            "end_date": "2004",
+            "description": "Acted as liaison between customers and sales staff. Established customer service procedures to ensure quality. Provided operational expertise on the day-to-day management of business. Supervised a staff of ten persons, with the responsibility of overseeing all installed granite projects for quality assurance."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Unknown",
+            "start_date": "2001",
+            "end_date": "2002",
+            "description": "Assistant to the president of the company. Responsibilities included insight to all new business ventures to ensure timely completion and adherence to budget. Set up procedures for analyzing all financial information to determine the business expansion strategies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Business/Finance",
+            "school": "University of New Mexico",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

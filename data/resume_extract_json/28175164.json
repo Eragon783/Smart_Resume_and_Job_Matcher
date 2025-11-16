@@ -1,0 +1,69 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Regional HR Business Partner with 16 years of human resources leadership experience. Known for driving change, aligning HR programs with business strategy, and delivering measurable outcomes. Fully bilingual in English and Spanish. Expertise in change management, benefits administration, succession planning, organizational development, leadership development and coaching, infrastructure development, operations and workflow optimization, and conflict resolution. Proven track record of partnering with COEs and executive management to implement HR programs that improve engagement, reduce costs, and optimize talent in regional operations.",
+    "skills": [
+        "Change Management",
+        "Benefits Administration",
+        "Succession Planning",
+        "Organizational Development",
+        "Leadership Development and Coaching",
+        "Infrastructure Development",
+        "Operations and Workflow Optimization",
+        "Conflict Resolution"
+    ],
+    "experience": [
+        {
+            "title": "Regional HR Business Partner",
+            "company": "Company Name",
+            "start_date": "01/2012",
+            "end_date": "Present",
+            "description": "110-year old manufacturing company with an iconic brand. Report to one of the 4 Regional Vice Presidents. Work with regional business leaders to provide innovative HR solutions, ensuring alignment with business needs, local labor laws and culture. Partnered with Performance and Growth, Total Rewards, and Harley-Davidson University COEs, as well as with executive management, to execute strategic plans. Engaged HR Generalists in the LA Region to optimize HR strategies. Analyzed talent needs and contributed to work unit plans and performance measures. Administered annual regional HR budget over $160K and organized annual leadership conference. Led and implemented HR processes across regional offices (performance management, Global Tuition Program, Gallup Engagement Surveys, Leadership Trainings, Employee Purchase Plans), achieving high engagement scores. Achieved 100% hiring goals with the lowest recruiting cost among regions. Reorganized market positions across subsidiaries, saving $2.3M annually in SG&A. Developed Immigration Policy and changed process provider, reducing processing time by 45% and saving ~25% per visa."
+        },
+        {
+            "title": "HR Manager",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "10/2011",
+            "description": "Developed and implemented corporate HR plans and policies in support of the business plan, ensuring regulatory and legal compliance. Managed recruitment, training, benefits administration, disciplinary actions, and HR records. Conceived innovative HR programs including supervisory training and performance-based incentive programs. Built and led a strong HR team through training and coaching. Restructured benefits, achieving a 1% premium increase and saving over $70K. Drove a 35% reduction in payroll processing liability and identified over $300K payroll savings via integrated ADP HRIS. Achieved 3% voluntary turnover and 97% satisfaction. Led succession planning initiatives, projecting ~30% hiring cost reduction over 5 years."
+        },
+        {
+            "title": "District HR Manager",
+            "company": "Company Name",
+            "start_date": "09/2007",
+            "end_date": "09/2008",
+            "description": "Led district HR functions including learning, career development, employment practices, recognition, staffing, performance management, and compliance. Conducted investigations reducing lawsuits by 35%. Monitored performance reviews for supervisors and hourly staff. Achieved $350K district-wide reduction in recruitment expenses. Ensured 100% monthly completion of associate training and 401K enrollment. Reduced sexual harassment claims by 20% in first 6 months of training."
+        },
+        {
+            "title": "HR Manager",
+            "company": "Company Name",
+            "start_date": "01/1999",
+            "end_date": "01/2007",
+            "description": "Provided consultative direction for HR infrastructure and organizational efficiency for start-up company on projects for Panasonic, LeapFrog, and AIG. Led compensation development including job analysis, salary administration, and job evaluation as a key business partner to the leadership team."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Leadership/Management",
+            "school": "NOVA SOUTHEASTERN UNIVERSITY",
+            "year": "2005"
+        },
+        {
+            "degree": "Bachelor of Arts: Human Services",
+            "school": "ST. THOMAS UNIVERSITY",
+            "year": "1997"
+        }
+    ],
+    "certifications": [
+        "Project Management Methodology - Associate Certificate",
+        "Six Sigma Yellow Belt Certified",
+        "Code of Business Conduct Training",
+        "Anti-Bribery & Anti-Harassment Training"
+    ],
+    "languages": [
+        "Spanish",
+        "English"
+    ]
+}

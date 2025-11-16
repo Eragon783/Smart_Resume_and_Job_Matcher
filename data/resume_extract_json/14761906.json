@@ -1,0 +1,72 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Chesterfield County, VA, USA",
+    "summary": "Enthusiastic artist with experience in traditional and digital art; former digital media specialist; currently a substitute teacher for Chesterfield County Schools; strong design sense, attention to detail, time management, and photography.",
+    "skills": [
+        "Black and White Photography",
+        "Oil Painting",
+        "Sculpture",
+        "Print Media",
+        "Photoshop",
+        "Illustrator",
+        "InDesign",
+        "Maya",
+        "Flash",
+        "After Effects"
+    ],
+    "experience": [
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "Oct 2015",
+            "end_date": "Present",
+            "description": "Work in schools across Chesterfield County in a variety of subjects and grades. Favorites include Art, Library and History. Follow lesson plans and guide students through activities, providing explanations as needed. Comfortable with unexpected school situations; quick on my feet and calm, helping to keep students calm."
+        },
+        {
+            "title": "Digital Media Specialist and Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "Jul 2013",
+            "end_date": "Jun 2015",
+            "description": "Met and worked with grieving families to create personalized memorial packages. Used Photoshop, Illustrator, InDesign, Publisher and funeral stationery software. Created large collage boards for families; supported outreach programs; designed pamphlets and printed materials for events. Trained coworkers on new software and troubleshooted computer and printer problems."
+        },
+        {
+            "title": "Summer Counselor",
+            "company": "Company Name",
+            "start_date": "Jun 2009",
+            "end_date": "Sep 2009",
+            "description": "Helped plan and execute activities; handled minor injuries; wrote incident reports; involved in conflict resolution and support for children including military families and those with special needs."
+        },
+        {
+            "title": "Room Attendant",
+            "company": "Company Name",
+            "start_date": "Mar 2012",
+            "end_date": "Jul 2013",
+            "description": "Seasonal room attendant duties."
+        },
+        {
+            "title": "Shoe Associate",
+            "company": "Company Name",
+            "start_date": "Nov 2011",
+            "end_date": "Feb 2012",
+            "description": "Seasonal shoe associate role."
+        },
+        {
+            "title": "Shoe Associate",
+            "company": "Company Name",
+            "start_date": "Oct 2009",
+            "end_date": "Nov 2011",
+            "description": "Shoe associate responsibilities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts; Dual Major: Art and Visual Technology & Anthropology",
+            "school": "George Mason University",
+            "year": 2009
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

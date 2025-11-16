@@ -1,0 +1,87 @@
+{
+    "name": "Jamie",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dear Cristina and team, I'm excited about the Recruiting Program Associate role and bringing my experience in marketing, recruitment, event planning, and process improvement to Zendesk. I have coordinated interviews, managed office operations, supported recruiting initiatives, and planned events; I am passionate about educating others, cultivating strong stakeholder relationships, and delivering a best-in-class candidate experience. I thrive in cross-functional environments and am detail-oriented, dependable, and able to manage multiple projects to support company growth and a strong candidate journey.",
+    "skills": [
+        "administrative",
+        "ad",
+        "agency",
+        "Autism",
+        "brand strategy",
+        "budget",
+        "Consulting",
+        "contracts",
+        "credit",
+        "clients",
+        "Data Visualization",
+        "drafting",
+        "event planning",
+        "facilities management",
+        "focus",
+        "graphic",
+        "HR",
+        "Legal",
+        "MapInfo",
+        "market analysis",
+        "marketing strategies",
+        "marketing",
+        "Market",
+        "materials",
+        "meetings",
+        "access",
+        "Excel",
+        "Microsoft Office",
+        "PowerPoint",
+        "Word",
+        "presentations",
+        "processes",
+        "recruiting",
+        "research",
+        "SLA",
+        "phone",
+        "therapeutic interventions",
+        "vision",
+        "workshops"
+    ],
+    "experience": [
+        {
+            "title": "Recruiting Program Associate",
+            "company": "Company Name",
+            "start_date": "10/2011",
+            "end_date": "Current",
+            "description": "Maintain relationships with external agencies; manage and maintain Jobvite; insure data integrity in the ATS; promote and manage the employee referral program; monitor job board postings; collaborate with HR to ensure seamless candidate onboarding; educate new hires about recruiting processes; assist with presentations, event planning, tracking budget, and educating new hires about recruiting processes; assist with research and reporting as needed."
+        },
+        {
+            "title": "Market Analyst promoted to Assistant Director of Brand Strategy",
+            "company": "Company Name",
+            "start_date": "03/2009",
+            "end_date": "08/2011",
+            "description": "Data Visualization and Demographics; Assistant to CEO and team of twenty. Performed market analysis for Metro PCS and Comcast to develop micro-marketing campaigns. Used psycho-graphic and demographic research to identify trends in consumer behavior and develop brand strategy. Responsible for evaluating target market for clients and providing analysis for effective marketing strategies. Performed research and built models for numerous micro-marketing campaigns nationwide. Converted raw statistical data into useful and actionable information for clients."
+        },
+        {
+            "title": "Public Outreach Assistant",
+            "company": "Company Name",
+            "start_date": "07/2008",
+            "end_date": "12/2008",
+            "description": "Responsible for creating media lists for public outreach. Facilitated and organized focus groups for numerous clients. Compiled earned media portfolios for clients and organized product-based hit books. Worked with members of the media on a daily basis."
+        },
+        {
+            "title": "Therapeutic Interventions Assistant",
+            "company": "Company Name",
+            "start_date": "05/2006",
+            "end_date": "05/2008",
+            "description": "Helped prepare stimulus materials for child to reach age-appropriate development implementing the Son-Rise Program of the Autism Treatment Center of America. Communicated case directly with Consulting Therapist and Parents. Participated in all team clinics, training meetings and workshops to develop and maintain up to date therapeutic interventions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts and Sciences",
+            "school": "University of Portland",
+            "year": 2008
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

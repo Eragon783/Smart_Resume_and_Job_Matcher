@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Proactive engineer with extensive experience in operations management and industrial engineering. Skilled at increasing operational performance, reducing production costs, and improving customer satisfaction. Experienced in inventory and WIP control, budgeting, Lean manufacturing, and continuous improvement. MBA holder, currently pursuing Six Sigma certification. Proven ability to lead plant operations, engineering teams, and cross-functional projects, and to develop diverse teams into high-performing units.",
+    "skills": [
+        "Product development",
+        "Product line expansion",
+        "Project Management",
+        "Budgeting",
+        "Quality Management",
+        "Distribution Management",
+        "Facility Management",
+        "Lean Manufacturing",
+        "Total Quality Management",
+        "Work-flow Planning",
+        "Staff Development",
+        "Staff Motivation",
+        "Expense Control",
+        "Inventory Control",
+        "Labor Cost Controls",
+        "Negotiation",
+        "Time Management",
+        "CAD",
+        "AutoCAD",
+        "MRP",
+        "Microsoft Office",
+        "P&L Management",
+        "Performance Analysis",
+        "Industrial Engineering",
+        "Operational Management",
+        "Quality Control Management",
+        "Just-In-Time (JIT)"
+    ],
+    "experience": [
+        {
+            "title": "Director of Engineering",
+            "company": "Company Name, City, State",
+            "start_date": "Jun 2013",
+            "end_date": "Jul 2014",
+            "description": "Managed a staff of engineers performing pre-cost/costing, developed and maintained work instructions for new and existing products, analyzed work-in-process and developed efficient production line setups. Led development of lean manufacturing processes to improve information accuracy and production profitability. Directed new product development and interpretation of blueprints and technical data; designed work aids, machinery attachments, and workflow designs to improve production efficiency and profitability. Included technical data interpretation and AutoCAD pattern development."
+        },
+        {
+            "title": "Costing Manager",
+            "company": "Company Name, City, State",
+            "start_date": "Apr 2003",
+            "end_date": "Dec 2009",
+            "description": "Established bill of materials structure including direct labor hour calculations from CAD drawings and motion time analysis to determine cost factors. Analyzed production processes to create monitoring tools for margin fluctuations. Implemented and operated systems to monitor material usage via MRP. Produced project progress reporting comparing projected vs actual project costs to monitor margins. Worked with electrical, steel fabricated, and tooling components per CAD drawings and standards. Proposed and implemented lean manufacturing techniques and continuous improvement training to reduce costs. Initiated a $500,000 interest-free loan for capacity expansion, contributing to margins increasing from 3% to 18% on average."
+        },
+        {
+            "title": "Chief Industrial Engineer / Manager of R&D",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 1991",
+            "end_date": "Dec 2002",
+            "description": "Managed project installations across mechanical, electrical, and OSHA safety standards. Oversaw supply chain to prevent bottlenecks and delays. Conducted product development to establish equipment requirements and forecast production capacity domestically and internationally, including pre-costing and load analysis. Negotiated supplier contracts for raw materials and parts to control project costs. Resolved customer relations issues in design and quality, ensuring ongoing satisfaction. Ensured production lines were set up to meet delivery specifications and trained personnel on equipment operation, including PLC programming and Mexico-based staff. Managed warehousing and domestic shipping logistics, developed pick-and-pack processes for an outlet store. Collaborated across departments to identify problems and implement solutions. Led project management for quality control, ergonomic improvements, and staff training. Implemented an inventory system that reduced yearly expenditures by $500,000 and on-hand inventory by $750,000. Re-engineered a 100,000 sq ft finishing and distribution operation into a team-based model, reducing annual costs by $3,120,000."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "University of Phoenix",
+            "year": "2012"
+        },
+        {
+            "degree": "Bachelor of Business Administration",
+            "school": "Delta State University",
+            "year": "1979"
+        }
+    ],
+    "certifications": [
+        "Six Sigma certification (in progress)"
+    ],
+    "languages": []
+}

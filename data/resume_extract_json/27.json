@@ -1,0 +1,168 @@
+{
+    "name": "KarmiEl",
+    "email": null,
+    "phone": null,
+    "location": "Israel",
+    "summary": "Golang back-end developer with Android background (Java/Kotlin). About 7 months of Go experience and roughly half a year building web apps near blockchain and digital currencies; 2.5 years of Android development experience. Completed courses with Yandex.Practicum.",
+    "skills": [
+        "Go standard library",
+        "Gorilla",
+        "Go testing",
+        "Gogoc",
+        "Go database",
+        "Go vet",
+        "Go analyze",
+        "Go Validation (ozzo/playground)",
+        "FacebookGo inject",
+        "Loggers",
+        "MVC",
+        "MVP",
+        "MVVM",
+        "SOLID",
+        "ACID",
+        "OOP",
+        "Go project layout",
+        "Java Core",
+        "Kotlin Core",
+        "Hibernate",
+        "JPA",
+        "SQL",
+        "Firebase",
+        "JDBC",
+        "Spring",
+        "REST",
+        "Websocket",
+        "Migrate",
+        "Docker",
+        "Docker Compose",
+        "Makefiles",
+        "Cron",
+        "MySQL",
+        "PostgreSQL",
+        "SQLite",
+        "LiveData",
+        "Multithreading",
+        "Coroutines",
+        "Room",
+        "Dagger2",
+        "Koin",
+        "Hilt",
+        "NavUI",
+        "Rx",
+        "Glide",
+        "Gson",
+        "Android design components",
+        "Android Jetpack",
+        "Espresso",
+        "JUnit"
+    ],
+    "experience": [
+        {
+            "title": "Golang Developer",
+            "company": "Company X*",
+            "start_date": "2021-11",
+            "end_date": "Present",
+            "description": "Casual developer. Worked on projects related to blockchain and digital currencies (e.g., Binance, Metamask). Gained knowledge of blockchain basics and microservice architecture; used tools like Kafka or websockets (Kaa or websockets)."
+        },
+        {
+            "title": "Android Developer",
+            "company": "LeverX",
+            "start_date": "2021-03",
+            "end_date": "2021-11",
+            "description": "Participated in multiple projects as client-side Android front-end developer; led a small part of the team (2-5 developers)."
+        },
+        {
+            "title": "Android Developer",
+            "company": "Sk.WebStudio",
+            "start_date": "2020-07",
+            "end_date": "2021-03",
+            "description": "Casual developer; first experience in an international/remote team."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Go web",
+            "school": "Yandex.Practicum",
+            "year": null
+        },
+        {
+            "degree": "A Tour of Go",
+            "school": "Yandex.Practicum",
+            "year": null
+        },
+        {
+            "degree": "Go Web",
+            "school": "Yandex.Practicum",
+            "year": null
+        },
+        {
+            "degree": "Go Web Advanced",
+            "school": "Yandex.Practicum",
+            "year": null
+        },
+        {
+            "degree": "Multithreading in Go",
+            "school": "Yandex.Practicum",
+            "year": null
+        },
+        {
+            "degree": "Java Back-end",
+            "school": "Mate Academy-IT academy",
+            "year": null
+        },
+        {
+            "degree": "Java Core",
+            "school": "Mate Academy-IT academy",
+            "year": null
+        },
+        {
+            "degree": "JDBC + Hibernate",
+            "school": "Mate Academy-IT academy",
+            "year": null
+        },
+        {
+            "degree": "Java Web",
+            "school": "Mate Academy-IT academy",
+            "year": null
+        },
+        {
+            "degree": "Spring",
+            "school": "Mate Academy-IT academy",
+            "year": null
+        },
+        {
+            "degree": "Multithreading",
+            "school": "Mate Academy-IT academy",
+            "year": null
+        },
+        {
+            "degree": "Android development",
+            "school": "Coursera",
+            "year": null
+        },
+        {
+            "degree": "Android components and interface elements",
+            "school": "MIPT",
+            "year": null
+        },
+        {
+            "degree": "Android development",
+            "school": "Coursera",
+            "year": null
+        },
+        {
+            "degree": "Android Application Architecture",
+            "school": "Coursera/NDA",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Android development on Coursera - quickstart in Android development"
+    ],
+    "languages": [
+        "Ukrainian",
+        "Russian",
+        "English",
+        "Hebrew"
+    ]
+}

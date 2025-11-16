@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Assist an organization that can benefit from my extensive experience in Accounting, training auditing, contract bid preparation and negotiations. Over forty years experience in accounting including Controllerships, Accounts Payable, Payroll, Government Contracting, Auditing, Cost Accounting, Budgeting, and Subgrant Contracting. Organizations I have worked for include Manufacturing and Service Companies such as Sandia National Laboratory, State of Nevada WIC Program and Office of Navajo Economics (ONEO). Performed many special projects, including preparation of budgets, preparation of Cost Accounting Systems including Cost Accounting System Disclosing Statements, CAS cost impact statements. Assigned liaison with DCAA, DCMA and CDCMA, costing system reviews, evaluation of cost proposals, and defective pricing reviews. Accomplishments Hexcel Corporation representative to Aerospace Industries Association (AIA) Cost Principles Committee. Worked with the AIA Committee in recommending a rewrite of 48CFR15 to refine the definition and determination of commercial pricing provisions. The committee recommendations are now part of the current regulations. Developed computer models, using Excel, to provide plant bidding models and corporate home office allocations to plants. Train Government Contracting Plant Controllers in contract accounting and bid processing. American Legion Fernley Post 37 Adjutant for 3 years.",
+    "skills": [
+        "Accounting",
+        "General accounting",
+        "Accounts payable",
+        "Accounts receivable",
+        "Auditing",
+        "Budgets",
+        "Budgeting",
+        "Contracts",
+        "Controller",
+        "CPA",
+        "Financial",
+        "Government",
+        "Grants",
+        "Home office",
+        "Director",
+        "Managing",
+        "Materials",
+        "Office",
+        "Negotiation",
+        "Negotiator",
+        "OSI",
+        "Payroll",
+        "Personnel",
+        "Prime",
+        "Proposals",
+        "Proposal preparation",
+        "Purchasing",
+        "Reporting",
+        "Sales",
+        "Supervisor",
+        "Supervision"
+    ],
+    "experience": [
+        {
+            "title": "Finance Manager",
+            "company": "Company Name – City , State",
+            "start_date": "April 2004",
+            "end_date": "June 2011",
+            "description": "Responsible for development/monitoring program budgets; Plan and organize program accounting, review and evaluate costing reports, budget status, leases, contracts, and sub grants to identify problems/trends. Train state accounting staff in auditing of sub grants costing methods."
+        },
+        {
+            "title": "Owner",
+            "company": "Company Name – City , State",
+            "start_date": "March 2001",
+            "end_date": "August 2004",
+            "description": "Auditing of Alameda County Fair Food Vendors conformance to contract terms. Audit included cash sales reporting and use of undercover shoppers. Reporting included reporting daily sales volume and undercover shoppers findings to Fair Management on over 50 vendors. Sales reports used in determining vendor final space rental based on Sales Volume."
+        },
+        {
+            "title": "Director",
+            "company": "Company Name – City , State",
+            "start_date": "January 1988",
+            "end_date": "January 2001",
+            "description": "Responsibilities included review of Government contract proposals including supportability of direct cost rates and cost accumulation methods for eight plants. Company negotiation representative to DCAA, CACO, DCMA and Prime contractors in defending contract costing methodologies. Hexcel's Chief Financial Officer representative to plants regarding Government contracting and costing issues. Prior to assuming Director position, I served two years as manager of contract accounting and proposal preparation on B2 Bomber material manufacturing contracts, three years as manager of corporate home office allocations to divisions and was assigned additional duties as manager of company accounts payable and payroll systems with a staff of eight employees. Resolved 8 million of accounts receivable issues related to sales of B2 Bomber material to Northrop Corporation."
+        },
+        {
+            "title": "Senior and Special Projects Auditor",
+            "company": "Company Name – City , State",
+            "start_date": "January 1979",
+            "end_date": "January 1987",
+            "description": "Performed contractor cost proposal reviews on bids related to materials, service and construction contracts being awarded by REECO under Operations and Maintenance (O&M) contract with Department of Energy (DOE). Performed various operational audits, special project audits and trained junior audit staff members. Assigned as Managing Auditor and negotiator for Construction change orders at the Tonopah Stealth Fighter Training base. After completion of construction assigned operation audits supervisor. Operational audits included Salvage Sale Operations, food-purchasing procedures, housing operations. Assigned as REECO liaison to USAF Office Special Investigations (OSI) and DOE-Inspector General on investigations of Hot Line fraud assertions on Tonopah Fighter Training Base."
+        },
+        {
+            "title": "Controller",
+            "company": "Company Name – City , State",
+            "start_date": "January 1978",
+            "end_date": "January 1979",
+            "description": "Performed all controller functions for this privately owned fire company that contracted with several major cities and counties in Arizona and Tennessee. Staff included four accounting personnel for accounts payable, payroll, accounts receivable and general accounting."
+        },
+        {
+            "title": "Controller",
+            "company": "Company Name – City , State",
+            "start_date": "January 1976",
+            "end_date": "January 1977",
+            "description": "Approved by two CPA firms to the ONEO Board to assume Controllers function. Responsibilities included supervision of a computerized Fund Accounting system, streamlining accounting functions and training of reservation residences in operation of the computerized system in accordance with GAAP. Reduced accounting/computer staff from thirty-four to twenty-six employees. Decreased annual audit fee by over 40% by having staff prepare audit schedules."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Accounting",
+            "school": "University of Albuquerque",
+            "year": 1966
+        }
+    ],
+    "certifications": [
+        "CPA"
+    ],
+    "languages": []
+}

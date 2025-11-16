@@ -1,0 +1,69 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Compassionate, results-oriented health psychologist with ten years of experience coaching individuals of various ethnic and socio-economic backgrounds and ranging in age from young adults to elders. Skilled in the patient-centered, solution-focused principles of positive psychology, co-active coaching, the transtheoretical model of change, motivational interviewing, self-determination theory, and acceptance and commitment therapy to facilitate self-awareness and self-care. Dedicated coach with a demonstrated track record facilitating healthy lifestyle choices including smoking cessation, weight reduction, stress management, improved sleep, and enhanced daily functioning. Health care professional committed to transforming primary care through the integration of real time, focused health psychology interventions to produce an effective model of biopsychosocial care.",
+    "skills": [
+        "Individual coaching",
+        "Group coaching",
+        "Nutrition",
+        "Alternative medicine",
+        "Exercise physiology",
+        "Behavioral change",
+        "Culturally sensitive",
+        "Coaching methodologies",
+        "Communication skills",
+        "Open, nonjudgmental space for conversations"
+    ],
+    "experience": [
+        {
+            "title": "Health Coach",
+            "company": "Company Name",
+            "start_date": "2008-10",
+            "end_date": "Present",
+            "description": "Partnered with diabetic patients to apply coaching principles for the New England Quality Care Alliance; delivered coaching sessions for chronic conditions; presented at multiple conferences and webinars (e.g., Wellcoaches Alliance, Massachusetts Association of Clinical Exercise Physiologists, Institute of Lifestyle Medicine); developed and delivered coaching content to promote healthy lifestyle changes and improved patient outcomes; integrated motivational interviewing, transtheoretical model, positive psychology, and co-active coaching in patient care."
+        },
+        {
+            "title": "Practical Examiner, Master Class Instructor",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2009-07",
+            "description": "Conducted and scored the Wellcoaches practical skills assessment; developed and conducted a master class for trainees and credentialed coaches on recognizing and changing disempowering self-talk."
+        },
+        {
+            "title": "Wellness Coach and Fitness Specialist",
+            "company": "Company Name",
+            "start_date": "2006-05",
+            "end_date": "2008-10",
+            "description": "Developed coaching as a second and complementary profit center to personal training. Worked with club's personal trainers to augment in-club training routines with lifestyle changes resulting in weight loss, improved resiliency, and enhanced work-life balance."
+        },
+        {
+            "title": "Principal, Life and Wellness Coach",
+            "company": "Company Name",
+            "start_date": "2005-08",
+            "end_date": "2008-10",
+            "description": "Conducted telephonic, one-on-one coaching sessions to clients seeking to elevate self-care and improve functioning. Coached clients in effective behavior and cognitive changes using motivational interviewing, the transtheoretical model, positive psychology, and co-active coaching."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Health Psychology",
+            "school": "Walden University",
+            "year": "2014"
+        },
+        {
+            "degree": "Bachelor of Arts in Anthropology",
+            "school": "University of Michigan",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Professional Certified Coach (PCC) - ICF, 2013",
+        "Certified Professional Co-Active Coach (CPCC) - Coaches Training Institute, 2008",
+        "Wellness Coach credential - Wellcoaches, 2005",
+        "Certified Health/Fitness Specialist - American College of Sports Medicine, 1999",
+        "Motivational Interviewing: The Art of Behavior Change Counseling (Levels I & II) - MINT, 2006"
+    ],
+    "languages": []
+}

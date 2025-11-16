@@ -1,0 +1,60 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Dedicated Sales Coordinator with 5+ years experience in the sales environment. Looking to obtain a management position, in which I am given the opportunity to play a direct role in the unlimited growth and success of the company. Summary of Qualifications include exceptional customer service skills, ability to multi-task, prioritize and manage time effectively, detail oriented, a team player with high level of dedication, excellent communication skills, strong interpersonal skills, great verbal and written skills, social media savvy. Bilingual in French.",
+    "skills": [
+        "Customer service",
+        "Multi-tasking",
+        "Time management",
+        "Detail oriented",
+        "Team player",
+        "Communication skills",
+        "Interpersonal skills",
+        "Verbal and written skills",
+        "Social media savvy",
+        "Bilingual in French",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "ISAC",
+        "Dnet",
+        "Birchstreet",
+        "Bridge/MGS"
+    ],
+    "experience": [
+        {
+            "title": "Sales Coordinator",
+            "company": "Company Name",
+            "start_date": "Apr 2017",
+            "end_date": "Present",
+            "description": "Respond to sales calls and leads. Work closely with sales managers/directors in regards to upcoming groups and events. Create and build new leads into ISAC. Generate new contracts for future groups/events. Conduct site visits of the property when needed. Generate, edit, publish on company's social media platform. Create and print hotel collaterals. Assist and provide excellent customer service to clients prior, during and post event."
+        },
+        {
+            "title": "Sales Coordinator",
+            "company": "Company Name",
+            "start_date": "Apr 2014",
+            "end_date": "Feb 2017",
+            "description": "Assisted sales team with daily administrative duties. Drafted sales contracts and addendum for future events. Assisted clients with sales related inquiries via phone and email. Processed sales invoices and commission. Ordered office supplies for the department. Assigned new leads to appropriate sales manager based on Market Segment."
+        },
+        {
+            "title": "Lead Concierge",
+            "company": "Company Name",
+            "start_date": "Jun 2012",
+            "end_date": "Sep 2014",
+            "description": "Delivered superior customer service to residents and guests. Managed and resolved customer complaints. Created and manage monthly community calendar. Supervised and train concierge staff. Handled resident packages. Managed resident reservations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Social Science/Hospitality",
+            "school": "Ashford University",
+            "year": "Current"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "French"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly enthusiastic customer service professional with extensive client interface experience, strong problem-solving, communication, and organizational skills, and bilingual proficiency in Korean and English.",
+    "skills": [
+        "billing",
+        "oral communication",
+        "negotiate contracts",
+        "customer service",
+        "English",
+        "General Manager",
+        "hiring",
+        "HR",
+        "Inventory",
+        "Korean",
+        "team leader",
+        "director",
+        "Microsoft Excel",
+        "MS Word",
+        "people skills",
+        "problem solving",
+        "speaking",
+        "Real Estate",
+        "rehabilitation",
+        "reporting",
+        "sales",
+        "store manager",
+        "phones",
+        "trainer",
+        "troubleshooting",
+        "typing",
+        "excellent written communication"
+    ],
+    "experience": [
+        {
+            "title": "Store Manager",
+            "company": "Company Name, City, State",
+            "start_date": "July 2006",
+            "end_date": "September 2013",
+            "description": "Ran day-to-day store operations including ordering merchandise, coordinating with dealers, and managing inventory. As store manager, duties included assisting customers, answering questions about products such as instruments and accessories, and helping customers with rentals."
+        },
+        {
+            "title": "Customer Service Agent",
+            "company": "Company Name, City, State",
+            "start_date": "May 2009",
+            "end_date": "April 2013",
+            "description": "Worked as a customer service agent making announcements in the claims area in Korean and English at Hartsfield Jackson Atlanta International Airport; helped people troubleshoot baggage issues; in charge of monthly reporting for passenger counts to the Atlanta International Airport. Also worked closely with Customs and Border Protection and assisted on the ramp with Korean Airlines when needed."
+        },
+        {
+            "title": "Real Estate Agent",
+            "company": "Company Name, City, State",
+            "start_date": "January 2006",
+            "end_date": "September 2008",
+            "description": "Helped people find their dream homes and negotiated contracts for buyers and sellers; strong knowledge of MLS; answered phones and made 100-200 cold calls per day to generate new prospects."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name, City, State",
+            "start_date": "December 2005",
+            "end_date": "July 2006",
+            "description": "Sold personal training memberships, helped clients achieve weight goals, provided introductory workout sessions to assess strengths and weaknesses, addressed customer service issues, and set new appointments for sales; also worked as a personal trainer."
+        },
+        {
+            "title": "Personal Trainer/Assistant Fitness Director",
+            "company": "Company Name, City, State",
+            "start_date": "July 2000",
+            "end_date": "November 2005",
+            "description": "Sold personal training memberships; in charge of hiring and interviewing personal trainers as the assistant fitness director; assisted with HR such as payroll and front desk duties; dealt with customer service issues; provided bilingual sales with Korean-speaking clients; trained clients and created fitness programs; sold merchandise and sports drinks; managed inventory for drinks and organized juice room three times per week; first employee to receive a raise in eight years; focused on rehabilitation training for injuries and helped clients lose weight; hit a $5,000 revenue goal for six consecutive months. Also served as general manager for Bell Plaza Sports Club for one week, running day-to-day operations of a 24-hour gym and addressing customer service issues."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Sociology",
+            "school": "Binghamton University",
+            "year": 2000
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Flushing High School",
+            "year": 1995
+        }
+    ],
+    "certifications": [
+        "Real Estate License"
+    ],
+    "languages": [
+        "Korean",
+        "English"
+    ]
+}

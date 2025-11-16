@@ -1,0 +1,58 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced leader with more than 7 years of experience working in sales, marketing and business development with specialization in identifying, developing, and maintaining new strategic business partnerships. Propelled a small chemical trading firm into a flourishing manufacturer, national distributor and global manufacturer's sole-trading partner. Highly motivated, tough negotiator with excellent verbal and written skills. Expertise in engaging decision making and devising winning sales strategies and solutions. Innovative, adaptable, analytical, action-oriented, and flexible in working with suppliers and customers in dynamic international markets. Developed sole-selling agencies of 4 different manufacturers in 3 different countries encompassing 6 different products. Experienced in working collaboratively with cross- functional teams such as technical, legal, finance, sales and marketing. Bringing creativity, complex problem-solving skills, entrepreneurial drive, and unceasing spirit to all endeavors.",
+    "skills": [
+        "Strong business acumen",
+        "Managing cross functional teams",
+        "Motivational management style",
+        "Sales and pricing strategies",
+        "Customer-focused sales leader",
+        "New product and market development",
+        "Strategic sourcing and hedging",
+        "Data-driven decision making",
+        "Demand prediction",
+        "Supply chain and resource management",
+        "Cost control and profit maximization",
+        "Project planning and development",
+        "Business forecasting and strategy",
+        "MS Office Suite",
+        "Adobe Photoshop",
+        "Macromedia Flash and Dreamweaver",
+        "HTML",
+        "C",
+        "C++"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Leader | Partner | Director",
+            "company": "Company Name City",
+            "start_date": "Feb 2010",
+            "end_date": "Nov 2017",
+            "description": "Spearheaded company-wide marketing campaigns introducing new products which boosted sales by more than 67% in just 1 year. Increased gross profit by 135%, net profit by 133% and EDITDA by 100% in less than 7 years. Ensured long-term profitability by researching and renegotiating vendor and customer contracts. Identified and eliminated loss making products and promoted profitable ones. Single-handedly developed a large customer base for a new product range increasing sales from zero base to more than $2 million in just under 4 years. Demonstrated strong leadership by recruiting, training and managing more than 20 employees across different locations and multiple departments. Managed accounts of more than 300 customers directly, retaining almost all of them till date. Strategically sourced products and negotiated long term contracts by consistently beating aggressive competition in reverse auctions to win business of a major manufacturer. Gained market share post the recession years of 2008 and 2009 by segmenting customer base and servicing new specialized niches. Developed and implemented employee welfare policies and other company policies on ethical way of conducting business. Assisted in preparing balance sheets and filing multiple tax returns including income tax, excise duty, service tax, value added tax, and goods and service tax. Worked closely with auditors, set budgets for expenses, negotiating secured and unsecured credit lines with banks."
+        },
+        {
+            "title": "Teaching Assistant",
+            "company": "Graduate Teaching Assistant",
+            "start_date": "Aug 2007",
+            "end_date": "Dec 2009",
+            "description": "Worked for two and half year as graduate teaching assistant, teaching organic chemistry laboratory to undergraduates. Trained over 250 students in basic to semi-advanced theoretical and laboratory skills in organic chemistry Responsibilities. Presented lectures to class of over 100-150 students. Conducted multiple one-on-one student review sessions. Responsible for making presentations, teaching course material, teaching lab skills, and grading of assignments and final exams."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science, Organic Chemistry",
+            "school": "Virginia Tech",
+            "year": 2010
+        },
+        {
+            "degree": "Bachelor of Technology, Dyes and Intermediates",
+            "school": "Institute of Chemical Technology",
+            "year": 2007
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

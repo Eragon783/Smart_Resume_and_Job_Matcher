@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "A consistent team leader with great analytic and interpersonal skills; highly focused in achieving and maintaining excellent customer relationships to assist you in achieving your organizational goals. I have over 10 years progressive experience in Accounting, Property Accounting and Project Administration and have delivered consistent contributions to increased productivity, decreased cost and produced strong revenue gains through teambuilding, self-motivation and development.",
+    "skills": [
+        "accounts receivable",
+        "AIA",
+        "bank reconciliation",
+        "billing",
+        "billings",
+        "budgets",
+        "daily cash receipts",
+        "cash flow",
+        "Consultant",
+        "Contracts",
+        "Controller",
+        "clients",
+        "financial",
+        "financial reports",
+        "financial statements",
+        "Forms",
+        "General Ledger",
+        "general ledger accounts",
+        "Government",
+        "insurance",
+        "meetings",
+        "excel",
+        "Microsoft office applications",
+        "office",
+        "PowerPoint",
+        "Pivot tables",
+        "presentations",
+        "Prime",
+        "progress",
+        "proposals",
+        "Express",
+        "reporting",
+        "spreadsheet",
+        "tax",
+        "Timberline"
+    ],
+    "experience": [
+        {
+            "title": "Senior Staff Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 1998",
+            "end_date": "Jan 2000",
+            "description": "Prepared and analyzed financial statements on a monthly basis; Reconciled and processed employees' expense reports to American Express charges; Reviewed and analyzed General Ledger on a monthly basis; Reconciled monthly bank reconciliation; Daily cash reconciliation, process bank deposit and updated accounts receivable."
+        },
+        {
+            "title": "Project Administrator",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 2000",
+            "end_date": "Jan 2007",
+            "description": "Prepared monthly billings and revenue forecast; Prepared financial reports and variances; Prepared office earnings report and distribute to the Officers; Prepared rate schedule to be used in contract proposals; Prepared project status reports, monitoring costs and charges associated with each project, attended department meetings and advised project managers of project overruns; Reviewed Consultant invoices and code to the correct project numbers and general ledger accounts; Prepared monthly cash flow projection; Prepared Standard Forms 295 & 294 reports semiannually for the Government; Prepared tax reports quarterly or semiannually for several States; Assisted Controller with year-end audits; Coordinated with insurance company to provide insurance certificate to clients."
+        },
+        {
+            "title": "Project Administrator Engineering",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 2007",
+            "end_date": "Jan 2009",
+            "description": "Maintained general ledger, financial statements and other financial reports; Analyzed and interpreted monthly variances and trends between budgets and actual results in developing projections and forecast; Prepared monthly billing based on contracts, project progress report and work-in-progress report; Prepared and analyzed quarterly backlog report to forecast revenues and employees productivity; Reconciled monthly bank statements and deposit daily cash receipts; Used AIA Documents to prepare Prime and Sub-consultant Contracts; Audited and approved Sub-contractors invoices for process and payment; Assisted Controller with year-end audit; Monitored Job Cost report to ensure employees are charging to the correct projects; Year End CAM Reconciliation for rental properties; Prepared monthly invoices for Tenants in compliance to Lease Agreement; Process bank deposit and updated accounts receivable."
+        },
+        {
+            "title": "Project Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "Jul 2009",
+            "end_date": "Present",
+            "description": "Aligned all financial activity with the regulations of GAAP; Provide weekly cash forecast for the Eastern Region; Ensure accurate and timely billing for both external and internal customers; Update project budgets for all projects assigned to me; Calculate and recognize revenue in accordance with US GAAP for all projects; Setup all aspects of new projects including budget, contract information and revenue recognition based on contract; Perform month-end close procedures pertaining to billing, accounts receivable, bad debt provisions and contingencies, journal entries and reconciling; Monthly meeting with the Director of Operation regarding project income statement."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.B.A, Business Administrator",
+            "school": "American Intercontinental University",
+            "year": "2005"
+        },
+        {
+            "degree": "B.A, Accounting",
+            "school": "Florida International University",
+            "year": "1997"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,114 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A self-starter and dynamic professional with over nine years of sales, marketing and customer service experience. Key strengths include critical thinking, creativity in developing new sales strategies, resourceful problem solving and the ability to maximize resources. Outstanding oral and written skills with demonstrated success in building relationships with co-workers, management, external partners and customers. Bilingual communication skills in: Portuguese native language) and English (business level).",
+    "skills": [
+        "approach",
+        "benefits",
+        "budget",
+        "Business Management",
+        "content",
+        "database",
+        "editorial",
+        "Executive Management",
+        "Home Care",
+        "marketing research",
+        "marketing",
+        "meetings",
+        "network",
+        "networking",
+        "networks",
+        "Project management",
+        "promotional materials",
+        "speaker",
+        "quick",
+        "researching",
+        "Research",
+        "Retail",
+        "sales",
+        "scientific",
+        "spreadsheet",
+        "strategic",
+        "Supply Chain",
+        "valuation",
+        "website"
+    ],
+    "experience": [
+        {
+            "title": "Business Development & Digital Media Marketing Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "2014-08",
+            "end_date": "Present",
+            "description": "Responsible for selecting qualified Brazilian organizations and top executives to be featured within Business Review Brazil and Supply Chain Digital magazines. Research up and coming companies that could benefit from international exposure, minimum of $100MM valuation. Follow up on generated leads, qualify companies, conduct preliminary interviews, request photos and other needed media, all with the goal of quick closure to pass on to editorial team; leading to $200k in revenue in 2015. Responsible for researching and finding own leads through internet/database/networking. Project management of digital footprint; take responsibility and ownership for development of list generation and customer portfolio. Have a proactive approach in developing customer portfolio in line with company requirements Undertake marketing research for project management. Manage, maintain and update personal business social media sites."
+        },
+        {
+            "title": "Marketing & Social Media Intern",
+            "company": "Company Name, City",
+            "start_date": "2014-04",
+            "end_date": null,
+            "description": "Developed a Retail Account Map in Google Maps Engine Pro to assist the company with retail activation and management. The map provided better visual and information content of all the company's dealers locations within the U.S. This included all detailed information of sales and budget of each product category, as well as all competitors' dealers locations. Effectively used Hootsuite to follow and monitor standup paddle and surf athletes on their social media networks. Provided important information and updates to leverage athletes' participation and provide content for social media and website marketing. Created a master events calendar spreadsheet with all standup paddle events worldwide for the 2014 season."
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name, City",
+            "start_date": "2008-12",
+            "end_date": "2013-07",
+            "description": "Effectively managed the most important accounts in Minas Gerais state and the distributor network. Identified and prospected hospital accounts to execute strategic sales initiatives that resulted in exceeding the established sales goals. Successfully negotiated to close business with the hospital accounts, which were consistent with the sales and margin goals of the organization. Utilized promotional materials and clinical studies to effectively communicate the clinical and scientific benefits of Abbott Nutrition products to targeted healthcare professionals. Organized meetings and speaker programs, in order to deliver content to health care professionals in topics related to clinical nutrition, products and Abbott Nutrition expertise. Participated in national and regional medical conventions and exhibits. Achieved the Top Performance award for the best Therapeutic Nutritional Representative in 2010. Received an award for developing a marketing and distribution plan for Home Care in Abbott Nutrition, resulting in a 40% increase in sales in 2 months. The plan was then expanded throughout Brazil, in 2012."
+        },
+        {
+            "title": "Sales Supervisor",
+            "company": "Company Name, City",
+            "start_date": "2007-07",
+            "end_date": "2008-12",
+            "description": "Supervised, directed and motivated five sales representatives in order to achieve the overall corporate sales objectives. Recruited, selected and trained sales representatives."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration: Marketing",
+            "school": "San Diego University for Integrative Students",
+            "year": 2017
+        },
+        {
+            "degree": "Marketing Professional Certificate in Business Management",
+            "school": "UC San Diego Extension",
+            "year": 2014
+        },
+        {
+            "degree": "Marketing Executive Management Certificate: Strategic Management & Marketing",
+            "school": "UC San Diego Extension",
+            "year": 2013
+        },
+        {
+            "degree": "MBA: Business Administration",
+            "school": "University of La Verne",
+            "year": 2010
+        },
+        {
+            "degree": "Program",
+            "school": "Fundacao Getulio Vargas",
+            "year": 2008
+        },
+        {
+            "degree": "Program",
+            "school": "GANEP",
+            "year": 2007
+        },
+        {
+            "degree": "Program",
+            "school": "Unicentro Newton Paiva",
+            "year": 2007
+        }
+    ],
+    "certifications": [
+        "Best Therapeutic Nutritional Representative of Brazil (The Name of Project)",
+        "Top Performance award for the best Therapeutic Nutritional Representative of Brazil in 2010",
+        "Abbott Nutrition Award for developing a marketing and distribution plan for Home Care in Abbott Nutrition"
+    ],
+    "languages": [
+        "Portuguese",
+        "English"
+    ]
+}

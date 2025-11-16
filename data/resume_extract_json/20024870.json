@@ -1,0 +1,95 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "MBA graduate with cross-disciplinary experience in healthcare and IT, focusing on business analysis. Aims to leverage professional knowledge and skills to analyze and optimize business processes as a business analyst.",
+    "skills": [
+        "Microsoft Office",
+        "Excel",
+        "PowerPoint",
+        "Word",
+        "Outlook",
+        "SQL",
+        "Adobe Suite",
+        "Flash",
+        "Photoshop",
+        "Illustrator",
+        "3D Max",
+        "PHP",
+        "Java",
+        "C#",
+        "Visual Basic",
+        "HTML",
+        "Coding",
+        "Programming",
+        "Customer Relationship Management (CRM)",
+        "ERP System",
+        "RFID",
+        "E-Commerce",
+        "Electronic Product Code (EPC)",
+        "Financial Accounting",
+        "Human Resources",
+        "Business Marketing",
+        "International Trade (Import and Export)",
+        "App Development",
+        "SEM",
+        "analysis",
+        "QMS",
+        "Statistics",
+        "Healthcare"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Internship",
+            "company": "Company Name",
+            "start_date": "2014-07",
+            "end_date": "2014-09",
+            "description": "Examined problems between users and systems. Worked at different hospital stations, including ER, Registration, Pharmacy, Central Sterile Supplies Department (CSSD), and Medical Supplies storeroom."
+        },
+        {
+            "title": "Business Analyst",
+            "company": "Company Name",
+            "start_date": "2013-09",
+            "end_date": "2015-12",
+            "description": "Worked with Tourism Bureau to publish 'Taiwan Hot Spring Voucher' to promote Taiwan. Generated 3K followers on Facebook within 3 months. Built and designed official website."
+        },
+        {
+            "title": "Chief Executive Officer",
+            "company": "Company Name",
+            "start_date": "2012-05",
+            "end_date": "2015-01",
+            "description": "Expanded five new business sites, two located at large-scale department stores in the country. Planned cultural events, including Simple Life Festival in Taipei and Shanghai. Launched limited edition custom dresses with bloggers; 100 dresses sold out within 4 hours. Increased sales by 25% in two quarters."
+        },
+        {
+            "title": "Campus Youth E-Service Volunteer",
+            "company": "Company Name",
+            "start_date": "2011-09",
+            "end_date": "2013-06",
+            "description": "Planned summer and winter camps for kids who lack educational resources. Team lead and Recorder."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA (Master of Business Administration)",
+            "school": "Metropolitan State University",
+            "year": "2016"
+        },
+        {
+            "degree": "Bachelor of Science in Information Management",
+            "school": "National Taipei University of Nursing and Health Science",
+            "year": "2015"
+        },
+        {
+            "degree": "English Language Certificate",
+            "school": "Global Language Institute",
+            "year": "2015"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Chinese",
+        "English",
+        "Japanese"
+    ]
+}

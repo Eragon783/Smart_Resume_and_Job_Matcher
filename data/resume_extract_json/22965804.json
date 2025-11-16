@@ -1,0 +1,43 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly motivated, dependable, ethical and honest, dedicated, hard working.",
+    "skills": [
+        "Assembly",
+        "Paint Shop"
+    ],
+    "experience": [
+        {
+            "title": "Construction Worker",
+            "company": "Company Name",
+            "start_date": "May 2014",
+            "end_date": "May 2014",
+            "description": "I performed demolition work by taking down the rooms, cleaning them up and getting them ready to be remodeled."
+        },
+        {
+            "title": "Assembly Line Painter",
+            "company": "Company Name",
+            "start_date": "May 2013",
+            "end_date": "August 2013",
+            "description": "Paint Shop Assembly line: E-Z Go. I retrieve the parts from the paint shop and take them off the assembly line."
+        },
+        {
+            "title": "Bus Washer",
+            "company": "Company Name",
+            "start_date": "April 2012",
+            "end_date": "August 2012",
+            "description": "Start date. End date."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: International Business",
+            "school": "Stetson University",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,65 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly qualified Electronics Engineering Technician with training and experience in electrical and mechanical systems. Demonstrated ability to read schematic diagrams and use appropriate test equipment to troubleshoot equipment and manufactured products. Excellent at contributing to team and project success by sharing acquired knowledge and using strong interpersonal communication skills to encourage high-level performance. Proficient in installing, maintaining, calibrating, configuring and troubleshooting. A stellar work ethic with the ability to excel in a fast-paced environment.",
+    "skills": [
+        "Preventive and reparative maintenance",
+        "Troubleshooting",
+        "Mechanical systems",
+        "Testing",
+        "Soldering and wiring",
+        "Installation",
+        "Hardware diagnostics",
+        "Time management",
+        "Cost estimation",
+        "Power systems",
+        "Operation system software",
+        "Microsoft Office",
+        "Microsoft PowerPoint",
+        "Project Management",
+        "Staff management",
+        "Advanced critical thinking",
+        "Technical support"
+    ],
+    "experience": [
+        {
+            "title": "IT Consultant",
+            "company": "Company Name – City , State",
+            "start_date": "04/2016",
+            "end_date": "Present",
+            "description": "Discussed project progress with customers, coordinated with Owner to evaluate and improve software and hardware interfaces. Documented all software development methodologies in technical manuals to be used by company employees in future projects. Inspected equipment and assessed functionality and optimized controls. Supported Chief Operating Officer with daily operational functions. Adjusted software parameters to boost performance and incorporate new features for meeting customer needs. Responded to customer requests via telephone and email and effectively answered questions and inquiries."
+        },
+        {
+            "title": "Master Technician",
+            "company": "Company Name – City , State",
+            "start_date": "11/2017",
+            "end_date": "03/2019",
+            "description": "Performed maintenance and operating system checks on Mac and PC platforms. Tracked each repair service by maintaining accurate records using Lightspeed POS System. Executed repairs following Electrostatic Discharge (ESD) and safety standards and procedures while conducting quality assurance checks on electronic devices. Served customers by receiving/shipping devices. Protected equipment by using proper testing and repair procedures. Maintained software by installing, configuring and troubleshooting various applications. Diagnosed component level repairs across generations of Cellular Devices, Tablets, Macs, Video Game Consoles, PCs, Laptops and related peripherals. Tested devices using microscopes, oscilloscopes, multimeters, voltage calibrators, spectrum analyzers and other lab instruments. Supported technicians in equipment maintenance and repair. Requisitioned new supplies and equipment. Performed acceptance testing and measurements to verify component and assembly compliance. Interpreted technical documents such as service manuals, specifications, wiring diagrams and blueprints. Used diagnostic and testing processes with technicians to identify, define and solve development issues. Monitored installation and operations to meet customer requirements. Coordinated with vendors to identify and procure equipment. Monitored manufacture of electrical devices to ensure safety compliance. Initiated a project management knowledge study and standardized project management practices. Improved methods and procedures for processes, measurement, documentation and workflow. Set up PC and Apple desktops and laptops and all types of mobile devices. Trained and supported end users with software, hardware and network standards and processes. Provided Tier 1 IT support to non-technical internal users through desk side support. Documented all transactions and support interactions in system for future reference and knowledge base. Stayed up-to-date on technologies relevant to company products to provide best end-user support. Evaluated and responded to sales leads and requests for technical support. Built and provided basic end-user troubleshooting and desktop support on Windows and Mac systems. Managed customer expectations of support and technology functionality to ensure a positive user experience. Delivered excellent customer service through communication and interpersonal skills. Adapted quickly to shifting demands, tight deadlines and multiple tasks."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "07/2011",
+            "end_date": "11/2017",
+            "description": "Managed operations of a Papa John's restaurant, including overseeing the staff, monitoring inventory, purchasing equipment and supplies, and ensuring quality customer service and compliance with all food and beverage regulations. Trained, hired, and scheduled employees. Requires a high school diploma or its equivalent and 4-6 years of related experience. Familiar with concepts and procedures in the field. Relied on extensive experience and judgment to plan and accomplish goals. Performed a variety of tasks. Led and directed others. A wide degree of creativity and spontaneity is expected. Typically reports to top management (District Operator)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration (BBA) in Business Administration and Management, General",
+            "school": "University of Mary Hardin-Baylor",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Business Administration (BBA) in Business Administration and Management",
+            "school": "University of Houston",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Technical Support Fundamentals"
+    ],
+    "languages": []
+}

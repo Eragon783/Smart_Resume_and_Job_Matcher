@@ -1,0 +1,115 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Experienced human resources professional with working knowledge of state and federal employment laws and regulations, dedicated to improving employee satisfaction, management-employee relations, and working conditions through commitment, communication, confidentiality, and a sense of urgency. Looking for a company to share my skills and knowledge with where I can grow as a HR professional.",
+    "skills": [
+        "On-boarding",
+        "Staffing and recruiting",
+        "Payroll entry",
+        "ADA",
+        "Administrative Assistant",
+        "Benefits",
+        "Ceridian",
+        "Charts",
+        "Coaching",
+        "Consulting",
+        "Counseling",
+        "CPR",
+        "First Aid",
+        "Food safety",
+        "Hiring",
+        "Human Resources",
+        "HR",
+        "Insurance",
+        "Kronos",
+        "Law",
+        "Long-term care",
+        "Mechanic",
+        "Meetings",
+        "Payroll",
+        "Performance reviews",
+        "Personnel",
+        "Policies",
+        "Quality assurance",
+        "Recruitment",
+        "Repairs",
+        "Safety",
+        "Scheduling",
+        "Staffing",
+        "Supervisor",
+        "Supervisory",
+        "Training programs"
+    ],
+    "experience": [
+        {
+            "title": "HR Representative",
+            "company": "Company Name",
+            "start_date": "2016-11",
+            "end_date": "Present",
+            "description": "Designed new communication boards for each value stream, worked on special projects, recruited for maintenance and interns, training Administrative Assistant."
+        },
+        {
+            "title": "Human Resources Supervisor/ Staffing Coordinator",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2016-09",
+            "description": "Filled 11 maintenance positions in 3 months; Shuttered a 100-employee plant in 3 days and rehired 90% within 60 days; Reopened a 30-employee plant in 30 days. Facilitated benefit open enrollment for 700 employees. Supervised direct reports and conducted performance reviews, coached and trained staff. Recruited and hired qualified candidates following EEO and ADA; Coordinated staffing for Gaylord and LeSueur locations. Provided counseling and dispute resolution; organized meetings on benefits, employee relations, safety, and training. Reported weekly staffing information to upper management. Audited and generated Affirmative Action reports. Worked as a resource on policies, benefits, and Affirmative Action. Reviewed salary changes and payroll adjustments, ensuring Kronos and Ulti-Pro updates. Acted as liaison with Michael Foods, Inc. and employment agencies. Experienced with Kronos, Ulti-Pro, and Ceridian systems. Authorized changes to employee records; developed locker assignments and coordinated repairs. Resolved employee complaints with the union at Chaska plant; served as HR advisor for Chaska plant."
+        },
+        {
+            "title": "Special Education Assistant",
+            "company": "Company Name",
+            "start_date": "2011-10",
+            "end_date": "2013-06",
+            "description": "Assisted in special education programs, supporting students."
+        },
+        {
+            "title": "Foodservices Director",
+            "company": "Company Name",
+            "start_date": "2011-06",
+            "end_date": "2011-07",
+            "description": "Oversaw food service operations."
+        },
+        {
+            "title": "Quality Assurance Auditor, Assembler",
+            "company": "Company Name",
+            "start_date": "2010-08",
+            "end_date": "2011-05",
+            "description": "Demonstrated excellent customer service skills and trained employees in food safety/regulations; supervised and managed a 20-employee department in a long-term care facility; maintained a deficiency-free dietary department for 3 years; planned special events for up to 300 people; communicated effectively in medical charts and completed MDS assessments for Medicare reimbursement; maintained accurate financial and production records."
+        },
+        {
+            "title": "Dietary Manager",
+            "company": "Company Name",
+            "start_date": "2007-03",
+            "end_date": "2010-04",
+            "description": "Supervised a dietary department and 20 employees; maintained meals services, prepared and maintained records; ensured compliance with safety regulations."
+        },
+        {
+            "title": "Senior Team Leader/Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2001-08",
+            "end_date": "2005-05",
+            "description": "Supervised student employees, including hiring, training, and scheduling. Created 'The Brickhouse Grill' concept. Developed standardized interview questions and training manual; conducted monthly meetings and training in food safety."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Organizational Management (Human Resources Management)",
+            "school": "Ashford University",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Wisconsin Lutheran College",
+            "year": 2005
+        }
+    ],
+    "certifications": [
+        "OSHA 10-hour General Industry Safety and Health (Issued 02/2016)",
+        "First Aid & CPR certified (Issued 09/08/2015, expires 09/2017)",
+        "HR Law Seminar (July 2016)",
+        "Payroll Law Seminar (July 2016)"
+    ],
+    "languages": []
+}

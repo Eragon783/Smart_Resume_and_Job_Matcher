@@ -1,0 +1,59 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Chef with 15 years of highly recognized work in catering and restaurant management in 4 star hotels and leading restaurants. Specializes in creating menus that attract and retain customers for events and parties. Looking for a challenging role in culinary management. Highlights include portion and cost control, high volume production capability, P&L management, inventory management, ServSafe certified, cross training ability, and front- and back-of-house training programs. Experienced in kitchen staff training, food cost control, and menu-driven revenue enhancement.",
+    "skills": [
+        "portion control",
+        "cost control",
+        "high volume production",
+        "P&L management",
+        "inventory management",
+        "ServSafe",
+        "front of house training",
+        "back of house training",
+        "training program development",
+        "kitchen staff training",
+        "food cost control",
+        "menu development",
+        "final plate presentation",
+        "quality control",
+        "team leadership",
+        "upselling",
+        "customer service",
+        "baking techniques"
+    ],
+    "experience": [
+        {
+            "title": "Chef and Restaurant Manager",
+            "company": "Company Name, City, State",
+            "start_date": "12/2007",
+            "end_date": "01/2017",
+            "description": "Upsold additional menu items, beverages and desserts to increase restaurant profits. Provided nutritious, safe, visually appealing and properly prepared food. Ensured quality through tasting and observation; emphasized food quality and baking techniques. Identified opportunities to increase revenue and reduce kitchen expenses; improved departmental productivity; skilled in final plate presentation."
+        },
+        {
+            "title": "Chef and Sous Chef",
+            "company": "Company Name, City, State",
+            "start_date": "02/2001",
+            "end_date": "09/2006",
+            "description": "Tasted and smelled all prepared dishes; provided courteous customer service in an open kitchen. Implemented and supported company initiatives; managed kitchen staff for banquets and events; oversaw daily inventory, purchasing and receiving; maintained sanitation and equipment safety; prepared breakfasts and dinners for guests and VIPs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts: Specialized Culinary Technology",
+            "school": "Pennsylvania Culinary Institute",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelor of Science: Business",
+            "school": "Salem International University",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        "ServSafe"
+    ],
+    "languages": []
+}

@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Customer Success Advocate with a strong technical background and hands-on experience across Windows, Linux, and macOS, networking, and productivity tools. Skilled at assisting diverse customers, resolving issues, and coordinating with cross-functional teams in high-volume live chat and ticket environments. Proficient with PC hardware, AV equipment, antivirus software, and basic programming.",
+    "skills": [
+        "Windows XP",
+        "Windows Vista",
+        "Windows 7",
+        "Windows 8",
+        "Windows 10",
+        "Linux distributions (Ubuntu, Linux Mint, CentOS, Red Hat)",
+        "macOS (Apple Macintosh)",
+        "Microsoft Office Suite (Word, Excel, PowerPoint, Access, Outlook, OneNote, Publisher, Project, Lync/Live Meeting)",
+        "Instant messaging: Microsoft Lync, Skype for Business, Yahoo Messenger, Facebook Messenger, Google Hangouts",
+        "Video conferencing: Google Hangouts, Skype, ooVoo",
+        "Email clients: Outlook, Gmail, Apple Mail",
+        "Google Apps",
+        "Antivirus protection and removal",
+        "PC components and peripherals",
+        "PC building, upgrading, troubleshooting",
+        "Mounting/configuring televisions, audio equipment and security systems",
+        "Introductory programming: Python, PHP, JavaScript, HTML",
+        "RAID storage configurations",
+        "Active Directory",
+        "Ghost imaging",
+        "PostGhost",
+        "TCP/IP networking, routing, network services",
+        "Mobile device email and Lync access",
+        "Editing registry files"
+    ],
+    "experience": [
+        {
+            "title": "Customer Success Advocate",
+            "company": "Company Name",
+            "start_date": "2015-11",
+            "end_date": "Present",
+            "description": "Support multiple customers via live chat; monitor chat and ticket queues; escalate tickets/chats to tier II support when needed."
+        },
+        {
+            "title": "Technology Support Specialist",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2013-11",
+            "description": "Oversee classroom operations; install, maintain and upgrade computer hardware, peripherals and software in Central/Southern NAU Extended Campuses region; troubleshoot with users via Lync, telephone, email, and in person; install/upgrade antivirus; support distance education; maintain and create documentation; coordinate with NAU ITS; configure Active Directory; manage imaging using Ghost; install projectors and lab equipment."
+        },
+        {
+            "title": "Install Technician",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "2012-06",
+            "description": "Installation of televisions, audio and security equipment; wiring/cabling; mounting televisions and speakers; set up wired/wireless networking; run cables throughout office/home."
+        },
+        {
+            "title": "Hardline Merchandiser / Electronics Associate",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2013-11",
+            "description": "Merchandising electronics and assisting customers; maintaining displays and product knowledge."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Sandra Day O'Connor High School",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Science in Computer Information Technology",
+            "school": "Northern Arizona University",
+            "year": 2017
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,107 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced healthcare professional with EMT and RN background, extensive surgical nursing experience including circulator roles, cardiovascular/ER exposure, and travel nursing across multiple hospitals. Strong patient care, documentation, compliance, and collaboration with physicians.",
+    "skills": [
+        "Laparoscopic procedures",
+        "Medication administration",
+        "Vascular care",
+        "ACLS certification",
+        "BLS certification",
+        "Computerized charting (Cerner)",
+        "IV drug therapy management",
+        "Specimen collection/processing",
+        "Sterilization techniques",
+        "OR and ER experience",
+        "Surgical preparation",
+        "Moderate sedation",
+        "Blood product handling",
+        "Regulatory compliance",
+        "Patient education",
+        "Physician collaboration",
+        "Team leadership"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "1981-10",
+            "end_date": "1994-07",
+            "description": "Ware house foreman; ordering materials; operating forklifts; sales."
+        },
+        {
+            "title": "Sales Office Clerk",
+            "company": "Company Name",
+            "start_date": "1976-07",
+            "end_date": "1981-10",
+            "description": "Sales office duties."
+        },
+        {
+            "title": "Typing duties / Leave requests / Dorm guard",
+            "company": "Company Name",
+            "start_date": "1975-05",
+            "end_date": "1976-06",
+            "description": "Typing duties; leave requests; pulling dorm guard duty when necessary."
+        },
+        {
+            "title": "Registered Nurse / EMT - Circulator in Surgery",
+            "company": "Methodist Hospital",
+            "start_date": "1994-07",
+            "end_date": "2015-08",
+            "description": "Started as EMT and progressed to RN Circulator in surgery; worked in multiple departments and at Methodist North."
+        },
+        {
+            "title": "Travel Nurse - RN Circulator in Surgery",
+            "company": "St Francis Bartlett",
+            "start_date": "2015-12",
+            "end_date": "2016-03",
+            "description": "Travel nursing assignment in surgical services."
+        },
+        {
+            "title": "Travel Nurse",
+            "company": "Baxter Regional Hospital",
+            "start_date": "2016-03",
+            "end_date": "2016-06",
+            "description": "Travel nursing assignment at Baxter Regional Hospital."
+        },
+        {
+            "title": "Travel Nurse",
+            "company": "Cox South Hospital",
+            "start_date": "2016-06",
+            "end_date": "2016-08",
+            "description": "Contract cut short due to house flooding; on assignment for surgical services."
+        },
+        {
+            "title": "Registered Nurse",
+            "company": "Missouri University Hospital",
+            "start_date": "2016-09",
+            "end_date": "2016-12",
+            "description": "Nursing duties in surgical services; perioperative care."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science in Nursing",
+            "school": "Southwest Tennessee Community College",
+            "year": "2001"
+        },
+        {
+            "degree": "EMT Certification",
+            "school": "Midsouth Community College",
+            "year": "1980"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Earle High School",
+            "year": "1975"
+        }
+    ],
+    "certifications": [
+        "EMT Certification",
+        "BLS 2017",
+        "ACLS 2017"
+    ],
+    "languages": []
+}

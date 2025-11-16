@@ -1,0 +1,60 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Enthusiastic Preschool Teacher talented at teaching visual art, music and theater. Engages children with diverse and enjoyable activities involving theatrical play, musical instruments and hands-on learning.",
+    "skills": [
+        "cash handling",
+        "cost control",
+        "critical thinking",
+        "financial accounting",
+        "inventory levels",
+        "lesson planning",
+        "personnel",
+        "positioning",
+        "quality",
+        "receiving",
+        "supervising",
+        "surveys",
+        "teaching",
+        "tutoring"
+    ],
+    "experience": [
+        {
+            "title": "Preschool Teacher",
+            "company": "Company Name",
+            "start_date": "August 2015",
+            "end_date": "Current",
+            "description": "Provide a variety of materials and resources for children to explore, manipulate and use, both in learning activities and in imaginative play. Attend to children's basic needs by feeding them, dressing them, and changing their diapers. Teach basic skills such as color, shape, number and letter recognition, personal hygiene, and social skills. Establish and enforce rules for behavior, and procedures for maintaining order. Read books to entire classes or to small groups. Organize and lead activities designed to promote physical, mental and social development, such as games, arts and crafts, music, storytelling, and field trips."
+        },
+        {
+            "title": "Opening Coordinator",
+            "company": "Company Name",
+            "start_date": "September 2014",
+            "end_date": "August 2015",
+            "description": "Make daily decisions to ensure product quality, store cleanliness, and other Company standards are met. Understand cost control procedures, financial accounting, inventory levels, and labor management. Monitor shift profitability. Know, understand, and execute proper cash handling and safe procedures. Set up shift board and personnel positioning. Responsible for receiving deliveries and following all security procedures. Ensure birthday parties are set up and that appropriate personnel are scheduled and assigned to assist the party; evaluate birthday surveys & results. Supervise Cast Members."
+        },
+        {
+            "title": "Site Aide",
+            "company": "Company Name",
+            "start_date": "February 2014",
+            "end_date": "November 2014",
+            "description": "Responsible for assisting the Site Supervisor and/or Assistant Site Supervisor in. planning, preparing, implementing, and supervising activities for the children."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Middletown High School",
+            "year": "2013"
+        },
+        {
+            "degree": "Associate of Arts: Early Childhood Education",
+            "school": "Brookdale Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,105 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior Director, Product Management with twenty years of experience in product management, product marketing, and business development across startups and publicly traded companies. Focused on customer business needs, with a deep online media background, and a passion for planning and building enabling technologies in streaming video, distribution, consumption, and monetization. Adept at leveraging data to drive opportunities, improve KPIs, and ship high-quality software on time.",
+    "skills": [
+        "Digital Video",
+        "Online Advertising",
+        "Streaming video platforms",
+        "Product Management",
+        "Strategic Partnerships",
+        "Customer Needs Analysis",
+        "Agile / Scrum",
+        "User Testing / UX Research",
+        "Data Analysis / KPI-driven decision making",
+        "Partner Ecosystems",
+        "Market Segmentation",
+        "Thought Leadership / White Papers"
+    ],
+    "experience": [
+        {
+            "title": "Senior Director, Product Management",
+            "company": "ReverbNation",
+            "start_date": "Aug 2013",
+            "end_date": "Current",
+            "description": "Led a team of product managers, designers, and QA testers. Managed, designed, and released the first mobile-responsive version of the product. Conducted extensive user testing across iterations. Analyzed key performance indicators to drive new opportunities and identify product problems."
+        },
+        {
+            "title": "VP, Digital Media Solutions",
+            "company": "Brightcove",
+            "start_date": "Jul 2012",
+            "end_date": "Jul 2013",
+            "description": "Developed and executed a strategic vision delivering solutions for media companies across verticals; created media segmentation, target market definitions, and core messaging; built industry-specific solutions blending partner technologies, Brightcove services, and core product for mobile advertising, live ad insertion, and connected TV apps. Collaborated with CTO and VP of Product to prioritize features; supported sales with pitches; consulted with customers to improve practices; managed event presence and authored thought leadership."
+        },
+        {
+            "title": "Director, Technology Partnerships",
+            "company": "Brightcove",
+            "start_date": "Jan 2009",
+            "end_date": "Jun 2012",
+            "description": "Created and managed Brightcove's Technology Partner program (over 200 participants across more than a dozen categories); recruited partners; developed legal, business, and technical framework; negotiated strategic deals; implemented partner onboarding and management processes; integrated partners into customer accounts to address business needs."
+        },
+        {
+            "title": "Director, Ad Products",
+            "company": "Brightcove",
+            "start_date": "Oct 2006",
+            "end_date": "Dec 2008",
+            "description": "Led advertising features for the video platform, conducted customer visits and usability studies, introduced Scrum to development, collaborated across functions, and built technical partnerships with key ad industry players; co-authored the IAB's Digital Video Overview and VAST specs; built a network of publishers and managed ad inventory and payments."
+        },
+        {
+            "title": "Vice President, Product",
+            "company": "eDataSource",
+            "start_date": "Apr 2006",
+            "end_date": "Oct 2006",
+            "description": "Ran the product team, developed brand identity, conducted many customer interviews to identify features, worked with a small development team to deliver products, and implemented process changes to improve manual labor efficiency by over 300%."
+        },
+        {
+            "title": "Director of Products",
+            "company": "Viewpoint",
+            "start_date": "Mar 2003",
+            "end_date": "Apr 2006",
+            "description": "Defined product direction, wrote specifications, set development priorities, and led development teams. Brought Viewpoint's first SaaS product for rich media advertising; created templates; managed a team of 20+; integrated Unicast assets post-acquisition; migrated from waterfall to Scrum; maintained partner relationships with AOL, Adobe, and DoubleClick."
+        },
+        {
+            "title": "Director, Product Marketing",
+            "company": "Viewpoint",
+            "start_date": "Jan 2000",
+            "end_date": "Feb 2003",
+            "description": "Managed product marketing responsibilities including product definition, value proposition, pricing, lead generation, events, communications, and PR. Led a team of seven with a $5M budget. Developed Viewpoint's first suite of advertising products and campaigns; managed AOL and client relationships; delivered marketing solutions for major clients."
+        },
+        {
+            "title": "Product Manager",
+            "company": "Softimage",
+            "start_date": "Sep 1997",
+            "end_date": "Jan 2000",
+            "description": "Designed and implemented strategy for a mature product, performed pricing changes, built partnerships, created demos, and produced marketing communications. Worked with R&D to prioritize features and drive releases; coordinated cross-department efforts for major releases; engaged with key partners."
+        },
+        {
+            "title": "Director, 3D Products",
+            "company": "Specular",
+            "start_date": "Jan 1991",
+            "end_date": "Jun 1997",
+            "description": "Helped build one of the first professional Mac- and Windows-based 3D modeling, animation, and rendering systems; contributed to teams and processes for support, QA, PM, product marketing, and marketing communications; helped grow the company to ~40 people and $12M in revenue before acquisition."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Behavioral Sciences",
+            "school": "Concordia College",
+            "year": "2003"
+        },
+        {
+            "degree": "Coursework toward a degree in International Affairs",
+            "school": "New School University",
+            "year": ""
+        },
+        {
+            "degree": "Concentration in Computer Science and Computer Graphics and Animation",
+            "school": "Hampshire College",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

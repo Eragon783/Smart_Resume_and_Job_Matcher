@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Information Technology professional with 10+ years of experience in IT hardware/software deployment, helpdesk support, data migration, Active Directory administration, NAS/Novell and Windows environments, and project coordination for large-scale migrations.",
+    "skills": [
+        "A+",
+        "Active Directory",
+        "Apollo",
+        "ARMY",
+        "data migration",
+        "Dell",
+        "Email",
+        "HP",
+        "IBM",
+        "Intel",
+        "NAS",
+        "network",
+        "Novell",
+        "NetWare",
+        "Outlook",
+        "SharePoint",
+        "Windows",
+        "MCSE",
+        "MOS",
+        "NDS",
+        "Remedy",
+        "Robocopy",
+        "PowerShell"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Support Specialist / Network Specialist / PC Technician / IT Consultant / Customer Engineer",
+            "company": "Apollo / SunTrust EIS",
+            "start_date": "2011-01",
+            "end_date": "Present",
+            "description": "Led design, deployment and operation of IT hardware and software; provided helpdesk support; performed data migration using Robocopy, eDirectory/NDS, and NAS; managed NAS space and server migrations across SunTrust EIS; conducted Remote Desktop operations; supported Active Directory rights for multiple groups; coordinated pre- and post-migration activities and maintained project calendars; updated SharePoint with incidents and resolutions; handled about 50+ end-user calls per week at Command Center."
+        },
+        {
+            "title": "Customer Engineer",
+            "company": "Company Name",
+            "start_date": "2009-12",
+            "end_date": "2010-05",
+            "description": "Prepared directory structures and permissions for NAS users; sent notifications to branch and non-branch managers; used Carbon Copy to migrate PST files; employed Robocopy to move user data to NAS; connected to servers via Remote Desktop to configure tasks; performed cutovers, verified user folders and permissions on NAS; updated Active Directory for H: drive changes; coordinated branch migrations and daily progress reporting."
+        },
+        {
+            "title": "Technical Desktop Support",
+            "company": "Company Name",
+            "start_date": "2009-07",
+            "end_date": "2009-10",
+            "description": "Provided technical desktop support for AT&T upgrade project across 7+ wireless stores; installed Ingenico SigCap devices; updated peripherals; triaged and resolved Remedy tickets; imaged and configured computers for rollout; inventoried equipment; imaged managers’ laptops; delivered store-level IT support."
+        },
+        {
+            "title": "IT Support / Network Support",
+            "company": "Company Name",
+            "start_date": "2008-12",
+            "end_date": "2009-05",
+            "description": "Supported network operations for recruiting team at Radisson Hotel; led deployment of 300 PCs and peripherals; documented inventory for IT Manager; handled shipping and receiving and server installations necessary for forest project."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Information Technology",
+            "school": "University of Phoenix",
+            "year": "2011"
+        },
+        {
+            "degree": "Associate of Arts: Paralegal Network Engineering",
+            "school": "Southern College",
+            "year": "2001"
+        },
+        {
+            "degree": "Diploma: Paralegal Network Engineering",
+            "school": "Southern Technical Institute",
+            "year": "2002"
+        }
+    ],
+    "certifications": [
+        "MCSE",
+        "A+",
+        "NET+",
+        "SEC+"
+    ],
+    "languages": []
+}

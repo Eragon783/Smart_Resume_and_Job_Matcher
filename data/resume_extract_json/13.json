@@ -1,0 +1,89 @@
+{
+    "name": "Alexander Gusev",
+    "email": "",
+    "phone": "",
+    "location": "Rishon LeZion, Israel",
+    "summary": "Front-End Developer with experience in JavaScript, React and Redux, plus knowledge of Python frameworks. Proven ability to develop responsive web applications, analyze UI/UX, and collaborate with cross-functional teams.",
+    "skills": [
+        "Python 2.7 and 3.6",
+        "JavaScript (ES4, ES5, ES6)",
+        "HTML5",
+        "DHTML",
+        "XHTML",
+        "CSS3",
+        "SCSS",
+        "LESS",
+        "PHP Fundamentals",
+        "Django",
+        "Flask",
+        "jQuery",
+        "Foundation",
+        "Express.js",
+        "Redux",
+        "React",
+        "Redux Form",
+        "Redux Saga",
+        "Bootstrap",
+        "Material-UI",
+        "BeautifulSoup",
+        "Underscore",
+        "SQLAlchemy",
+        "Lodash",
+        "Node.js Fundamentals",
+        "Apache Fundamentals",
+        "MAMP",
+        "WAMP",
+        "MySQL",
+        "SQLite",
+        "PostgreSQL",
+        "Mac",
+        "Linux",
+        "Windows",
+        "Git",
+        "virtualenv",
+        "npm",
+        "Gulp",
+        "ESLint",
+        "Babel",
+        "Cypress",
+        "Zeplin",
+        "Kanban",
+        "Asana",
+        "Jira",
+        "Flux",
+        "UI/UX"
+    ],
+    "experience": [
+        {
+            "title": "Front-End Developer",
+            "company": "Trucknet",
+            "start_date": "2019",
+            "end_date": "Present",
+            "description": "Developing responsive web applications using JavaScript, React and Redux; Responsible for implementation of new mainframe development project; Writing new components using Material-UI and Redux Form; Analyzed UI/UX design for responsive layout for improved usability; Worked with team of developers to resolve front-end and CSS issues"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Science",
+            "school": "NAU (National Aviation University)",
+            "year": "2012-2014"
+        },
+        {
+            "degree": "Programming",
+            "school": "WSEI (High School of Economics and Innovations)",
+            "year": "2014-2018"
+        },
+        {
+            "degree": "Training / Course",
+            "school": "IITC/InterBit, MASA TLALIM",
+            "year": "2018-2019"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Russian (Native)",
+        "Ukrainian (Native)",
+        "English (Upper-Intermediate B2)",
+        "Polish (Intermediate B1)"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Executive Profile: A combination of specialized training and professional experience results in excellent qualifications as an Executive Chef, Sous Chef and Chef. Highly skilled in a variety of cuisines, including Italian, Peruvian, Mexican and Fusion. Possesses outstanding interpersonal, communication and training skills. Able to create quality cuisine within budgetary cost controls. Flexible, with the ability to excel in both first-class fine dining and high-volume operations. Develops and motivates a highly productive team.",
+    "skills": [
+        "Small business development",
+        "Leadership/communication skills",
+        "Product development",
+        "Business operations organization",
+        "Budgeting expertise",
+        "Negotiations expert",
+        "Employee relations",
+        "Self-motivated",
+        "Customer-oriented",
+        "Event planning",
+        "Listening skills",
+        "Exceptional multi-tasker",
+        "Hospitality expertise",
+        "Communicates effectively"
+    ],
+    "experience": [
+        {
+            "title": "Chef Owner",
+            "company": "Company Name, City, State",
+            "start_date": "2010-01",
+            "end_date": "2012-09",
+            "description": "Management of all financial and personnel records. Recruited, interview and train staff while ensuring health and safety standards. Development of marketing strategy responsible for doubling the sales in one year. Received over 300 outstanding reviews on Yelp.com."
+        },
+        {
+            "title": "Director of Culinary Arts",
+            "company": "Company Name, City, State",
+            "start_date": "2007-01",
+            "end_date": "2009-01",
+            "description": "Train and manage kitchen personnel, supervise/coordinate all related culinary activities; estimate consumption and requisition or purchase food; select and develop recipes; standardize production recipes to ensure consistent quality; establish presentation technique and quality standards; plan and price menus; ensure proper equipment operation/maintenance; and ensure proper safety and sanitation in kitchen; oversee special catering events; and offer culinary instruction and/or demonstrate culinary techniques; responsibility for hiring, discipline, performance reviews and initiating pay increases."
+        },
+        {
+            "title": "Sous Chef",
+            "company": "Company Name, City, State",
+            "start_date": "2003-12",
+            "end_date": "2006-12",
+            "description": "Oversaw all aspects relating to culinary operations including kitchen supply and inventory, maintaining government regulations, and monitoring customer satisfaction. Menu development as well as food preparation. Food and Nutrition Department. Oversaw all procedures and development with Executive Chef menus and recipes, including Special VIP Events. Oversees 3,000 meals at day, full service cafeteria and all catering events."
+        },
+        {
+            "title": "Food Service Director",
+            "company": "Company Name, City, State",
+            "start_date": "2001-11",
+            "end_date": "2003-12",
+            "description": "Conducted daily pre-shift and weekly departmental meetings to ensure organizational efficiency. Scheduled and directed staff in daily work assignments to maximize productivity. Efficiently resolved problems or concerns to the satisfaction of all involved parties. Continually monitored facility and took appropriate action to ensure food quality and service standards were consistently met."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts: Culinary Arts",
+            "school": "Los Angeles Culinary Institute",
+            "year": 1994
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

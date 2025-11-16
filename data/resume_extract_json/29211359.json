@@ -1,0 +1,73 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Motivated, personable professional with broad range of food and beverage experience, as well as experience with some of the world's leading hotel management companies in customer service and guest relations. Very quick learner and great when performing alone or with a team. Flexible and versatile, very organized, and eager to anticipate challenges at a higher level. Highlights Sous vide technique Contemporary sauce work Food handlers card Focused and disciplined High volume production capability Well-tuned palette Focus on portion and cost control Inventory management familiarity Scheduling proficiencyStandard operating procedures Problem resolution Deadline-oriented Microsoft Office Spreadsheet development Employee training and development Safety-oriented Superior communication skills Team player Conflict resolution Skilled multi-tasker Excellent judgment Adaptable Organized Fast learner Staff training and development Data management POS systems Scheduling Accomplishments Nominated/Awarded Group Leader at The Culinary Institute of America",
+    "skills": [
+        "Business operations",
+        "Costing",
+        "Creativity",
+        "Special events",
+        "Food safety",
+        "Inventory",
+        "Payroll",
+        "Purchasing/receiving",
+        "Scheduling"
+    ],
+    "experience": [
+        {
+            "title": "Room Chef",
+            "company": "Company Name – City , State",
+            "start_date": "May 2014",
+            "end_date": "September 2015",
+            "description": "Responsible for the daily operations of kitchens for both casual dining restaurant and fine dining steakhouse, as well as management of the steakhouse front of house operations. Experience includes scheduling, payroll, and overall management of 20+ employees, training and development, creating seasonal menus, inventories, purchasing and receiving and assisting in the organization and delegation for large functions and special events. Through costing and menu changes, reduced food cost percentage in both restaurants by 10%. Slashed the time required to conduct monthly inventories for all food and beverage outlets by completely redesigning the structure and organization of inventory sheets and data input sheets."
+        },
+        {
+            "title": "Line Cook",
+            "company": "Company Name – City , State",
+            "start_date": "July 2012",
+            "end_date": "May 2014",
+            "description": "Responsible for both pantry/garde manger and sauté stations, assisted in daily prep and production of all menu items, as well as preparation and execution of high-volume functions. Worked with a small, tight-knit team and a constantly changing menu (rotated monthly), which allowed for more freedom of creativity and involvement in menu development. Multiple ideas for popular nightly specials were added to the permanent monthly menus."
+        },
+        {
+            "title": "Room Dining Server",
+            "company": "Company Name – City , State",
+            "start_date": "July 2011",
+            "end_date": "July 2012",
+            "description": "Delivered meals to guest rooms, providing full tableside service to guests for all meal periods. Set tables per order, assisted in plating and presentation; assisted guests with all requests pertaining to food and beverage as well as other hotel departments and amenities. Assisted pastry kitchen and garde manger stations in preparing items for amenities. Performed departmental tasks such as conducting monthly inventories, daily requisitions, and participation in a regimented daily cleaning and organization schedule. Utilizing pairing knowledge gained from studies for the Court of Master Sommeliers when speaking with guests, increased overall sales of wine for In Room Dining by 20%."
+        },
+        {
+            "title": "Patisserie Attendant / In Room Dining Order Taker",
+            "company": "Company Name – City , State",
+            "start_date": "January 2010",
+            "end_date": "July 2011",
+            "description": "Patisserie - Responsible for all daily business operations including arranging and serving freshly-made desserts and pastries, coffee and espresso beverages, having very broad knowledge of the ingredients and execution of all products, storing and holding perishables in accordance with health code, including FIFO and temperature logging, sanitation and cleanliness standards, and recording inventory, purchasing and receiving orders. In Room Dining - Answered guest and in-house calls pertaining to in room dining orders, as well as expedited orders, working closely with the kitchen, setting tables, arranging and expediting the delivery of daily hotel welcome amenities as well as many in-house conferences and functions. In Room Dining - Streamlined processes regarding amenities, communications to those on future shifts, and redevelopment of printed restaurant menus for both MoZen and Pierre Gagnaire's Twist."
+        },
+        {
+            "title": "Cafe Barista",
+            "company": "Company Name – City , State",
+            "start_date": "November 2008",
+            "end_date": "November 2009",
+            "description": "Created specialty coffee and espresso drinks, as well as a variety of hot and cold sandwiches, desserts and pastries. Experience and daily tasks included keeping daily inventories, practicing standard food safety procedures, and maintaining a safe, clean and sanitary work environment."
+        },
+        {
+            "title": "Commis / Extern",
+            "company": "Company Name – City , State",
+            "start_date": "September 2007",
+            "end_date": "January 2008",
+            "description": "Assisted in daily prep and production of all menu items. Participated in preparation and execution of high-volume functions. Trailed and trained in all kitchen areas, such as the hot line, raw bar, garde manger, purchasing and receiving."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science: Culinary Arts",
+            "school": "The Culinary Institute of America",
+            "year": 2008
+        }
+    ],
+    "certifications": [
+        "Court of Master Sommeliers - Introductory Sommelier Certificate (2013)"
+    ],
+    "languages": []
+}

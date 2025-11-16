@@ -1,0 +1,115 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Excellent supervisory and organizational skills with the ability to effectively handle multiple ongoing events and time critical projects. Flexible, fast-learner who adapts quickly to new situations and enjoys working in a team setting. Strong customer service abilities and accustomed to working with a broad spectrum of personalities.",
+    "skills": [
+        "Managing large crews",
+        "Quality control",
+        "Forklift and HAZMAT certified",
+        "Baseline schedules creation",
+        "Safe job site set-up",
+        "Blueprint fluency",
+        "Power and hand tool operation",
+        "MS Office proficient",
+        "Organized and detail-oriented",
+        "Superb management skills",
+        "Heavy equipment operator",
+        "EMT",
+        "OSHA 10",
+        "Communication training",
+        "Anritsu"
+    ],
+    "experience": [
+        {
+            "title": "Construction Manager II",
+            "company": "Company Name City, State",
+            "start_date": "09/2014",
+            "end_date": "02/2015",
+            "description": "Mobile L700 builds out for T-Mobile. Coordinated plans and specs using marketing programming standards. Educated general contractor personnel on quality standards. Reviewed and investigated PCORs. Submitted all project closeout documents per contract. Performed site pre-inspections and post-construction audits. Provided status information on project progress to management. Recorded and rejected incorrect material deliveries. Tools used: LDO cam, Site handler, Ericsson portal, Excel."
+        },
+        {
+            "title": "Construction Manager",
+            "company": "Company Name City, State",
+            "start_date": "09/2013",
+            "end_date": "09/2014",
+            "description": "AT&T RMR project, PMW Sprint / iDen project. Colorado, Wyoming, Montana assigned market of work. Managed start/finish, closeout packaging, BOM creation and review with GC, scoping, and redlining. Maintained milestone points in Excel, daily conference calls, and site visits. Educated general contractor personnel on quality standards. Reviewed and tracked all PCORs. Submitted all project closeout documents per milestone tracker. Performed pre-inspections and post-construction audits. LTE Sprint/UMTS upgrades."
+        },
+        {
+            "title": "Wireless Construction Manager",
+            "company": "Company Name City, State",
+            "start_date": "10/2012",
+            "end_date": "09/2013",
+            "description": "Sprint Project. Supervisor responsibilities included BOM material ordering, reviewing drawings, redlining, as-built, daily site visits. Ensured crews had CPR, Com Train, Safety signage, fire extinguisher, first aid kit, Rescue bag, JHA properly filled out. Provided status information on site progress with construction manager. Performed pre-inspections and post-construction audits. Managed 86 sites, overseeing 2 field supervisors, building BOM for site, CD correct and given to GC, Change order reviewed and properly managed. Tracked milestone performance and conducted site audits with A% E vendor. Tracked P.O requests for approval or denial."
+        },
+        {
+            "title": "Fire Fighter",
+            "company": "Company Name City, State",
+            "start_date": "03/2010",
+            "end_date": "11/2012",
+            "description": "Firefighter / EMT. Duties included fire suppression, station maintenance, ongoing training. Extra duties included wildland team, Rescue team, continuing certifications in high angle rescue, SWR, and Diver. Active member in the Hammond fire as well as the high country near Fort Collins."
+        },
+        {
+            "title": "Owner - Property preservation",
+            "company": "Company Name City, State",
+            "start_date": "05/2006",
+            "end_date": "11/2012",
+            "description": "Ran property preservation business. Processed work orders for financial institutions regarding foreclosures. Secured and maintained property assigned through financial institutions. Managed several general contractors, took bids, site surveys. Bookkeeping, spreadsheets, ordering supplies."
+        },
+        {
+            "title": "Field Construction Foreman",
+            "company": "Company Name City, State",
+            "start_date": "04/2006",
+            "end_date": "08/2009",
+            "description": "Operations with RF: Re Mods, Antenna swap outs, assembly/erection of tower structures, running coax lines, jumpers, TMA, diplexers, sweeping, closeout packages. Microwave full dress out using elliptical coax lines, path alignment, close out packages. Anritsu sweeping."
+        },
+        {
+            "title": "Foreman",
+            "company": "Company Name City, State",
+            "start_date": "08/1994",
+            "end_date": "04/2006",
+            "description": "Managed crews assembling, mounting, running of coax, swinging path for full microwave build outs. RF: Assembly of mounts, antennas, tower, monopole, guide towers, self supports, rooftops. Running coax of varied sizes, rigging, grounding, sweeping, turning in closeouts."
+        },
+        {
+            "title": "Installation Technician",
+            "company": "Company Name City, State",
+            "start_date": "01/1993",
+            "end_date": "08/1994",
+            "description": "Travel throughout Texas and Oklahoma to install twisted wire and fiber optic telephone and data cables in office buildings. Follow wiring diagrams and blueprints; ensure accuracy of cable and junction box layout. Test all units to ensure a passing grade. Installation of A/V system, light mods, stage set ups."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Undergraduate coursework toward Bachelor's degree",
+            "school": "Lubbock Christian University",
+            "year": null
+        },
+        {
+            "degree": "Undergraduate coursework toward Bachelor's degree",
+            "school": "University of Maryland",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Heidelberg High School, U.S. Department of Defense",
+            "year": "1989"
+        }
+    ],
+    "certifications": [
+        "Cathead",
+        "skid loader",
+        "Backhoe",
+        "Hydro winch",
+        "Boom truck operations",
+        "Crane",
+        "Anritsu sweeping",
+        "Communication training",
+        "CDL",
+        "HAZMAT certified",
+        "OSHA 10"
+    ],
+    "languages": [
+        "English"
+    ]
+}

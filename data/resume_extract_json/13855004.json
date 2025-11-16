@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Enthusiastic, highly motivated educator dedicated to instilling in children the passion to become life-long learners; seeking Enrichment Specialist position.",
+    "skills": [
+        "Microsoft Office",
+        "Microsoft Windows XP Professional (Word, Excel, PowerPoint, Publisher)",
+        "Internet Browsers",
+        "Learning Google Chrome & Applications",
+        "Infinite Campus"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "August 2010",
+            "end_date": "Present",
+            "description": "Executed lesson plans and evaluated effectiveness through assessment and reflection; created visual supports using technology to enhance and differentiate instruction; used the Go Math, Eureka, Engage NY, IXL & Khan Academy resources to provide math instruction; led inquiry-based student investigations for the FOSS Science Program using Next Generation Standards; worked with the Common Core & Next Generation Standards to provide structured instruction; provided Smarter Balanced NWEA Test Preparation for Mathematics & Science; created instructional materials and strategies consistent with student learning and behavioral needs; utilized the Positive Behavior Support (PBS) Program; collaborated with grade partners to provide consistent instruction and to develop and implement grade-level goals; updated a teacher Infinite Campus with homework, grades and events to extend parental and student communication."
+        },
+        {
+            "title": "6th Grade Teacher",
+            "company": "Company Name",
+            "start_date": "August 2008",
+            "end_date": "June 2010",
+            "description": "Provided a balanced literacy program to fifth graders based on Shelton's curriculum goal of the whole, small, whole Reader's Workshop Model; used various strategies and procedures for small group instruction to increase student growth in vocabulary, fluency, and comprehension; utilized technology across multiple content areas; taught strategies for previewing books and choosing a book that is 'just-right'; provided Writing Instruction through the Writer's Workshop model; utilized the Houghton Mifflin Anthology to model meta-cognitive reading strategies; supplemented curriculum with various non-fiction texts; utilized Literacy Work Stations during small group instruction (Independent Daily Reading Station, Word Study Station, CMT Strand Work Station); provided small group instruction based on analysis of weak CMT strands in Reading, Writing, and Math; administered and analyzed Developmental Reading Assessment (DRA 2); provided CT Mastery Test Preparation for Reading, Writing, Mathematics, and Science; created instructional materials and strategies consistent with student learning and behavioral needs; utilized the Positive Behavior Support (PBS) Program to provide positive reinforcement as a preventive measure for disruptive and/or inappropriate behavior."
+        },
+        {
+            "title": "Special Education Tutor",
+            "company": "Company Name",
+            "start_date": "September 2007",
+            "end_date": "June 2008",
+            "description": "Modified math curriculum and created worksheets for a sixth grade student in accordance with IEP objectives; created accommodated quizzes, tests, lesson and study guides for sixth grade Social Studies curriculum; provided small group instruction for core content subjects in K-6 general education classrooms; provided assistance to general education teacher using the Inclusion Model for instruction; Assess Kindergarten students using Shelton Public Schools Assessment; Administer Brigance Inventory of Basic Skills to special education students; Administer CMT's to special education students; provide accommodations during sixth grade Writer's Workshop for a group of six students; planned and implemented an introduction to the 6th grade Science Embedded Task utilizing the Scientific Method; Create visual supports using technology to enhance and to differentiate instruction; Observe and assist with Everyday Mathematics, Wilson Reading, Houghton Mifflin, Scott Foresman Social Studies lesson, CMT Prep, and Literature Circles."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma",
+            "school": "Derby High School",
+            "year": "2003"
+        },
+        {
+            "degree": "Bachelor of Arts in Psychology",
+            "school": "Southern Connecticut State University",
+            "year": "2007"
+        },
+        {
+            "degree": "Collaborative Endorsement (Elementary Regular/Special Education)",
+            "school": "Southern Connecticut State University",
+            "year": "2010"
+        },
+        {
+            "degree": "NCATE Endorsement: Remedial Reading and Remedial Language Arts, Grades K-12 (102 Certification)",
+            "school": "Southern Connecticut State University",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "NCATE Endorsement, National Council for Accreditation of Teacher Education",
+        "Connecticut Collaboration (Elementary Regular Education/Special Education) (013, 165 certifications)",
+        "Collaborative Endorsement (Elementary Regular/Special Education) (013, 165)",
+        "Remedial Reading and Remedial Language Arts, Grades K-12 (102 Certification)",
+        "Praxis II (Regular Education)",
+        "Praxis II (Special Education)",
+        "Passed Reading Test"
+    ],
+    "languages": []
+}

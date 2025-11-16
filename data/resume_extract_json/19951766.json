@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Throughout the years, I've been trained to give only the best service and customer care. It is not only about doing the job right, but to make sure the customer is satisfied with their experience. I've progressed from a cashier, to a waitress, to my most recent employment as a blackjack dealer, giving me a total of three years experience in customer care. However, My skills are not limited to this description, so I'm sure I'll be the perfect fit for any position available.",
+    "skills": [
+        "Typing speed of 98 WPM",
+        "PowerPoint",
+        "Word",
+        "Access",
+        "Excel",
+        "Photoshop",
+        "Trained to deal: Blackjack, UltimateTexas Hold'em and Three Card Poker",
+        "Customer service experience and course training",
+        "Cash handling",
+        "Reliable team worker",
+        "Neat, clean and professional appearance",
+        "Comfortable standing for long time periods",
+        "Math and language skills",
+        "Delivers exceptional customer service",
+        "Engaging personality",
+        "Excellent multi-tasker"
+    ],
+    "experience": [
+        {
+            "title": "Table Games Dealer",
+            "company": "Company Name City , State",
+            "start_date": "November 2012",
+            "end_date": "June 2014",
+            "description": "Educated customers on game rules and mathematical probabilities of various wagers. Increased volume and loyalty to the casino by attracting new players and building one-on-one relationships with guests. Took and paid bets and retrieved cards. Inspected cards and equipment to be used in games to verify proper functioning. Processed customer transactions involving cash, and casino chips. Calculated change for currency, chips, vouchers and checks. Provided excellent customer service for up to (6) players at the same time, including their guests."
+        },
+        {
+            "title": "Server/Hostess/Cashier",
+            "company": "Company Name City , State",
+            "start_date": "April 2010",
+            "end_date": "May 2011",
+            "description": "Delivered exceptional service by greeting and serving customers in a timely, friendly manner. Facilitated prompt and accurate seating and service of all guests. Managed closing duties, including restocking items and reconciliation of the cash drawer. Consistently adhered to quality expectations and standards. Skillfully anticipated and addressed guests' service needs. Delivered exceptional, friendly and fast service. Inquired about guest satisfaction, anticipated additional needs and happily fulfilled requests. Routinely cleaned table linens, table settings, glassware, windowsills, carpets, counters, floors, storage areas and service refrigerators. Correctly calculated charges, issued bills and collected payments. Continually kept carpets and floor clear of debris. Regularly cleaned host stand and buffet area. Maintained a professional tone of voice and words at all times, including during peak rush hours. Actively complied with all health department regulations and rectified issues immediately. Operated and maintained cleaning equipment and tools, including the dishwasher, and hand/table wash stations. Transported all dirty tableware from dining room to dishwashing area for proper cleaning. Consistently delivered exceptional customer service by quickly and efficiently clearing restaurant tables. Stocked and maintained silverware, linen and condiments. Provided high quality service."
+        },
+        {
+            "title": "Server/Waiter",
+            "company": "Company Name City , State",
+            "start_date": "February 2009",
+            "end_date": "January 2010",
+            "description": "Delivered exceptional service by greeting and serving customers in a timely, friendly manner.. Consistently adhered to quality expectations and standards. Delivered exceptional, friendly and fast service. Inquired about guest satisfaction, anticipated additional needs and happily fulfilled requests. Prepared the buffet and salad bar for dinner service. Continually kept carpets and floor clear of debris. Maintained a professional tone of voice and words at all times, including during peak rush hours. Facilitated prompt and accurate seating and service of all guests. Regularly cleaned host stand and buffet area. Transported all dirty tableware from dining room to dishwashing area for proper cleaning. Consistently delivered exceptional customer service by quickly and efficiently clearing restaurant tables. Supported other areas of the restaurant as necessary, such as setup, cleanup, prep work and equipment maintenance. Stocked and maintained silverware, linen and condiments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Arkansas City High School",
+            "year": 2012
+        },
+        {
+            "degree": "Some Associates in Psychology",
+            "school": "Cowley County Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Course training in customer service and confrontation at First Council Casino Hotel"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

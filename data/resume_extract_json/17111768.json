@@ -1,0 +1,82 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Highly-qualified Department of Defense (DoD) Program Manager (PM) professional, driven to maximize Mission Partner (MP) operational efficiency through planning, project management and Infrastructure Technology (IT) expertise. Excels at building dynamic team relationships and achieves project management process improvements. Looking to continue federal career as a strategic planner possessing exceptional knowledge understanding support agreements, basis of estimates, fiscal analysis, financial reporting, cost projections, business proposals and increased overall responsibilities within federal service.",
+    "skills": [
+        "Project management",
+        "Program management",
+        "DoD / DISA processes",
+        "Requirements analysis",
+        "Stakeholder engagement",
+        "Financial planning and budgeting",
+        "Cost projections",
+        "Proposal development",
+        "IT infrastructure",
+        "Security / DIACAP",
+        "IA / DIACAP coordination",
+        "IOE / IOC / Go-Live",
+        "Baseline Change Request (BCR) management",
+        "Data center consolidation / FDCCI",
+        "Change management",
+        "Customer service",
+        "Leadership",
+        "Communication"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Project Manager System Analysis (SYSANALSYS) [GS-2210-12]",
+            "company": "Company Name, City, State",
+            "start_date": "January 2010",
+            "end_date": "Present",
+            "description": "Holds active security clearance. Serves as the DISA Program Manager for DLA's Enterprise Business Systems (EBS) Test and Development environment; primary DISA SME government Program Lead for the Federal Data Center Consolidation Initiative (FDCCI). Acts as the POC for Mission Partner identification, tracking, and resolution of project issues. Manages requirements analysis, workload utilization, risk management, and the overall project work plan; coordinates with IA to ensure DIACAP packaging; ensures IOC/Go-Live readiness; transitions projects to operational sustainment and Full Operational Capability (FOC); leads budgeting, BOM/SD-based proposals, funding acceptance, and billing coordination with the customer account representative (CAR) and BAN. Oversees IOE readiness, STIG application, and ECA approvals."
+        },
+        {
+            "title": "Computer Technician Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "August 2009",
+            "end_date": "January 2010",
+            "description": "Managed, provisioned, configured, built and staged operational computer systems for Navy/Marine Corps Intranet project."
+        },
+        {
+            "title": "IT Specialist",
+            "company": "STEP (Student Technology Education Program) / DISA Naval service desk support",
+            "start_date": "March 2008",
+            "end_date": "August 2009",
+            "description": "Reported to Lead Supervisor of DISA Naval service desk support. Independently managed and filed data tape entry into appropriate storage drives. Consistently received excellent evaluations on reviews."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Organizational Development and Leadership (ODL)",
+            "school": "Shippensburg University",
+            "year": "2015"
+        },
+        {
+            "degree": "Associate in Network and Internet Security Administration (NISA)",
+            "school": "YTI Career Technical Institute",
+            "year": "2009"
+        },
+        {
+            "degree": "Bachelor of Arts in Sociology",
+            "school": "Millersville University",
+            "year": "2006"
+        }
+    ],
+    "certifications": [
+        "CompTIA Security+",
+        "ITIL Foundation Certification in IT Service Management",
+        "Foundations of Project Management for IT Professionals",
+        "Introduction to IT Project Management",
+        "PMP Certification Camp",
+        "Microsoft Project 2010 Level 1 and 2",
+        "Defense Acquisition University: Developing a Systems Engineering Plan",
+        "Defense Acquisition University: DISA Information Systems Engineering Seminar (ISES)",
+        "Defense Acquisition University: Engineering Management Workshop (EMW)",
+        "Defense Acquisition University: Fundamentals of System Acquisition Management"
+    ],
+    "languages": [
+        "English"
+    ]
+}

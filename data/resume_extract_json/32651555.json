@@ -1,0 +1,87 @@
+{
+    "name": "Jason Park",
+    "email": null,
+    "phone": null,
+    "location": "Honolulu, HI",
+    "summary": "Experienced Fitness Director and operations professional with a background in security, executive protection, and client services. Proven ability to manage training staff, oversee payroll, enhance revenue, and develop programs while maintaining safety and compliance.",
+    "skills": [
+        "Teamwork",
+        "Leadership",
+        "Ocean Safety Knowledge",
+        "Customer Service",
+        "Basic Japanese",
+        "Executive Protection",
+        "Diamond Jewelry Sales",
+        "Personal Training",
+        "Payroll",
+        "Training Programs",
+        "Safety",
+        "First Aid",
+        "CPR",
+        "Sales",
+        "Operations",
+        "Scheduling",
+        "Recruiting",
+        "Public Speaking",
+        "Transportation"
+    ],
+    "experience": [
+        {
+            "title": "Fitness Director",
+            "company": "Company Name",
+            "start_date": "August 2015",
+            "end_date": "Present",
+            "description": "Manage 11 Personal Training Staff ensuring facility offers high-safety, effective training; develop diverse training programs. Draft and submit payroll for 11 training department employees bi-weekly. Conduct monthly training groups to ensure policy compliance. Sell club memberships and personal training services. Achievements: Increased monthly revenue to $32,000; promoted to Fitness Director within 90 days; first month as Fitness Director produced $77,800 in personal training sales, surpassing a $45,000 goal by $32,800."
+        },
+        {
+            "title": "Manager / Safety Advisor",
+            "company": "Company Name",
+            "start_date": "January 2012",
+            "end_date": "January 2016",
+            "description": "Entrusted with keys and security codes for opening/closing store; trained new employees on daily operations; managed reservations for surf lessons; coordinated tour ground demonstrations; practiced water safety and maintained CPR qualification; provided basic first aid for minor injuries."
+        },
+        {
+            "title": "Aviation Warfare Systems Operator",
+            "company": "U.S. Navy",
+            "start_date": "November 2004",
+            "end_date": "August 2010",
+            "description": "783 hours flight time as Tactical Helicopter Aircrewman; door gunner; anti-submarine warfare systems; airborne radar/sensor operator; awarded for top performance in Search and Rescue; featured in FUTURES Magazine and Today's Military; completed Special Operations Pipeline."
+        },
+        {
+            "title": "Diamond Jeweler / Executive Protection",
+            "company": "Jason Park Diamond",
+            "start_date": "July 2014",
+            "end_date": "October 2014",
+            "description": "Sales of diamonds, rare gemstones, sunrise shells, and Royal Hawaiian jewelry; provided personal security during transportation of valuables; assisted startup and grand opening of Jason Park Diamond."
+        },
+        {
+            "title": "Executive Assistant to CEO / Ambassador",
+            "company": "Discover Hawaii Tours",
+            "start_date": "July 2012",
+            "end_date": "April 2014",
+            "description": "Schedule meetings, coordinate travel for 1-7 personnel; assist with daily operations; contributed to Waikiki Welcome Center economic tour trolley development; maintenance manager for 108 tour buses; ensured decals/insurances and compliance with tourism regulations; oversaw 18 tour drivers ensuring TWIC, CDL, medical and legal clearances; coordinated tour routes/schedules; liaised with other tour companies; prepared breakfast boxes for 150-300 morning tours."
+        },
+        {
+            "title": "Sales Representative / Model",
+            "company": "RIX Islandwear",
+            "start_date": "February 2011",
+            "end_date": "January 2012",
+            "description": "Sales of brand men's Aloha shirts; opened/closed store; cashier/trainer; inventory management and quality control; modeled attire and featured on display poster."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Camden County High School",
+            "year": "2004"
+        }
+    ],
+    "certifications": [
+        "CPR",
+        "First Aid"
+    ],
+    "languages": [
+        "English",
+        "Japanese (Basic)"
+    ]
+}

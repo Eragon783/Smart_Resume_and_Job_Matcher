@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Office Manager with extensive experience in administrative operations, customer service, project management, and sales coordination. Proficient in Microsoft Office and cross-functional collaboration, vendor relations, and team leadership. Skilled in problem solving, planning, and effective communication.",
+    "skills": [
+        ".Net",
+        "Critical Thinking",
+        "customer service",
+        "designing",
+        "fashion",
+        "Leadership",
+        "Team Development",
+        "marketing plans",
+        "market research",
+        "Marketing",
+        "Microsoft Office",
+        "Problem Solving Skills",
+        "Project Management",
+        "sales",
+        "phone",
+        "Type",
+        "vendor relations",
+        "Verbal Communication",
+        "Written"
+    ],
+    "experience": [
+        {
+            "title": "Office Manager",
+            "company": "Career Center",
+            "start_date": "01/2004",
+            "end_date": "10/2016",
+            "description": "Verified, edited and approved job postings. Assisted employers with technical problems and job posting as needed. Managed main desk including monitoring phone calls, appointments and walk-ins."
+        },
+        {
+            "title": "Sales Manager/Account Executive",
+            "company": "Company Name",
+            "start_date": "07/2000",
+            "end_date": "01/2004",
+            "description": "Responsible and handled all specialty and major department stores accounts. Developed division's sales and marketing plans strategies and goals. Traveled to high-profile fashion market conventions in Dallas, Atlanta and Las Vegas."
+        },
+        {
+            "title": "Merchandiser Assistant",
+            "company": "Company Name",
+            "start_date": "09/1999",
+            "end_date": "04/2000",
+            "description": "Managed company account for Reebok, Inc. which included men's athletic apparel and Women's Olympic 2000 collection. Assisted in new initiative for company account Dunk.Net, the Shaq O'Neill Athletic Sport collection. Coordinated efficiency of Product Information Sheets for garment samples through reviewing accuracy of construction, sketches, trims and specifications. Performed role as a liaison between Merchandiser and Production Personnel with vendor relations to communicate fabrication timelines and other specific needs for efficient samples productions."
+        },
+        {
+            "title": "Sales Coordinator",
+            "company": "Company Name",
+            "start_date": "05/1997",
+            "end_date": "09/1999",
+            "description": "Managed progression of garment sampling (i.e. counter, production and salespeople sampling) for Misses Sportswear. Assisted designing of garment accessories such as buttons, yarn and update of line sheets. Planned and implemented merchandise presentations."
+        },
+        {
+            "title": "Sales Manager Assistant/Sales Representative",
+            "company": "Company Name",
+            "start_date": "10/1994",
+            "end_date": "05/1997",
+            "description": "Oversaw department's customer service. Communication liaison for buying department, identifying market research information. Organized sales team's meeting, shows and presentations between company and vendors."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Administration",
+            "school": "Mount Saint Mary's University",
+            "year": 2018
+        },
+        {
+            "degree": "Associate of Arts Degree in Merchandise Marketing",
+            "school": "FIDM / Fashion Institute of Design & Merchandising",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

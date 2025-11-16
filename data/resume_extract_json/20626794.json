@@ -1,0 +1,56 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Short term, to utilize skills as in the costumer service industry to prepare for my career in the future. Long term, to become an RN in pediatrics and prenatal care.",
+    "skills": [
+        "Microsoft",
+        "Excel",
+        "WPM 38",
+        "Customer service",
+        "Preschool teaching"
+    ],
+    "experience": [
+        {
+            "title": "Preschool Teacher",
+            "company": "Parkway Children School",
+            "start_date": "May 2015",
+            "end_date": "Present",
+            "description": "Offered detailed daily reports that outlined each child's activities. Maintained daily records of activities, behaviors, meals and naps. Carefully monitored children's play activities. Created and implemented a developmentally appropriate curriculum."
+        },
+        {
+            "title": "Warehouse Associate",
+            "company": "Company Name City, State",
+            "start_date": "January 2015",
+            "end_date": "May 2015",
+            "description": "Unloaded, picked, staged and loaded products for shipping. Worked at a rapid pace to meet tight deadlines."
+        },
+        {
+            "title": "Customer Service",
+            "company": "Company Name City, State",
+            "start_date": "November 2014",
+            "end_date": "January 2015",
+            "description": "Inbond calls. Addressed customer service inquiries in a timely and accurate fashion."
+        },
+        {
+            "title": "Clinical Externship / Student Practitioner",
+            "company": "College America, Phoenix",
+            "start_date": "May 2013",
+            "end_date": "May 2013",
+            "description": "160 hours clinical. Provided a helping hand at a clinic facility. Accomplishments: Managed call flow with up to 3 calls in 5 minutes. Worked with special needs children, including those with learning disabilities, mental challenges and physical impairments. Solved severe child behavioral issues in positive and constructive ways."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate in Medical Specialties",
+            "school": "College America",
+            "year": "2013"
+        }
+    ],
+    "certifications": [
+        "First Aid & CPR",
+        "Fingerprint clearance card"
+    ],
+    "languages": []
+}

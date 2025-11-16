@@ -1,0 +1,103 @@
+{
+    "name": "Kevin L. Trostle",
+    "email": null,
+    "phone": "865-336-4800",
+    "location": null,
+    "summary": "Seasoned Information Technology professional with extensive experience in IT/communications management, network administration, system design, and project coordination. Proven track record in maintaining mission-critical network and data systems for wings/units, leading cyber transport/client systems teams, and performing hands-on maintenance and upgrades. Strong problem-solving, vendor coordination, and training skills.",
+    "skills": [
+        "budget",
+        "cabling",
+        "Cisco",
+        "hardware",
+        "Client",
+        "documentation",
+        "Electrician",
+        "feasibility studies",
+        "funds",
+        "Information Technology",
+        "inspector",
+        "LAN",
+        "materials",
+        "access",
+        "network",
+        "networking",
+        "networks",
+        "personnel",
+        "Telephone Systems",
+        "printers",
+        "processes",
+        "Project Management",
+        "Quality Assurance",
+        "routers",
+        "system design",
+        "technical assistance",
+        "Technician",
+        "Telecommunications",
+        "Troubleshoot",
+        "troubleshooting",
+        "upgrades",
+        "video",
+        "wiring",
+        "Remedy ticketing",
+        "alarm management"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Specialist GS11",
+            "company": "Company Name, City, State",
+            "start_date": "2004-07",
+            "end_date": "Current",
+            "description": "Manage IT/communications environment with privileged network access for the Wing, GSU units, and tenants. Plan, coordinate, install, and analyze system design, hardware and software. Develop, recommend, and install upgrades to ensure availability, integrity, efficiency, and reliability of all components. Manage Remedy ticketing; oversee Telecommunications and NIPR networks; plan and analyze new hardware/software to ensure reliability and compatibility with existing architecture. Provide customer technical assistance/support; review purchase requests/SOWs; resolve integration or configuration issues; coordinate with CFP and vendors; identify upgrades; develop infrastructure capabilities; conduct feasibility studies and trend analyses to forecast future replacement or modification needs. Stay abreast of technology changes to support future enhancements."
+        },
+        {
+            "title": "Cyber Transport/ Client Systems Workcenter Supervisor",
+            "company": "Company Name, City, State",
+            "start_date": "2001-02",
+            "end_date": "Current",
+            "description": "Manage Cyber Transport/Client Systems work center personnel. Set and adjust work priorities, evaluate, and counsel subordinates. Document training of personnel using Computer Based Training. Sustain and operate systems through effective troubleshooting, PMI's, system performance testing/analysis. Systems include network infrastructure equipment, cabling, voice systems, video systems, small computers, and printers. Maintain close working relationship with Communications Focal Point—production requirements/Remedy tickets."
+        },
+        {
+            "title": "F-16 Ejection System Technician",
+            "company": "Company Name, City, State",
+            "start_date": "1996-07",
+            "end_date": "2000-07",
+            "description": "Troubleshot, removed, tested, inspected, repaired, modified, and installed explosive and non-explosive components and assemblies on ejection systems. Performed preventative maintenance on numerous electronically fired explosive devices ensuring proper wiring and termination. Monitored foreign object damage; briefed wing commander on findings. Managed supply system ensuring parts and supplies were available. Hazardous materials monitor; explosive inspector. Ensured proper grounding points to prevent electrostatic discharge to explosive components. Section workgroup manager responsible for maintaining computers and ensuring software was installed. Shop computer security monitor. Trained and supervised personnel. Quality Assurance Assessor."
+        }
+    ],
+    "education": [
+        {
+            "degree": "HS Diploma, General Studies",
+            "school": "Brockport High School",
+            "year": 1996
+        },
+        {
+            "degree": "BS in Electrical Engineering",
+            "school": "University of TN",
+            "year": 2003
+        },
+        {
+            "degree": "Electronic Principles",
+            "school": "USAF",
+            "year": 1996
+        },
+        {
+            "degree": "Telephone Systems Apprentice Course",
+            "school": "USAF",
+            "year": 2002
+        },
+        {
+            "degree": "Aircrew Egress Systems Apprentice Course",
+            "school": "USAF",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        "Web-based training certificates: LAN fundamentals, routers, topologies, Cisco networking",
+        "USAF Electronics Principles training (1996)",
+        "USAF Telephone Systems Apprentice Course (2002)",
+        "USAF Aircrew Egress Systems Apprentice Course (2002)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

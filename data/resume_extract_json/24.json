@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Ashdod, Israel",
+    "summary": "iOS developer with experience building iOS applications (Swift) and full-stack development. Proficient with CocoaTouch, Foundation, Alamofire, CoreData, Realm, REST APIs, Firebase, and agile processes (GitFlow/Jira Scrum). Experienced in back-end (PHP, Java), front-end (AngularJS/BackboneJS), data analytics (BigQuery), and system monitoring.",
+    "skills": [
+        "Swift",
+        "Java",
+        "PHP",
+        "C",
+        "C++",
+        "C#",
+        "Lua",
+        "JS",
+        "CSS",
+        "HTML",
+        "SQL",
+        "Xcode",
+        "Intellij Idea",
+        "Eclipse",
+        "Visual Studio",
+        "Realm",
+        "PostgreSQL",
+        "BigQuery",
+        "MySQL",
+        "MongoDB"
+    ],
+    "experience": [
+        {
+            "title": "iOS developer",
+            "company": "SuperUp",
+            "start_date": "February 2017",
+            "end_date": "Present",
+            "description": "Development of applications for iOS 10,11,12 in Swift according to GitFlow and Jira Scrum. CI experience. Using CocoaTouch, Foundation, Alamofire, XIBs, Storyboards, CoreData, Realm, etc. Publishing to App Store. Integration with back-end REST API, Firebase and other Google services."
+        },
+        {
+            "title": "Full stack developer",
+            "company": "SuperUp",
+            "start_date": "March 2016",
+            "end_date": "February 2017",
+            "description": "Development of high loaded back-end software on PHP (Symfony, Laravel) and Java (Spring) with PostgreSQL database. Front-end development on AngularJS, BackboneJS, Bootstrap. Data analytics in BigQuery by Google Data Studio. System monitoring by Zabbix, ELK. Mobile Web on Framework7, JQuery Mobile. Mobile bots for WhatsApp, Telegram, Facebook."
+        },
+        {
+            "title": "Back-end developer",
+            "company": "Infosoft",
+            "start_date": "June 2014",
+            "end_date": "September 2015",
+            "description": "Back-end development on C# (.NET) with MySQL database. System administration and monitoring."
+        }
+    ],
+    "education": [
+        {
+            "degree": "IOS and Swift - The complete IOS App development",
+            "school": "App Brewery school",
+            "year": "2016-2017"
+        },
+        {
+            "degree": "Web and mobile applications development",
+            "school": "Tel Ran College",
+            "year": "2015-2016"
+        },
+        {
+            "degree": "Bachelor degree in Software Engineering",
+            "school": "Altai Technical State University",
+            "year": "2010-2015"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Hebrew",
+        "English",
+        "Russian"
+    ]
+}

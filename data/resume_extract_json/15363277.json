@@ -1,0 +1,92 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Brooklyn, NY",
+    "summary": "Senior-Level IT Finance Management Professional with 20 years of expertise in accounting, financial management, financial analysis, and controllership of IT operating and capital budgets. Proven track record in cost control, process optimization, and cross-functional leadership. Skilled in outsourcing analyses, financial modeling, and transition management with a focus on delivering savings and value across large IT departments and retail networks.",
+    "skills": [
+        "advertising",
+        "architect",
+        "asset management",
+        "auditing",
+        "Budgeting",
+        "budgets",
+        "budget",
+        "business case",
+        "closing",
+        "Cognos",
+        "client",
+        "customer service",
+        "Financials",
+        "financial",
+        "financial analysis",
+        "financial modeling",
+        "leadership",
+        "Leadership skills",
+        "marketing",
+        "Excel",
+        "Microsoft Office",
+        "negotiations",
+        "office management",
+        "Oracle Financials",
+        "PeopleSoft",
+        "executive presentations",
+        "processes",
+        "coding",
+        "progress",
+        "Real Estate",
+        "reporting",
+        "SAP",
+        "strategic",
+        "strategic marketing",
+        "telecom"
+    ],
+    "experience": [
+        {
+            "title": "Finance Manager",
+            "company": "Company Name",
+            "start_date": "January 2000",
+            "end_date": "January 2012",
+            "description": "Developed and presented the annual budget to the Executive Committee. Consistently met or exceeded operating budget goals for the department annually barring new corporate initiatives approved after budget creation. Supported over 20 IT leaders (EVP, SVPs, VPs, Directors, and Managers) by reporting risks and opportunities to the budgets to stay on track. Prepared 5-year long-range plan with IT leadership; updated annually. Managed a staff with responsibilities including asset management, software license compliance, price negotiations with vendors, preparation of IT purchase orders, accurate invoice coding, departmental journal entries, and auditing telecom expenses for over 900 stores. Maintained relationships with over 50 vendors. Facilitated monthly financial review meetings with IT EVP, CIO and VPs to ensure budget goals are met. Served as Financial Architect evaluating outsourcing options for IT departments, leading to outsourcing in late 2010 and reducing staff from 110 to 46 with projected savings of $12M over five years. Designed and analyzed the IT Metrics Scorecard; created cost/benefit analysis templates for IT IS capital projects including ROI, NPV, IRR; advised on IS priorities and business-case methods with corporate IS PMO."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": ""
+        },
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": ""
+        },
+        {
+            "title": "Manager / New York State Licensed Real Estate Salesperson",
+            "company": "Company Name",
+            "start_date": "January 2012",
+            "end_date": "Current",
+            "description": "Facilitation of marketing and generating client leads. Liaison between sellers and buyers & landlords and tenants in real estate transactions including commercial properties. Manage exclusive property listings secured throughout Northern Brooklyn, NY. Leadership in office management of 20 Real Estate Agents. Broker application approval pending with New York Department of State. Successful in closing more than 80 real estate deals in two years through strategic marketing, advertising, effective communication, customer service, referrals, and client reviews."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "University of Phoenix",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science in Finance",
+            "school": "Hampton University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "New York State Licensed Real Estate Salesperson"
+    ],
+    "languages": [
+        "English"
+    ]
+}
