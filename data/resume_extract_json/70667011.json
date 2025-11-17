@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Self-motivated banking professional offering strong communication and quick thinking skills. Works effectively on teams, as well as independently, in fast-paced environments. Highlights MS Office proficient; risk management evaluation background; excellent communication skills; organized; reliable; strong sense of banking ethics; strong compliance and operational background.",
+    "skills": [
+        "MS Office",
+        "Risk management",
+        "Regulatory compliance",
+        "Operational banking",
+        "Customer service",
+        "Staff coaching and development",
+        "Process improvement",
+        "Cross-selling / referrals",
+        "Unifi system",
+        "Mortgage lending concepts",
+        "Financial analysis",
+        "Relationship building"
+    ],
+    "experience": [
+        {
+            "title": "Mortgage Group Operations Manager, Banking Officer",
+            "company": "Company Name",
+            "start_date": "2014-08",
+            "end_date": "Present",
+            "description": "Monitor and approve pricing deviations in accordance with BB&T policy. Monitor pipelines to ensure compliance and timely action for clients by Mortgage Loan Officers. Coordinate with RPSTs, Appraisal unit and Construction Permanent (CP) unit. Communicate and escalate loan issues. Develop, coach and guide staff for execution of operational components of retail mortgage lending. Integrate staff into new processes and systems; deepen relationships with production associates to identify issues early and provide solutions. Coordinate 'rush files' and process prioritization with the RPST. Become familiar with UniFi and assist MLOs and administrative staff with issues. Support MMMs and GMMs in researching client complaints; aware of regulatory and operational issues and upcoming changes. Coordinate SAM scheduling for regional personnel. Follow-up with associates on training; conduct knowledge sessions; implement new products and product updates. Arrange onboarding and training of new hires."
+        },
+        {
+            "title": "Home Mortgage Direct Mortgage Loan Counselor",
+            "company": "Company Name",
+            "start_date": "2013-08",
+            "end_date": "2014-08",
+            "description": "Provide mortgage clients sound mortgage advice; execute BB&T's referral process by introducing clients to other bank services for cross-sell opportunities. Assist Mortgage Loan Administration with client, attorney, or appraiser document follow-up; develop mortgage client development plans to meet or exceed production goals. Maintain knowledge of BB&T Mortgage Strategies, Policies and Procedures, and secondary market investor guidelines. Adhere to BB&T policies and regulatory requirements."
+        },
+        {
+            "title": "Credit Analyst 1 (BBRC)",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2013-08",
+            "description": "Spread financial statements and tax returns; analyze diverse credit information for BBRC channel loans. Provide financial analysis for various entities to assist underwriters with credit decisions. Work with Hogan, AFS, Blast, Credit Fulfillment, Moody's, PFA and SeeMore Plus."
+        },
+        {
+            "title": "Commercial Loan Documentation Specialist",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2011-04",
+            "description": "Review and preparation of loan documentation for assigned portfolio; support to Regional Business Banking Customers (revenues $2–$20 million); review credit approvals, verify documentation and ensure compliance with credit/bank policies; maintain customer care line for assistance."
+        },
+        {
+            "title": "Banking Center Manager II AVP",
+            "company": "Company Name",
+            "start_date": "2005-01",
+            "end_date": "2009-09",
+            "description": "Lead a team of sales/service professionals; uncover and satisfy financial/mortgage needs; conduct performance evaluations; develop quarterly plans; generate sales leads through community outreach; ensure audit/compliance; manage difficult customer situations; communicate with consumer executives; foster engaged, well-coached team; drive customer service."
+        },
+        {
+            "title": "Personal Banker, Officer",
+            "company": "Company Name",
+            "start_date": "2001-01",
+            "end_date": "2005-01",
+            "description": "Provide financial solutions and advisory counseling; prepare loan documents and closings; comply with federal and state regulations; notable achievements in employee relations, process improvement, recruitment and retention, increasing mortgage pipeline; contributed to CFPB project."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Real Estate Fundamentals (Salesperson / Broker Course)",
+            "school": "Dan Mohr Estate School",
+            "year": "2003"
+        },
+        {
+            "degree": "BS in Business Management",
+            "school": "Guilford College",
+            "year": "2015"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,100 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "San Mateo, CA",
+    "summary": "Process-driven IT and security professional with 5 years of IT and security experience, specializing in governance, risk management, and enterprise security. Proven ability to lead cross-functional teams, implement IT security strategy, and drive cost savings through policy enforcement and vulnerability management.",
+    "skills": [
+        "Active Directory",
+        "AD",
+        "DNS",
+        "TCP/IP",
+        "Microsoft Exchange",
+        "Rapid7",
+        "Vulnerability Assessment",
+        "Firewall",
+        "IDS",
+        "IPS",
+        "Proxy",
+        "Web Filter",
+        "VPN",
+        "Windows",
+        "Windows XP",
+        "Linux",
+        "Red Hat",
+        "Mac OS X",
+        "Exchange",
+        "Mail",
+        "GPO",
+        "Forensic Imaging",
+        "IT Governance",
+        "SOX",
+        "Change Management",
+        "Project Management",
+        "Risk Management",
+        "Audit",
+        "Security Architecture",
+        "Disaster Recovery",
+        "Encryption",
+        "Symantec PGP",
+        "N-Central",
+        "Patch Management",
+        "Telecommunications",
+        "Networking",
+        "Cross-functional Collaboration",
+        "Mentoring",
+        "Vendor Negotiation"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Consultant",
+            "company": "Company Name",
+            "start_date": "12/2011",
+            "end_date": "02/2013",
+            "description": "Provided IT consulting across diverse environments; used N-Central monitoring and patch management to audit and report on customer compliance and software usage; prepared recommendations to increase security and productivity. Architected, implemented, and documented Exchange and Active Directory deployments; tracked utilization statistics to increase revenue for the operations center."
+        },
+        {
+            "title": "Information Technology Provisioning Technician",
+            "company": "Company Name",
+            "start_date": "10/2012",
+            "end_date": "08/2013",
+            "description": "Researched and resolved Active Directory issues relating to advanced administration and GPO creation. Provided remote and local support to an employee base of over 7,000 employees, contractors, and consultants. Resolved complex hardware and software issues; served as tier 2 and 3 support when needed. Used ticketing systems (Numara Footprints, Kayako) to track issues. Provisioned, troubleshot, and repaired laptops, desktops, MiFi devices, and corporate cellular phones. Managed the network operations center servicing over 100 clients across multiple locations."
+        },
+        {
+            "title": "Information Technology Provisioning Technician",
+            "company": "McAfee EEPC",
+            "start_date": "08/2013",
+            "end_date": "11/2013",
+            "description": "Worked with multiple departments and executive teams to ensure timely roll-out of product. Served as technical lead and tier-2 escalation resource for multiple applications and operating systems. Supported Windows (XP and 7), Linux (Red Hat), and Mac (OSX). Administered, troubleshot, and issued RSA soft and hard tokens. Served as main escalation point for desynchronization issues and hardware troubles. Led the executive support team providing white-glove support for director level and above. Active Directory administration including SSO integration to forest creation and user administration."
+        },
+        {
+            "title": "Information Security & Compliance Manager",
+            "company": "SolarCity",
+            "start_date": "11/2013",
+            "end_date": "Present",
+            "description": "Responsible for Enterprise Information Security and Architecture, Risk Management and Compliance; define business information security requirements, design architecture, and apply security technologies to mitigate risk and ensure compliance with SolarCity policies and standards. Implemented and administered forensic imaging enterprise solution; conducted analysis of at-risk employees. Created and maintained IT SOX controls identified by Legal. Led Governance and Compliance program; mentored junior and senior personnel. Deployed Vulnerability Assessment from concept to completion; acted as interdepartmental mediator to convert risks and non-compliant applications into enterprise-level solutions with policy guidance. Managed security projects including firewall, proxy, VPN, and intrusion detection; administered vulnerability assessment practices and VPN authentication. Reduced total cost of ownership for Anti-Virus by streamlining improvements to security design and deployment processes; authored and maintained deployment procedures. Coordinated migration of whole-disk encryption platform (Symantec PGP) to a new platform."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates of Arts and Sciences (AAS): Business Administration Software Technology",
+            "school": "Unknown",
+            "year": null
+        },
+        {
+            "degree": "Associates of Arts (AA): Information Technology",
+            "school": "Unknown",
+            "year": null
+        },
+        {
+            "degree": "Associate of Applied Sciences (AAS): Network Security",
+            "school": "Heald College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "CompTIA A+ Certification",
+        "CompTIA Security+ Certification"
+    ],
+    "languages": []
+}

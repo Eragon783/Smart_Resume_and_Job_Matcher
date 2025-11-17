@@ -1,0 +1,91 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Savvy Marketer with over 12 years of experience helping sales teams fill their funnel with high quality leads. My ability to take a growth hacking approach to lead generation has helped me lead teams to exceed objectives within every aspect of the customer lifecycle. My passion for marketing is centered around customer acquisition, brand awareness and nurturing growth through business development & strategic partnerships.",
+    "skills": [
+        "Partner Marketing",
+        "Paid Social",
+        "eCommerce",
+        "Paid Search",
+        "Email Marketing",
+        "Branding",
+        "Analytics",
+        "B2B & B2C",
+        "CRO",
+        "Content Marketing",
+        "Lead Generation",
+        "SEO",
+        "Public Relations",
+        "Marketing Automation",
+        "Strategic Partnership",
+        "Business Development",
+        "Management"
+    ],
+    "experience": [
+        {
+            "title": "Senior Marketing Manager",
+            "company": "Company Name",
+            "start_date": "May 2016",
+            "end_date": "Present",
+            "description": "Improved Organic Traffic by over 40% by applying best practices and launching Content Marketing strategies. Grew Online Subscriptions 50%, while revenue grew 43% (Q1 & Q2 vs. Q3 & Q4). Improved email Marketing open rates by 37%, and click through rates by 117% through A/B testing and established departmental best practices. Grew OEM Partner Marketplace downloads by 4x by applying App Store Optimization best practices. Developed Paid Search strategy that resulted in YOY MQL Growth 2016 (Q3 330%, Q4 617%), and 2017 Q1 112%."
+        },
+        {
+            "title": "Digital Marketing Consultant",
+            "company": "Company Name",
+            "start_date": "September 2014",
+            "end_date": "April 2016",
+            "description": "Discovered growth opportunities through data analytics and optimization. Developed Program Roadmap for Clients Marketing Campaigns. Developed and Managed B2B Lead Generation Campaigns across multiple marketing channels. Worked closely with Clients marketing vendor on Relaunches and Optimization Implementation."
+        },
+        {
+            "title": "Digital Media Manager",
+            "company": "Company Name",
+            "start_date": "October 2008",
+            "end_date": "August 2014",
+            "description": "Worked closely with Product, Sales & Marketing on all new Product Releases. Managed a team of 9 Account Managers. Decreased Advertiser churn rate by 37% through optimization best practices. Developed Quarterly Strategic Plans to address Sales goals. Managed and drove team to generate $16 Million in Ad Revenue."
+        },
+        {
+            "title": "SEO Manager",
+            "company": "Company Name",
+            "start_date": "September 2007",
+            "end_date": "July 2008",
+            "description": "Developed Digital Marketing Strategic Plan for Playphone & its Partners. Generated over $12 Million in Revenue (100k mobile subscribers). Partner revenue increased by 37%. Managed Analytics for SEM, SEO & Mobile channel."
+        },
+        {
+            "title": "Campaign Manager",
+            "company": "Company Name",
+            "start_date": "February 2005",
+            "end_date": "September 2007",
+            "description": "Manage In-House SEM Budget of $5MM Annually. Developed A/B & Multivariate UX testing across SEM & SEO Channels. Managed over $1M in Publisher Revenue."
+        },
+        {
+            "title": "SEO Associate",
+            "company": "Company Name",
+            "start_date": "June 2004",
+            "end_date": "February 2005",
+            "description": "Developed & Executed Link Building Strategies. Increased DVD Movie Channel Traffic by 60%. Developed SEO Strategy to be applied to all editorial content."
+        },
+        {
+            "title": "Communications Intern",
+            "company": "Company Name",
+            "start_date": "October 2003",
+            "end_date": "May 2004",
+            "description": "Content Marketing. Email Marketing. Press Release Development."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "Saint Mary's College of California",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelor of Science in Public Relations",
+            "school": "San Jose State University",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

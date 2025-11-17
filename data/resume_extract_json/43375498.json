@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "I am a career oriented individual who wishes to further my knowledge of my company, position, any cross training possibilities, and training to progress in the company. I am a hard working ethical leader that leads by example and is never afraid to ask for clarity if I do not fully understand something. Dynamic banking professional adept at directing complex projects and leading high performance teams to complete key financial initiatives. Talented Sales Associate with successful career history of closing sales, increasing customer satisfaction and mentoring junior sales professionals. Skilled Sales Associate with 5-year track record of success. Maintain professional and calm demeanor under pressure. Thrive in high volume environments where knowledge, composure and interpersonal abilities are keys to success. Accomplishments I was acknowledged after the first 6 months by the Board of Directors as a Pillar of Success for the company in Account Retention and New Account Acquisition. During the first 6 months I was shown to compile 50.4% of the work load for the Outbound team of 5 members.",
+    "skills": [
+        "Armed Forces",
+        "Banking",
+        "Quality Coaching",
+        "competitive",
+        "credit",
+        "Customer Service",
+        "financial",
+        "goal setting",
+        "inventory",
+        "team development",
+        "managing",
+        "market trend",
+        "marketing",
+        "meetings",
+        "networking",
+        "presentations",
+        "pricing",
+        "QA",
+        "Radio",
+        "reporting",
+        "Sales",
+        "sales forecasting",
+        "Sales Manager",
+        "scheduling",
+        "Spreadsheets",
+        "Supervisor"
+    ],
+    "experience": [
+        {
+            "title": "Customer Service Rep 1 Lead, Quality Assurance Coach, Account Relationship Specialist, Online Banking Rep II",
+            "company": "Company Name",
+            "start_date": "June 2010",
+            "end_date": "Present",
+            "description": "Started as Customer Service Rep 3 and progressed through Rep 2 and Rep 1 before a 1234 system change. Roles included answering customer calls about account balances, transaction reviews, disputes, wire transfers, statement requests, and online banking issues. Transitioned to QCD Quality Coaching and Development, reviewing calls for performance and compliance, coaching agents, and team development. Later moved to the Outbound team pilot, contributing to sales and onboarding processes, and assisting in QA for account opening procedures. Ran credit card transactions for account funding, assisted with openings, and facilitated interdepartmental interactions."
+        },
+        {
+            "title": "Front Desk/ Fitness Advisor/ General Manager/ Operations Manager/ Regional Sales Manager",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "June 2010",
+            "description": "Initially a Front Desk staff, promoted to Fitness Advisor, then Sales Manager. Managed multiple clubs, formed corporate partnerships, and oversaw sales and operations. Exceeded monthly sales quotas by more than 25%, generated substantial residual revenue (approx. $168,000 monthly) over 3 years 6 months, and acquired significant sales revenue ($7.86 million) over 36 months. Led expansion initiatives in Leavenworth, Lawrence, and Topeka; managed forecasting, goal setting, and performance reporting; developed competitive sales materials and digital media marketing presentations for executives."
+        },
+        {
+            "title": "Basic Cannon Crew Member, RTO Radio Transmission Operator, Gunner, Loader, Advance Party",
+            "company": "Company Name",
+            "start_date": "December 2002",
+            "end_date": "December 2006",
+            "description": "Served in military capacity; progressed through roles including RTO, Gunner, Loader, and Advance Party. Reached Sergeant in 2 years and 3 months. Trained as Combat Life Saver and Eagle First Responder; certified in Air Assault. Completed one tour of Iraq during Operation Iraqi Freedom."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Professional Sales Certificate",
+            "school": "",
+            "year": "2008"
+        },
+        {
+            "degree": "Business Administration Certificate",
+            "school": "San Joaquin Valley Community College",
+            "year": "2013"
+        }
+    ],
+    "certifications": [
+        "Professional Sales Certificate (2008)",
+        "Business Administration Certificate (2013) - San Joaquin Valley Community College"
+    ],
+    "languages": []
+}

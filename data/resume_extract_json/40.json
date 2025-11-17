@@ -1,0 +1,117 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "Ashdod, Israel",
+    "summary": "Full Stack Java Developer with 3 years of total experience in Java backend development and web frontend.",
+    "skills": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "VBA",
+        "Spring",
+        "Spring Boot",
+        "Spring Security",
+        "Hibernate",
+        "JUnit",
+        "Java Persistence API",
+        "Multithreading",
+        "Maven",
+        "jQuery",
+        "Bootstrap",
+        "REST",
+        "Kafka",
+        "Heroku",
+        "Angular",
+        "Vue.js",
+        "Node.js",
+        "Material Design",
+        "IntelliJ IDEA",
+        "WebStorm",
+        "Eclipse",
+        "VS Code",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Git",
+        "Bitbucket",
+        "GitHub",
+        "Jira",
+        "Agile",
+        "Scrum",
+        "OOP",
+        "JSON",
+        "Design Patterns",
+        "CI/CD",
+        "Microservices",
+        "Dependency Injection",
+        "Mac OS",
+        "Windows",
+        "Dreamweaver",
+        "Acrobat Professional",
+        "Photoshop",
+        "Illustrator",
+        "XD",
+        "Access",
+        "Excel",
+        "Word",
+        "English",
+        "Hebrew",
+        "Russian"
+    ],
+    "experience": [
+        {
+            "title": "Full Stack Java Developer",
+            "company": "Inetex Ltd",
+            "start_date": "2017",
+            "end_date": "Present",
+            "description": "P2P car sharing RESTful web service based on Spring Boot. Database based on PostgreSQL. Client on Angular, Bootstrap, Material Design (about 50% of working time)."
+        },
+        {
+            "title": "Data Analyst",
+            "company": "Regions Group",
+            "start_date": null,
+            "end_date": null,
+            "description": "Development and commercial real estate management. Maintaining databases of management accounting and sales (SQL). Monitoring and analysis of BI (Excel including Pivot table and VBA). Preparation of reporting and presentations (Word, PowerPoint). Automation of management accounting and reporting."
+        },
+        {
+            "title": "Data Analyst",
+            "company": "Guta Development",
+            "start_date": null,
+            "end_date": null,
+            "description": "Development and real estate management. Maintaining databases of management accounting and sales (SQL). Monitoring and analysis of BI (Excel including Pivot table and VBA). Preparation of reporting and presentations (Word, PowerPoint)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Mathematics and Computer Science in Finance",
+            "school": "Plekhanov Russian University of Economics, Moscow, Russia",
+            "year": "2004"
+        },
+        {
+            "degree": "HTML",
+            "school": "Moscow, Russia",
+            "year": "2006"
+        },
+        {
+            "degree": "Web Development",
+            "school": "Moscow, Russia",
+            "year": "2015"
+        },
+        {
+            "degree": "Full Stack Java Development",
+            "school": "Rehovot, Israel",
+            "year": "2017"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hebrew",
+        "Russian"
+    ]
+}

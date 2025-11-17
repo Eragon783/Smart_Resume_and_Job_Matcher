@@ -1,0 +1,111 @@
+{
+    "name": "Dilip NR",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior Network Security Engineer with 7+ years of experience in network and security engineering, hands-on expertise with Palo Alto, Cisco ASA and Check Point firewalls, load balancers, wireless networking, VMware, and data center management; skilled in threat prevention, routing, switching, troubleshooting, and documentation.",
+    "skills": [
+        "EIGRP",
+        "OSPF",
+        "BGP",
+        "Route Redistribution",
+        "ACLs",
+        "Policy based routing",
+        "NAT",
+        "PAT",
+        "HSRP",
+        "VRRP",
+        "GLBP",
+        "VLANs",
+        "VTP",
+        "Link aggregation (LACP, PAGP)",
+        "STP",
+        "PVST+",
+        "Palo Alto",
+        "Cisco ASA",
+        "Check Point",
+        "F5 BIG-IP (LTM/GTM)",
+        "Citrix NetScaler",
+        "Cisco Meraki",
+        "Aruba",
+        "ClearPass",
+        "Cisco WLAN",
+        "802.1X",
+        "Panorama",
+        "Cisco IOS",
+        "NX-OS",
+        "Smart Dash Board",
+        "VMware",
+        "SPLUNK",
+        "SolarWinds",
+        "SevOne",
+        "Wireshark",
+        "MS Visio",
+        "Lucid Chart",
+        "BMC Remedy",
+        "App-ID",
+        "User-ID",
+        "Wildfire",
+        "GlobalProtect",
+        "URL filtering",
+        "Blue Coat Proxy",
+        "PKI",
+        "SSL decryption",
+        "IKE",
+        "IPSec",
+        "HIP checks",
+        "Site-to-Site VPNs",
+        "NAC",
+        "WAN",
+        "LAN",
+        "VPNs"
+    ],
+    "experience": [
+        {
+            "title": "Senior Network Security Engineer",
+            "company": "Company Name – City, State",
+            "start_date": "01/2017",
+            "end_date": "Current",
+            "description": "Led network security engineering with firewalls (Palo Alto, Cisco ASA, Check Point), routers/switches, load balancers (F5 BIG-IP LTM/GTM, Citrix NetScaler), and wireless/network access infrastructure. Implemented security concepts (App-ID, User-ID, Wildfire, GlobalProtect, PKI, SSL decryption), VPNs (Site-to-Site, IPSec), and network segmentation. Managed Cisco IOS/NX-OS devices, VLANs, STP/PVST+/LACP/PAgP, and redundancy. Created network diagrams and documentation using MS Visio and Lucidchart. Monitored and tuned performance with SPLUNK, SolarWinds, SevOne; performed troubleshooting and vendor escalation. Ensured high availability and documented designs."
+        },
+        {
+            "title": "Network Security Engineer",
+            "company": "Company Name – City, State",
+            "start_date": "09/2015",
+            "end_date": "12/2016",
+            "description": "Worked on firewall and security engineering initiatives, configured and managed firewall solutions, and supported router/switch configurations. Conducted Layer 2/3 troubleshooting, VLAN management, and VPN implementations. Documented network configurations and maintained network performance."
+        },
+        {
+            "title": "Network Engineer",
+            "company": "Company Name – City, State",
+            "start_date": "12/2012",
+            "end_date": "07/2015",
+            "description": "Designed and implemented enterprise networks, configured Cisco routers (7600, 7200) and switches (Nexus 7000, Catalyst 6500/6800), performed IP addressing and WAN configurations. Created network diagrams and documentation; maintained network performance."
+        },
+        {
+            "title": "Junior Network Engineer",
+            "company": "Company Name",
+            "start_date": "01/2011",
+            "end_date": "11/2012",
+            "description": "Assisted in daily network operations, supported routing and switching configurations, and contributed to technical documentation and system support."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's Degree in Computer Science",
+            "school": "Wright State University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor's Degree in Electronics and Communications",
+            "school": "JNTU",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "CCNA",
+        "CCNP",
+        "Palo Alto ACE"
+    ],
+    "languages": []
+}

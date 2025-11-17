@@ -1,0 +1,98 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Executive healthcare consultant and longevity expert with corporate wellness experience. Founder of a preventive care and patient education center; developed residential wellness programs at Cooper Clinic in Dallas; led marketing, program development, and grant-funded initiatives in health promotion and disease prevention.",
+    "skills": [
+        "Academic",
+        "Accounting",
+        "administrative",
+        "balance",
+        "Biology",
+        "Business Development",
+        "Business Law",
+        "Chemistry",
+        "interpersonal",
+        "CA",
+        "consulting",
+        "counseling",
+        "clients",
+        "directing",
+        "disease-prevention",
+        "Economics",
+        "Family Medicine",
+        "health promotion",
+        "leadership",
+        "Marketing",
+        "assisting physicians",
+        "Patient Care",
+        "processes",
+        "Product Marketing",
+        "Program Development",
+        "protocols",
+        "Public Health",
+        "quality",
+        "rehabilitation",
+        "scientific",
+        "seminars",
+        "Strategy",
+        "strategic",
+        "stress management",
+        "teaching"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Consultant",
+            "company": "Company Name",
+            "start_date": "March 2013",
+            "end_date": "Present",
+            "description": "Specializes in assisting physicians, hospitals, outpatient rehabilitation clinics, and a diverse list of other healthcare providers throughout the U.S. and abroad to achieve their strategic and operational goals."
+        },
+        {
+            "title": "President and Founder",
+            "company": "Company Name",
+            "start_date": "January 1990",
+            "end_date": "Present",
+            "description": "Responsible for overall strategy and implementation of all aspects of the business. Company provides consulting and training seminars in the areas of executive health, corporate wellness, nutrition, stress management/work-life balance, fitness, and longevity. Publishing in the areas of nutrition, fitness, wellness, sports, and spiritual development."
+        },
+        {
+            "title": "Executive Director",
+            "company": "Company Name",
+            "start_date": "January 1984",
+            "end_date": "January 1990",
+            "description": "Developed residential Cooper Wellness Program at Cooper Clinic from ground floor resulting in multimillion dollars of revenue and educational assistance in improving health, longevity, and quality of life for thousands of clients, both domestic and international. Received Outstanding Service Award-Cooper Clinic, 1990."
+        },
+        {
+            "title": "Associate Director",
+            "company": "Company Name",
+            "start_date": "July 1980",
+            "end_date": "December 1983",
+            "description": "Created award-winning Preventive Care teaching program from start-up for medical residency program. Won $60,000 grant to fund The Preventive Care Learning Center, a patient/resident, teaching facility. Center taught Family Medicine residents patient education/preventive medicine skills and won Patient Care Magazine's Award for Excellence in Patient Education by a Family Medicine Residency. Developed off-campus Master of Public Health program for residents and allied health professionals in conjunction with Loma Linda University and an $800,000 Kellogg Foundation grant. Appreciation Award for Developing a Nationally Recognized Program in Preventive Care at the Florida Hospital Family Medicine Residency, 1984."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Doctor of Public Health",
+            "school": "Loma Linda University",
+            "year": 1980
+        },
+        {
+            "degree": "Master of Public Health",
+            "school": "Loma Linda University",
+            "year": 1980
+        },
+        {
+            "degree": "Bachelor of Arts in Business Administration",
+            "school": "Andrews University",
+            "year": 1977
+        },
+        {
+            "degree": "Bachelor of Science in Health",
+            "school": "Andrews University",
+            "year": 1977
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

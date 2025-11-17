@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Retired Air Traffic Controller with 32+ years of experience in the En Route environment. Experienced in ERAM modernization as SME and IOA team member, cross-border operations, training, and sector realignments, with strong knowledge of ATC automation, procedures, and risk management.",
+    "skills": [
+        "En Route Air Traffic Control",
+        "OJTI (On-the-Job Training Instructor)",
+        "ERAM SME (Subject Matter Expert)",
+        "Independent Operational Assessment (IOA) Team Member",
+        "ERAM anomaly analysis and remediation",
+        "Airspace SME (ZSE-520)",
+        "Plans and Programs SME (ZSE-510)",
+        "Aircraft separation and sequencing",
+        "Cross-border USA-Canada operations",
+        "Radar and Non-Radar operations",
+        "Approach control services",
+        "Sector realignments and real-time coordination",
+        "Weather-aware vectoring and speed control",
+        "Training controllers and mentoring",
+        "ATC automation processes and procedures",
+        "RNAV/RNAV, SIDs/STARs, jet routes, VOR"
+    ],
+    "experience": [
+        {
+            "title": "Air Traffic Controller",
+            "company": "FAA – En Route Traffic Control",
+            "start_date": "1983-08",
+            "end_date": "2015-12",
+            "description": "Maintained safe, orderly, and expeditious flow of air traffic in the NAS in the En Route environment; expert in multiple ATC disciplines; ensured adherence to FAA procedures; conducted cross-border operations; coordinated handoffs; supported Seattle area traffic at SEA; transitioned traffic between terminal and en route environments; involved in radar and non-radar operations, and applied wake turbulence procedures."
+        },
+        {
+            "title": "ERAM Subject Matter Expert (SME)",
+            "company": "FAA – National ERAM Program",
+            "start_date": "2013-04",
+            "end_date": "2015-01",
+            "description": "National ERAM SME responsible for identifying and documenting ERAM anomalies; provided recommendations for adaptations to improve facility performance; conducted controller training on ERAM functionality; maintained currency through collateral duties and OJT."
+        },
+        {
+            "title": "National SME – Independent Operational Assessment (IOA) Team Member",
+            "company": "FAA IOA Team",
+            "start_date": "2008-09",
+            "end_date": "2013-04",
+            "description": "As a National SME, collected data and collaborated on the final report concerning operational readiness for ERAM’s National Deployment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science, Manufacturing Engineering",
+            "school": "Highline Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Certified Professional Controller (CPC), Area C – Seattle ARTCC, November 1986",
+        "Controller in Charge (CIC), April 1991",
+        "On-The-Job Instructor (OJTI), 1987",
+        "Recertified: 2000",
+        "Recertified: 2011",
+        "Recertified: 2014",
+        "Recertified: 2015",
+        "On-The-Job Techniques for Instructors, 1992",
+        "Safety Risk Management, 2013"
+    ],
+    "languages": []
+}

@@ -1,0 +1,78 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Accomplished Loan Officer who consistently exceeds sales goals while offering the utmost care in client relations. Excited and motivated to help customers build successful financial futures.",
+    "skills": [
+        "Sales",
+        "Credit Analysis",
+        "Microsoft Office",
+        "Relationship Building",
+        "Loan Servicing",
+        "Financial Analysis",
+        "Portfolio Management",
+        "Negotiation",
+        "Client Relations",
+        "Time Management",
+        "Detail-Oriented",
+        "Regulatory Compliance"
+    ],
+    "experience": [
+        {
+            "title": "V/P Commercial Relationship Manager",
+            "company": "Company Name",
+            "start_date": "2014-03",
+            "end_date": "Present",
+            "description": "Acquires and retains a portfolio of commercial banking clients; conducts relationship review meetings; identifies opportunities for commercial loan and deposit products, traditional banking, capital management and brokerage services; develops customized client strategies to attain loan, deposit, revenue and new households; ensures superior client service, operational integrity and compliance; manages loan documentation and applicable terms; reviews asset quality; approves credit within authority; negotiates spreads; maintains knowledge of small business and commercial credit policies; contributed to growth from a small portfolio to a middle-market client base; closed multi-million dollar loans for large clients."
+        },
+        {
+            "title": "Supervisor",
+            "company": "Illinois Army National Guard",
+            "start_date": "2010-01",
+            "end_date": "Present",
+            "description": "Advises military and DoD civilians on entitlements for shipment of personal property and passenger travel; coordinates transport capability; prepares and labels cargo; inventories shipments; prepares movement documents; plans cradle-to-grave logistics support; integrates supply, maintenance, procurement and QA into logistics activities; proficient in TC-AIMS, Blue Force Tracker, MTS and 88N training; maintains security clearance."
+        },
+        {
+            "title": "Branch Manager / Business Banking Officer",
+            "company": "Company Name",
+            "start_date": "2008-03",
+            "end_date": "2014-03",
+            "description": "Met and exceeded sales goals through outside and related activities; built, developed and managed new and expanded client relationships with small business customers; advised clients on financial needs and goals; identified products/services to meet needs; conducted financial reviews and budget planning; managed branch operations, HR, compliance and facility management; supervised up to 13 staff and 10 business partners; responsible for branch balance sheet and P&L; targeted area included companies with 2–10 million in revenue; typical loan sizes frequently exceeded 1 million."
+        },
+        {
+            "title": "Consultant/General Manager",
+            "company": "Company Name",
+            "start_date": "2007-11",
+            "end_date": "2008-03",
+            "description": "Hired to open a Wellness and Fitness Center for the Chase Park Plaza; developed management strategies; created processes for a new fitness center; trained employees; served as temporary general manager until replacement; organized logistics for ordering and shipping of supplies."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "2004-12",
+            "end_date": "2007-11",
+            "description": "Managed multiple 35,000 square foot fitness centers with over 35 employees; oversaw payroll, scheduling, and department training; set budgets for sales teams; maintained reports and P&L; developed managerial talent; ensured branch operations and customer service excellence."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in University Studies",
+            "school": "Southern Illinois University",
+            "year": "2005"
+        },
+        {
+            "degree": "Master's in Business/ Management and Leadership",
+            "school": "Liberty University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Military Security Clearance",
+        "TC-AIMS Proficiency",
+        "Blue Force Tracker Proficiency",
+        "MTS Proficiency",
+        "88N Logistics Training"
+    ],
+    "languages": []
+}

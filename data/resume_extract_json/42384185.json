@@ -1,0 +1,89 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Lead Senior Graphic Designer with experience managing multiple projects across cross-channel marketing, branding, and visual communications. Expert in 3D visualization (3ds Max, Maya, Softimage) with V-Ray and Mental Ray, 3D modeling, lighting, texturing and rendering. Proficient in Adobe Creative Suite and web/packaging design, with strong leadership, project management and client-facing delivery.",
+    "skills": [
+        "3D",
+        "3D Modeling",
+        "3DS Max",
+        "Maya",
+        "Softimage",
+        "Vray",
+        "Mental ray",
+        "Lighting",
+        "Shading",
+        "Texturing",
+        "UVW Mapping",
+        "Rendering",
+        "Camera previz",
+        "Adobe Photoshop",
+        "Adobe After Effects",
+        "Adobe Illustrator",
+        "Adobe Flash",
+        "Adobe Lightroom",
+        "Dreamweaver",
+        "Joomla",
+        "WordPress",
+        "CMS",
+        "HTML",
+        "ArtiosCAD",
+        "Zbrush",
+        "Keynote",
+        "Microsoft Office",
+        "PowerPoint",
+        "SolidWorks",
+        "Mac",
+        "Windows",
+        "Web development",
+        "Packaging design",
+        "Branding",
+        "Project management",
+        "Leadership"
+    ],
+    "experience": [
+        {
+            "title": "Lead Senior Graphic Designer",
+            "company": "Company Name",
+            "start_date": "07/2014",
+            "end_date": "Current",
+            "description": "Lead designer overseeing 3D visualization and packaging projects. Identified resources, assigned responsibilities, reviewed and enhanced deliverables, and enforced project standards. Analyzed project profitability and utilization, provided direction to designers, and set high standards. Managed packaging visualization for major brands listed in responsibilities and coordinated cross-functional teams."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Company Name",
+            "start_date": "01/2014",
+            "end_date": "07/2014",
+            "description": "Identified resources and assigned responsibilities. Reviewed deliverables, enforced project standards, and analyzed project profitability and utilization. Provided detailed direction to designers, assisted in education and development of designers, and set a high standard for graphic design work. Involved in 3D visualization of packaging, 3D modeling/texturing/lighting/animations, and web development activities for company website."
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name",
+            "start_date": "09/2013",
+            "end_date": "01/2014",
+            "description": "Designed and printed online interactive sales and marketing collateral. Created visuals appealing to leaders in the big data and high-tech sectors."
+        },
+        {
+            "title": "Creative Director",
+            "company": "Company Name",
+            "start_date": "07/1995",
+            "end_date": "06/2013",
+            "description": "Interacted with modelers to develop concepts and executions. Supervised colors systems and packaging designers/engineers. Advised clients on visual recommendations, facilitated input and creative meetings, and assisted in client presentations. Staff development and education of designers; set high standards for design work."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Computer Graphics",
+            "school": "WSSS COLLEGE in Suwalki",
+            "year": 2005
+        },
+        {
+            "degree": "Bachelor of Arts in Computer Graphics",
+            "school": "WSSS COLLEGE IN SUWALKI",
+            "year": 2002
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

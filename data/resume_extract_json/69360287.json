@@ -1,0 +1,126 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To attain a position in public and/or legal administration or similar field.",
+    "skills": [
+        "Acrobat",
+        "Adobe",
+        "Contract Auditing",
+        "backup",
+        "case management",
+        "Citrix",
+        "Contract Mgmt",
+        "Contract Management",
+        "contract review",
+        "council meetings",
+        "customer service",
+        "data entry",
+        "decision making",
+        "Dictaphone",
+        "documentation",
+        "DOS",
+        "editing",
+        "email",
+        "filing",
+        "file management",
+        "Financial Management",
+        "Waiver forms",
+        "Grants Gateway knowledge",
+        "litigation",
+        "Loss Prevention",
+        "Lotus Notes",
+        "mailing",
+        "mainframe",
+        "meetings",
+        "Access database",
+        "Excel",
+        "mail",
+        "office",
+        "Microsoft Office Suites",
+        "Outlook",
+        "PowerPoint",
+        "MS Word",
+        "monitors",
+        "Notary Public",
+        "Oracle",
+        "copy machines",
+        "scanners",
+        "spreadsheet",
+        "training materials",
+        "transcription",
+        "Sitefinity",
+        "WordPerfect"
+    ],
+    "experience": [
+        {
+            "title": "Customer Service Specialist III",
+            "company": "Company Name, City, State",
+            "start_date": "2016-03",
+            "end_date": "2016-08",
+            "description": "Provided customer service to Health Marketplace consumers; validated and authenticated accounts; assisted enrollment in health insurance; informed about accounts and updates; assisted with applying and renewing coverage; set up and validated family members as authorized representatives."
+        },
+        {
+            "title": "Mgmt. Specialist & MWBE Liaison",
+            "company": "Company Name, City, State",
+            "start_date": "2015-09",
+            "end_date": "2016-02",
+            "description": "Created and entered B1184s into the Division of Budget grants system; processed MWBE waiver forms; maintained relationships with project managers and department heads to ensure MWBE compliance; utilized the Contract Management System with Access and Excel; liaised with Executive Chambers for waiver status; met with PMs and department heads to discuss MWBE goals; prepared and submitted monthly & quarterly MWBE Utilization Reports."
+        },
+        {
+            "title": "Deputy City Clerk",
+            "company": "City, State",
+            "start_date": "2014-01",
+            "end_date": "2015-08",
+            "description": "Directed public inquiries; managed daily operations for issuing marriage licenses, certifications, reservoir fishing permits; issued dog licenses and handled payments; managed mail; prepared agendas and minutes; uploaded agendas/minutes to site; accepted legal service notices; managed daily cash and deposits; entered data into Excel."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "City, State",
+            "start_date": "2011-07",
+            "end_date": "2013-12",
+            "description": "Managed grant contract processing and compliance; verified grant-related documents; coordinated with program representatives; managed grant contracts/renewals for state and municipal entities; trained staff in Contract Management/Auditing; created training materials; audited grant contracts in SFS; monitored temps for contract compliance; created purchase orders and entered data into Access; coordinated with program teams."
+        },
+        {
+            "title": "Keyboard Specialist I",
+            "company": "City, State",
+            "start_date": "2007-09",
+            "end_date": "2010-07",
+            "description": "Maintained Inmate Appeals in the NYS Division of Parole; compared information in FPMS/PARMIS and related systems; maintained inmate records; verified parole hearing dates; communicated with inmates/attorneys; opened and processed briefs; organized files for Board review; handled inquiries."
+        },
+        {
+            "title": "Information Technical Assistant",
+            "company": "City, State",
+            "start_date": "2007-01",
+            "end_date": "2007-08",
+            "description": "Managed user access forms for correctional facilities; adjusted access for position changes; installed Lotus Notes; provided file share access; used Citrix and MS Office to support users."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Public Administration, Government & Policy",
+            "school": "Grand Canyon University",
+            "year": 2012
+        },
+        {
+            "degree": "Masters of Science, Criminal Justice - Administration of Justice & Security",
+            "school": "University of Phoenix",
+            "year": 2010
+        },
+        {
+            "degree": "Bachelors of Science, Business Organizational Management",
+            "school": "The Kings College",
+            "year": 2005
+        },
+        {
+            "degree": "Associates Degree, Administrative Occupational Studies",
+            "school": "Olean Business Institute",
+            "year": 2003
+        }
+    ],
+    "certifications": [
+        "Notary Public"
+    ],
+    "languages": []
+}

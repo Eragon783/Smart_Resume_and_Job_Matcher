@@ -1,0 +1,84 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Experienced accountant with extensive background in accounts payable/receivable, tax administration, payroll support, and government collections. Proficient in MAS90, NetSuite, QuickBooks, Oracle, and Excel; adept at financial reporting, month-end close, and enforcing compliance across multiple states and government programs.",
+    "skills": [
+        "NetSuite",
+        "QuickBooks",
+        "Excel",
+        "PowerPoint",
+        "MAS90",
+        "Oracle",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Invoicing",
+        "Purchase Orders",
+        "Tax Returns",
+        "Sales Tax",
+        "Payroll",
+        "Bank Reconciliations",
+        "General Ledger",
+        "Reconciliations",
+        "Financial Reporting",
+        "Audits",
+        "Fixed Assets",
+        "Inventory",
+        "COGS",
+        "Documentation",
+        "Credit Card",
+        "Sales",
+        "Collections",
+        "Loans",
+        "Team Lead",
+        "Training",
+        "Accounting",
+        "GL",
+        "Customer Accounts"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "July 2012",
+            "end_date": "Present",
+            "description": "Handle invoicing & receivables (~$15M annual sales); review credit applications and terms; manage vendor/customer records and tax exemption certificates; month-end reconciliations for bank and loan accounts; file sales tax returns across six states; manage company credit card expenses; review GL, expenses, fixed assets, and COGS; payroll support; inventory, warranties and service case records; sales and commission reports."
+        },
+        {
+            "title": "Sales & Use Tax Administrator",
+            "company": "Company Name",
+            "start_date": "June 2011",
+            "end_date": "June 2012",
+            "description": "File ~-$1M monthly sales and use tax returns across 11 states; prepare tax deposits and quarterly returns per state guidelines; month-end closure for tax ledgers; review short pays for tax issues; assess customer taxability; maintain exemption certificates; support branch offices; assist with AR/AP; provide sales tax guidance."
+        },
+        {
+            "title": "Accounting Associate",
+            "company": "Company Name",
+            "start_date": "August 2008",
+            "end_date": "June 2011",
+            "description": "Accounts payable for HQ and three operational centers; portfolio balancing for major clients (Citibank, Sallie Mae); bank reconciliations; import financial data into MAS90; ensure compliance; perform timely monthly/quarterly/year-end closes; coordinate with departments vs clients; prepare journal entries; AR for multiple clients."
+        },
+        {
+            "title": "Government Collections Representative",
+            "company": "Company Name",
+            "start_date": "November 2004",
+            "end_date": "August 2008",
+            "description": "Helped initiate department, creating policies; led a 15+ member team; managed portfolio of 300-800 accounts; focus on SBA loans and government debts (DHS, DoD, HHS); policy development, training new associates; account history, payment history, loan refinance; negotiate repayments; perform asset investigations and wage garnishment; provide account verification for litigation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Real Estate & Finance",
+            "school": "University of Northern Iowa",
+            "year": 2008
+        },
+        {
+            "degree": "Associate of Applied Arts",
+            "school": "Hawkeye Community College",
+            "year": 2003
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

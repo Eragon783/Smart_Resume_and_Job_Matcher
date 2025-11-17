@@ -1,0 +1,93 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Quality-focused accounting professional with over 15 years processing invoices, managing vendors and auditing expense reports. A strong desire and ability to maximize profits and control costs with respect to maintaining effective internal controls related to Accounts Payable. Knowledge and experienced in AIA billings, Nevada prelien law, Nevada Contract Law, Union payroll and laws.",
+    "skills": [
+        "Timberline Accounting software",
+        "Foundation Accounting software",
+        "Spectrum",
+        "JD Edwards",
+        "Ebuilder",
+        "Microsoft Office applications",
+        "General ledger accounting",
+        "Effective communication",
+        "Time management",
+        "Accounts receivable",
+        "10 key by touch",
+        "Sage",
+        "AIA",
+        "AS400",
+        "Billing",
+        "Billings",
+        "Controller",
+        "Draw",
+        "Documentation",
+        "Drafting",
+        "Estimating",
+        "Financial reporting",
+        "Financial reports",
+        "Human Resources",
+        "Insurance",
+        "Law",
+        "Office",
+        "Office management",
+        "Payroll",
+        "Payroll processing",
+        "Project Management",
+        "Reporting",
+        "Customer relations",
+        "Nevada lien law",
+        "Nevada contract law",
+        "Union payroll"
+    ],
+    "experience": [
+        {
+            "title": "Project Accountant",
+            "company": "Company Name",
+            "start_date": "Nov 2005",
+            "end_date": "Jul 2008",
+            "description": "Comprehensive management of the Accounts Payable function for a $40 million General Contractor. Responsible for compilation of extensive loan draw packages and respective documentation reviewed and approved by banks, owners/developers, architects, construction control companies and owners representatives. Worked closely with the Controller, Contract Administrator, and Project Managers ensuring billing accuracy. Close interaction with sub-contractors ensuring proper documentation submitted with monthly billings. Completed annual certified courses covering aspects of Nevada Revised Statutes pertaining to Nevada lien and contract law. Accomplishments: Reduced invoice overpayments by 30%."
+        },
+        {
+            "title": "Office Administrator",
+            "company": "Company Name",
+            "start_date": "Sep 2008",
+            "end_date": "Jun 2010",
+            "description": "Office management including new hires/rehires. Processing invoices and creating purchase orders for approval. Assisting with union payroll processing. Running financial reports for management review."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "Dec 2011",
+            "end_date": "Jan 2013",
+            "description": "Responsible for all Accounts Payable using Foundation software. Responsible for all Accounts Receivable including AIA billings, lien waivers, and payment postings. Responsible for Payroll including union reporting. General Ledger journal entries as needed."
+        },
+        {
+            "title": "Office Administrator",
+            "company": "Company Name",
+            "start_date": "Jul 2013",
+            "end_date": "Dec 2014",
+            "description": "Office management including new hires/rehires. Processing invoices and creating purchase orders for approval. Assisting with union payroll processing. Running financial reports for management review."
+        },
+        {
+            "title": "Project Accountant",
+            "company": "Company Name",
+            "start_date": "Mar 2015",
+            "end_date": "Present",
+            "description": "Knowledge of Sage. Expert in customer relations. Complex problem solving. Verified details of transactions, including tenant allowance requests and lease verification. Coded the general ledger and processed vendor invoice payments. Coordinated approval processes of all accounts payable invoices including tenant allowance requests and commission payments. Conducted month-end balance sheet reviews and reconciled any variances."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Accounting",
+            "school": "Santa Barbara Business College",
+            "year": "1997"
+        }
+    ],
+    "certifications": [
+        "Notary Public"
+    ],
+    "languages": []
+}

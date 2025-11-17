@@ -1,0 +1,96 @@
+{
+    "name": "Marco Lombardini",
+    "email": "",
+    "phone": "",
+    "location": "Catonsville, Maryland",
+    "summary": "Ambitious, well-rounded executive chef with leadership experience in high-end clubs and restaurants. Proven ability to lead from the front, set and maintain high culinary standards, manage budgets, standardize recipes for consistency, train staff, and create menus that meet members' needs and dietary requirements. Strong focus on guest satisfaction, team development, and proactive kitchen management across diverse cuisines.",
+    "skills": [
+        "ACF",
+        "budgeting",
+        "C",
+        "ca",
+        "cooking",
+        "features",
+        "personnel",
+        "Platinum",
+        "publication",
+        "purchasing",
+        "Safety",
+        "sales",
+        "servers",
+        "supervisory",
+        "teacher"
+    ],
+    "experience": [
+        {
+            "title": "Banquet Chef",
+            "company": "The Country Club at Mirasol",
+            "start_date": "2016-09",
+            "end_date": "Present",
+            "description": "Responsible for all banquets, member functions, and theme events; collaborates with the chef to create new and exciting menus; supervises a team of 12 handling approximately half of the food and beverage revenue (about 6 million)."
+        },
+        {
+            "title": "Executive Sous Chef",
+            "company": "The Club",
+            "start_date": "2014-08",
+            "end_date": "2016-09",
+            "description": "Contributed with the executive chef to maintain the club's Platinum Club status; the club has 1,300 members and three restaurants and banquet facilities with about 5 million in annual F&B sales."
+        },
+        {
+            "title": "Owner, Executive Chef General Manager",
+            "company": "Candle Light Inn",
+            "start_date": "1996-01",
+            "end_date": "2013-01",
+            "description": "Led all aspects of a 200-seat white-tablecloth restaurant with a 50-person staff; planned budgeting and purchasing, instructed cooks and staff, analyzed recipes for pricing, and recruited/hired staff including line chefs, kitchen staff, servers, hostesses, and managers."
+        },
+        {
+            "title": "Sous Chef",
+            "company": "",
+            "start_date": "1990-01",
+            "end_date": "1996-01",
+            "description": "Oversaw a staff of 100 kitchen personnel, maintained 5-star menu dishes and service; planned, directed, and supervised food preparation across multiple kitchens of a large hotel; instructed cooks and other workers in preparation, cooking, garnishing, and presentation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "ServSafe Certified",
+            "school": "Baltimore Culinary College",
+            "year": 1990
+        },
+        {
+            "degree": "Greenbrier Apprenticeship Program - Restaurant and Hotel Management",
+            "school": "The Greenbrier Apprenticeship Program",
+            "year": null
+        },
+        {
+            "degree": "ACF Executive Certified Chef",
+            "school": "ACF",
+            "year": 2012
+        },
+        {
+            "degree": "Sous Vide Workshop",
+            "school": "Richard Rosendale",
+            "year": 2014
+        },
+        {
+            "degree": "Certified Master Chef Prep Class",
+            "school": "Richard Rosendale",
+            "year": 2014
+        },
+        {
+            "degree": "Certified Master Chef (CMC)",
+            "school": "ACF",
+            "year": 2016
+        }
+    ],
+    "certifications": [
+        "ServSafe certified",
+        "ACF Executive Certified Chef",
+        "Certified Master Chef (CMC)",
+        "Sous Vide Workshop",
+        "Certified Master Chef Prep Class"
+    ],
+    "languages": [
+        "English"
+    ]
+}

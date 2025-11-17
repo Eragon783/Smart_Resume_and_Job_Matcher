@@ -1,0 +1,45 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Tel-Aviv, Israel",
+    "summary": "Frontend developer with experience building JavaScript projects; proficient in JavaScript (ES6), HTML, CSS, Node.js; familiar with modern libraries and frameworks; passionate about exciting projects.",
+    "skills": [
+        "HTML 5",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "Frameworks and Libraries",
+        "Clear communication",
+        "Highly organized",
+        "Innovative problem-solving",
+        "Attention to details"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Manager",
+            "company": "Wal & Joe Jewelry",
+            "start_date": "2018-02",
+            "end_date": "Present",
+            "description": "Experience building and working on JavaScript projects; JavaScript (ES6), HTML, CSS, Node.js; worked with modern libraries and frameworks; involved in project coordination and mentorship."
+        },
+        {
+            "title": "Store Floor Manager",
+            "company": "The Rodrup House",
+            "start_date": "2016-05",
+            "end_date": "2017-08",
+            "description": "- Assisted customers on the floor - Attended to the specific requests of customers - Provided and suggested the best type of merchandise to buy"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business-Informatics",
+            "school": "Moscow National Research University of Higher School of Economics",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "Udemy Complete JavaScript Course, 2021"
+    ],
+    "languages": []
+}

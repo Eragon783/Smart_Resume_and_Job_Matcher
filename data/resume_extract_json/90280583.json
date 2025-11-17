@@ -1,0 +1,131 @@
+{
+    "name": "Cole S. Grundstedt",
+    "email": "cole.grundstedt@gmail.com",
+    "phone": "(702) 353-0976",
+    "location": "",
+    "summary": "Director / Vice President of Operations, Engineering, and Supply Chain with 12 years in manufacturing, operations, engineering, GSC, NPI/NPD, project management, ERP systems, configuration management, data analytics, and business intelligence. Experienced in capital goods manufacturing, gaming, and technology; skilled in lean factory, mixed-model and cellular production, data-driven KPIs, and culture turnaround leading to improved team performance and on-time product launches.",
+    "skills": [
+        "AutoCAD",
+        "Siemens PLM",
+        "SolidWorks",
+        "PDM",
+        "Tableau",
+        "PowerBI",
+        "Cognos",
+        "TM1",
+        "MS Access",
+        "Microsoft Project",
+        "Visio",
+        "SharePoint Designer",
+        "JIRA",
+        "Confluence",
+        "MS Dynamics AX",
+        "MS Dynamics GP",
+        "Epicor",
+        "DFMA",
+        "GD&T",
+        "Automation",
+        "Budget",
+        "Business Intelligence",
+        "CMM",
+        "Coaching",
+        "Configuration Management",
+        "Continuous Improvement",
+        "Customer Service",
+        "Decision Analysis",
+        "Delivery",
+        "Dimensions",
+        "Direct Sales",
+        "Directing",
+        "ERP",
+        "Enterprise Resource Planning",
+        "Forecasting",
+        "Global Marketing",
+        "Industrial Engineering",
+        "Inventory",
+        "Leadership",
+        "Lean Manufacturing",
+        "Director",
+        "Market",
+        "Mentoring",
+        "Microsoft SharePoint",
+        "Migration",
+        "MIS",
+        "Network Engineer",
+        "PDM",
+        "PLM",
+        "Program Management",
+        "Project Management",
+        "Quality",
+        "RAID5",
+        "Real-time",
+        "Reporting",
+        "Sales",
+        "Servers",
+        "Software Developer",
+        "Strategic Planning",
+        "Systems Management",
+        "Employee Development",
+        "Visio"
+    ],
+    "experience": [
+        {
+            "title": "Director of Engineering",
+            "company": "Company Name, City, State",
+            "start_date": "2004-01",
+            "end_date": "2016-01",
+            "description": "Capital goods manufacturer, software developer for hospitality & gaming, $1b sales, 3k employees. Major customers: Las Vegas Sands, MGM Resorts, Caesars Entertainment, Wynn Resorts, Boyd Gaming."
+        },
+        {
+            "title": "Director of Manufacturing Engineering (Operations Engineering)",
+            "company": "Company Name, City, State",
+            "start_date": "2014-01",
+            "end_date": "2016-01",
+            "description": "Directed all product launches, training, system controls, capital equipment, and product compliance. Administered strategic planning and management of department P&L, OPEX $5m and CAPEX $2m."
+        },
+        {
+            "title": "Senior Manager of Enterprise Resource Planning (Configuration Management)",
+            "company": "Company Name, City, State",
+            "start_date": "2012-01",
+            "end_date": "2014-01",
+            "description": "Configuration Management expansion tripled product line support, managing ERP controls for 1,000,000 SKUs, 25k product orders and 50k service orders per year. Led 6 direct reports."
+        },
+        {
+            "title": "Manager of New Product (Project Management & NPI/NPD)",
+            "company": "Company Name, City, State",
+            "start_date": "2009-01",
+            "end_date": "2012-01",
+            "description": "Oversaw project managers liaising with engineering, operations, and service departments; timely launch of new product; accelerated NPI time-to-market by 70%; implemented data distribution and training."
+        },
+        {
+            "title": "Senior New Product Engineer, Manufacturing Engineer, and Project Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2004-01",
+            "end_date": "2009-01",
+            "description": "Supplier quality defects driven to a 4-year low; created supplier scorecard; managed customized product for 3 corporate accounts earning $15m in sales. Production capacity increased 33% by launching cellular production method."
+        },
+        {
+            "title": "Performance Assessment Intern",
+            "company": "Company Name, City, State",
+            "start_date": "2002-01",
+            "end_date": "2003-01",
+            "description": "Data Center Network Engineer responsibilities: built & maintained 50 servers, 10 RAID5 disk arrays & three 20kVA UPS stacks; developed PM schedule resulting in reduced downtime."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration (MBA) – Finance and Marketing",
+            "school": "University of Nevada",
+            "year": "2009"
+        },
+        {
+            "degree": "Bachelor of Science in Industrial and Systems Engineering",
+            "school": "University of Southern California",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Project Management Professional (PMP)"
+    ],
+    "languages": []
+}

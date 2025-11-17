@@ -1,0 +1,122 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Sales professional with extensive experience in sales, procurement, and government subcontract administration. Proficient with Deltek Costpoint, PeopleSoft, Oracle, and SAP; strong Microsoft Office and Internet research skills; NCMA member; proven ability to prepare contracts, manage cradle-to-grave procurement, and guide clients from initial contact to closing.",
+    "skills": [
+        "acquisitions",
+        "Business Writing",
+        "closing",
+        "hardware",
+        "conferences",
+        "Consultant",
+        "contracts",
+        "clients",
+        "delivery",
+        "documentation",
+        "Email",
+        "finance",
+        "financing",
+        "financial reporting",
+        "Government",
+        "Government regulations",
+        "inspection",
+        "interpretation",
+        "leadership",
+        "legal",
+        "Lotus Notes",
+        "managing",
+        "market",
+        "materials",
+        "Microsoft Office",
+        "Outlook",
+        "negotiation",
+        "Internet research",
+        "Oracle",
+        "PeopleSoft",
+        "Policies",
+        "pricing",
+        "prime",
+        "Procurement",
+        "progress",
+        "proposals",
+        "proposal preparation",
+        "purchase requisitions",
+        "purchasing",
+        "SAP",
+        "simulation",
+        "Time Management",
+        "training programs"
+    ],
+    "experience": [
+        {
+            "title": "Sales Agent",
+            "company": "Company Name",
+            "start_date": "2016-09",
+            "end_date": "Present",
+            "description": "Prepare documents such as representation contracts, purchasing statements, closing agreements, leases and deeds. Accompany buyers during visits to and inspection of property, advising them on the suitability and value of the homes based on current market conditions. Evaluate mortgage option helping clients obtain financing at the best rate and terms. Provide expertise and advice to clients and prepare their home to be competitively priced and sell quickly."
+        },
+        {
+            "title": "Principal Subcontracts Administrator",
+            "company": "Company Name",
+            "start_date": "2012-07",
+            "end_date": "2016-05",
+            "description": "Performed comprehensive support for high dollar and visibility government contracts to include involvement in proposal preparation, evaluation, source selection, price analysis and financial reporting. Reviewed and performed in-depth analysis of supplier proposal responses to ensure the most responsive, responsible subcontractor was selected for award. Negotiated subcontract terms and provided interpretation and advice to the Program Manager concerning the requirements of the subcontract, to ensure compliance with the FAR and company policy. As the senior level Administrator in the department, I provided guidance and work leadership to less-experienced Subcontracts Administrators."
+        },
+        {
+            "title": "Subcontracts Administrator",
+            "company": "Company Name",
+            "start_date": "2009-08",
+            "end_date": "2012-07",
+            "description": "Responsible for managing cradle-to-grave (Capture to Closeout) procurement process for over forty five (45) major Task Orders, valued at 1 Billion dollars. Supported the development and execution of over 90 proposal efforts with up to fifteen (15) subcontractors per program. Procurement activities involved purchasing hardware and software products; construction projects; aircraft maintenance and training programs; associated labor and training projects for simulation technical services Prepared bids, processed specifications, progress and other reports; advised management of contractual rights and obligations; compile and analyze data, and maintain historical information, while working closely with program managers, project managers, finance and engineering."
+        },
+        {
+            "title": "Subcontracts Administrator/Buyer",
+            "company": "Company Name",
+            "start_date": "2008-06",
+            "end_date": "2009-06",
+            "description": "Provided cradle-to-grave administration of assigned subcontracts and task orders with a cumulative value of over 20 million dollars. Issued and negotiated pre-award agreements (i.e. teaming and non-disclosure agreements). Prepared the solicitation documents for complex acquisitions to include statements of work, terms and conditions or flow-down terms and conditions, bid or performance evaluation factors, and other measures incorporated into the Requests for Proposal as may be appropriate for the procurement. Reviewed customer solicitations, issued subcontractor RFPs and negotiated pricing and terms in order to protect the company's interests and provide a cost savings. Developed and negotiated all post-award subcontract documents to ensure compliance with Government regulations, prime contract requirements, and company policies. Issued subcontract or task order modifications as necessary. Resolved subcontractor payment issues."
+        },
+        {
+            "title": "Subcontracts Administrator",
+            "company": "Company Name",
+            "start_date": "2006-10",
+            "end_date": "2007-05",
+            "description": "Conducted proposal preparation, negotiation, administration, and customer contact activities that provide for proper contract acquisition and fulfillment in accordance with company policies, legal requirements, and customer specifications. Prepared RFPs and bid packages, conducted bidders' conferences, analyzed and evaluated proposals, selected and recommended subcontractors, wrote awards, and administered resulting subcontracts. Negotiated and coordinated additions, deletions, or modifications as needed. Developed specifications, work statements, and terms and conditions for the procurement of specialized materials, equipment, and services valued over 20 million dollars. Participated in the development of subcontract policies and procedures."
+        },
+        {
+            "title": "Buyer",
+            "company": "Company Name",
+            "start_date": "2004-08",
+            "end_date": "2006-10",
+            "description": "Conducted procurement actions for various Government programs in accordance with the prime contracts, FAR, DFARS, company policies and CPSR requirements. Analyzed purchase requisitions; initiated RFQs/RFPs; reviewed bids; selected vendors; negotiated terms, conditions and pricing of materials or services to be procured; issued purchase orders or subcontracts by utilizing Costpoint. Provided an overall cost savings to the company of over $20,000. Completed all necessary file documentation to include price analysis, memorandums of negotiation, determination of commerciality, etc. Tracked vendor delivery of products or services and expedited orders as needed. Provided support for subcontracting activities with NDAs, Teaming Agreements, Consultant Agreements, Subcontract Modifications and Task Orders."
+        },
+        {
+            "title": "Associate Buyer",
+            "company": "Company Name",
+            "start_date": "2000-11",
+            "end_date": "2004-08",
+            "description": "Conducted solicitations for bid from suppliers; tabulated and analyzed bids to secure lowest or best value; developed price analysis, prepared and placed purchase orders; maintained PO files in compliance. Identified new sources and procured products and services with emphasis on seeking out women and minority suppliers to assist in the achievement of subcontracting goals in accordance with FAR/DFARS."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Management/Psychology",
+            "school": "University of Maryland",
+            "year": "1997"
+        },
+        {
+            "degree": "Subcontract Management",
+            "school": "JA White & Associates, Inc.",
+            "year": null
+        },
+        {
+            "degree": "Time Management & Organizational Skills",
+            "school": "Rockhurst University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

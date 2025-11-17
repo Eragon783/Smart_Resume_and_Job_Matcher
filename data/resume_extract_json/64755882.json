@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Looking for opportunities to work in a research environment for creating solutions using digital systems at circuit and system level.",
+    "skills": [
+        "LabVIEW",
+        "Synopsys Design Vision",
+        "Modelsim",
+        "Cadence Virtuoso",
+        "C",
+        "C++",
+        "Verilog",
+        "Windows",
+        "Linux",
+        "OSX",
+        "Oscilloscope",
+        "Spectrum Analyzer",
+        "Multimeter",
+        "Programmable Logic Controllers (PLC)",
+        "Distributed Control Systems (DCS)",
+        "PID controllers",
+        "FPGA"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Officer",
+            "company": "Company Name",
+            "start_date": "07/2014",
+            "end_date": "06/2015",
+            "description": "Spearheaded a team of electricians and technicians to carry out preventive maintenance of equipment of LPG bottling plant. Role also entailed procurement of spares and materials and maintain inventory at plant. Major tasks involved: Maintenance and calibration of equipment such as cylinder gas leak detectors, washer leak detectors, gas analyzers etc. Upkeep of electrical panels and control systems. Maintenance of drive units, compressors, LPG pumps etc. Modified and developed various plant equipments to improve production line throughput."
+        },
+        {
+            "title": "Operations Officer",
+            "company": "Company Name",
+            "start_date": "06/2013",
+            "end_date": "06/2014",
+            "description": "Oversaw the operations of LPG bottling plant production activities. Managed workforce on the production line to give maximum production while maintaining safety standards. Optimized the production line equipment and maintained regular calibration checks of equipments like quality check machines to produce hazard free bottled cylinders."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "06/2012",
+            "end_date": "07/2012",
+            "description": "Engaged in various automation and control system design using Distributed Control Systems and Programmable Logical Controllers. Learned interfacing of instruments with Controllers and their respective communication protocols. Documented and created a report as a reference manual on the technical details of various systems and instruments which was presented to the company."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "06/2011",
+            "end_date": "07/2011",
+            "description": "Learned about the various instruments used in different process applications of the petroleum refinery. Knowledge of the use of intrinsically safe devices in hazardous areas and the ratings of equipment as per the hazardous zones. Interfacing of these instruments with Distributed Control Systems and parameters of tuning the PID controllers."
+        },
+        {
+            "title": "Engineering Officer",
+            "company": "Company Name",
+            "start_date": "12/2014",
+            "end_date": "12/2014",
+            "description": "Programmable Logic Controller (PLC) Based Chain Conveyor Tripping System: Designed a control loop which was interfaced with a Allen Bradley PLC controller to read the current readings of individual drive units and provide appropriate tripping signals as per the motor health."
+        },
+        {
+            "title": "Engineering Officer",
+            "company": "Company Name",
+            "start_date": "06/2014",
+            "end_date": "06/2014",
+            "description": "Infrared Sensor based telescopic boom tripping system: IR sensor based intrinsically safe system that detects presence of objects in front of moving machinery and trips them instantly."
+        },
+        {
+            "title": "Operations Officer",
+            "company": "Company Name",
+            "start_date": "01/2014",
+            "end_date": "01/2014",
+            "description": "Infrared sensor based automatic hot air sealing machine. Modified old pneumatic based cylinder sealing system to an electro-pneumatic and infrared sensor based sealing system. Improved production line performance by 1000 cylinders/hour."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Electrical Engineering",
+            "school": "North Carolina State University",
+            "year": 2017
+        },
+        {
+            "degree": "Bachelor of Engineering in Instrumentation and Control Engineering",
+            "school": "Netaji Subhas Institute Of Technology",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "Certificate of Merit in academics, NSIT, 2011-12 and 2012-13"
+    ],
+    "languages": [
+        "English"
+    ]
+}

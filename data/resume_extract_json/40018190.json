@@ -1,0 +1,53 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experience in network/hardware/operating system troubleshooting, web page design, PC assembly, technical support, and customer service. Analytical Helpdesk technician adept at resolving complex issues. Critical thinker who addresses customer support issues quickly and who consistently exceeds performance standards.",
+    "skills": [
+        "Sharepoint",
+        "Cisco Telephony tools",
+        "Bomgar",
+        "Visio",
+        "Queue Monitoring Activites",
+        "SAP",
+        "Active Directory",
+        "Mobileiron",
+        "HPSM",
+        "IOS"
+    ],
+    "experience": [
+        {
+            "title": "IT Support Technician",
+            "company": "Company Name",
+            "start_date": "12/2014",
+            "end_date": "Current",
+            "description": "Provide technical assistance and support for incoming queries and issues related to computer systems, software, and hardware. Respond to queries either in person or over the phone. Vast troubleshooting capabilities with IOS. Train computer users Maintain daily performance of computer systems. Process an average of 15-20 inbound and outbound technical support calls daily"
+        },
+        {
+            "title": "Network Assistant Intern",
+            "company": "Company Name",
+            "start_date": "01/2014",
+            "end_date": "05/2014",
+            "description": "Assisted University network administrator with daily tasks including wireless, VDI, patchwork Network infrastructure, hardware management, and server room operations."
+        },
+        {
+            "title": "Technology Assistant Intern",
+            "company": "Company Name",
+            "start_date": "08/2013",
+            "end_date": "05/2014",
+            "description": "Maintained 489 page University website Managed and completed daily work orders for University Help Desk Attended weekly administrative technology meetings relating to technology problems/solutions. Managed/deployed hardware and software to student body as well as faculty."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Management Information Systems",
+            "school": "William Woods University",
+            "year": "2014"
+        }
+    ],
+    "certifications": [
+        "IC3 Internet and Computing Core Certification"
+    ],
+    "languages": []
+}

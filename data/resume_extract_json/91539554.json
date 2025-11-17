@@ -1,0 +1,54 @@
+{
+    "name": "Y. Martínez",
+    "email": null,
+    "phone": null,
+    "location": "Havana, Cuba",
+    "summary": "Skilled weather forecaster with media-network experience. Familiar with SmartMET system for short- and medium-range forecasts at various spatial scales. Strong communication, adaptability, problem-solving, and organizational/planning skills; proven ability to improvise and perform under challenging conditions; reliable team player.",
+    "skills": [
+        "People skills",
+        "Communication skills",
+        "Adaptability",
+        "Organizational/planning skills",
+        "Teamwork",
+        "Weather forecasting",
+        "SmartMET workstation",
+        "Statistical analysis software",
+        "Numerical models analysis",
+        "Observational data analysis",
+        "Satellite and radar workstation",
+        "Public speaking"
+    ],
+    "experience": [
+        {
+            "title": "Media Weather Forecaster",
+            "company": "Company Name, City",
+            "start_date": "2010-03",
+            "end_date": "2014-11",
+            "description": "Presented local weather news and feature reports in the public radio style on both local and national weather news programs. Introduced fresh and new angles on previously-reported material to update and inform the audience. Combined video, audio and graphics to effectively convey each report and forecast. Explained hazards and vulnerabilities that the people could expect and confront in dangerous weather conditions."
+        },
+        {
+            "title": "Superior Specialist in Meteorology",
+            "company": "Company Name, City",
+            "start_date": "2008-09",
+            "end_date": "2014-11",
+            "description": "Created technical and research documents such as daily and weekly forecasts, discussions and warnings. Analyzed meteorological conditions affecting people's lives and economic features. Assisted in developing scientific analysis software. Conducted research in Severe Local Storms and Weather forecast evaluation, specifically dangerous meteorological systems. Developed effective working relations with groups, individuals, agencies and the public. Supervised technical and professional staff. Guaranteed all data met stringent quality control standards. Trained new personnel and interns on office functions. Maintained a high rate of accuracy over a 85% in daily forecast evaluation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor degree in Meteorology",
+            "school": "Institute of Technology and Applied Sciences, City, Cuba",
+            "year": "2008"
+        },
+        {
+            "degree": "Diplomat Course in Evaluation of Ecological and Climatic Risks and Environmental Impact",
+            "school": "University of Alicante, Spain - INSTEC, Cuba",
+            "year": "2006-2007"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish",
+        "English"
+    ]
+}

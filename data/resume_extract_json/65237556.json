@@ -1,0 +1,100 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "Nuevo Laredo, Tamaulipas, Mexico",
+    "summary": "Results-oriented Marketing professional who drives company growth through creative and innovative marketing strategies.",
+    "skills": [
+        "Tactical Planning",
+        "Marketing and Sales",
+        "Retail Marketing",
+        "Organized and Efficient",
+        "CRM (Customer Relationship Management)",
+        "Communication",
+        "Business Negotiation",
+        "Team Leadership",
+        "Bilingual English and Spanish",
+        "Financial Reporting",
+        "Public Speaking",
+        "Voice-over Talent",
+        "Microsoft Office",
+        "Tableau",
+        "Marketing Software",
+        "Photoshop (basic)"
+    ],
+    "experience": [
+        {
+            "title": "Marketing Coordinator",
+            "company": "Taco Palenque (and associated brands: Palenque Grill, Pollo Palenque)",
+            "start_date": "July 2012",
+            "end_date": "April 2016",
+            "description": "Managed, developed and improved the schools food courts project for Taco Palenque branch. Image change for Taco Palenque's branch fleet. Customer Relationship Management. Creative producer of concepts and scripts for TV and radio advertising for all branches: Taco Palenque, Pollo Palenque, Palenque Grill and Tensai Sushi. Conceptual Image Creative for all branches. Web content and design development for Taco Palenque, Palenque Grill and Pollo Palenque. New product launching campaigns creative. Consumer trends analysis. Exceeded sales and transaction goals in different LTOs through marketing campaigns with Taco Palenque. Improved same store sales by increasing ticket avg and transactions through strategic marketing programs. Lead additional sales by reaching new and specific target markets. Coordination of campaigns, special events and pricing with franchisees. Financial analysis, reporting and tracking of all promos and special sales for Taco Palenque branch. Menu analysis and redesign for Taco Palenque and Palenque Grill. Drive-thru improvement project initiative and development. Store opening event coordination. Official Voice-over talent for Taco Palenque and Palenque Grill."
+        },
+        {
+            "title": "Marketing Campaign Manager",
+            "company": "Taco Palenque group",
+            "start_date": "October 2010",
+            "end_date": "December 2010",
+            "description": "Created, organized and executed 'Un dia de tu salario' Regional Marketing campaign (4 cities), implementing creative ads, public speeches, media management and working with other organizations, reaching and exceeding the collection goal."
+        },
+        {
+            "title": "Public Relations Coordinator",
+            "company": "Taco Palenque group",
+            "start_date": "March 2010",
+            "end_date": "June 2010",
+            "description": "Sales team leader (team of five). Client relations supervisor. Customer database management."
+        },
+        {
+            "title": "Public Relations Advisor",
+            "company": "Taco Palenque group",
+            "start_date": "January 2010",
+            "end_date": "March 2010",
+            "description": "Customer service associate. Client relations. Client database management. Direct sales."
+        },
+        {
+            "title": "Logistics Coordinator",
+            "company": "Institute / Organization",
+            "start_date": "September 2008",
+            "end_date": "October 2009",
+            "description": "Organized and developed the first international rally promoting gender equality; coordinated events and projects of the institute; digital engagement supervisor."
+        },
+        {
+            "title": "Auditor",
+            "company": "Hotel",
+            "start_date": "April 2006",
+            "end_date": "June 2006",
+            "description": "In charge of the entire hotel operation during the night shift. Reconciled cashier transactions. Prepared management reports. Ensured accuracy of guest billings. Performed guest service duties including check-in, check-out, switchboard and reservations."
+        },
+        {
+            "title": "Front Desk",
+            "company": "Hotel",
+            "start_date": "September 2005",
+            "end_date": "April 2006",
+            "description": "Check-ins and check-outs of walk-ins. Made online and phone reservations. Maintained guest history files. Issued safe deposit boxes and ensured key security. Resolved discrepancies with Housekeeping. Maintained knowledge of hotel features, hours, room types, rates and promotions."
+        },
+        {
+            "title": "Owner",
+            "company": "Automotive and Import-Export Dealer",
+            "start_date": "January 2005",
+            "end_date": "January 2012",
+            "description": "Buy-sell cars, trucks, motorcycles, heavy machinery; Dealer credential enabling access to U.S. auctions; import-export services and shipping of goods and vehicles."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA, Marketing and Advertising",
+            "school": "Centro de Estudios Superiores Royal",
+            "year": 2010
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Instituto Anglo Español de Nuevo Laredo",
+            "year": 2005
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

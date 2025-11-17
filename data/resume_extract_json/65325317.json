@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Kodiak, Alaska",
+    "summary": "Executive Director with 35+ years of public service experience in administrative management, logistics, budget management, emergency management, security, antiterrorism, force protection, training and instruction, and community arts programming. Proven ability to develop strategic plans, secure funding, manage grants, coordinate with local, state and federal agencies, and lead large teams and volunteers.",
+    "skills": [
+        "Problem Resolution",
+        "Self-starter",
+        "Collaboration and Coordination",
+        "Service Orientation",
+        "Budget",
+        "Microsoft Office",
+        "QuickBooks",
+        "Spreadsheets",
+        "Liaison",
+        "Security",
+        "Training",
+        "Collections",
+        "Credit",
+        "Increase",
+        "Marketing",
+        "Video Teleconferencing",
+        "Cases",
+        "Instructor",
+        "Administrative Support",
+        "Compressors",
+        "Control Systems",
+        "Fire Control",
+        "Generators",
+        "Industrial Machinery",
+        "Interior Renovations",
+        "Maintenance",
+        "Preventive Maintenance",
+        "Operations",
+        "Budget Management",
+        "Logistics",
+        "Logistics Management"
+    ],
+    "experience": [
+        {
+            "title": "Executive Director",
+            "company": "Kodiak Arts Council",
+            "start_date": "2009-06",
+            "end_date": "2012-08",
+            "description": "Executive Director responsible for pursuing funding, interacting with community and government agencies, realigning strategic plan, managing grants, increasing patronage through web/social media, coordinating productions, supervising volunteers, arranging master classes, and fostering collaborations with local museums and public entities."
+        },
+        {
+            "title": "Chief Warrant Officer Four, Operations Officer",
+            "company": "United States Coast Guard (PATFORSWA) / Operational Leadership",
+            "start_date": "1985-05",
+            "end_date": "2009-09",
+            "description": "Directed forward operating base personnel in Kuwait during Operation Iraqi Freedom; deck watch officer for patrol boats; liaison with regional partners for at-sea enforcement; planned and directed Personal Protective Services for U.S. and foreign officials; directed emergency management for military bases; conducted background investigations; led police force; liaised with local and federal agencies; administered administrative support and training; oversaw contracting and shipboard maintenance programs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS Liberal Arts (Management and Psychology)",
+            "school": "Excelsior College",
+            "year": "2002"
+        }
+    ],
+    "certifications": [
+        "Antiterrorism Force Protection Level II Certification (U.S. Coast Guard)",
+        "Command Security Officer Course",
+        "Export Domestic Maritime Training",
+        "Law Enforcement Boarding Officer Course",
+        "ICS-300",
+        "ICS-200",
+        "ICS-100",
+        "Applied Suicide Intervention Course"
+    ],
+    "languages": [
+        "English"
+    ]
+}

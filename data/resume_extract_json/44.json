@@ -1,0 +1,72 @@
+{
+    "name": "Alex Stepanov",
+    "email": null,
+    "phone": null,
+    "location": "Petah Tikva, Israel",
+    "summary": "",
+    "skills": [
+        "PHP",
+        "Python",
+        "C++",
+        "Laravel",
+        "Symfony",
+        "Flask",
+        "MySQL",
+        "Linux",
+        "Windows",
+        "Git",
+        "Composer",
+        "REST API",
+        "RedMine",
+        "Trello",
+        "JWT",
+        "Apache"
+    ],
+    "experience": [
+        {
+            "title": "PHP Developer",
+            "company": "Unique Technologies LLC",
+            "start_date": null,
+            "end_date": null,
+            "description": "Developed server side of web and mobile applications using PHP, MySQL. Wrote new application components and edited old ones using Laravel 5. Worked with team of developers to resolve Front-End and Back-End issues. Worked with GitFlow."
+        },
+        {
+            "title": "WEB Developer",
+            "company": "Concord Bank",
+            "start_date": null,
+            "end_date": null,
+            "description": "Maintained web application using PHP, Laravel. Developer of bank services. Worked with GitFlow."
+        },
+        {
+            "title": "PHP Developer",
+            "company": "cheapfortrip.ru",
+            "start_date": null,
+            "end_date": null,
+            "description": "Developed small projects in PHP (backend, API). Used Symfony 4, MySQL."
+        }
+    ],
+    "education": [
+        {
+            "degree": "PHP Development",
+            "school": "Hillel IT School",
+            "year": "2018"
+        },
+        {
+            "degree": "Computer Engineering",
+            "school": "DNURT (Dnipro National University of Rail Transport)",
+            "year": null
+        },
+        {
+            "degree": "Computer Engineering",
+            "school": "NTUDP (Dnipro Polytechnic National Technical University)",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Hebrew",
+        "English",
+        "Russian",
+        "Ukrainian"
+    ]
+}

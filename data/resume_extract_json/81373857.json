@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Mature college student. Interested in part time work in areas such as retail, health services, security, information technology, and food services. The past six years I have been involved in a men's mentor group named BoyzN2Men. As a high school student I started as one of the entry level attendees and worked my way to one of the top officers of the core. The program has taught me the importance of responsibility, accountability, integrity of character and other virtues of life that will help me in the work place. During my high school senior year I was actively involved with the student government association (SGA). I was the secretary of arms, highly reliable and very attentive during my time as the active secretary. Also have experienced in taking food orders, operating cash registers and safely handling food while checking for proper temperatures.",
+    "skills": [
+        "Adobe Software",
+        "Internet",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Microsoft Works",
+        "Instruction",
+        "Marketing",
+        "Math",
+        "Language skills",
+        "Restaurant management",
+        "Communicator"
+    ],
+    "experience": [
+        {
+            "title": "Head Chef",
+            "company": "Company Name",
+            "start_date": "07/2012",
+            "end_date": "11/2015",
+            "description": "Promptly reported complaints to a member of the management team. Up-sold additional menu items, beverages and desserts to increase restaurant profits. Communicated clearly and positively with co-workers and management. Served fresh, hot food with a smile in a timely manner. Cut and chopped food items and cooked on a grill or in fryers."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name",
+            "start_date": "07/2010",
+            "end_date": "",
+            "description": "Worked on a Building campaign and domestic tasks. Recorded customer orders and repeated them back in a clear, understandable manner. Took necessary steps to meet customer needs and effectively resolve service issues."
+        },
+        {
+            "title": "Front Desk / Customer Service",
+            "company": "Rock Creek Sports Club",
+            "start_date": "01/2010",
+            "end_date": "01/2011",
+            "description": "Worked directly with customers and employees. Attending to front desk and answering calls. Engaging in invigorating task in the workplace."
+        },
+        {
+            "title": "Floor Management",
+            "company": "Rock Creek Sports Club",
+            "start_date": "01/2012",
+            "end_date": "",
+            "description": "Assisted Managers. Clean, Replaced tiles. Marketing i.e. create/distribute marketing tools to attract customers. Maintain floor equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Watkins Mills High School",
+            "year": "2012"
+        },
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "school": "University of Maryland College Park",
+            "year": "2014"
+        },
+        {
+            "degree": "Attended Towson University",
+            "school": "Towson University",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

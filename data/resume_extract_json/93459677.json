@@ -1,0 +1,92 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Sunnyvale, CA, USA",
+    "summary": "Seasoned SAP FI/CO consultant with 7 years of professional experience, including 5 years in SAP consulting and 2 years in Banking and Financial Analysis. Currently with Infosys Limited in Sunnyvale, CA (since Oct 2010) as SAP FI/CO Consultant and Module Lead of a 40-member Global FI/CO Support and Maintenance team. Expertise includes end-to-end SAP FI/CO implementations, FI-CA (RMCA), Revenue Recognition, integration with SAP BW/EDW, and cross-functional work with MM and SD. Strong experience in requirements gathering, design documentation, configuration, testing, training, cutover, go-live and post-implementation support.",
+    "skills": [
+        "ABAP",
+        "General Ledger",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Automatic Payment Program (F110)",
+        "Asset Accounting",
+        "AB-COPA",
+        "Special Purpose Ledger",
+        "Revenue Recognition",
+        "Journal Voucher Workflow",
+        "Balance Sheet Reconciliation",
+        "FI-CA (RMCA)",
+        "Invoice Cockpit",
+        "Lockbox",
+        "Taxes on Sales / Purchases",
+        "Vertex",
+        "Treasury",
+        "Electronic Bank Statements (EBS)",
+        "Dispute Management",
+        "SAP FI/CO",
+        "SAP BW",
+        "SD",
+        "MM",
+        "HANA",
+        "End User Training",
+        "User Manuals",
+        "Go-live",
+        "Testing",
+        "Documentation",
+        "Configuration",
+        "IMG activities"
+    ],
+    "experience": [
+        {
+            "title": "SAP Consultant - SAP FI/CO",
+            "company": "Infosys Limited",
+            "start_date": "2010-10",
+            "end_date": "Present",
+            "description": "Functional Consultant in SAP FI/CO for client. Involved in 5 project implementations; presently Module Lead of a 40-member Global FI/CO Support and Maintenance Team. Responsibilities include requirements gathering, design documentation, configuration coordination with ABAP resources, integration testing, end-user training and documentation, cutover, go-live and post-implementation support. Key areas: Payment Consolidation System, FI-CA (RMCA), Revenue Recognition, Journal Voucher Workflow, Balance Sheet Reconciliation, Production Support and Maintenance (GL, AR/AP, F110, Asset Accounting, AB-COPA, Special Purpose Ledger, Taxes, Vertex, Treasury, EBS, Collections and Dispute Management, FI-CA, Invoice Cockpit, Lockbox). Also involved in training and user manuals."
+        },
+        {
+            "title": "Relationship Partner",
+            "company": "Company Name",
+            "start_date": "2010-04",
+            "end_date": "2010-10",
+            "description": "Acquisition of Small and Medium Enterprises (SME) clients with turnover up to INR 2500 Million. Provided end-to-end financial solutions covering Financial Markets, Trade and Treasury services, Corporate Finance, Asset Services and Term Loans. Analyzed financials and rated clients on financial and non-financial risk. Maintained portfolio quality through proactive account management and client interactions."
+        },
+        {
+            "title": "Analyst",
+            "company": "Company Name",
+            "start_date": "2007-11",
+            "end_date": "2008-06",
+            "description": "Ensured accuracy of cash and stock transactions in client accounts; conducted in-depth analysis of exceptions; performed asset-level analysis of funds before NAV publication; prepared consolidated reports for high net worth clients."
+        },
+        {
+            "title": "Associate",
+            "company": "Company Name",
+            "start_date": "2006-07",
+            "end_date": "2007-07",
+            "description": "Financial analysis of defaulted loans and approval for foreclosure; initiated and coordinated foreclosure processes; ensured timely completion of active foreclosures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Commerce",
+            "school": "Bangalore University",
+            "year": null
+        },
+        {
+            "degree": "Finance",
+            "school": "International Management Institute",
+            "year": "2010"
+        },
+        {
+            "degree": "Senior Secondary Certificate (ICSE)",
+            "school": "Baldwin Boys' High School, Bangalore",
+            "year": "2001"
+        }
+    ],
+    "certifications": [
+        "AMFI - Mutual Fund (Advisors) Module",
+        "NSE's Certification in Financial Markets (NCFM)"
+    ],
+    "languages": []
+}

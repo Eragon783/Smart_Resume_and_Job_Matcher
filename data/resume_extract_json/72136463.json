@@ -1,0 +1,125 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dedicated Finance Manager and Office Admin who leverages initiative and resourcefulness to deliver excellence in meeting business objectives. Highlights include Intuit QuickBooks specialization, accounting operations, fiscal budgeting knowledge, accounts receivable and payable, expert customer relations, exceptional time management, and strong Microsoft Office proficiency with excellent communication and customer service skills.",
+    "skills": [
+        "Intuit QuickBooks",
+        "QuickBooks Pro",
+        "Accounts payable",
+        "Accounts receivable",
+        "Payroll",
+        "FSA",
+        "General ledger",
+        "Financial reporting",
+        "Budgeting",
+        "Cash flow management",
+        "Administrative functions",
+        "Microsoft Office",
+        "Excel",
+        "MYOB",
+        "FileMaker Pro",
+        "ADP Payroll",
+        "Desktop Publishing",
+        "Adobe Illustrator",
+        "Photoshop",
+        "Project management",
+        "Vendor relations",
+        "Scheduling",
+        "Bookkeeping",
+        "Financial operations",
+        "Grant Writing",
+        "Marketing materials",
+        "Research",
+        "Customer service",
+        "Communication"
+    ],
+    "experience": [
+        {
+            "title": "Finance / Office Manager",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "Present",
+            "description": "Manage day-to-day financial operations, month- and year-end accounting, AR and AP for two companies. Established process for professional services project accounts receivable, collections, and accounts payable bookkeeping systems which created a monthly cash flow that was not previously available. Manage complex financial spreadsheets and grant accounting details. Prepare payroll, insurance benefits and FSA records. Submit payroll reports to Paychex and post to QuickBooks 2015. Administer benefits and coordinate with insurance carriers to renew agreements. Established and maintain a complex filing system. Coordinate purchasing, maintenance and repair of office equipment, plus maintain office supplies inventory. Make travel arrangements for conference registration, airline, hotel and rental car reservations. Coordinate inbound/outbound shipping of booth materials for tradeshows. Proofread written materials, edit and recommend changes for marketing and professional services documents. Administrative and financial manager for the nonprofit Protected Harvest Certification Program application process, including creating new set of books for 2009 accounting going forward. Developed and nurture excellent grower relations and training on the online self-assessment system. Integral member of team that re-built the Protected Harvest website."
+        },
+        {
+            "title": "Bookkeeper",
+            "company": "Company Name",
+            "start_date": "2005-01",
+            "end_date": "2008-01",
+            "description": "Bookkeeping for six company entities, including AR and AP and ADP payroll and journal entry posting to QuickBooks, bank deposits and reconciliations, vendor 1099s, end-of-year books submittal to accountant, and professional liability insurance applications. Converted MYOB accounting program for five company entities to QuickBooks Pro for January 2006 start date. Set-up an additional company in 2008. Utilized ADP Payroll Service for up to 20 employees. Obtained various state tax agency accounts nationwide. Created Excel spreadsheets to analyze multi-company financial data, workers' compensation SCIF reports and audits. Database updates in FileMaker Pro, plus occasional resume and contract work for the recruiters. Created spreadsheets to track reservation schedules for two vacation rental properties, including online payments, contracts, client communication, keys, and cleaning schedule - for owners' rental property."
+        },
+        {
+            "title": "Bookkeeper / Office Manager",
+            "company": "Company Name",
+            "start_date": "1999-01",
+            "end_date": "2003-01",
+            "description": "Bookkeeping for five company entities on QuickBooks Pro. Produced marketing materials. Created annual client/financial project report. Maintained excellent client, consultant and vendor relations. Wrote correspondence, and produced architectural specifications. Set up all administrative office systems and files for new Aspen office, plus financial management, including payroll, of the Telluride office. Bookkeeping for five company entities on QuickBooks Pro."
+        },
+        {
+            "title": "Project / Purchasing Manager",
+            "company": "Company Name",
+            "start_date": "1997-01",
+            "end_date": "1999-01",
+            "description": "Managed the purchasing process for interior design projects, including resourceful coordination of national shipments for local interior installations. Developed and implemented effective project management system in Excel for tracking purchases, shipment dates and project costs. Successful liaison at all levels of client, consultant and vendor relations."
+        },
+        {
+            "title": "Founder / Principal",
+            "company": "Company Name",
+            "start_date": "1996-01",
+            "end_date": "2009-01",
+            "description": "Founded and successfully managed a small bookkeeping and graphic design service company. Delivered a range of services including bookkeeping, administrative and office assistance, research and writing, travel, presentation materials, business cards, flyers, brochures and chapbooks. Clients included not-for-profit, foundations, architects, alternative health care practitioners, and consumer product companies. Bookkeeper for the Santa Cruz Art League."
+        },
+        {
+            "title": "Learning Resource Center Technician",
+            "company": "Company Name",
+            "start_date": "1993-01",
+            "end_date": "1995-01",
+            "description": "Managed accounts payable and developed data spreadsheet to track budget. Provided excellent customer service, and computer database instruction on information retrieval, research, and inter-library loan services, plus maintained vendor relations, library supplies, and selected books for collection development. Wrote procedures manual for ordering and cataloging new books. Hired and supervised student employees. Advertising and marketing of the 1994 Colorado Mountain Writers Workshop, a five-day, accredited intensive course in creative writing. Created and produced the CMWW brochure, flyers, and advertising. Coordinated faculty and seminar scheduling. Directed all administrative functions and logistics for faculty and participants."
+        },
+        {
+            "title": "Bookkeeper / Office Manager",
+            "company": "Company Name",
+            "start_date": "1987-01",
+            "end_date": "1993-01",
+            "description": "Managed office operations and financial administration. Initiated computer equipment purchases. Computerized all phases of accounting and architectural specifications. Developed Excel templates for billing, project costs, payroll, general ledger and financial reports. Managed $400K-500K budget, payroll and taxes, W-2s/1099s, AP and AR, billing procedures, business correspondence, year-end income tax preparation, and project analyses."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Psychology - Sociology",
+            "school": "Metropolitan State College",
+            "year": null
+        },
+        {
+            "degree": "Counseling (Master's Candidate)",
+            "school": "California State University",
+            "year": null
+        },
+        {
+            "degree": "Small Business Bookkeeping: QuickBooks Pro",
+            "school": "Community College of Denver",
+            "year": null
+        },
+        {
+            "degree": "Desktop Publishing: QuarkXPress, Photoshop, Adobe Illustrator",
+            "school": "Colorado Mountain College (CMC), Aspen",
+            "year": null
+        },
+        {
+            "degree": "Creative Writing, Graphic Design, Grant Writing",
+            "school": "CMC, Glenwood Springs",
+            "year": null
+        },
+        {
+            "degree": "Paralegal Certification Courses",
+            "school": "CMC",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Paralegal Certification Courses (30 Hours)"
+    ],
+    "languages": []
+}

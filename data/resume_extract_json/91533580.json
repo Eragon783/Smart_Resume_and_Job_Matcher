@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Energetic and versatile retail professional with extensive experience in store management, HR, training, merchandising and customer service. Proven ability to lead teams, drive sales, and implement visual merchandising strategies in fast-paced environments.",
+    "skills": [
+        "BI",
+        "Coaching",
+        "conferences",
+        "credit",
+        "customer service",
+        "direction",
+        "special events",
+        "fashion",
+        "Focus",
+        "hiring",
+        "HR",
+        "Team Building",
+        "leadership",
+        "Loss Prevention",
+        "merchandising",
+        "payroll",
+        "performance appraisals",
+        "processes",
+        "recruiting",
+        "sales",
+        "Trainer"
+    ],
+    "experience": [
+        {
+            "title": "Store Manager",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2014-01",
+            "description": "Responsible for all store operations including HR, recruiting, training, sales and customer service. Led team through transition to larger location with emphasis on maintaining standards and motivating the team to achieve KPI goals. Developed coaching to provide superior customer service to differentiate boutique and attract new customers, continuing to build a loyal customer base. Used strong merchandising skills to implement visual directions and drive sales. Engaged in community outreach and fashion shows to achieve KPI and attract new customers."
+        },
+        {
+            "title": "Store Manager / Training Store Manager / District Manager",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2010-01",
+            "description": "Effectively led, motivated and developed store teams to strengthen brand loyalty through exceptional customer service. Facilitated ongoing training with team members to successfully drive sales to achieve personal and store goals. Implemented visual merchandising directions and used strong merchandising skills to drive sales. Controlled payroll and exceeded shrinkage goals supporting the Loss Prevention program. Accountable for HR processes - recruiting, hiring, performance appraisals. Coordinated community outreach and supervised quarterly in-store events. Contributed to developing a new store manager training program. Traveled to new markets across the country to assist with openings and training."
+        },
+        {
+            "title": "Shop Director / Regional Trainer",
+            "company": "Company Name",
+            "start_date": "1991-01",
+            "end_date": "2000-01",
+            "description": "Shop director of \"Must Win\" store with annual volume of $3.5 million+. Provided leadership and direction for staff up to 35+ associates including management to achieve top stores in the company. Focus on training and maintaining excellent customer service skills. Motivated team to increase productivity to consistently meet and exceed personal and store goals. Major visual merchandising, set up of promotions and bi-annual sales. Maintained payroll, Loss Prevention program and monitored expenditures. Midwest Regional Trainer for new management in sales, customer service, store operations and visual merchandising. Actively represented stores at conferences and events."
+        },
+        {
+            "title": "Department Assistant Manager",
+            "company": "Company Name",
+            "start_date": "1990-01",
+            "end_date": "1991-01",
+            "description": "Coats, Suits, Dresses and Lingerie. Responsible for training and developing a staff of 20+ sales associates. Increase and achieve sales goals through developing sales techniques and maintaining superior customer service. Supervised department operations and provided direction including visual presentation and standards. Developed weekly schedule and managed payroll. Coordinated in-store special events."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Business Management and Accounting",
+            "school": "UVT College of Economics",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

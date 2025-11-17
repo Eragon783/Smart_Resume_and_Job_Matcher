@@ -1,0 +1,110 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "CES Talent Management Associate with experience designing company-wide onboarding, orientation and mentoring programs. Team-oriented Training and Development Coordinator who efficiently develops training processes and procedures for human resources teams.",
+    "skills": [
+        "streamline",
+        "Arts",
+        "Basic",
+        "Budget Planning",
+        "budgets",
+        "Budget",
+        "Conferences",
+        "Content",
+        "conversion",
+        "Data Analysis",
+        "databases",
+        "Document Management",
+        "Edge",
+        "File Management",
+        "government",
+        "Hiring",
+        "HR",
+        "instruction",
+        "Team Building",
+        "Leadership",
+        "ledger",
+        "logistics",
+        "Math",
+        "Excel",
+        "office",
+        "Outlook",
+        "PowerPoint",
+        "networking",
+        "Performance Management",
+        "Process Improvement",
+        "Processes",
+        "programming",
+        "progress",
+        "Project Management",
+        "Quality",
+        "reading",
+        "Recruiting",
+        "Sales",
+        "scheduling",
+        "Staffing",
+        "teaching",
+        "phone",
+        "UCC",
+        "unique",
+        "Workshops",
+        "year-end"
+    ],
+    "experience": [
+        {
+            "title": "Project Coordinator Associate",
+            "company": "Company Name",
+            "start_date": "06/2014",
+            "end_date": "Current",
+            "description": "Coordinate Installation Quality Audit reports; track IQA results; streamline 9-box review processes; plan and logistics for conferences and trainings; support learning of new technologies (Cummins Connect and Outlook 365); assist new hires with CCW environment, PO's, Ariba, travel, scheduling; maintain databases and communicate project updates; train staff during demonstrations, meetings, conferences and workshops."
+        },
+        {
+            "title": "Talent Management HR Associate",
+            "company": "Company Name",
+            "start_date": "10/2011",
+            "end_date": "05/2014",
+            "description": "Facilitated CES site OnBoarding modules; prepared training modules and logistics; led process improvement updating Aftertreatment 101; supported onboarding within first 90 days (80% attendance); organized CES Intern Events; evaluated training program effectiveness and recommended improvements; conducted orientation sessions and on-the-job training; coordinated ongoing technical and personal development classes; developed surveys; created training manuals and materials; delivered courses on communication, team building, and related topics; trained instructors; planned corporate events; communicated objectives and schedules to management."
+        },
+        {
+            "title": "Assistant Property Manager",
+            "company": "Company Name",
+            "start_date": "01/2009",
+            "end_date": null,
+            "description": "Assisted in the management of a 152-unit apartment community."
+        },
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "01/2003",
+            "end_date": "01/2009",
+            "description": "Basic classroom instruction and management; used Project Based Learning (PBL) techniques to connect classroom learning with real-world applications."
+        },
+        {
+            "title": "Arts and Education Program Manager",
+            "company": "Company Name",
+            "start_date": "01/1999",
+            "end_date": "01/2003",
+            "description": "Developed, planned and implemented summer and after-school programs for over 200 youth ages 5-18; key responsibilities included program planning and execution."
+        },
+        {
+            "title": "Classroom Teacher",
+            "company": "Company Name",
+            "start_date": "01/1994",
+            "end_date": "01/1999",
+            "description": "Instruction; provided classroom education and student support."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science of Education",
+            "school": "Indiana University Purdue University",
+            "year": "1994"
+        }
+    ],
+    "certifications": [
+        "Indiana State Teachers license"
+    ],
+    "languages": []
+}

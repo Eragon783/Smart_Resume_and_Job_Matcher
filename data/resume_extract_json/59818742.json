@@ -1,0 +1,103 @@
+{
+    "name": "Sujay M Patel",
+    "email": "patelsujaym54@yahoo.com",
+    "phone": null,
+    "location": "Vadodara, Gujarat, India",
+    "summary": "I am a team-oriented accountant who prepares clear, comprehensive financial reports for executive-level management. I have experience as an Account Manager in India for private sector companies and have also worked in the financial sector. I am now seeking an entry-level position based on my studies in the United States.",
+    "skills": [
+        "MS Office",
+        "Word",
+        "PowerPoint",
+        "Accounts & Auditing",
+        "General Administration",
+        "Basic Computer",
+        "Costing",
+        "Tally 7.2",
+        "Tally 9",
+        "ERP",
+        "Analytical reasoning",
+        "Financial statement analysis",
+        "Regulatory reporting",
+        "Compliance testing",
+        "Foreign tax reporting",
+        "Budget forecasting",
+        "Account reconciliation",
+        "Financial planning",
+        "Complex problem solving",
+        "Time management",
+        "Managerial techniques",
+        "General ledger accounting",
+        "Customer relations",
+        "Inventory management",
+        "Taxation laws",
+        "Service Tax",
+        "TDS",
+        "VAT",
+        "Income Tax",
+        "Bank Reconciliation",
+        "Forex",
+        "LC",
+        "Export Packing credit",
+        "VAT assessment",
+        "C forms",
+        "Finalization of accounts"
+    ],
+    "experience": [
+        {
+            "title": "Account cum Finance Executive",
+            "company": "Ratnaveer Stainless Products Pvt Ltd",
+            "start_date": "2008-01",
+            "end_date": "2010-04",
+            "description": "General Ledger scrutiny; purchase and verification of bills; sales reporting; verification of supplier, contractor and transporter bills; expenditure verification; maintain daily stock; booking of foreign inward remittance and buyers' credit payments; monthly audits; knowledge of LC and export packing credit; bank guarantees; TDS and VAT; service tax filings; C forms; finalization of accounts/audit; assisted senior with finalization and preparation of P&L and Balance Sheet."
+        },
+        {
+            "title": "Account Cum Finance Manager",
+            "company": "RB Cars Pvt. Ltd (Maruti Suzuki Authorized Dealer)",
+            "start_date": "2010-06",
+            "end_date": "2014-06",
+            "description": "Handled all accounts and finance activities; maintained two types of accounts per Income Tax and Maruti Suzuki India Ltd; contributed to long-term fund planning; prepared documentation for TA and inventory funding; negotiated interest rates with financial institutions; responsible for VAT assessment; provisional balance sheet; tax-related activities including Service Tax, TDS, VAT; filing returns; stock management; cash credit documentation."
+        },
+        {
+            "title": "Account Cum Finance Manager",
+            "company": "Gujarat Education Board",
+            "start_date": "2010-05",
+            "end_date": "2014-05",
+            "description": "Maintained general ledger accounts including cash, inventory, prepaid, fixed assets; handled accounts payable, accrued expenses, and line of credit transactions; knowledge of taxation laws; VAT assessment; prepared provisional balance sheet; assisted with tax filings; ensured regulatory compliance; involved in budgeting and forecasting."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. Accounting",
+            "school": "DeVry University",
+            "year": 2015
+        },
+        {
+            "degree": "Certified Public Accountant (CPA)",
+            "school": "CPA Program (Part Time)",
+            "year": 2013
+        },
+        {
+            "degree": "MBA Finance",
+            "school": "ICFAI University",
+            "year": 2009
+        },
+        {
+            "degree": "B.Com",
+            "school": "Gujarat University",
+            "year": 2007
+        },
+        {
+            "degree": "HSC",
+            "school": "Gujarat Higher Secondary Education Board",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        "CPA (Part Time)"
+    ],
+    "languages": [
+        "English",
+        "Hindi",
+        "Gujarati"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [
+        "administrative support",
+        "Clients",
+        "Customer Service",
+        "Customer Support",
+        "Detail oriented",
+        "Direct Selling",
+        "filing",
+        "Hematology",
+        "Managing",
+        "Medical coding",
+        "Organizing",
+        "payroll",
+        "Phlebotomy",
+        "processing customer requests",
+        "quality control",
+        "Receiving",
+        "sales",
+        "specimen collection",
+        "Technician",
+        "Trouble Shooting"
+    ],
+    "experience": [
+        {
+            "title": "Fragrance Consultant",
+            "company": "Company Name",
+            "start_date": "11/2013",
+            "end_date": "12/2013",
+            "description": "Greet Clients, Provide knowledgeable service to clients, communicate product knowledge, sales."
+        },
+        {
+            "title": "Office Manager",
+            "company": "Company Name",
+            "start_date": "06/2007",
+            "end_date": "06/2012",
+            "description": "Managing sales team. Organizing daily logs. Receiving and processing customer requests. Customer service and sales activities. Managing and inputting payroll. Job quality control and monitoring.General assistance/administrative support for the owners of the company."
+        },
+        {
+            "title": "Customer Service",
+            "company": "Company Name",
+            "start_date": "01/2006",
+            "end_date": "04/2007",
+            "description": "Customer Service,Trouble Shooting products, Direct Selling, Customer Support, Accounts management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Phlebotomy Technician",
+            "school": "Arkansas College of Health Careers",
+            "year": "2014"
+        },
+        {
+            "degree": "Electrocardiogram Technician",
+            "school": "Arkansas College of Health Careers",
+            "year": "2014"
+        },
+        {
+            "degree": "Associate of Arts: General Studies",
+            "school": "Arkansas College of Health Careers",
+            "year": "2010"
+        },
+        {
+            "degree": "General Studies",
+            "school": "Pulaski Technical College",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Phlebotomy Certification (2014)",
+        "Electrocardiogram Certification (2014)"
+    ],
+    "languages": []
+}

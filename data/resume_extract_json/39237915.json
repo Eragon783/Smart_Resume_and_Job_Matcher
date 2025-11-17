@@ -1,0 +1,61 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Not specified",
+    "summary": "Professional Profile: Highly qualified, detail-oriented and hardworking Manager with more than 15 years of experience. Proficient in research, writing, case management and client relations. Expert computing and technology skills including competence in multiple software applications.",
+    "skills": [
+        "Leadership Development",
+        "Project Management",
+        "Budgeting",
+        "Employee Management",
+        "Operations Management",
+        "Business Management"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2015-01",
+            "end_date": "Present",
+            "description": "Prospect for potential new clients and turn this into increased business. Cold call as appropriate within your market or geographic area to ensure a robust pipeline of opportunities. Meet potential clients by growing, maintaining, and leveraging your network. Identify potential clients, and the decision makers within the client organization. Research and build relationships with new clients. Set up meetings between client decision makers and company's practice leaders/Principals. Plan approaches and pitches. Work with team to develop proposals that speaks to the client's needs, concerns, and objectives. Participate in pricing the solution/service. Handle objections by clarifying, emphasizing agreements, and working through differences to a positive conclusion. Use a variety of styles to persuade or negotiate appropriately. Present an image that mirrors that of the client. Client Retention Present new products and services and enhance existing relationships. Work with technical staff and other internal colleagues to meet customer needs. Arrange and participate in internal and external client debriefs."
+        },
+        {
+            "title": "Athletic Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "2006-05",
+            "end_date": "2014-12",
+            "description": "Responsible for marketing, planning, organizing, implementing, and scheduling special recreation activities and events. Handle the tasks of hiring staff and coordinating volunteers in conducting recreation activities. Perform responsibilities of preparing attendance and program evaluation reports for all recreation programs on a monthly basis. Perform responsibilities of organizing and implementing recreation programs like social functions, arts and crafts, and physical fitness. Responsible for supervising athletic leagues and tournaments, maintaining records, registering program participants, collecting fees and providing various instructional programs. Handle the tasks of updating the positive and negative information regarding recreational programs to the supervisor."
+        },
+        {
+            "title": "Patient Relations Supervisor",
+            "company": "Company Name, City, State",
+            "start_date": "1999-05",
+            "end_date": "2006-05",
+            "description": "Coordinate communication between patients, family members, medical staff, administrative staff, or regulatory agencies. Interview patients or their representatives to identify problems relating to care. Maintain knowledge of community services and resources available to patients. Refer patients to appropriate health care services or resources. Investigate and direct patient inquiries or complaints to appropriate medical staff members and follow up to ensure satisfactory resolution. Collect and report data on topics such as patient encounters and inter-institutional problems, making recommendations for change when appropriate. Identify and share research, recommendations, or other information regarding legal liabilities, risk management, or quality of care. Analyze patients' abilities to pay to determine charges on a sliding scale. Teach patients to use home health care equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Public Administration, Budget and Public Finance",
+            "school": "Texas Tech University",
+            "year": "2004"
+        },
+        {
+            "degree": "B.A. in General Studies, Business Management",
+            "school": "Texas Tech University",
+            "year": "2001"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Denison High School",
+            "year": "1994"
+        }
+    ],
+    "certifications": [
+        "CPR",
+        "ACE",
+        "TAAF Sports Management"
+    ],
+    "languages": []
+}

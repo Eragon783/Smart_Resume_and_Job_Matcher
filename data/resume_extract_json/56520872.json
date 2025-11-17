@@ -1,0 +1,116 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To obtain a stable and growth-oriented position which will allow me to promote the profession of nursing by training and developing current and future nurses.",
+    "skills": [
+        "acute care",
+        "billing",
+        "Case management",
+        "charts",
+        "chemotherapy",
+        "closing",
+        "coaching",
+        "Client",
+        "clients",
+        "discharge planning",
+        "insurance",
+        "director",
+        "meetings",
+        "presenting",
+        "quality",
+        "Quest",
+        "reporting",
+        "supervising",
+        "telecommunication",
+        "wound care"
+    ],
+    "experience": [
+        {
+            "title": "Licensed Healthcare Communicator",
+            "company": "Company Name",
+            "start_date": "10/2016",
+            "end_date": "Current",
+            "description": "Representing clients on a variety of projects via inbound/outbound telecommunication which includes:. Providing drug product information. Identify adverse events and product complaints as outlined by client guidelines. Provide patient education on prescribed treatment regimen. Provide patient support to patients enrolled in Patient Support Programs. Assist in training new employees, including presenting educational material, quality monitoring, and coaching and feedback."
+        },
+        {
+            "title": "RN - OR",
+            "company": "Company Name",
+            "start_date": "02/2016",
+            "end_date": "10/2016",
+            "description": "Maintain a safe and sterile environment for the patient in the operating room. Anticipate the needs of the surgical staff Monitor clients' conditions; reporting changes to Clinical or Client Services Manager. Locate and obtain necessary equipment and supplies for various surgical procedures. Accurately record and document patient information in regards to operative procedure and specimens. Re-stock operating rooms, picking and putting out future cases. Act as preceptor to new orientees."
+        },
+        {
+            "title": "RN Supervisor",
+            "company": "Company Name",
+            "start_date": "12/2015",
+            "end_date": "02/2016",
+            "description": "Delegate and oversee care tasks to certified nurse aides. Perform assigned duties, including administration of medication, wound care, treatments and procedures. Monitor clients' conditions; reporting changes to the supervising physician. Follow up with, execute and properly document doctors' orders. Perform admission assessments and discharge planning as appropriate."
+        },
+        {
+            "title": "Field RN",
+            "company": "Company Name",
+            "start_date": "06/2015",
+            "end_date": "12/2015",
+            "description": "Home visits to clients in designated geographic territories. Perform assigned duties, including administration of medication, wound care, treatments and procedures. Monitor clients' conditions; reporting changes to Clinical or Client Services Manager. Follow up with, execute and properly document doctors' orders. Perform client assessments as necessary. Case management and coordination."
+        },
+        {
+            "title": "RN",
+            "company": "Company Name",
+            "start_date": "09/2014",
+            "end_date": "05/2015",
+            "description": "Maintain a safe and sterile environment for the patient in the operating room. Anticipate the needs of the surgical staff Monitor clients' conditions; reporting changes to Clinical or Client Services Manager. Locate and obtain necessary equipment and supplies for various surgical procedures. Accurately record and document patient information in regards to operative procedure and specimens. Act as evening shift charge when needed, keeping cases running smoothly, closing the operating rooms, re-stocking rooms, picking and putting out future cases."
+        },
+        {
+            "title": "Billing Supervisor",
+            "company": "Company Name",
+            "start_date": "01/2014",
+            "end_date": "08/2014",
+            "description": "Analyze clinical information and obtain authorization for procedures and chemotherapy from insurance companies as required. Collaborate with physicians to select appropriate medication alternatives when patient is denied coverage of current medication. Consult with patients to determine current insurance coverage and guidelines. Supervise staff of three billing employees and oversee activities of the billing department. Collaborate with practice manager on policy and procedure as it pertains to billing department. Attend departmental and educational meetings as required."
+        },
+        {
+            "title": "Staff Nurse/Evening Shift Charge Nurse",
+            "company": "Company Name",
+            "start_date": "04/2013",
+            "end_date": "11/2013",
+            "description": "Maintain a safe and sterile environment for the patient in the operating room. Anticipate the needs of the surgical staff Monitor clients' conditions; reporting changes to Clinical or Client Services Manager. Locate and obtain necessary equipment and supplies for various surgical procedures. Accurately record and document patient information in regards to operative procedure and specimens. Act as evening shift charge, keeping cases running smoothly, closing the operating rooms, re-stocking rooms, picking and putting out future cases."
+        },
+        {
+            "title": "RN Case Manager",
+            "company": "Company Name",
+            "start_date": "06/2012",
+            "end_date": "03/2013",
+            "description": "Review authorization requests to determine medical necessity and appropriateness using criteria such as Milliman and Quest. Perform concurrent review on inpatient stays to determine continued need for acute care. Perform on-site review of patient charts to determine patient status and possible discharge needs. Communicate with the medical director to determine need for denial of days or services deemed medically inappropriate."
+        },
+        {
+            "title": "Staff Nurse",
+            "company": "Company Name",
+            "start_date": "10/2007",
+            "end_date": "06/2012",
+            "description": "Maintain a safe and sterile environment for the patient in the operating room. Anticipate the needs of the surgical staff Monitor clients' conditions; reporting changes to Clinical or Client Services Manager. Locate and obtain necessary equipment and supplies for various surgical procedures. Accurately record and document patient information in regards to operative procedure and specimens. Act as preceptor to new orientees."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's Degree",
+            "school": "Herzing University",
+            "year": "2018"
+        },
+        {
+            "degree": "Bachelor's Degree",
+            "school": "Salem International University",
+            "year": "2014"
+        },
+        {
+            "degree": "Nursing Diploma",
+            "school": "Reading Hospital School of Nursing",
+            "year": "2007"
+        }
+    ],
+    "certifications": [
+        "BLS",
+        "CNOR"
+    ],
+    "languages": []
+}

@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Tel Aviv, Israel",
+    "summary": "Android developer with 3 years experience.",
+    "skills": [
+        "Kotlin",
+        "Java",
+        "C++",
+        "Dart",
+        "Android SDK",
+        "Android NDK",
+        "Android Architecture Components",
+        "Embedded programming",
+        "Kotlin Coroutines",
+        "RxJava2",
+        "Dagger2",
+        "Koin",
+        "Retrofit2",
+        "OkHttp",
+        "Google Maps API",
+        "Picasso",
+        "Material Design",
+        "REST API",
+        "Joda-Time",
+        "Gson",
+        "Flutter",
+        "JSON",
+        "HTML5",
+        "CSS3",
+        "XML",
+        "QT",
+        "DOORS",
+        "MKS",
+        "Android Studio",
+        "IntelliJ IDEA",
+        "Eclipse",
+        "WebStorm",
+        "Clean Architecture",
+        "MVVM",
+        "MVP",
+        "Git",
+        "Mercurial",
+        "JIRA",
+        "SQLite"
+    ],
+    "experience": [
+        {
+            "title": "Android Developer",
+            "company": "Inetex LTD",
+            "start_date": "2019",
+            "end_date": "present",
+            "description": "Android application for multiplatform car rental portal ilCarro. Responsibilities included developing the application from scratch, fixing issues, adding and testing new features, and code deployment. Technologies used: RxJava2, LiveData, MVVM, Clean Architecture, Dagger2, Retrofit2, OkHttp, Google Maps, Cloudinary API, Picasso, Gson."
+        },
+        {
+            "title": "Android Developer",
+            "company": "NTC Astrosoft MIR",
+            "start_date": "2017",
+            "end_date": "2019",
+            "description": "Mobile platform for AUDI E-Tron; refactored existing code, participated in embedded control system development, implemented and tested new functionalities, requirements checking, code deployment. Technologies: Android NDK, RxJava2, Dagger2, Retrofit2, JSON, MVP. Also worked on mobile system for malfunction detection module of gas turbine engine for military ship; observed and controlled parameters; technologies: Android NDK, C++, RxJava2, Dagger2, Retrofit2, JSON, MVP, MVVM, QNX, NPS, QT, CMake, DOORS, MKS."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master’s degree of Computer Engineering Technology",
+            "school": "Saint Petersburg Electrotechnical University",
+            "year": "2019"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hebrew",
+        "Russian"
+    ]
+}

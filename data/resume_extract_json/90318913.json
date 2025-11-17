@@ -1,0 +1,40 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Mechanical Engineer with extensive experience in operation and maintenance of boilers, swimming pools, deep well pumping stations, incinerators, water and sewage treatment plants, and gas turbine power plants; demonstrated leadership as a section head and supervisor; skilled in pump and piping systems, PLC/controls, and electrical/mechanical integration.",
+    "skills": [
+        "Electro/Mechanical",
+        "Trouble shooting",
+        "installation of pipes and pumps",
+        "problem solver",
+        "design of controls for pumps and motors",
+        "installation of swimming pool heaters"
+    ],
+    "experience": [
+        {
+            "title": "Mechanical Engineer",
+            "company": "Company Name City , State",
+            "start_date": "2006-05",
+            "end_date": "2012-03",
+            "description": "Supervise in the Operation and Maintenance of 8 units of boilers, 7 swimming pools, 12 deep wells and 2 incinerators. Changed the two sand filters and installed new chlorine dosing system on the New infantry swimming pool. Installed new deep well pumps and conducted the testing and commissioning. Monitor the work of the waste water treatment plant contractor in the installation of pumps and machines and also in the testing and commissioning. Supervise in the installation of swimming pool pumps, heaters, surface skimmers and in changing the inlet diffusers. Supervise in the installation of boilers and water softener for a small laundry in one of our satellite camp."
+        },
+        {
+            "title": "Mechanical Engineer / Section Head",
+            "company": "Company Name City , State",
+            "start_date": "1995-11",
+            "end_date": "2006-01",
+            "description": "Over all in-charge in the operation and maintenance of 6 water treatment plants, 2 waste water treatment plants, 8 sewage lifting stations, 15 deep well pumping stations and 2 swimming pools. Supervise in the excavation and installation of sewer line from the workers accommodation up to the waste water treatment plant with two lifting stations. Monitor and supervise in the excavation and installation of uPVC pipes for potable water and irrigation water in the officers housing Villas. Replacing the old corroded and weak pipes. Review all the proposals of the different contractor for the new 2 water treatment plants and submit recommendations to the officer in- charge. Check our daily, weekly and monthly reports that includes also the water analysis of the raw and product waters of the waste water treatment plants and the water treatment plants. Inspect the work of the contractor that digs and bore new wells and also in the installation, testing and commissioning of deep well pumps."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Mechanical Engineering",
+            "school": "FEATI UNIVERSITY",
+            "year": 1973
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

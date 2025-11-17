@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Trade Finance Officer with 9 years of banking experience focusing on trade finance operations, customer service and branch banking. Skilled in payments under L/C, RBI regulations, Swift messaging and fund transfers.",
+    "skills": [
+        "Client Relations",
+        "Customer Satisfaction",
+        "Customer Service",
+        "Credit and Collections",
+        "Marketing",
+        "Global Trade Services",
+        "Computer Proficient"
+    ],
+    "experience": [
+        {
+            "title": "Trade Finance Officer",
+            "company": "Company Name",
+            "start_date": "August 2007",
+            "end_date": "January 2011",
+            "description": "Payments of documents presented under L/C. Booking & paying off of Collection documents. Delivery Order Issuance for documents under L/C or Collection. Advance & Direct payment under RBI regulations. Resolving all client query regarding import payments, Letter of Credit, Collection bills. Bill presentation under L/C & collections. Ensure transactions are processed with the TAT."
+        },
+        {
+            "title": "Fund Transfer Investigation Officer",
+            "company": "Company Name",
+            "start_date": "August 2005",
+            "end_date": "July 2007",
+            "description": "Working as an Officer in Fund Transfer Investigations for ABN AMRO Bank - Netherlands. Investigate Fund Transfer related cases and bring them to closure in a timely manner. Specializing in specific types of cases and handling queries related to Bank and clients. Gaining more knowledge on SWIFT Messaging and International Fund Transfer. Actively working on projects on increasing efficiency ratio by decreasing rejects and avoiding re-opens. Escalate cases if they do not get resolved within specific time. Meet the targets set."
+        },
+        {
+            "title": "Credit Card Collection Officer",
+            "company": "Company Name",
+            "start_date": "October 2003",
+            "end_date": "August 2005",
+            "description": "Responsible for collecting overdue payments from customers defaulting for more than 60 days and above after due date. Responsible for quick resolution of accounts to get delinquency down on the card base. Ensured quick & sound resolution to issues & problems in a way that effectively reflect business requirements. Mentoring new staff on systems and honing their calling skills. Worked on Cacs, Dialer system and Hub."
+        },
+        {
+            "title": "Customer-service executive",
+            "company": "Company Name",
+            "start_date": "August 2001",
+            "end_date": "September 2003",
+            "description": "Responsible for understanding and resolving problems raised by customers and provide better services. Responsible to also for cross selling of additional cards and loan to increase the card base. Worked on CCMS system."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certification: Business Management",
+            "school": "UC San Diego (UCSD) Extension",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelors of Commerce: Accounting",
+            "school": "Mumbai University",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        "Business Management"
+    ],
+    "languages": [
+        "English",
+        "Hindi",
+        "Tamil"
+    ]
+}

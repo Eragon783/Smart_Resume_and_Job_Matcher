@@ -1,0 +1,82 @@
+{
+    "name": "Shameeh",
+    "email": null,
+    "phone": null,
+    "location": "Doha, Qatar",
+    "summary": "Finance professional with 8+ years of experience in finalization of accounts, financial reporting, cost accounting, budgeting and forecasting, cash flow management, payroll, audit support, inventory control, and financial analysis. Experienced in trading, contracting and service sectors, with a record of implementing and maintaining robust accounting systems in multi-cultural environments. Proficient in Tally ERP, Peachtree, DacEasy, and Delta Software; strong reporting, reconciliation, and liaison with external auditors.",
+    "skills": [
+        "Account reconciliations",
+        "Accounting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Auditing",
+        "Bank reconciliation",
+        "Cash receipts",
+        "Payroll",
+        "Costing",
+        "General ledger",
+        "Job Costing",
+        "Budgeting",
+        "Forecasting",
+        "Financial reporting",
+        "Inventory control",
+        "Tax",
+        "Tally ERP",
+        "Peachtree",
+        "DacEasy",
+        "Delta Software",
+        "HR",
+        "Administration"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Positive Trading and Contracting",
+            "start_date": "January 2009",
+            "end_date": "May 2012",
+            "description": "Handled balance sheet reconciliations, accounts payable/receivable, and monthly journal entries. Performed costing analysis, prepared financial statements, and supported external auditors. Managed payroll for 200+ employees, bank reconciliations, vendor invoices, LPO issuance, and month-end closing; ensured compliance with established accounting processes and policies."
+        },
+        {
+            "title": "Accountant cum Admin / Finance & HR",
+            "company": "Focus Mall",
+            "start_date": "April 2009",
+            "end_date": "November 2009",
+            "description": "Provided accounting clerical support, maintained ledgers, prepared statements, cash receipts, and payroll-related timesheets. Assisted HR filing, merchant statement reconciliation, and coordination of promotional activities. Produced reports for management oversight and supported travel claims and other administrative tasks."
+        },
+        {
+            "title": "Accountant Trainee / Finance",
+            "company": "Tax Matters - Auditing & Tax Consulting Firm (India)",
+            "start_date": "May 2005",
+            "end_date": "April 2006",
+            "description": "Participated in audit and accounting services per international standards. Conducted bank reconciliations, stock Estimation, data entry, petty cash verification, invoicing, fixed asset updates, and ledger maintenance. Entered vendor invoices and managed client invoicing processes."
+        },
+        {
+            "title": "Senior Accountant / Finance",
+            "company": "State Media W.L.L, Doha, Qatar",
+            "start_date": "June 2012",
+            "end_date": "Present",
+            "description": "Key member of the finance team; involved in setting up and improving financial systems, cash management, budgeting, and reporting. Prepared financial statements, analyzed records, managed accounts payable/receivable, payroll, and compliance. Coordinated with department heads and external auditors, supervised payments, and supported HR and compliance matters."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration (MBA): Finance and Marketing",
+            "school": "ICFAI University India",
+            "year": "2008"
+        },
+        {
+            "degree": "Bachelor of Commerce (B.Com): Tax",
+            "school": "Calicut University - State, India",
+            "year": "2005"
+        }
+    ],
+    "certifications": [
+        "Diploma in Manual and Computer Accounting Packages"
+    ],
+    "languages": [
+        "English",
+        "Hindi",
+        "Arabic",
+        "Malayalam"
+    ]
+}

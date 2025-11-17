@@ -1,0 +1,78 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Accomplished, experienced, well educated business minded career seeker who takes great pride in establishing strong and lasting relationships with co-workers, parents, students and other industry professionals. Extremely organized and self-driven.",
+    "skills": [
+        "Microsoft Office",
+        "Infinite Campus"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "Oct 2010",
+            "end_date": "Present",
+            "description": "Various Elementary and Middle Schools. Work autonomously as a leader and interact successfully as a team member. Foster relationships of trust and maintain confidentiality. Initiate, facilitate, and moderate classroom discussions. Engage and motivate learners by presenting information in a logical manner and revising as needed. Conduct research using multiple source modalities. Plan, evaluate, and revise course material and methods of instruction to meet the needs of all students. Prepare course materials such as unit packets, unit activities, homework assignments, tests, quizzes, and various handouts. Organize and maintain various accurate records. Evaluate and grade student assignments, tests, quizzes, projects, and papers. Meet the needs of a diverse population including students, parents, faculty and administration. Assume responsibility for the safety and well-being of a group of people."
+        },
+        {
+            "title": "Site Leader - Summer Adventures",
+            "company": "Company Name",
+            "start_date": "Jun 2012",
+            "end_date": "Aug 2013",
+            "description": "Facilitate the daily operations of the program for the purpose of ensuring student and program success. Supervises site program (attendance, behavior management, curriculum, budget, student safety, etc.) for the purpose of ensuring success of the program and meeting program requirements. Guide and support school staff for the purpose of ensuring program success. Serves as a resource to students, parents and staff for the purpose of providing information, guidance, and addressing questions and concerns. Monitors individual and/or groups of students in a variety of settings (classroom, snack time, group or individual games, playground activities, field trips, etc.) for the purpose of providing a safe and positive learning environment."
+        },
+        {
+            "title": "Youth Program Assistant",
+            "company": "Company Name",
+            "start_date": "Mar 2009",
+            "end_date": "Jun 2012",
+            "description": "Serve as liaison between CES and the school to promote program teaching opportunities to school staff, increase the number and the variety of program offerings available, and increase awareness of programs available to families. Partner with Youth Programs Coordinator (YPC), principal, and other school staff to assess youth and parent program needs. Work with YPC in developing and implementing a plan for future opportunities. Work with CES staff to effectively market CES programs and increase enrollment. Monitor scheduled CES activities in assigned buildings and community locations. Ensure after school class safety procedures are being followed. Respond to any safety or special concerns as they arrive and provide Crisis Management/Response as needed, including First Aid, CPR, AED, and evacuation. Promote a safe environment by following After School Class Safety Procedures. Assist CES with special events."
+        },
+        {
+            "title": "Importing, Warehousing and Domestic Distribution Manager",
+            "company": "Company Name",
+            "start_date": "Mar 2001",
+            "end_date": "Jun 2006",
+            "description": "Managed all logistics including ocean and air imports, exports and domestic distribution via TL, LTL, and small parcel. Evaluated potential third party warehouses and freight forwarder/brokerage firms. Negotiated import ocean and airfreight rates, warehousing costs and domestic distribution rates. Managed daily activities of third party warehouse personnel. Reviewed all foreign import documentation for accuracy. Ensured all import freight was shipped on time and cleared by U.S. customs, inventoried and warehoused accurately. Distributed retail orders according to customer specific vendor guide requirements, policies and procedures. Tracked, monitored and approved all billings associated with importation, customs clearance, warehousing and distribution. Tracked and monitored each outgoing sales order via EDI to verify accurate distribution and delivery in order to expedite customer invoicing. Communicated extensively verbally and in writing with entire retail customer base, foreign agents, factories, forwarder/brokerage personnel and warehouse personnel."
+        },
+        {
+            "title": "Customer Service Representative & Marketing Assistant",
+            "company": "Company Name",
+            "start_date": "Oct 2000",
+            "end_date": "Mar 2001",
+            "description": "Worked extensively with company sales manager and all line representatives. Trade Show Experience: booth management, customer and vendors interaction, booth set-up and tear-down, all trade show logistics. Other duties included customer relations, addressing consumer inquiries, order entry, processing returns and invoicing credits."
+        },
+        {
+            "title": "Hydrogel Sales Support and Technical Service Representative",
+            "company": "Company Name",
+            "start_date": "Oct 1998",
+            "end_date": "Oct 2000",
+            "description": "Assisted in project justification planning for modified or new product launches. Executed the Hydrogel Marketing Communications Plan. Initiated improvements to existing print ads and marketing literature. Provided optimum sales and customer service, maintained and enhanced existing business. Demonstrated excellent written and verbal communication skills."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Graduate Teaching Licensure, Education",
+            "school": "The College of Saint Scholastica",
+            "year": "2010"
+        },
+        {
+            "degree": "Master of Science",
+            "school": "",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Arts, Marketing Communications",
+            "school": "Metropolitan State University",
+            "year": "1998"
+        }
+    ],
+    "certifications": [
+        "First Aid",
+        "CPR",
+        "AED"
+    ],
+    "languages": []
+}

@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior Construction Project Manager with a track record of delivering residential and commercial construction projects, focusing on cost-effective solutions, scheduling, budgeting, and site safety. Experienced in permit processing, building codes, and coordinating with federal and industry clients.",
+    "skills": [
+        "ADA",
+        "Air Force",
+        "art",
+        "budget management",
+        "budgets",
+        "budget",
+        "building codes",
+        "Construction Management",
+        "contracts",
+        "cost control",
+        "client",
+        "clients",
+        "design and construction",
+        "electrical systems",
+        "fire protection",
+        "government",
+        "HVAC",
+        "materials",
+        "mechanical",
+        "Office Suite",
+        "Microsoft Project",
+        "personnel",
+        "plumbing",
+        "procurement",
+        "progress",
+        "proposals",
+        "repairs",
+        "research",
+        "RFI",
+        "Safety",
+        "scheduling",
+        "supervision",
+        "technical support"
+    ],
+    "experience": [
+        {
+            "title": "Senior Construction Project Manager",
+            "company": "Company Name, City, State",
+            "start_date": "08/2015",
+            "end_date": "05/2016",
+            "description": "Directed construction projects with budgets up to $5M working alongside USAF, USACE and NASA clients along with vendors, consultants, and technical specialists. Prepared and provided schedule progress reports and analysis on a bi-monthly basis. Contributed to planning and scheduling of assignments, cost engineering, procurement of equipment and materials, budget administration, and application for payment requests. Supervised civil infrastructure scope of work including foundation modifications, footings, stem walls, and new foundations; installed electrical conduit and mechanical piping systems. Supervised subcontractors including mechanical piping, HVAC, high and low voltage electrical systems, fire protection facility equipment and civil infrastructure to coordinate and execute the construction of new facilities."
+        },
+        {
+            "title": "Construction Project Manager",
+            "company": "Company Name",
+            "start_date": "12/2012",
+            "end_date": "05/2015",
+            "description": "Operated as project technical expert for assignments with budgets up to $15M for development and integration of activities related to ground systems and baseline architecture for space flight. Completed design reviews and constructability assessments; prepared project cost estimate summary reports. Reviewed NASA contracted A/E designs and coordinated with architects and engineers. Organized development and coordination of multi-disciplinary scope of work, including conceptual estimates, equipment and material takeoffs, and bid proposals. Focused on budget management and cost control, as well as timeline management to ensure client satisfaction. Managed multiple building tradesmen and subcontractors (mechanical piping, HVAC, electrical systems, fire protection, civil infrastructure) to coordinate construction of new facilities and modifications to existing structures. Negotiated contracts and evaluated change orders. Performed job-site walk-downs to verify progress and analyzed possible subcontractor change orders and schedule impacts."
+        },
+        {
+            "title": "Project Manager/Construction Engineer",
+            "company": "Company Name",
+            "start_date": "09/2009",
+            "end_date": "12/2012",
+            "description": "Directed projects with budgets up to $85M for federal and private sector clients, along with vendors, consultants, contractors and technical specialists. Contributed to planning, scheduling, design, and cost engineering. Completed design reviews and constructability assessments; prepared project cost estimate summary reports. Provided technical oversight to designers and technical support staff. Executed the project scope with conceptual drawings, life/safety plans, contract drawings, specifications, and safety requirements for construction of new buildings or modifications to existing facilities. Supervised contractors including mechanical equipment, high and low voltage electrical systems, fire protection, and civil infrastructure to coordinate and execute construction. Performed bid evaluations, RFIs, and reviewed shop drawings for approval."
+        },
+        {
+            "title": "Project Engineer V - Architect",
+            "company": "Company Name",
+            "start_date": "03/2003",
+            "end_date": "09/2009",
+            "description": "Lead project technical expert for projects with budgets up to $25M required for development and integration of design and construction activities for ground systems and baseline architecture for space flight. Reviewed government contracted A/E project designs and provided construction oversight in line with current engineering and construction industry practices. Developed scope for NASA and USAF to rehabilitate, renovate, modernize, or provide new ground systems and baseline architecture for ground operations at Cape Canaveral Air Force Station and Kennedy Space Center, Florida. Performed bid evaluations, RFIs, and reviewed shop drawings for approval; coordinated schedule integration of utility outages and connections and conducted walk-downs of existing infrastructure with operations and maintenance personnel."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Architecture",
+            "school": "Montana State University (MSU)",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Microsoft 40-hour Office Suite Certification",
+        "Microsoft Project Certification",
+        "OSHA 30-hour Construction Safety and Health Program",
+        "OSHA 10- hour Fall Arrest System and Fall Protection Equipment Program"
+    ],
+    "languages": []
+}

@@ -1,0 +1,83 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Summary: Exceptional IT Manager with expertise in personnel management, vendor management and business strategy development. Technically-savvy with strong relationship-building, training and presentation skills. Languages spoken: English and Conversational Chinese. Experienced in team leadership, budgeting, project management, process implementation, staff development, data management, risk management, conflict resolution and compliance.",
+    "skills": [
+        "Budget management",
+        "Supervision skills",
+        "Litigation vendor management",
+        "SLA management",
+        "Vendor selection and relationship management",
+        "ESX server administration",
+        "SCCM management",
+        "Networking equipment installation, maintenance and monitoring",
+        "MobileIron/BES administration",
+        "Microsoft Server administration",
+        "Windows operating systems (Windows 7/XP/2000)",
+        "Microsoft Office Suite",
+        "Lotus Notes 4.6/5.0",
+        "Exchange 2010",
+        "Microsoft Lync",
+        "ESX/NetApp servers",
+        "Mimecast",
+        "Citrix Xen suite",
+        "Active Directory",
+        "Remote desktop software troubleshooting",
+        "FileSite with Outlook Integration",
+        "PDFDocs Suite",
+        "Carpe Diem",
+        "TOA software",
+        "MCITP training"
+    ],
+    "experience": [
+        {
+            "title": "Regional IT Manager",
+            "company": "Company Name",
+            "start_date": "09/2012",
+            "end_date": "Present",
+            "description": "Acted as project manager for a $10M New York office move and served on the advisory board for all international office moves. Directed after-hours end-user support across 14 office facilities, including 500+ lawyers and 500+ staff. Managed and trained support staff; developed SMART objectives and KPIs; reviewed help desk metrics; identified recurring issues for global software and applications management. Worked with the technology committee to create policies reflecting current and future technology trends. Coordinated training for offices and drafted metrics. Budgeted hardware and software for the New York office. Led document production, local help desk, global after-hours help desk and AV/office services staff. Ensured high availability of systems and applications. Served as escalation point when on duty. Developed and enforced IT policies and SLAs; presented performance data to executives. Liaised with global teams on business process improvements addressing security and GDPR/local compliance. Designed and implemented a knowledgebase tool and coordinated Lotus Notes to Outlook and Windows 7 to Windows 8 migrations. Increased first-call resolution from 85% to 98% and supported acquisitions through document organization."
+        },
+        {
+            "title": "Technical Support Analyst",
+            "company": "Company Name",
+            "start_date": "06/2007",
+            "end_date": "09/2011",
+            "description": "Collaborated with sales, marketing and support teams to launch products on time and within budget. Maintained and monitored the server room, wireless network and other server infrastructure. Set up staff workstations with PCs, Macs, phones and laptops. Partnered with the marketing team to leverage technology for customer value propositions. Created new hire IT training curriculum. Acted as technology liaison between technology department and global recruiting division. Tested and implemented new technology-based global projects such as Nuance PDFCreate. Delivered on-site IT and AV support for 300+ staff in local and regional offices."
+        },
+        {
+            "title": "Desktop Support Technician",
+            "company": "Company Name",
+            "start_date": "03/2007",
+            "end_date": "06/2007",
+            "description": "Hands-on role in domestic and international OS migration from Windows XP to Windows 7. Worked with engineering and applications staff to resolve upgrade problems until functionality was achieved. Supported all users from C-level executives to contract services by troubleshooting and resolving issues related to Mac, MacBook, PC and related equipment. Installed Mac and PC OS, configured network settings to integrate with the firm network, and provided support for a mainly virtual Citrix desktop. Addressed security and account issues across departments."
+        },
+        {
+            "title": "Software Licensing Coordinator",
+            "company": "Company Name",
+            "start_date": "10/2004",
+            "end_date": "02/2007",
+            "description": "Client-facing manager responsible for all aspects of the department. Managed department budget; responsible for personnel and department operations. Handled monthly billing. Performed software audits and software asset management. Responsible for license and application management. Oversaw software sales to students, staff and business units. Escalated desktop management issues to vendors and ensured prompt resolution. Created standard operating procedures for handling software-related issues and managed vendor-university technology relationships. Worked on implementation of online university software management system."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Information Management",
+            "school": "W. P. Carey School of Business, Arizona State University",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Arts in Psychology, Sociology; Chinese Studies",
+            "school": "Emory University",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "MCITP (Microsoft Certified IT Professional) training"
+    ],
+    "languages": [
+        "English",
+        "Conversational Chinese"
+    ]
+}

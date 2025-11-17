@@ -1,0 +1,69 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "SCHOOL LIBRARY MEDIA SPECIALIST Professional Summary My goal is to bring my unique set of skills and experiences from my professional background to the position of College and Career Coordinator, at Broken Arrow Public Schools, which will allow me to provide an irreplaceable viewpoint and ensure every student receives the highest quality instruction each day. Remarkably skilled in developing quality activities and presentations to promote career awareness coursework designed for effective education to a culturally diverse audience. Highly qualified and experienced in developing strategic plans to enable school districts to build community relationships. Wide range of networking contacts and established relationships with local businesses and local, state and national organizations for student intern experiences. Strong interpersonal and communication skills as well as the ability to work effectively with a variety of stakeholders. Superior research and development skills, as well as, organizational, project management, problem solving and multi-tasking skills. Exceptional experience and a proven record of success in writing grants and raising funds for a school from government and non-government sources. Excellent knowledge of current trends in social media, web content, digital communication platforms and other job related technologies.",
+    "skills": [
+        "curriculum development",
+        "educational programs",
+        "English",
+        "fundraising",
+        "government",
+        "grants",
+        "instruction",
+        "lesson plans",
+        "promotional material",
+        "reading",
+        "research",
+        "strategic marketing",
+        "teacher",
+        "author",
+        "Composition"
+    ],
+    "experience": [
+        {
+            "title": "School Library Media Specialist",
+            "company": "Company Name",
+            "start_date": "August 2008",
+            "end_date": "Present",
+            "description": "Chaired the Oklahoma Sequoyah Award committees which required serving as the liaison to all authors and publishers, coordinating all reading teams' activities, developing promotional material and maintaining organization relationships with stakeholders. Introduced, raised funds and implemented reading programs that allowed a notable author to visit, speak and give signed books to students at their school library (two different schools, using two different authors). Create and implement college and career instructional units to guide students and their parents in future planning. Plan and develop annual literacy programs in order to raise awareness of the library's purpose, available resources, and the rewards associated with reading. Assist parents and community with technology needs to develop and maintain relationships with school stakeholders. Design and present educational programs and lessons reinforcing 21st Century Skills for 21st Century Learners using various technology advances. Analyze data, research, and collaborate with colleagues to implement instruction supporting Common Core Standards and enhancing curriculum development by integrating instructional technology."
+        },
+        {
+            "title": "School Library Media Specialist",
+            "company": "Company Name",
+            "start_date": "September 2002",
+            "end_date": "August 2008",
+            "description": "Wrote grants and developed strategic marketing plans to raise funds for educational programs. Collaborated with government and non-profit organizations to establish an integrated work plan to utilize all grant and fundraising opportunities. Interpreted and enforced provisions of state education and federal justice codes, rules and regulations. Effectively used books, Internet, and current professional journals to generate ideas for library purchases, significantly increasing student interest and participation."
+        },
+        {
+            "title": "English Language Arts Teacher",
+            "company": "Company Name",
+            "start_date": "August 1999",
+            "end_date": "September 2002",
+            "description": "Prepared course outlines, lesson plans and other education material that provided engaging and rigorous learning experiences for students. Collaborated with team members to plan, develop, organize and promote integrative instruction. Assisted with district professional development and teacher training."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Education: School Administration",
+            "school": "Northeastern State University",
+            "year": 2015
+        },
+        {
+            "degree": "Masters of Library",
+            "school": "University of Oklahoma",
+            "year": 2003
+        },
+        {
+            "degree": "Bachelor of Arts : Education English",
+            "school": "Northeastern State University",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        "Federal Emergency Management Agency (FEMA) Emergency Management Institute",
+        "IACP: Juvenile Justice Training and Technical Assistance: Safe Schools"
+    ],
+    "languages": []
+}

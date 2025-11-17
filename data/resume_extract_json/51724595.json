@@ -1,0 +1,79 @@
+{
+    "name": "Vidya",
+    "email": null,
+    "phone": null,
+    "location": "United States",
+    "summary": "Graduate in Computer Science with over 9 years of professional experience in Customer Relationship Management, including roles as Solution Architect, Functional Analyst, and Implementation Consultant for large US-based customers in pharmaceutical, consumer, and public sector industries. Strong networking, communication, client relationship management, and process-driven implementation capabilities.",
+    "skills": [
+        "Siebel",
+        "Siebel Tools 8.1.1.10",
+        "Siebel Administration",
+        "Siebel eScript",
+        "VBScript",
+        "JavaScript",
+        "VB",
+        "SQL",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft PowerPoint",
+        "Microsoft Access",
+        "Crystal Reports",
+        "Oracle CPQ Cloud",
+        "CPQ",
+        "BigMachines",
+        "CRM",
+        "Data Warehouse",
+        "JAD",
+        "Testing",
+        "UAT",
+        "Siebel Integration",
+        "Siebel Order to Cash",
+        "Siebel Marketing",
+        "Siebel eEvents",
+        "Windows 7",
+        "Salesforce.com Administration Essentials",
+        "Salesforce.com Force.com Developer"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Deloitte Consulting LLP",
+            "start_date": "2010-09",
+            "end_date": "2015-03",
+            "description": "Led the development of Oracle CPQ Cloud solution prototype for Sales and Marketing; contributed to winning the next implementation phase. Reviewed and updated functional design documents. Improved system transparency with business process models and wireframes. Performed Fit Gap analysis on requirements and Oracle CPQ functionality. Worked on a large-scale CRM implementation for a public sector client in Canada; developed test strategies for Siebel ICM; created test scripts for Financial Management, Benefit Plans, Data Warehouse; supervised testing of 5 consultants and ensured on-time delivery. Collaborated with business users in JAD sessions to capture requirements and expectations; documented user requirements for approvals and outputs; developed process flows and system workflows. Created language and currency matrices for BigMachines; acted as Siebel SME for training and change management; set up Siebel environment from scratch to support 500 user hands-on training."
+        },
+        {
+            "title": "Siebel Configurator / Developer",
+            "company": "Japanese pharmaceutical company (Chicago area)",
+            "start_date": "2008-10",
+            "end_date": "2010-09",
+            "description": "Worked on Siebel 7.8 SFA applications: requirements analysis, design, coding, unit testing, documentation, maintenance and support. Managed Global PC Refresh project ensuring Siebel compatibility with Windows 7; deployed the customized Siebel application on new operating system to over 1000 reps. Also configured Siebel 7.8 ePharma applications; gathered requirements with business users to capture needs; performed unit, system, and performance testing."
+        },
+        {
+            "title": "Analyst",
+            "company": "JP Morgan",
+            "start_date": "2004-11",
+            "end_date": "2007-08",
+            "description": "Maintained critical client data across 7 cost centers. Created Crystal Reports to support information retrieval. Proposed initiatives to achieve time and cost savings; analyzed and distributed MIS reports to various teams and department heads."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma in Finance Management Accounting and Finance",
+            "school": "Welingkar Institute of Management Development and Research",
+            "year": 2005
+        },
+        {
+            "degree": "IT",
+            "school": "University of Mumbai",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        "Salesforce.com Administration Essentials",
+        "Salesforce.com Force.com Developer"
+    ],
+    "languages": [
+        "Japanese"
+    ]
+}

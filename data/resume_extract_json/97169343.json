@@ -1,0 +1,134 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced Staffing Manager and Healthcare Recruiter with a proven track record in sourcing, screening, interviewing, and placing candidates across healthcare and marketing roles. Skilled in workforce planning, client relationships, and recruitment process optimization; strong background in compliance, employee relations, and growth initiatives.",
+    "skills": [
+        "Good judgment",
+        "Human resources policies",
+        "Job fairs planning",
+        "Workforce planning",
+        "Pre-screening candidates",
+        "Time management",
+        "Sales techniques",
+        "Safety training",
+        "Employment laws and practices",
+        "Recruiting",
+        "Recruitment",
+        "Staffing",
+        "Customer service",
+        "Marketing plans",
+        "Marketing",
+        "Networking",
+        "Office",
+        "Nursing",
+        "Organizational",
+        "Processes",
+        "Editing",
+        "Conferences",
+        "Content",
+        "Client relations",
+        "Customer satisfaction",
+        "Administrative",
+        "Benefits",
+        "Brochures",
+        "Business Development",
+        "CNA",
+        "Competitive",
+        "Meetings",
+        "TV",
+        "Telephone"
+    ],
+    "experience": [
+        {
+            "title": "Staffing Manager",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "Present",
+            "description": "Top branch performer; recruited numerous companies and candidates; expanded client relationships to generate additional job orders; sourced, screened and interviewed candidates; supported client selection processes; maintained ongoing client and temporary staff relationships; resolved issues to ensure high customer satisfaction; built candidate pools to fill short- and long-term assignments; led recruiting plans and business development; organized job recruitment fairs."
+        },
+        {
+            "title": "Healthcare Recruiter",
+            "company": "Company Name",
+            "start_date": "2013-02",
+            "end_date": "Present",
+            "description": "Established client relationships and recruiting strategies; onboarded HR compliance training; managed candidate pool and engagement; led recruitment process including assessments, interviews and offers; advised candidates on benefits and salary; provided recruitment guidance to clients; collaborated with outside recruiters; processed personnel action forms; tracked candidates and time-to-fill metrics."
+        },
+        {
+            "title": "Marketing Director",
+            "company": "Company Name",
+            "start_date": "2011-12",
+            "end_date": "2013-08",
+            "description": "Developed and executed marketing plans for orthopedic specialty group; recruited and developed clinical staff; enhanced internal processes and customer relations; expanded network with physicians, clinics and hospitals; grew patient census and revenue; designed marketing materials and managed social media; produced weekly marketing reports and participated in health fairs."
+        },
+        {
+            "title": "Patient Care Services Representative",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2011-01",
+            "description": "Partnered with local organizations for job opportunities; converted temporary staff to permanent; screened applicants; coordinated new hire orientations; posted positions; developed salary proposals; led recruiting plans; organized recruitment fairs; addressed harassment and employee concerns."
+        },
+        {
+            "title": "Patient Care Services Representative",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2009-01",
+            "description": "Addressed employee relations issues; conducted exit interviews; supported management in HR policies; hired employees and processed new hire paperwork; explained HR policies and regulations; tracked key dates and deadlines; organized new employee orientations; conducted interviews and coordinated meetings; contributed to recruiting plans."
+        },
+        {
+            "title": "Surgery Coder",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2007-01",
+            "description": "Tracked deadlines and personnel lists; coordinated meetings; updated HR law information; posted positions; performed salary adjustments; managed contract renewals and promotions; pre-screened resumes and facilitated new employee orientations."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2006-01",
+            "description": "Led recruiting plans for open positions; developed salary proposals; posted positions; pre-screened resumes; facilitated new employee orientations; supported program activities; tracked candidates and disqualified metrics; contributed to department recruitment efforts."
+        },
+        {
+            "title": "Medical Insurance Specialist/Pain Control Associate",
+            "company": "Company Name",
+            "start_date": "2003-01",
+            "end_date": "2004-01",
+            "description": "Hired employees and processed new hire paperwork; explained HR policies; organized recruitment fairs and orientations; tracked deadlines; led recruiting plans for open positions; salary adjustments and renewals; prepared salary proposals."
+        },
+        {
+            "title": "Medical Insurance Account Representative",
+            "company": "Company Name",
+            "start_date": "1999-01",
+            "end_date": "2003-01",
+            "description": "Coordinated recruitment planning and interviews; created personnel actions; addressed immigration issues; tracked candidates and time-to-fill metrics; led recruiting plans and salary proposals; managed employee records."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma",
+            "school": "Sharyland High School",
+            "year": 1998
+        },
+        {
+            "degree": "Diploma",
+            "school": "South Texas Vocational College",
+            "year": 2000
+        },
+        {
+            "degree": "LVN",
+            "school": "South Texas College / UTPA",
+            "year": "2002-2004"
+        },
+        {
+            "degree": "CNA",
+            "school": "New Start CNA School",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "CNA-Texas Certified"
+    ],
+    "languages": []
+}

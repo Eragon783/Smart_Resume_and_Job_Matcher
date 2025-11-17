@@ -1,0 +1,147 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Experienced IT Administrator with 15 years of hands-on experience troubleshooting, managing and ensuring networks and systems run at optimum capacity. Proficient with Windows, Apple, Linux and Cisco IOS; Cisco router management, technical specifications creation, website maintenance, and strong problem-solving and communication skills.",
+    "skills": [
+        "Active Directory",
+        "Apple",
+        "Broadband",
+        "Cisco router",
+        "Cisco IOS",
+        "Client-server",
+        "Communication skills",
+        "Hardware",
+        "Network Systems",
+        "Curriculum design",
+        "Clients",
+        "Customer satisfaction",
+        "Email",
+        "Graphic design",
+        "Graphics",
+        "Help Desk",
+        "HP",
+        "IT support",
+        "Lesson plans",
+        "Linux",
+        "Marketing collateral",
+        "Medisoft",
+        "Messaging",
+        "MCSE",
+        "Office",
+        "Windows 7",
+        "Windows",
+        "Windows XP",
+        "Modems",
+        "MySQL",
+        "Enterprise",
+        "Network",
+        "Networking",
+        "Networks",
+        "Personnel",
+        "Cameras",
+        "POS",
+        "Printer",
+        "Printers",
+        "Problem resolution",
+        "Problem-solving",
+        "SCO",
+        "Strategy",
+        "Switches",
+        "Technical support",
+        "User support and training",
+        "Technical documentation",
+        "Telephone",
+        "Terminal Server",
+        "Troubleshooting",
+        "Unix",
+        "Upgrades",
+        "Upgrade",
+        "Website"
+    ],
+    "experience": [
+        {
+            "title": "IT & Media Administrator",
+            "company": "Company Name",
+            "start_date": "Jan 2006",
+            "end_date": "Current",
+            "description": "Boosted website traffic by creating an integrated social media strategy, including a successful SEO and link-building campaign to increase the website's credibility and drive traffic. Created effective messaging using language, graphics and marketing collateral. Installed software, modified and repaired hardware and resolved technical issues. Provided base level IT support to non-technical personnel within the business. Identified and solved technical issues with a variety of diagnostic tools. Remained up-to-date on the latest technologies and solutions applicable to company products. Reviewed technical documentation and procedures."
+        },
+        {
+            "title": "Local Technology Coordinator",
+            "company": "Company Name",
+            "start_date": "Jan 2012",
+            "end_date": "Jan 2014",
+            "description": "Set up, configured and supported internal and/or external networks (including wireless), Windows environment, HP switches. Maintained systems (Windows XP, Windows 7, Server 2003, Server 2008, Active Directory), software (Office, Medisoft V16, Dentrix, Dexis), hardware (printers, cameras), security, and network configurations. Troubleshot network performance issues, printer issues, user account issues and more. Recommended upgrades, patches and new applications and equipment. Provided technical and end-user support and training as needed."
+        },
+        {
+            "title": "IT Trainer",
+            "company": "Company Name",
+            "start_date": "Jan 2012",
+            "end_date": "Jan 2012",
+            "description": "Trained employees for upgrade from Office 2003 to Office 2010. Provided base level IT support to non-technical personnel within the business. Followed up with clients to ensure optimal customer satisfaction. Utilized software and tools to identify and solve technical issues (Windows XP, Windows 7, Altiris Remote Control, Footprints, Citrix, LMS)."
+        },
+        {
+            "title": "POS Product Support Specialist",
+            "company": "Company Name",
+            "start_date": "Jan 2011",
+            "end_date": "Jan 2012",
+            "description": "Installed POS pharmacy software, modified and repaired hardware and resolved technical issues. Provided base level IT support to non-technical personnel within the business utilizing a variety of software and tools (Unix (SCO), MySQL, Footprints, Join.Me, Kaseya). Managed call flow and responded to technical support needs of customers. Resolved product or service problems by clarifying the customers' complaint, determining the cause of the problem, selecting and explaining the best solution to solve the problem, expediting correction or adjustment and following up to ensure resolution."
+        },
+        {
+            "title": "Local Technology Coordinator",
+            "company": "Company Name",
+            "start_date": "Jan 2009",
+            "end_date": "Jan 2011",
+            "description": "Set up, configured and supported internal and external networks (including wireless), Windows environment, HP switches. Maintained systems (Windows XP, Windows 7, Server 2003, Server 2008, Active Directory), software (Office, Medisoft V16, Dentrix, Dexis), hardware (printers, cameras), security, and network configurations. Troubleshot network performance issues, printer issues, user account issues, and more. Recommended upgrades, patches and new applications and equipment. Provided technical and end-user support and training as needed."
+        },
+        {
+            "title": "Computer Networking & Administration Instructor",
+            "company": "Company Name",
+            "start_date": "Jan 2009",
+            "end_date": "Jan 2011",
+            "description": "Taught courses leading students towards a MCSE/MCITP certification, from approved curriculum, and developed daily lesson plans to include instructional aids. Participated in school retention initiatives by providing regular, accurate and timely feedback to students and the school concerning academics, behavior, attendance, and more. Motivated students to actively participate in all aspects of the educational process. Completed professional development and in-service activities in accordance with college standards. Maintained expertise in subject area and recommended improvements in curriculum design."
+        },
+        {
+            "title": "Network Administrator",
+            "company": "Company Name",
+            "start_date": "Jan 2008",
+            "end_date": "Jan 2008",
+            "description": "Set up, configured and supported internal and/or external networks (including wireless), Windows environment. Developed and maintained all systems, applications and security and network configurations. Troubleshot network performance issues, printer issues, user account issues, and more. Recommended upgrades, patches and new applications and equipment. Provided technical and end-user support and training as needed."
+        },
+        {
+            "title": "IT Support Specialist",
+            "company": "Company Name",
+            "start_date": "Jan 2007",
+            "end_date": "Jan 2007",
+            "description": "Performed a variety of duties in support of a computer, and/or client server unit, Windows environment. Installed software, modified and repaired hardware and resolved technical issues; setup classroom and lab environments. Functioned as a member of the problem resolution and enterprise service desk teams, handling over 22,000 employees regarding software, hardware and networking usage and configuration via telephone, email and Remedy ticket tracking and support software, representing over 50,000 computers and devices and a diverse group of end users, chiefly executive personnel."
+        },
+        {
+            "title": "POS Support Analyst",
+            "company": "Company Name",
+            "start_date": "Jan 2005",
+            "end_date": "Jan 2007",
+            "description": "Functioned as a member of the Help Desk team handling over 1500 franchise stores and over 600 corporate stores regarding POS software and hardware usage and configuration as well as networking via telephone and HEAT ticket tracking and support software (Level 1, Level 2 & Level 3), representing over 20,000 computers and peripheral devices (printers, modems, caller ID boxes) and a diverse group of end users. Diagnosed system problems and contacted vendors for service and/or replacement. Managed various areas of support including broadband connectivity and Windows/POS installation, configuration, and upgrade issues and supported all network and dial up configurations. Troubleshot, researched, diagnosed, documented, and resolved technical issues with a superior degree of technical knowledge and experience; utilized a variety of tools for troubleshooting, including Remote Desktop, Terminal Server, Enterprise Manager and Query Analyzer."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Network Systems Admin Professional Program",
+            "school": "New Horizons Computer Learning Center",
+            "year": "2015"
+        },
+        {
+            "degree": "Bachelor of Science in Technical Management",
+            "school": "DeVry University",
+            "year": "Unknown"
+        }
+    ],
+    "certifications": [
+        "CompTIA Net+",
+        "Microsoft MCSA",
+        "Cisco CCNP",
+        "Cisco CCNA"
+    ],
+    "languages": []
+}

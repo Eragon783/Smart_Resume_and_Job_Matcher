@@ -1,0 +1,116 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Director-level digital strategy and innovation leader with proven ability to manage complex, multi-site digital projects under budget constraints. Experienced in digital marketing, project governance, product development, analytics, and building high-performance teams to drive business growth and organizational effectiveness. Known for aligning initiative strategy with executive goals and delivering measurable results across multiple regions.",
+    "skills": [
+        "Digital Media Operations",
+        "Project Management",
+        "Negotiations",
+        "Management",
+        "Business Development",
+        "Team Leadership",
+        "Product Development",
+        "Budget Management",
+        "Strategic and Analytical Thinking",
+        "Business Planning",
+        "Professional Communications",
+        "Business Intelligence",
+        "Benchmarks and Timelines",
+        "SEO/SEM",
+        "Google Analytics",
+        "Omniture Site Catalyst",
+        "Web-Trends",
+        "Google DFP",
+        "Open Ad Stream",
+        "WordPress",
+        "Drupal",
+        "Networking",
+        "Domain Registration",
+        "Web-Site Administration",
+        "Microsoft Access",
+        "Excel",
+        "PowerPoint",
+        "Word",
+        "Visio",
+        ".NET",
+        "C++",
+        "FoxPro",
+        "Windows",
+        "Apple OSX",
+        "Dreamweaver",
+        "Photoshop",
+        "Lotus Notes",
+        "Corel"
+    ],
+    "experience": [
+        {
+            "title": "Director of Digital Innovation and Strategy",
+            "company": "Company Name",
+            "start_date": "June 2012",
+            "end_date": "Current",
+            "description": "Directed centralization of resources and projects; standardized reporting, campaign management across properties; collaborated with the CEO and VP of digital to develop project plans, manage timelines and work streams; provided status updates to senior management; promoted to Director of Online Operations; created strategic initiatives, product development, marketing intelligence, planning and implementation for digital media properties; defined product requirements and created statistical models; established guidelines cross-functionally; built consensus on priorities and strategy."
+        },
+        {
+            "title": "Director of Ad and Online Operations",
+            "company": "Company Name",
+            "start_date": "March 2010",
+            "end_date": "March 2011",
+            "description": "Created, maintained and presented regular campaign status and metric reports; developed ad-hoc reports to support strategic planning; contributed to revenue recognition by ensuring impressions were accurately reported; enforced productivity, quality and process requirements; liaised with external parties for services; reviewed and managed inventory issues; optimized campaigns; used web analytics (Omniture, Web-Trends) for analytical reports; configured campaigns on exchanges (Google AdX, OpenX, Six Apart); implemented impression verification and view-through pixels."
+        },
+        {
+            "title": "Director of Online Operations",
+            "company": "Company Name",
+            "start_date": "September 2006",
+            "end_date": "June 2012",
+            "description": "Project managed CMS centralization and standardized all interactive ad campaigns and traffic reporting across multiple properties; developed project plans and managed work streams; managed third-party sales agent relationships and RFPs; integrated Omniture SiteCatalyst and Google Analytics; produced analytics reports and dashboards; led transition to Google DFP ad serving; managed SEO/SEM for niche sites; budget approximately $500,000 annually; supervised a team of five marketing staff; conducted competitive analysis and led business development for local email marketing launches."
+        },
+        {
+            "title": "Marketing Consultant",
+            "company": "Company Name",
+            "start_date": "May 2005",
+            "end_date": "August 2006",
+            "description": "Researched and developed business plans for expansion; studied competitors' online marketing campaigns; assisted in creating an internal product database with real-time inventory and popularity metrics; provided technical support for website updates."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "April 2005",
+            "end_date": "September 2005",
+            "description": "Created marketing pieces for DMA seminars and conferences; identified data discrepancies and proposed resolutions; developed and implemented a benefits data audit process; profiled and filtered client data per requested parameters."
+        },
+        {
+            "title": "Senior Support Analyst",
+            "company": "Company Name",
+            "start_date": "May 2002",
+            "end_date": "June 2004",
+            "description": "Collaborated with IT teams and vendors to resolve hardware and software issues; configured user networks and systems; diagnosed and supported network connections; used NetWare and Windows 2000 to create user IDs and manage permissions."
+        },
+        {
+            "title": "Information Systems Intern",
+            "company": "Company Name",
+            "start_date": "January 2001",
+            "end_date": "August 2001",
+            "description": "Trained users on Microsoft Outlook and office components; troubleshooted helpdesk queries; configured network servers and deployed remote software installations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA, Marketing",
+            "school": "Long Island University College of Management",
+            "year": "2006"
+        },
+        {
+            "degree": "BBA, Management Information Systems",
+            "school": "Hofstra University Frank G. Zarb School of Business",
+            "year": "2001"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "Hindi"
+    ]
+}

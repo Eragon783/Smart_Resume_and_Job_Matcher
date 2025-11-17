@@ -1,0 +1,91 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly qualified, detail-oriented and hardworking office manager with more than 12 years of experience. Proficient in research, writing, case management and client relations. Self-starter with strong problem solving and organizational abilities. Demonstrated ability to handle difficult situation with tact. Skilled in analyzing a task and breaking it down into manageable pieces. Team player with exceptional communication and interpersonal skills. Highlights Time management Strong problem solver Resourceful Mail management Schedule management Accomplishments General Meticulous attention to detail Results-oriented Self-directed Report development Self-starter Coordinated all department functions for team of 10+ employees. Received a merit raise for strong attention to detail, exemplary customer service and team-player attitude. Successfully planned and executed corporate meetings, lunches and special events for groups of 15+ employees. Training Successfully trained staff in all office systems and databases, policies and procedures while focusing on minimizing errors and generating superior results. Employee Management Liaised with HR department to establish employee benefits, training, payroll and termination procedures. Administration Performed administration tasks such as filing, developing spreadsheets, faxing reports, photocopying collateral and scanning documents for inter-departmental use. Customer Service Handled customers effectively by identifying needs, quickly gaining trust, approaching complex situations and resolving problems to maximize efficiency. Multitasking Demonstrated proficiencies in telephone, e-mail, fax and front-desk reception within high-volume environment. Research Investigated and analyzed client complaints to identify and resolve issues.",
+    "skills": [
+        "Time management",
+        "Strong problem solver",
+        "Resourceful",
+        "Mail management",
+        "Schedule management",
+        "Case management",
+        "Excellent Customer Service",
+        "Attention to detail",
+        "Report development",
+        "Self-directed",
+        "Team player",
+        "Communication",
+        "Interpersonal skills",
+        "Multitasking",
+        "Research",
+        "Administrative tasks",
+        "Spreadsheets",
+        "Office systems",
+        "Policies and procedures",
+        "Interdepartmental coordination",
+        "Data entry"
+    ],
+    "experience": [
+        {
+            "title": "Office Support Coordinator",
+            "company": "Company Name",
+            "start_date": "2013-09",
+            "end_date": "2015-01",
+            "description": "Provided a courteous, professional contact for the site. Referred calls to appropriate agencies. Accurately completed tracking of work processed for used by Case Management staff and provided support to the Case Management Director(s). Created forms in user-friendly formats and assisted leadership with the Support Intensity Scale, Referrals and Long Term Home Health processes as requested. Coordinated meetings and meeting arrangements. This included scheduling, room set up and facilitation assistance as requested. Planned, arranged, and coordinated community projects, team development and other activities as needed. Prepared Check Requests following Finance Department policies, procedures, and deadlines. Ensured proper coding so that funds are taken from appropriate accounts. Assisted with and completed internal file reviews, set-up and archiving. Remained knowledgeable and current of DDD Rules and Regulations, Program Quality Standards, expectations and best practices including CCMS, Benefits Utilization System BUS), etc."
+        },
+        {
+            "title": "Financial Foundation Associate / Seasonal",
+            "company": "Company Name",
+            "start_date": "2013-04",
+            "end_date": "2013-08",
+            "description": "Interviewed prospective clients to learn about their financial needs and to discuss any existing coverage. Processed applications, payments, corrections, endorsements and cancellations. Promoted agency products to customers on the telephone. Presented and clearly explained insurance policy options to clients based on their needs and goals. Promoted client retention through high-quality service and follow through. Presented account proposals in a professional and timely manner."
+        },
+        {
+            "title": "Human Resource Assistant / Administrative Assistant III",
+            "company": "Company Name",
+            "start_date": "2011-08",
+            "end_date": "2013-04",
+            "description": "Answered employee questions regarding employment records and resolved any issues. Advised managers on organizational policy matters and recommend needed changes. Served as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems. Verified employment and accountable of establishment and preparation of new-hire paperwork. Entered, modified, and proofread data in PeopleSoft and BackOffice."
+        },
+        {
+            "title": "ABA Therapist",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2013-03",
+            "description": "Applied Behavioral Analysis to help clients improve their fuctionality"
+        },
+        {
+            "title": "Data Entry Clerk",
+            "company": "Company Name",
+            "start_date": "2010-05",
+            "end_date": "2010-08",
+            "description": "Verified that information in the computer system was up-to-date and accurate. Identified and resolved system and account issues. Requested pricing from vendors and created offers for clients."
+        },
+        {
+            "title": "Office Management Specialist / Office Administrator",
+            "company": "Company Name",
+            "start_date": "2006-11",
+            "end_date": "2010-03",
+            "description": "Executed accounts receivable reporting enhancements and reconciliation procedures. Performed debit, credit and total accounts on computer spreadsheets/databases, using specialized accounting software. Addressed and resolved non-routine, complex and unexpected variances. Provided reliable and timely project by project expense, capitalization, amortization and spend data for all departments. Efficiently implemented short-term tracking factoring in possible long-term tracking strategies. Coordinated all department functions for team of 10 employees. Maintained detailed administrative and procedural processes to improve accuracy and efficiency. Verified and logged in deadlines for responding to daily inquiries. Supervised and trained admitting, billing and collection staff. Created databases and spreadsheets to improve inventory management and reporting accuracy. Implemented updated online collection procedures for payment, increasing on-time payments by [Number]%.Implemented updated online collection procedures for payment, increasing on-time payments by 98 %. Managed incoming and outgoing calls for busy Internet website. Improved communication efficiency as primary liaison between departments and clients."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Psychology",
+            "school": "University of Colorado Colorado Springs",
+            "year": "2012"
+        },
+        {
+            "degree": "Business Certificate: Economics + Administration, Health",
+            "school": "Graf-Stauffenberg-Business School Bamberg",
+            "year": "2006"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "German"
+    ]
+}

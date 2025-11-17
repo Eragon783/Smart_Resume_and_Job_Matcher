@@ -1,0 +1,73 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A detail oriented, efficient accountant that excels in managing multiple tasks in fast paced environments. A proven track record in meeting deadlines, streamlining processes and promoting a positive work environment. Articulate communicator known for delivering excellent customer service both internally and externally. Self-motivated team player who demonstrates a high level of quality work and professionalism.",
+    "skills": [
+        "Account reconciliation",
+        "Financial modeling",
+        "Variance analysis",
+        "Corporate G&A and COGS accounting",
+        "Cash forecasting",
+        "Capitalization and fixed assets",
+        "Analytical reasoning",
+        "Time management",
+        "Research skills",
+        "Excel (Pivot Tables, V-Lookups)",
+        "Inventory accounting",
+        "NetSuite",
+        "QuickBooks",
+        "Cognos Impromptu",
+        "JDEdwards",
+        "AS400",
+        "Sage FAS fixed assets",
+        "BNA fixed assets",
+        "BusinessObjects Crystal Reports",
+        "Hyperion Essbase"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name City , State",
+            "start_date": "12/2012",
+            "end_date": "Current",
+            "description": "Compiled and analyzed financial information to prepare financial statements to be distributed internally and externally. Reconciled bank accounts to general ledger on a monthly basis. Manage fixed assets ensuring all assets that meet our threshold are input accurately and depreciated properly. Analyze inventory expense and assets accounts; Research and resolve discrepancies in coordination with Fulfillment team. Monitor and record bank activity on a daily basis; Analyze past costs and revenue to provide cash forecast weekly. Record cash receipts and revenue for associated company; Reconcile sub-ledger to general ledger by verifying monthly activity. Forecast balance sheet and cash flow forecast based on yearly budgeted income statement. Reduced closing time for monthly and quarterly close by 25% by implementing more accurate and efficient procedures."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name State",
+            "start_date": "09/2008",
+            "end_date": "12/2012",
+            "description": "Tracked capital improvement projects in AS400 system by checking status and confirming expenditures; provided accounting support as needed. Managed fixed assets; Generated year end depreciation reports and recorded to the general ledger; Coordinated and conducted city-wide asset audit. Investigated and resolved discrepancies in monthly bank accounts while under tight deadlines. Verified department software interfaced appropriately and communicated with various departments to provide information and answer questions; documented procedures as appropriate. Prepared year-end audit schedules and ensured accuracy; researched and resolved auditors' inquiries and requests. Recorded state and federal seizure and forfeiture funds received and expended and balanced corresponding general ledger accounts; coordinated with police department to ensure accuracy of annual state and federal reports. Generated yearly 1099 report from general ledger and electronically filed 1099 report with the IRS. Reconciled municipal court transactions to the general ledger as well as filed quarterly and annual reports; investigated and resolved any discrepancies. Monitored bank accounts for investment activities; Recorded investment maturities, purchases, and interest; Updated investment spreadsheet to reflect current balances, outstanding bonds and certificates of deposits. Innovated accurate and efficient method for proper accounting of assets. Coordinated with fellow staff to improve processes; Provided administrative support by filing and gathering reports, creating and preparing spreadsheets for special projects and providing assistance and information on financial and accounting issues."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name City , State",
+            "start_date": "12/2006",
+            "end_date": "05/2008",
+            "description": "Maintained capital expenditures in BNA; Organized and conducted asset audit for 26 regional branches by interfacing with each Asset Branch Manager; drafted monthly depreciation reports and computed depreciation. Reconciled branch sales reports to bank account activity. Audited weekly Accounts Payable check runs. Audited daily Accounts Receivable credit reports. Researched validity of invoice void requests. Investigated and resolved credit card and bank deposit variances."
+        },
+        {
+            "title": "Accounting Assistant",
+            "company": "Company Name City , State",
+            "start_date": "03/2005",
+            "end_date": "12/2006",
+            "description": "Prepared and input daily and monthly journal entries into general ledger. Analyzed and reviewed expense reports for accuracy. Performed monthly balance sheet reconciliations. Recorded monthly and yearly accruals. Input new vendors and invoices into accounting system; conducted weekly check runs. Prepared daily cash reports and performed transfers as needed. Managed bank accounts for 24 properties; Performed intercompany transfers as needed."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Accounting and Information Management",
+            "school": "University of Texas at Dallas",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts: Psychology",
+            "school": "University of Texas at Dallas",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

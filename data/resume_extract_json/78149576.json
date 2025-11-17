@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Billings, MT",
+    "summary": "Floral designer with experience in customer service, cash handling, POS, and event setup; strong design skills and reliability.",
+    "skills": [
+        "Floral design",
+        "Customer service",
+        "Cash handling",
+        "Cashier",
+        "Creativity",
+        "POS"
+    ],
+    "experience": [
+        {
+            "title": "Floral Designer",
+            "company": "Company Name",
+            "start_date": "2016-01",
+            "end_date": "Current",
+            "description": "Any assigned errands/duties. Customer service. Design work. Event set up."
+        },
+        {
+            "title": "Floral Designer",
+            "company": "Magic City Floral",
+            "start_date": "2015",
+            "end_date": "2015",
+            "description": "Customer Service. Any miscellaneous or assigned duties."
+        },
+        {
+            "title": "Delivery Driver",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2015-01",
+            "description": "Any other assigned duties."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Floral Design Certificate (in progress)",
+            "school": "Front Range Community College",
+            "year": 2014
+        },
+        {
+            "degree": "Associate of Horticulture",
+            "school": "Front Range Community College",
+            "year": 2014
+        },
+        {
+            "degree": "Horticulture",
+            "school": "Front Range Community College",
+            "year": 2013
+        },
+        {
+            "degree": "Not specified",
+            "school": "Colorado State University",
+            "year": 2011
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Fossil Ridge High School",
+            "year": 2010
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

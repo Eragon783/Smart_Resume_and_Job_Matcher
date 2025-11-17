@@ -1,0 +1,36 @@
+{
+    "name": "Renu Sharma",
+    "email": null,
+    "phone": null,
+    "location": "Houston, Texas",
+    "summary": "Dual specialization in the domain of Human Resource Management and Finance. Highlights Human resources management People-oriented New employee orientations Maintains confidentiality",
+    "skills": [
+        "SPSS Software",
+        "MS Office (Word, Excel, PowerPoint)",
+        "Internet & Email operations",
+        "Professional management skills",
+        "Meeting objectives",
+        "Identifying problems",
+        "Effective communication skills",
+        "Thrives in deadline-driven environments",
+        "Team-building skills"
+    ],
+    "experience": [
+        {
+            "title": "HR Executive",
+            "company": "Company Name",
+            "start_date": "May 2013",
+            "end_date": "June 2014",
+            "description": "Ensure that accurate job descriptions are in place; provide advice and assistance with writing job descriptions; identify training and development opportunities; provide advice and assistance to supervisors on staff recruitment; prepare notices and advertisements for vacant staff positions; schedule and organise interviews; prepare, develop and implement procedures and policies on staff recruitment; daily attendance monitoring; provide advice and recommendations on disciplinary actions; monitor schedule absence such as holidays or travel and coordinate actions; following up with hired employees for the completion of the H.O. documents and files; maintaining complete attendance record of the employees including leave records; preparing salary based on these records at the end of each month for HR and manager approvals; liaison including greeting all persons entering organization in a professional manner; handling HR events and celebrations including office get together and promotion parties; office maintenance and housekeeping including monitoring the general appearance of office infrastructure; preparing monthly expenses statement."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Management",
+            "school": "Doon University",
+            "year": "2012"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

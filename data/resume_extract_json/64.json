@@ -1,0 +1,73 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Tel Aviv, Israel",
+    "summary": "Front-end developer with 6 years of experience specializing in JavaScript, Vue, React, Node.js and modern web technologies.",
+    "skills": [
+        "JavaScript",
+        "PHP",
+        "MongoDB",
+        "Vue",
+        "React",
+        "Node",
+        "Yii2",
+        "HTML",
+        "CSS",
+        "Sass",
+        "Less",
+        "Git",
+        "Webpack"
+    ],
+    "experience": [
+        {
+            "title": "Full stack Developer",
+            "company": "Samson Logic",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "description": "Masa working program at Samson Logic, Tel-Aviv, Israel. Company that provides smart construction materials management. Major achievements: Modules development including a system that scans containers via smartphone camera and adds building supplies; a tracking system that simulates containers movement in 3D. Technologies used: JavaScript, React, Node, MongoDB, REST, HTML5, SCSS, Ubuntu Server."
+        },
+        {
+            "title": "Front-end Developer",
+            "company": "Publicis Groupe",
+            "start_date": "Jun 2019",
+            "end_date": "Oct 2019",
+            "description": "Developing new system functionality on Vue: chat, notifications, briefing system, division into roles, expansion of the existing functionality. Technologies used: JavaScript, Vue, WebSocket, REST, HTML5, Sass."
+        },
+        {
+            "title": "Front-end Developer",
+            "company": "WhenSpeak",
+            "start_date": "Sep 2018",
+            "end_date": "Jun 2019",
+            "description": "Rewriting the project from Angular into Vue, introducing new functionality, improving old services: optimizing socket operations, request optimization, improving and expanding chat features, mentoring junior developers."
+        },
+        {
+            "title": "Front-end Developer",
+            "company": "BN Real Estate Portal",
+            "start_date": "Mar 2017",
+            "end_date": "Aug 2018",
+            "description": "Real estate portal: working on a new version of the real estate portal and introducing new functionalities: creating interactive maps on mapbox-gl-js, conducting an AB testing, mentoring junior developers."
+        },
+        {
+            "title": "Web Developer",
+            "company": "Web Studio",
+            "start_date": "Oct 2014",
+            "end_date": "Feb 2015",
+            "description": "Websites development, installation on a MODX system, development of plugins and support."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Sc. in computer science, Information systems and technologies",
+            "school": "Tver State Technical University, Tver, Russia",
+            "year": "2012-2016"
+        },
+        {
+            "degree": "Specialist in Computer Software and Automated Systems",
+            "school": "Tver Industrial-Economic College, Tver, Russia",
+            "year": "2008-2012"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

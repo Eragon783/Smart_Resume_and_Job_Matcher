@@ -1,0 +1,78 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Kfar-Yona, Israel",
+    "summary": "Experienced Network Engineer with 6+ years in designing, deploying and maintaining enterprise, ISP and data center networks. Skilled in network architecture (HLD/LLD), vendor ecosystems (HPE, Aruba, Juniper, Cisco including ACI, Huawei, ZTE, Mikrotik), MPLS cores, Python automation, security appliances (BIG-IP F, FortiDDoS, Fortianalyzer; Check Point), Wi-Fi deployments (Aruba, Cisco), WireGuard, PCRF, and deployment planning.",
+    "skills": [
+        "Network design and implementation",
+        "HLD/LLD documentation",
+        "MPLS Core",
+        "Vendor experience: HPE, Aruba, Juniper, Cisco (ACI), Huawei, ZTE, Mikrotik",
+        "Automation with Python",
+        "BIG-IP F (Firewalls, FMG, FortiDDoS, Fortianalyzer)",
+        "Fortinet FortiDDoS",
+        "Check Point rules",
+        "WireGuard",
+        "Wi-Fi engineering (Aruba, Cisco)",
+        "PCRF configuration",
+        "Linux (advanced)",
+        "Data Center networking",
+        "Networking across Enterprise, ISP and Data Center"
+    ],
+    "experience": [
+        {
+            "title": "Network Engineer / Layer 3 Support",
+            "company": "Belintech Ukraine LLC / System Integrator",
+            "start_date": "Sep 2018",
+            "end_date": "present",
+            "description": "Designed, implemented and maintained networks for enterprise and data center environments; produced design documentation (HLDs/LLDs, solution descriptions); configured and managed ISP-like networks with ZTE and Mikrotik; maintained 400+ devices in MPLS core; engaged in network solutions for customer requests."
+        },
+        {
+            "title": "System Administrator",
+            "company": "Telemessage",
+            "start_date": "Mar 2020",
+            "end_date": "Jul 2020",
+            "description": "Administered BIG-IP F series (Firewalls, FMG, FortiDDoS, Fortianalyzer); supported security infrastructure; configured Wi-Fi analytics on F5; implemented WireGuard; worked with Check Point rules."
+        },
+        {
+            "title": "Network Engineer",
+            "company": "Ukrtelecom",
+            "start_date": "Feb 2017",
+            "end_date": "Sep 2018",
+            "description": "Network design and deployment for ISP networks; Wi-Fi deployments; configuring and maintaining F5 analytics; building Greenfield deployments; implemented WireGuard; Aruba and Cisco Wi-Fi networks."
+        },
+        {
+            "title": "Intern",
+            "company": "Vodafone Ukraine",
+            "start_date": "May 2013",
+            "end_date": "Jul 2013",
+            "description": "Network integration work; automation of monitoring in ISP network with Python; deployment planning, testing and management; design and maintenance of network equipment."
+        },
+        {
+            "title": "Counselor",
+            "company": "Jewish Agency for Israel in Ukraine",
+            "start_date": "2015",
+            "end_date": "present",
+            "description": "Counselor (Informal Jewish Education)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "school": "State University of Telecommunications (Kiev)",
+            "year": 2019
+        }
+    ],
+    "certifications": [
+        "Aruba Certified Switching Associate (ACSA) - 2022",
+        "JNCIA-JUNOS (JNO-102) - 2018",
+        "HP ATA+ Networks (Kyiv) - 2015"
+    ],
+    "languages": [
+        "English",
+        "Hebrew",
+        "Ukrainian",
+        "Russian"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Y. JOHN DIVAKAR",
+    "email": "",
+    "phone": "",
+    "location": "Bangkok, Thailand",
+    "summary": "Finance Manager seeking long-term assignments in a corporate environment to utilize skills and contribute to organizational growth.",
+    "skills": [
+        "ACCOUNTING",
+        "Accountancy",
+        "computerized accounting",
+        "Trial Balance",
+        "Balance Sheet",
+        "Bank reconciliation",
+        "Budgets",
+        "Budget",
+        "Cash Flow",
+        "competitive",
+        "Computer training",
+        "DBASE",
+        "Finance",
+        "Financial",
+        "financial reports",
+        "Foreign Exchange",
+        "General Ledger",
+        "IDS",
+        "INFORMIX 4GL",
+        "insurance",
+        "Internal Audit",
+        "Ledger",
+        "LOTUS",
+        "managing",
+        "market",
+        "Marketing",
+        "MS-OFFICE",
+        "MIS",
+        "MSDOS",
+        "Payroll",
+        "PERSONNEL",
+        "Profit",
+        "quality",
+        "Sales",
+        "Sun",
+        "Tax",
+        "TAXES",
+        "UNIX",
+        "WORDSTAR"
+    ],
+    "experience": [
+        {
+            "title": "Finance Manager",
+            "company": "Moevenpick Hotel Sukhumvit 15 Bangkok",
+            "start_date": "2010-01",
+            "end_date": "Present",
+            "description": "Currently Finance Manager at Moevenpick Hotel Sukhumvit 15 Bangkok; previously worked with Ramada Hotel and Suites Bangkok, Wyndham group as Finance Manager."
+        },
+        {
+            "title": "Finance Manager",
+            "company": "Ramada Hotel and Suites Bangkok, Wyndham group",
+            "start_date": "2008-01",
+            "end_date": "2010-01",
+            "description": "Finance Manager responsible for financial management at the hotel; noted as the first managed hotel in Asia by Wyndham group."
+        },
+        {
+            "title": "Deputy Manager",
+            "company": "4 Star Hotel, Visakhapatnam",
+            "start_date": "2006-01",
+            "end_date": "2007-01",
+            "description": "Assisted in managing the activities of the Finance Department and administration."
+        },
+        {
+            "title": "Finance Manager",
+            "company": "4 Star Hotel, Visakhapatnam",
+            "start_date": "1980-01",
+            "end_date": "2005-01",
+            "description": "Managed all the activities of the Finance Department and administration; involved MIS & Budgets, financial reporting, audits, taxes, payroll, insurance, and general financial matters."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Commerce",
+            "school": "Andhra University",
+            "year": 1980
+        },
+        {
+            "degree": "Post Graduate Diploma in Financial Management",
+            "school": "Annamalai University",
+            "year": 2001
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

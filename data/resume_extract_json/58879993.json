@@ -1,0 +1,99 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "An innovative, customer-oriented Healthcare Administrator with a background in primary care and experience supporting a team of physicians in a busy medical office. Expertise includes verifying insurance coverage, records reviews, marketing and schedule maintenance. Searching for a leadership role in a team oriented company.",
+    "skills": [
+        "Communication",
+        "Interpersonal skills",
+        "Conflict resolution",
+        "Customer service",
+        "Medical terminology",
+        "Event planning and coordination",
+        "Budgeting and financial management",
+        "Microsoft Office Suite",
+        "Multitasking",
+        "Problem-solving",
+        "Self-starter",
+        "Leadership",
+        "Electronic Medical Database",
+        "Microsoft PowerPoint",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft Publisher",
+        "Adobe Dreamweaver",
+        "Adobe Photoshop",
+        "Microsoft Outlook",
+        "Adobe Premiere",
+        "Adobe Acrobat",
+        "GIMP",
+        "Windows",
+        "Social media management"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Marketing Specialist",
+            "company": "Company Name",
+            "start_date": "Jul 2017",
+            "end_date": "Present",
+            "description": "Analyzed performance of marketing program to identify the best opportunities for optimization. Established production schedules and communicated project to stakeholders. Increased patient traffic by 5%. Managed all social media forums, including the company website, social networking applications and message boards."
+        },
+        {
+            "title": "Healthcare Admin Intern",
+            "company": "Company Name",
+            "start_date": "Feb 2017",
+            "end_date": "Jun 2017",
+            "description": "Scheduled appointments and registered patients. Recorded and filed patient data and medical records. Demonstrated analytical and problem-solving ability to addressing barriers. Directed patient flow during practice hours, minimizing patient wait time. Oversaw implementation of an effective budgeting and accounting system that improved efficiency and reduced costs. Developed a system of staff communication that ensured proper implementation of treatment plans and comprehensive patient care. Developed the design and execution of a program that contributed to 5% growth of the organization."
+        },
+        {
+            "title": "Call Center Representative",
+            "company": "Company Name",
+            "start_date": "Jun 2016",
+            "end_date": "Sep 2016",
+            "description": "Demonstrated mastery of customer service call script within specified timeframes. Maintained up-to-date records at all times. Provided cross training to 4 staff members. Facilitated information flow between customer service, account management operations, quality assurance, training and payroll departments to guarantee call center objectives were met."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "Jun 2015",
+            "end_date": "Sep 2015",
+            "description": "Demonstrated mastery of customer service call script within specified time frames. Maintained up-to-date records at all times. Built customer loyalty by placing follow-up calls for customers who reported product issues. Formulated and enforced Service Center policies, procedures and quality assurance measures."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "Jun 2014",
+            "end_date": "Jan 2016",
+            "description": "Establish or identify prices of goods, services or admission, and tabulate bills using calculators, cash registers, or, Recommend, select, and help locate or obtain merchandise based on customer needs and/or desires. Optical price scanners. Bag or package purchases and wrap gifts. Exchange merchandise for customers and accept returns. Clean shelves, counters, and tables."
+        },
+        {
+            "title": "Front Desk Assistant",
+            "company": "Company Name",
+            "start_date": "Sep 2013",
+            "end_date": "May 2015",
+            "description": "Handled incoming and outgoing correspondence, including mail, email and faxes. Answer queries regarding computers. Drafted and typed grammatically correct office memos. Managing test reminder calls, photocopied all correspondence, documents and other printed materials."
+        },
+        {
+            "title": "Retail Customer Service Associate",
+            "company": "Company Name",
+            "start_date": "May 2011",
+            "end_date": "Aug 2011",
+            "description": "Greet customers entering establishments. Assist customers by providing information and resolving their complaints. Receive payment by cash, check, credit cards, vouchers, or automatic debits. Open and close cash registers. Performing tasks such as counting money, separating charge slips, coupons and vouchers. Place special orders or call other stores to find desired items. Completed floor replenishment to guarantee size availability and promote customer satisfaction. Kept current on market and product trends to effectively answer customer questions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Healthcare Administration",
+            "school": "Pennsylvania College of Health Sciences",
+            "year": 2017
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Northeastern High School",
+            "year": 2010
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,71 @@
+{
+    "name": "LeRoy Pack",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior banking executive focused on leading lending teams within financial institutions. Experienced in consumer and small business lending, mortgage underwriting, cross-selling strategies, client relationship management, and portfolio growth. Skilled in cash flow modeling, treasury solutions, and building cross-divisional collaboration to achieve organizational goals.",
+    "skills": [
+        "banking",
+        "cash flow modeling",
+        "cash management",
+        "underwriting",
+        "mortgage loans",
+        "treasury solutions",
+        "customer service",
+        "sales",
+        "leadership",
+        "coaching",
+        "regulatory compliance",
+        "risk management",
+        "portfolio management",
+        "cross-selling",
+        "financial analysis"
+    ],
+    "experience": [
+        {
+            "title": "Supervisor, Consumer Loans",
+            "company": "IAA Credit Union",
+            "start_date": "01/2014",
+            "end_date": "Current",
+            "description": "Oversight of consumer loan operations and portfolio management at a 215M asset credit union."
+        },
+        {
+            "title": "VP Small Business Banking",
+            "company": "Busey Bank",
+            "start_date": "01/2011",
+            "end_date": "01/2014",
+            "description": "Led small business banking with emphasis on cross-selling, retention strategies, and growth of mortgage production and client relationships. Recognized among top consumer loan producers; implemented incentive models and training."
+        },
+        {
+            "title": "AVP - Business Banking",
+            "company": "Company Name, City, State",
+            "start_date": "01/2003",
+            "end_date": "01/2011",
+            "description": "Sold clients' financial products; implemented cross-selling strategies; underwrote and funded small business loans; managed a $22MM sized portfolio; developed inter-divisional communication to align mortgage, retail, and small business segments; built cash flow modeling and treasury solutions for clients."
+        },
+        {
+            "title": "AVP, JPMorgan Chase Bank, N.A.",
+            "company": "JPMorgan Chase Bank, N.A.",
+            "start_date": "01/2003",
+            "end_date": "01/2011",
+            "description": "Prospected and fostered new business relationships with small businesses; underwrote and funded small business loans; contributed to top rankings in client retention for mortgage officers; developed incentive models to grow mortgage production; sold deposit and investment products; provided cash flow modeling and treasury solutions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Chemistry, Business and Accounting",
+            "school": "Eastern Illinois University",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        "Affluent client certified",
+        "Consumer loan compliance certified",
+        "CUNA Financial counseling certified (FiCEP)",
+        "Operational Excellence yellow belt certified",
+        "CPR certified"
+    ],
+    "languages": [
+        "English"
+    ]
+}

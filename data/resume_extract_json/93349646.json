@@ -1,0 +1,91 @@
+{
+    "name": "Ganesh Seetharaman",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Ganesh Seetharaman is a senior IT infrastructure specialist with extensive experience in Oracle Cloud operations, Oracle Enterprise Manager, WebLogic, and solutions management. He has led large-scale implementations, managed cross-functional teams, and delivered end-to-end monitoring, automation, and 24x7 support across heterogeneous environments.",
+    "skills": [
+        "Six Sigma Green Belt",
+        "ITIL V3 Foundation",
+        "Oracle DBA (10g/11g)",
+        "Oracle WebLogic Server Administration",
+        "Oracle Enterprise Manager (OEM/Cloud Control)",
+        "Oracle Cloud / Oracle Public Cloud",
+        "AWS",
+        "RAC (Real Application Clusters)",
+        "RMAN",
+        "Data Guard",
+        "AWR/ADDM",
+        "TKPROF",
+        "SQL Developer",
+        "Oracle WebLogic Server",
+        "Oracle Application Server",
+        "Primavera",
+        "Linux",
+        "HP-UX",
+        "Solaris",
+        "Windows",
+        "MS Project",
+        "Visio",
+        "Excel",
+        "F5 Big-IP",
+        "Global Traffic Manager",
+        "WinRunner",
+        "QuickTest Professional",
+        "PMP",
+        "AWS Solution Architect - Associate (in progress)"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2016-07",
+            "end_date": null,
+            "description": "Collaborate with clients to ensure successful implementations. Implement OEM 12c setup, BP, plugins, performance monitoring, and notification setup. Install/upgrade/patch Oracle Database; performance tuning. Install/upgrade/patch Oracle WebLogic servers; deploy applications."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Company Name",
+            "start_date": "2014-12",
+            "end_date": "2016-06",
+            "description": "Led cross-functional teams across technical, financial and business disciplines. Focused teams on business objectives and tracked progress to complete milestones on time and on budget. Managed risk through analysis of financial/statistical data, transitioned between agile and waterfall approaches, and created road maps and work breakdown structures. Executed multiple projects including database upgrades (10g to 11g/12c), migration to Oracle Exadata, ASM disk groups, PSU patches, and upgrades of Oracle WebLogic and Web Tier. Managed Enterprise Manager Cloud Control (Cloudem12c) for Oracle Public Cloud; deployed OEM 12c sites; managed agents and plugins; troubleshot OMS/Agent issues; automated EM administration via EMCLI; built new EM sites and environments for Cloudem customers."
+        },
+        {
+            "title": "Principal Systems Consultant",
+            "company": "Oracle Public Cloud - CloudEM Operations Team",
+            "start_date": "2005-02",
+            "end_date": "2014-11",
+            "description": "Part of Oracle Public Cloud's Monitoring Solution team (CloudEM Operations). Oversaw large-scale monitoring of 20,000+ databases plus Fusion Middleware targets and ZFS targets. Built and expanded Enterprise Manager (EM) environments across multiple data centers, installed and configured OMS/agents, SSL, SSO, TAS/SDI provisioning, and ensured high availability for SaaS/PAAS environments. Performed upgrades, patching (PSU), and tuning; implemented backups/recovery (RMAN); administered WebLogic servers; deployed 20+ OEM sites; managed OMS plugins and BP; maintained test beds for fixes."
+        },
+        {
+            "title": "Associate Consultant",
+            "company": "Company Name",
+            "start_date": "2004-04",
+            "end_date": "2005-02",
+            "description": "Installation of Oracle software on Linux boxes; created tablespaces and datafiles following OFA; managed database security and privileges; administered Oracle 10g Application Server; performance tuning using Explain Plan, SQL Trace, TKPROF, RDA, and STATSPACK; applied patches; provided 24x7 on-call production support; performed database reorganization to reduce fragmentation; monitored alert logs and trace files for health and integrity."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MCA",
+            "school": "Madurai Kamaraj University",
+            "year": null
+        },
+        {
+            "degree": "BSc Math",
+            "school": "RKM Vivekananda College, University of Madras",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Six Sigma Green Belt",
+        "ITIL V3 Foundation",
+        "Oracle DBA 10g/11g Admin Workshop I and II (OCP)",
+        "Oracle WebLogic Server / Application Server 11g Administration",
+        "Oracle 10g/11g RAC DBA Training",
+        "Exadata and Database Machine Administration Workshop",
+        "PMP - Project Management Professional",
+        "AWS Solution Architect - Associate (in progress)"
+    ],
+    "languages": []
+}

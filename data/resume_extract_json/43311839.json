@@ -1,0 +1,92 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Over seven years of Software Application Development, Application Support, Testing and Implementation experience with Web based and N-tier Architectures involving all stages of Software Development Life Cycle (SDLC). Experience in developing Web applications in . SDLC) including requirements, logical and physical architecture modeling, design, development, implementation, and support. Ability to work in a fast paced, collaborative environment and handle multiple concurrent projects. Collaborate with partners to understand high-level conceptual flow and develop prototypes to review with business partners. Functional Domain experience involves HealthCare, Life Sciences and Transportation. Moved to Application Support team and leading an offshore team in Triaging production related issues since six months. Experience in using Fiddler in Post Production Release Validation for monitoring Web Traffic. Hands on experience in decompiling the code from the DLL's by using dot peek tool. Achieved \"Masters degree in Computer Sciences\" from University of IL, Springfield.",
+    "skills": [
+        ".NET",
+        "ASP.NET",
+        "C#",
+        "XML",
+        "HTML",
+        "HTTP",
+        "MS SQL Server",
+        "Web Services",
+        "ADO.NET",
+        "Entity Framework",
+        "LINQ",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Themes & Skins",
+        "User controls",
+        "Custom Controls",
+        "OOAD",
+        "WCF",
+        "MVC",
+        "Core Java",
+        "T-SQL",
+        "ODBC",
+        "Oracle",
+        "IIS",
+        "AJAX",
+        "JSON",
+        "AngularJS",
+        "Kendo UI",
+        "Bootstrap",
+        "Telerik",
+        "Postman Interceptor",
+        "Fiddler",
+        "dotPeek",
+        "SSRS",
+        "Crystal Reports",
+        "SSIS",
+        "Visual Studio",
+        "Team Foundation Server (TFS)",
+        "IBM Rational Team Concert (RTC)",
+        "GitHub",
+        "Git",
+        "RESTful services",
+        "Web API",
+        "XAML",
+        "Scripting"
+    ],
+    "experience": [
+        {
+            "title": "IT CONSULTANT",
+            "company": "Company Name – City, State",
+            "start_date": "2014-07",
+            "end_date": "2016-05",
+            "description": "Project: Document Generation Services for eviCore Healthcare. Responsibilities included developing core line of business application software, working with internal consumers to identify requirements, updating core internal services as a .NET developer, updating internal business logic with SQL, enhancing portals using Flesch-Kincaid-based enhancements, developing plugins with WCF/MVC Web API, implementing client-side scripting with JQuery, and serving as the primary developer for internal implementations and enhancements. Maintained production stability, monitored production services/servers, fixed high-priority production bugs, participated in production releases, and contributed to migrating business logic from database to a web service layer. Recently moved to the Application Support Team to handle production issues and perform root cause analysis. Environment included NET3.5, VS.NET2010, LINQ, C#, JSON, ASP.NET, MVC, TFS, SQL Server 2008/2012, IIS6, Restful services, JavaScript, Windows 7, AngularJS, Fiddler, dotPeek, Postman Interceptor."
+        },
+        {
+            "title": "IT Consultant",
+            "company": "Company Name – City, State",
+            "start_date": "2010-01",
+            "end_date": "2013-04",
+            "description": "Project: COMET for Landauer Inc. Responsibilities included developing and supporting AJAX, C#, JQuery and ASP.NET applications, using Oracle and SQL Server as data servers, implementing N-Tier architecture, separating presentation, business, and data access tiers, building complex web interfaces for reports, creating and consuming WCF services, leveraging Entity Framework (Database First), implementing client-side scripting with JQuery, using TFS/VSS/RTC for source control, and producing Excel/PDF reports. Additional work included creating RESTful WCF services, generating data access layers, and utilizing caching and session management. Environment covered C#, ASP.NET, CSS, SQL Server 2008/2012, Oracle 10g, IIS 7.0, JQuery, Kendo UI, ADO.NET, RESTful services, TFS, LINQ, Entity Framework."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "CSX Corporation – City, State",
+            "start_date": "2008-08",
+            "end_date": "2010-11",
+            "description": "Responsibilities included gathering requirements, design and implementation of web forms using ASP.NET and C#. Implemented HTML, DHTML, CSS and JavaScript for UI, built validation controls, user controls and custom controls, used AJAX/XAML for rich UI, designed and developed SQL Server databases (2005) with queries, stored procedures, indexes, triggers and cursors using ADO.NET and SSIS for data movement. Created Web Services (SOAP), generated XML exports/imports, implemented caching and security features, performed unit testing, and contributed to SSRS reporting. Environment included Visual Studio .NET 2005/2008, C#, ADO.NET, SQL Server 2005, SSIS, SSRS, XML, AJAX, XAML, JavaScript, VSS, Crystal Reports."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Computer Science",
+            "school": "University of Illinois at Springfield",
+            "year": "2014"
+        },
+        {
+            "degree": "Bachelor of Science: Computer Science and Engineering",
+            "school": "Jawaharlal Nehru Technological University",
+            "year": "2008"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

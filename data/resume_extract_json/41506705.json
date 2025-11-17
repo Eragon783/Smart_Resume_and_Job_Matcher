@@ -1,0 +1,104 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Mechanical Design Engineer with a proven track record in R&D, manufacturing, and project leadership. Proficient in CAD modeling and product development, with strong communication skills and a Lean manufacturing mindset. Experienced with Autodesk Inventor, AutoCAD, SolidWorks, and Revit; adept at collaborating across cross-functional teams to drive design improvements and process efficiencies.",
+    "skills": [
+        "Autodesk Inventor",
+        "AutoCAD",
+        "SolidWorks",
+        "Revit",
+        "CNC",
+        "Lathe",
+        "Laser",
+        "PDM",
+        "Microsoft Office",
+        "Windows",
+        "Linux",
+        "Lotus Notes",
+        "Mapics",
+        "Materials",
+        "Mechanical",
+        "Drafting",
+        "Programming",
+        "Project Management",
+        "Lean Manufacturing",
+        "Inventory",
+        "Shipping",
+        "Customer support",
+        "Reading blueprints",
+        "Engineering",
+        "Polishing"
+    ],
+    "experience": [
+        {
+            "title": "Mechanical Designer",
+            "company": "Company Name",
+            "start_date": "2011-10",
+            "end_date": "2017-01",
+            "description": "Design ammonia processing control units using Autodesk Inventor. Create working drawings for the shop floor. Update and advise on changes to P&ID as needed. Consult project managers on design changes. Solve problems on the shop floor. 5+ years of CAD modeling. Assisted with design of engineering projects, including products, parts and components. Read and interpreted blueprints and created engineering drawings and sketches. Collaborated with purchasing to obtain samples for process validation. Attended cross-functional product meetings to discuss sourcing, lead times, and production schedules. Managed continuous improvement projects aligned with category strategies."
+        },
+        {
+            "title": "AutoCAD Drafter and Lathe Operator",
+            "company": "Company Name",
+            "start_date": "2010-06",
+            "end_date": "2010-10",
+            "description": "Reverse engineered parts to create fabrication drawings. Maintained and updated drawings. Manufactured parts on the lathe. Polished parts to remove blemishes and cleaned parts for vacuum packing. Read and interpreted blueprints and created drawings and sketches. Used CAD programs to create detailed designs and specifications."
+        },
+        {
+            "title": "NC Programmer/Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2000-07",
+            "end_date": "2010-04",
+            "description": "Programmed parts using CNC software. Opened work orders for the shop floor. Printed drawings for work orders. Performed price quotes for outside work and ran CNC machines when needed."
+        },
+        {
+            "title": "Laser Operator",
+            "company": "Company Name",
+            "start_date": "1998-07",
+            "end_date": "2000-07",
+            "description": "Ran CNC programs on Trumpf Trumatic L260, L4030 laser and punch/laser systems. Performed maintenance to keep machines in excellent working condition."
+        },
+        {
+            "title": "Shear Operator",
+            "company": "Company Name",
+            "start_date": "1998-03",
+            "end_date": "1998-07",
+            "description": "Cut sheet metal blanks to size according to job requirements."
+        },
+        {
+            "title": "Polisher",
+            "company": "Company Name",
+            "start_date": "1997-05",
+            "end_date": "1998-03",
+            "description": "Deburred all parts and sharp edges."
+        },
+        {
+            "title": "Parts Sales/Commercial Sales Account Manager",
+            "company": "Company Name",
+            "start_date": "1987-02",
+            "end_date": "1997-02",
+            "description": "Opened and closed the store for business. Maintained the store safe. Kept parts inventory up to date and accurate. Served as Stores Commercial Sales Manager."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates of Applied Science in Computer Drafting and Design",
+            "school": "ITT Technical Institute",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "Trumpf Operator Course (February 25, 2000) - Trumpf Inc",
+        "Trumpf Laser Operator Course (June 18, 1999) - Trumpf Inc",
+        "Rotolas Training Course (February 25, 2000)",
+        "SolidWorks certificate",
+        "Advanced Custom Training Certification (MLC CAD SYSTEMS)",
+        "Productivity Enhancement - Lotus Notes",
+        "Power Plant Certifications (Aviation Maintenance - Power Plant) - Delgado Community College"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": "(318) 686-1783",
+    "location": "Shreveport, Louisiana, United States",
+    "summary": "Eight year military veteran with seven years of experience in the education field. Four years of experience teaching art throughout Caddo Parish. Art teaching experience includes serving gifted art students enrolled in the Talented Arts Program (TAP) throughout Caddo Schools. Also served as an Art teacher at Forest Hill Elementary and Judson Elementary. I also serve as an Art teacher for the Volunteers of America after school program at Forest Hill Elementary. I have been drawing and painting since elementary school. I also sell my private artwork as a freelance artist. In addition to my art & educational background I have over nine years of extensive business administration management experience. I am an optimistic, organized, dependable, problem solver with strong communication skills. Effective at building productive and positive working relationships with teachers and children from diverse backgrounds.",
+    "skills": [
+        "Budgets",
+        "Logistics",
+        "Contracts",
+        "Drivers",
+        "Invoices",
+        "Maintenance",
+        "Operations",
+        "Payroll",
+        "Customer Service",
+        "Database",
+        "Procurement",
+        "Purchasing",
+        "Receptionist",
+        "Retail Sales",
+        "Teaching",
+        "Accounting",
+        "Finance",
+        "Marketing",
+        "Painting",
+        "Problem Solving",
+        "Sales",
+        "Strong Communication Skills",
+        "Project Management",
+        "Human Resource Management",
+        "Training",
+        "Change Management",
+        "Business Management",
+        "Translation"
+    ],
+    "experience": [
+        {
+            "title": "Talented Arts Program Instructional Coordinator",
+            "company": "Talented Arts Program / TAP, Caddo Parish Schools",
+            "start_date": "2008-11",
+            "end_date": "Present",
+            "description": "Performs substitute teacher duties; travels to elementary, middle, and high schools teaching gifted TAP art students in small group settings; serviced TAP Art students at Shreve Island, Herndon, Judson Elementary, Keithville, Youree Drive Middle, Caddo Middle Magnet, Walnut Hill elementary/middle, Northwood, Magnet High, and Byrd High Schools. Establishes effective relationships with children across Caddo Parish Schools; implements conflict resolution strategies; creates lesson plans; grades papers and inputs grades into JPAMS; performs administrative duties; communicates effectively; addresses various learning styles; proactively manages social issues, discipline, and rewards."
+        },
+        {
+            "title": "CO-Owner/Transportation Logistics Manager",
+            "company": "Private Transportation and Logistics Company",
+            "start_date": "2000-10",
+            "end_date": "2007-12",
+            "description": "Reduced overhead costs; developed and managed weekly, monthly, and annual budgets for three semi-trucks and trailers; negotiated contracts and payroll; managed relationships between drivers, freight brokers, warehouses, and customers; implemented preventative maintenance programs; assigned workloads to transportation personnel; analyzed logistics strategies to generate profits; maintained customer satisfaction and on-time deliveries; communicated with suppliers, carriers, and customers via email; conducted research to attract new business."
+        },
+        {
+            "title": "Supply Logistics Manager and Customer Service Specialist",
+            "company": "United States Air Force – Andersen AFB / Barksdale AFB",
+            "start_date": "1992-09",
+            "end_date": "1999-07",
+            "description": "Provided customer service for all Air Force organizations stationed on Andersen and Barksdale AFBs; performed administrative and management functions; managed supply systems and activities including purchasing and back orders; processed hundreds of purchases daily; researched and procured stock items; input purchase requests to contracting for off-base procurement; managed department budgets and accounting to ensure purchases stayed within allotments; determined requirements and identified supplies and equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Management (MSM)",
+            "school": "Colorado Technical University",
+            "year": "2010"
+        },
+        {
+            "degree": "Master of Business Administration (MBA)",
+            "school": "Colorado Technical University",
+            "year": "2008"
+        },
+        {
+            "degree": "Bachelor of Science in Business Administration",
+            "school": "Colorado Technical University",
+            "year": "2007"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

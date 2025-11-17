@@ -1,0 +1,91 @@
+{
+    "name": "Paola Trejo",
+    "email": null,
+    "phone": null,
+    "location": "Mexico City, Mexico",
+    "summary": "Graphic Designer with experience in marketing coordination, translation, and web content management; skilled in branding, print production, and event planning.",
+    "skills": [
+        "Marketing",
+        "Clients",
+        "Ads",
+        "Basis",
+        "Sales",
+        "Translated",
+        "Solutions",
+        "Advertising",
+        "Brand Identity",
+        "Budgets",
+        "Dreamweaver",
+        "Flash",
+        "Freehand",
+        "Logo Design",
+        "Editorial Design",
+        "Web Design",
+        "Illustration",
+        "Illustrator",
+        "InDesign",
+        "Prepress",
+        "Promotional",
+        "PR",
+        "Public Relations",
+        "Graphic Design",
+        "Corporate Communications",
+        "Packaging",
+        "Point Of Purchase",
+        "POP",
+        "Proofreading",
+        "Branding",
+        "Content Management",
+        "Copy Writing",
+        "Event Planning",
+        "Front Desk",
+        "Marketing Collateral",
+        "Marketing Strategy",
+        "Receptionist",
+        "Tradeshow",
+        "Translating",
+        "Web Content Management"
+    ],
+    "experience": [
+        {
+            "title": "Graphic Designer",
+            "company": "Restaurant Consulting & Management Company",
+            "start_date": "January 2014",
+            "end_date": "Current",
+            "description": "Developing design solutions to communicate each of the restaurant's unique message and promoting the brand with high visual impact. Graphic design solutions for a variety of products and activities such as POP, websites, social media, email, promotions, product packaging, corporate communications & identity. Preparing, packaging & delivering production-ready art files. Creating creative templates for marketing needs. Proofreading to produce accurate and high-quality work especially under challenging deadlines."
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Various Clients - Design Print Materials",
+            "start_date": "January 2013",
+            "end_date": "Current",
+            "description": "Design print materials, such as logos, stationery, flyers, and postcards. Clients Include: Pembroke PR, Main Street Property Services, A grape in the Fog, Photoworks SF, Progressive Hounds, The Handler Brothers, Otis Beanery, Mitzvites, Pet Nanny, District Dogs, Dog Town, SuperFly Pet Supply, No Time for Cancer, Meridian Pro Audio and Promarket."
+        },
+        {
+            "title": "Marketing Coordinator, Latin America",
+            "company": "Professional Sound Manufacturer",
+            "start_date": "January 2008",
+            "end_date": "January 2013",
+            "description": " Worked directly with the Company's headquarters in Berkeley, CA. Coordinated with marketing team to brainstorm strategies and finalize marketing plans. Translated, maintained, and updated web content in Spanish on a monthly basis. Designed marketing materials, such as datasheets and brochures. Created ads for publication in SoundCheck Magazine. Wrote press releases. Coordinated and led interviews. Coordinated photo shoots. Managed relationships with vendors. Built and maintained productive relationships with customers. Planned and coordinated events, including trade shows and demos. Designed sales binder. Collaborated on creation of presentations in Keynote. Designed and distributed monthly newsletter, e-blasts, and invitations. Represented the company in corporate events, trade shows, marketing conferences and meetings."
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Mexico City Consumer Goods Advertising Agency",
+            "start_date": "January 2005",
+            "end_date": "January 2008",
+            "description": "Clients include: Rimmel London, Dannon, Sigma, Sally Hansen, Palmer's. Produce design solutions to communicate clients' messages with high visual impact for a variety of products & activities. Layout, image manipulation, and prepress production for offset and digital color output. Established design briefs and project time-lines. Coordinated with external agencies. Meeting clients to discuss their needs, objectives and budgets. Designing and creating a wide variety of graphic art and promotional material. Producing designs for both internal and external communications. Involving customers in the design process. Developing design briefs. Explaining design concepts and ideas to clients and colleagues. Providing graphical support for Blogs, websites and social media. Working on presentations, leaflets, trade-marks, marketing materials and banner designs. Producing accurate and high-quality design work. Examining design work for quality, consistency, and accuracy. Creating a consistent corporate and brand identity for clients. Preparing design files for production. Taking design ideas from generation through to completion. Generating multiple concepts for a campaign or project. Working on projects to strict timescales."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Graphic Design",
+            "school": "Universidad del Valle de México",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish (Native)",
+        "English"
+    ]
+}

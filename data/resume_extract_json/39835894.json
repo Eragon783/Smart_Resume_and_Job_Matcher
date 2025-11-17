@@ -1,0 +1,82 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Eleven years of experience in Analog, RF and Mixed Signal Layout Design at module and Chip levels for 180nm, 65nm, 45nm, 28nm TSMC, 14FF Samsung foundry and 10nm Intel. Experienced in planning, tracking and executing tasks to meet desired deadlines.",
+    "skills": [
+        "Analog Layout fundamentals",
+        "Device matching",
+        "shielding",
+        "Isolation",
+        "ESD",
+        "Latchup",
+        "Antenna",
+        "EM",
+        "DFM",
+        "Physical verification",
+        "K2Ver",
+        "Hercules",
+        "Caliber",
+        "Assura",
+        "ICCT",
+        "Chip Assembly Router",
+        "Aprisa",
+        "VSR",
+        "post layout parasitic extraction",
+        "Nucleus (TI internal tool for ESD and Latchup)",
+        "SPIRE (TI internal tool for EMIR analysis)",
+        "Voltrace (TI internal tool for High voltage checks)",
+        "Synchronicity",
+        "IC Manage",
+        "Gantt chart",
+        "Excel",
+        "Cadence",
+        "Data management",
+        "debugging",
+        "IQ",
+        "layout design",
+        "Linux",
+        "Windows",
+        " Solaris",
+        "Packaging",
+        "project management",
+        "quality",
+        "Real Time",
+        "Router",
+        "Meetings",
+        "Mentor"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Project Manager",
+            "company": "Aricent Inc.",
+            "start_date": "2012-12",
+            "end_date": "2017-06",
+            "description": "Led RF/Analog/mixed-signal layout projects for multiple nodes; managed a team of 6; used Gantt charts and Excel tracking; delivered WTR-RX/TX SYNTH in 14FF Samsung foundry and 28nm TSMC; mentored juniors; coordinated with US design teams and packaging; involved in tape-out processes and top-level layout tasks."
+        },
+        {
+            "title": "Senior Analog Layout Engineer",
+            "company": "Company Name",
+            "start_date": "2011-10",
+            "end_date": "2012-12",
+            "description": "Senior contributor to analog/RF layout projects with exposure to FinFET processes; mentored junior engineers and supported layout activities across multiple blocks."
+        },
+        {
+            "title": "Member of Technical Staff",
+            "company": "Company Name",
+            "start_date": "2006-06",
+            "end_date": "2011-09",
+            "description": "Early career role focusing on layout and design tasks; involved in module and chip level activities in analog/RF."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering in Electrical and Electronics",
+            "school": "Visvesvaraya Technological University",
+            "year": "2006"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

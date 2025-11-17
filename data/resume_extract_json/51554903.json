@@ -1,0 +1,117 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "An executive chef offering outstanding presentation, communication and cross-cultural team management skills. High-energy, results-oriented leader with an entrepreneurial attitude.",
+    "skills": [
+        "Budgeting",
+        "Gastronomic Technique",
+        "Development Coaching",
+        "Costing",
+        "Inventory",
+        "Associate Engagement",
+        "Networking",
+        "Purchasing",
+        "Quality Assurance",
+        "Scheduling",
+        "Excel",
+        "Word",
+        "Adobe",
+        "Brand Development",
+        "Butchery",
+        "Cost Control",
+        "Farmer Relationships",
+        "Mentor and Development of Culinary Talent",
+        "Recipe Research and Development",
+        "Ingredient Procurement",
+        "Culinary PR",
+        "PnL Management",
+        "Menu Development",
+        "Vendor Relations"
+    ],
+    "experience": [
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "Aug 2014",
+            "end_date": "Apr 2015",
+            "description": "Responsible for new opening hotel, assisted in development of all F&B concepts in this Boutique Hotel. Hire and train all culinary associates. Create all recipes and plate costing. Build Culinary PR for the new property. Operate PnL statements to align with projected budget. Work hands on with all culinary team for training and consistency of food quality."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "Oct 2013",
+            "end_date": "Aug 2014",
+            "description": "Responsible for new opening, development and implementing F&B Concepts for this luxury Boutique Hotel. Hottest Hotel to open in KC. Hire and train all F&B associates. Deliver World Class Luxury experience of food & beverage. Build Culinary PR for the new property. Modern Mediterranean Cuisine with seasonal inspiration using Midwest artisan farmers. High-end and volume, banquet and catering events forecasted 8 million F&B in the first year."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Company Name (Marriott Intl.)",
+            "start_date": "Jan 2012",
+            "end_date": "Oct 2013",
+            "description": "Responsible for opening, development and implementing all Brand initiatives for this full service 527 room hotel. B&F Strategy, Breakfast Program, R Life Events Conversion Union hotel to Renaissance Brand. Green zone ES results with Converted Property. Current #1 in Renaissance Brand Event Service. Developed and Opened Renaissance's premiere Elite Lounge #1 in Brand for Lounge. Improved Food Cost by 1 point to Budget. Member of Southwest Food & Beverage Council for the Americas."
+        },
+        {
+            "title": "Executive Sous Chef",
+            "company": "Company Name",
+            "start_date": "Jan 2010",
+            "end_date": "Jan 2012",
+            "description": "AAA Five-Diamond Resort. Responsible for all culinary outlets in the Resort to include BLT Steak (Celebrity Chef Laurent Tourondel), Rita's Kitchen, Sprouts, Hoppin Jacks, R-Bar, Golf Grill and Banquet Kitchen. Combined F&B revenue of $22 million annual. Manage a total of 9 Managers/Supervisors and 100 associates. Improved employee engagement score from 61% to 83% average or green zone for culinary. Maintain Guest Satisfaction Score in all F&B areas to be number 1-2 in Brand. Improved ESS score to #1 Hotel in the Brand for 2010. Assigned property Coach for \"BLT\" Training roll out, Arizona market. Responsible for all Quality Assurance Standards."
+        },
+        {
+            "title": "Senior Sous Chef",
+            "company": "Company Name",
+            "start_date": "Nov 2002",
+            "end_date": "Jan 2010",
+            "description": "Responsible for the development and implementation of all standard operating procedures for the food and beverage, in opening the hotel. Combined F&B revenue of $58 million annual. Responsible in creating seasonal menus. Developed Chef Garden to procure our own organic seasonal fruits & vegetables. Developed Chefs tasting table and interactive cooking Demo wine room for site visits, wine dinners and specialty events. Created and Executed Hands on Cooking Class for guest and catering events."
+        },
+        {
+            "title": "Sous Chef",
+            "company": "Company Name",
+            "start_date": "Mar 2002",
+            "end_date": "Oct 2002",
+            "description": "Hands on training of all culinary team in fine dining, Contemporary American Cuisine. Responsible for daily ordering with local farmers and purveyors. Creating new menu ideas and working as Chef Tournant. Worked in multiple outlets. Executing brunch, prix fixe menus, wine dinner and private parties for 25-100 people."
+        },
+        {
+            "title": "PM Sous Chef",
+            "company": "Company Name",
+            "start_date": "Mar 2001",
+            "end_date": "Mar 2002",
+            "description": "Responsible for scheduling, creating daily features, new menu selections. Purchasing and inventory of a wide variety of beef, game, seafood. Working with local purveyors and farmers."
+        },
+        {
+            "title": "Apprenticeship",
+            "company": "Four Star French restaurant - Daniel Boulud",
+            "start_date": "Nov 2000",
+            "end_date": "Feb 2001",
+            "description": "Worked directly with executive Chef Alex Lee. Executed daily specials and sauces using the freshest ingredients and Nuevo French techniques. Worked stations as needed, prep, cook, and plate throughout dinner service."
+        },
+        {
+            "title": "Lead Line Cook",
+            "company": "Company Name",
+            "start_date": "Feb 1998",
+            "end_date": "Feb 1999",
+            "description": "Work all stations. Sauté, fish and grill stations throughout dinner service. Responsible for daily specials. Menu costing for all Seasonal Changes. Butchery and Ordering."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts, Culinary Arts",
+            "school": "California Culinary Academy",
+            "year": 2001
+        },
+        {
+            "degree": "High School Diploma, Culinary Arts",
+            "school": "Metro Tech",
+            "year": 1999
+        },
+        {
+            "degree": "Mentorship in Tourism",
+            "school": "Phoenix Convention & Visitors Bureau",
+            "year": 1999
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

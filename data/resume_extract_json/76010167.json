@@ -1,0 +1,73 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To get a strong foothold on the career ladder by doing the best I can and more, with a company that supports teamwork and utilizes the abilities of its employees.",
+    "skills": [
+        "photo",
+        "Advertising",
+        "Arabic",
+        "artist",
+        "Arts",
+        "Art",
+        "Agency",
+        "basic",
+        "Good Communication skills",
+        "Computer literate",
+        "Creativity",
+        "database",
+        "Designing",
+        "Economics",
+        "English",
+        "Filling",
+        "French",
+        "Leadership skills",
+        "Math",
+        "Access",
+        "Excel",
+        "MS Office",
+        "PowerPoint",
+        "Word",
+        "organizing",
+        "paint",
+        "Physics",
+        "POS",
+        "Selling",
+        "Time management",
+        "typing skills",
+        "World Wide Web"
+    ],
+    "experience": [
+        {
+            "title": "Experience Designer",
+            "company": "Company Name",
+            "start_date": "02/2011",
+            "end_date": null,
+            "description": "Designing a Jewelry collection for brides show."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Fine Arts in Visual Communication",
+            "school": "American University in Dubai",
+            "year": 2009
+        },
+        {
+            "degree": "High School",
+            "school": "Al-Ma'arifa Private School",
+            "year": 2005
+        },
+        {
+            "degree": "IGCSE",
+            "school": "Rosary School",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English (fluent)",
+        "Arabic (fluent)",
+        "French (basic)"
+    ]
+}

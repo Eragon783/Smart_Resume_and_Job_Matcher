@@ -1,0 +1,50 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Talented media planner offering exceptional strengths in executing paid digital media campaigns and ensuring content is delivered to the right audience segments. Detail-oriented and highly organized with track record of exceeding clients expected key performance metrics by constantly analyzing results and implementing digital media best practices.",
+    "skills": [
+        "Google Search",
+        "Display",
+        "Mobile",
+        "Video Campaigns",
+        "Google Analytics",
+        "Measurement & Tracking",
+        "Facebook Business Manager",
+        "Ads Manager & Power Editor",
+        "Copywriting"
+    ],
+    "experience": [
+        {
+            "title": "Digital Media Manager",
+            "company": "Company Name",
+            "start_date": "11/2015",
+            "end_date": "Present",
+            "description": "Responsible for executing all paid media campaigns across digital platforms including Google, Facebook and Instagram. Delivered monthly client reports analyzing the overall effectiveness of paid media campaigns. Perform ad-hoc assignments as needed including market research and uncovering relevant data to drive campaign success. Continuously demonstrated ability to maintain and adhere to client budget while meeting expected KPI's."
+        },
+        {
+            "title": "Business Manager",
+            "company": "Company Name",
+            "start_date": "04/2015",
+            "end_date": "10/2015",
+            "description": "Responsible for introducing Fetch Rewards mobile application to Puerto Rico market to analyze adoption rate. Implemented and installed first successful hardware at POS lanes in Selectos Los Prados. Executed digital & guerilla marketing strategy to increase users and demonstrated ability to run a succesful pilot program. Trained store employees, managers & executives on the use of mobile application."
+        },
+        {
+            "title": "Account Executive & Digital Media Manager",
+            "company": "Company Name",
+            "start_date": "08/2014",
+            "end_date": "04/2015",
+            "description": "Handled multiple client accounts for Search in 3D including account management, digital adverstising budgets & monthly reports. Effectively created english & spanish copy for clients social feeds including but not limited to facebook & instagram. Demonstrated ability to work individually on assigned tasks and as a team player creating new campaign ideas & proposals."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Finance & Entrepreneurship",
+            "school": "Northeastern University",
+            "year": "2012"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

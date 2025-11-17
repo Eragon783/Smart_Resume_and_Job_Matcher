@@ -1,0 +1,105 @@
+{
+    "name": "Sagun Pandey",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Over 3 years of experience in software development lifecycle across analysis, design, prototyping, development and testing using Java/J2EE. Strong OOP, data structures, algorithms, design patterns and distributed systems. Experience in backend development with Spring (Core, AOP, MVC, Security, Data, Transaction Management) and microservices (Spring Boot, REST, Cloud). Proficient in web interfaces (HTML5, CSS3, Bootstrap, SASS/LESS, JavaScript, jQuery, AngularJS, ReactJS, BackboneJS). Working knowledge of SQL databases (MySQL, PostgreSQL, Oracle) and NoSQL (MongoDB). Experienced in Agile/Scrum, version control (SVN, Git), Selenium, Java, Cucumber, and build/CI tools (Ant, Maven, Gradle, Jenkins). Strong communication and documentation skills; capable in both team-based and self-managed projects.",
+    "skills": [
+        "Java/J2EE",
+        "JavaScript",
+        "Android",
+        "HTML",
+        "CSS",
+        "SQL",
+        "C",
+        "Spring",
+        "Restful Web Services",
+        "Hibernate",
+        "AngularJS",
+        "ReactJS",
+        "jQuery",
+        "Bootstrap",
+        "Selenium WebDriver",
+        "Cucumber",
+        "MySQL",
+        "PostgreSQL",
+        "Oracle",
+        "MongoDB",
+        "H2",
+        "Gradle",
+        "Maven",
+        "Ant",
+        "Agile/Scrum",
+        "Waterfall",
+        "TDD",
+        "Clean Coding",
+        "Continuous Delivery",
+        "Microservices",
+        "Single Page Application",
+        "REST",
+        "Client/Server",
+        "SVN",
+        "Git",
+        "AWS",
+        "Bower",
+        "Grunt",
+        "Npm",
+        "Node",
+        "JSON",
+        "XML",
+        "Jenkins",
+        "Eclipse",
+        "IntelliJ",
+        "Android Studio",
+        "Linux",
+        "Windows",
+        "HTML5",
+        "CSS3",
+        "SASS",
+        "LESS"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Intern (Test Automation Engineer)",
+            "company": "Company Name",
+            "start_date": "05/2017",
+            "end_date": "08/2017",
+            "description": "Created a Test Automation Framework to execute automation scripts. Enabled automated regression testing of WebTix frontend (AngularJS) used by ExtremeTix's clients. Used Selenium WebDriver and Spring Boot to write automation scripts; implemented Page Object Model; data-driven and behavior-driven approaches (Cucumber). Integrated automated tests with Jenkins and Selenium Grid for parallel cross-browser execution. Generated automated reports and translated manual test cases into regression suites. Trained QA team and documented framework usage; used JIRA to track tasks."
+        },
+        {
+            "title": "Java Full Stack Developer",
+            "company": "Company Name",
+            "start_date": "05/2014",
+            "end_date": "06/2016",
+            "description": "Developed multi-tier Java applications using Java/J2EE and Spring (MVC, AOP, DAO, JDBC, Transaction, Validation, JSON, XML). Implemented SOA principles; data access via Spring Data JPA and Hibernate; developed REST web services for external integration. Built a Java SDK and drivers for a card reader on Linux. Researched NFC/Mifare/DESFire for projects. Implemented core software for QMS and VMS, including plugin architecture and interfaces; UI built with JS, JSP, HTML, CSS, Bootstrap, AngularJS and ReactJS. Built mobile apps for real-time monitoring using PhoneGap/Titanium. Used Git and OpenERP; involved in client interactions and technical proposals."
+        },
+        {
+            "title": "Java Developer Intern",
+            "company": "Company Name",
+            "start_date": "03/2014",
+            "end_date": "05/2014",
+            "description": "Core Java programming with multithreading, exception handling, file IO and collections. Developed the MRP Reading Module (backend and frontend) using Java 1.7 and Swing; JDBC for SQL Server. Backend development and optimization of the Nepal Tourism Board site; bug fixes, code enhancements, and maintenance. Prepared test plans and implemented unit tests with JUnit."
+        },
+        {
+            "title": "Software Developer Intern",
+            "company": "Company Name",
+            "start_date": "01/2013",
+            "end_date": "10/2013",
+            "description": "Designed and developed PHP/MySQL applications using CodeIgniter. Built a CMS-like system; created a file-crawler app to sort and remove duplicates. Built data entry forms in HTML with PHP. Trained in Agile methodologies and OOP; version control with Git; used OpenERP for project management. Implemented and hosted prototype systems on test servers; contributed to documentation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science : Computer Science",
+            "school": "Lamar University",
+            "year": 2017
+        },
+        {
+            "degree": "Bachelor of Engineering : Electronics and Communication Engineering",
+            "school": "Tribhuvan University",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

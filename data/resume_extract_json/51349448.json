@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Looking for a position as an illustrator in a company where my knowledge and skills can be utilize and enhance. Highlights: Microsoft Word, Excel, Photoshop CS6; Internet savvy; Conceptual thinker; Strong leadership abilities; Team player. Time Management; Strong design sense; Highly organized and quick learner; Creative and Artistic.",
+    "skills": [
+        "Microsoft Word",
+        "Excel",
+        "Photoshop CS6",
+        "Internet savvy",
+        "Conceptual thinker",
+        "Leadership",
+        "Team player",
+        "Time Management",
+        "Design",
+        "Strong design sense",
+        "Highly organized",
+        "Quick learner",
+        "Creative",
+        "Artistic"
+    ],
+    "experience": [
+        {
+            "title": "Sales Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "03/2016",
+            "end_date": "Current",
+            "description": "Able to operate material handling equipment; tint paint and match colors when applicable; operate a computer and communicate via telephone; good written and verbal communication; strong customer service including problem solving and handling customer complaints; slightly hearing impaired."
+        },
+        {
+            "title": "Security Guard",
+            "company": "Company Name, City, State",
+            "start_date": "03/2016",
+            "end_date": "Current",
+            "description": "Secures premises and personnel by patrolling property; monitors surveillance equipment; inspecting buildings, equipment, and access points; permitting entry; prevents losses and damage by reporting irregularities; informing violators of policy and procedures; restraining trespassers; controls traffic by directing drivers; completes reports by recording observations, information, occurrences, and surveillance activities."
+        },
+        {
+            "title": "Maintenance chief",
+            "company": "Company Name, City, State",
+            "start_date": "02/2008",
+            "end_date": "02/2016",
+            "description": "In charge of the daily maintenance operation of preventive and corrective services for all of Alameda's/Hawaii Amphibious equipment; record keeping of twenty 55 horsepower outboard engines; managed 9 people to effectively implement their positions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "General Education",
+            "school": "Santa Rosa Junior College",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Fine Art",
+            "school": "Academy of Art University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Sea Service Deployment Medal",
+        "Good Conduct Medal",
+        "NATO Medal - ISAF Afghanistan",
+        "Global War on Terrorism Afghanistan and Campaign Medal",
+        "National Defense Service Medal"
+    ],
+    "languages": []
+}

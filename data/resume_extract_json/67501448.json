@@ -1,0 +1,71 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dynamic and creative Business Development Coordinator with a successful career in marketing,promotions,public relations,project and communications management. Highlights Event Management Negotiation skills Customer Targeting Polyglot Social Networking Online Marketing Strategies Â Teamwork Problem Solver Skills Responsible and reliable,Highly motivated for career advancement,Able to deal in a mature manner with problem solving,Willing to learn and accept constructive criticism,Willing to help,Good attitude around others,Calm and focused,Good knowledge of social media,Able to use own initiative and work as part of a team,Excellent communication and organizational skills,Versed in all aspects of marketing campaigns from concept development to execution and launch,Skilled marketing professional focused on exceeding revenue goals,Builder of strategic partnership,New customer acquisition expert who emphasizes a mix online and offline marketing strategies.",
+    "skills": [
+        "Event Management",
+        "Negotiation",
+        "Customer Targeting",
+        "Polyglot",
+        "Social Networking",
+        "Online Marketing Strategies",
+        "Teamwork",
+        "Problem Solving",
+        "Good knowledge of social media",
+        "Initiative and teamwork",
+        "Excellent communication and organizational skills",
+        "Marketing campaigns from concept to execution",
+        "Revenue growth and goals",
+        "Strategic partnerships",
+        "New customer acquisition"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Coordinator/Event Coordinator",
+            "company": "Company Name",
+            "start_date": "November 2013",
+            "end_date": "Current",
+            "description": "Identify Customer care needs. Networking during events and established good and strong relations, in particular with the main Business associations and Companies of the city. Screen potential Business deals by coordinating requirements,developing and negotiating contracts,integratingcontract requirement with business operations. Co-develop and implement strategic marketing.Identify specific opportunities to direct marketing efforts toward particular based practices areas and clients.Deal with the Chamber of Commerce and The Italian Consulate.Researching markets to identify opportunities for events.Leasing with clients to ascertain their precise event requirements.Producing detailed proposal for events.Agreeing to,and managing a budget.Identify professional and trade associations with which the company should affiliate.Assist with the development of proposals and responses.Identify and evaluate cross-marketing prospects, assist with cross-marketing initiatives, and track success ratio.Coordinate content for web, print materials, bc logo etc. Update and edit firm-wide business development materials (including brochures, email alerts and website). Collaborate with others in the marketing department to ensure integrity of the firm brand. Protects organization's value by keeping information confidential. Update job knowledge by participating in educational opportunities,reading professional publication,maintaining personal networks, participating in professional organization. Enhance organization reputation by accepting ownership for accomplishing new and different requests, exploring opportunities to add value to job accomplishments. If Needed Assistant Manager in Opening/Closing of the restaurant."
+        },
+        {
+            "title": "Dental Hygienist",
+            "company": "Company Name",
+            "start_date": "January 2008",
+            "end_date": "October 2013",
+            "description": "Prepares treatment room for patient by adhering to prescribed procedures and protocols. Prepares patient for dental hygiene treatment by welcoming, soothing, seating, and draping patient. Provides information to patients and employees by answering questions and requests. Maintains instrumentation for dental hygiene treatment by sharpening, sterilizing, and selecting instruments. Completes dental prophylaxis by cleaning deposits and stains from teeth and from beneath gum margins. Detects disease by completing oral cancer screening; feeling and visually examining gums; using probes to locate periodontal disease and to assess levels of recession; exposing and developing radiographic studies. Arrests dental decay by applying fluorides and other cavity- preventing agents. Maintains patient appearance and ability to masticate by fabricating temporary restorations; cleaning and polishing removable appliances; placing, carving, and finishing amalgam restorations; removing cement from crowns and bridges. Educates patients by giving oral hygiene and plaque control instructions and postoperative instructions;providing reminders of time of next dental hygiene visit. Documents dental hygiene services by recording vital signs and medical and dental histories; charting inpatient records. Maintains patient confidence and protects operations by keeping information confidential."
+        },
+        {
+            "title": "Waitress/Bartender/Cashier/Floor Manager",
+            "company": "DUE srl",
+            "start_date": "October 2003",
+            "end_date": "August 2008",
+            "description": "Customer care. Assigned tasks to associates, staffed projects, tracked progress and suggest new ideas. Planned and executed events and marketing programs. Developed and executed marketing programs and general business solutions resulting in increased company exposure, customer traffic, and sales. Cash out. monthly meeting with the staff and owners. Mix and serve drinks to customers directly or through waitstaff. Take orders and serve food and beverages. The DUE srl was a company of multiple business in Turin (ITALY): GRAN BAR Piazza Gran Madre di Dio,2 (Wine Bar) HAFA CAFE' Via Sant'Agostino, 23/C (Moroccan Bar) JAM CLUB Via Murazzi del Po,19 (Bar-DiscoNightclub) ROCK CITY Corso Dante Alighieri, 19 (DiscoNightclub) Cashier and Bar Coordinator during big music events, 12/2006 to 10/2011 Movement Torino Music Festival - Turin Italy Under the direction of the immediate supervisor, I was coordinating cashier and bar services. Organize, distribute and verify the work of others. Administrative and accounting duties. Resolve cashier and Bar problems. The Movement Torino Music Festival is a big event usually attended by 6000-15000 people."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma in Foreign Languages",
+            "school": "LICEO LINGUISTICO EUROPEO CADORNA",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelor of Science in Dental Hygiene",
+            "school": "Università degli Studi del Piemonte Orientale Amedeo Avogadro, Novara, Italy",
+            "year": 2007
+        },
+        {
+            "degree": "Master in Social Media and Digital Marketing",
+            "school": "Turin, Italy",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Italian",
+        "English",
+        "Spanish",
+        "French"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "High-performing Senior Director of Finance with management experience, and exceptional people skills. Versed in strategic planning, financial analysis and project management.",
+    "skills": [
+        "Premier",
+        "streamline",
+        "book",
+        "business plan",
+        "communication skills",
+        "concise",
+        "data analysis",
+        "data collection",
+        "decision support",
+        "delivery",
+        "designing",
+        "documentation",
+        "Employee Relations",
+        "senior management",
+        "Finance",
+        "Financial",
+        "Home Office",
+        "Insurance",
+        "investments",
+        "Leadership",
+        "Market",
+        "Meetings",
+        "messaging",
+        "Access",
+        "Excel",
+        "office",
+        "PowerPoint",
+        "presentations",
+        "pricing",
+        "process engineering",
+        "process improvement",
+        "project planning",
+        "reporting",
+        "strategy",
+        "strategic",
+        "strategic planning",
+        "Underwriting",
+        "Visio",
+        "Workbench",
+        "workflow",
+        "TM1",
+        "SNL",
+        "AM Best"
+    ],
+    "experience": [
+        {
+            "title": "Senior Director of Finance",
+            "company": "Company Name, City, State",
+            "start_date": "2012-05",
+            "end_date": "2016-02",
+            "description": "Managed a team responsible for timely and accurate reporting for Commercial Accounts ($3.5BN) and Middle Market ($7BN) monthly and quarterly production results, including preparing Senior Leadership for Investor Days, Earnings Releases, and Shareholder Meetings. Led projects including coordination and consolidation of the annual plan, the annual field compensation process, and served as the finance representative on a long-term strategic operating model project. Drove CFO and Sr. Leadership directed projects to support evolving business needs, including the development of an audit estimation process across Middle Market, implementing a new profitability measure for detailed segmentation of the Middle Market, and realigning the geographical footprint of the business to drive results and synergy across business units. Utilized analytical and communication skills across multiple levels of the organization, with ability to understand details and summarize key findings."
+        },
+        {
+            "title": "Director of Strategic Initiatives",
+            "company": "Company Name, City, State",
+            "start_date": "2009-06",
+            "end_date": "2012-05",
+            "description": "Developed strategy, identified priorities, and established business cases across and within the businesses to enable successful delivery of strategic activities and investments. Projects included redesigning underwriting documentation across Business Insurance, developing solutions to improve regulatory pricing documentation across Business Insurance, and streamlining the staff and process for Global Underwriting. Collaborated with leaders to change the business and operating models by determining ways to re-tool, re-align, re-organize, or create efficiencies. Provided continuous support to senior management on planning, execution, market-specific needs, and challenges with fact-based decision support and clear messaging through meetings and presentations."
+        },
+        {
+            "title": "Process Improvement Engineer",
+            "company": "Company Name, City, State",
+            "start_date": "2006-07",
+            "end_date": "2009-06",
+            "description": "Completed a Liquid Petroleum Gas market study for National Programs identifying 10 new states for expansion, equating to an estimated $12 million in premium. Conducted an Account Manager job-assessment for Northland Insurance to establish metrics for 18 Account Managers on a monthly basis. Worked with Management to develop performance metrics through project planning, data collection, process documentation, analysis, recommendations, and final report presentation. Managed an Architects & Engineers process improvement project to simplify the A&E work environment, including a division of labor analysis and identification of opportunities. Led an Employee Relations process improvement project with interviews, workflow documentation, and over 80 improvement opportunities included in the 2008 business plan. 1st Rotation: Home Office Assistant Regional Financial Officer for Domestic Companies provided financial and strategic planning analytical support to the Domestic Financial Officers in Travelers of Florida, Travelers of New Jersey and Premier; visited field offices monthly, serving as liaison between Domestic Companies and the Home Office."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science, Economics and Finance",
+            "school": "Bentley College",
+            "year": "2006"
+        },
+        {
+            "degree": "MBA",
+            "school": "University of Connecticut Graduate School",
+            "year": "2012"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

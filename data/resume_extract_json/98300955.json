@@ -1,0 +1,116 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A driven technology professional with software architecture and development background and a passion for Agile methodologies. I enjoy designing and developing platforms consisting of web applications and services that help businesses innovate and stay competitive. Accomplishments Over 8 years of experience architecting and developing data-intensive web-based applications and services with expert level proficiency in middle tier and Service Oriented Architecture (SOA) and functional proficiency in data and presentation tiers. Experienced with designing and developing horizontally scalable, secure and reliable multi-tenant web applications delivered in a SaaS model. Proven success in working with dynamic startups as well as medium to large organizations. Adept at navigating technical and non-technical challenges through use of excellent communication skills, creativity and practical knowledge. Experience collaborating on cross-functional agile teams that include Product Development, Product Owners, Quality Assurance and DevOps. Proven record of collaborating with internal and external (e.g. customers, vendors, partners and regulatory entities) team members.",
+    "skills": [
+        ".NET",
+        "ASP.NET",
+        "Active Directory",
+        "Agile",
+        "AJAX",
+        "API",
+        "Architect",
+        "BI",
+        "business intelligence",
+        "CSS",
+        "HTML",
+        "IIS",
+        "Information Systems",
+        "Information Technology",
+        "IT Strategy",
+        "ITIL",
+        "Java",
+        "JavaScript",
+        "Linux",
+        "Mac",
+        "Windows",
+        "C#",
+        "MVC",
+        "Object Oriented Programming",
+        "SQL",
+        "SQL Server",
+        "T-SQL",
+        "UML",
+        "Visual Studio",
+        "Scrum",
+        "Scripting",
+        "Telephony",
+        "Data Warehouse",
+        "Databases",
+        "Database",
+        "Eclipse",
+        "Electronic Medical Records",
+        "Exchange",
+        "Gateway",
+        "Web applications",
+        "Website",
+        "Websites",
+        "Order management",
+        "Product Development",
+        "Quality Assurance",
+        "Research",
+        "Retail",
+        "Servers",
+        "Modeling",
+        "Networking",
+        "Enterprise"
+    ],
+    "experience": [
+        {
+            "title": "Platform Architect",
+            "company": "Healthcare Incubation Lab (HIL) / Premera Blue Cross",
+            "start_date": "2015-01",
+            "end_date": "Present",
+            "description": "Led and collaborated with enterprise solution delivery teams in all phases—from ideation to iterative delivery. Collaborated in design and development of an API platform enabling data exchange with external EMRs and internal line of business applications. Provided guidance on current technology landscape and advised management on purchasing third-party products and engaging external vendors. Architected, integrated and managed Okta IDaaS enabling all web applications and web services to follow consistent patterns for integrating with external and internal identity providers. Performed security code reviews and web application security testing such as penetration testing to identify and remedy exploits, strengthening security posture. Integrated open source and commercial security penetration tools (Burp Suite, OWASP ZAP) in the CI/CD pipeline to automatically test deployments for common web exploits."
+        },
+        {
+            "title": "Solution Architect, Enterprise Architecture & IT Strategy",
+            "company": "Premera Blue Cross",
+            "start_date": "2014-04",
+            "end_date": "2015-01",
+            "description": "Collaborated in the design and development of a telephony and analytics solution using a complex orchestration of web services to target customers for specialized care management. As an internal technology consultant specializing in SOA, helped teams adopt industry standards to improve code reuse and reduce delivery times. Participated in a core workgroup defining templates for high-level and detailed design documents to ensure consistency across projects. Worked with program managers, project managers, solution architects, enterprise architects and management to align milestones and plans. Assisted delivery teams with adopting Agile Scrum & Kanban practices to improve customer satisfaction and reduce delivery time."
+        },
+        {
+            "title": "Application Architect, Research & Development",
+            "company": "PriceMetrix",
+            "start_date": "2013-01",
+            "end_date": "2014-04",
+            "description": "Led development of a flagship SaaS platform delivering business intelligence analytics to large North American financial institutions. Built a highly available web application used by about 35,000 financial advisors daily, contributing to ~30% annual revenue growth. Designed and implemented SSO with SAML 2.0, ADFS 2.0, WIF and STS to support multiple clients with disparate authentication systems. Conducted daily standups with technology and business teams to customize and integrate analytics applications within client order management dashboards."
+        },
+        {
+            "title": "Software Developer, Research & Development",
+            "company": "PriceMetrix",
+            "start_date": "2010-04",
+            "end_date": "2013-01",
+            "description": "Developed data services for the core platform to replace stored procedures and functions, enabling web applications to orchestrate complex functionality and reduce solution development time by about 50% (4 months vs 8 months previously). Built custom integrations between legacy systems and new applications to provide a seamless customer experience. Ported a data warehouse and data marts to automate database deployment and enable source control, reducing build and deployment times by ~85%."
+        },
+        {
+            "title": "Enterprise Application Developer, Information Systems",
+            "company": "OACCAC (Ontario Association of Community Care Access Centres)",
+            "start_date": "2009-09",
+            "end_date": "2010-04",
+            "description": "Created high-quality software within IT services, including AJAX web-parts and custom controls for CHRIS and HPG healthcare applications. Helped deploy CruiseControl to automate builds and deployments, reducing cycle times by ~70%."
+        },
+        {
+            "title": "Software Developer, IT Services",
+            "company": "OACCAC",
+            "start_date": "2008-09",
+            "end_date": "2009-09",
+            "description": "Developed and improved applications for the IT Services team, including websites for 14 client CCACs and a complex content management system. Integrated CMDB with Windows Management Instrumentation (WMI) for automated alerts to infrastructure teams."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering (B.Eng), Systems & Computer Engineering (Honours Program)",
+            "school": "University of Guelph",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        "ITIL v3 Training",
+        "TOGAF 9 Level 1 Training"
+    ],
+    "languages": []
+}

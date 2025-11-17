@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Policy Service Specialist III with proven ability to negotiate and resolve escalated complaints, strong leadership and communication skills, and extensive knowledge of DMV/auto insurance across CA, TX, NM and claims reporting. Experienced in call center management, portal insurance systems (PRIME, HUON, Claims Portal, PEPSC), Microsoft Suite, and cross-state auto/home/umbrella insurance; able to drive process improvements and deliver high member satisfaction.",
+    "skills": [
+        "Negotiation and resolution of escalated complaints",
+        "Call center management",
+        "DMV, Automotive, CA, TX, NM insurance",
+        "Claims reporting",
+        "Portal Insurance operating systems: PRIME, HUON, Claims Portal, PEPSC",
+        "Microsoft Office Suite",
+        "Professional verbal and written communication",
+        "Leadership",
+        "Coaching and staff development",
+        "Time management",
+        "Organizational and multi-tasking",
+        "Customer service oriented",
+        "Process improvement",
+        "Knowledge of wage/hour and labor law"
+    ],
+    "experience": [
+        {
+            "title": "Policy Service Specialist III",
+            "company": "Company Name",
+            "start_date": "2006-11",
+            "end_date": "2010-06",
+            "description": "Proficient in providing world-class member service in a high-volume call center; assisted supervisors with call monitoring and peer coaching; continued education across three states for membership, California auto, collector car, home, assigned risk, and umbrella insurance; enhanced service to members."
+        },
+        {
+            "title": "Co-Owner/Manager",
+            "company": "Company Name",
+            "start_date": "2005-08",
+            "end_date": "2006-09",
+            "description": "Managed a staff of seven barbers and beauticians; interviewing, license verification, and hiring; advertised/promoted the salon; built client relationships to gain loyalty."
+        },
+        {
+            "title": "Supervisor of the Call Center and the Travel Production Center",
+            "company": "Company Name",
+            "start_date": "2012-05",
+            "end_date": "2013-12",
+            "description": "Coached and developed staff to ensure continual education and self-esteem; fostered service culture; communicated with team through meetings; empowered agents to handle escalated issues; managed up to 21 agents; integrated Travel Production Center with task force for permanent process improvements; analyzed call activity and identified opportunities to improve the member experience."
+        },
+        {
+            "title": "Accomplishments",
+            "company": "Company Name",
+            "start_date": "2005-01",
+            "end_date": "2006-01",
+            "description": "Communicated with insureds, banks, mortgagees, and lien holders; explained benefits and changes; re-underwrote policies to comply with underwriting guidelines; reviewed policy contracts; answered questions regarding deductibles."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma, Education Child Development/Psychology",
+            "school": "Los Angeles Harbor College",
+            "year": 2004
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "San Pedro Senior High School",
+            "year": 1999
+        }
+    ],
+    "certifications": [
+        "Personal Lines Broker-Agent"
+    ],
+    "languages": []
+}

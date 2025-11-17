@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Software Engineer with 3+ years of experience (2010-2014) in the development, support and enhancement of web and Windows applications using ASP.NET, C#, PL/SQL and SQL Server/Oracle. Experienced with Business Objects XI 3.1, data analysis, application hosting, and ITIL-aligned processes. Proficient in web-based tools development, SOW/SLA tracking, and cloud familiarity (Azure). Strong debugging, problem-solving, and customer-focused delivery.",
+    "skills": [
+        ".NET 3.5",
+        "ASP.NET 3.5",
+        "ASP.NET 2.0",
+        "C#",
+        "C# 3.0",
+        "PL/SQL",
+        "JavaScript",
+        "HTML 4",
+        "HTML",
+        "CSS",
+        "CSS 2",
+        "AJAX",
+        "AngularJS",
+        "Business Objects XI 3.1",
+        "Business Objects XI 3.1 Universe Designer",
+        "Desktop Intelligence",
+        "Central Management Console",
+        "SQL Server 2008",
+        "Oracle 9i",
+        "Oracle database",
+        "TOAD",
+        "HP Service Manager",
+        "WinSCP",
+        "PuTTY",
+        "PM Smart",
+        "vi",
+        "Visual SourceSafe",
+        "Visual Studio",
+        "IIS 7.0",
+        "ITIL",
+        "Windows",
+        "Windows 98",
+        "Windows 2000",
+        "Windows Server 2005",
+        "UNIX",
+        "WPF",
+        "XAML",
+        "Azure"
+    ],
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "company": "Company Name",
+            "start_date": "2010-07",
+            "end_date": "2014-03",
+            "description": "Development, support and enhancement of web and Windows applications; designed and developed web-based tools in ASP.NET 3.5 using C# and PL/SQL; enhanced E-Business applications; analyzed codes and provided solutions using SQL and Business Objects XI 3.1; awarded for outstanding performance and on-time delivery; knowledge in Windows Presentation Foundation and AngularJS; basic understanding of moving applications to Microsoft Azure."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name, City",
+            "start_date": "2013-01",
+            "end_date": "2014-03",
+            "description": "Led development of SOW Tracker and SLA Tracker web-based tools; collaborated with IT vendors and LBG; hosted applications in IIS 7.0; used ASP.NET 3.5, C#, PL/SQL, HTML, AJAX, CSS; used SQL Server, Visual Studio and Visual SourceSafe; created data capture, reporting and integration features; contributed to project delivery and documentation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering",
+            "school": "Easwari Engineering College",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "ITIL ASM Basic (RTB Business Academy) Oct 2011",
+        "Windows and Web Application Development using .Net Framework (NIIT Ltd) Jan 2010"
+    ],
+    "languages": []
+}

@@ -1,0 +1,64 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [
+        "Microsoft Office Suite",
+        "Venture Capital",
+        "Financial Modeling",
+        "Entrepreneurship",
+        "Mentoring",
+        "Education",
+        "Basketball",
+        "Strength Training",
+        "Java",
+        "Excel",
+        "Big Data",
+        "Data Analysis",
+        "Corporate Finance",
+        "Merger & Acquisitions",
+        "Content Development",
+        "Databases",
+        "Statistical Analysis",
+        "Strategy",
+        "Networking",
+        "Credit",
+        "Finance"
+    ],
+    "experience": [
+        {
+            "title": "Digital M&E Research Intern",
+            "company": "Unknown",
+            "start_date": "May 2016",
+            "end_date": "August 2016",
+            "description": "Refined quantitative and qualitative data in order to optimize business products for individual project managers. Evaluated Big Data to generate fundamental frameworks being utilized to normalize product data across all entertainment brands."
+        },
+        {
+            "title": "Business Development Intern",
+            "company": "TheStreet, Inc.",
+            "start_date": "May 2015",
+            "end_date": "August 2015",
+            "description": "Analyzed daily and monthly partnership costs in order to determine day to day changes on cost structure of partnerships. Proposed and presented 5 new key partnerships that will be pivotal for the transition phase into TheStreet, Inc.'s Financial Content Network 2.0."
+        },
+        {
+            "title": "Loans & Credit Card Intern",
+            "company": "Banco del Austro",
+            "start_date": "July 2014",
+            "end_date": "August 2014",
+            "description": "Implemented statistical analysis of data using Excel, focusing on customer and bank databases such as credit card purchases, POS system, customer information, and customer complaints. Completed and filed paperwork for loan department."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Economics and Management",
+            "school": "The Wharton School, University of Pennsylvania",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

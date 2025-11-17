@@ -1,0 +1,61 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Jacksonville, Florida",
+    "summary": "Graphic Designer and Illustrator with experience designing wedding correspondence for a custom paper company; raised in a Christian home in Jacksonville, Florida and studied at Samford University.",
+    "skills": [
+        "Creative",
+        "Relational",
+        "Engaging",
+        "Painting/Drawing",
+        "Graphic Design",
+        "Leader",
+        "Athletic",
+        "Team Player"
+    ],
+    "experience": [
+        {
+            "title": "Graphic Designer and Illustrator",
+            "company": "Company Name",
+            "start_date": "September 2015",
+            "end_date": "Current",
+            "description": "A custom paper company designing primarily wedding correspondence."
+        },
+        {
+            "title": "Sigma Counselor",
+            "company": "Company Name",
+            "start_date": "May 2015",
+            "end_date": "August 2015",
+            "description": "Counselor."
+        },
+        {
+            "title": "Counselor",
+            "company": "Company Name",
+            "start_date": "June 2012",
+            "end_date": "July 2013",
+            "description": "Counselor."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Post Graduate Leadership Program",
+            "school": "Briarwood Fellows Program",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Science: Fine Arts",
+            "school": "Samford University",
+            "year": 2015
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Providence High School",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

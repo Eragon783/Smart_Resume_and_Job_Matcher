@@ -1,0 +1,152 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Proactive Project Manager experienced in managing a variety of construction teams and projects. Successful in creating effective communication between personnel, general contractors and the management team. Highlights MS Office proficient Organized and detail-oriented Superb management skills Project budgeting Building codes and regulations Permit processing Safe job site set-up Blueprint fluency Power and hand tool operation Residential construction specialist Cost control Baseline schedules creation",
+    "skills": [
+        "account management",
+        "Active directory",
+        "Adobe",
+        "backup",
+        "budgets",
+        "Business Analysis",
+        "Cisco",
+        "Client and Server",
+        "coaching",
+        "hardware",
+        "CPR",
+        "client",
+        "customer satisfaction",
+        "Databases",
+        "Documentum",
+        "e-mail",
+        "First Aid",
+        "functional",
+        "hiring",
+        "internet access",
+        "Inventory Management",
+        "logistics",
+        "Mac",
+        "managing",
+        "meetings",
+        "Microsoft Certified Professional",
+        "MS Excel",
+        "MS Office",
+        "office",
+        "MS Outlook",
+        "MS PowerPoint",
+        "Microsoft Project",
+        "MS Windows",
+        "MS Word",
+        "needs analysis",
+        "Network administration",
+        "network",
+        "Operating Systems",
+        "Operations Management",
+        "Performance management",
+        "policies",
+        "Processes",
+        "Project Management",
+        "Property Management",
+        "Quality",
+        "QA",
+        "repairs",
+        "research",
+        "safety",
+        "selling",
+        "sales",
+        "scheduling",
+        "staffing",
+        "supervisor",
+        "Supervising",
+        "supervision",
+        "upgrades",
+        "VPN",
+        "Visio",
+        "web server"
+    ],
+    "experience": [
+        {
+            "title": "Lead Construction Manager / Regional Quality Manager",
+            "company": "Company Name",
+            "start_date": "11/2010",
+            "end_date": "03/2016",
+            "location": "City, State",
+            "description": "Accountable for managing the daily field construction activities for the AT&T Turf - LTE project in New Jersey /Staten Island and San Diego Markets. Completed 1000+ LTE and NSB site builds ensuring scope of work compliance, safety, quality, schedule, implementation and customer satisfaction. Committed to both NSB and LTE sites on the team and regarded by the team as one of most experienced construction managers. Continually provided guidance and training to multiple general contractors and OCI construction managers related to the LTE scope of work and AT&T specifications. Identified opportunities for improvement with project scope and methods of procedure. Implement changes and processes to improve construction efficiency and quality. Enforced our high quality expectations with the contractors and team by co-creating a QA punch list consisting of over 600 items to be checked and verified on each site. This list replaced the AT&T national standard ND-51 compliance checklist on Black & Veatch LTE sites and resulted in a formal submission to AT&T Wireless from the National Quality Manager for approval to be implemented nationwide."
+        },
+        {
+            "title": "Owner / General Contractor",
+            "company": "Company Name",
+            "start_date": "01/2007",
+            "end_date": "11/2010",
+            "location": "City, State",
+            "description": "Supervised construction for over 300 Projects in New York, New Jersey and Pennsylvania and managed a construction team of up to 20 people including Employees, Subcontractors, Architects and Engineers. Worked closely through weekly cross-functional meetings with Engineering, Subcontractors, Employees, Homeowners and Property Management. Assigned action items and tracked required deliverables and task completion to maintain project deadlines. Key contributor to the designs and revisions of construction details throughout the construction phase for standardization of design specifications and creation of construction task order and tracker templates. Continuously monitored working environment, production and quality to effectively and safely increase revenue, efficiency and Profitability. Often answered construction, design and logistics questions and resolved numerous project issues."
+        },
+        {
+            "title": "Specialty Manager",
+            "company": "Company Name",
+            "start_date": "07/2006",
+            "end_date": "05/2007",
+            "location": "City, State",
+            "description": "Supervise Associates in the selling effort, ensuring the store's in-stock position and maintaining an appealing and organized store appearance. Key accountability: staffing and scheduling, identifying and resolving stock deficiencies, supervisor associates in selling behaviors, resolving customer issues and concerns and supporting service needs for both. Supervising Store Associates to include interviewing, hiring, motivating, coaching, training, developing and communicating to associates. Provided support for Microsoft Client and Server systems. Performance management process, to include semi-annual review of associate performance and how to execute the associate disciplinary process when necessary. Operations Management to include supervision of front end processes involving sales and return transactions, as well as special services and lot support."
+        },
+        {
+            "title": "System Administrator",
+            "company": "Company Name",
+            "start_date": "01/2001",
+            "end_date": "01/2006",
+            "location": "City, State",
+            "description": "Provided support for Microsoft Client and Server systems. Installed and supported network printing devices, upgrades and repairs hardware. Maintained user and group policies, Active directory, security procedures, VPN and client requested back-up procedures. Network administration (including backup, security management, user account management, e-mail systems including e-mail web server, internet access, office systems and applications support). Performs technology needs analysis. Rolls out hardware and software to ensure optimal deployment of resources. Plans, implements, and supports the network and computing infrastructure plan. Manages small to medium sized projects according to agreed upon budgets and schedules. Assists with technology planning through ongoing research."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Cisco Certification",
+            "school": "Currently Pursuing",
+            "year": "2006"
+        },
+        {
+            "degree": "PMP Certification",
+            "school": "Currently Pursuing",
+            "year": "2006"
+        },
+        {
+            "degree": "Microsoft Certified Professional",
+            "school": "Netcom Information Technologies",
+            "year": "2016"
+        },
+        {
+            "degree": "Andrew Connector & Weatherproofing Certificate",
+            "school": "N/A",
+            "year": "N/A"
+        },
+        {
+            "degree": "OSHA 10-hour Certification",
+            "school": "N/A",
+            "year": "N/A"
+        },
+        {
+            "degree": "First Aid/CPR",
+            "school": "N/A",
+            "year": "N/A"
+        },
+        {
+            "degree": "RF Awareness",
+            "school": "N/A",
+            "year": "N/A"
+        }
+    ],
+    "certifications": [
+        "OSHA 10-hour Certification",
+        "First Aid/CPR",
+        "RF Awareness",
+        "Microsoft Certified Professional",
+        "Cisco Certification",
+        "PMP Certification",
+        "Andrew Connector & Weatherproofing Certificate"
+    ],
+    "languages": [
+        "English"
+    ]
+}

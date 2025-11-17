@@ -1,0 +1,102 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "My favorite part of working is interacting with people. I love delivering excellent customer service and creating the best experience for customers. My experiences have shown that a call or store visit can be more worthwhile, turning tedious tasks into positive experiences and fostering loyal customers. I have primarily worked in call centers with some experience in sales and store customer service.",
+    "skills": [
+        "Customer service",
+        "Call center",
+        "Process improvement",
+        "Conflict resolution",
+        "Troubleshooting",
+        "Microsoft Office Suite",
+        "PowerPoint",
+        "Word",
+        "Excel",
+        "AutoCAD",
+        "Chief Architect",
+        "Internet",
+        "Intranet",
+        "Time management",
+        "Interpersonal skills",
+        "Detail-oriented"
+    ],
+    "experience": [
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "Sep 2014",
+            "end_date": "Mar 2015",
+            "description": "Attended customers with Medicare RX plans and Medicare Advantage Plans; bilingual in Spanish; proficient in reading and writing in English and Spanish; provided information on billing, health and dental benefits, quoting benefits and enrollments."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "Oct 2013",
+            "end_date": "Sep 2014",
+            "description": "Provided accurate and appropriate information in response to customer inquiries; demonstrated mastery of customer service call script within specified timeframes; improved customer ratings."
+        },
+        {
+            "title": "Customer Service",
+            "company": "Sitel (for USAA Insurance)",
+            "start_date": "Aug 2011",
+            "end_date": "May 2013",
+            "description": "Answered billing inquiries for home and auto insurance; set up non-payment cancellation arrangements; applied payments and resolved billing issues."
+        },
+        {
+            "title": "Customer Service",
+            "company": "Headway Corporate (contract at AIG/WNL)",
+            "start_date": "Oct 2009",
+            "end_date": "May 2010",
+            "description": "Spoke to clients about retirement plans and products like 401(k)s and annuities; maintained up-to-date records; built customer loyalty with follow-up calls."
+        },
+        {
+            "title": "Agent",
+            "company": "Nationwide (Licensed Customer Service Agent)",
+            "start_date": "Apr 2006",
+            "end_date": "Feb 2009",
+            "description": "Represented Nationwide as a licensed Customer Service Agent; performed quotes and changes to auto and home insurance policies; directed inbound calls to improve call flow."
+        },
+        {
+            "title": "Floor Sales Associate",
+            "company": "Company Name",
+            "start_date": "May 2004",
+            "end_date": "Oct 2005",
+            "description": "Enhanced customer service by interacting with customers to identify needs; boosted sales by suggesting alternatives and leveraging weekly sale."
+        },
+        {
+            "title": "Healthcare Provider",
+            "company": "AHS",
+            "start_date": "Aug 1999",
+            "end_date": "Oct 2001",
+            "description": "Helped patients with daily activities, transportation and medication administration; documented patient status; prepared meals according to prescribed diets."
+        },
+        {
+            "title": "Healthcare Provider",
+            "company": "Manna",
+            "start_date": "Jan 1999",
+            "end_date": "Aug 1999",
+            "description": "Cared for a mentally and physically disabled adult; provided transport; documented client records; communicated with parents and company."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts, Interior Design",
+            "school": "Amarillo College",
+            "year": "2004"
+        },
+        {
+            "degree": "Associate of Arts, Interior Design",
+            "school": "Border Institute of Technology",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Licensed Customer Service Agent (Nationwide)"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

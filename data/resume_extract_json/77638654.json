@@ -1,0 +1,100 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Finance Manager with extensive executive experience and administrative professionalism. Demonstrates excellent communication, computer literacy, and ability to meet deadlines with high multicultural awareness and adaptability. Proven skills in budgeting, financial reconciliation, accounts payable/receivable, and project management; experienced in real estate operations and high-level financial controls.",
+    "skills": [
+        "accounting",
+        "accounts payable",
+        "accounts receivable",
+        "Attention to detail",
+        "benefits",
+        "Budget development",
+        "budgets",
+        "Strong interpersonal skills",
+        "contract negotiations",
+        "contracts",
+        "counseling",
+        "Critical thinking",
+        "database",
+        "product development",
+        "filing",
+        "financial",
+        "hiring",
+        "inventory",
+        "team building",
+        "meetings",
+        "office",
+        "negotiations",
+        "newsletter",
+        "office machines",
+        "organizational",
+        "payroll",
+        "personnel",
+        "presentation development",
+        "QuickBooks",
+        "Real Estate",
+        "safety",
+        "sales",
+        "spreadsheet",
+        "staff development",
+        "Time management",
+        "transportation",
+        "travel arrangements",
+        "website",
+        "word processing",
+        "Management Experience",
+        "Multitasking",
+        "Extensive knowledge of Real Estate programs"
+    ],
+    "experience": [
+        {
+            "title": "Finance Manager",
+            "company": "Company Name",
+            "start_date": "June 2015",
+            "end_date": "Present",
+            "description": "Proficient in QuickBooks, ACT, and Microsoft Outlook. Microsoft Office and project management. Manage all finances through QuickBooks; budget planning; reconciliation of all accounts; accounts receivable and payable."
+        },
+        {
+            "title": "National Sales Director and National Rehab Supervisor",
+            "company": "Company Name",
+            "start_date": "September 2013",
+            "end_date": "July 2015",
+            "description": "Supervised and coordinated evictions with eviction attorneys to facilitate cash-for-keys negotiations and sheriff lockouts; supervised rehab of investment properties nationally by gathering and reviewing bids; coordinated with agents nationally on purchases and sales of investment holdings; reviewed and negotiated listing and purchase contracts; advised investors on property activity and resolutions; maintained a national pool of real estate agents and managed payroll and accounts payable processes."
+        },
+        {
+            "title": "Executive Vice President",
+            "company": "Company Name",
+            "start_date": "September 2000",
+            "end_date": "July 2013",
+            "description": "Oversaw daily office operations for staff of 3; prepared and distributed payroll; composed outgoing correspondence and reports; maintained website and weekly newsletter; oversaw inventory and office supply purchases; reconciled and processed expense reports; managed hundreds of accounts receivable for dues; coordinated travel, course registrations, and meetings; created expense reports and budgets; conducted vendor negotiations and managed vendor demonstrations; implemented cost-saving vendor services; processed pro standards complaints and hearings; greeted visitors and directed them appropriately."
+        },
+        {
+            "title": "Human Resources Executive Assistant",
+            "company": "Company Name",
+            "start_date": "April 1999",
+            "end_date": "September 2000",
+            "description": "Led safety training for 23 staff; advised employees on health plans and 401(k) retirement plans; developed and facilitated new-hire orientations; conducted employment verifications and background checks; managed leave administration, including disability and health benefits; processed workers' compensation and unemployment claims; payroll processing; supported team-building and organizational culture initiatives."
+        },
+        {
+            "title": "Admissions Office Executive Assistant",
+            "company": "Company Name",
+            "start_date": "May 1998",
+            "end_date": "April 1999",
+            "description": "Managed and facilitated new student orientation; maintained transcripts and teacher certifications; assisted financial aid and career counseling; tracked department expenses and supplies; organized graduation ceremonies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Lakewood Sr. High School",
+            "year": 1979
+        }
+    ],
+    "certifications": [
+        "Licensed Real Estate Agent",
+        "Certified Pro Standards Administrator"
+    ],
+    "languages": []
+}

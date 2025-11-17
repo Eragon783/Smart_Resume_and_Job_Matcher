@@ -1,0 +1,59 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Columbus, Mississippi",
+    "summary": "To obtain employment as an entry level Chemical Engineer utilizing my current experience and education.",
+    "skills": [
+        "Project management",
+        "Scheduling tools",
+        "ChemCad",
+        "OAM",
+        "MES",
+        "EPI",
+        "Structural red-line revisions",
+        "Process piping",
+        "Microsoft Office",
+        "Quality control",
+        "Presentation skills",
+        "Process improvement",
+        "Data analysis",
+        "Safety procedures",
+        "SAP",
+        "C+",
+        "Java"
+    ],
+    "experience": [
+        {
+            "title": "Chemical Engineering Intern",
+            "company": "AkzoNobel",
+            "start_date": "2017-05",
+            "end_date": "Present",
+            "description": "Intern at AkzoNobel, assigned to the Columbus, Mississippi plant working 30-40 hours weekly in the Hydrogen Peroxide division. Responsibilities included observing processes (hydrogenation, oxidation, extraction, distillation, mixing, and loading of peroxide and its components); updating the OAM, MES, and OEE portals daily; gathering quotes and product specifications for assigned projects; red-lining P&IDs for plant changes; assisting with tasks for supervisor; leading Management of Change meetings. Projects included replacing an automatic valve with a control valve on a condensate tank with a differential pressure transmitter to control tank level; installing an orifice plate to control flow; obtaining bids for mechanical, electrical, and instrumentation labor and DCS configuration; project scopes around $50,000. Also installed an RF Capacitance probe on a sight glass and replaced a chemical hose with 316L pipe and a control valve to manage interface level; scopes estimated at $30,000-$50,000."
+        },
+        {
+            "title": "Chemical Engineering Summer School",
+            "company": "ChESS Vienna",
+            "start_date": "2016-07",
+            "end_date": "2016-08",
+            "description": "Chemical Engineering Summer School (ChESS Vienna): practical exploration of unit operations in lab-scale settings, tours of chemical facilities in Vienna; goals included improving teamwork, presentation and laboratory skills, global awareness, and effectiveness in international settings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Chemical Engineering",
+            "school": "University of Alabama",
+            "year": "2018"
+        },
+        {
+            "degree": "High School Diploma (IB)",
+            "school": "Fairhope High School",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "German (Advanced, written and conversational)",
+        "Spanish (Intermediate, conversational)"
+    ]
+}

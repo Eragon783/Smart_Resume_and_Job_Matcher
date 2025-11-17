@@ -1,0 +1,72 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Driven claims professional with 10 years of experience in insurance, focusing on automobile, property and liability claims. Strong negotiation, analytical thinking and problem-solving skills; proficient in data analysis, mathematics, and MS Office. Excellent interpersonal abilities and capable of handling multiple tasks and deadlines.",
+    "skills": [
+        "accounting",
+        "Accounts Payable and Receivable",
+        "Cashiering",
+        "CA",
+        "CPT",
+        "Data entry",
+        "databases",
+        "ICD-9",
+        "Inspect",
+        "Inventory Control",
+        "Access",
+        "Microsoft Access",
+        "Excel",
+        "policies",
+        "profit",
+        "programming",
+        "proposals",
+        "Reconciling",
+        "maintain files",
+        "Research",
+        "sales",
+        "Scheduling",
+        "tax",
+        "telephone"
+    ],
+    "experience": [
+        {
+            "title": "Tax Examining Clerk",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2015-06",
+            "description": "Adjusted tax liability on 1040X amended returns. Took corrective actions to process and close a case, such as adjusting taxpayer's account, penalties or credits, and computing tax liability. Researched pertinent tax data through IDRS, databases, accounting records and available relevant systems. Assigned case referrals requiring further examination per the tax code. Recognized indications of tax fraud. Processed statute and potential statute cases, and ensure that all statutes are correct. Recognized problem areas with reference material and offered solutions. Maintained a high-volume level of processing over 11.2 documents per hour with virtually a 100% accuracy rate."
+        },
+        {
+            "title": "Business Owner/Manager",
+            "company": "Company Name",
+            "start_date": "1997-09",
+            "end_date": "2010-12",
+            "description": "Managed the operational activities of a dairy distribution business. Maximized company revenue by creating databases and spreadsheets to improve inventory control and cost-and-risk analysis. Maintained account plans for 100 customer accounts. Improved communication efficiency as primary liaison for customers and vendors. Maintained high levels of customer satisfaction through offering after-hour deliveries and preserving positive customer rapport. Identified key growth opportunities for the business through expansion of our product line and delivery area. Leveraged knowledge of customers and market trends to successfully market our suppliers' products. Coordinated Customer and Vendor orders. Prepared procedural material for employees. Wrote correspondence for business proposals and collection. Renegotiated payment terms with dozens of suppliers. Verified details of transactions, including funds received and total account balances. Calculated figures such as discounts and credits. Suggested process improvements to secure prompt and regular receipts for the company. Deposited third party checks, as well as monthly reserve transfers. Researched and resolved billing and invoice problems. Scheduled deliveries. Conducted month-end balance sheet reviews and reconciled any variances. Communicated with customers via phone, email and in person to obtain payments on outstanding accounts."
+        },
+        {
+            "title": "Claim Specialist",
+            "company": "Company Name",
+            "start_date": "1990-09",
+            "end_date": "2000-02",
+            "description": "Processed first- and third-party auto liability and property damage claims in accordance with laws, regulations and policies. Reduced loss ratios through fair and prompt processing of claims. Identified and collected evidence and determined its value to a specific claim. Interviewed claimants, witnesses, medical and vehicle specialists, and law enforcement to determine pertinent claim information. Gathered detailed information and completed field investigations. Coordinated with attorneys and testified at criminal proceedings. Conducted claim and estimate re-inspections. Analyzed repair estimates. Obtained all necessary information to complete proper evaluation of property and injury claims. Contacted injured parties and legal representatives to negotiate final settlements for claims. Communicated with insured and claimants to explain computations. Interpret policy and explain appropriate coverages to insureds and claimants. Offered company solutions to improve claim closures. Evaluate and negotiate total losses and Bodily Injury claims. Access available resources via the computer and/or storage files. Inspect property to determine damages. Recognize potential subrogation and prepare files accordingly. Trained and mentored 3 new members of the claim staff."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "1986-01",
+            "end_date": "1988-01",
+            "description": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Maintained electronic and paper files. Wrote reports and correspondence from dictation and handwritten notes. Dispersed incoming mail to correct recipients throughout the office. Made copies, sent faxes and handled all incoming and outgoing correspondence. Managed daily office operations and maintenance of equipment. Verified that information in the computer system was up-to-date and accurate. Answered customers' questions and addressed problems and complaints in person and via phone. Helped customers select products that best fit their personal needs. Educated customers on product and service offerings. Built and maintained effective relationships with peers and upper management. Cashiering. Researched and resolved customer problems. Programmed and repaired pagers. Processed shipments and maintained organized stock shelves. Computed sales prices, total purchases and processed payments. Wrote reports and correspondence from dictation and handwritten notes."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "school": "California State University of San Bernardino",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

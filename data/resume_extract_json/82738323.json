@@ -1,0 +1,63 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Licensed FAA rated Airframe and Powerplant (A&P) Technician with five years of experience in key aircraft systems and quality assurance processes. Highly reliable aviation professional skilled in maintenance, troubleshooting, inspections, and record keeping, with leadership experience and proficiency in navigating FAA publications and supply chain management.",
+    "skills": [
+        "FAA Licensed Airframe & Powerplant (A&P) Technician",
+        "Lean Six Sigma Yellow Belt",
+        "Aircraft systems troubleshooting",
+        "Post-flight inspections",
+        "Scheduled and unscheduled maintenance",
+        "Major and minor repairs",
+        "Record keeping and FAA compliance",
+        "Maintenance management and supervision",
+        "Navigation of FAA regulated publications",
+        "Mechanical and pneumatic tools proficiency",
+        "Supply chain management",
+        "Military leadership",
+        "Electrical, hydraulic, engine, and airframe troubleshooting",
+        "Vibration analysis",
+        "Aircraft structural inspection",
+        "Technical training and currency"
+    ],
+    "experience": [
+        {
+            "title": "Aviation Mechanic",
+            "company": "Company Name",
+            "start_date": "2011-06",
+            "end_date": "Present",
+            "description": "Performing line maintenance under the supervision of the Chief Mechanic including post flight inspections & routine servicing. Troubleshooting functions on electrical, hydraulic, engine and airframe systems and components. Performing heavy maintenance including annual inspections, engine changes, gearbox changes, and prop changes. Troubleshooting inoperative or malfunctioning aircraft systems. Maintains all required records of maintenance and repair to the airship as required by company policy and FAA regulations. Replacing time or service-limited parts and/or aircraft appliances as needed or on a scheduled basis. Performing preventive and corrective maintenance and researching solutions to malfunctions. Attending recurrent aircraft technical training to maintain professional currency."
+        },
+        {
+            "title": "Assistant Phase Coordinator",
+            "company": null,
+            "start_date": "2015",
+            "end_date": "2016",
+            "description": "Troubleshooting malfunctions across aircraft structure, drivetrain, power plant, fuel systems, flight controls, hydraulic systems, and vibration analysis. Maintains, inspects, and repairs aircraft structures and hydraulic systems and components. Logged maintenance hours: 4859.3; logged supervising hours: 1890.1. Collaborating with supervisors or higher-level technicians on complex tasks. Extensive troubleshooting, cleaning, disassembly and reassembly, replacing or repairing discrepant components. Experience in supply chain."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Hagerty High School",
+            "year": "2011"
+        },
+        {
+            "degree": "H-1 Powertrain",
+            "school": "Center Naval Aviation Technical Training",
+            "year": "2011"
+        },
+        {
+            "degree": "A&P License",
+            "school": "Bakers School of Aeronautics",
+            "year": "2016"
+        }
+    ],
+    "certifications": [
+        "FAA Licensed Airframe & Powerplant (A&P) Technician",
+        "Lean Six Sigma Yellow Belt"
+    ],
+    "languages": []
+}

@@ -1,0 +1,69 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Missouri, USA",
+    "summary": "Math teacher with excellent communication skills. Organized and driven with the ability to stay on task. Uses effective and efficient teaching methods tailored to individual student needs. Active in the Central Missouri Math Educators club and Missouri Council of Teachers of Mathematics; participated in the 2014 conference. Tutoring experience and proficiency with MS Office. Recognized with the Award of Excellence and Shift Manager of the Year at Beauty Brands.",
+    "skills": [
+        "Mathematics",
+        "tutoring",
+        "good team member",
+        "communication",
+        "childcare",
+        "managing",
+        "hiring",
+        "merchandising",
+        "recruiting",
+        "selling",
+        "recording"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Assigned to care for eight 18 month to 24 month olds on campus of UCM. Duties include but are not limited to changing diapers, potty training, feeding them breakfast, lunch, and dinner, putting them down for naps, cleaning and disinfecting, ensuring the safety of the children, observing and recording data about children, and communicating with parents about their child(ren)."
+        },
+        {
+            "title": "Sales Lead",
+            "company": "Company Name",
+            "start_date": "2012-10",
+            "end_date": "2014-01",
+            "description": "Had duties such as food prep, baking, frosting, decorating, and washing dishes. Also helped customers in the front house. Greeted, took orders, consulted, and checked out customers. I was in charge of all delivery orders and was the main delivery driver. I was responsible for checking and responding to Facebook posts and emails. Created up selling games and contests to motivate employees and created a promotional scavenger hunt for customers to play."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "2011-08",
+            "end_date": "2012-10",
+            "description": "Assist with execution of annual store level financial plans to ensure that budgeted financial performance is met or exceeded. Complete and submit all required operating reports, forms, and projects. Conduct monthly store meeting and set goals for associates. Ensure that store safety and security measures are communicated and are being followed and that all operational procedures are being performed."
+        },
+        {
+            "title": "Shift Manager",
+            "company": "Company Name",
+            "start_date": "2010-03",
+            "end_date": "2011-08",
+            "description": "Assisted the Location and Assistant Manager with recruiting, interviewing, hiring, and training new employees. Guaranteed that customers received 100% satisfaction and resolved customer concerns. I ensured that employees were performing store operations effectively and that marketing plans, promotional programs, and visual merchandising were properly executed. Assisted Location and Assistant Manager with evaluating employees."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Education",
+            "school": "University of Central Missouri",
+            "year": "Present"
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "Metropolitan Community College",
+            "year": "2012"
+        },
+        {
+            "degree": "Diploma",
+            "school": "Blue Springs High School",
+            "year": "2009"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

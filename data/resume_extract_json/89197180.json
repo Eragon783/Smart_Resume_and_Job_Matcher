@@ -1,0 +1,120 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Results-oriented International Sales and Customer Service professional with a diverse background in management, international sales, marketing, logistics and customer service. Dedicated to providing excellent customer service and making operational and procedural improvements.",
+    "skills": [
+        "Fluent in oral & written Spanish",
+        "reading competency in French",
+        "proficient in Microsoft Word",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Outlook",
+        "MAS90",
+        "MAS200",
+        "Greatplains"
+    ],
+    "experience": [
+        {
+            "title": "International Business Development",
+            "company": "Company Name",
+            "start_date": "2013-11",
+            "end_date": "Present",
+            "description": "Contacted new and existing customers to discuss how specific products could meet their needs. Identified issues with existing marketing material to drive process improvements. Identified, coordinated and participated in client relationship-building activities and meetings. Answered customer questions regarding products, prices and availability. Successfully prepared product and packaging for export readiness."
+        },
+        {
+            "title": "International Sales and Customer Service Manager",
+            "company": "Company Name",
+            "start_date": "2007-03",
+            "end_date": "2013-10",
+            "description": "Successfully managed International customer service department by developing and maintaining excellent service to customers, establish and monitor procedures and service standards for export clearance. Built excellent relationships with high net worth clients, consistently maintaining near 100% retention. Optimized supply chain solutions to meet the requirements of the international business plan including evaluation of all modes of transportation, inventory, time to market, landed costs and customer requirements. Managed all legal, regulatory, and shipping requirements and documents required for international movement of product and services. Successfully trained and managed the export team to ensure perfect execution of shipment based on country requirements, customer's specification and incoterms."
+        },
+        {
+            "title": "Contracts Administrator/Customer Service",
+            "company": "Company Name",
+            "start_date": "2004-04",
+            "end_date": "2004-10",
+            "description": "Aided in the preparation of contractual provisions, the administration of contract proposals and responsible for preparing bids. Managed and organized the Returns Material Authorization department. Liaison between military customers, management and production."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "2003-06",
+            "end_date": "2004-03",
+            "description": "Acted as a liaison between customers, staff, and management. Investigated and resolved customer requests and problems. Tracked and expedited sales orders; ascertaining order accuracy. Processed a range of financial transactions; maintaining accuracy and balance."
+        },
+        {
+            "title": "Customer Service and Logistics Manager",
+            "company": "Company Name",
+            "start_date": "2000-08",
+            "end_date": "2003-03",
+            "description": "Successfully managed domestic customer service and logistics operations nationwide to ensure fulfillment of shipping orders. Reduced shipping costs by 20% by negotiating proposed pricing with both LTL and Full truckload transportation companies. Conducted business development functions by obtaining international customers e.g., meeting at international tradeshows, US Commercial Services."
+        },
+        {
+            "title": "International Inside Sales Customer Service & Logistics Coordinator",
+            "company": "Company Name",
+            "start_date": "1997-08",
+            "end_date": "2000-07",
+            "description": "Managed customer service and logistics operations while serving as a liaison between Japan, U.S., and Mexico divisions. Prepared and provided financial and accounting reports to corporate headquarters. Analyzed and reduced import, export costs by 15% by implementing various cost control measures and negotiating with various freight forwarders and trucking firms. Provided support for set up of Maquila Factory in Mexico including initial inventory and asset control system. Managed off-site employees - customer support, accountant and inventory control supervisor. Trained 12 new employees (accountant and logistics personnel) for U.S. operations. Set up purchasing and sales functions as well as implemented accounting software and inventory system for company in U.S."
+        },
+        {
+            "title": "Office Manager/Bilingual Assistant",
+            "company": "Company Name",
+            "start_date": "1996-11",
+            "end_date": "1997-08",
+            "description": "Assisted in maintaining department attorney personnel files with the utmost confidentiality. Created and tracked all expenses and client account codes using QuickBooks. Mailed and arranged for delivery of legal correspondence to clients, witnesses and court officials. Coordinated office workflow, e.g., timelogs for Attorneys, scheduling appointments. Acted as liaison between clients, vendors and attorneys."
+        },
+        {
+            "title": "Marketing Clerk",
+            "company": "Company Name",
+            "start_date": "1995-07",
+            "end_date": "1996-10",
+            "description": "Updated Market Share report and prepared Top 400 individual vendor profile. Controlled product marketing literature inventory including its distribution as well as of promotional prizes and flyers for the sales department. Responsible for data entry of promotions/spiffs and business correspondence on a current basis. Coordinated departmental workflow, e.g., scheduling meetings for vendor conferences."
+        },
+        {
+            "title": "Marketing and Export Assistant",
+            "company": "Company Name",
+            "start_date": "1994-08",
+            "end_date": "1995-06",
+            "description": "Collaborated with production and senior management to ensure customer satisfaction with services rendered. Investigated and resolved logistics issues, requests, and problems. Processed all applicable financial transactions while initiating new sales orders. Interacted with international/domestic customers and vendors. Translated medical marketing materials from English and French into Spanish."
+        },
+        {
+            "title": "Administrative Assistant and Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "1992-01",
+            "end_date": "1994-07",
+            "description": "Directed multi-functional interface between sales, senior management, and finance. Served as primary point of contact between international and domestic suppliers and end users. Successfully and efficiently controlled short life span product inventory limiting possibility of overstocking while preventing stock outs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts (Managerial Finance and Accounting)",
+            "school": "Irvine Valley College",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts in Accounting",
+            "school": "Autonomous University of Guadalajara",
+            "year": null
+        },
+        {
+            "degree": "Certificate in Inventory Control and Order Data Entry",
+            "school": "State of the Arts Business Works",
+            "year": null
+        },
+        {
+            "degree": "Certificate in Selling to Walmart Mexico and Central America",
+            "school": "8th and Walton",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "State of the Arts Business Works - Inventory Control and Order Data Entry",
+        "8th and Walton - Selling to Walmart Mexico and Central America"
+    ],
+    "languages": [
+        "Spanish",
+        "French"
+    ]
+}

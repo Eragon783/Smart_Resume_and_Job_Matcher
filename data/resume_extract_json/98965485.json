@@ -1,0 +1,52 @@
+{
+    "name": "Jennifer Lind",
+    "email": null,
+    "phone": null,
+    "location": "Santa Fe, New Mexico, USA",
+    "summary": "A highly creative professional with over 18 years of executive marketing and communication experience and a proven track record of successful projects from initial concept through completion. A high energy, results-oriented leader recognized for innovative tactics and demonstrated success at strategic/tactical planning, building large (over 200) highly effective teams focused on achieving production and financial goals, analytical and financial expertise. A talent for building and working with cohesive teams with strong problem solving skills, able to manage time-sensvie projects with multi-million dollar budgets. Proven success in increasing customer awareness, changing brands and image within the Santa Fe community and achieving growth and budgetary goals. Strong ability in working with all levels of an organization from entry-level employees to board members and community leaders.",
+    "skills": [
+        "Strategic Planning",
+        "Marketing and Communication",
+        "Highly Creative",
+        "Financial & Analytical",
+        "Facilities Management",
+        "Leading IT related Projects & Teams"
+    ],
+    "experience": [
+        {
+            "title": "Retail Banking Director",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2017-01",
+            "description": "Provide leadership to all the NM & CO Branches and Private Banking within the Bank in the areas of loan & deposit growth; risk management; staff development and community involvement. Manage the training; facilities and real estate projects for the Company. Responsible for all the development, planning and execution of a deposit products & services strategy that supports the Bank's strategic plan in the delivery of all retail and commercial deposit product lines. Direct experience in annual budgeting and monthly financial reporting to the Bank's Board of Directors and Asset & Liability Committee. Participate in Executive Management; Asset & Liability Management; IT Steering and Compliance committees."
+        },
+        {
+            "title": "Marketing & Communications Director",
+            "company": "Company Name",
+            "start_date": "1993-01",
+            "end_date": "2006-01",
+            "description": "Managed the relationship with the outside advertising agency, marketing assistant, contribution's & sponsorship's budget, project management, customer relationship software, coordinating special events, developed & managed the call center and all the branches for the Bank. Developed advertising campaigns, direct mail programs, Bankwide employee incentive programs, collateral materials. Participated in Executive Management and planning sessions on marketplace strategy and on pricing, product and investment strategies. Responsible for new product development and implementation. Responsible for implementation and management of Bankwide projects. Responsible for maintaining the Bank's corporate image, including signage, marketplace perceptions, market assessments to test the image. Responsible for the development of special events to attract and retain Bank customers. Advanced computer skills."
+        },
+        {
+            "title": "Operations Manager",
+            "company": "Company Name",
+            "start_date": "1986-01",
+            "end_date": "1993-01",
+            "description": "Project Management for multiple technology related and product development projects. Ensured compliance with all laws and policies and procedures were followed by Bank staff in accordance with the regulatory environment. Responded to all audit comments and followed up on training and staff adherence. Managed training, merchant services and audits responses and follow-up for the branches. Wrote the teller & branch operations manuals in accordance with accepted policies & procedures. Kept policies and procedures updated and communicated to all branch personnel. Developed and managed the monthly reports of ATM profitability."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA; Leadership",
+            "school": "The College of Santa Fe",
+            "year": 2016
+        },
+        {
+            "degree": "B.S.B.A; Business Administration, Management",
+            "school": "Northern Arizona University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

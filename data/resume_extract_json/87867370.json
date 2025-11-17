@@ -1,0 +1,102 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Montgomery County, Maryland / Washington, D.C. Area",
+    "summary": "To maximize my exceptional management, retail, business banking and analytical talent, in a capacity that presents sales development and project management opportunities.",
+    "skills": [
+        "Management",
+        "Retail Banking",
+        "Business Banking",
+        "Treasury Management",
+        "Relationship Management",
+        "Sales",
+        "Cross-Selling",
+        "Strategic Planning",
+        "Leadership",
+        "Training",
+        "Mentoring",
+        "Coaching",
+        "Team Building",
+        "Customer Service",
+        "Process Improvement",
+        "Credit Solutions",
+        "Proposal & Presentation",
+        "Branch Operations",
+        "Cash Management",
+        "Pricing",
+        "Market Analysis",
+        "Business Development",
+        "Financial Analysis"
+    ],
+    "experience": [
+        {
+            "title": "Senior Commercial Business Banking Relationship Manager, VP",
+            "company": "Company Name",
+            "start_date": "2016-06",
+            "end_date": "Present",
+            "description": "Responsible for generating and managing profitable loans and deposit portfolios and non-interest income from businesses with annual sales of $1MM-$50MM; manages assigned loan portfolio; develops and retains long-term profitable client relationships; generates new fee-based revenue from credit and non-credit products; services commercial clients, processes credit requests, and drives cross-sales; engages in community affairs to solicit new business; aims to meet/exceed sales goals in lending, deposits, revenue growth, profitability, and client acquisition."
+        },
+        {
+            "title": "Sr. Business Banking Treasury Management Officer, Vice President & Senior Business Banker",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2016-05",
+            "description": "Combined Treasury Management and Business Banking duties; sold Treasury Management services; maintained existing businesses; created presentations on Treasury Management products; developed and implemented training for Business Bankers, Tellers and Financial Sales Consultants; implemented calling program for new clients; partnered with internal teams to uncover opportunities (wealth, merchant services, etc.); analyzed market conditions for services."
+        },
+        {
+            "title": "Commercial Business Banking Relationship Manager, Assistant Vice President",
+            "company": "Company Name",
+            "start_date": "2010-10",
+            "end_date": "2013-06",
+            "description": "Generated and managed profitable loan and deposit portfolios and non-interest income from businesses with annual sales of $1MM-$25MM; developed long-term client relationships; nurtured cross-sell opportunities; provided credit solutions; achieved and exceeded sales goals in deposits, loans, revenue growth, profitability, and client acquisition."
+        },
+        {
+            "title": "Senior Business Development Officer",
+            "company": "Company Name",
+            "start_date": "2005-07",
+            "end_date": "2010-10",
+            "description": "Identified and sold benefits to Select Employee Groups; developed strategic marketing plans; conducted on-site presentations; created proposals and negotiated terms; partnered with branches to uncover new business; coached and mentored staff; managed goal setting and training; assisted in developing annual budgets and growing regional new business."
+        },
+        {
+            "title": "Branch Platform Banker",
+            "company": "Company Name",
+            "start_date": "2001-09",
+            "end_date": "2005-07",
+            "description": "Proactively initiated and managed long-term profitable banking relationships; oversaw branch operations, compliance, risk, ATM and cash management; developed deposit growth and increased fee income through collaboration with retail and business clients."
+        },
+        {
+            "title": "Cash Management Analyst / Cash Management Officer",
+            "company": "Company Name",
+            "start_date": "1995-09",
+            "end_date": "2001-08",
+            "description": "Developed and implemented Cash Management products for Commercial Real Estate and Business Banking; managed large corporate client portfolios; acquired new cash management clients; maintained client relationships; reviewed cash management transactions and monthly analyses; supported pricing strategy."
+        },
+        {
+            "title": "Cash Management Officer, Assistant Vice President",
+            "company": "Company Name",
+            "start_date": "1999-01",
+            "end_date": "2001-08",
+            "description": "Produced and executed various cash management solutions for business clients; sold Cash Management services; prepared presentations and proposals; resolved client issues; coordinated ATM deployments and cash management pricing; contributed to cost reduction and client-facing achievements."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Business Management",
+            "school": "University of Phoenix",
+            "year": 2000
+        },
+        {
+            "degree": "B.S. in Business Management",
+            "school": "Fairleigh Dickinson University",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        "Cash Flow Conversation Certified",
+        "Treasury Management Certification",
+        "Teller Certification",
+        "Teller Certification Trainer"
+    ],
+    "languages": []
+}

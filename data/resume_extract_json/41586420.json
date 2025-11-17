@@ -1,0 +1,85 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To develop and find a place in the industry where I can utilize my skills through serving efficiently and with complete honesty, integrity and hard work for personal and organizational growth.",
+    "skills": [
+        "Coaching",
+        "customer service",
+        "train employees",
+        "Internet applications (Excel, Ms-Office, Word, MIS)",
+        "Inventory",
+        "logistics",
+        "Merchandising",
+        "purchasing",
+        "quality",
+        "receiving",
+        "reconciling",
+        "reporting",
+        "Sales",
+        "Scheduling",
+        "Supervising"
+    ],
+    "experience": [
+        {
+            "title": "Store Keeper / Production Co-ordinator",
+            "company": "Company Name",
+            "start_date": "2014-03",
+            "end_date": "Present",
+            "description": "Maintained store facilities; placed orders for stock; kept records of materials received; stored supplies; tracked expenditures; reported to Production Manager; monitored store equipment; controlled stock levels; internal controls for stock accuracy; knowledge of export, PRO skills, ministry portals; generated ASN and shipment details."
+        },
+        {
+            "title": "Store Manager",
+            "company": "Company Name",
+            "start_date": "2013-12",
+            "end_date": "2014-02",
+            "description": "Attained sales and financial targets; analyzed and interpreted financial goals; interviewed, hired and trained employees; promoted sales; maintained communication with Area Manager and home office; implemented promotional, operational and visual merchandise standards; opened/closed store; maintained displays; ensured customer service; managed cash handling and deposits; coordinated with teams."
+        },
+        {
+            "title": "Category Management Incharge - Merchandising",
+            "company": "Company Name",
+            "start_date": "2012-07",
+            "end_date": "2013-12",
+            "description": "Managed front-end & back-end operations of the Diamond category; coordinated with departments; price updates for PAN India; handled margins and tag printing; resolved store issues; processed orders; MIS data; liaised with logistics & accounts for VAT/Waybill; prepared reports; stock vs sales analyses; improved resource utilization to increase sales."
+        },
+        {
+            "title": "Team Leader",
+            "company": "Company Name",
+            "start_date": "2011-02",
+            "end_date": "2012-07",
+            "description": "Led team of 2 ATL's & 40 associates; scheduling; training and coaching; ensured cash tallies and deposits; backroom management; FIFO inventory; stock checks; floor replenishment; product pricing; customer service."
+        },
+        {
+            "title": "Sr. Customer Service Executive",
+            "company": "Company Name",
+            "start_date": "2008-08",
+            "end_date": "2011-02",
+            "description": "Provided customer service; supervised employees; monitored sales activities; handled difficult sales; trained front-end staff; answered inquiries about new launches and usage plan; processed sales transactions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Commerce",
+            "school": "CKT College of Arts,Commerce & Management Studies",
+            "year": "2008"
+        },
+        {
+            "degree": "High School Diploma - Science",
+            "school": "SES College of Arts,Commerce & Science",
+            "year": "2005"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "New English School",
+            "year": "2003"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hindi",
+        "Marathi",
+        "Tamil"
+    ]
+}

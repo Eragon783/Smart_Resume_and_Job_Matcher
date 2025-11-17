@@ -1,0 +1,94 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Seasoned Subject Matter Expert and Information Technology Assistant with extensive experience supporting UN missions in SAP, data validation, testing, and IT operations. Proficient in SAP modules (Real Estate, Fixed Asset, Plant Maintenance), Umoja data migration, HP ALM testing, database management, CAFM and space planning, and end-user training. Known for process improvements, documentation, and cross-functional collaboration.",
+    "skills": [
+        "SAP",
+        "HP ALM",
+        "SQL",
+        "Microsoft Access",
+        "Excel",
+        "VBScript",
+        "ASP.NET",
+        "CAFM",
+        "Umoja",
+        "LSMW",
+        "Data Validation",
+        "Data Conversion",
+        "Testing",
+        "Product Integration Testing",
+        "User Verification Testing",
+        "Real Estate",
+        "Fixed Asset",
+        "Plant Maintenance",
+        "Data extraction",
+        "Documentation",
+        "Training",
+        "Inventory Management",
+        "Space Planning",
+        "Procure Plus",
+        "Reporting"
+    ],
+    "experience": [
+        {
+            "title": "Subject Matter Expert (Information Technology Assistant)",
+            "company": "Company Name",
+            "start_date": "September 2013",
+            "end_date": "Present",
+            "description": "SAP data validation and population for Real Estate, Fixed Asset and Plant Maintenance; assist and coordinate with missions to create SAP IDs; validate data; create automated data validation spreadsheets; prepare data for upload into Umoja; run LSMWs; validate data loaded into Umoja; run reports; create manuals and training materials; develop Excel dashboards; prepare test scenarios for HP/ALM; coordinate with cross-functional teams; identify defects and support PIT/UVT cycles."
+        },
+        {
+            "title": "Information Technology Assistant (OSAU)",
+            "company": "Company Name",
+            "start_date": "October 2010",
+            "end_date": "August 2013",
+            "description": "Walk-throughs to verify locations and space configurations; evaluate vacancies and room changes; maintain UN Staff Telephone Directory (Untel) and VMS databases; create and run SQL/Microsoft Access queries; develop SOPs; beta tester for CAFM and Umoja Pilot; PIT tester for Umoja; data management and reporting; admin rights to Untel and VMS SQL databases."
+        },
+        {
+            "title": "Information Technology Assistant (PMICU)",
+            "company": "Company Name",
+            "start_date": "January 2008",
+            "end_date": "October 2011",
+            "description": "Organize PMICU stockrooms; perform inventories; process work orders; manage furniture, relocations, and disposals; supervise movers; manage Procure Plus records; develop SOPs; manage Untel/VMS databases; create reports for space planning; data cleansing and database management; CAFM space and asset management support."
+        },
+        {
+            "title": "Information Technology Assistant (BCSS)",
+            "company": "Company Name",
+            "start_date": "September 2007",
+            "end_date": "December 2007",
+            "description": "Managed audio-visual stock; organized stockroom; conducted periodic inventories; asset management; Procure Plus data handling; disposal assessments; data entry for stock items."
+        },
+        {
+            "title": "Technical Support Representative",
+            "company": "Company Name",
+            "start_date": "July 2005",
+            "end_date": "September 2007",
+            "description": "Managed IT product inventory; performed customer service and phone support; configured wireless networks; hardware/software troubleshooting; sales of software solutions; improved customer loyalty and reduced appointment wait times."
+        },
+        {
+            "title": "QA Compliance",
+            "company": "Company Name",
+            "start_date": "September 2002",
+            "end_date": "July 2005",
+            "description": "Tracked resources using Great Plains and Excel; organized warehouse stockrooms; processed orders and payments; trained staff; improved work order processing efficiency and shipping/receiving accuracy."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science & Business",
+            "school": "Oneonta State University",
+            "year": "2005"
+        },
+        {
+            "degree": "Certification in Network Security",
+            "school": "The Chubb Institute",
+            "year": "2005"
+        }
+    ],
+    "certifications": [
+        "Certification in Network Security (The Chubb Institute, Westbury, NY; 2003-2005)"
+    ],
+    "languages": []
+}

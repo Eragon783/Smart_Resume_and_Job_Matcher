@@ -1,0 +1,112 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Seeking a management position that utilizes my strong experience and skills to achieve an organization's sales and profit goals. Well-organized, detail-oriented individual who manages a high volume workload within a deadline driven environment. Bilingual in French and Creole.",
+    "skills": [
+        "billing",
+        "call center",
+        "cancer",
+        "clerical",
+        "coaching",
+        "customer satisfaction",
+        "customer service",
+        "direction",
+        "fast",
+        "instruction",
+        "inventory",
+        "Team Leader",
+        "market",
+        "meetings",
+        "Network",
+        "operating system",
+        "speaking",
+        "quality",
+        "real-time",
+        "safety",
+        "selling",
+        "Sales",
+        "scanning",
+        "staffing",
+        "strategy",
+        "supervision",
+        "phone",
+        "typing"
+    ],
+    "experience": [
+        {
+            "title": "Co-Manager",
+            "company": "Company Name",
+            "start_date": "November 2011",
+            "end_date": "January 2016",
+            "description": "Compile and interpret reports ensuring maximum profits are achieved; Seek high selling merchandise to feature on endcaps; Analyze revenue weekly to forecast expenditures and staffing needs; Supervise proper scanning of outs, make changes to the on-hands and replenish merchandise; Search and reduce shrink, look for opportunities to capture markdowns, ensure store is in line with company initiatives; Hire, train, supervise and terminate hourly associates; develop plans to assist in achievement of maximum performance; monitor and give constructive feedback in a timely manner; provide learning opportunities through guidance and support; set clear expectations creating timelines and performance metrics; Require associates to adhere with customer service initiatives that create a pleasant shopping experience for customers by having daily meetings, \"coaching by walking\" and computer-based training; Drive community awareness programs by participating and supporting community events; Enforce safety standards relating to accidents and STFs; OSHA compliance, work with Ecolab and Kay Chemical to prevent hazards or compliance issues."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "May 2011",
+            "end_date": "November 2011",
+            "description": "Managed direct reports, delegated and monitored against a pre-determined deadline and measure of quality; Hired, trained, developed and appraised subordinates; Budgeted and forecasted, minimize shrinkage and achieved sales and target goals; Monitored and controlled expenses in several divisions; Ensured customer satisfaction and retention; Analyzed the market and competitions and building strategy to ensure profitability; Implemented bench marking process on merchandise and in-stock level."
+        },
+        {
+            "title": "Small Business Sales Consultant",
+            "company": "Company Name",
+            "start_date": "February 2008",
+            "end_date": "April 2011",
+            "description": "Consulted with customers to recommend and sell variety of AT&T products and services to meet customers' needs; Provided customers with a positive sales and service experience; Interacted with multiple online systems while speaking with customers; Met sales quotas and service objectives in a fast-paced call center environment."
+        },
+        {
+            "title": "Team Leader / Service Delivery Coordinator / Supervisor",
+            "company": "Company Name",
+            "start_date": "June 2005",
+            "end_date": "January 2008",
+            "description": "Provided guidance and direction to all Member Service Counselors, real-time management of the call center floor, and frequently interacted with Dispatch and AAA members on service-related issues; Handled escalated inquiries from members; Interacted with Dispatch to resolve inaccurate information taken by Counselors or other issues; Served as Shift Leader in absence of evening supervision; Coached call takers on call quality issues; performed new hire training on operating system; Handled customer inquiries, complaints, billing questions and payment services."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "January 2001",
+            "end_date": "June 2006",
+            "description": "Performed light typing and clerical duties and heavy volume of phone calls. Assisted customers with their renewal application process."
+        },
+        {
+            "title": "Shift Leader",
+            "company": "Company Name",
+            "start_date": "August 2002",
+            "end_date": "November 2003",
+            "description": "Supervised inventory, verified quantity and quality of products received. Interfaced directly with customers to provide assistance and resolve problems. Assigned identification numbers and recorded items processed; performed all paperwork."
+        },
+        {
+            "title": "Customer Service Team Leader",
+            "company": "Company Name",
+            "start_date": "June 2001",
+            "end_date": "August 2002",
+            "description": "Supervised all daily functions of store activity to ensure customer satisfaction; Performed daily safety and temperature audits adhering to standards set by health board; Interacted with customers on a daily basis; transferred monetary transactions for the business; Generated weekly reports of profits and loss within the business."
+        },
+        {
+            "title": "Shift Manager",
+            "company": "Company Name",
+            "start_date": "September 2000",
+            "end_date": "May 2001",
+            "description": "Handled inventory and controlled cash; Maintained a safe work environment for all co-workers; Managed shift by instruction; Ordered products for store and customer sales; Closed store and performed necessary duties."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Liberal Arts",
+            "school": "Kean University",
+            "year": ""
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Hamilton High West",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "French",
+        "Creole"
+    ]
+}

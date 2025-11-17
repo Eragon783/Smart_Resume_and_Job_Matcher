@@ -1,0 +1,97 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "A results oriented technology leader with over 18 years of IT experience, 8 years of supervisory experience. Passionate about collaborating with key stakeholders to develop information technology vision and strategy by effectively building organization, processes, infrastructure and services in support of short and long-term business needs. Understands the business value of available tools and applications as to provide optimal strategic benefit at the appropriate cost.",
+    "skills": [
+        "ASP.Net 4.5",
+        "ASP.Net",
+        "VB.NET",
+        "Active Directory",
+        "Backup",
+        "Budget",
+        "Contract negotiation",
+        "CRM",
+        "Data Analysis",
+        "Data Processing",
+        "Databases",
+        "Disaster Recovery",
+        "ETL",
+        "EDI",
+        "ITIL",
+        "Training",
+        "Executive Management",
+        "Senior Management",
+        "GoldMine",
+        "Information Security",
+        "HealthCare IT",
+        "IT support",
+        "Leadership",
+        "Marketing",
+        "Network analysis",
+        "Performance reviews",
+        "VoIP",
+        "Presentations",
+        "Process Enhancement",
+        "Product Development",
+        "Servers",
+        "SQL",
+        "SQL Server",
+        "Strategy",
+        "Desktop support",
+        "Visual Studio",
+        "Workflow"
+    ],
+    "experience": [
+        {
+            "title": "VP of Information Technology",
+            "company": "Company Name",
+            "start_date": "2014-07",
+            "end_date": "2017-03",
+            "description": "Hired to transform the IT department. Developed an IT strategy designed to increase sales and business process efficiency, and lower costs and company risk. Built and managed a team of employees, vendors, and service providers. Responsible for IT budgeting, vendor negotiations, and business intelligence. Managed IT Budget, task management and delegation, and IT staff mentoring and reviews."
+        },
+        {
+            "title": "VP of Information and Security Technology",
+            "company": "Company Name",
+            "start_date": "2009-02",
+            "end_date": "2014-05",
+            "description": "Lead all IT operations, including purchasing, budget and structure. Conduct performance reviews and prepare reports for CEO and VP of Sales on Demand. Train employees on system use, workflow procedures, and technology policies. Manage employees in IT functions. Manage outside vendors and consultants as needed. Served as HIPAA compliance officer. Worked with marketing and the VP of Product Development to align new products concepts with corporate technology and corporate strategic goals."
+        },
+        {
+            "title": "Director of Information Technology",
+            "company": "Company Name",
+            "start_date": "2006-02",
+            "end_date": "2009-02",
+            "description": "Managed all information security to follow HIPAA Compliance guidelines. Advised the CEO and other executives on advanced technology solutions. Began serving on the Executive Management Team. Met with client executives to determine client needs, project requirements, and feasibility; translate the needs into technical requirements. Established high functioning lean IT department to quickly respond to internal and external IT support requests. Bolstered system performance through design and development of new Electronic Data Processing system by leveraging expertise with Visual Studio 2010, SQL Server, and ASP.NET. Oversaw all areas of Infrastructure."
+        },
+        {
+            "title": "Information Technology Manager",
+            "company": "Company Name",
+            "start_date": "2003-02",
+            "end_date": "2006-02",
+            "description": "Continued to improve and expand the Commissions Tracking Application. Gained expertise in the companies CRM and digitally integrated the Commissions Tracking System with the CRM. Increased system uptime from 80% to over 99% by implementing new Hyper-V virtual servers/DFS with no downtime. Developed and deployed corporate software and apps to employee's mobile devices for streamline corporate use and uniformity."
+        },
+        {
+            "title": "Application Developer",
+            "company": "Company Name",
+            "start_date": "2002-08",
+            "end_date": "2003-02",
+            "description": "Spearheaded major, year-long initiative to plan, design, build, and implement an ETL commission database system utilizing SQL databases and ASP.Net, including data analysis reporting that recovered more than $2.5M in \"lost\" commissions. Provided some end-user desktop support."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Information Systems",
+            "school": "Park University",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Science in Management",
+            "school": "Park University",
+            "year": 2007
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

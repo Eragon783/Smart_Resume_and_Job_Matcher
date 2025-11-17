@@ -1,0 +1,54 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Nine years of experience in customer support and sales within fast-paced retail environments. Proven ability to manage high-volume workloads, work with little supervision, and deliver friendly, professional service across customer service, inventory control and sales.",
+    "skills": [
+        "Verbal communication",
+        "Initiative",
+        "Flexibility",
+        "Experience",
+        "billing",
+        "cashier",
+        "closing",
+        "clients",
+        "customer service",
+        "features",
+        "neat",
+        "sales",
+        "phone"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate/Cashier",
+            "company": "Company Name City, State",
+            "start_date": "2016-01",
+            "end_date": "Present",
+            "description": "Met incoming customers and provided immediate assistance. Listened to customer needs and preferences to provide accurate advice. Trained all new sales employees on effective techniques. Reviewed purchases for fraudulent activities. Worked flexible schedule to accommodate changing customer levels. Answered incoming telephone calls with professional and knowledgeable responses."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name City, State",
+            "start_date": "2012-07",
+            "end_date": "2013-01",
+            "description": "Made and answered phone calls regarding clients' billing issues. Greeted clients at the gym and answered questions they may have."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name City, State",
+            "start_date": "2009-11",
+            "end_date": "2016-01",
+            "description": "Maintained a neat and clean stock room. Trusted to handle monetary transactions, cashier. Performed opening and closing procedures. Followed through with customer questions, concerns, and escalated issues when needed to management regarding customer complaints. Determined customers' needs and helped customers make smart choices. Performed product sales and customer service by suggesting additional add-ons or features the customer was not aware of."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business and Computer Science",
+            "school": "Norwalk Community College",
+            "year": "2010"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

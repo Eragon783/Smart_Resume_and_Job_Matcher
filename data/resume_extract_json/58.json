@@ -1,0 +1,60 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "QA Automation Engineer with a Master degree in Computer Science, over 4 years of software and information systems QA experience. Skilled in automating web and API tests, developing test frameworks in C#, and working with CI/CD, version control, and bug tracking. Strong communication and mentoring abilities.",
+    "skills": [
+        "Manual testing (Web, Desktop, API)",
+        "Automation of web services and API scenarios (NUnit, Selenium, NSubstitute)",
+        "Performance and coverage analysis",
+        "Test framework development and support",
+        "Test documentation (checklists, test cases, test plans, test reports)",
+        "Version control and CI systems (Git, Bitbucket, Azure DevOps, TeamCity)",
+        "Bug tracking systems (YouTrack, Azure DevOps)",
+        "SQL scripting (MS SQL)",
+        "Mentoring and onboarding",
+        "Presentation of features to customers and stakeholders"
+    ],
+    "experience": [
+        {
+            "title": "QA Automation Engineer",
+            "company": "Arcadia Inc.",
+            "start_date": "March 2021",
+            "end_date": "Present",
+            "description": "Developed and tested QA automation; automated web and API scenarios; built test frameworks using C#; software and information systems QA."
+        },
+        {
+            "title": "QA Specialist",
+            "company": "SKB Kontur",
+            "start_date": "August 2019",
+            "end_date": "October 2020",
+            "description": "Performed QA activities, contributed to automation and test framework work; tested web/desktop/API; collaborated with development teams."
+        },
+        {
+            "title": "QA Automation Engineer",
+            "company": "Ural State University",
+            "start_date": "2012",
+            "end_date": "2018",
+            "description": "Developed QA automation frameworks using C#; contributed to test design and automation strategies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Computer Science",
+            "school": "Arcadia Inc.",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "school": "Ural State University",
+            "year": "2012-2018"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English (proficient)",
+        "Russian (native)",
+        "Hebrew (basic, currently learning)"
+    ]
+}

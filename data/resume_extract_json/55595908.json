@@ -1,0 +1,68 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "10+ years of information technology experience with major IT and energy companies. Experienced in quality inspection, defect prevention, assembly, troubleshooting, and building high-quality servers and sub-assemblies. Proficient in reading drawings, ensuring conformance to engineering specifications, and coordinating with cross-functional teams to maintain schedules. Strong problem solving, attention to detail, and ability to work independently or in teams.",
+    "skills": [
+        "Manufacturing Quality",
+        "Controls and Instrumentation",
+        "Equipment Maintenance",
+        "Mechanical Inspection Tools",
+        "Problem Solving",
+        "Leadership",
+        "Teamwork",
+        "Microsoft Office (Word, Excel, Outlook, PowerPoint)",
+        "Inventory Control",
+        "Data Entry",
+        "Assembly",
+        "Mass Storage",
+        "3PAR",
+        "HP ProLiant Servers",
+        "Rack and Storage Assembly",
+        "Quality Auditing",
+        "Read/Interpret Schematics/Drawings"
+    ],
+    "experience": [
+        {
+            "title": "Technical Test and WIP Auditor",
+            "company": "Company Name, City, State",
+            "start_date": "January 2011",
+            "end_date": "Present",
+            "description": "Conducted 3PAR/EOS WIP audits, performed material inspections per specifications, reduced operator error from 77% to 9%, designed standard work and inspection plans, prepared quality test plans, organized inspection procedures, and coordinated quality systems to evaluate performance against engineering standards."
+        },
+        {
+            "title": "Assembler",
+            "company": "Company Name, City, State",
+            "start_date": "October 2009",
+            "end_date": "August 2011",
+            "description": "Assembled components and subassemblies, including fitting, mounting, alignment, adjusting, and operational testing; performed repairs and in-depth troubleshooting; trained other personnel; read and interpreted drawings to ensure proper assembly and functionality; built various units and subassemblies with close tolerances."
+        },
+        {
+            "title": "Site Engineer",
+            "company": "Company Name, City, State",
+            "start_date": "August 2003",
+            "end_date": "October 2005",
+            "description": "Gained experience in crimping, staking, screwing, bolting, riveting, welding, cementing, and press fits; read production drawings; installed finished assemblies or subassemblies in cases/cabinets; developed layout, parts fabrication, assembly, install and checkout operations for electrical/electronic assemblies and systems; fabricated and assembled chassis and panels from sketches and schematics."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "Military College",
+            "year": "2002"
+        },
+        {
+            "degree": "Bachelor of Military Science Engineering",
+            "school": "Military College",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "HP ProLiant Server certifications (BL: 460, 465c, 490c)",
+        "HP ProLiant Tower Servers (ML: 310 G5, 330 G6, 350 G6, 370 G6)",
+        "HP ProLiant Rack Servers (DL: 120G6, 160G6, 165 G7, 180/185 G6)",
+        "3PAR Rack and Servers Assembly (F200, F400, Storage Systems, T400, T800)"
+    ],
+    "languages": []
+}

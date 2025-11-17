@@ -1,0 +1,69 @@
+{
+    "name": "Georgy Ginzburg",
+    "email": null,
+    "phone": null,
+    "location": "Israel",
+    "summary": "Backend Developer with experience in Golang and microservices, building REST/WebSocket/gRPC APIs, data pipelines and ML model integrations; open-source contributor to FerretDB; experience with PostgreSQL, MongoDB, Redis, Kafka, Docker, Linux and cloud tooling.",
+    "skills": [
+        "Golang",
+        "Java",
+        "Python",
+        "C++",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Kafka",
+        "REST",
+        "WebSocket",
+        "gRPC",
+        "Prometheus",
+        "Linux/Bash",
+        "Docker",
+        "RingCentral",
+        "SQL",
+        "OpenSearch",
+        "Apache Ranger"
+    ],
+    "experience": [
+        {
+            "title": "Golang Developer",
+            "company": "Sber Technologies",
+            "start_date": "Nov 2021",
+            "end_date": "Present",
+            "description": "Developed microservice backend in Golang for an educational platform; worked with PostgreSQL, MongoDB, Redis; implemented APIs (REST, WebSocket, gRPC) and Kafka features; fixed non-obvious bugs affecting virtual environment sessions, REST, and gRPC to increase stability."
+        },
+        {
+            "title": "Machine Learning Engineer Intern",
+            "company": "Prometheus",
+            "start_date": "May 2019",
+            "end_date": "Oct 2019",
+            "description": "Collaborated with Data Scientists to build data transformation pipelines and deliver ML models to production; built REST APIs for model predictions in Python; projects included a recommendation system and a fraud detection service."
+        },
+        {
+            "title": "Open-source Contributor",
+            "company": "FerretDB",
+            "start_date": "Aug 2019",
+            "end_date": "July 2023",
+            "description": "Contributed to FerretDB, an open-source MongoDB-compatible database written in Golang using PostgreSQL as the document store; gained deep understanding of MongoDB subtleties."
+        },
+        {
+            "title": "Open-source Project / Hackathon Project",
+            "company": "Bioinformatics Institute",
+            "start_date": "Aug 2020",
+            "end_date": "June 2021",
+            "description": "Worked on Apache Ranger and OpenSearch integration; part of a Samsung summer school event/hackathon (Sept 2021); proposed a solution to integrate OpenSearch with Apache Ranger authentication and placed 2nd out of 20 participants."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Applied Mathematics and Informatics",
+            "school": "Saint-Petersburg Academic University",
+            "year": "2019-2023"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English (C1)",
+        "Russian (native)"
+    ]
+}

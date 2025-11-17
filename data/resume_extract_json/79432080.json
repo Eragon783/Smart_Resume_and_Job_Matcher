@@ -1,0 +1,129 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Self-motivated individual with the ability to create and maintain a positive and unique relationship with coworkers and clients. Exhibits excellent time management skills, consistent, quality work and a drive to innovate and benefit the workplace. I am looking to obtain a position which allows me to demonstrate my creative nature and passion for all genres of music. Ideally I would like to join a company that would be able to offer me the opportunity to advance my career in the short and long term.",
+    "skills": [
+        "ad",
+        "advertisements",
+        "arts",
+        "art",
+        "basic",
+        "catalogs",
+        "community relations",
+        "Council",
+        "clientele",
+        "client",
+        "data entry",
+        "database",
+        "filing",
+        "film",
+        "first aid",
+        "fundraising",
+        "Hebrew",
+        "inventory",
+        "Leadership",
+        "legal",
+        "notes",
+        "meetings",
+        "Microsoft Office",
+        "Office",
+        "works",
+        "negotiations",
+        "internet research",
+        "Police",
+        "pricing",
+        "programming",
+        "quality",
+        "Research",
+        "safety",
+        "sales",
+        "Scientific",
+        "Statistics",
+        "teacher",
+        "television",
+        "well-organized"
+    ],
+    "experience": [
+        {
+            "title": "Creative Assistant",
+            "company": "Company Name",
+            "start_date": "07/2013",
+            "end_date": "Present",
+            "description": "Act as West Coast Representative of the CMI team for internal and external affairs. Attend showcases, concerts, events on behalf of VH1 CMI team. Maintained relations with label and publishing representatives on the West Coast. Successfully pitched new independent music from all genres to CMI Music team and various production companies for in show placements. Find replacement tracks for all media versions of episodes. Research label/publishing information for potential song use in various VH1 series/promos/specials on as-need basis. Act as liaison between CMI and Music & Media Licensing (send licenses for counter signatures and keep track of approved licenses). Assist with legal work for publishing matters on as-need basis. Coordinate promotional aspects of feature placement deals with social media team. Help organize and categorize tracks in our internal library into our cloud-based storage system. Coordinate and host in-office performances in the Santa Monica offices. Collect and track sales information for feature placement tracks in VH1 programming. Assist with general meetings, tapings and live events for VH1 and MTV Music and Talent as needed. Oversee and run CMI projects for Music and Talent interns. Work with production houses, music libraries and independent composers to quickly and efficiently create and gather all kinds of bed music tracks for series, live events, non-airing pilots and special programming. Watch and check various versions of episodes for proper placements of feature placement tracks and various promotional aspects within episodes."
+        },
+        {
+            "title": "Licensing Assistant",
+            "company": "Company Name",
+            "start_date": "06/2012",
+            "end_date": "06/2013",
+            "description": "Assist in administration of various high clientèle catalogs. Help in negotiations regarding use of client's works in movies, television shows, ad campaigns, and other uses. Draft licenses for finalized deals. Manage all invoices and renewals. Maintain records of all payments and acts as liaison to resolve all pricing and payment issues. Ensure proper filing of client work with appropriate PRO societies, sub-publishers, CMRRA, and the Copyright Office at the Library of Congress. Extensive knowledge with over 10 client catalogs varying in genres of music so as to be able to pitch songs for various placements in television, film, and advertisements."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "10/2011",
+            "end_date": "06/2012",
+            "description": "Acted as the initial point of contact for external affairs and high clientèle. Managed data entry and review of confidential historical files. Edited and reviewed company emails and documents. Served as a liaison between client managers and external interested parties. Created and implemented an easily accessible filing system for company's physical catalogs."
+        },
+        {
+            "title": "Supervisor",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "06/2011",
+            "description": "Oversaw and directed 4-12 employees in the kitchen and ensured proper completion of recipes to create consistent quality foods. Ensured employees adhered to proper safety and sanitation regulations. Provided a pleasant and engaging experience for customers during their dining experience. Assisted in training over 100 peer employees in basic kitchen and bakery skills."
+        },
+        {
+            "title": "Child Life Specialist Assistant",
+            "company": "Company Name",
+            "start_date": "10/2010",
+            "end_date": "06/2011",
+            "description": "Assisted a certified Child Life specialist with creating and enacting treatment plans for pediatric patients. Kept minors company and eased their stress before, during and after their treatment. Kept detailed notes and analysis of experiences with minors throughout their time at the Medical Center to use in assessments of child's physical, mental and emotionally healing."
+        },
+        {
+            "title": "Public Relations Officer",
+            "company": "Company Name",
+            "start_date": "01/2009",
+            "end_date": "12/2010",
+            "description": "Assisted in design and production of all media related items for Panhellenic events. Served as representative on the City-UCD Student Liaison Commission which worked in conjunction with the Davis City Police and City Council to create and put into place relevant standards and by laws."
+        },
+        {
+            "title": "Commissioner",
+            "company": "Company Name",
+            "start_date": "09/2009",
+            "end_date": "03/2010",
+            "description": "Served as an advisory board member on a commission responsible for creating better relationships between off campus Davis community groups, the University and its student body. Planned and successfully held a free, zero waste concert in Davis Central Park to encourage community relations between the student body and the Davis community. Assisted in creating a student discount program with various Davis vendors. Assisted in fundraising campaigns for campus interest groups in need of external funding."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "09/2008",
+            "end_date": "06/2009",
+            "description": "Educated groups of college students on safe ways to partake in drug and alcohol consumptions, and explained different physical, mental and legal consequences of alcohol and drug consumption. Created and lead various interactive program formats to present this educational information to individuals."
+        },
+        {
+            "title": "Summer Programs and Arts Coordinator",
+            "company": "Company Name",
+            "start_date": "06/2007",
+            "end_date": "08/2011",
+            "description": "Created lesson plans and coordinating programming for children ranging between kindergarten and middle school. Coordinated schedules, programs and gathered all supplies needs for different age groups. Kept inventory of all office and art supplies required and ordered from various companies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Human Development",
+            "school": "University of California",
+            "year": "2011"
+        },
+        {
+            "degree": "Nativ College Leadership Program",
+            "school": "Israel",
+            "year": "2006-2007"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Hebrew"
+    ]
+}

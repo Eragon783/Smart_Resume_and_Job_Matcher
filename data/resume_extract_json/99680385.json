@@ -1,0 +1,133 @@
+{
+    "name": "Olivier Sirot",
+    "email": "",
+    "phone": "",
+    "location": "Abu Dhabi, United Arab Emirates",
+    "summary": "QA-QC Lead with 10 years of oil & gas and automotive industry experience, focused on project management and supplier quality. Proven ability to lead quality assurance/quality control activities across design, procurement, onshore and offshore phases, coordinating multi-disciplinary teams and major clients (TOTAL, TECHNIP, EXXON, ADMA-OPCO).",
+    "skills": [
+        "API",
+        "Arabic",
+        "Auditing",
+        "Automotive",
+        "C",
+        "Catia v5",
+        "Contract Management",
+        "Contracts",
+        "Cost Control",
+        "Client Management",
+        "English",
+        "French",
+        "ISO9001",
+        "Inspection",
+        "Invoicing",
+        "Logistics",
+        "MS Office",
+        "MS Outlook",
+        "MS Project",
+        "Windows",
+        "Oil & Gas",
+        "Painting",
+        "Pascal",
+        "Project Lead",
+        "Purchasing",
+        "Quality",
+        "Quality Management",
+        "QA",
+        "Quality Control",
+        "Recruitment",
+        "Reporting",
+        "Safety",
+        "Scheduling",
+        "Six Sigma",
+        "Specification",
+        "Suppliers Selection",
+        "Systems Management",
+        "Validation",
+        "Veritas",
+        "Welding",
+        "Material Science"
+    ],
+    "experience": [
+        {
+            "title": "Project Lead QA-QC Engineer",
+            "company": "Subsea7 France SA",
+            "start_date": "2010-09",
+            "end_date": "2014-03",
+            "description": "Led QA-QC activities for Erha North (EXXON), Clov (TOTAL), and Block 15 (EXXON); managed QC for packages including Buoyancy Foam, Connectors, clamps, structures, Subsea Valves and Forged Flanges; supervised inspectors; reviewed NCRs and MRB; coordinated with HSEQ; contributed to on-site quality assurance."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Bureau Veritas Abu Dhabi",
+            "start_date": "2014",
+            "end_date": "Present",
+            "description": "Project Manager for Umm Lulu and Zakum Electrification projects (ADMA-OPCO); oversaw onshore/offshore activities, planning, cost control, and scheduling; prepared technical and commercial offers; led contract execution and coordination; managed ~25 engineers and subcontractors; ensured successful project completion."
+        },
+        {
+            "title": "Supplier Quality Control Engineer",
+            "company": "Leoni",
+            "start_date": "2009-01",
+            "end_date": "2009-09",
+            "description": "Managed 15 suppliers; participated in supplier selection; prepared validation plans; validated supplier components; conducted homologation and supplier audits; ensured quality of bought components."
+        },
+        {
+            "title": "Supplier Quality Management Engineer",
+            "company": "Continental Automobile",
+            "start_date": "2008-02",
+            "end_date": "2008-12",
+            "description": "Ensured PCB quality at supplier in China; monitored notifications and quality alerts; managed defective parts with 8D; implemented containment actions; conducted supplier visits and corrective actions; assisted in process/part validation."
+        },
+        {
+            "title": "Purchasing Engineer",
+            "company": "Valeo Engine Cooling",
+            "start_date": "2007-10",
+            "end_date": "2008-01",
+            "description": "Buyer for radiator production machine; managed orders, delivery schedules and incoming inspection; organized efficient incoming inspection; negotiated shortest delivery times with suppliers."
+        },
+        {
+            "title": "Supplier Quality Control (Trainee)",
+            "company": "Valeo Connective Systems",
+            "start_date": "2007-03",
+            "end_date": "2007-09",
+            "description": "Managed 25 suppliers; led homologation of 66 components; developed tools and procedures for efficient quality control and defect reporting."
+        },
+        {
+            "title": "Validation Engineer",
+            "company": "VISTEON Interiors Systems",
+            "start_date": "2005-01",
+            "end_date": "2006-07",
+            "description": "Participated in product validation for panels for PSA; coordinated testing requirements; contributed to interface tooling improvements; supported traceability, reporting and cross-functional communication."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Material Science Engineer Diploma",
+            "school": "École Nationale d'Arts et Métiers",
+            "year": 2006
+        },
+        {
+            "degree": "Material Science General University Diploma",
+            "school": "École Polytechnique de Lille",
+            "year": 2003
+        },
+        {
+            "degree": "Scientific High School Master's Degree",
+            "school": "Université Paris XI",
+            "year": 2001
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CSWIP Visual Welding Inspector Level 1",
+            "year": 2013
+        },
+        {
+            "name": "IRCA Certificate for Quality Management Auditor",
+            "year": 2012
+        }
+    ],
+    "languages": [
+        "French",
+        "English",
+        "Arabic"
+    ]
+}

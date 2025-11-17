@@ -1,0 +1,55 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "+972",
+    "location": "Haifa, Israel",
+    "summary": "C/C++ Developer, Python Developer / Student of the M.V. Lomonosov Moscow State University, Faculty of Mechanics and Mathematics with over than 3 years experience of mathematical modelling, numerical computations and algorithms realisation. Considering full-time, part-time and remote work with possibility of relocation from current place of residence.",
+    "skills": [
+        "C",
+        "C++",
+        "Python",
+        "Wolfram Mathematica",
+        "Maple",
+        "Origin",
+        "Gnuplot",
+        "Matplotlib",
+        "OpenGL",
+        "Data visualization",
+        "Computer graphics",
+        "Windows",
+        "Linux",
+        "Virtual Machines"
+    ],
+    "experience": [
+        {
+            "title": "Project Management / Research Assistant",
+            "company": "Moscow State University, Department of Chemistry",
+            "start_date": "Sep 2018",
+            "end_date": "Aug 2019",
+            "description": "1 year student with research work at the Laboratory of GitHub Semiconductive Materials Chemistry and Physics. Course Paper: Influence of scandium doping on semiconductive properties of zinc oxide."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Mathematical Software",
+            "school": "Moscow State University, Faculty of Mechanics and Mathematics",
+            "year": "Sep 2019 - present"
+        },
+        {
+            "degree": "Project Management",
+            "school": "Moscow State University, Department of Chemistry",
+            "year": "Sep 2018 - Aug 2019"
+        },
+        {
+            "degree": "Last-year student, graduated with excellent marks",
+            "school": "Moscow Institute of Physics and Technology, Evening School of Physics and Technology",
+            "year": "Sep 2017 - May 2018"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Russian",
+        "Hebrew"
+    ]
+}

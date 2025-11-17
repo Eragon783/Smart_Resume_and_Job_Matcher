@@ -1,0 +1,76 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Oregon and California",
+    "summary": "To find an internship in the profession where I can gain experience in and exposure to the practice of product design.",
+    "skills": [
+        "Administrative duties",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "AutoCAD",
+        "Revit",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Color",
+        "Data entry",
+        "Digital Illustration",
+        "Inspection",
+        "Insurance",
+        "Interior design",
+        "Materials",
+        "Organizing",
+        "Payroll",
+        "Researching"
+    ],
+    "experience": [
+        {
+            "title": "High Value Residential Insurance Appraiser",
+            "company": "Castle Inspection Service",
+            "start_date": "Aug 2006",
+            "end_date": "Present",
+            "description": "Appraise high value homes in Oregon and California for a replacement cost."
+        },
+        {
+            "title": "Construction",
+            "company": "Company Name",
+            "start_date": "Jul 2005",
+            "end_date": "Jan 2006",
+            "description": "Extensive remodeling project."
+        },
+        {
+            "title": "Interior Design Intern",
+            "company": "Company Name",
+            "start_date": "Nov 2004",
+            "end_date": "",
+            "description": "Internship supporting interior design/project teams, researching materials, and organizing the materials resource library."
+        },
+        {
+            "title": "Accounts Payable Assistant",
+            "company": "Company Name",
+            "start_date": "Jan 1999",
+            "end_date": "Jan 2000",
+            "description": "Handling petty cash, data entry, payroll distribution, and other administrative duties."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BFA, Product Design",
+            "school": "University of Oregon",
+            "year": "Present"
+        },
+        {
+            "degree": "Bachelor of Interior Architecture and Business Administration",
+            "school": "University of Oregon",
+            "year": "2005"
+        },
+        {
+            "degree": "Business Administration",
+            "school": "University of Washington",
+            "year": "1999"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,100 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced Mechanical Designer creating high quality CAD models and engineering drawings in a variety of technical manufacturing industries with experience working in manufacturing and advanced technology industries, designing, detailing, assembling, debugging, and utilizing a strong machine shop background.",
+    "skills": [
+        "3D",
+        "Assistant Manager",
+        "AutoCAD",
+        "Backup",
+        "CAD",
+        "concept",
+        "drafting",
+        "features",
+        "file management",
+        "functional",
+        "drawing",
+        "machining",
+        "director",
+        "mechanical",
+        "modeling",
+        "Packaging",
+        "PDF",
+        "process engineering",
+        "SAP",
+        "SolidWorks",
+        "transportation",
+        "trouble-shooting"
+    ],
+    "experience": [
+        {
+            "title": "Sr. Tooling Designer",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "Current",
+            "description": "Using Autodesk Inventor 2012,2015 and AutoCAD 2015 to produce original tooling designs and working drawings. Support of domestic and foreign manufacturing facilities in trouble-shooting tooling design issues. Processed Engineering change requests to prepare and update drawings to current standards. GD&T taskforce member working with a cross functional group to make drafting changes and standard for the Metal Packaging Division."
+        },
+        {
+            "title": "Mechanical Design Engineer",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "01/2010",
+            "description": "Processed drawing changes for the Ion Beam coating chambers on both standard and custom configuration chambers. Original design work to simplify and reduce the interior shielding to establish a standard for future configurations. Design and drawing software was SolidWorks."
+        },
+        {
+            "title": "Mechanical Design Engineer",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "01/2010",
+            "description": "Retrofitted existing tooling and designed additional features for the LeyBold coating chamber for production work Created original part designs, solid models, detailing, Iges or Step files for solid model geometry and, PDF files for in-house data file management Revised and updated electronic drawing files providing hard copies of the latest revisions to production teams Used standard methods to insure work was checked back into the projects correct file location. Design and drawing software included SolidWorks."
+        },
+        {
+            "title": "Mechanical Design Engineer",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "01/2010",
+            "description": "Worked on design improvements for existing environmentally controlled disk drive test chamber to prepare for a production. Processed engineering changes for 3D CAD solid model designs and corrections of existing solid models. Design and drawing software included Autodesk Inventor."
+        },
+        {
+            "title": "Mechanical Design Engineer",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "01/2010",
+            "description": "Created a new tooling assembly fixture design for to improve production efficiency. Original design of two test prototypes and one working model. Fabricated, Assembled and demonstrated use of working prototype for proof of concept. Design iteration of prototype for higher capacity assembly fixture to be used in high volume production. New part design, design reviews, solid modeling, 3D stereolithography file, detailing, Iges or Step files for solid models. Design and drawing software included SolidWorks."
+        },
+        {
+            "title": "Mechanical Design Engineer",
+            "company": "Company Name",
+            "start_date": "01/2009",
+            "end_date": "01/2009",
+            "description": "Original design work on new parts and fixtures for Diode Array, as well as the BAK and MSP coating chambers. Support and processing of design reviews, solid models and detailed drawings. Processed Iges or Step files for solid model geometry and created PDF files for in-house data file management. Worked on revisions to update the electronic drawing files and created hard copies for production use. Design and drawing software included SolidWorks 2009."
+        },
+        {
+            "title": "Mechanical Designer",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "01/2008",
+            "description": "Supported project work with the director of engineering to process engineering changes to the custom coating chambers for the Solar Panels production line. Working according to a tight schedule for deadlines on new part design creating solid model changes, detailed drawings of weldments and revisions / updates of electronic drawing files. Processed ECO paper work, printing out the latest revisions. Responsible original design of new self-contained Solar Panel, custom mobile storage and transportation cart. Design and drawing software included Autodesk Inventor 2008 and Vault."
+        },
+        {
+            "title": "Senior Mechanical Designer",
+            "company": "Company Name",
+            "start_date": "01/2004",
+            "end_date": "01/2008",
+            "description": "Designed and detailed custom coating fixtures & tooling for the BAK, LeyBold, and MSP coating chambers. Designed original parts creating solid CAD models, detailed drawings, Iges or Step files for solid model geometry, PDF files for in-house data file management into SAP. Processed revisions and updates for electronic drawing files, created hard copies of the latest revisions for production use. Supported machine shop manager as the Assistant Manager for all in-house machining work. Backup operator and maintainer for 3D printing operations using Invision S2. Created CAD models and downloaded solid model parts to create working 3D stereolithography rapid prototype parts for engineering test work and analysis. Aided with the mechanical fixture and tooling equipment for assembly of rear projection light engines. Direct design assistant to the head BAK & LeyBold coating engineers for two and half years. Design and drawing software included Autodesk Inventor 10."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science: Machine Drafting Technology",
+            "school": "Front Range Community College",
+            "year": 1992
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

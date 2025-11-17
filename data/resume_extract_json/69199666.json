@@ -1,0 +1,84 @@
+{
+    "name": "G",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "",
+    "skills": [
+        "ads",
+        "autism",
+        "benefits",
+        "billing",
+        "Coach",
+        "Coaching",
+        "client",
+        "clients",
+        "data processing",
+        "delivery",
+        "drivers",
+        "Filing",
+        "Financial statements",
+        "hiring",
+        "inventory",
+        "managing",
+        "meetings",
+        "access",
+        "office",
+        "network",
+        "networking",
+        "payroll",
+        "Personal Coaching",
+        "presentations",
+        "Pricing",
+        "Psychology",
+        "recruiting",
+        "researching",
+        "Research",
+        "sales",
+        "seminars",
+        "staffing",
+        "Phone",
+        "Workshops"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Recruiter",
+            "company": "Company Name",
+            "start_date": "Jul 2016",
+            "end_date": "Mar 2017",
+            "description": "Managed full cycle recruiting process to meet staffing goals. Developed strong relationships and partnered with hiring manager to maximize effectiveness of recruiting process. Tracked and reported key metrics. Partnered with hiring manager and interview teams to ensure job requirements were clearly understood. Presented candidates and coordinated the interview process. Built a network and pipeline of healthcare professionals that matched hospital partners' culture. Sourced and screened candidates to meet the high volume of open positions."
+        },
+        {
+            "title": "Professional Recruiting Specialist",
+            "company": "Company Name",
+            "start_date": "Jun 2013",
+            "end_date": "Dec 2015",
+            "description": "Sought, interviewed, reference checked and placed contract employees that completely satisfied the client requirements. Built contract employee workforce through ads, career fairs, social media relationships, and networking. Took personal responsibility for and met all individual activity goals of entire division. Actively participated in all team meetings; actively shared ideas and concepts. Communicated with clients regarding specific job orders, candidate submissions and other candidate matters (conference calls, etc...). Continuously explored new recruiting sources, job boards, and forums to assist the recruiters in growing their candidate pools, as well as providing the sales team with business leads. Actively participated in networking groups and other business and community programs to increase skill knowledge. Ensured all hiring paperwork was completed thoroughly including I-9's for all new hires as well as, drugtests and background checks when required by the client."
+        },
+        {
+            "title": "Pricing Coordinator/ Phone Representative",
+            "company": "Company Name",
+            "start_date": "Jan 2010",
+            "end_date": "Apr 2013",
+            "description": "Processed field partner's requests for pricing with accuracy, promptness and diligence. Entered pricing into system with efficiency to ensure timely delivery of product. Served as contact pricing support for assigned pricing groups; answering specific emails and researching questions regarding accurate pricing for customers. Assisted team members with keying pricing per deadlines. One of four Override Phone Team members of the first dedicated Pricing phone team. Chosen to assist delivery drivers with override code needed to make deliveries of product to customers, successfully handled on average 150-185 calls per day. Efficiently researched pricing codes for accuracy. Maintained polite, respectful, courteous attitude, while displaying keen understanding to the demands of the driver's schedules."
+        },
+        {
+            "title": "Administrative Assistant/Billing Specialist",
+            "company": "Company Name",
+            "start_date": "Aug 2005",
+            "end_date": "Nov 2008",
+            "description": "Managed accounts for 7 loan officers- collected, reviewed and processed employee payroll timesheets; completed monthly billing worksheets, completed expense projections for office, completed data processing. Maintained inventory, placed orders for office, reordered items per need. Set-up customer meetings in office. Organized conference room for presentations and meetings. Assisted with coalition of loan applications. Set up candidate meetings; prepared agendas and packets. Drafted and typed outgoing correspondence for clients. Answered front desk calls regarding loan questions and procedures. Financial statements: Reconciled Bank accounts and ran financial statements for all properties. Delinquencies: Posted charges (late fees and interest) for delinquent tenants, mailed out delinquent statements to tenants. Provided delinquency report to property manager. Filing: Maintained cohesive filing system for easy access to information. Adhered to strict deadline schedule, managing several projects with ease."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Psychology",
+            "school": "Virginia State University",
+            "year": "2002"
+        }
+    ],
+    "certifications": [
+        "Certified Life Coach (Expert Rating Online Program, 2017)"
+    ],
+    "languages": []
+}

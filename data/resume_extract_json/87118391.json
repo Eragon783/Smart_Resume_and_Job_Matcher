@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Sales professional with extensive experience in account management, customer relations, and leadership roles across hospitality, aviation, and distribution. Focused on maximizing sales, building strong client partnerships, and achieving short- and long-term targets. Known for excellent communication, teamwork, training, and problem-solving.",
+    "skills": [
+        "attention to detail",
+        "interpersonal and communication",
+        "communications skills",
+        "oral communication",
+        "creative problem solving",
+        "customer relations",
+        "customer service",
+        "government",
+        "innovation",
+        "inspection",
+        "leadership",
+        "materials",
+        "problem solving",
+        "public safety",
+        "public speaking",
+        "quality",
+        "safety",
+        "sales",
+        "supervisory",
+        "supervision",
+        "technician",
+        "Air Force"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "September 2008",
+            "end_date": null,
+            "description": "Responsible for implementing all business-building and relationship-building expectations with uniquely assigned accounts and customers. Consistently met and exceeded department expectations for productivity and accuracy levels. Recommended and helped customers select merchandise based on their needs. Informed customers about sales and promotions in a friendly and engaging manner. Answered customers' questions regarding products, prices and availability. Collaborated with colleagues to exchange selling strategies and marketing information. Collaborated with members of other departments to complete sales transactions. Shared product knowledge with customers while making personal recommendations."
+        },
+        {
+            "title": "City Manager",
+            "company": "Company Name",
+            "start_date": "April 2008",
+            "end_date": "September 2008",
+            "description": "Successfully managed the activities of 12 team members. Developed, implemented and monitored programs to maximize customer satisfaction. Interviewed, hired and trained new quality customer service representatives. Addressed negative customer feedback immediately. Resolved customer questions, issues and complaints. Coordinated with airport vendors regarding fueling and catering logistics. Determined flight close-out times and completed and verified flight forms."
+        },
+        {
+            "title": "Senior Corporate Travel Consultant",
+            "company": "Company Name",
+            "start_date": "September 2017",
+            "end_date": "April 2008",
+            "description": "Planned travel arrangements for 200 executives and staff. Received and screened a high volume of internal and external communications, including email and mail. Collected customer feedback and made process changes to exceed customer satisfaction goals. Made reasonable procedure exceptions to accommodate unusual customer requests. Provided accurate and appropriate information in response to customer inquiries. Addressed customer service inquiries in a timely and accurate fashion. Built customer loyalty by placing follow-up calls for customers who reported product issues."
+        },
+        {
+            "title": "Passenger Service Agent",
+            "company": "Company Name",
+            "start_date": "January 1995",
+            "end_date": "September 2007",
+            "description": "Communicated with customers daily. Committed to the assistance and support of others while maintaining a cheerful and helpful attitude. Trained in and maintained excellent interpersonal and communication skills that complement proven creative problem solving capabilities. Provided superior customer service and work quality while demonstrating attention to detail, flexibility and innovation in resolving problems. Possessed effective communications skills, and work well with others at all levels. Dealt tactfully and effectively with difficult customers. Experienced in both customer service and supervisory positions. Worked closely with the inflight, flight dispatch, maintenance, and customer service departments through the operations position to meet the needs of the customers. Experienced in handling emergencies, flight delays, diversions, and other related incidents. Handled incoming and outgoing communications, aircraft flight guards, and initiated overdue actions. Handled time-sensitive freight, general goods, hazardous materials, and government shipments. Successfully completed civil aviation security course conducted by FAA. Assured flight safety during winter operations through deicing certification and training."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Communications",
+            "school": "West Virginia State University",
+            "year": "2002"
+        },
+        {
+            "degree": "Military Service - United States Air Force / Air National Guard",
+            "school": "United States Air Force / Air National Guard",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "George Washington High School",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Civil Aviation Security Course (FAA)",
+        "Deicing Certification and Training"
+    ],
+    "languages": [
+        "English"
+    ]
+}

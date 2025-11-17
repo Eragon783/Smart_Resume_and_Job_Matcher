@@ -1,0 +1,89 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "GROUP FITNESS INSTRUCTOR Summary Seasoned customer service specialist with background in providing advice on diverse customer situations. Results-oriented professional with diverse background in management and customer service. Dedicated to providing excellent customer service and making operational and procedural improvements. Talented leader and robust ability to communicate needs and effectively deliver knowledge to staff. Administer strong teams and efficient systems, positively impacting business growth and downsizing objectives. Attention to details.",
+    "skills": [
+        "Account Management",
+        "Enthusiastic people person",
+        "Advanced problem-solving",
+        "Organizational skills",
+        "Active Learning",
+        "Calendaring",
+        "Client Relations",
+        "Computer Proficiency",
+        "Coordination",
+        "Critical Thinking",
+        "Customer Needs Assessment",
+        "Customer Service",
+        "Data Collection",
+        "Data Entry",
+        "Documentation",
+        "Email",
+        "Executive Management Support",
+        "Filing",
+        "Grammar",
+        "Internet Research",
+        "Research",
+        "Scheduling",
+        "Service Orientation",
+        "Speaking",
+        "Spreadsheets",
+        "Telephone Skills",
+        "Time Management",
+        "Type 48 WPM",
+        "Typing",
+        "Writing",
+        "Letters and Memos",
+        "Microsoft Excel",
+        "Microsoft Office Suite",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "Minute Taking",
+        "Multi-Task Management",
+        "Prioritization",
+        "Proofreading",
+        "Reading Comprehension"
+    ],
+    "experience": [
+        {
+            "title": "Group Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "September 2010",
+            "end_date": "April 2015",
+            "description": "Explained ways to measure exercise intensity for the best results. Designed each class to match the skill and learning levels of all participants. Suggested exercise modifications to individual students to avoid strain and injury. Encouraged members to continue attending group fitness classes. Tracked class attendance and monitored class size to gauge the effectiveness of promotions."
+        },
+        {
+            "title": "Senior Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "October 2005",
+            "end_date": "April 2015",
+            "description": "Developed, implemented and monitored programs to maximize customer satisfaction. Served as a point of contact for members with discrepancies or complaints. Addressed 30 website inquiries per day, converting 30 into renewal customers. Maintained up-to-date knowledge of organizational policies regarding payments, returns and exchanges. Created new processes and systems for increasing customer service satisfaction. Process literature orders (books and pamphlets) and contributions by inputting payments such as cash, checks, or credit cards. Excelled in exceeding daily credit card application goals. Cross-trained and provided back-up for other customer service representatives when needed. Receive 20-30 inbound calls that include researching accounts, shipping errors, general shipping estimations, or providing inventory count on a daily basis. Maintain customer mailing address database system."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "December 2003",
+            "end_date": "June 2004",
+            "description": "Coordinated daily routes and assigned installation and repair to HVAC technicians through database. Served as a primary liaison between HVAC equipment distribution centers and fifteen field service technicians. Included procuring, billing, processing purchase orders, and invoices of equipment parts for the accounting department. Delegated workflow to technicians based on priorities of inbound calls regarding installation and equipment repairs. Maintained monthly logs of customer HVAC equipment preventative maintenance and performed outbound calls to schedule appointments."
+        },
+        {
+            "title": "Dispatcher/ Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "February 2000",
+            "end_date": "August 2003",
+            "description": "Oversaw scheduling for the day-to-day activities of 18 waste transportation employees. Negotiated contracts with outside providers to minimize costs to the company and customers. Evaluated operational records including driver daily logs DOT and waste transfer stops to assure compliance to state regulations. Created scheduling adjustments to efficiently maximize waste removal. Contacted customers prior to delivery to confirm and coordinate delivery times."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Human Resource Management",
+            "school": "Saint Leo University",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

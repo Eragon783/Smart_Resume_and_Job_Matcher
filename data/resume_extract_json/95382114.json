@@ -1,0 +1,62 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Resourceful and self-directed business development manager with international experience across Southern Africa and three continents. Defined and executed strategies and operations while leading collaborative full project cycles with national and local governments. Spearheaded projects improving life and health for millions by delivering low-cost, safe, clean, reliable renewable energy solutions. Proven record in sales, strategic planning, and financial reporting resulting in over $50M in sales and project development. Former Intelligence Analyst (TS/SCI) with US Air Force background, bringing cross-functional leadership, proposal development, and data-driven decision making.",
+    "skills": [
+        "Account Management",
+        "Analytical Skills",
+        "Asset Management",
+        "Budget",
+        "Business Development and Operations",
+        "Closing and Negotiation",
+        "CRM",
+        "Financial Modeling",
+        "Leadership",
+        "Networking",
+        "MS Office",
+        "Research",
+        "Teamwork",
+        "Strategic Planning"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Manager",
+            "company": "Company Name",
+            "start_date": "09/2013",
+            "end_date": "",
+            "description": "Developed strategic and operational relationships across 3 Foreign Governments. Exceeded targeted sales goals by $24m USD. Generated new accounts by implementing effective networking and content marketing strategies. Directly managed multi-million co-operative budgets supporting global GTM strategy. Identified strategic partnerships and gathered market information to gain a competitive advantage. Created value propositions, international programs and strategic plans while maintaining multi-location, International accounts. Cultivated relationships with key players in various industries to create ongoing and mutually beneficial referral systems. Developed growth plans by identifying key clients and targets. Leveraged lead generation tools to increase profitability and product presence in the marketplace. Collaborated with account executives to penetrate new accounts and identify potential customers."
+        },
+        {
+            "title": "Sales Manager",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "01/2012",
+            "description": "Assisted financial director and other company leaders in due diligence and negotiations related to acquiring or disposing of assets. Collaborated with senior leadership team to monitor business performance in all areas including, but not limited to, capital allocation, sales, acquisitions and marketing. Coordinated and managed major proposal processes from initiation to implementation. Led data analysis resulting in comprehensive global strategies. Designed and implemented strategic sales plan including new product development; increasing sales by over 20%. Mastered MS Office to highlight financial models and analysis to suggest investment opportunities. Strong aptitude for analytical and financial modeling with demonstrated attention to detail and sales."
+        },
+        {
+            "title": "Intelligence Analyst",
+            "company": "Company Name",
+            "start_date": "11/2002",
+            "end_date": "11/2007",
+            "description": "Identified strategic partnerships and gathered market information and other data to gain a competitive advantage. Complied and delivered performance updates and planning meetings for Agency executive team. Conducted international research, data gathering and analysis in direct support of POTUS / SECDEF."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Management",
+            "school": "Rutgers University",
+            "year": "2013"
+        },
+        {
+            "degree": "Executive Education in Management",
+            "school": "Stanford University Graduate School of Business",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Global War on Terrorism Service Medal"
+    ],
+    "languages": []
+}

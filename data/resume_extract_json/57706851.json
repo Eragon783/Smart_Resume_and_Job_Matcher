@@ -1,0 +1,100 @@
+{
+    "name": "Sanjay Dogra",
+    "email": null,
+    "phone": null,
+    "location": "New Delhi, India",
+    "summary": "To work for professional organization that gives an opportunity for growth and to contribute value based management talent along with the seeking guidance from proficient seniors to help me sharpen my skills. To be a part of the team that works in dynamically challenging environment for growth of the organization and helping in achieving goal congruency. Working as a NOC (Network Operation Center) Engineer in Encore Capital Group. That is a leading BPO in call center technology. Having Eight plus years of professional experience, I bring forth a unique set of knowledge and skills which include an in-depth understanding of Business Processes and Structured Methodologies, experience in the Customer Service industry, excellent understanding of Offshore Client requirements, professional education and valuable experience gained mostly while working in last couple of organisation. Highlights Service Now, Microsoft Lync, MSN. *VPN: Cisco client, Cisco SSL, Check point Secure client. *Operating System: XP, Windows 7. *Office Tools: MS Office 2007 & 2010",
+    "skills": [
+        "ServiceNow",
+        "Microsoft Lync",
+        "MSN",
+        "VPN (Cisco client, Cisco SSL, Check Point Secure Client)",
+        "Operating Systems: XP, Windows 7",
+        "MS Office 2007 & 2010",
+        "Event Management",
+        "Incident Management (ITIL)",
+        "Monitoring tools: Application Manager, NetFlow Analyzer, SolarWinds Orion",
+        "AS/400",
+        "SQL Server Management Studio",
+        "Idera",
+        "Video conferencing (Tandberg)",
+        "Service Desk",
+        "TeamViewer",
+        "RDP",
+        "Oracle",
+        "Prolaw",
+        "Qlaw",
+        "Noble",
+        "LAN",
+        "Xerox machine",
+        "Leadership",
+        "Knowledge Management",
+        "Microsoft Exchange",
+        "ITIL v3"
+    ],
+    "experience": [
+        {
+            "title": "NOC Engineer",
+            "company": "Encore Capital Group",
+            "start_date": "April 2011",
+            "end_date": "April 2016",
+            "description": "NOC responsibilities within Enterprise operations: event and incident management (L2/L3), troubleshooting alerts from monitoring tools, training new hires, alert configuration, monitoring infrastructure with Application Manager, NetFlow Analyzer, and SolarWinds Orion; updating dashboards and inventory; maintaining ServiceNow tickets and SLAs; creating shift rosters; updating process documents and knowledge management for new joiners; configuring alarms and managing network devices."
+        },
+        {
+            "title": "ServiceDesk Engineer Level 1 Analyst",
+            "company": "Unknown (Company Name)",
+            "start_date": "December 2008",
+            "end_date": "March 2011",
+            "description": "Provided first-level support for desktops and laptops (Win XP/Pro/Vista) for US and China customers; progressed to Level 2, coached Level 1 analysts, managed attendance and reports; remote support (RDP, Microsoft Lync, TeamViewer); handling escalations, training new hires, and contributing to knowledge/documentation; experience with VC equipment and Tandberg conferencing."
+        },
+        {
+            "title": "ServiceDesk Engineer and Floor Engineer",
+            "company": "Unknown (Company Name)",
+            "start_date": "July 2008",
+            "end_date": "November 2008",
+            "description": "Member of Global Helpdesk and Del-IT Mailbox team; managed outages and interruptions; troubleshooting VPN connectivity; worked with Win 7/XP Pro; handled LAN ports and coordinated with vendors; supported internal applications and VC room operations; floor activities and documentation."
+        },
+        {
+            "title": "IT Helpdesk",
+            "company": "Aricent Software Services",
+            "start_date": "January 2007",
+            "end_date": "July 2008",
+            "description": "Handled online technical queries of international customers; provided online support to China & U.S. users over MSN using TeamViewer; documented incidents and followed processes from ticket opening to closing; managed IT inventory and vendor follow-ups; supported various hardware/software issues and remote access.\n"
+        },
+        {
+            "title": "Sr. CSA / Allocator (Inbound process)",
+            "company": "Xerox",
+            "start_date": "January 2007",
+            "end_date": "July 2008",
+            "description": "Handled inbound Xerox customer queries related to Xerox machines; toner booking; followed up with field engineers; updated Oracle with installation and inventory data; assigned calls to engineers/warehouse and coordinated with vendors; managed reporting and sales call details."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts (BA)",
+            "school": "Delhi University",
+            "year": null
+        },
+        {
+            "degree": "12th Grade",
+            "school": "PSM Public School Delhi",
+            "year": null
+        },
+        {
+            "degree": "10th Grade",
+            "school": "PSM Public School Delhi",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Diploma (ADCHNP) in Computer Hardware and Networking - JETKING, New Delhi",
+        "CCNA trained - NET-TECH Institute (Janakpuri)",
+        "Leadership Essentials Certificate - PC Solution",
+        "ITIL v3 certified"
+    ],
+    "languages": [
+        "English",
+        "Hindi",
+        "Punjabi"
+    ]
+}

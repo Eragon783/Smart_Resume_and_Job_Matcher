@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To be afforded the opportunity to apply my advanced administrative, problem solving, organizational and sales abilities towards achieving continuous, improved business performance for a growing/stable organization.",
+    "skills": [
+        "Marketing",
+        "Clients",
+        "Product Positioning",
+        "Public Relations",
+        "Interviewing",
+        "Recruiting",
+        "Community Relations",
+        "Operations",
+        "Case Management",
+        "Recruiter",
+        "Recruitment",
+        "Training",
+        "Solid Waste",
+        "Solid Waste Management",
+        "Waste Management",
+        "Liaison",
+        "Customer Service",
+        "Database",
+        "HIPAA",
+        "Maintenance",
+        "Receptionist",
+        "Retail Sales",
+        "Training Programs",
+        "Budget",
+        "Truck Driving",
+        "Food Distribution",
+        "Storage Area Network"
+    ],
+    "experience": [
+        {
+            "title": "Community Relations Advocate Supervisor",
+            "company": "Company Name",
+            "start_date": "10/2012",
+            "end_date": "Current",
+            "description": "Cultivated relationships with community contacts, location sponsors, property managers, property owners and non-profit organizations. Initiated beneficial partnerships with local municipalities and non-profit organization to support company growth organizations (City of Houston, Solid Waste Management Department and City of Santa Fe). Coordinated with marketing team for various events in researching and generating referrals."
+        },
+        {
+            "title": "Program Director",
+            "company": "Company Name",
+            "start_date": "08/2000",
+            "end_date": "10/2012",
+            "description": "Implementation of marketing plans, including product positioning, campaign strategies, and market strategy insights. Utilized strong communication and public relations skills for existing and potential clients. Organized and executed the recruitment of prospective students for various training programs. Managed all aspects of the enrollment process including interviewing, advising, tours, orientation, and processing paperwork. Counseled enrolled students on career options and job opportunities. Cultivated relationships with community contacts, location sponsors, property managers, property owners and non-profit organizations. Administered department operations; duties including training, database maintenance and customer service. Generated accurate weekly reports or client status and followed up in a timely manner. Acknowledged for consistently meeting trial date deadlines. Supervised a team of 20-30 team members. Adhere to Privacy Act and HIPAA requirements as it relates to confidentiality of information released. Created and executed recruiting campaigns for prospective adoptive parents. Developed partnerships to support organizational growth for board of directors, prospective adoptive parents, government local and state agencies, business owners, churches and non-profit organizations. Determined eligibility, oversaw and tracked application process; responded to various inquiries and acted as an advocate for prospective adoptive parents who encountered difficulty."
+        },
+        {
+            "title": "Case Manager",
+            "company": "Company Name",
+            "start_date": "06/2000",
+            "end_date": "09/2002",
+            "description": "Served as liaison for sponsoring school, St Philips College and International Truck Driving Program. Implemented program procedures, interviewing process and organized operations. Spearheaded recruitment of prospective students and potential employers. Identified contacts and resources for student supportive services (tuition assistance, job placement, etc.)"
+        },
+        {
+            "title": "Recruiter and Case Manager",
+            "company": "Company Name",
+            "start_date": "03/1996",
+            "end_date": "06/2000",
+            "description": "Responsible for recruiting, interviewing, and determining eligibility for economically disadvantaged youth for summer work programs. Partnered with local nonprofit organizations, county, city and state agencies for youth to market employment opportunities. Documented case management services in accordance to JTPA requirements."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Interdisciplinary Bachelor of Interdisciplinary Studies EC-6 Generalist with EC-12 Special Education",
+            "school": "University of Houston Clear Lake",
+            "year": "In progress, Anticipated Spring 2016"
+        }
+    ],
+    "certifications": [
+        "HIPAA"
+    ],
+    "languages": []
+}

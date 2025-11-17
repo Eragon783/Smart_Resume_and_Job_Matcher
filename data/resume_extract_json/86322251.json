@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am a highly motivated educator and self-starter with a passionate commitment to learners and their success and growth. I am accountable and thorough with a history of sound decision-making and innovative skills that have helped a plethora of teachers and students succeed. As a professional educator with an extensive background in student success, I am also a certified Life and Success Coach. I look forward to extending my expertise to the teachers and staff at Van Buren Middle School. I believe that student success is inevitable with competent, passionate, all in teachers that will stand by their side inspiring productivity and essentially lifelong learners.",
+    "skills": [
+        "Highly Effective Teacher",
+        "Motivator",
+        "Innovator",
+        "Successful Leader",
+        "Classroom Discipline",
+        "Classroom Management",
+        "Creative Lesson Planning",
+        "Public Speaking",
+        "Active Learning"
+    ],
+    "experience": [
+        {
+            "title": "Reading Teacher",
+            "company": "Company Name",
+            "start_date": "August 2006",
+            "end_date": "May 2017",
+            "description": "Helped students develop and improve study methods and habits. Used a variety of teaching methods such as lectures, discussions and demonstrations. Improved 97% reading scores to satisfy graduation requirements. Met with parents and guardians to discuss students' progress at least once per semester. Established positive relationships with students, parents, colleagues and administrators. Encouraged discussion of class material to promote critical thinking and academic success. Implemented remedial programs for students requiring extra help. Participated in regular professional development training to keep up-to-date with new teaching."
+        },
+        {
+            "title": "Sunshine Social Chairperson",
+            "company": "Company Name",
+            "start_date": "August 2013",
+            "end_date": "June 2016",
+            "description": "Collected faculty and staff dues. Planned and organized all school events, i.e. Parent Conference Night meals, Birthdays, Retirement Celebration, End of the year luncheon. Morale Booster."
+        },
+        {
+            "title": "On-Site Professional Developer",
+            "company": "Company Name",
+            "start_date": "August 2010",
+            "end_date": "September 2012",
+            "description": "Led 110 students to improve test scores by more than 37% during the first semester of the 2015-2016 academic year. Offered specific training programs to help teachers maintain and improve in classroom management and student success. Used a variety of teaching methods such as lectures, discussions and demonstrations to promote student success. Provided onsite training for teachers and staff. Planned and executed book studies and faculty trainings."
+        },
+        {
+            "title": "Girls JV Basketball Coach",
+            "company": "Company Name",
+            "start_date": "August 2006",
+            "end_date": "June 2009",
+            "description": "Motivated and encouraged student athletes to do their best during practices and games. Met with prospective student-athletes to discuss their experience and goals. Created and ran up-to-date and relevant drills. Monitored the academic performance of student-athletes in addition to their athletic progress. Helped develop each participant's physical and psychological fitness. Maintained and updated attendance forms and insurance records."
+        },
+        {
+            "title": "VE Teacher",
+            "company": "Company Name",
+            "start_date": "July 2002",
+            "end_date": "May 2006",
+            "description": "Employed a variety of assessment tools and strategies to improve instruction in the classroom. Attended a variety of professional development workshops centered on learning goals, classroom management, student motivation and engaging learning activities. Served on various committees and projects including Sunshine Committee as the on-site Chairperson. Facilitated activities that developed students' physical, emotional and social growth. Encouraged students to be understanding with others. Used the positive reinforcement method to redirect poor behavior. Conducted small group and individual classroom activities with students based on differentiated learning needs. Worked with an average of 20 students per class. Participated in ongoing staff training sessions."
+        },
+        {
+            "title": "Sunshine Social Chairperson",
+            "company": "Company Name",
+            "start_date": "August 2002",
+            "end_date": "May 2006",
+            "description": "Collected faculty and staff dues. Planned and organized all school events, i.e. Parent Conference Night meals, Birthdays, Retirement Celebration, End of the year luncheon. Morale Booster."
+        },
+        {
+            "title": "Girls Basketball Coach",
+            "company": "Company Name",
+            "start_date": "August 2002",
+            "end_date": "May 2006",
+            "description": "Motivated and encouraged student athletes to do their best during practices and games. Met with prospective student-athletes to discuss their experience and goals. Created and ran up-to-date and relevant drills. Monitored the academic performance of student-athletes in addition to their athletic progress. Helped develop each participant's physical and psychological fitness. Maintained and updated attendance forms and insurance records."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Varying Exceptionalities & ESOL",
+            "school": "University of South Florida",
+            "year": "2002"
+        },
+        {
+            "degree": "Master of Science: Educational Leadership School Administration",
+            "school": "University of South Florida",
+            "year": "on-going"
+        }
+    ],
+    "certifications": [
+        "Certified Life and Success Coach"
+    ],
+    "languages": []
+}

@@ -1,0 +1,93 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "HEALTHCARE RECRUITER Highlights Microsoft Office Suite (Word, Excel PowerPoint, Outlook, Access); Google Documents; WinTeam.",
+    "skills": [
+        "accounting software",
+        "administrative",
+        "Audio",
+        "benefits",
+        "C",
+        "contracts",
+        "client",
+        "Data Management",
+        "DC",
+        "documentation",
+        "Senior Management",
+        "forms",
+        "functional",
+        "hiring",
+        "Human Resource",
+        "HR",
+        "inventory",
+        "invoicing",
+        "legal",
+        "materials",
+        "Access",
+        "Excel",
+        "Microsoft Office Suite",
+        "office",
+        "Outlook",
+        "PowerPoint",
+        "PowerPoint presentations",
+        "Win",
+        "Word",
+        "newsletter",
+        "Payroll",
+        "personnel",
+        "processes",
+        "recruiting",
+        "recruitment",
+        "reporting",
+        "research",
+        "scheduling",
+        "staffing",
+        "tax",
+        "phone",
+        "training programs",
+        "video",
+        "website",
+        "websites",
+        "Author",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Recruiter",
+            "company": "Company Name",
+            "start_date": "08/2015",
+            "end_date": "03/2016",
+            "description": "Created announcements for open job positions; posted announcements online on company website and major job posting websites such as CareerBuilder, Monster, and Indeed to attract interested candidates. Addressed questions from public, employees, and outside agencies regarding current employment opportunities and application status. Interviewed prospective candidates to assess qualifications and capabilities; guided candidates through application process, scored written exams, and notified candidates of results. Drafted employment contracts and prepared onboarding and orientation documentation for new hires. Maintained up-to-date HR files by identifying and purging obsolete records and transferring records to storage."
+        },
+        {
+            "title": "HR Administrator",
+            "company": "Company Name",
+            "start_date": "01/2014",
+            "end_date": "01/2015",
+            "description": "Administrative responsibilities including personnel, workers' compensation, general liability, training, and recruitment programs. Promoted to perform diverse Human Resource Generalist functions—overseeing 400 Security Guards. Reported directly to the District Manager providing support for a high volume of confidential client and employee information. Oversaw processes including Data Management, Job Application and Payroll utilizing the accounting software, Win Team. Performed pre-audits of personnel files to ensure compliance before internal, state and federal auditor examinations. Performed routine administrative tasks including scheduling, phone correspondence, office inventory, compensation, job posting, reporting, and invoicing. Lead staffer in the hiring process conducting background checks, reference checks and drug screening; interfacing closely with the SOMB and the DC department for results and testing functionality. Played a key role in staffing over 150 Security Guards for Virginia and D.C. Wal-Mart's Black Friday events. Participated in Wal-Mart's two-day Security Associates Training Academy."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "01/2014",
+            "description": "Assisted District Manager to administer personnel, workers' compensation, general liability, training, and recruitment programs. Researched, planned, and implemented training programs to develop existing staff competencies and facilitate new hire orientation and onboarding. Coordinated group interviews to help organization select qualified candidates for open positions; worked with staffing agencies to place temporary workers in administrative positions throughout company. Helped applicants fill out paperwork, including tax forms, benefits forms, and associated new hire documentation. Analyzed existing HR Department operations and provided recommendations to improve workflows, optimize candidate selection, and improve HR training schedules. Promoted to perform diverse Human Resource Generalist functions which contributed to the smooth and profitable operation of the Virginia and DC territories - overseeing 400 Security Guards. Reported directly to the District Manager providing support for a high volume of confidential client and employee information. Oversaw several necessary processes including Data Management, Job Application and Payroll utilizing the accounting software, Win Team. Performed pre-audits of personnel files to ensure compliance before internal, state and federal auditor examinations. Performed routine administrative tasks including scheduling, phone correspondence, office inventory, compensation, job posting, reporting, and invoicing. Was lead staffer in the hiring process conducting background checks, reference checks and drug screening - interfacing closely with the Security Officer Management Branch (SOMB) and the DC department for results and testing functionality. Played a key role in staffing over 150 Security Guards for Virginia and D.C. Wal-Mart's Black Friday events. Led training academy and produced corporate communications materials."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Human Resource Management",
+            "school": "DeVry University",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Science in Criminal Justice",
+            "school": "New Jersey City University",
+            "year": 2012
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

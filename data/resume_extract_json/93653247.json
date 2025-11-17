@@ -1,0 +1,88 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dynamic, hands-on Program Manager and PMO Director with a proven track record of leading IT projects, building high-performing PMOs, aligning business and IT objectives, and delivering measurable financial and operational outcomes.",
+    "skills": [
+        "Budgets",
+        "budget",
+        "business analysis",
+        "contracts",
+        "Contract Management",
+        "Financial",
+        "forecasting and financial",
+        "financial operations",
+        "functional",
+        "leadership",
+        "mentor",
+        "Office",
+        "enterprise",
+        "optimization",
+        "organizational",
+        "performance reviews",
+        "processes",
+        "Program Management",
+        "Project Management",
+        "project planning",
+        "project plans",
+        "quality assurance",
+        "quick",
+        "reporting",
+        "strategy",
+        "strategic analysis",
+        "unique",
+        "website development"
+    ],
+    "experience": [
+        {
+            "title": "Director of Finance",
+            "company": "Company Name, City, State",
+            "start_date": "2011-01",
+            "end_date": "Present",
+            "description": "PMO Start-Up; Contract Management; PMO Management. Trusted financial executive with CFO- and CIO-level responsibilities; adds transparency to IT and financial operations while adapting financial strategy to organizational goals. Program Manager over all IT projects—manage workloads, define deliverables, hire and mentor resources, conduct performance reviews, and ensure compliance with PMO processes. Direct business forecasting and financial analysis activities and identify opportunities and risks along with action plans to ensure attainment of financial goals. Spearheaded the development of the first-ever Program Management Office; defined project management processes, including those related to requirements management, change control, and user acceptance testing. Captured 60% savings in project costs in only five months; reengineered project plan and renegotiated contracts with new vendors; enhanced quality assurance and maintained timelines. Reengineered vendor policy to enhance quality assurance and to identify risks and issues at earlier stages during the project; managed contracts for all IT vendors including website development, hosting, IT operations, and IT applications development."
+        },
+        {
+            "title": "VP",
+            "company": "Company Name, City, State",
+            "start_date": "2010-01",
+            "end_date": "2012-01",
+            "description": "Off-Shore Project Management | Multimillion-Dollar Budgets | Global PMO Staff. Top-performing Program Manager consistently sought out to reengineer troubled projects. Managed PMO staff in a matrix reporting structure consisting of 44 Global Project Managers and a department budget of $15-million. Directed programs with up to 70 infrastructure and application projects—implemented vendor and financial strategies that improved project planning and reduced costs by 60% in only five months."
+        },
+        {
+            "title": "Manager, Program Management",
+            "company": "Light Technologies, Inc.",
+            "start_date": "1995-01",
+            "end_date": "2003-12",
+            "description": "Managed all IT planning, forecasting, and business case management for the largest division at Light Technologies—a $5-billion department; directed multibillion-dollar budgets, reporting, investment analysis, metrics development, and software implementation. Captured $70-million in cost savings per year through implementation of reverse logistics programs—reverse engineered the entire supply chain and reduced inefficiencies. Led initiatives for business cases of more than 350 projects within 80 programs ranging from manufacturing, IT services, to wireless strategy. Pioneered vision and implementation of a new IT financial analysis and internal project tracking process for four large IT departments including Business Communication Services IT, Manufacturing IT, and Services IT."
+        },
+        {
+            "title": "Manager of Planning and Analysis",
+            "company": "Phone Global Corporation",
+            "start_date": "2007-01",
+            "end_date": "2010-01",
+            "description": "Led multi-functional technology teams and served as a key contributor and mentor for a PMO office with up to 80 resources; managed development of innovative software systems and applications. Directed all services, resources, and project plans for major scalable enterprise solutions supporting $1.2-billion, with the unique ability to drive transformational change in both business and technology leadership roles. Provided business analysis for projects of up to $150-million that included requirements, success criteria, milestones, KPIs, and Work Breakdown Structures."
+        },
+        {
+            "title": "Financial Management Roles",
+            "company": "Minolta Corporation",
+            "start_date": "2004-01",
+            "end_date": "2004-12",
+            "description": "Managed budgets, forecasting, and business case modeling initiatives for North American operations; improved 120 business processes that boosted productivity levels by 40% in only five months."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration, Business Economics/Finance",
+            "school": "State University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science, Finance/Accounting",
+            "school": "Hoboken State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

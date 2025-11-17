@@ -1,0 +1,111 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "To contribute my work ethic and experience to a kitchen team within a company that fosters growth.",
+    "skills": [
+        "Kitchen operations",
+        "Menu management",
+        "Food prep, cooking, and plating",
+        "Safety and sanitation",
+        "Hiring and termination",
+        "Budget control",
+        "Employee training",
+        "Vendor communication",
+        "Food ordering",
+        "FIFO (First In, First Out)",
+        "Expediting tickets",
+        "Sourcing local ingredients",
+        "Health and safety standards",
+        "Time management",
+        "Opening/closing operations",
+        "Inventory management"
+    ],
+    "experience": [
+        {
+            "title": "Head Chef",
+            "company": "Company Name",
+            "start_date": "01/2016",
+            "end_date": "01/2016",
+            "description": "Running kitchen operations; menu management; prepping, cooking and plating; safety and sanitation; hiring and termination; budget control; training employees; communicating with vendors; food orders."
+        },
+        {
+            "title": "Kitchen Manager/ Chef",
+            "company": "Company Name",
+            "start_date": "09/2013",
+            "end_date": "01/2014",
+            "description": "Running day to day operations; menu management; prepping, cooking, and plating; maintaining health and safety standards for all employees."
+        },
+        {
+            "title": "Line Cook/ Garde Manger",
+            "company": "Company Name",
+            "start_date": "02/2013",
+            "end_date": "05/2013",
+            "description": "Alternating stations as needed; sauté and grill; practicing FIFO to ensure food quality and minimize spoilage; followed company recipes to create dishes according to customer orders; maintained sanitation, health, and safety standards in work areas; prepping stations for next day during shift downtime; expediting tickets; helping source local ingredients to keep dishes seasonal; closing kitchen."
+        },
+        {
+            "title": "Garde Manger / Line Cook",
+            "company": "Company Name",
+            "start_date": "01/2011",
+            "end_date": "01/2012",
+            "description": "Alternating stations as needed; practicing FIFO to ensure food quality and minimize spoilage; following company recipes to create dishes according to customer orders; maintaining sanitation, health, and safety standards in work areas; prepping stations for next day during shift downtime; practicing time management for ticket calls; helping create dishes and appetizers for events; remaining attentive to multiple dishes at once during peak hours, ensuring that dishes were complete in a timely manner and with high quality."
+        },
+        {
+            "title": "Garde Manger",
+            "company": "Company Name",
+            "start_date": "01/2009",
+            "end_date": "01/2009",
+            "description": "Followed company recipes to create dishes according to customer orders; maintained sanitation, health, and safety standards in work areas; significantly contributed to the service of the team by creating salads, appetizers, desserts, sauces, dumplings, fish, fry station, and preparing produce; remaining attentive to multiple dishes at once during peak hours, ensuring that dishes were complete in a timely manner and with high quality."
+        },
+        {
+            "title": "Prep Chef / Line Cook",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "01/2009",
+            "description": "Washed, cut, and prepared foods designated for cooking; operated high-volume equipment such as grills, deep fryers, griddles, ovens, and stovetops; assisted kitchen staff with various tasks such as inventory, food portioning, and dishwashing; portioned and wrapped the food and placed it directly on plates for service."
+        },
+        {
+            "title": "Cashier / Clerk",
+            "company": "Company Name",
+            "start_date": "01/2007",
+            "end_date": "01/2007",
+            "description": "Received and processed cash, check, credit cards, vouchers, and automatic debit payments; issued receipts, refunds, credits, and change due to customers; greeted customers entering the establishment and handled all customer's concerns."
+        },
+        {
+            "title": "Sheet Metal Fabricator",
+            "company": "Company Name",
+            "start_date": "01/2007",
+            "end_date": "01/2007",
+            "description": "Performed fabrication, assembly, soldering, welding, electrical, isolation, and blueprinting of refrigeration and cooling systems for yachts; utilized hand and power tools such as shielded metal and gas metal arc welding equipment; operated metal shaping, straightening, and bending machines, such as brakes and shears."
+        },
+        {
+            "title": "Welder / Fabricator",
+            "company": "Company Name",
+            "start_date": "01/2006",
+            "end_date": "01/2006",
+            "description": "Performed fabrication, electrical, welding, mechanical, painting, and wheel system assembly; preheated work pieces prior to welding or bending, using torches or heating furnaces; cut, contoured, and beveled metal plates and structural shapes to dimensions as specified by blueprints, work orders, and templates, using powered saws, hand shears, or chipping knives."
+        },
+        {
+            "title": "Allied Trade Noncommissioned Officer in Charge",
+            "company": "Company Name",
+            "start_date": "01/2001",
+            "end_date": "01/2005",
+            "description": "Demonstrated expertise as a machinist, mechanic, tool maker, and welder; coordinated and trained welding, range, and safety courses; ensured the safety of officers and soldiers by ensuring procedures were adhered to properly; responsible for inventory of all shop tools and maintenance of equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Culinary Arts",
+            "school": "Orange Coast College",
+            "year": "2012"
+        },
+        {
+            "degree": "Bachelor's: Culinary Arts and Hospitality",
+            "school": "The International Cooking Schools of the Art Institute",
+            "year": "2009"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

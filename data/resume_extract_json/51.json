@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Tel Aviv, Israel",
+    "summary": "Java Developer with experience in Java, Spring Boot, and TCP/UDP data transfer. BA in Informatics and Economy. Strong team player with good communication skills and a drive for continuous professional development.",
+    "skills": [
+        "Java Core",
+        "C#",
+        "C++",
+        "WPF",
+        "Spring Boot",
+        "SQL",
+        "Git"
+    ],
+    "experience": [
+        {
+            "title": "Java and Android programming",
+            "company": "MASA Tlalim",
+            "start_date": "2020",
+            "end_date": "2021",
+            "description": "Educational program; involved in Java and Android programming; experience in C# development and WPF framework for Israeli startup in technological robotic sphere."
+        },
+        {
+            "title": "Service Engineer Internship",
+            "company": "Center for Financial Technologies",
+            "start_date": "2020",
+            "end_date": null,
+            "description": "Java + Oracle development; Optimizing Java code using Spring Boot; Implementing database queries."
+        },
+        {
+            "title": "Java Developer - Summer Internship",
+            "company": "Eltex",
+            "start_date": "2019",
+            "end_date": "2019",
+            "description": "Developing software for router systems; Optimising Java code with Spring Boot."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ulpan Alef",
+            "school": "Beit Borodetsky, Tel Aviv",
+            "year": "2021"
+        },
+        {
+            "degree": "Java basic courses",
+            "school": "Udemy (online)",
+            "year": "2016-2020"
+        },
+        {
+            "degree": "C# and Delphi professional courses",
+            "school": "Novosibirsk Academy of Design and Programming",
+            "year": "2012-2015"
+        },
+        {
+            "degree": "BA in Informatics and Economy",
+            "school": "",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English (Pre-Intermediate)",
+        "Russian (Native)"
+    ]
+}

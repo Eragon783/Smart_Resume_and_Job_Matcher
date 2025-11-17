@@ -1,0 +1,109 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Talented digital content manager with more than 20 years of experience across the marketing and communications discipline. Highly skilled in web content development, SEO, web analytics, emerging media and digital marketing, as well as traditional marketing and communications strategies. Proven leader in connecting key audiences to desired products, services and information. Keen understanding of health care industry operations and practices.",
+    "skills": [
+        "Adobe Photoshop",
+        "Acrobat",
+        "Dreamweaver",
+        "Content Management Systems (CMS)",
+        "CMS",
+        "Content Management",
+        "copywriting",
+        "creative direction",
+        "data analysis",
+        "UX",
+        "Leadership",
+        "marketing strategies",
+        "Marketing",
+        "Media planning",
+        "Excel",
+        "MS Office",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "Quark Xpress",
+        "Research",
+        "software training",
+        "Strategic development",
+        "Vendor relations",
+        "web site",
+        "articles",
+        "e-mail",
+        "educational materials",
+        "educational programs",
+        "special events",
+        "pricing",
+        "project management",
+        "budgets",
+        "Budget management",
+        "negotiator",
+        "newsletters",
+        "prescription refills",
+        "Agile",
+        "Advertising",
+        "Brochures",
+        "agency",
+        "ad"
+    ],
+    "experience": [
+        {
+            "title": "Web Development Coordinator",
+            "company": "Company Name",
+            "start_date": "01/2012",
+            "end_date": "Current",
+            "description": "Direct the strategic development of CentraCare Health web properties. Consistently deliver a rewarding user experience (UX) with web-based content, services and features. Develop social media strategies and manage content assets on social platforms. Actively monitor, evaluate and report on web analytics; assess successful measures and implement changes. Collaborate with executives, leadership and staff to achieve best-in-class digital content and services. Spearhead efforts to launch a consumer-focused, health and wellness blog. Implement new online features to promote physicians and medical staff. Create educational materials and conduct software training for staff. Manage, inspire and motivate web department staff on ongoing enhancements to our digital footprint."
+        },
+        {
+            "title": "Web Marketing Specialist",
+            "company": "Company Name",
+            "start_date": "01/2000",
+            "end_date": "01/2012",
+            "description": "Directed and implemented health system web initiatives. Built and maintained close relationships with health system leaders/stakeholders on web-related projects. Evaluated and recommended content and features for health system web site. Measured and increased web site traffic. Successfully managed development and guided the launch of key consumer-focused web features, including online appointment requests, prescription refills and bill payment. Acted on executive leadership's goal to be transparent with our quality and pricing data, and became the first in Minnesota to publish this data on our web site."
+        },
+        {
+            "title": "Marketing Specialist",
+            "company": "Company Name",
+            "start_date": "01/1997",
+            "end_date": "01/2000",
+            "description": "Developed, implemented and evaluated integrated marketing and advertising strategies for the hospital and key departments/product lines. Managed and directed marketing efforts, special events, educational programs and other promotional activities."
+        },
+        {
+            "title": "Special Events & Promotions Coordinator",
+            "company": "Company Name",
+            "start_date": "01/1996",
+            "end_date": "01/1997",
+            "description": "Developed and coordinated special events and promotions for agency clients. Prepared marketing proposals and budgets. Managed and coordinated creative department projects and production efforts."
+        },
+        {
+            "title": "Associate Creative Director",
+            "company": "Company Name",
+            "start_date": "01/1994",
+            "end_date": "01/1996",
+            "description": "Developed targeted marketing strategies and creative direction for agency clients. Managed and coordinated production efforts. Provided award-winning copywriting for ad campaigns, articles, promotional brochures, newsletters and targeted campaign materials for agency clients."
+        },
+        {
+            "title": "Sales Consultant",
+            "company": "Company Name",
+            "start_date": "01/1993",
+            "end_date": "01/1994",
+            "description": "Promoted, sold and increased market share of national product lines distributed by the company. Coordinated educational and trade show events. Served as a liaison between product manufacturers and customers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Communicating Arts (Mass Communications)",
+            "school": "University of Wisconsin-Superior",
+            "year": "1997"
+        },
+        {
+            "degree": "Bachelor of Science in Mass Communications (Broadcast and International Studies)",
+            "school": "Bemidji State University",
+            "year": "1992"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,101 @@
+{
+    "name": "Menrit Mansour",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Educational professional accomplished in organizing teacher curricula, creating full year course pacing guides, creating and implementing engaging and interactive lessons that combine real-life experience and provide the highest level of education for each student.",
+    "skills": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Prezi presentations",
+        "Youtube video creation",
+        "Wiki Pages",
+        "Mathematica",
+        "Popplet",
+        "Managing classroom for diverse populations",
+        "Strong collaborator",
+        "Technological instruction",
+        "Effective time management",
+        "Tailoring curriculum plans",
+        "Positive learning environment",
+        "Classroom discipline",
+        "Student motivation",
+        "Math 7",
+        "Differentiated instruction",
+        "ELL",
+        "Common Core Standards",
+        "Unit planning",
+        "Differentiated materials",
+        "Algebra I",
+        "Algebra II"
+    ],
+    "experience": [
+        {
+            "title": "Math Teacher",
+            "company": "Company Name",
+            "start_date": "08/2014",
+            "end_date": "Current",
+            "description": "Teach Math to Math 7 with Intervention for Math 7; prepared materials; assigned and graded class work and homework; created overall Unit Plans for each classroom and daily lesson plans; collaborated with other teachers and aligned with Common Core Standards; differentiated materials for English Language Learners and Learners with Special Needs; attended focus groups to plan weekly lessons and discuss teaching methods."
+        },
+        {
+            "title": "Lead Teacher",
+            "company": "Company Name",
+            "start_date": "01/2013",
+            "end_date": "01/2014",
+            "description": "Tailored curriculum plans; created positive learning environment; maintained classroom discipline; motivated students for Math 7 (4 classrooms) and Intervention for Math 7 (1 classroom); prepared materials; assigned and graded class work and homework; created unit plans and daily lesson plans; collaborated with other teachers; differentiated for English Language Learners and learners with Special Needs; aligned with Common Core Standards."
+        },
+        {
+            "title": "Student Teacher (Algebra II and Fundamentals of Geometry)",
+            "company": "Company Name",
+            "start_date": "01/2012",
+            "end_date": "01/2012",
+            "description": "Lead teacher for Algebra II (3 classrooms) and Fundamentals of Geometry (1 classroom); prepared materials; assigned and graded class work and homework; created overall Unit Plans and daily lesson plans; differentiated materials for English Language Learners; prepared and administered formative and summative assessments; attended Algebra II teacher focus group."
+        },
+        {
+            "title": "Student Teacher (Algebra I)",
+            "company": "Company Name",
+            "start_date": "01/2012",
+            "end_date": "01/2012",
+            "description": "Lead teacher for Algebra I (4 classrooms); prepared materials; assigned and graded class work and homework; created overall Unit Plans and daily lesson plans; differentiated materials for English Language Learners and Learners with Special Needs or Learning Disabilities; prepared and administered formative and summative assessments; attended monthly staff meetings."
+        },
+        {
+            "title": "Student Teacher (ELL/Sheltered Algebra I)",
+            "company": "Company Name",
+            "start_date": "01/2012",
+            "end_date": "01/2012",
+            "description": "Assisted teacher in ELL/Sheltered Algebra I classroom; tutored students in Algebra I by preparing them for exams and helped them complete homework assignments; worked one-on-one with bilingual students in their native language; assisted students with weekly vocabulary designed to expand their language and comprehension skills; taught one lesson at the end of the semester and differentiated the materials to meet the ELL students' needs; conducted a case study for 2 ELL students at various stages in their Language Learning Program."
+        },
+        {
+            "title": "Cash Office Associate",
+            "company": "Company Name",
+            "start_date": "01/2007",
+            "end_date": "01/2013",
+            "description": "Balance store safe and registers daily as well as make deposits. Work as a cashier, assist customers with purchasing items. Maintain a clean environment for workers and customers, and help fellow workers with operating the registers. Work at the customer service desk, assist customers with returns and complaints, answer phone calls, and manage the break schedule for fellow workers. Help floor associates build fixtures and organize merchandise. Work in layaway; assist customers with the proceedings of layaway, and stock layaways."
+        },
+        {
+            "title": "Receptionist/Physical Therapy Assistant",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "01/2013",
+            "description": "Answer phone calls, schedule patients, make patient charts, complete patient registration and all the billing for the office. Set up patients on the electrical-stimulation machines and apply cold/hot packs as needed. Perform ultrasound for patients as requested by the physical therapist. Assist patients with their exercise prescription as well as train them on proper exercise machine use."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Teaching Mathematics",
+            "school": "University of Southern California",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Science in Applied Mathematics",
+            "school": "University of California",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Arabic",
+        "English"
+    ]
+}

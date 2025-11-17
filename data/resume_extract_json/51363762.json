@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Not specified",
+    "summary": "Information Technology Specialist with twenty nine years of experience launching environments focused on telecommunications concepts, principles methods, practices and solutions. Savvy, compassionate, impact oriented performer with attention to detail, technological know-how, and lifecycle project planning expertise. Successfully manages accounts while analyzing technical requirements to ensure client and customer satisfaction and enterprise integrity. Consistently develops innovative and workable solutions to unique customer requirements. An effective IT Manager with a proven track record for building highly productive teams with healthy morale. Promotes security awareness ensuring sound security principles are implemented.",
+    "skills": [
+        "Procurement Clerk",
+        "Purchasing Agent",
+        "Computer Programmer",
+        "Contracting Officer Representative (COR)",
+        "Customer Support",
+        "Information Technology",
+        "Information Security",
+        "Hardware",
+        "Network Systems",
+        "Decision Making",
+        "Information Systems",
+        "IT Strategy",
+        "Local Area Network",
+        "Microsoft Certified Professional",
+        "MCP",
+        "Policies",
+        "Processes",
+        "Project Management",
+        "Risk Assessment",
+        "Cobol Programming",
+        "ADA Programming",
+        "Leadership",
+        "Management",
+        "Test and Evaluation",
+        "Security Awareness"
+    ],
+    "experience": [
+        {
+            "title": "Lead Cobol Programmer / AMC Computer Specialist and Intern",
+            "company": "Company Name, City, State",
+            "start_date": "1989-09",
+            "end_date": "1992-09",
+            "description": "As an AMC Computer Specialist and Intern, led Cobol programming efforts: wrote two programs to estimate Panama Canal conflict costs; coordinated with QA testers for end-to-end unit testing and post-production testing; implemented system security and data assurance software; developed custom software solutions; oversaw deployment, configuration and documentation procedures; implemented and tested enhancement feature requests to improve product functionality; resolved customer issues by establishing workarounds and defect fixes; drafted two project work plans per week; organized meetings with stakeholders, contractor product teams and customers; coordinated all hardware acquisitions; coded user-customizable applications to convert raw data from design engine into graphical formats."
+        },
+        {
+            "title": "Computer Specialist (Special Assignment)",
+            "company": "Company Name, City, State",
+            "start_date": "1992-06",
+            "end_date": "1993-10",
+            "description": "Junior Engineer for PM EWRSTA Camp Evans (Wall, New Jersey). Assisted Lead Software Engineer in writing code to repair the Kiowa 58D helicopter computer module; project progressed from coding to test and evaluation; authorized to TDY to Fort Bragg, NC to test code in the vehicle; briefed 300 civilians and 60 soldiers on tests, evaluations and repairs under orders from PMEWRSTA PM Colonel Arthur Hurtado; served as Lead Project Manager using Artemis Schedule Publisher to track Electronic Warfare systems and repair schedules."
+        },
+        {
+            "title": "Information Technology Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "1992-09",
+            "end_date": "2011-09",
+            "description": "Managed principles, evaluation techniques and systems management and planning (2003-2011); delivered efficient planning and execution of customer support services including installation, configuration, troubleshooting, customer assistance, and training in response to requirements (2003-2011); served as the only CECOM Command ADA Programmer."
+        },
+        {
+            "title": "Information Technology Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "2011-09",
+            "end_date": "Present",
+            "description": "Acting branch and division chief of Customer Support Branch at ATEC Headquarters (G6), APG, Maryland (2013-2015); SWE on Information Systems Security (2011-2015); provides IT concepts, principles and methods with technical oversight and monitoring; identifies and solves complex technological problems by evaluating information sources; plans and delivers customer support services; knowledge of LAN security; analyzes and manages enterprise framework; ensures security program compliance and information protection; leads IT support for ATEC Headquarters QIP's in RTC, DTC and JITC (2014)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Business Administration and Management",
+            "school": "Pillar College",
+            "year": 2016
+        }
+    ],
+    "certifications": [
+        "Security Plus",
+        "Microsoft Certified Professional (MCP)"
+    ],
+    "languages": []
+}

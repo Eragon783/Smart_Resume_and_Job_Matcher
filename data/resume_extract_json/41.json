@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Hadera, Israel",
+    "summary": "Fullstack Web Developer with experience in frontend and full-stack development using Vue.js, Angular, HTML5, CSS3, REST, and Node.js. Proficient in JavaScript, TypeScript, Python, and Perl. Working with databases such as SQLite, MySQL, MongoDB, Neo4j, tinyDB, and Snowflake. Familiar with Agile, Waterfall, and SCRUM methodologies.",
+    "skills": [
+        "VueJs",
+        "Angular",
+        "Webpack",
+        "REST",
+        "HTML",
+        "CSS",
+        "BootStrap",
+        "NodeJS",
+        "JavaScript",
+        "Typescript",
+        "Python",
+        "Perl",
+        "SQLite",
+        "MySQL",
+        "MongoDB",
+        "neo4j",
+        "tinyDB",
+        "SnowFlake",
+        "Agile",
+        "Waterfall",
+        "SCRUM",
+        "EcmaScript",
+        "HTML5",
+        "CSS3",
+        "WebSocket"
+    ],
+    "experience": [
+        {
+            "title": "Web FrontEnd Developer",
+            "company": "Intelos",
+            "start_date": null,
+            "end_date": "present",
+            "description": "Development of a program for visualizing various data on a geographic map. Structuring information for display and processing. Developing part of Business Logic that moved to Client Side. Responsibilities: Development and support of the client side of the project based on the Vue framework using modern techniques and technologies. Also supporting API on backend, e.g. controllers. Technologies used: HTML5, CSS3, VueJs 2, EcmaScript, JavaScript."
+        },
+        {
+            "title": "Web Full Stack Developer",
+            "company": "Britannica",
+            "start_date": null,
+            "end_date": null,
+            "description": "Knowledgebase project with time and resource management for educational processes in commercial specialized educational institutions. Responsibilities: renewed and optimized UI and UX, renewed REST API, migrated from legacy solution (ASPX) to newest solutions and technologies(Angular 7+, NodeJS microservices), refactored code. Technologies used: HTML5, CSS3, Angular(7+), Typescript, NodeJS, WebSocket, MongoDB."
+        },
+        {
+            "title": "Web Front End Developer",
+            "company": "Athena",
+            "start_date": null,
+            "end_date": null,
+            "description": "Documentation accounting system. Search engine for seeking information in open sources and building structured knowledge base with internal search. Responsibilities: renewed and optimized UI and UX. renewed API. Migrated legacy code to newest solutions and technologies. Technologies used: HTML5, CSS3, Angular(2+), Typescript, NodeJS, WebSocket, MongoDB, Neo4j."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master Degree",
+            "school": "National Mining University, Dnipropetrovsk, Ukraine",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Hebrew",
+        "English",
+        "Russian"
+    ]
+}

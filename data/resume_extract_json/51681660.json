@@ -1,0 +1,117 @@
+{
+    "name": "Vivienne",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Production Designer specializing in the Art Department with a passion for film and the entertainment industry. Effective team player and capable independent worker; skilled in power tool safety, budgeting, scheduling, sketching, and hand drafting. Proficient with Photoshop, After Effects, Avid, Google SketchUp, MS Word, and PowerPoint. Experienced in coordinating art department needs, set decoration, prop management, and working under pressure.",
+    "skills": [
+        "After Effects",
+        "Photoshop",
+        "Avid",
+        "Google Sketchup",
+        "Sketching",
+        "Hand drafting",
+        "Drafting",
+        "Budgeting",
+        "Editing",
+        "Film",
+        "Lighting",
+        "Director",
+        "Excel",
+        "PowerPoint",
+        "MS Word",
+        "Safety",
+        "Scheduling",
+        "Camera",
+        "Assistant Director",
+        "Art",
+        "Website",
+        "Composer"
+    ],
+    "experience": [
+        {
+            "title": "Production Designer",
+            "company": "New York Film Academy – Student Film",
+            "start_date": "2014-07",
+            "end_date": "2014-08",
+            "description": "Referred outside hire on a short, 15-minute NYFA student film; coordinated art department needs based on scheduling; managed the art department budget and served as set coordinator during the build."
+        },
+        {
+            "title": "Director of Photography",
+            "company": "The Bird Room – Non-Profit Project",
+            "start_date": "2013-09",
+            "end_date": "2013-09",
+            "description": "One-day photo shoot in Downtown Los Angeles for headshots and artistic images; sourced locations with natural lighting; worked with dancers, actors, and donors."
+        },
+        {
+            "title": "Set Decorator and Props Assistant",
+            "company": "Small Heist",
+            "start_date": "2013-03",
+            "end_date": "2013-03",
+            "description": "Dressed the set, assisted with continuity and props; acted as art director when production designer was unavailable."
+        },
+        {
+            "title": "Art Director",
+            "company": "My Name is Vivienne (Independent Feature)",
+            "start_date": "2013-04",
+            "end_date": "2013-06",
+            "description": "Independent feature; served as prop master and set dresser; also performed production designer duties when needed."
+        },
+        {
+            "title": "Production Designer",
+            "company": "Distinguished Gentlemen (Independent Sitcom)",
+            "start_date": "2012-11",
+            "end_date": "2013-01",
+            "description": "Located and purchased all props; acted as prop master; contributed as set decorator; aided art department during a three-week shoot."
+        },
+        {
+            "title": "Set Decorator",
+            "company": "The Coed and the Zombie Stoner",
+            "start_date": "2013-12",
+            "end_date": "2013-12",
+            "description": "Dressed locations, props assist; prepped locations a day before crew arrival; created graphics; served as art director when needed."
+        },
+        {
+            "title": "Art Director / Art Department Coordinator / Fire and Safety Management",
+            "company": "Feature Film Shoot",
+            "start_date": "2014-06",
+            "end_date": "2014-07",
+            "description": "Three-week feature film shoot; ensured location safety and fire hazard prevention; dressed locations; built props; prop master; rigged location for easier grip; also assisted as camera helper."
+        },
+        {
+            "title": "Camera Assistant / Front Door Attendant / Audience Member",
+            "company": "Ivar Theatre Stand-Up Show",
+            "start_date": "2014-01",
+            "end_date": "2014-01",
+            "description": "Helped prep cameras, tended to talent, checked IDs at front door; served as a seat filler during the show."
+        },
+        {
+            "title": "Set Designer and Coordinator",
+            "company": "George Méliès / Mae West-inspired Sets",
+            "start_date": "2013-08",
+            "end_date": "2013-09",
+            "description": "Coordinated the build of two sets on one sound stage; one set mimicked George Méliès’ A Trip to the Moon; the other mimicked a Mae West film scene."
+        },
+        {
+            "title": "Miscellaneous Crew",
+            "company": "Dude Bro Party Massacre 3",
+            "start_date": "2014-04",
+            "end_date": "2014-04",
+            "description": "Production Assistant; front gate security; directed arriving cast to proper waiting areas; assisted with costuming and makeup; provided water and secured the set."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science, Film Production",
+            "school": "The Los Angeles Film School",
+            "year": "2013"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Eagle Rock Jr./Sr. High School",
+            "year": "2010"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

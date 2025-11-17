@@ -1,0 +1,73 @@
+{
+    "name": "Nazaryev",
+    "email": "",
+    "phone": "",
+    "location": "Beer Sheva, Israel",
+    "summary": "Embedded Linux Engineer with 4 years of embedded Linux development and 6 years total software development experience, based in Beer Sheva, Israel. Seeking an Embedded Linux-related position.",
+    "skills": [
+        "C",
+        "POSIX shell",
+        "Python",
+        "Java (Android)",
+        "Git",
+        "Subversion",
+        "GNU make",
+        "Jenkins",
+        "GitLab CI",
+        "Debian GNU/Linux",
+        "Arch Linux",
+        "Buildroot",
+        "Yocto",
+        "Vim",
+        "Markdown",
+        "LaTeX",
+        "HTML5/CSS3",
+        "Docker",
+        "Qt 5",
+        "Renesas R-Car",
+        "Automotive Grade Linux"
+    ],
+    "experience": [
+        {
+            "title": "Embedded Linux Platform Engineer",
+            "company": "Cogent Embedded",
+            "start_date": "2018",
+            "end_date": "2019",
+            "description": "Maintained Yocto layers for in-house Linux distro based on Yocto Project; Improved deployment speed of OS and applications to new devices; Organized reproducible builds for software using Jenkins; Documented firmware deployment to new devices."
+        },
+        {
+            "title": "Embedded Linux Engineer",
+            "company": "Protei Telecommunications solutions",
+            "start_date": "2016",
+            "end_date": "2018",
+            "description": "Participated in R&D of in-house Linux distro based on Buildroot for devices made by company; Ported and fixed drivers for Linux and U-Boot, sometimes developed small drivers from scratch; Helped HW engineers with fixing bugs related to SW/HW interactions; Created and supervised building process using Jenkins, GitLab CI and Docker."
+        },
+        {
+            "title": "Embedded Linux Developer",
+            "company": "NTC Metrotek",
+            "start_date": "2015",
+            "end_date": "2016",
+            "description": "Ported application from Nut/OS (AVR) to GNU/Linux (ARM); Adapted Debian GNU/Linux for running on devices created by company; Helped with packaging software for Debian GNU/Linux."
+        },
+        {
+            "title": "Junior Android Developer",
+            "company": "Mobium",
+            "start_date": "2014",
+            "end_date": "2014",
+            "description": "Android e-commerce apps development"
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Sc., Embedded Systems",
+            "school": "ITMO University (Information Technologies, Mechanics and Optics)",
+            "year": "2013-2017"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hebrew (elementary)",
+        "Russian"
+    ]
+}

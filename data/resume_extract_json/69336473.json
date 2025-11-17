@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Public health professional with experience planning, developing, implementing and sustaining health programs. Skilled in needs assessments, grant writing, budgeting, and supervising staff. Strong communicator with a focus on community outreach and health promotion.",
+    "skills": [
+        "Program planning and coordination",
+        "Budgeting and financial management",
+        "Grant writing",
+        "Needs assessment",
+        "Supervisory skills",
+        "AIMS reporting (Arkansas Information Management System)",
+        "Civil Rights Reporting",
+        "Presentation and public speaking",
+        "Health promotion",
+        "Community health",
+        "Nutrition background",
+        "Health education",
+        "Data analysis and evaluation",
+        "Microsoft Office Suite",
+        "PowerPoint presentations"
+    ],
+    "experience": [
+        {
+            "title": "Pulaski County Extension Agent",
+            "company": "Pulaski County Extension",
+            "start_date": "October 2010",
+            "end_date": "Present",
+            "description": "Deliver health and nutrition programs to Pulaski County residents, primarily within the SNAP-Ed Program. Conduct yearly needs assessments for SNAP eligible communities; write grants targeting SNAP eligible communities; establish partnerships with local SNAP eligible agencies, schools, communities, and groups. Understand federal guidelines for SNAP grant funding; forecast and manage the SNAP budget. Conduct presentations and trainings for SNAP participants and Extension Get Fit participants. Supervise SNAP-Ed Program Assistants and Paraprofessionals. Complete monthly AIMS and Civil Rights Reporting; measurement, evaluation and impact reporting for SNAP-Ed and Extension Get Fit Groups. Serve on LR and NLR school district committees and community coalitions focusing on eliminating childhood obesity, reducing teen pregnancy and substance abuse, and promoting healthy living for youth and adults. Promote healthy habits in outreach materials and presentations."
+        },
+        {
+            "title": "Program Technician",
+            "company": "Pulaski County Extension",
+            "start_date": "April 2009",
+            "end_date": "October 2010",
+            "description": "Worked in food safety and food preservation under the supervision of a Nutrition Specialist. Assisted with and prepared food safety and food preservation presentations; developed online and in-class training materials. Conducted needs assessments; conducted train the trainer sessions; AIMS reporting; assisted in grant writing and collaboration with other health agencies. Provided technical assistance for Nutrition, Health and Aging Specialist. Developed and monitored food safety and food preservation web pages for the University of Arkansas site; SPOT Groups (online informational workgroups) for health and nutrition agents."
+        },
+        {
+            "title": "Mississippi County Extension Agent",
+            "company": "Mississippi County Extension",
+            "start_date": "July 2007",
+            "end_date": "July 2008",
+            "description": "Worked with the 'Eating and Moving for Life' Dietary Intervention Program; focused on reducing risk of hypertension, diabetes, and other nutrition-related chronic diseases. Planned and implemented nutrition and health programs for residents; reported data; evaluated participants; assisted EMFL nurses with pre and post health screenings for participants. Submitted weekly, monthly and quarterly reports of participant impact and progress for supervisor and grant partners. Completed monthly AIMS and Civil Rights Reporting."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Nutrition Degree",
+            "school": "University of Central Arkansas",
+            "year": "Present"
+        },
+        {
+            "degree": "Master of Public Health: Health Behavior Health Education",
+            "school": "Fay W. Boozman College of Public Health, University of Arkansas for Medical Sciences",
+            "year": "2011"
+        },
+        {
+            "degree": "Bachelor of Science: Community Health Education",
+            "school": "Dillard University",
+            "year": "2007"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

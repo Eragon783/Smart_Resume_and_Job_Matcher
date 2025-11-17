@@ -1,0 +1,58 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "I am an enthusiastic, fun and dedicated professional with exceptional communication, account management and conflict resolution skills. I have a passion for building relationships and providing exceptional customer service. Motivated by competition, Self-starter, and an effective team member.",
+    "skills": [
+        "Account Management",
+        "Conflict Resolution",
+        "Client",
+        "Excellent Customer Service",
+        "Customer Service",
+        "Database",
+        "Instruction",
+        "Leadership",
+        "Logistics",
+        "Mentor",
+        "Negotiation",
+        "Project Management",
+        "Researching",
+        "Sales",
+        "Self-starter",
+        "Phone",
+        "Time Management"
+    ],
+    "experience": [
+        {
+            "title": "Flight Manager",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "Current",
+            "description": "Manage daily operations for 80 to 120 aircraft and strengthen relationships with assigned crew members to ensure a seamless travel experience for the client. Responsible for gathering and disseminating timely information to remedy disruptions caused by, but not limited to weather, human error and aircraft abnormalities. Provide a timely, professional and educated resource to crew members by thoroughly researching every concern and calmly resolving elevated issues. Train, mentor and act as a resource to new team members. Collaborated with leadership to create new communication tools for faster and more effective communication between departments."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "January 2012",
+            "end_date": "January 2013",
+            "description": "Responsible for greeting customers and providing an enjoyable shopping experience through excellent customer service, product knowledge and communication. Hired as a permanent employee after being hired to seasonal help resulting from high productivity. Independently designed store visuals using guidance from corporate standards."
+        },
+        {
+            "title": "Front Desk Coordinator",
+            "company": "Company Name",
+            "start_date": "January 2009",
+            "end_date": "January 2013",
+            "description": "Responsible for proving customer service, database instruction and fielding phone calls. Spearheaded the creation of an interactive advertisement/ exhibit for a school play showcasing students writing and acting talents."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Applied Studies",
+            "school": "Kent State University",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

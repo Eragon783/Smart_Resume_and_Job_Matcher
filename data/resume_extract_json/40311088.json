@@ -1,0 +1,82 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "I want to continue to embark on a progressive career path, building successful public relations and communications programs and have continued success in implementing media relations plans designed to expand market awareness. I develop communications strategies that build key relationships with stakeholders and constituents and create innovative initiatives, that foster and create strategic partnerships and alliances.",
+    "skills": [
+        "Administrative Management functions",
+        "Website Management",
+        "Image Control",
+        "Governmental Relations",
+        "Public Information",
+        "Media Production",
+        "Marketing",
+        "Publication Design",
+        "event planning",
+        "Cable Television Franchise Coordinator",
+        "Organization",
+        "Public Relation Initiatives",
+        "Information Dissemination",
+        "Social Media Management",
+        "Media Production (Adobe)"
+    ],
+    "experience": [
+        {
+            "title": "Media Specialist II",
+            "company": "Company Name, City, State",
+            "start_date": "05/2014",
+            "end_date": "Current",
+            "description": "As Media Specialist II I develop and implement public information programs to inform the citizenry of activities, programs, services, and objectives of the San Bernardino Probation Department. I maintain and develop content for the department's website and assist with media requests. I also develop and implement electronic and social media policy and practice. This position requires that I create and prepare media for public presentations, and evaluate the effectiveness and coverage of public information activities and outreach. I design, coordinate and direct promotional projects; and serve as the department's lead photographer and videographer."
+        },
+        {
+            "title": "Owner/Operator",
+            "company": "Company Name, City, State",
+            "start_date": "01/2008",
+            "end_date": "07/2015",
+            "description": "As owner my main duties include marketing research, message customization, and media production. Under this company I also freelance as a camera tech for ESPN and Fox Sports South. I coordinate a group of independent freelance production professionals to provide television production, marketing materials, event coordination and web media modules."
+        },
+        {
+            "title": "Assistant Program Director",
+            "company": "Company Name, City, State",
+            "start_date": "01/2008",
+            "end_date": "01/2010",
+            "description": "As assistant program director I coordinate all the local public access channel programming. This includes scheduling programs to run, writing and producing original programming, marketing the channel to the citizens of Pitt County and soliciting and organizing local producers in the creation of programming."
+        },
+        {
+            "title": "Public Information Officer",
+            "company": "Company Name, City, State",
+            "start_date": "01/2002",
+            "end_date": "01/2008",
+            "description": "As Public Information Officer (PIO) I served as a communications liaison between the media, county staff, Government officials and citizens in order to facilitate the timely dissemination of information about programs, services, and activities. The office was also responsible for maintaining and operating the local PEG Access Channel Pitt-TV. As PIO I was responsible for creating, editing and scheduling all programming for the Governmental and Education portions of the channel. The office coordinates press coverage for all major functions of the County and managed special event planning. Public Information produced County publications for staff and the community including videos, newsletters, brochures, a calendar of events, and an annual report. I also served as content manager of www.pittcountync.com. I managed the administrative functions of the office, which included the administration of a $200,000 annual budget."
+        },
+        {
+            "title": "Communications Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "01/2001",
+            "end_date": "01/2002",
+            "description": "Increased visibility of County services by developing and producing video, radio, and web programming that enhanced the vehicles by which information was disseminated. Coordinated the redesign of the County web site. I developed an internship program for college students that focused on media development within the communications field. Created the first interactive employee electronic newsletter."
+        },
+        {
+            "title": "Associate Producer / Videographer",
+            "company": "Company Name, City, State",
+            "start_date": "01/1999",
+            "end_date": "01/2001",
+            "description": "I organized story schedule for 6 p.m. I organized story schedule for 6 p.m. and 11 p.m. newscasts and write story scripts for newscasts and website. I also produced video for special projects and promotions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science (BS): Mass Communications Marketing/Public Relations",
+            "school": "East Carolina University",
+            "year": 1999
+        },
+        {
+            "degree": "Associate of Art and Science (AAS): Pre-Liberal Arts Computer Science",
+            "school": "Pitt Community College",
+            "year": 1997
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,61 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Haifa, Israel",
+    "summary": "Junior Java backend developer, self-taught, optimization enthusiast. Experienced in automating processes, analyzing workflows and turning them into code. Detail-oriented, organized, and a collaborative team player with a passion for Java, Spring, and backend technologies.",
+    "skills": [
+        "Java",
+        "C#",
+        "Spring Framework",
+        "Spring Boot",
+        "Microsoft SQL",
+        "PostgreSQL",
+        "Git",
+        "REST",
+        "SOAP",
+        "Cloud",
+        "Microservices",
+        "Logging"
+    ],
+    "experience": [
+        {
+            "title": "Business Owner",
+            "company": "Butchery",
+            "start_date": "Oct 2018",
+            "end_date": "Mar 2022",
+            "description": "Created from scratch a highly profitable business for cutting and selling meat and semi-finished meat products; Managed a team of 20 people."
+        },
+        {
+            "title": "C# Software Developer",
+            "company": "Professional Registry Center",
+            "start_date": "Jan 2016",
+            "end_date": "Oct 2018",
+            "description": "Implemented a software development project from scratch that radically reorganized the work of the entire organization."
+        },
+        {
+            "title": "Stock Market Specialist",
+            "company": "Professional Registry Center",
+            "start_date": "Apr 2005",
+            "end_date": "Jan 2016",
+            "description": "Work with clients, paperwork, advice, and legal support of transactions with securities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Engineer",
+            "school": "Ural State University of Economics",
+            "year": "Sep 2003 - Aug 2009"
+        },
+        {
+            "degree": "Specialist",
+            "school": "National Association of Stock Market Participants",
+            "year": "Aug 2008 - Sep 2008"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Russian"
+    ]
+}

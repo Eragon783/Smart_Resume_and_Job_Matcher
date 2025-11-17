@@ -1,0 +1,115 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior SE Business Development Manager with extensive national account management experience and a proven track record in sales growth, cross-cultural sales, and marketing collaboration. Six Sigma Green Belt certified with strong leadership and program development skills.",
+    "skills": [
+        "automation",
+        "Business development",
+        "Business Management",
+        "C",
+        "SC",
+        "Economics",
+        "Engineer",
+        "Finance",
+        "inside sales",
+        "marketing automation",
+        "marketing plan",
+        "marketing",
+        "market",
+        "Mathematics",
+        "organizational",
+        "Outside Sales",
+        "packaging",
+        "presentations",
+        "Quality",
+        "Sales",
+        "Siemens",
+        "Six Sigma",
+        "SOP",
+        "specification",
+        "staffing",
+        "Strategic",
+        "Supply Chain",
+        "technical sales",
+        "Technical support",
+        "trouble-shoot"
+    ],
+    "experience": [
+        {
+            "title": "Technical Sales Representative",
+            "company": "Company Name",
+            "start_date": "May 1988",
+            "end_date": "Aug 1990",
+            "description": "Primary responsibilities were large industrial plants and A&E Firms. Customer base included EI DuPont, Hoechst Celanese, Fluor Daniels, Day & Zimmerman, Chemtex International, Bechtel Engineering, CRS-Sirrine, etc. Developed anti-surge control valve specifications for PET charge vessel and increased territorial sales; expanded market reach and profitability."
+        },
+        {
+            "title": "Technical Sales Representative",
+            "company": "Company Name",
+            "start_date": "Aug 1990",
+            "end_date": "Sep 1995",
+            "description": "Primary responsibilities were large industrial plants and A&E Firms. Customer base included EI DuPont, Hoechst Celanese, Fluor Daniels, Day & Zimmerman, Chemtex International, Bechtel Engineering, CRS-Sirrine, etc. Increased territorial sales by approximately 45% annually and led top sales and profits for four years; developed and expanded territorial accounts."
+        },
+        {
+            "title": "Sales Manager",
+            "company": "Company Name",
+            "start_date": "Sep 1995",
+            "end_date": "Dec 1998",
+            "description": "Liaison between multiple valve manufacturers and representative firms. Led initiatives to develop and troubleshoot digital products and software; managed strategic alliances and implemented training and marketing plans for regional territories."
+        },
+        {
+            "title": "Senior Manager",
+            "company": "Company Name",
+            "start_date": "Dec 1998",
+            "end_date": "Jun 2001",
+            "description": "Managed Application Engineering Department responsible for product evaluation and sales implementation at customer sites. Negotiated contract with EI DuPont resulting in first-year sales of 26MM and provided technical services to three plant locations. Led IT initiatives for e2bSM (Engineering-2-Business) platform and oversaw organizational structuring and staffing."
+        },
+        {
+            "title": "Business Development Manager",
+            "company": "Company Name",
+            "start_date": "Jun 2001",
+            "end_date": "Aug 2001",
+            "description": "Business development for strategic manufacturer alliances and for end users. Developed marketing presentations for end users (Chemical, Power, Pulp & Paper, etc.). Provided technical and marketing training for the sales department for Masoneilan & Yokogawa equipment."
+        },
+        {
+            "title": "Technical Sales Leader",
+            "company": "Company Name",
+            "start_date": "Aug 2001",
+            "end_date": "Aug 2012",
+            "description": "Process Control Equipment business development for strategic manufacturer alliances. Primary interface with Manufacturers for Gexpro Services. Evaluated manufacturers' capabilities and capacity; contributed to GE Energy initiatives and MSDS packaging procedures; developed LMS 100 VBV and anti-icing valve systems; led sales projections and marketing initiatives for GE Energy."
+        },
+        {
+            "title": "Strategic Automation Manager",
+            "company": "Company Name",
+            "start_date": "Aug 2012",
+            "end_date": "Apr 2013",
+            "description": "Responsible for automation shop design and setup. Wrote SOPs for automation quotations, manufacturing and testing. Delivered engineering presentations & specifications for manual and automated valves to engineering firms; led automation-related business development for turbine OEMs including General Electric, Siemens, Alstom and Mitsubishi."
+        },
+        {
+            "title": "SE Technical Outside Sales Representative",
+            "company": "Company Name",
+            "start_date": "May 2013",
+            "end_date": "Jun 2014",
+            "description": "Technical support for Outside Sales Representatives in Southeast. Delivered engineering presentations & specifications for valves to engineering firms (e.g., Fluor, Mustang, CH2M Hill, D&Z, Hargrove, CHEMTEX); pursued turbine OEM business with General Electric, Siemens, Alstom and Mitsubishi."
+        },
+        {
+            "title": "SE Business Development Manager",
+            "company": "Company Name",
+            "start_date": "Jun 2014",
+            "end_date": "Mar 2015",
+            "description": "Responsible for Own Brand business development in the southeast U.S., including NC, SC, GA, FL, AL, VA, MS, WV, KY, and TN. Supported Lewis-Goetz, Rawson, and ICD offices and sales reps to pursue opportunities for Own Brand products including ECON, Diamond Gear, C&C, Force, and Smith valves."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Economics-Marketing",
+            "school": "Clemson University",
+            "year": "1988"
+        }
+    ],
+    "certifications": [
+        "Six Sigma Green Belt Certified"
+    ],
+    "languages": []
+}

@@ -1,0 +1,101 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Tillamook County, Oregon",
+    "summary": "Experienced educator with hands on experience in youth development and interpersonal skills growing and managing large volunteer base and program development. Committed to offering programming and education to all youth.",
+    "skills": [
+        "Ten key",
+        "basic",
+        "conferences",
+        "customer service",
+        "delivery",
+        "direction",
+        "educational programs",
+        "keyboard",
+        "leadership",
+        "market",
+        "presentations",
+        "problem solving",
+        "profit",
+        "programming",
+        "radio",
+        "record keeping",
+        "researching",
+        "supervisory skills",
+        "teacher",
+        "team player",
+        "time management",
+        "troubleshooting",
+        "workshops",
+        "volunteer management",
+        "public education of agriculture",
+        "interpersonal skills",
+        "youth development"
+    ],
+    "experience": [
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "Present",
+            "description": "On-call substitute for grades K-12. Substitute teacher in the Tillamook School system as both a classroom teacher and teacher's aide. Followed classroom plans left by class teacher to continue student education and reinforce core concepts. Kept students on-task with proactive behavior modification and positive reinforcement strategies. Maintained day to day classroom management to promote learning."
+        },
+        {
+            "title": "4-H Program Assistant & Open Campus Assistant",
+            "company": "Company Name",
+            "start_date": "2009-02",
+            "end_date": "2016-10",
+            "description": "Supported educational programs through the delivery of program curricula, coordination of program elements or projects, assisting with the assessment, design, implementation and evaluation. Recruit, supervise and retained volunteers. Organize and facilitate; day camps, after school programs, overnight camps and fundraiser's. Including travel to National programs. Gathered data for annual reporting of program success, volunteer hours, personal time, yearly reports of accomplishments. Created a Plan of Work annually. Used 4-H access and 4-H online. Promoted Extension and 4-H by Live radio interviews and Public service announcements, Civic group presentations; and daily interaction with the public. Established relationships with key stakeholders in the community included Tillamook County Commissioners, business owners and non- profit managers and School District. Delivered polished and thorough lectures on topics such as teen sex-texting and generational differences."
+        },
+        {
+            "title": "Community Outreach Coordinator",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2013-01",
+            "description": "Actively supported local MOPS groups, on the Oregon Coast and Willamette Valley. Acted as a liaison between local groups and MOPS, INT. Skills used: self-direction, team player, trouble shooting, record keeping and problem solving; management of volunteer base that ran groups in the northwest region and promoted the MOPS agenda within the community. Developed presentations for public events, community groups and organizational assemblies."
+        },
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2011-01",
+            "description": "On-call substitute for grades K-12. Substitute teacher in the Tillamook School system as both a classroom teacher and as a teachers aide."
+        },
+        {
+            "title": "4-H Program Assistant",
+            "company": "OSU Extension Service Tillamook County",
+            "start_date": "2009",
+            "end_date": "2016-10",
+            "description": "OSU Extension Service Tillamook County: 4-H Program Assistant 2; support educational programs through the delivery of program curricula, coordination of program elements or projects and assisting with the assessment, design, implementation and evaluation. Recruit, supervise and retain volunteers. Organize and facilitate; day camps, after school programs, overnight camps and fundraiser's. Managed and oversaw fundraiser's and travel for National 4-H leadership conferences for local youth. Gather data and report program success, volunteer hours, personal time and yearly reports of accomplishments. Promote Extension and 4-H by Live radio interviews and Public service announcements, Civic group presentations; and daily interaction with the public. Established relationships with key stakeholders in the community included Tillamook County Commissioners, business owners and non- profit managers."
+        },
+        {
+            "title": "Oregon Open Campus",
+            "company": "OSU Extension Service Tillamook County",
+            "start_date": "2012",
+            "end_date": "Present",
+            "description": "Oregon Open Campus; 2012 ; helping to build, expand, and market programming related to the Outreach & Engagement activities of Oregon State University. Including public outreach events, fair booths, hosting learning workshops and public education of mission statement."
+        },
+        {
+            "title": "Community Coach",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2013-01",
+            "description": "Actively supported local MOPS groups, on the Oregon Coast and Willamette Valley. Acted as liaison between local coordinators/chartering ministries and MOPS Int. Skills include self-direction, team player, trouble shooting, record keeping and problem solving; management of volunteer base that ran groups in the northwest region and promoted the MOPS agenda with local churches, doctor offices and media."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Animal Science",
+            "school": "Oregon State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Paul Axtel Conflict and Communication training",
+        "Civil Rights training",
+        "Oregon Substitute Restricted Sub license",
+        "Pork Check off certified"
+    ],
+    "languages": []
+}

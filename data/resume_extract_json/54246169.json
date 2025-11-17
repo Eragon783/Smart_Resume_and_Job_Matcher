@@ -1,0 +1,72 @@
+{
+    "name": "Fayaz Ahmad Sardar",
+    "email": "",
+    "phone": "",
+    "location": "Jalalabad, Nangarhar, Afghanistan",
+    "summary": "Experienced Agriculture Advisor and Language Officer with a B.Sc. in Agriculture (Nangarhar University, 2002) and extensive work with Afghan government and international organizations (PRT/ADT, IPCB-S, BRAC). Skilled in agriculture development, capacity building, program planning, data collection, stakeholder coordination, and training. Proficient in English, Pashto, and Dari; fluent in document translation and simultaneous interpretation; strong field experience across districts and provinces.",
+    "skills": [
+        "Microsoft Office (Word, Excel, PowerPoint)",
+        "Typing in English/Pashto/Dari",
+        "Translation and Interpretation (English-Pashto/Dari; simultaneous translation)",
+        "Project planning and management",
+        "Capacity building and training",
+        "Data collection and monitoring",
+        "Public speaking and presentations",
+        "Community development and stakeholder coordination",
+        "Agriculture development and field extension",
+        "Report writing"
+    ],
+    "experience": [
+        {
+            "title": "Language Officer",
+            "company": "IPCB-S (International Police Coordination Board Kabul, Afghanistan)",
+            "start_date": "2016-01",
+            "end_date": "2016-01",
+            "description": "Performed translations from English to Pashto/Dari; conducted simultaneous translations in IPCB-S meetings; undertook tasks as required by the Head of IPCB-S."
+        },
+        {
+            "title": "Agriculture Advisor and Language Officer",
+            "company": "Laghman PRT/ADT",
+            "start_date": "2016-01",
+            "end_date": "2016-01",
+            "description": "Established and maintained coordination with governmental and non-government organizations; worked on strategic planning with DAIL Office; assisted DAIL staff for annual planning; prepared training materials; translated agriculture guidelines; trained Nangarhar University agriculture faculty and staff; supported needs assessments and staff trainings."
+        },
+        {
+            "title": "Provincial Manager",
+            "company": "BRAC Education Program for Afghanistan",
+            "start_date": "2013-01",
+            "end_date": "2016-01",
+            "description": "Prepared and implemented annual work plans; supervised staff and schooling activities; developed female staff; built capacity and ensured reporting to central office; coordinated with provincial offices to enhance project activities."
+        },
+        {
+            "title": "Plant Protection Manager",
+            "company": "Not specified",
+            "start_date": "2002-01",
+            "end_date": "2004-01",
+            "description": "Provided improved seed to farmers; worked with farmers to control plant disease; delivered refresh courses; recorded plant disease reports; managed state agriculture properties."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Sc. (Hons) in Agriculture",
+            "school": "Nangarhar University",
+            "year": 2002
+        },
+        {
+            "degree": "Baccalaureate",
+            "school": "Nangarhar High School",
+            "year": 1997
+        }
+    ],
+    "certifications": [
+        "Agriculture New Technology Training, Kansas State University, USA",
+        "Oxford English Language Center: Advanced English (2 levels), Teacher Training, Conversation Class",
+        "Projects Planning Cycle; Projects Implementation; Logical Framework Analysis"
+    ],
+    "languages": [
+        "Pashto",
+        "Dari",
+        "English",
+        "Urdu"
+    ]
+}

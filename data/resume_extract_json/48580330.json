@@ -1,0 +1,135 @@
+{
+    "name": "Patricia Healy",
+    "email": "",
+    "phone": "",
+    "location": "Barbados",
+    "summary": "Experienced Sous Chef with progression from commis to Sous Chef at Hilton Barbados. Skilled in menu writing and costing, staff training, cost control, and high-volume banquet operations. Proven leadership of teams up to 65 staff, and strong emphasis on quality, hygiene, and guest satisfaction.",
+    "skills": [
+        "Strong Management Skills",
+        "Cost control and budgeting",
+        "Team leadership (65+ staff)",
+        "Menu writing and costing",
+        "Sushi preparation",
+        "Staff training and coaching",
+        "Banquet management (up to 1800 guests)",
+        "Payroll budgeting",
+        "Quality assurance and HACCP",
+        "Expediting on range",
+        "Roster design",
+        "Creating team engagement",
+        "Very organized",
+        "Understanding client needs",
+        "Controlling the bottom line",
+        "Multi-tasking"
+    ],
+    "experience": [
+        {
+            "title": "Sous Chef",
+            "company": "Hilton Barbados Resort",
+            "start_date": "10/2013",
+            "end_date": "Present",
+            "description": "Opening and closing chef for a 350-room hotel with 3 restaurants. Managed breakfast (up to 511 covers across two locations), lunch (up to 113 à la carte and 250 with special buffets), beach bar (up to 385 covers), and dinner buffets. Expediting, training, menu writing and costings, overseeing rosters for ~65 chefs and casual staff, and maintaining payroll budgets. Led large banquets up to 1800 guests and conducted quality assurance audits."
+        },
+        {
+            "title": "General Cook",
+            "company": "Fairmont Royal Pavilion",
+            "start_date": "09/2003",
+            "end_date": "02/2005",
+            "description": "Responsible for breakfast, lunch, dinner a la carte service; interacted with guests at action stations; nominated Employee of the Month in 2003-2005."
+        },
+        {
+            "title": "General Cook",
+            "company": "Hilton Barbados",
+            "start_date": "12/2002",
+            "end_date": "09/2003",
+            "description": "General cook – breakfast, lunch, dinner and room service à la carte; assisted with buffets; noted for perfect attendance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate: Management Techniques for Senior Chefs",
+            "school": "University of Birmingham / Barbados Hospitality Institute",
+            "year": 2011
+        },
+        {
+            "degree": "Certificate: Counseling Skills for Managers",
+            "school": "Enlightening Achievement / Barbados CEO Patricia Healy",
+            "year": 2010
+        },
+        {
+            "degree": "Certificate: Baking and Hot Breads",
+            "school": "Culinary Institute of America",
+            "year": 2010
+        },
+        {
+            "degree": "Certificate: Asian Cuisine",
+            "school": "Culinary Institute of America",
+            "year": 2009
+        },
+        {
+            "degree": "Certificate: Soups, Stocks and Sauces",
+            "school": "Culinary Institute of America",
+            "year": 2008
+        },
+        {
+            "degree": "Certificate: Small Dishes, Big Flavors from the Gardemanger",
+            "school": "Culinary Institute of America",
+            "year": 2007
+        },
+        {
+            "degree": "Certificate: Sushi",
+            "school": "Hilton Barbados Resort",
+            "year": 2007
+        },
+        {
+            "degree": "Sushi Training",
+            "school": "Chef John Amayo, Venezuela",
+            "year": ""
+        },
+        {
+            "degree": "Distinction in Supervisory Management",
+            "school": "Caribbean Training Institute",
+            "year": 2005
+        },
+        {
+            "degree": "Diploma: Supervisory Management",
+            "school": "Caribbean Training Institute",
+            "year": ""
+        },
+        {
+            "degree": "Associate of Applied Science: Applied Science- Culinary Arts",
+            "school": "Barbados Hospitality Institute",
+            "year": 2002
+        },
+        {
+            "degree": "Associate Degree of Applied Science- Culinary Arts",
+            "school": "Barbados Hospitality Institute",
+            "year": 2002
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Alexandra Secondary School, Barbados",
+            "year": 2000
+        },
+        {
+            "degree": "Caribbean Examinations Council Certificates",
+            "school": "Caribbean Examinations Council",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Management Techniques for Senior Chefs (2011)",
+        "Counseling Skills for Managers (2010)",
+        "Baking and Hot Breads (2010)",
+        "Asian Cuisine (2009)",
+        "Soups, Stocks and Sauces (2008)",
+        "Small Dishes, Big Flavors from the Gardemanger (2007)",
+        "Sushi (2007)",
+        "Sushi training - Chef John Amayo, Venezuela (2007)",
+        "Distinction in Supervisory Management (2005)",
+        "Diploma: Supervisory Management (Caribbean Training Institute)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

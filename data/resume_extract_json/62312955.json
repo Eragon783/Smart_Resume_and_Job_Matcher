@@ -1,0 +1,87 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Graphic Artist and Designer skilled in graphic design and digital art for print, web, and product manufacturing. Proficient in CAD, Gerber, and Adobe Creative Suite (Photoshop, Illustrator, InDesign), as well as 3D tools (ZBrush, Cinema 4D, VUE). Experienced in mood boards, composition for marketing collateral, pattern engineering, garment and theatrical costume design, and production efficiency.",
+    "skills": [
+        "Gerber Systems",
+        "Photoshop",
+        "Illustrator",
+        "InDesign",
+        "Microsoft Office Suite",
+        "Windows",
+        "Mac environments",
+        "ZBrush",
+        "Cinema 4D",
+        "VUE",
+        "Digital Illustration",
+        "Manual sketching",
+        "Mood boarding",
+        "2D Pattern engineering",
+        "Technical sketching",
+        "Computer Aided Design (CAD)",
+        "Patternmaking",
+        "Garment and theatrical costume design",
+        "Quality Assurance (QA)",
+        "BOMs",
+        "PLM",
+        "Design and Illustration for print/web"
+    ],
+    "experience": [
+        {
+            "title": "Graphic Artist, Designer",
+            "company": "Company Name",
+            "start_date": "Feb 2016",
+            "end_date": "Present",
+            "description": "Design album cover art. Design promotional posters and postcards. Created mixed compositions utilizing illustrations and photography to express artist identity and style for web applications."
+        },
+        {
+            "title": "Technical Designer / Patternmaker",
+            "company": "Company Name",
+            "start_date": "Jan 2000",
+            "end_date": "May 2015",
+            "description": "Managed pattern and grading timelines for stage costumes and cast member uniforms. Quality assurance and determined spec guidelines. Problem-solving for sizing and fit challenges. Technical illustration for PLM documentation. Reduced garment manufacturing cost by over 60% and reduced production lead times by about 50% by creating and enforcing production efficiency standards and reducing waste. Maintained BOMs."
+        },
+        {
+            "title": "Design and Patternmaking Assistant",
+            "company": "Company Name",
+            "start_date": "Mar 1997",
+            "end_date": "Jun 1999",
+            "description": "Refresh and customize theatrical costumes for each play. Assist in prop-making and decoration. Maintained costume library."
+        },
+        {
+            "title": "Freelance Costume Designer",
+            "company": "Company Name",
+            "start_date": "Mar 1997",
+            "end_date": "Jun 1999",
+            "description": "Assisted AFI students in developing character looks for their short film projects. Worked closely with director, head designer."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate of Proficiency: Graphic Design / Animation",
+            "school": "Studio Arts, Ltd.",
+            "year": "2016"
+        },
+        {
+            "degree": "Computer Aided Design",
+            "school": "Lectra / Gerber Systems",
+            "year": ""
+        },
+        {
+            "degree": "Digital Design, Patternmaking, Grading, and Marker-Making coursework",
+            "school": "Art Institute & LA Trade Tech",
+            "year": ""
+        },
+        {
+            "degree": "Associate of Arts: Fashion Design",
+            "school": "Brooks College",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Certificate of Proficiency: Graphic Design / Animation (Studio Arts, Ltd., 2016)"
+    ],
+    "languages": []
+}

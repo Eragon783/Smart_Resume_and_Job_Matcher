@@ -1,0 +1,78 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Detail-oriented IT professional with extensive military IT leadership experience. Proficient in Windows and Mac environments, Active Directory, network design and administration, fiber-optic and Cat5e cabling, server management, information assurance, helpdesk operations, asset management, budgeting, and process improvement. Experienced in team leadership, policy implementation, logistics planning, and mission-critical IT support.",
+    "skills": [
+        "Active Directory",
+        "Microsoft",
+        "Windows",
+        "Mac",
+        "Linux/Unix",
+        "HP-UX",
+        "Information Assurance",
+        "IAM",
+        "IAVA",
+        "Antivirus",
+        "Troubleshooting",
+        "Helpdesk",
+        "User accounts management",
+        "Track IT!",
+        "Remedy",
+        "Networking",
+        "Cisco",
+        "Alcatel",
+        "Fiber-optic cabling",
+        "Cat 5e cabling",
+        "Network administration",
+        "Server administration",
+        "Data backups and restore",
+        "Policy development",
+        "Budget planning",
+        "Inventory management",
+        "Financial management",
+        "Government regulations",
+        "CPOF",
+        "Logistics planning",
+        "Aviation supply",
+        "Requisitions",
+        "Procurement",
+        "Materials management"
+    ],
+    "experience": [
+        {
+            "title": "Gunnery Sergeant",
+            "company": "Unknown Unit / Specialist Company Name",
+            "start_date": "1997-01",
+            "end_date": "2014-01",
+            "description": "Administered, designed, installed, maintained, and repaired network data communication links and fiber-optic cabling. Supported a myriad of computer and network operating systems and servers. Provided direct hardware and software support, installation/configuration support for over 5000 users, computers, laptops, printers, and peripherals. Managed, supervised, and trained over 40 personnel across multiple shifts. Implemented policies and directives to streamline and maximize productivity. Maintained Windows and Linux/Unix (HP-UX) servers, performing data management, backups and restores, troubleshooting, and preventative maintenance to minimize downtime. Led Windows platform migrations; network administration, design, and installation utilizing fiber-optic, tactical fiber-optic cabling, and Cat5e cabling. Supervised Cisco and Alcatel switches and routers. Acted as Information Assurance Manager (IAM) to ensure compliance with DoD IA standards. Managed helpdesk via phone or email, created/modifed/deleted user accounts, and tracked/closed maintenance actions using Track IT! and Remedy."
+        },
+        {
+            "title": "MAGTF Planning Specialist",
+            "company": "Unknown Unit",
+            "start_date": "",
+            "end_date": "",
+            "description": "Baghdad, Iraq: Responsible for logistical support; updated plan and information to unit-level detail and operated/managing force deployment planning automated data processing tools. Created force reports and properly formatted/forwarded electronic mail, files, and newsgroup traffic. Provided support in preparing, planning, mapping, and tracking routes for over 50 personnel daily. Developed reports for Supervisors on a weekly basis using Command Post of the Future (CPOF) system. Maintained constant contact with personnel to provide needed support, resulting in zero loss of personnel and assets, saving the government approximately $50–$100 million."
+        },
+        {
+            "title": "Aviation Supply Specialist",
+            "company": "Unknown Unit",
+            "start_date": "",
+            "end_date": "",
+            "description": "Validated customer requirements, processed requisitions, submitted requisitions, initiated appropriate follow-up actions, and delivered material in accordance with all government regulations and procedures. Maintained inventory and procured assets when below allowable limits. Provided logistical support to aviation activities, including financial management, inventory management, material management, personnel staffing, and requisitioning procedures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Information Technology",
+            "school": "Columbia Southern University",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "Active Secret Clearance",
+        "Yellow Belt in Continuous Process Improvement (CPI)"
+    ],
+    "languages": []
+}

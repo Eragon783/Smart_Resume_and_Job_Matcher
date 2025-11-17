@@ -1,0 +1,72 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Professional Profile Highly responsible and dedicated professional with a proven record of success in member engagement and experience. Excellent manager of both large groups and small teams. Works well in groups. Volunteers own time. Able to multitask effectively and handle evolving job priorities. Superior organizational, leadership and interpersonal skills. Successful in hiring and retaining highly motivated and member oriented employees.",
+    "skills": [
+        "Human resources experience",
+        "Relationship builder",
+        "Skilled motivator",
+        "Highly dependable",
+        "Microsoft Word, Excel, Outlook proficient",
+        "Organized",
+        "Trustworthy",
+        "Team player",
+        "Volunteer",
+        "Works well under pressure",
+        "Energetic personality"
+    ],
+    "experience": [
+        {
+            "title": "Interim Membership Director",
+            "company": "Company Name City , State",
+            "start_date": "2016-02",
+            "end_date": "Current",
+            "description": "Oversee Welcome Desk and sales team. Collaborate with Municipal Services Assistant for the city of Morgan Hill. Collaborate with the Director of Member Engagement at the YMCA. Mentor and develop Welcome Desk staff. Rebuild and establish trust with Welcome Desk staff. Track tours given and tours closed. Assess and apply financial aid to members. Interact and engage with members."
+        },
+        {
+            "title": "Health and Wellness Director",
+            "company": "Company Name City , State",
+            "start_date": "2015-05",
+            "end_date": "Current",
+            "description": "Oversee 65 direct reports and day-to-day operations in the fitness center and group fitness program. Co-chair Health and Wellness cabinet with all 11 branches of the Silicon Valley YMCA association. Prepare weekly sub schedule and quarterly schedule changes for group fitness. Track and maintain wellness coaches, group fitness instructors and personal trainers hours in ADP. Oversee Health and Wellness Coordinator duties. Mentor and develop Health and Wellness Coordinator. Develop and grow all fitness staff by successfully preparing and tracking goals and provide training and leadership opportunities. Oversee fitness department budget, research and purchase expenses and maintenance for the fitness center and equipment; manage expense reports. Coordinate and execute programs and projects as assigned by AED. Conduct phone screenings and interview candidates for wellness coach, group fitness and personal training positions. Conduct auditions for Wellness Coach, group fitness and personal training candidates. Lead staff campaigner volunteer initiatives between all fitness staff and exempt staff. Volunteer since 2012 for YMCA Annual Giving Campaign. Work with leadership regarding SEER survey to deepen member satisfaction and connections. Create and develop the CRC staff in-service agenda with other leadership team members."
+        },
+        {
+            "title": "Health and Wellness Coordinator",
+            "company": "Company Name City , State",
+            "start_date": "2012-10",
+            "end_date": "2015-05",
+            "description": "Oversee 17 direct reports and the day-to-day operations in the fitness center. Prepare monthly calendar scheduling for wellness coaches shifts and monthly calendar scheduling for wellness appointments for members. Track and maintain coaches hours in ADP. Track all wellness coaches end-of-shift reports, member engagement, wellness appointment percentages and wellness coaches FitLinxx triggers. Develop and grow wellness coaches by successfully preparing and tracking goals for each wellness coach and provide training and leadership for each wellness coach. Work closely with the Health and Wellness Director on the fitness department budget, research and purchase minor expenses and maintenance for the fitness center and manage expense reports. Created and implemented the CRC Youth calendar and oversee Mini Me and Youth Fitness activities. Coordinate and execute programs and projects as assigned. Conduct phone screenings and interviews for wellness coach positions. Conduct auditions for Zumba and UJamm candidates for group fitness. Serve as staff campaign liaison between all group fitness staff and exempt staff for the past 3 years. Volunteer and assist with the YMCA Annual Giving Campaign for the past 3 years. Work with leadership regarding SEER survey and develop CRC staff in-service agenda with other leadership team members for the past 2 years. Coordinate and execute special community fitness events such as the Youth Triathlon and Get Fit. Coordinate and execute member engagement programs such as Indoor Triathlon, El Toro challenge, TRX 40/40 challenge and March Madness. Develop working relationship with City of Morgan Hill and YMCA maintenance teams to ensure quick response to issues in the fitness center and equipment."
+        },
+        {
+            "title": "Group Fitness Instructor",
+            "company": "Company Name City , State",
+            "start_date": "2010-10",
+            "end_date": "Current",
+            "description": "Cultivate positive relationships with participants by interacting during group fitness classes. Explain the use of exercise equipment and prioritize safety at all times. Welcome members professionally and politely. Develop safe and effective exercise programs for all members. Assess individual progress and suggest appropriate changes. Report any damaged or broken equipment. Teach a variety of group exercise classes including Kick Boxing, Turbo Kick, Pilates, Body Pump, TRX, RIP, Step, Boot Camp, Zumba, Zumba Kids and Zumba Gold. Explain exercise modifications to participants with a history of injury."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name City , State",
+            "start_date": "2001-04",
+            "end_date": "2010-07",
+            "description": "Performed all scheduling of staff. Prepared and executed all payroll and commissions. Managed inventory and merchandise sales. Provided training and leadership for staff. Prepared and executed all cash, checks and credits paid for deposit. Researched and purchased equipment and parts. Conducted phone screenings and interviews for new hires. Acted as liaison between employees and CEO. Prepared and conducted all staff meetings. Worked with City of Nampa Chamber of Commerce events."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Liberal Arts",
+            "school": "Northwest Nazrene University",
+            "year": "2003"
+        }
+    ],
+    "certifications": [
+        "CPR, First Aid and AED",
+        "YMCA Diabetes Prevention Program",
+        "YMCA Child Abuse Prevention",
+        "FitLinxx",
+        "Various group fitness certifications"
+    ],
+    "languages": []
+}

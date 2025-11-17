@@ -1,0 +1,71 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly motivated professional seeking a Receptionist position with excellent communication skills, analytical thinking, and a customer-focused, team-oriented attitude. Experienced in answering calls, scheduling, front-desk duties, basic bookkeeping, and assisting physicians; proficient with MS Office. High school diploma. Able to handle multiple tasks in fast-paced environments and provide compassionate service to patients and customers.",
+    "skills": [
+        "Receptionist",
+        "10-Key",
+        "Account Management",
+        "Active Learning",
+        "Calendaring",
+        "Client Relations",
+        "Computer Proficiency",
+        "Coordination",
+        "Creative Problem Solving",
+        "Customer Needs Assessment",
+        "Customer Service",
+        "Data Collection",
+        "Data Entry",
+        "Documentation",
+        "Email",
+        "Executive Management Support",
+        "Filing",
+        "Internet Research",
+        "Scheduling",
+        "Spreadsheets",
+        "Telephone Skills",
+        "Time Management",
+        "Vendor Management",
+        "Letters and Memos",
+        "Microsoft Excel",
+        "Microsoft Office Suite",
+        "Microsoft Outlook",
+        "Microsoft Word",
+        "Multi-Task Management",
+        "Organizational Skills and Prioritization"
+    ],
+    "experience": [
+        {
+            "title": "Customer Service Associate / Cashier",
+            "company": "Kohl's",
+            "start_date": "October 2008",
+            "end_date": "April 2009",
+            "description": "Greeted and assisted customers in a friendly courteous manner. Processed customers' transactions accurately and efficiently; maintained funds in register and called for change or cash pickups. Followed policies for voids, exchanges, and over/short; opened/closed register; recorded information on balance sheet to prevent cash loss. Adhered to merchandising standards; performed POS processes; maintained neat, clean area; ensured proper placement of returns; assisted with department and service desk; called for department to pick up returns; solicited Kohl's Charge applications; responded to POS backup calls; supported POS and customer service as needed. Adept at handling multiple tasks and providing excellent customer service."
+        },
+        {
+            "title": "Chiropractor Assistant",
+            "company": "Chiropractor Office",
+            "start_date": "October 2007",
+            "end_date": "September 2013",
+            "description": "Greeted and registered arriving patients; confirmed insurance status; recorded medical histories; complied with HIPAA. Room patients; assist chiropractors; administer physical therapy techniques; educate patients; schedule patients; check out departing patients; call and confirm appointments; manage patient files; handle managerial tasks; bookkeeping, billing, payroll, bank deposits; maintain office supplies; manage equipment; keep waiting and examination rooms clean; proficient in Microsoft Office and Excel."
+        },
+        {
+            "title": "House Cleaner",
+            "company": "Self-employed",
+            "start_date": "January 2005",
+            "end_date": "Current",
+            "description": "Commercial and private house cleaning. Maintain lists of vacant apartments requiring housekeeping before new occupancy. Clean commercial buildings, offices, restrooms and common areas. Restock toiletries, vacuum carpets, sweep, scrub, wax and polish floors; prepare surfaces with primer, apply paint layers, and hang wallpaper. Tidy up after completing jobs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Marshfield High School",
+            "year": "1987"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

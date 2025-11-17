@@ -1,0 +1,52 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Efficient, accurate and detail-oriented professional with preschool teaching experience, strong leadership and relationship-building skills, and a commitment to quality and service.",
+    "skills": [
+        "Strong communication skills",
+        "Microsoft Office",
+        "Staff motivator",
+        "Commitment to quality and service",
+        "Profit enhancement",
+        "Employee hiring and retention"
+    ],
+    "experience": [
+        {
+            "title": "Preschool Teacher",
+            "company": "Company Name - City , State",
+            "start_date": "February 2010",
+            "end_date": "August 2015",
+            "description": "Collaborated with teachers to ensure the delivery of efficient, high-quality service. Successfully initiated and implemented projects which resulted in positive outcome."
+        },
+        {
+            "title": "Supervisor",
+            "company": "Company Name - City , State",
+            "start_date": "February 2004",
+            "end_date": "January 2010",
+            "description": "Reviewed weekly inventory charts and recorded facility needs. Consistently received positive feedback from guests on performance reviews. Provided coaching, mentoring, and consultation to staff to enhance staff development. Worked directly with retail vendors to achieve excellent customer service."
+        },
+        {
+            "title": "Team Member",
+            "company": "Company Name - City , State",
+            "start_date": "January 2001",
+            "end_date": "March 2003",
+            "description": "Supervised and coordinated dining room activities and employee schedules. Set-up and operated line for birthday parties."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science in Business Management",
+            "school": "Chattahoochee Technical College",
+            "year": null
+        },
+        {
+            "degree": "Business",
+            "school": "Valdosta State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

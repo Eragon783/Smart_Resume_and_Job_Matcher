@@ -1,0 +1,101 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Occupational Therapist with 10+ years of leadership and management experience across health care operations, home health, outpatient rehabilitation, and program development. Proven ability to drive growth, ensure regulatory compliance, lead diverse teams, and enhance patient care.",
+    "skills": [
+        "Accounting",
+        "Acquisitions",
+        "Art",
+        "Balance",
+        "Bridges",
+        "Business Operations",
+        "Business plan",
+        "Oral",
+        "CPA",
+        "Client",
+        "Customer satisfaction",
+        "Documentation",
+        "Financials",
+        "Team building",
+        "Leadership",
+        "Director",
+        "Marketing",
+        "Memory",
+        "Mentoring",
+        "Mergers",
+        "Network",
+        "Nursing",
+        "Policies",
+        "Presentations",
+        "Processes",
+        "Program development",
+        "Quality",
+        "Recruitment",
+        "Reporting",
+        "Sales",
+        "Staffing",
+        "Strategic",
+        "Technical training",
+        "Vision"
+    ],
+    "experience": [
+        {
+            "title": "Occupational Therapist",
+            "company": "Company Name",
+            "start_date": "2014-02",
+            "end_date": "Present",
+            "description": "Prescribing and implementing occupational therapy services to pediatric population of 0-21 yrs. Administering and interpreting evaluation needed for treatment of fine, oral, and gross motor skills and sensory dysfunction. Prescribing, Fitting, and training of medical devices for disabled persons."
+        },
+        {
+            "title": "Senior Director of Operations",
+            "company": "Company Name",
+            "start_date": "2008-07",
+            "end_date": "2013-09",
+            "description": "Operational oversight of ancillary services product line including home health, outpatient rehabilitation, private duty nursing, skilled nursing, and premium programs, within multiple regions encompassing direct supervision of regional directors of operations, home health administrators, sales and marketing, recruitment teams, compliance, and in direct supervision of over 200+ employees. Directed multi-site branch office operations in compliance with all federal and state regulations. Established policy and procedure standards focused on quality improvement and best demonstrated clinical practice. Led region in multiple deficiency free Medicare surveys to include home health, rehab agencies, skilled nursing facilities. Led a team responsible for the development of start-up home care agencies and rehab agencies. Monitored and directed the development, implementation, and maintenance of therapy and home health in senior living communities and home care agencies in multiple states. Increased gross revenue from $250,000 to 4 million annual from 2010 to 2013. Improved home health penetration throughout owned and managed senior living communities from less than 5 percent to 16 percent. Achieved same store gross margin growth of 6 to 10% in therapy and 25% in home care."
+        },
+        {
+            "title": "Healthcare Coordinator",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2008-01",
+            "description": "Prescribing and implementing occupational therapy services to adult and geriatric population. Administering and interpreting evaluation needed for treatment of overall wellness, physical dysfunction, gross motor, endurance, memory, muscular, and sensory dysfunction. Management of staffing, team building, caseload development, integrations, and compliance."
+        },
+        {
+            "title": "Co-Owner, Therapy Director, and Occupational Therapist",
+            "company": "Building Bridges Therapy and Learning Centers",
+            "start_date": null,
+            "end_date": null,
+            "description": "Created strategies to enhance company deliverables for clinicians, generating additional revenue streams to capture new customers, increase market share and increase customer satisfaction. Management of client services. Caseload development, marketing of services, orientations for new employees, financial oversight and analysis. Development and implementation of Sensory, Oral Motor, Low Vision programs for child under 21 yrs. Prescribing and implementing occupational therapy services to pediatric population of 0-21 yrs. Prescribing, Fitting, and training of medical devices for disabled persons."
+        },
+        {
+            "title": "Regional Director",
+            " company": "Company Name",
+            "start_date": null,
+            "end_date": null,
+            "description": "Responsible for all operational, philosophical, and technical training and program development in Home Health, Outpatient, Hospice, and Skilled Nursing settings. Provide education on company policies, procedures, rules, regulations, therapeutic processes, financials, management tools, management approaches, & documentation. Conduct presentations on models and theories that support the services, culture, and best practices of the organization. Provide a rolling mentorship for clinicians and managers within the organization. Development and education on therapeutic and wellness interventions and programs in order to provide the best quality of care in the industry. Development and Presentation of AOTA Accredited CEU programs: Balance, Low Vision, Urinary Incontinence, and Dementia Management. Training and Implementation of Digital Documentation systems for all product lines nationwide."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Occupational Therapy",
+            "school": "Midwestern University",
+            "year": 2004
+        },
+        {
+            "degree": "Master of Business Administration: Healthcare Management",
+            "school": "University of Phoenix",
+            "year": 2014
+        },
+        {
+            "degree": "Graduate Certificate in Accounting/CPA Exam Candidate",
+            "school": null,
+            "year": 2015
+        }
+    ],
+    "certifications": [
+        "CPA Exam Candidate"
+    ],
+    "languages": []
+}

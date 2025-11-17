@@ -1,0 +1,80 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Accounting and finance professional with 4+ years of experience in full financial statement reporting, month-end close, G/L reconciliation, revenue recognition, budgeting, and grant accounting. CPA candidate pursuing a Master of Science in Finance Management and IT, proficient in financial modeling, internal controls, GAAP, and financial analysis; skilled with Microsoft Dynamics, FundEz, and QuickBooks.",
+    "skills": [
+        "Working Capital Management",
+        "Financial Modeling",
+        "End of the Month Closing",
+        "Budget Analysis",
+        "Bookkeeping",
+        "Grant Accounting/Grant Reporting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Aging Reporting",
+        "General Ledger Reconciliation",
+        "Monthly Balance Sheet Reconciliation",
+        "Revenue Recognition",
+        "Budget Monitoring",
+        "Internal Controls",
+        "GAAP",
+        "Excel",
+        "Microsoft Dynamics",
+        "FundEz",
+        "QuickBooks",
+        "ADP",
+        "Cash Flow Analysis",
+        "Variance Analysis",
+        "Depreciation",
+        "Journal Entries"
+    ],
+    "experience": [
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "2015-02",
+            "end_date": "2016-06",
+            "description": "Full charge bookkeeper reporting to CFO/Controller; prepared board financial materials; performed G/L reconciliation, monthly balance sheet reconciliation, cash flows analysis; revenue auditing according to grants; budget monitoring and analysis; maintained AR, AP, revenue and deferred revenue recognition; prepared month-end and year-end journals; managed audits and coordination with state/private auditors; tracked grants revenue, commitments and variances; prepared grant budgets and forecasts; monitored salaries/fringes allocations; ensured compliance with OMB Circ. A-133; prepared grant invoices and supporting schedules; analyzed and reconciled expenses, budgets, and cash draws; maintained fixed assets and depreciation; produced monthly updates on grants receivable aging and deferred revenue; assisted with audits and internal controls."
+        },
+        {
+            "title": "Finance Consultant/Budget Analyst",
+            "company": "Company Name - City, State",
+            "start_date": "2013-10",
+            "end_date": "2015-02",
+            "description": "Provided financial and accounting services to portfolio of private and public clients. Supported finance department with budget analysis, cash flow management, general ledger reconciliation, month/year end closing, financial statement reporting, internal control implementation, variance analysis, and development of financial models and analytical tools. Maintained Chart of Accounts."
+        },
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name - City, State",
+            "start_date": "2012-06",
+            "end_date": "2013-08",
+            "description": "Evaluated clients' financials and accounting processes, performed audits of various accounts, tracked capital spending, analyzed operating budgets vs forecasts, assisted CFOs with monthly financial statements, performed revenue recognition analysis, reconciled statements with G/L, prepared financial reporting, performed depreciation and amortization analysis."
+        },
+        {
+            "title": "Financial Coordinator, Accountant I",
+            "company": "Company Name",
+            "start_date": "2011-04",
+            "end_date": "2012-01",
+            "description": "Performed grant accountant duties for portfolios at CASL and IBBR; defined grant deliverables, monitored deadlines; performed monthly budget actualization and financial reports; analyzed variances and assisted project managers to build action plans; reconciled journal entries; maintained petty cash; reviewed credit card and grants expenses for OMB compliance; conducted monthly project meetings for grants expenditures analysis."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Finance Management and IT",
+            "school": "University of Maryland University College",
+            "year": 2017
+        },
+        {
+            "degree": "Bachelor of Science in Accounting",
+            "school": "University of Maryland",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "CPA Candidate (Expected Winter 2017)",
+        "OMB Circular A-133 / A-122 / A-21 / A-110 compliance"
+    ],
+    "languages": []
+}

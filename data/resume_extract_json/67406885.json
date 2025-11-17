@@ -1,0 +1,109 @@
+{
+    "name": "Dustin Simmons",
+    "email": null,
+    "phone": null,
+    "location": "Tulsa, Oklahoma, USA",
+    "summary": "Engineering professional with a proven track record in the oil and gas industry. Skilled at delivering value through analytical and creative problem solving, field and office integration, and proactive risk management. Experienced with drilling, completions, production, and reservoir perspectives; strong focus on HSE, regulatory compliance, budgeting, and accurate cost tracking. Proficient in a range of software tools and able to drive standardization and improved reporting across teams. Recognized for optimizing timelines, reducing costs, and improving performance in marginal plays and core basins.",
+    "skills": [
+        "Drilling engineering",
+        "Completions engineering",
+        "Field engineering",
+        "Production engineering",
+        "Reservoir engineering",
+        "Data analysis and reporting",
+        "Budgeting and cost control",
+        "HSE and regulatory compliance",
+        "Wellview software",
+        "ARIES",
+        "Powertools",
+        "Petra",
+        "HIS Enerdeq",
+        "Drilling Info",
+        "IHS",
+        "PHD Win",
+        "Production Explorer",
+        "Digital record keeping",
+        "Cross-functional coordination",
+        "Bid and tender management",
+        "Surface owner liaison"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Consultant",
+            "company": "Company Name",
+            "start_date": "July 2015",
+            "end_date": "Present",
+            "description": "Fulfilling a variety of engineering needs for clients including reservoir engineering, acquisitions and divestitures, company or prospect valuations, production engineering and drilling engineering. Involves data compiling and cleanup using diverse software packages. Proficient with ARIES, Powertools, Petra, HIS Enerdeq, Drilling Info, Wellview. Worked to standardize reporting and coordinated field and office teams."
+        },
+        {
+            "title": "Staff Production Engineer",
+            "company": "Company Name",
+            "start_date": "February 2015",
+            "end_date": "July 2015",
+            "description": "Addressed inefficiencies in an older Permian well set in the Midland Basin. Cleaned up billing structures, routing issues, and identified HSE concerns. Utilized Production Explorer, IHS, PHD Win, and Drilling Info to complete work and advanced field staff technology adoption and digital record keeping."
+        },
+        {
+            "title": "Senior Drilling Engineer",
+            "company": "Company Name",
+            "start_date": "March 2011",
+            "end_date": "February 2015",
+            "description": "Marmaton Play: drilled Unit's longest lateral (9,870?) and fastest well (8.71 days spud to TD). Over the first 18 months, reduced spud to RR from 30+ days to 13.14 days and DHC from 2.1MM to 1.37MM, with outliers reduced by 68%. Consistently outperformed offset operators in spud to TD, DHC, and outlier metrics."
+        },
+        {
+            "title": "Field Engineer (and continued Drilling and Completions Engineer)",
+            "company": "Unit Corporation",
+            "start_date": "September 2008",
+            "end_date": "March 2011",
+            "description": "Field representative for completion and frac consulting, preparing for frac jobs, flowback, and handover to Production. Drilling and completions duties across 80+ wells, managing regulatory requirements, bidding, surface owner relationships, location reclamation, and liaison between surface owners and Unit Landmen."
+        },
+        {
+            "title": "Drilling and Completions Engineer",
+            "company": "Unit Corporation",
+            "start_date": "June 2007",
+            "end_date": "September 2008",
+            "description": "Designed completion procedures (perfs, acidizing, frac, etc). Collaborated with Production Foreman to ensure alignment between field and office. Served as onsite representative when issues arose to maximize long term project benefits."
+        },
+        {
+            "title": "Intern",
+            "company": "Unit Corporation",
+            "start_date": "September 2005",
+            "end_date": "June 2007",
+            "description": "Handled regulatory paperwork and ensured compliance for drilling and completion engineers. Gathered offset data, assisted with Wellview deployment, and wrote training materials for drilling consultants."
+        },
+        {
+            "title": "Derrickhand",
+            "company": "Nabors Drilling",
+            "start_date": "December 1999",
+            "end_date": "April 2003",
+            "description": "Calculated and measured mud properties, adjusted chemical additives, repaired and maintained mud pumps and solids control equipment. Assisted driller and tool pusher and supervised three subordinates."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors in Mechanical Engineering",
+            "school": "University of Tulsa",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "ARIES Fundamentals",
+        "Advanced Sucker Rod Lifting for Gas Well Deliquidification",
+        "Open Hole Log Interpretation",
+        "Gas Well Deliquidification",
+        "Petroskills: Gas Well Deliquidification",
+        "Oil Well Blowout Prevention Systems School",
+        "Leadership Essentials",
+        "Halliburton: Drill Bits & Services Drill Bit Technology Seminar",
+        "K&M Technology: Extended Reach Engineering Design and Implementation Course",
+        "Blade Energy Partners: Principles of Tubular Design",
+        "Stan Mason PTTC: Completion & Stimulation of Horizontal Wells in Tight and Unconventional Reservoirs",
+        "Society of Petroleum Engineers: Drillstring Design",
+        "Frank J Schuh Baker Hughes: Drill Bit Technology Seminar",
+        "Baroid: Drilling Fluids Technology",
+        "Murchinson Drilling School: Operational Drilling Technology Course",
+        "Petroskills: Gas Well Deliquidification"
+    ],
+    "languages": [
+        "English"
+    ]
+}

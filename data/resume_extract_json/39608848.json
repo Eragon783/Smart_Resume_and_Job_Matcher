@@ -1,0 +1,57 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Marketing Manager with nearly 20 years of experience in customer service, office management, marketing, and public relations for private companies and non-profits. Skilled at end-to-end event execution, relationship building, multi-channel marketing, and driving brand awareness through strategic planning and hands-on program management.",
+    "skills": [
+        "Customer service-focused",
+        "Relationship building expert",
+        "Deadline-driven",
+        "Exceptional multi-tasker",
+        "Microsoft Office Suite expert",
+        "Self-directed",
+        "Excellent written and verbal communicator",
+        "Multi-media marketing experience"
+    ],
+    "experience": [
+        {
+            "title": "Marketing Manager",
+            "company": "Company Name",
+            "location": "City, State",
+            "start_date": "November 2011",
+            "end_date": "October 2016",
+            "description": "Drive strategic marketing planning as well as tactical execution for the 6 regions. Manage marketing communications, including website, collateral, B2B, content marketing, webcasts, advertising, proposal content, digital marketing, and media relations in collaboration with central marketing. Build relationships with regional marketing, sales and technology vendors. Work with Executive, Sales, and Engineer teams to run annual Summit. Manage Marketing Department Staffing. Foster relationships with potential customers, drive brand awareness and create effective sales and marketing opportunities. Pursue and coordinate sponsorship, speaking, tradeshow and event opportunities to enhance reputation and increase exposure with target audience. Manage Market Development Funds and create events that pay for themselves. Utilize CRM to execute effective marketing programs. Support activity tracking, data maintenance and mailing list management. Provide input and insight into large, complex sales pursuits and written proposals as requested."
+        },
+        {
+            "title": "Special Events Coordinator",
+            "company": "Company Name",
+            "location": "City, State",
+            "start_date": "February 2005",
+            "end_date": "June 2011",
+            "description": "Generate an annually growing source of event revenue and participants for Franciscan Health System (FHS) objectives, and increase community involvement in and support for FHS by managing seven successful special events (St. Francis, St. Clare and Franciscan Hospice Golf Tournaments and the Brett Erickson and Spectrum Golf Tournaments; and the Franciscan Hospice Luncheon, St. Joseph Ball and St. Francis Gala). Interact with FHS administrators and lead community volunteers to develop, schedule, and determine FHS special event goals, procedures, and budgets. Manage the ongoing activities of approximately 90 volunteers in seven event committees in Tacoma, Lakewood, Federal Way and Gig Harbor. Direct report of 2 administrative assistants and up to 30 volunteers per event. Prepare and present reports of special event financial, attendance, etc., results to event committees and to the Franciscan Foundation Board of Trustees. Liaison between the Franciscan Foundation and a variety of corporate and individual donors/vendors who financially support special events. Solicit corporate sponsorships and gifts from individuals and vendors in support of these FHS special events. Research and cultivate prospective event sponsors. Manage event ticket sales, reservations, and registration. Oversee bank transactions, credit card processing and all other post-event reconciliations. Maintain and manage special event software. Public Relations and Event Contact for outside organizations wishing to support the Franciscan Foundation."
+        },
+        {
+            "title": "Ticket Office Manager",
+            "company": "Company Name",
+            "location": "City, State",
+            "start_date": "November 1998",
+            "end_date": "February 2005",
+            "description": "Managed as many as 200 performances a year in 3 different theaters. Managed a 4-6 person Ticket Office team and 30+ Front of House staff. Senior Level Administrative experience. Provide customer service via phone and in-person. Assist patrons and rental organizations with season subscriptions, single ticket purchases, and donations. Provided year round financial and statistical reports to Board Members and Executive Committees. Accurate development, accounting & reporting of Ticket Office Budget and Sales. Database Manager for Patrons and Donors using ArtSoft. Event Selection Committee member for the 2001-2004 seasons, assist with Board Functions. Member of supervisory team which met to plan and provide oversight for the operations of the Broadway Center and its historic Downtown theaters. Initiated website and online ticket sales. Assisted with the creation of promotional advertising that affect ticket sales and public relations. Training: ArtSoft Box Office Manager in Wallingford, CT."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts, General",
+            "school": "Pierce Community College",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Woodrow Wilson High School",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

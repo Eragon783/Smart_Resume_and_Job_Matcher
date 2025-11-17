@@ -1,0 +1,93 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Ambitious professional focused on communications and customer service, with internships and hands-on experience in human resources, public relations, event planning, research, and HRIS databases; proven ability to manage schedules, coordinate travel, and maintain confidentiality in fast-paced environments.",
+    "skills": [
+        "Excel",
+        "Microsoft Office",
+        "WordPress",
+        "Hootsuite",
+        "Google Docs",
+        "Twitter",
+        "Facebook",
+        "Google Alerts",
+        "Trapit",
+        "Photoshop",
+        "HRIS",
+        "Human Resources",
+        "Research",
+        "Press Releases",
+        "Promotion",
+        "Public Relations",
+        "Event Coordination",
+        "Manage Schedules",
+        "Travel Arrangements",
+        "Troubleshoot",
+        "Website",
+        "Editing",
+        "Leadership",
+        "Networking",
+        "Customer Service",
+        "Database Skills",
+        "Social Media Management",
+        "Cision",
+        "Ceridian",
+        "Kronos",
+        "Ebsco Host"
+    ],
+    "experience": [
+        {
+            "title": "Human Resources Administrative Assistant/Executive Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "October 2014",
+            "end_date": "September 2015",
+            "description": "Managed multiple schedules; assisted entire department with any and all needs; strong organizational skills with the ability to multitask; worked in a fast-paced environment; troubleshoot; high volume of interaction with accounting; coordinated travel arrangements; experience with confidential and sensitive information, employee relations; ensured compliance with labor law posters; tracked employee anniversaries; strong customer service skills; member of Winn Event Planning Committee; working knowledge of Learning Management System and training; facilitated WinnStart process."
+        },
+        {
+            "title": "Street Team Member",
+            "company": "Company Name, City, State",
+            "start_date": "May 2014",
+            "end_date": "September 2015",
+            "description": "Responsible for setup, execution, and breakdown of station appearances; represented the station in a positive manner; maintained station vehicle and prize inventory; interacted with clients at sales appearances; upheld appropriate station image at all events (brand ambassador); communicated with Promotion Coordinator before and after events."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name, City, State",
+            "start_date": "May 2007",
+            "end_date": "September 2015",
+            "description": "Promoted 4 times within 4 years of employment due to leadership abilities and work ethic; mentored/trained new members of staff in both event planning and cleaning; assisted with event coordination and troubleshoot problems while maintaining strong customer service focus."
+        },
+        {
+            "title": "Communications Intern",
+            "company": "Company Name, City, State",
+            "start_date": "January 2014",
+            "end_date": "May 2014",
+            "description": "Assisted in the planning and execution of reunions and Alumni Mentor Networking Night events; contacted venues; utilized resourcefulness to decorate events and plan activities; conducted research to improve alumni website and magazine; generated ideas and conducted research to increase student attendance; created methods to reach out to alumni to encourage contributions and involvement."
+        },
+        {
+            "title": "Public Relations Intern",
+            "company": "Company Name, City, State",
+            "start_date": "June 2013",
+            "end_date": "August 2013",
+            "description": "Wrote press releases promoting upcoming events for clients; composed/published blogs about public relations tips and current events; kept client websites, Facebook, and Twitter accounts up to date; made pitch calls to magazines; managed a Virginia political news blog, website, and social media pages; set up Google Alerts/Trapit to track information; attended rallies; coordinated and performed social media tasks for clients' events; employed effective communication strategies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Communication, Public Corporate Communication, Political Science",
+            "school": "Westfield State University",
+            "year": "2014"
+        },
+        {
+            "degree": "Media and Communications Program",
+            "school": "The Washington Center for Internships and Academic Seminars",
+            "year": "2012-2013"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

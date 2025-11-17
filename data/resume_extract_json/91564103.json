@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Puerto Rico",
+    "summary": "Identified fraud of $75,000, and during litigations testified as an expert witness in 2004 Puerto Rico Superior Court, client won the case and recovered $50,000. Saved $42,000 on claims of two employees on an audit performed in the Government Development Bank of Puerto Rico. Well-earned reputation as a hard-working, quick-learning, and organized team player.",
+    "skills": [
+        "Budget Control & Administration",
+        "Account Reconciliations",
+        "Financial Statement Reporting and Analysis",
+        "General Ledger Accounting",
+        "Data Compilation",
+        "Journal Entries",
+        "Payroll Taxes Return Analysis (Puerto Rico and US)",
+        "Auditing",
+        "Ad-Hoc Reporting"
+    ],
+    "experience": [
+        {
+            "title": "Finance Manager",
+            "company": "Company Name, City, State",
+            "start_date": "07/2015",
+            "end_date": "05/2017",
+            "description": "Managed and oversees the Finance Department of a charter airline which generated up to $4.2 million in gross revenues. Responsible for accounts payable, ADP payroll processing, multiple bank reconciliations, maintain general ledger, financial reporting and analysis, ad-hoc reporting, budget, cash management, handle monthly and year end accounting process; ensure accuracy and integrity of accounts. Coordinated and analyzed fiscal budgeting systems to initiate effective controls and policies. Assured state and federal compliance of revenue, expenditure, and position control documents while maintaining internal control safeguards. Achieved accurate budgetary reviews and forecasts to develop projections for executive management oversight. Reviews and approves all reimbursements, manages petty cash fund and all bank accounts. Prepared financial statements in accordance with GAAP. Maintained pertinent records on fixed assets inventory system. Reconfigured systems and resolved accounting errors, ensured accurate and efficient accounting processes and internal control policies. Coordinated with Planning Department on preparations and processes of annual operating budgets and documentation in aviation industry. Reports directly to CEO."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "04/2012",
+            "end_date": "06/2015",
+            "description": "Provided professional tax services to ensure accurate financial statements and tax compliance. Prepared and compiled financial information by preparing entries to general ledger accounts detailing assets, liabilities, and capital. Summarized balance sheets, profit and loss statements to project company financial position."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "05/2000",
+            "end_date": "12/2015",
+            "description": "Managed overall operations and provided accounting and tax services to small/medium-sized businesses. Provided business management consulting. Handled accounting system setup and training, bookkeeping, account reconciliations and general ledger processing. payroll processing, and financial statements preparation, Provided individual, partnership, and corporate tax return preparation services. Built from start-up with zero clients to 47 clients and $150,000 annually in revenues. Ensured accurate and consistent accounting process to provide solutions for maintaining and improving an organization's financial conditions. Devised and set up accounting systems in QuickBooks, Peachtree and other software applications. Prepared reports, forms, and manuals for accounting and bookkeeping to ensure proper data maintenance. Computed taxes owned and prepared applicable tax returns statements further ensuring the compliance with payment and tax requirements. Maintained records of government agencies and represented clients before taxing authorities. Increased the effectiveness of controls, accuracy of financial records, and efficiency of operations, resulting in lowering their tax liabilities and increased refunds. Streamlined operations by standardizing and organizing accounting procedures. Ensured the conformance and procedural standards by examining and analyzing the financial documents. Resolved client issues, reconfigured systems, revised and resolved accounting errors. Prepared budgets and forecasts, review of budgets vs. actual to ensure accuracy. Provided advice on the financial conditions by analyzing the business operations, costs, revenues, obligations, and other financial commitments. Recommended solutions to various financial problems by surveying operations according to the accounting needs."
+        },
+        {
+            "title": "Auditor / Manager",
+            "company": "Company Name, City, State",
+            "start_date": "08/1993",
+            "end_date": "05/2000",
+            "description": "In Charge of accounting accounts from diverse industries such as retail, property management, and real estate, and specializing in construction industry"
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "09/1991",
+            "end_date": "02/1993",
+            "description": "Performed general accounting functions, including the preparation and review of financial analysis and reports."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor degree: Business Administration, Accounting",
+            "school": "Pontifical Catholic University of Puerto Rico",
+            "year": "1992"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish",
+        "English"
+    ]
+}
