@@ -1,3 +1,5 @@
 .env
 python_env
 data/job_offer/job_descriptions.csv
+data/jobs_index.faiss
+data/jobs_index_mapping.json
