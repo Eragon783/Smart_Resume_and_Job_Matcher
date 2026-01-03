@@ -156,4 +156,82 @@ If the key is printed, the configuration is correct. If None is printed, the `.e
 
 ---
 
+## Vector Index Backend (FAISS vs Chroma)
+
+This project supports **two interchangeable vector index backends** for resume embeddings:
+**FAISS** and **Chroma**.
+
+Both backends are fully compatible with the pipeline and can be selected
+at runtime without changing the core logic of the project.
+
+The goal is to ensure:
+- cross-platform compatibility (Windows / Linux / macOS)
+- reproducibility for all users
+- flexibility between performance-oriented and persistence-oriented setups
+
+---
+
+## Available Backends
+
+### FAISS (Facebook AI Similarity Search)
+
+FAISS is a high-performance vector similarity library optimized for fast
+nearest-neighbor search.
+
+**Characteristics:**
+- Very fast similarity search
+- In-memory index
+- Ideal for performance benchmarks and large-scale experiments
+- Widely used in research and industry
+
+**Limitations:**
+- Installation can be problematic on some Windows environments
+- Requires manual saving/loading of the index
+
+**Files produced:**
+- `data/resume_index.faiss`
+- `data/resume_index_mapping.json`
+
+---
+
+### Chroma
+
+Chroma is a lightweight vector database designed for LLM and RAG applications.
+
+**Characteristics:**
+- Persistent on disk by default
+- Easy to install on all platforms
+- Supports metadata (e.g. filenames)
+- Well suited for RAG-style pipelines and demos
+
+**Limitations:**
+- Slightly slower than FAISS for pure similarity search
+- Less optimized for very large-scale indexing
+
+**Files produced:**
+- `data/chroma_resume_db/`
+- `data/resume_index_mapping.json`
+
+---
+
+## Why Two Backends?
+
+Supporting both FAISS and Chroma provides important benefits:
+
+- **Reproducibility**: if FAISS cannot be installed on a system, Chroma can be used instead
+- **Cross-platform compatibility**: Chroma works reliably on Windows, Linux, and macOS
+- **Flexibility**: FAISS for performance experiments, Chroma for persistence and RAG workflows
+- **Pedagogical value**: illustrates different vector indexing strategies
+
+The rest of the pipeline (LLM structuring, embedding model, matching logic)
+remains identical regardless of the backend.
+
+---
+
+## How to Select the Backend
+
+The backend is selected by changing a single variable:
+
+```python
+BACKEND = "faiss"    # or "chroma"
 
