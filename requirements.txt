@@ -2,3 +2,7 @@ pdfminer.six
 python-docx
 tqdm
 python-dotenv
+sentence-transformers
+numpy
+chromadb
+faiss-cpu
