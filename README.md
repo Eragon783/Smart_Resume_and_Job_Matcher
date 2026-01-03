@@ -59,6 +59,22 @@ pip install -r requirements.txt
 
 ---
 
+
+
+## Environment Setup
+
+### Windows
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+
+
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+
 ## LLM API Setup and Reproducibility Guide
 
 This project uses a **remote LLM API** only to transform raw resume text into structured JSON (Notebook 2). Because the LLM is accessed over the Internet, **each user must provide their own API key**. The key is never included in the repository. This is standard practice in academic and industrial GenAI projects.

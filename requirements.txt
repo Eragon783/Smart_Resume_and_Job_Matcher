@@ -6,3 +6,9 @@ sentence-transformers
 numpy
 chromadb
 faiss-cpu
+scikit-learn
+scipy
+joblib
+torch
+torchvision
+torchaudio
