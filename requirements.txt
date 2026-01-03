@@ -12,3 +12,5 @@ joblib
 torch
 torchvision
 torchaudio
+json5
+openai
