@@ -19,3 +19,7 @@ pandas
 kagglehub
 streamlit
 requests
+langchain
+langgraph
+langchain-community
+pydantic
