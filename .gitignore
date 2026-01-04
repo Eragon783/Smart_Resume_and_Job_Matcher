@@ -2,3 +2,4 @@
 .venv/
 data/linkedin_offers
 old_notebooks/
+__pycache__
