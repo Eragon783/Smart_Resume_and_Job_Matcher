@@ -1,5 +1,4 @@
 .env
 .venv/
-python_env
-data/job_offer/job_descriptions.csv
-linkedin_offers/
+data/linkedin_offers
+old_notebooks/
