@@ -4,6 +4,8 @@ from __future__ import annotations
 from typing import Dict, Any
 from io import BytesIO
 from app.cv_job_fit import handle as cv_job_fit_handler
+from app.cv_to_jobs import handle as cv_to_jobs_handler
+from app.job_to_cvs import handle as job_to_cvs_upload_handler
 
 from pdfminer.high_level import extract_text as pdf_extract_text
 from sentence_transformers import SentenceTransformer
@@ -67,6 +69,17 @@ def run(mode: str, inputs: Dict[str, Any]) -> Dict[str, Any]:
         out = _run_cv_job_fit(inputs)
         out["pipeline_version"] = PIPELINE_VERSION
         return out
+    
+    if mode == "cv_to_jobs":
+        out = cv_to_jobs_handler(inputs)
+        out["pipeline_version"] = PIPELINE_VERSION
+        return out
+    
+    if mode == "job_to_cvs_upload":
+        out = job_to_cvs_upload_handler(inputs)
+        out["pipeline_version"] = PIPELINE_VERSION
+        return out
+
 
     return {
         "status": "NOT_IMPLEMENTED_YET",

@@ -219,6 +219,14 @@ def main():
             type=["txt"],
             accept_multiple_files=True,
         )
+        
+        st.markdown("### Ranking settings")
+        col1, col2 = st.columns([1, 1])
+        with col1:
+            add_explanations = st.checkbox("Add LLM explanations + advice (top N)", value=False)
+        with col2:
+            explain_top_n = st.slider("Explain top N job offers", 1, 10, 3, 1, disabled=(not add_explanations))
+
 
         if job_offer_files:
             if len(job_offer_files) > n_job_offers:
@@ -250,6 +258,13 @@ def main():
             elif len(resume_files) < n_resumes:
                 st.warning(f"You selected {n_resumes}, but uploaded {len(resume_files)}.")
             st.caption(f"Using {len(resume_files)} resume(s).")
+
+        st.markdown("### Ranking settings")
+        col1, col2 = st.columns([1, 1])
+        with col1:
+            add_explanations = st.checkbox("Add LLM explanations + advice (top N)", value=False)
+        with col2:
+            explain_top_n = st.slider("Explain top N resumes", 1, 10, 3, 1, disabled=(not add_explanations))
 
     # ---------------------------
     # Mode: job_to_cvs_dataset (FUNCTIONAL)
