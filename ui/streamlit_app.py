@@ -50,21 +50,42 @@ def label_from_score(score: float) -> str:
     return "Weak fit"
 
 import json
+import re
 
 def _as_list(x):
     if x is None:
         return []
     if isinstance(x, list):
-        return x
+        return [str(i) for i in x if str(i).strip()]
     if isinstance(x, str) and x.strip():
         return [x.strip()]
     return [str(x)]
 
-def _pick(d: dict, keys: list, default=None):
-    for k in keys:
-        if k in d and d[k] not in (None, "", []):
-            return d[k]
-    return default
+def _extract_json_from_markdown(s: str) -> dict | None:
+    """
+    Extracting JSON that may be wrapped like:
+    ```json
+    {...}
+    ```
+    """
+    if not s or not isinstance(s, str):
+        return None
+
+    # Try to find a ```json ... ``` block first
+    m = re.search(r"```json\s*(\{.*?\})\s*```", s, flags=re.DOTALL)
+    if m:
+        candidate = m.group(1)
+        try:
+            return json.loads(candidate)
+        except Exception:
+            pass
+
+    # Fallback: try to parse the whole string as JSON
+    s2 = s.strip()
+    try:
+        return json.loads(s2)
+    except Exception:
+        return None
 
 def render_cv_job_fit(out: dict):
     st.markdown("## Compatibility result")
@@ -74,30 +95,35 @@ def render_cv_job_fit(out: dict):
 
     llm = out.get("llm")
 
-    # ---- normalize llm into a dict
-    llm_dict = None
-    if isinstance(llm, dict):
-        llm_dict = llm
-    elif isinstance(llm, str) and llm.strip():
-        try:
-            llm_dict = json.loads(llm)
-        except Exception:
-            llm_dict = None
+    # ---- normalize llm into the "final" dict we want to display
+    llm_final = None
 
-    if not llm_dict:
-        st.info("LLM decision/advice is disabled or returned in an unexpected format.")
+    if isinstance(llm, dict):
+        # Your case: {"raw_json": "```json {...} ```"}
+        if "raw_json" in llm and isinstance(llm["raw_json"], str):
+            llm_final = _extract_json_from_markdown(llm["raw_json"])
+        else:
+            # normal dict case
+            llm_final = llm
+
+    elif isinstance(llm, str) and llm.strip():
+        # sometimes it's directly a string
+        llm_final = _extract_json_from_markdown(llm)
+
+    if not isinstance(llm_final, dict):
+        st.info("LLM output is present but could not be parsed into JSON.")
+        with st.expander("LLM raw output", expanded=True):
+            st.write(llm)
         with st.expander("Diagnostics", expanded=False):
             st.json(out.get("diagnostics", {}))
         return
 
-    # ---- adapt to whatever keys your agent actually returns
-    decision = _pick(llm_dict, ["decision", "final_decision", "verdict", "fit", "result", "classification"], default="N/A")
-    explanation = _pick(llm_dict, ["explanation", "summary", "rationale", "reasoning", "analysis"], default="")
+    decision = llm_final.get("decision", "N/A")
+    explanation = llm_final.get("explanation", "")
 
-    strengths = _pick(llm_dict, ["strengths", "pros", "good_points", "matches", "matching_points"], default=[])
-    gaps = _pick(llm_dict, ["gaps", "cons", "missing", "missing_points", "weaknesses"], default=[])
-
-    advice = _pick(llm_dict, ["advice", "recommendations", "improvements", "suggestions", "cv_improvements"], default=None)
+    strengths = llm_final.get("strengths", [])
+    gaps = llm_final.get("gaps", [])
+    advice = llm_final.get("advice") or llm_final.get("recommendations") or llm_final.get("improvements")
 
     st.markdown("### LLM decision")
     st.write("**Decision:**", decision)
@@ -106,32 +132,36 @@ def render_cv_job_fit(out: dict):
         st.write(explanation)
 
     st.markdown("### Strengths")
-    for s in _as_list(strengths):
-        st.write(f"- {s}") if s else None
-    if len(_as_list(strengths)) == 0:
+    s_list = _as_list(strengths)
+    if s_list:
+        for s in s_list:
+            st.write(f"- {s}")
+    else:
         st.write("- (none)")
 
     st.markdown("### Gaps")
-    for g in _as_list(gaps):
-        st.write(f"- {g}") if g else None
-    if len(_as_list(gaps)) == 0:
+    g_list = _as_list(gaps)
+    if g_list:
+        for g in g_list:
+            st.write(f"- {g}")
+    else:
         st.write("- (none)")
 
     st.markdown("### Advice to improve your CV for this job")
-    if advice is None or advice == [] or advice == "":
+    a_list = _as_list(advice) if advice is not None else []
+    if a_list:
+        for a in a_list:
+            st.write(f"- {a}")
+    else:
         # fallback: derive from gaps
-        if isinstance(gaps, list) and gaps:
-            for g in gaps:
+        if g_list:
+            for g in g_list:
                 st.write(f"- Add or strengthen: {g}")
         else:
             st.write("- Add more job-specific keywords and measurable achievements.")
-    else:
-        for a in _as_list(advice):
-            st.write(f"- {a}") if a else None
 
-    # Always provide raw LLM output to debug key mismatches quickly
-    with st.expander("LLM raw output", expanded=False):
-        st.json(llm_dict)
+    with st.expander("LLM raw output (parsed)", expanded=False):
+        st.json(llm_final)
 
     with st.expander("Diagnostics", expanded=False):
         st.json(out.get("diagnostics", {}))
