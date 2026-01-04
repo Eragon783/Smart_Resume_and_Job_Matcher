@@ -1,49 +1,9 @@
-# app/cv_job_fit.py
 from __future__ import annotations
-
 from typing import Dict, Any
-from io import BytesIO
-
-import numpy as np
-from pdfminer.high_level import extract_text as pdf_extract_text
 from sentence_transformers import SentenceTransformer
-
 from ingestion.loaders import clean_text  # reuse 
 from agents.explainer_agent import explain_match_with_llm, build_llm_client  # reuse 
-
-
-def _decode_txt_bytes(b: bytes) -> str:
-    if not b:
-        return ""
-    try:
-        return b.decode("utf-8")
-    except UnicodeDecodeError:
-        return b.decode("latin-1", errors="ignore")
-
-
-def _extract_pdf_text_from_bytes(pdf_bytes: bytes) -> str:
-    """
-    Streamlit gives bytes; loaders.py is path-based.
-    Minimal wrapper: bytes -> text -> clean_text().
-    """
-    if not pdf_bytes:
-        return ""
-    raw = pdf_extract_text(BytesIO(pdf_bytes))
-    return clean_text(raw)
-
-
-def _cosine_similarity(model: SentenceTransformer, a: str, b: str) -> float:
-    """
-    Cosine similarity via dot product of normalized vectors.
-    """
-    va = model.encode([a], convert_to_numpy=True).astype("float32")
-    vb = model.encode([b], convert_to_numpy=True).astype("float32")
-
-    va /= (np.linalg.norm(va, axis=1, keepdims=True) + 1e-12)
-    vb /= (np.linalg.norm(vb, axis=1, keepdims=True) + 1e-12)
-
-    return float(np.sum(va * vb))
-
+from app.matching import _decode_txt_bytes, _extract_pdf_text_from_bytes, _cosine_similarity
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     """
@@ -70,7 +30,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     model_name = inputs.get("model_name") or "all-MiniLM-L6-v2"
     model = SentenceTransformer(model_name)
 
-    similarity = _cosine_similarity(model, job_text, resume_text)
+    sim = _cosine_similarity(model, job_text, resume_text)
 
     add_explanations = bool(inputs.get("add_explanations") or False)
     llm = None
@@ -81,7 +41,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
             client = build_llm_client()
             llm = explain_match_with_llm(
                 mode="pair_compatibility",
-                similarity_score=similarity,
+                similarity_score=sim,
                 job_text=job_text,
                 resume_text=resume_text,
                 client=client,
@@ -92,8 +52,8 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     return {
         "status": "OK",
         "mode": "cv_job_fit",
-        "similarity_score": similarity,
-        "llm": llm,  # expected to include decision/strengths/gaps (+ advice if your agent returns it)
+        "similarity_score": sim,
+        "llm": llm,
         "diagnostics": {
             "model_name": model_name,
             "resume_chars": len(resume_text),

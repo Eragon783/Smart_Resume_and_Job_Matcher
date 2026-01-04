@@ -2,48 +2,125 @@ import streamlit as st
 import pandas as pd
 from app.pipeline import run
 
+def normalize_llm_payload(llm_any):
+    """
+    Accepts various LLM formats and returns a dict or None.
+    Supported:
+      - dict already parsed
+      - dict with {"raw_json": "```json {...}```"}
+      - string containing ```json {...}```
+      - string that is JSON
+    """
+    if llm_any is None:
+        return None
 
-def render_hits_table(hits, title="Ranked results"):
+    if isinstance(llm_any, dict):
+        if "raw_json" in llm_any and isinstance(llm_any["raw_json"], str):
+            parsed = _extract_json_from_markdown(llm_any["raw_json"])
+            return parsed if isinstance(parsed, dict) else None
+        return llm_any
+
+    if isinstance(llm_any, str) and llm_any.strip():
+        parsed = _extract_json_from_markdown(llm_any)
+        return parsed if isinstance(parsed, dict) else None
+
+    return None
+
+
+def render_hits_table(hits):
     if not hits:
-        st.info("No results to display.")
+        st.info("No results.")
         return
 
-    df = pd.DataFrame(hits)
-    for col in ["rank", "filename", "score"]:
-        if col not in df.columns:
-            df[col] = None
+    rows = []
+    for h in hits:
+        rank = h.get("rank")
+        score = h.get("score")
+        url = h.get("url")
+        title = h.get("title")
+        filename = h.get("filename")
+        index_id = h.get("index_id")
 
-    df["score"] = df["score"].apply(lambda x: round(float(x), 4) if x is not None else None)
+        label = title or filename or url or (f"item_{index_id}" if index_id is not None else "item")
 
-    st.markdown(f"### {title}")
-    st.dataframe(df[["rank", "filename", "score"]], use_container_width=True, hide_index=True)
+        row = {
+            "rank": rank,
+            "label": label,
+            "score": score,
+        }
+
+        # include url only if present (LinkedIn mode)
+        if url:
+            row["url"] = url
+
+        # keep old compatibility info if present
+        if filename and not title:
+            row["filename"] = filename
+
+        rows.append(row)
+
+    df = pd.DataFrame(rows)
+
+    # Choosing a stable column order based on availability
+    cols = ["rank", "label", "score"]
+    if "url" in df.columns:
+        cols.insert(2, "url")  # rank, label, url, score
+    if "filename" in df.columns and "url" not in df.columns:
+        cols.insert(2, "filename")
+
+    # Keeping any extra columns (rare) at the end
+    cols = [c for c in cols if c in df.columns] + [c for c in df.columns if c not in cols]
+
+    st.dataframe(df[cols], use_container_width=True)
 
 
 def render_hits_cards(hits):
+
     if not hits:
+        st.info("No results.")
         return
 
-    st.markdown("### Details")
     for h in hits:
         rank = h.get("rank")
-        filename = h.get("filename")
         score = h.get("score")
+        title = h.get("title")
+        filename = h.get("filename")
+        url = h.get("url")
+        index_id = h.get("index_id")
 
-        header = f"#{rank} — {filename} (score: {score:.4f})" if isinstance(score, (int, float)) else f"#{rank} — {filename}"
-        with st.expander(header, expanded=False):
-            st.write({
-                "rank": rank,
-                "filename": filename,
-                "score": round(float(score), 6) if isinstance(score, (int, float)) else score,
-            })
+        label = title or filename or url or (f"item_{index_id}" if index_id is not None else "item")
 
-            if h.get("llm_explanation") is not None:
-                st.markdown("**LLM Explanation**")
-                st.json(h["llm_explanation"])
+        with st.container(border=True):
+            if isinstance(score, (int, float)):
+                st.markdown(f"**N°{rank} — {label}**  \nScore: `{score:.4f}`")
+            else:
+                st.markdown(f"**N°{rank} — {label}**")
+
+            # LinkedIn: clickable link if present
+            if url:
+                st.markdown(f"[Open on LinkedIn]({url})")
+
+            if filename and label != filename:
+                st.caption(f"File: {filename}")
+
+            llm_final = normalize_llm_payload(h.get("llm_explanation"))
+
+            if llm_final:
+                with st.expander("LLM decision"):
+                    render_llm_explanation_pretty(llm_final)
+            elif h.get("llm_explanation") is not None:
+                # If something exists but isn't parseable -> show raw for debugging
+                with st.expander("LLM raw output (unparsed)"):
+                    st.write(h.get("llm_explanation"))
+
+
+            # Debug always available
+            with st.expander("Debug (raw hit)"):
+                st.json(h)
 
 
 def label_from_score(score: float) -> str:
-    if score >= 0.45:
+    if score >= 0.65:
         return "Strong fit"
     if score >= 0.30:
         return "Moderate fit"
@@ -165,7 +242,47 @@ def render_cv_job_fit(out: dict):
 
     with st.expander("Diagnostics", expanded=False):
         st.json(out.get("diagnostics", {}))
+        
 
+def render_llm_explanation_pretty(llm: dict):
+    """
+    Pretty display for LLM output across ALL modes.
+    Renders: Decision, Explanation, Strengths, Gaps
+    Does NOT render Advice (by design).
+    """
+    if not isinstance(llm, dict):
+        st.warning("LLM explanation is not a dict.")
+        st.write(llm)
+        return
+
+    # Flexible key support (depending on your agent outputs)
+    decision = llm.get("decision") or llm.get("match_decision") or llm.get("label")
+    explanation = llm.get("explanation") or llm.get("reason") or llm.get("summary")
+
+    strengths = llm.get("strengths") or llm.get("pros") or llm.get("positive_points")
+    gaps = llm.get("gaps") or llm.get("missing") or llm.get("cons") or llm.get("negative_points")
+
+    st.markdown("## LLM decision")
+
+    if decision:
+        st.markdown(f"**Decision:** `{decision}`")
+
+    if explanation:
+        st.markdown("**Explanation:**")
+        st.write(explanation)
+
+    if strengths:
+        st.markdown("## Strengths")
+        for s in _as_list(strengths):
+            st.markdown(f"- {s}")
+
+    if gaps:
+        st.markdown("## Gaps")
+        for g in _as_list(gaps):
+            st.markdown(f"- {g}")
+
+    with st.expander("LLM raw output (parsed)"):
+        st.json(llm)
 
 def main():
     st.set_page_config(page_title="Resume & Job Matcher", layout="wide")
@@ -175,22 +292,20 @@ def main():
         "Choose mode",
         [
             "Find the best job offers for your resume",
-            "Find the best resumes for a job offer (upload 1–10 resumes)",
+            "Find the best resumes for a job offer",
             "Find the best resumes in the dataset for a job offer",
+            "Find the best LinkedIn's dataset job offers for your resume",
             "Evaluate resume–job compatibility",
-            "Find the best LinkedIn job offers for your resume",
         ],
     )
 
     mode = {
         "Find the best job offers for your resume": "cv_to_jobs",
-        "Find the best resumes for a job offer (upload 1–10 resumes)": "job_to_cvs_upload",
+        "Find the best resumes for a job offer": "job_to_cvs_upload",
         "Find the best resumes in the dataset for a job offer": "job_to_cvs_dataset",
+        "Find the best LinkedIn's dataset job offers for your resume": "cv_to_linkedin_jobs_dataset",
         "Evaluate resume–job compatibility": "cv_job_fit",
-        "Find the best LinkedIn job offers for your resume": "cv_to_linkedin_jobs",
     }[mode_label]
-
-    st.subheader("Inputs")
 
     # Defaults so inputs dict always has valid keys
     resume_file = None
@@ -206,7 +321,7 @@ def main():
     explain_top_n = None
 
     # ---------------------------
-    # Mode: cv_to_jobs (UI only for now)
+    # Mode: cv_to_jobs upload one resume and several job offers
     # ---------------------------
     if mode == "cv_to_jobs":
         st.markdown("### Resume")
@@ -223,7 +338,7 @@ def main():
         st.markdown("### Ranking settings")
         col1, col2 = st.columns([1, 1])
         with col1:
-            add_explanations = st.checkbox("Add LLM explanations + advice (top N)", value=False)
+            add_explanations = st.checkbox("Add LLM explanations", value=True)
         with col2:
             explain_top_n = st.slider("Explain top N job offers", 1, 10, 3, 1, disabled=(not add_explanations))
 
@@ -237,7 +352,7 @@ def main():
             st.caption(f"Using {len(job_offer_files)} job offer(s).")
 
     # ---------------------------
-    # Mode: job_to_cvs_upload (UI only for now)
+    # Mode: job_to_cvs_upload uplaod one job offer and several resumes
     # ---------------------------
     elif mode == "job_to_cvs_upload":
         st.markdown("### Job offer")
@@ -262,12 +377,12 @@ def main():
         st.markdown("### Ranking settings")
         col1, col2 = st.columns([1, 1])
         with col1:
-            add_explanations = st.checkbox("Add LLM explanations + advice (top N)", value=False)
+            add_explanations = st.checkbox("Add LLM explanations", value=True)
         with col2:
             explain_top_n = st.slider("Explain top N resumes", 1, 10, 3, 1, disabled=(not add_explanations))
 
     # ---------------------------
-    # Mode: job_to_cvs_dataset (FUNCTIONAL)
+    # Mode: job_to_cvs_dataset
     # ---------------------------
     elif mode == "job_to_cvs_dataset":
         st.markdown("### Job offer")
@@ -278,14 +393,26 @@ def main():
 
         col1, col2 = st.columns([1, 1])
         with col1:
-            add_explanations = st.checkbox("Add LLM explanations", value=False)
+            add_explanations = st.checkbox("Add LLM explanations", value=True)
         with col2:
             explain_top_n = st.slider("Explain top N", 1, 10, 3, 1, disabled=(not add_explanations))
 
         st.caption("This mode searches the prebuilt resume dataset index (FAISS).")
 
     # ---------------------------
-    # Mode: cv_job_fit (FUNCTIONAL)
+    # Mode: cv_to_linkedin_jobs 
+    # ---------------------------
+    elif mode == "cv_to_linkedin_jobs_dataset":
+        st.markdown("### Resume")
+        resume_file = st.file_uploader("Upload Resume (PDF)", type=["pdf"])
+
+        st.markdown("### Ranking settings")
+        top_k = st.slider("Top K LinkedIn job offers", 1, 20, 10, 1)
+
+        st.caption("This mode searches the prebuilt LinkedIn jobs FAISS index (data/job_treated).")
+
+    # ---------------------------
+    # Mode: cv_job_fit
     # ---------------------------
     elif mode == "cv_job_fit":
         st.markdown("### Resume")
@@ -296,13 +423,6 @@ def main():
 
         add_explanations = st.checkbox("Enable LLM decision + advice", value=True)
 
-    # ---------------------------
-    # Mode: cv_to_linkedin_jobs (UI only for now)
-    # ---------------------------
-    elif mode == "cv_to_linkedin_jobs":
-        st.markdown("### Resume")
-        resume_file = st.file_uploader("Upload Resume (PDF)", type=["pdf"])
-        st.info("LinkedIn job retrieval will be implemented later.")
 
     # ---------------------------
     # RUN
@@ -340,7 +460,7 @@ def main():
         # ---------------------------
         # Display by mode
         # ---------------------------
-        if out.get("mode") in {"job_to_cvs_dataset", "cv_to_jobs", "job_to_cvs_upload"}:
+        if out.get("mode") in {"job_to_cvs_dataset", "cv_to_jobs", "job_to_cvs_upload", "cv_to_linkedin_jobs_dataset"}:
             hits = out.get("hits")
             if isinstance(hits, list):
                 st.caption(f"Pipeline returned {len(hits)} result(s).")

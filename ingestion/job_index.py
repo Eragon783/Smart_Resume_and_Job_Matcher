@@ -3,6 +3,7 @@ import json
 import numpy as np
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
+import faiss  # faiss-cpu
 
 def _read_txt_files(folder: str):
     files = sorted([f for f in os.listdir(folder) if f.lower().endswith(".txt")])
@@ -23,10 +24,9 @@ def build_jobs_index(
     input_folder: str,
     model_name: str = "all-MiniLM-L6-v2",
     batch_size: int = 32,
-    faiss_index_path: str = "../data/jobs_index.faiss",
-    mapping_path: str = "../data/jobs_index_mapping.json",
+    faiss_index_path: str = "../data/job_treated/jobs_index.faiss",
+    mapping_path: str = "../data/job_treated/jobs_index_mapping.json",
 ):
-    import faiss  # faiss-cpu
 
     if not os.path.isdir(input_folder):
         raise FileNotFoundError(f"Folder not found: {input_folder}")

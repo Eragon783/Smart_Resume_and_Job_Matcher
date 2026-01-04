@@ -1,21 +1,46 @@
-# agents/explainer_agent.py
-
 from __future__ import annotations
-from typing import Literal, Optional, Dict
+
+from typing import Literal, Optional, Dict, Any
 import os
+import json
 from openai import OpenAI
+from dotenv import load_dotenv
 
 
+load_dotenv()
 Mode = Literal["job_to_resumes", "resume_to_jobs", "pair_compatibility"]
 
 
 def build_llm_client() -> OpenAI:
-    # Creating OpenAI client (OpenRouter or OpenAI)
-    # If you use OpenRouter, keep base_url="https://openrouter.ai/api/v1"
-    return OpenAI(
-        base_url=os.getenv("OPENAI_BASE_URL", "https://openrouter.ai/api/v1"),
-        api_key=os.getenv("OPENAI_API_KEY"),
-    )
+    # ✅ Ensuring .env is loaded even if imported weirdly
+    load_dotenv()
+
+    base_url = os.getenv("OPENAI_BASE_URL", "https://openrouter.ai/api/v1")
+    api_key = os.getenv("OPENAI_API_KEY")
+
+    if not api_key:
+        raise RuntimeError(
+            "OPENAI_API_KEY is missing. Put it in your .env or export it in your environment."
+        )
+
+    return OpenAI(base_url=base_url, api_key=api_key)
+
+
+def _try_parse_json(raw: str) -> Optional[Dict[str, Any]]:
+    if not raw:
+        return None
+    text = raw.strip()
+
+    # Handling ```json ... ``` fences
+    if text.startswith("```"):
+        text = text.strip("`").strip()
+        if "\n" in text:
+            text = text.split("\n", 1)[1].strip()
+
+    try:
+        return json.loads(text)
+    except Exception:
+        return None
 
 
 def explain_match_with_llm(
@@ -27,20 +52,14 @@ def explain_match_with_llm(
     top_k_rank: Optional[int] = None,
     model: str = "openai/gpt-4o-mini",
     client: Optional[OpenAI] = None,
-) -> Dict:
+) -> Dict[str, Any]:
     """
-    Explaining why a match is relevant using an LLM.
+    Returns always:
+      - raw_json: str
+      - parsed: dict|None
 
-    mode:
-      - "job_to_resumes": job is the query, resume is a retrieved candidate
-      - "resume_to_jobs": resume is the query, job is a retrieved candidate
-      - "pair_compatibility": direct comparison resume <-> job (single pair)
-
-    returns a dict with:
-      - explanation: short text
-      - strengths: bullet list
-      - gaps: bullet list
-      - decision: (only for pair_compatibility) "strong_match" | "medium_match" | "weak_match"
+    And if parsed is valid JSON:
+      - explanation, strengths, gaps, decision (optional)
     """
 
     if client is None:
@@ -52,7 +71,6 @@ def explain_match_with_llm(
     if mode in ("resume_to_jobs", "pair_compatibility") and not resume_text:
         raise ValueError("resume_text is required for this mode")
 
-    # Building a mode-specific instruction
     if mode == "job_to_resumes":
         header = f"""
 You are a recruitment assistant.
@@ -106,23 +124,26 @@ Task:
 Return ONLY valid JSON with keys: explanation, strengths, gaps, decision.
 """
 
-    # Injecting the texts
     content = header + "\n" + task + "\n\n"
-
     if job_text:
         content += f"JOB OFFER:\n{job_text}\n\n"
     if resume_text:
         content += f"RESUME:\n{resume_text}\n\n"
 
-    # Calling LLM
     resp = client.chat.completions.create(
         model=model,
         temperature=0.2,
         messages=[{"role": "user", "content": content}],
     )
 
-    raw = resp.choices[0].message.content.strip()
+    raw = (resp.choices[0].message.content or "").strip()
+    parsed = _try_parse_json(raw)
 
-    # We return raw JSON string in notebook, or parse json safely elsewhere
-    # Keeping it simple here
-    return {"raw_json": raw}
+    out: Dict[str, Any] = {"raw_json": raw, "parsed": parsed}
+
+    if isinstance(parsed, dict):
+        for k in ("explanation", "strengths", "gaps", "decision"):
+            if k in parsed:
+                out[k] = parsed[k]
+
+    return out

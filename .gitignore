@@ -3,3 +3,5 @@
 data/linkedin_offers
 old_notebooks/
 __pycache__/
+chroma/
+faiss_index/
