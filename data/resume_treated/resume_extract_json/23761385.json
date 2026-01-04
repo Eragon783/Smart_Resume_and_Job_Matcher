@@ -1,0 +1,65 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Administrative and leadership expert with an MBA and BA in Accounting. Highly skilled in human resources, financial management, and operations, with military and civilian leadership experience. Proven ability to oversee complex projects from conception to completion, lead diverse teams, implement process improvements, and communicate effectively at all levels.",
+    "skills": [
+        "Employee Scheduling",
+        "Staff Training and Development",
+        "Budget Development",
+        "Compliance",
+        "Interpersonal Relations",
+        "Effective Communications",
+        "Strategic Analysis",
+        "Expense Reporting",
+        "Troubleshooting Techniques",
+        "Critical Thinking",
+        "AP/AR",
+        "Work Flow Planning",
+        "Cash Flow Analysis",
+        "Revenue Generation",
+        "Cost Control",
+        "Business Strategies",
+        "Human Resources Management",
+        "Operations Management",
+        "Microsoft Office Suite",
+        "HRIS database",
+        "Policy Development",
+        "Team Leadership"
+    ],
+    "experience": [
+        {
+            "title": "Collections Manager",
+            "company": "Unknown",
+            "start_date": "2000-12",
+            "end_date": "2003-01",
+            "description": "Oversaw management of collections; provided leadership, training, and performance analysis to ensure staff proficiency and compliance with applicable laws; developed collection strategies and work plans; negotiated settlements for delinquent accounts; conducted initial applicant interviews for HR."
+        },
+        {
+            "title": "Aviation Electronics Technician",
+            "company": "Unknown",
+            "start_date": "2003-01",
+            "end_date": "2014-11",
+            "description": "Maintained avionics shop operations; trained and supervised personnel; awarded for innovative electronic travel claims processing system; saved government >$500K; captured accounting errors >$150K; served as Equal Opportunity Manager; Department Training Specialist; managed NAVL MIS; prepared mobilization data and schedules; supervised 35 personnel."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Business Administration/Management",
+            "school": "Saint Leo University",
+            "year": 2014
+        },
+        {
+            "degree": "BA in Accounting",
+            "school": "Saint Leo University",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "Secret Clearance"
+    ],
+    "languages": [
+        "English"
+    ]
+}

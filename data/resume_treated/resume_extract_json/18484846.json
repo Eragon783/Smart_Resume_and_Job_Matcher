@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Highly organized and talented sales professional who effectively multi-tasks and balances customer needs with company demands. Efficiently builds loyalty and long-term relationships with customers, while consistently reaching and exceeding sales targets. Skilled in building relationships, negotiating and closing sales.",
+    "skills": [
+        "Microsoft Office",
+        "Word",
+        "PowerPoint",
+        "Excel",
+        "CRM Software (Sugar, Sales Logix)",
+        "relationship building",
+        "sales",
+        "customer relationship management",
+        "planning",
+        "presentations",
+        "training",
+        "recruitment",
+        "staff management",
+        "cold calling",
+        "negotiation",
+        "closing sales"
+    ],
+    "experience": [
+        {
+            "title": "Director, Compounding Sales Specialist",
+            "company": "Company Name – City, State",
+            "start_date": "July 1997",
+            "end_date": "March 2015",
+            "description": "Talented sales professional who effectively multi-tasks and balances customer needs with company demands. Efficiently builds loyalty and long-term relationships with customers, while consistently reaching sales targets. Exceeded sales goals. Monitored customer preferences to determine focus of sales efforts. Received numerous sales awards for most new accounts signed monthly and most dollars in revenue. Planned sales events. Presented PowerPoint presentations at events for professionals and the public. Trained new sales representatives on all aspects of compounding. Responded to all customer inquiries promptly. Maintained friendly and professional customer interactions."
+        },
+        {
+            "title": "Healthcare Services Supervisor",
+            "company": "Company Name – City, State",
+            "start_date": "April 1996",
+            "end_date": "June 1997",
+            "description": "Build and design nursing division. Recruited and hired all professionals. Verified credentials and background checks. Made cold calls and appointments to local hospitals, nursing homes and doctors' offices to introduce service and build client base. Addressed client and employee questions and pricing."
+        },
+        {
+            "title": "Branch Manager",
+            "company": "Company Name – City, State",
+            "start_date": "June 1994",
+            "end_date": "March 1996",
+            "description": "Managed all activities at the local branch, delegating duties as necessary. Made cold calls and appointments to local hospitals, nursing homes and doctors' offices to introduce service and build client base. Increased client base and revenue. Increased recruitment of professionals. Verified credentials and background checks on professionals. Increased client orders and staffed open positions with appropriate skilled professionals. Resolved problems in a timely manner."
+        },
+        {
+            "title": "Staffing Coordinator",
+            "company": "Company Name – City, State",
+            "start_date": "August 1983",
+            "end_date": "June 1994",
+            "description": "Planned and conducted new employee orientation. Performed staffing duties including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures. Provided information about policies, duties, working conditions, wages, opportunities for promotion and benefits. Developed, administered and evaluated applicant tests. Verified credentials, references and background checks. Identified staff vacancies and recruited, interviewed and selected applicants."
+        },
+        {
+            "title": "Front End Manager/Cashier",
+            "company": "Company Name – City, State",
+            "start_date": "June 1981",
+            "end_date": "July 1983",
+            "description": "Counted cash, reconciled totals, supervised staff, and provided on-the-job training. Managed checkout stations, issued receipts and refunds, assisted customers and resolved complaints. Performed store duties and supported other areas as needed."
+        },
+        {
+            "title": "L.P.N. Staff Nurse & PRN Charge Nurse",
+            "company": "Company Name – City, State",
+            "start_date": "June 1978",
+            "end_date": "May 1981",
+            "description": "Assisted nursing units including ICU, CCU and ER. Provided patient care, administered medications, started IV fluids, observed patients, charted changes and reported conditions. Worked with healthcare team to assess needs, plan and modify care. Supervised L.P.N.s, aides or assistants. Answered patient calls and assisted as needed."
+        },
+        {
+            "title": "Receptionist",
+            "company": "Company Name – City, State",
+            "start_date": "January 1971",
+            "end_date": "February 1975",
+            "description": "Greeted visitors, directed to proper staff, answered calls, completed forms, compiled and recorded medical charts. Performed clerical tasks and transmitted messages or documents to appropriate staff."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Griffithville High School",
+            "year": 1971
+        },
+        {
+            "degree": "Coursework in Physical Education/Math",
+            "school": "Harding College",
+            "year": 1977
+        },
+        {
+            "degree": "L.P.N.",
+            "school": "Baptist School of Nursing",
+            "year": 1978
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

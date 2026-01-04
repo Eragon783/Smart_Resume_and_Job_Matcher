@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Entrepreneur and sales professional recognized by the Prince George's Chamber of Commerce and non-profit organizations as a leader in developing strategic partnerships to acquire business growth.",
+    "skills": [
+        "Sales",
+        "Salesforce.com",
+        "TapScan",
+        "Bacon's Mediasource",
+        "Factiva",
+        "Desktop Publishing",
+        "Photoshop",
+        "Illustrator",
+        "Microsoft Office 365",
+        "Excel",
+        "PowerPoint",
+        "Outlook",
+        "Word",
+        "Access",
+        "Accounting and Tax software",
+        "Quick Books",
+        "DRAKE",
+        "OSHA-10",
+        "FEMP",
+        "Web Design HTML",
+        "HTML"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Manager",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "Current",
+            "description": "Information technology enterprise business operator that demonstrated profitable annual revenue. Researcher and statical analyst that increased financial growth 15% each quarter maximizing data analytics and customer retention software to win new and retain existing customers. Account manager of C-Suite Executives, Federal and State Procurement Directors and Mid size business decision makers. Procurement strategist that acquired new business in emerging markets creating and responding to request for proposal (RFP) solicitations. Social media marketing specialist and brand strategist. Created content and designed graphic for website, email and trade publications. Developed sales marketing training programs that improved client retention and increased revenue. Managed diverse and multicultural workforce to collaborate as a focused unit."
+        },
+        {
+            "title": "Client Services Manager",
+            "company": "Company Name",
+            "start_date": "1996-06",
+            "end_date": "2005-07",
+            "description": "Sales and leasing consultant that consistently received BMW's honors award for highest in the nation sales and customer service achievements. Finance Director that achieved recognition for surpassing sales goals for financial product presentations. Awarded product development certification. Relentless customer relations management (CRM) prospecting and cold calling skills to acquire new and to follow-up with existing customers."
+        },
+        {
+            "title": "Multi-unit Franchise Operator",
+            "company": "Company Name",
+            "start_date": "1985-03",
+            "end_date": "1995-04",
+            "description": "Entrepreneur that acquired multiple successful franchise units through acquisition and start up. Restauranteur that developed and sold businesses for profit over a ten year period. Held key position on franchisee board responsible for direct marketing and advertising. Attributes: real-estate development, accounting and management training."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Business Management",
+            "school": "University District of Columbia - School of Business and Public Administration",
+            "year": 2020
+        },
+        {
+            "degree": "Leadership Training",
+            "school": "Department of Economics",
+            "year": 2016
+        },
+        {
+            "degree": "Organizational Leadership",
+            "school": "From The Heart Church Ministries",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        "Product Development Certification",
+        "OSHA-10",
+        "Federal Energy Management Professional (FEMP)"
+    ],
+    "languages": []
+}

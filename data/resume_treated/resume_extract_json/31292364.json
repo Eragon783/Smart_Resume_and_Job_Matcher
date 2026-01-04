@@ -1,0 +1,71 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly ambitious communications professional, excellent at juggling multiple tasks and working under pressure. Broad experience across military, healthcare, and engineering industries.",
+    "skills": [
+        "Media Relations",
+        "Media Communications",
+        "Digital Marketing",
+        "Research",
+        "Strategic Planning",
+        "Social Media",
+        "Social Media Analysis",
+        "Content Management Systems",
+        "Verbal Communication",
+        "Project Management"
+    ],
+    "experience": [
+        {
+            "title": "Public Relations Specialist",
+            "company": "Company Name",
+            "start_date": "2017-03",
+            "end_date": "Present",
+            "description": "Author news releases, pitches, blogs, CEO letters, articles and commentaries for various platforms (including trade publications, statistical reports, online blogs and external media). Supports information and strategic marketing programs of NCCPA. Drafts press releases biannually for more than 50 recipients of the Certificate of Added Credentials. Scripts, hosts and records quarterly podcasts on topics related to certification, health philanthropy, and exam development. Researches emerging trends in healthcare for fact sheets and news pitches; attends healthcare conferences to promote the value of the certification process. Social media contributor; creates monthly staff newsletters."
+        },
+        {
+            "title": "Public Affairs Specialist",
+            "company": "Company Name",
+            "start_date": "2010-12",
+            "end_date": "Present",
+            "description": "Prepares and distributes written and visual information for external and internal audiences. Authors regular mission-related stories for base publications and public websites; several articles re-released to wider audiences on Air Force Reserve Command platforms, including social media. Maximizes base website usage by linking traffic with social media posts. Copy-edits and designs layouts for base publications. Provides public affairs support during media events; coordinated transport to Puerto Rico for NBC and Fox News during Hurricane Maria Recovery operations. Photographs retirements, promotions and other major events for the base's digital publication."
+        },
+        {
+            "title": "Public Affairs Specialist",
+            "company": "Company Name",
+            "start_date": "2014-08",
+            "end_date": "2017-03",
+            "description": "Subject matter expert on digital information distribution systems: Updated and managed the public website via the USACE AFPIMS system. Designed website for CSS Georgia recovery effort; created congressional webpages; dispatched news clips daily (two hours sooner than expectation). Ensured content produced by Corporate Communications Office was exposed in other DoD channels (DVIDS, Army CORE, Public Works Digest, etc.). Managed district intranet site, creating a quick, user-friendly information hub; overhauled the interface to improve visual appeal. Established updating protocol to ensure timely intranet updates. Authored articles and blog posts including rainfall updates, employee recognition, civil works, deployments, and STEM outreach. Managed social media in the absence of primary manager; connected social media to the public website. Conducted interviews with subject matter experts and published feature stories for external/internal audiences. Executed Change of Command information webpage; supported command events and dignitaries."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Journalism and Public Relations",
+            "school": "Georgia State University",
+            "year": 2008
+        },
+        {
+            "degree": "Certificate: Basic Public Affairs Specialist Course",
+            "school": "Defense Information School",
+            "year": 2011
+        },
+        {
+            "degree": "Associate's Degree in Mass Communications",
+            "school": "Community College of the Air Force",
+            "year": 2017
+        }
+    ],
+    "certifications": [
+        "Leadership Development Program, Level 1 (USACE, Savannah District, Savannah, Georgia) - Scheduled completion: June 2016",
+        "CES Action Officer Development Course (USACE, Savannah District, Savannah, Georgia) - Completed: March 2016",
+        "Airman Leadership School Distance Learning (Georgia Air National Guard, Savannah, Georgia) - Completed: March 2016",
+        "CES Basic Course, Phase I (USACE, Savannah District, Savannah, Georgia) - Completed: October 2015",
+        "CES Foundational Course (USACE, Savannah District, Savannah, Georgia) - Completed: May 2015",
+        "Basic Public Affairs Specialist Course - Honor Graduate (Defense Information School, Fort Meade, MD) - Graduated: May 2011",
+        "News University courses: Writing for clarity, The Art of the Interview, Making Writing Clean & Precise, Reporting with video, and other topics (USACE, Savannah District) - Completed: August 2015"
+    ],
+    "languages": [
+        "English"
+    ]
+}

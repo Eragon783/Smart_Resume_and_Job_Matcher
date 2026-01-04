@@ -1,0 +1,73 @@
+{
+    "name": "Victor Kravtsov",
+    "email": null,
+    "phone": null,
+    "location": "Arad, Israel; Moscow, Russia",
+    "summary": "Analytics leader with over a decade of experience building and leading analytics teams, delivering pricing, promotions, competitive intelligence and assortment insights to drive GMV and profitability. Proficient in SQL/Python/ETL tools and BI platforms (Tableau, Power BI) with a track record of presenting to C-level executives and executing from scratch to full deployment.",
+    "skills": [
+        "Team Leading",
+        "English",
+        "Planning",
+        "Russian",
+        "French",
+        "Hebrew",
+        "Sales",
+        "Negotiations",
+        "Analytics",
+        "MS Office",
+        "BI Tools",
+        "SQL",
+        "PostgreSQL",
+        "Python",
+        "Airflow",
+        "Hadoop",
+        "Kafka",
+        "Vertica",
+        "Tableau",
+        "Power BI",
+        "PowerPoint",
+        "SAP"
+    ],
+    "experience": [
+        {
+            "title": "Analytics Lead / Competitive Analytics Team Lead",
+            "company": "OZON",
+            "start_date": "2022",
+            "end_date": "Present",
+            "description": "Leading a team of 18 analysts, delivering business insights for pricing, promotions, competitive activities and GMV. Presenting results to C-level executives using Tableau; building dashboards and data marts; end-to-end analytics from scratch. Proficient in SQL/PostgreSQL/Python/Airflow/Hadoop/Kafka/Vertica/Tableau/Power BI."
+        },
+        {
+            "title": "Category Business Manager",
+            "company": "Samsung",
+            "start_date": "2019",
+            "end_date": "2022",
+            "description": "Development and execution strategy for Home Appliances in the CIS region. Managed sales structure, assortment, pricing, marketing, PLC and P&L. Grew category GMV and profit; introduced new product type (DW)."
+        },
+        {
+            "title": "Product Manager",
+            "company": "Nikon",
+            "start_date": "2013",
+            "end_date": "2019",
+            "description": "DSLR & Optics product management; #1 MS in DSLR/Optics and accessories sales strategy. Led Sport Optics development and promotions; product creation in collaboration with HQ."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA (Sales & Marketing)",
+            "school": "IBDA, Moscow",
+            "year": "2015 - 2017"
+        },
+        {
+            "degree": "Masters in Psychology",
+            "school": "Moscow State University",
+            "year": "2005 - 2010"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Russian",
+        "French",
+        "Hebrew"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Exceptional culinary insight. Knowledge of standard food preparation. Ability to work in a high volume environment. Chef in preparing exceptional meals. Motivated food serving professional with 5+ years food and beverage experience in casual and fine dining.",
+    "skills": [
+        "Cooking",
+        "Preparing a variety of cuisines",
+        "Sanitation and kitchen cleanliness",
+        "Operate kitchen equipment (ovens and grills)",
+        "Knowledge of recipes and standards",
+        "Ability to work in high-volume environments",
+        "Basic knife skills",
+        "Food handling",
+        "Plate presentation",
+        "Banquet operations and off-site catering",
+        "Team-oriented",
+        "Hygiene and professional appearance",
+        "Food safety compliance",
+        "Menu planning and catering"
+    ],
+    "experience": [
+        {
+            "title": "Food Prep Chef",
+            "company": "Company Name, City, State",
+            "start_date": "09/2010",
+            "end_date": "04/2011",
+            "description": "Followed all established restaurant practices and procedures. Carefully maintained sanitation, health and safety standards in all work areas. Prepared items according to written or verbal orders, working on several different orders simultaneously."
+        },
+        {
+            "title": "Cook",
+            "company": "Company Name, City, State",
+            "start_date": "06/2011",
+            "end_date": "11/2012",
+            "description": "Followed all established restaurant practices and procedures. Maintained a neat, well groomed appearance including impeccable personal hygiene, hair restraint and minimal jewelry that met company standards. Closely followed standard procedures for safe food preparation, assembly and presentation to ensure customer satisfaction. Cut and chopped food items and cooked on a grill or in fryers."
+        },
+        {
+            "title": "Cook",
+            "company": "Company Name, City, State",
+            "start_date": "12/2012",
+            "end_date": "03/2013",
+            "description": "Operated large-volume cooking equipment such as grills, deep-fat fryers and griddles. Took necessary steps to meet customer needs and effectively resolve food or service issues. Served fresh, hot food with a smile in a timely manner. Accurately measured ingredients required for specific food items. Followed all established restaurant practices and procedures."
+        },
+        {
+            "title": "Cook",
+            "company": "Company Name, City, State",
+            "start_date": "02/2013",
+            "end_date": "06/2013",
+            "description": "Assisted co-workers. Assisted co-workers. Cooked food properly and in a timely fashion, using safety precautions Weighed, measured, and mixed ingredients according to recipes using various kitchen utensils and equipment Cleaned and prepared various foods for cooking or serving."
+        },
+        {
+            "title": "Chef",
+            "company": "Company Name, City, State",
+            "start_date": "06/2014",
+            "end_date": "11/2014",
+            "description": "Developed strategies to enhance catering and retail food service revenue and productivity goals. Prepared healthy, enjoyable breakfasts and dinners for diners. Effectively managed and assisted kitchen staff in producing food for banquets, catered events and member dining areas. Effectively used items in stock to decrease waste and profit loss. Ensured consistent high quality of plate presentation Seasoned and cooked food according to recipes or personal judgment and experience Created and explored new cuisines Instructed cooks and other workers in the preparation, cooking, garnishing, and presentation of food Cooked food properly and in a timely fashion, using safety precautions Used all food handling standards"
+        },
+        {
+            "title": "Food Service Cook /Temp",
+            "company": "Company Name, City, State",
+            "start_date": "01/2014",
+            "end_date": "12/2014",
+            "description": "Assisted co-workers. Performed kitchen maintenance for a private facility. Responsible for daily set up of five stations. Stocked and rotated products, stocked supplies, and paper goods in a timely basis Stored clean equipment and utensils Supervised and coordinated activities of cooks and workers engaged in food preparation Used all food handling standards Cleaned, cut, and cooked meat, fish, or poultry Complied with scheduled kitchen sanitation and ensured all standards and practices were met Cooked food properly and in a timely fashion, using safety precautions"
+        },
+        {
+            "title": "Line Cook",
+            "company": "Company Name, City, State",
+            "start_date": "01/2015",
+            "end_date": "05/2015",
+            "description": "Consistently verified that kitchen staff followed all recipes and portioned serving guidelines correctly. Consistently kept a clean and safe environment by adhering to all federal, state and local sanitation and safety requirements. Communicated clearly and positively with co-workers and management. Worked well with teammates and openly invited coaching from the management team. Followed all established restaurant practices and procedures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "William M Davies Career & Tech",
+            "year": "2011"
+        }
+    ],
+    "certifications": [
+        "Serve Safe (2015)"
+    ],
+    "languages": []
+}

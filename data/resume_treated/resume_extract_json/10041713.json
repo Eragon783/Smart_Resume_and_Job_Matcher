@@ -1,0 +1,92 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Pune, Maharashtra, India",
+    "summary": "9+ years of professional working experience in energy solution consulting and performance contracting, HVAC estimating & designing in buildings & industrial sector. Experience of 3 years in project development, presenting and managing the implementation of innovative energy business solutions. Working knowledge in designing & preparing energy solutions for large complex projects. Total projects worked for fiscal year 2014 exceeds $30 million. Excellent working relationships within the different business units. Working knowledge of Variable Frequency drives, PLC systems and other automations used in industry. Actively Involved in Networking Chapter in Boston area like National Association of Women In Construction, Mass Building Congress, American Society for Precision Engineering Obtain a challenging position that will allow me to utilize my educational attainment and professional experience in Energy Engineering, Project Engineering, Building Energy Systems, Energy Conservation, Renewable Energy and Energy Management of residential, commercial, healthcare, data center and industrial facilities. Accomplishments Awarded as most interactive person across all business units in India by Schneider Honeywell's BRAVO Award for the successful commissioning of the Alarm Management Suite at IPCL, Baroda or the first time in India Energy Management Professional Certified by Schneider University Framed out the processes and templates for new energy business unit in Schneider India Active Volunteer in CSR activities in Schneider for social cause Initiated selling of the energy conservation solutions to clients showing savings and ROI Individually worked out and framed a clear- cut procedure for Installation & Commissioning of MS SQL based Alarm Management Suite and defined the procedure for healthy communication of Alarm Management Suite with Honeywell Systems & various Third Party DCS / PLC's",
+    "skills": [
+        "Sales",
+        "Proposals",
+        "Solutions",
+        "Commercial Buildings",
+        "Energy Conservation",
+        "Energy Solutions",
+        "Industrial Facilities",
+        "Retail",
+        "Retrofit",
+        "Technical Assistance",
+        "Instrumentation",
+        "HVAC",
+        "Project Engineer",
+        "Project Planning",
+        "SCADA",
+        "Testing",
+        "Estimating",
+        "Estimation",
+        "Estimator",
+        "Operations",
+        "Pricing",
+        "Takeoffs",
+        "Fire Protection",
+        "Front End",
+        "Quotations",
+        "Relationship Building",
+        "Sales Activities",
+        "Security",
+        "Energy Management",
+        "Project Development",
+        "ROI",
+        "SQL",
+        "Networking",
+        "Maintenance",
+        "Marketing"
+    ],
+    "experience": [
+        {
+            "title": "Sr. Estimator-BAS Construction Sales",
+            "company": "Company Name",
+            "start_date": "August 2015",
+            "end_date": "Current",
+            "description": "Key responsible person for designing & estimating of HVAC proposals on Studio 360 related to capital construction and renovation projects ($40M estimation volume YtD) by supporting Sales team and validating the proposals with operations teams. Generate an average of $2M estimate per month for Building-Construction business. Responsible for negotiating with sub-contractors and vendors to ensure accurate scope and cost projections. Qualify engineering drawings & specifications. Working with the operations team to validate proposed solutions and to develop Branch Estimate Library on Studio 360. Produce accurate & through takeoffs, including pricing of work."
+        },
+        {
+            "title": "Project Engineer",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": null,
+            "description": "Responsible for Project Planning, Collection of User requirements, System Design & Testing, Execution and System Maintenance. Worked as Project engineering After Marketing Service Group for projects involving Dual redundant and single system of Honeywell's DCS & PLC based control system for various process industries. Responsible for design, Development and Testing of DCS, PLC, and SCADA programs for the Honeywell Systems. Responsible for Installation, Configuring and Maintenance of Real time Servers and Networking under Windows."
+        },
+        {
+            "title": "Sales Engineer",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": null,
+            "description": "Worked on energy performance contracts and energy proposals worth more than 40 million dollars for various facilities including hospital, correctional facilities, office buildings, colleges, IT/ITES buildings, commercial buildings, retail sector and industrial facilities. Prepared energy solutions for more than 50 projects and surveyed almost 40 projects for preliminary & detailed energy assessment for identifying energy conservation measures (ECMS). Prepared and helped the implementation team in execution of Performance Contracting projects of values almost 5 million dollar. Key responsible person for identifying, designing & implementation of Energy Conservation Measures across 20 identified Schneider Offices in India. Supported BD/Sales and energy auditors for solution designing and development of standard energy conservation solutions for building & industrial sector. Main responsibilities includes identify the energy conservation measures, development of the detailed scope of work for each measures, walkthrough with vendors and subcontractor to price each measures, preparation of the estimated costing and contract documents, preparation of the sequence of operation for the retrofit equipment, review of all the submittals documents, provide technical assistance during the construction phase, commission of the system and measurement and verification of each measures."
+        },
+        {
+            "title": "Siemens Building Technologies Pvt. Ltd.",
+            "company": "Siemens Building Technologies Pvt. Ltd.",
+            "start_date": null,
+            "end_date": null,
+            "description": "Worked on designing of systems, preparation of technical bids, quotations, offers of complete systems comprising of Building Management System, Fire Protection and Electronic Security. Pre-sales and front end sales activities including customer relationship building, negotiations. Grabbed IBMS orders of around $2 million. Worked extensively on designing of Building Management systems for HVAC for different buildings like hotels, commercial buildings, IT/ITES etc."
+        },
+        {
+            "title": "Assistant Manager-Energy Solutions",
+            "company": "Schneider Electric India Pvt. Ltd",
+            "start_date": "July 2010",
+            "end_date": "May 2013",
+            "description": "Worked on energy performance contracts and energy proposals worth more than 40 million dollars for various facilities including hospital, correctional facilities, office buildings, colleges, IT/ITES buildings, commercial buildings, retail sector and industrial facilities. Prepared energy solutions for more than 50 projects and surveyed almost 40 projects for preliminary & detailed energy assessment for identifying energy conservation measures (ECMS). Prepared and helped the implementation team in execution of Performance Contracting projects of values almost 5 million dollar. Key responsible person for identifying, designing & implementation of Energy Conservation Measures across 20 identified Schneider Offices in India. Supported BD/Sales and energy auditors for solution designing and development of standard energy conservation solutions for building & industrial sector. Main responsibilities includes identify the energy conservation measures, development of the detailed scope of work for each measures, walkthrough with vendors and subcontractor to price each measures, preparation of the estimated costing and contract documents, preparation of the sequence of operation for the retrofit equipment, review of all the submittals documents, provide technical assistance during the construction phase, commission of the system and measurement and verification of each measures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Instrumentation Engineering",
+            "school": "Maharishi Markendeshwar Engineering College, Mullana, India",
+            "year": "2006"
+        }
+    ],
+    "certifications": [
+        "Energy Management Professional Certified by Schneider University"
+    ],
+    "languages": []
+}

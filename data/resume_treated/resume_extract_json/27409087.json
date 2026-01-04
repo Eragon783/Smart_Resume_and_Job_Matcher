@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Flexible Accountant who adapts seamlessly to constantly evolving accounting processes and technology. Adept at budget forecasting, financial reporting and corporate tax planning.",
+    "skills": [
+        "Financial statement analysis",
+        "Foreign tax reporting",
+        "Budget forecasting",
+        "Adobe software proficiency",
+        "Time management",
+        "General ledger accounting",
+        "Cash-flow reporting",
+        "Public and private accounting",
+        "Cost accounting",
+        "Account reconciliations",
+        "Microsoft Office",
+        "Sage",
+        "SAP ERP",
+        "QuickBooks",
+        "Payroll processing",
+        "Auditing",
+        "Data entry",
+        "Project reporting",
+        "Accounts payable & receivable",
+        "Intercompany reconciliation",
+        "IFRS",
+        "GAAP",
+        "Tax filings",
+        "Stock valuation",
+        "Fixed assets management",
+        "VAT computations"
+    ],
+    "experience": [
+        {
+            "title": "Head of Accounts and Finance",
+            "company": "Company Name",
+            "start_date": "October 2013",
+            "end_date": "Current",
+            "description": "Account operations lead responsible for the production of monthly financial reports, maintenance of accounting records, and a comprehensive set of controls and budgets designed to mitigate risk and ensure compliance with GAAP/IFRS. Oversaw accounting department operations across branches, managed outsourced functions, and maintained the PPE register. Responsible for accounts payable/receivable, payroll processing, bank reconciliations, debt payments, chart of accounts, and filing system. Led preparation of annual corporate report, financial statements, and budgeting processes; coordinated with external auditors and government authorities; supported capital investments and financial analysis."
+        },
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name",
+            "start_date": "December 2010",
+            "end_date": "October 2013",
+            "description": "Managed coffee and cocoa books across branches, reported program expenses and budgets to directors, and oversaw project finances and cash flow. Processed payments, prepared payroll, performed bank reconciliations, and handled intercompany reconciliations. Monitored VAT, prepared cash flow reports, conducted stock valuation, and supported external audits and TRA inquiries. Maintained fixed assets, depreciation, and asset registers; contributed to financial reporting and compliance activities."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "June 2009",
+            "end_date": "December 2010",
+            "description": "Maintained staff imprest records and loans, reconciled debtors and creditors, and performed monthly bank reconciliations. Calculated VAT, maintained fixed assets register and depreciation, prepared sales performance reports, and managed treasury transfers between main accounts and banks. Processed expense vouchers, posted transactions, and handled advertisement transactions and related reconciliations."
+        },
+        {
+            "title": "Trainee",
+            "company": "Company Name",
+            "start_date": "August 2008",
+            "end_date": "June 2009",
+            "description": "Prepared payments, regular reports on revenue and expenditure, reconciled direct debits, prepared invoices, performed bank reconciliations, disbursed cash and cheque payments, posted transactions in computerized accounting systems, and reconciled debtors and creditors records."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Post Graduate Diploma in Accountancy",
+            "school": "Tanzania Institute Of Accountancy",
+            "year": 2012
+        },
+        {
+            "degree": "Advanced Diploma in Accountancy",
+            "school": "Institute Of Finance Management",
+            "year": 2008
+        },
+        {
+            "degree": "Advanced Certificate of Secondary Education",
+            "school": "Minaki High School",
+            "year": 2001
+        },
+        {
+            "degree": "Certificate of Secondary Education",
+            "school": "Tosamaganga Secondary School",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        "Rainforest Alliance certification",
+        "IMO control certification"
+    ],
+    "languages": [
+        "Swahili",
+        "English"
+    ]
+}

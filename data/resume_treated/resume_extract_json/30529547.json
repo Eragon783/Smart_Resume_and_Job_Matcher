@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Bi-lingual, efficient service teams.",
+    "skills": [
+        "Hard working",
+        "Friendly",
+        "Enthusiastic",
+        "Able to learn new tasks",
+        "Customer service",
+        "Professional demeanor"
+    ],
+    "experience": [
+        {
+            "title": "Sales Representative",
+            "company": "Company Name, City, State",
+            "start_date": "Oct 2017",
+            "end_date": "Oct 2017",
+            "description": "Cashier, selling lottery tickets to customers. Managed the receptionist area, including greeting and responding to information asked. Doing basic mathematics, adding, subtracting and multiplying. Handling money and prices."
+        },
+        {
+            "title": "Front Desk Receptionist",
+            "company": "Company Name, City, State",
+            "start_date": "Dec 2015",
+            "end_date": "Aug 2016",
+            "description": "Greet persons entering establishment and direct them to specific destinations. Operate telephone or forward calls, taking messages, or scheduling reservations. Receive payment and record receipts for services. Hear and resolve complaints from customers. Transmit information or documents to customers, using computer, mail, or facsimile machine. Collect, sort, distribute guest mail. Enroll individuals to participate in our hotel rewards program. Calculate and quote rates for hourly, weekly rates. Perform duties, such as straightening magazines to maintain lobby or reception area clean."
+        },
+        {
+            "title": "Room Service",
+            "company": "Company Name, City, State",
+            "start_date": "Dec 2015",
+            "end_date": "Aug 2016",
+            "description": "Take food orders and relay orders to kitchen staff. Place food servings on plates or trays. Examine trays to ensure that they contain required items. Stock service stations with items such as ice, napkins, or straws. Remove trays and stack dishes for return to kitchen after meals are finished. Total checks, present them to customers, and accept payment for services. Determine where guest would like to eat their meals and help them get situated. Clean or sterilize dishes, equipment."
+        },
+        {
+            "title": "Team Member",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 2015",
+            "end_date": "Dec 2015",
+            "description": "Train workers in skills such as taking orders, communication, observe and influence guest behavior, communicating and interacting with them. Primarily serve and prepare food for customers. Cleaning work stations and answering questions about menu items, policies, and services."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "school": "Tint School of Makeup & Cosmetology",
+            "year": 2016
+        },
+        {
+            "degree": "Nail Technician",
+            "school": "Tint School of Makeup & Cosmetology",
+            "year": 2016
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Moises E. Molina High School",
+            "year": 2015
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Bi-lingual"
+    ]
+}

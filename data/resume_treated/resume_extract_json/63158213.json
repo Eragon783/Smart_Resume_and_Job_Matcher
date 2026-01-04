@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Birmingham, Alabama, USA",
+    "summary": "Bilingual Network Engineer offering in-depth understanding of IT infrastructure areas, particularly IT Network Design, Implementation & Optimization of Wired & Wireless Network. Detail-oriented self-starter with demonstrated success in initiating, tracking, reporting and closing projects.",
+    "skills": [
+        "Cisco routers (17XX, 18XX, 26XX, 28XX, 37XX, 38XX, 39XX & 72XX series) and ASR 1K & 9K",
+        "Cisco switches (3550, 3750, 45XX, 65XX, Nexus 5K/2K/7K/9K)",
+        "Load balancers (Cisco CSS, F5)",
+        "WAN optimization (Cisco WAAS)",
+        "Routing protocols: OSPF, EIGRP, BGP, RIP-2",
+        "Policy-based routing (PBR), Route filtering, Redistribution, Summarization, Static Routing",
+        "Switching: VLAN, VTP, STP, PVST+, RPVST+, Inter-VLAN routing, Multilayer Switching, EtherChannel",
+        "LAN/WAN technologies: Ethernet, Fast Ethernet, Gigabit Ethernet, FDDI, CDDI, Token Ring, ATM LAN Emulation; Leased lines 64k-155Mb, E1/T1/E3/T3, Fiber, Frame Relay, ISDN",
+        "IOS features: HSRP, GLBP, IRDP, NAT, SNMP, SYSLOG, NTP, DHCP, CDP, DNS, TFTP, FTP",
+        "IP Telephony: Call Manager (publisher & subscriber), FXO/FXS/E&M/T1/ISDN/PRI",
+        "AAA: TACACS+, RADIUS, Cisco ACS",
+        "Security/Firewalls: Cisco ASA, IPSEC & SSL VPNs, IPS/IDS, DMZ, CBAC, Cisco NAC, ACL",
+        "Juniper: EX 2200, EX 4200, EX 4500, MX-480, M Series, SRX210, SRX240",
+        "VPN: Remote VPN & Site-to-Site VPN, DMVPN",
+        "Wireless site assessment tools: AirMagnet, Ekahau",
+        "Palo Alto Firewalls"
+    ],
+    "experience": [
+        {
+            "title": "Sr. Network Engineer",
+            "company": "Company Name, City, State",
+            "start_date": "Sep 2014",
+            "end_date": "Jul 2017",
+            "description": "Implementation of VLANs with InterVLAN communication; Implementation of HSRP, VRRP and GLBP redundant routing protocols; Configuration of MPLS, BGP and EIGRP; Installation and configuration of Layer 3 Switching infrastructure; Installation and configuration of MPLS WAN routers; Cisco Call Manager and Unity Connection versions 7.1 and 8.6 administration; Cisco Call Manager and Unity Connection operating system upgrades and installation; TACACS+ configuration and administration of all network devices for authentication, authorization and accounting; Manage incidents, Change Management and projects with System Center Service Manager; Monitor Active Directory servers and all Cisco network devices with System Center Operations Manager; Implementation and management of Cisco Prime Network Control System for wireless network; Implementation and management of Cisco Mobility Service Engine for wireless network."
+        },
+        {
+            "title": "Sr. Network Engineer",
+            "company": "Company Name, City, State",
+            "start_date": "Nov 2011",
+            "end_date": "Aug 2014",
+            "description": "Responsible for maintaining network with over 5000 users. Troubleshooting across layers 1-3. VLAN assignment on Cisco and Brocade devices. 802.1x and MAB configurations. Troubleshooting of Cisco and Brocade switches/routers. Spanning Tree troubleshooting. Setup and hardening of switches and routers. User and port configurations including 802.1x, MAB, port-channeling, link aggregation, VTP issues, RSA keys. Used knowledge base to resolve customer network issues; collaborated with team to minimize downtime."
+        },
+        {
+            "title": "Network Engineer",
+            "company": "Company Name, City, State",
+            "start_date": "Feb 2003",
+            "end_date": "Aug 2009",
+            "description": "Connected switches with trunk links and EtherChannel. Maintained VLANs, Spanning-tree, HSRP, VTP on the switched multilayer backbone. Implemented redundant load balancing for Internet applications. Supported Network Technicians; used network monitoring tools to manage and troubleshoot. Configured Cisco IOS Feature Set, NAT and SNMP. Troubleshooting a wide range of issues; mentoring and coaching new employees."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA, IT",
+            "school": "London School of Accountancy & Management",
+            "year": "2011"
+        },
+        {
+            "degree": "PGDMS, Management",
+            "school": "London School of Accountancy & Management",
+            "year": "2010"
+        },
+        {
+            "degree": "Associate of Science, Science",
+            "school": "Rizvi College of Arts, Science & Commerce",
+            "year": "2001"
+        }
+    ],
+    "certifications": [
+        "CCT Data Center",
+        "CCNP",
+        "CCNA",
+        "MCSE",
+        "Security +",
+        "Network +",
+        "A+"
+    ],
+    "languages": [
+        "English"
+    ]
+}

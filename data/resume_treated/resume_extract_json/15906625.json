@@ -1,0 +1,78 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Alexandria, LA",
+    "summary": "ACCOUNTANT Professional Summary Current Accountant with the City of Alexandria with over 15 years experience in the accounting industry. Knowledge in governmental accounting procedures, financial statement preparation, general ledger activity, budget preparation & analysis, bank reconciliations, accounts payables & receivables, payroll, fixed assets, tax preparation & audit procedures.",
+    "skills": [
+        "Advanced bookkeeping",
+        "Accounting and bookkeeping",
+        "Financial statement analysis",
+        "Tax return filing",
+        "GAAP understanding",
+        "Bank reconciliations and balancing",
+        "Flexible team player",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft Access",
+        "Microsoft PowerPoint",
+        "Microsoft Outlook",
+        "Asset Keeper Pro Software",
+        "QuickBooks Software",
+        "Fixed Asset Solutions Software",
+        "Creative Solutions Bookkeeping Software",
+        "HOST Software",
+        "Document Manager Software",
+        "ProSystem",
+        "UltraTax",
+        "Lacerte",
+        "Financial statements",
+        "General Ledger",
+        "Budget preparation",
+        "Forecasting",
+        "Journal entries",
+        "1099 processing",
+        "Governmental accounting"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2013",
+            "end_date": "Present",
+            "description": "Help prepare Financial Statements and Bank Reconciliations. Perform accounts payable functions for governmental expenses. Manage financial departments with responsibility for Accounts Payable and Fixed Assets. Manage vendor accounts and prepare 1099s for contract labor. Reconcile Asset accounts and review all materials, including surplus, depreciation expense, and purchase and recording of new assets. Organize and carried out efficient month-end, quarterly and year-end processes. Provide journal entries and perform accounting on accrual basis for year end procedures. Prepare documents and reports using advanced software proficiencies. Generate and submit invoices based upon established financial schedules. Maintain integrity of general ledger, including chart of accounts. Partner with auditors to prepare yearly audits and ensure compliance with governmental tax guidelines. Review & improve accounting systems and processes to meet business needs and maximize effectiveness of operations. Review accounting structures and procedures on regular basis to identify areas in need of improvement."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2009",
+            "end_date": "Feb 2013",
+            "description": "Preparation and Analysis of Hospital Financial Statements. Investigate and resolve discrepancies in financial statements while under tight deadlines. Compile general ledger entries on short time schedule with nearly 100% accuracy. Analyze monthly balance sheet accounts & record journal entries for corporate reporting."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 2006",
+            "end_date": "Apr 2008",
+            "description": "Prepare & File tax returns for individual, partnership, corporate, and tax exempt clients. Prepare LLC & Corporate monthly payroll & Quarterly Reports. Generate financial statements and facilitate account closing procedures each month."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 2003",
+            "end_date": "Aug 2004",
+            "description": "Prepare individual, partnership, corporate & fiduciary tax returns. Audit governmental, for-profit and not for profit entities. Uphold strict confidentiality protocols with all client details and tax return information."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Accounting",
+            "school": "Northwestern State University of Louisiana",
+            "year": "2002"
+        }
+    ],
+    "certifications": [
+        "CPAExcel Scholar"
+    ],
+    "languages": []
+}

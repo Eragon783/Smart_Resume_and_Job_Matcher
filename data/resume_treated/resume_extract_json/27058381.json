@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": "304-264-5413",
+    "location": "Ogden, UT 84201",
+    "summary": "",
+    "skills": [
+        "Computers trouble shooting",
+        "Microsoft Access",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "Computer Security",
+        "Anti Hacking",
+        "HIDS",
+        "Microsoft Event logging",
+        "Adobe"
+    ],
+    "experience": [
+        {
+            "title": "System Administrator",
+            "company": "Company Name",
+            "start_date": "03/2009",
+            "end_date": "Present",
+            "description": "12 Computer Systems Administrator for the EOps-ECC-WSSB-BSS-CIS group. Responsibilities include maintaining servers operation and security, analyzing hardware and software components, writing and handling tickets, coordinating with IRS personnel and vendors, onboarding new servers to the domain, asset management with KISAM, applying patches, monitoring HIDS and antivirus, and documenting troubleshooting steps. Also involved in training and creating procedures; responsible for system diagnostics, performance optimization, and ensuring compliance with security controls."
+        },
+        {
+            "title": "System Administrator",
+            "company": "Company Name",
+            "start_date": "07/2005",
+            "end_date": "Present",
+            "description": "System Administrator responsible for multi-tasking across multiple projects, supervising CIS section, training new staff, supporting 500+ servers, maintaining Windows domains, performing server hardening and patching, and coordinating with IRS IT staff and contractors. Responsibilities include installing and configuring software and hardware, writing documentation, and ensuring security and compliance."
+        },
+        {
+            "title": "Computer System Administrator",
+            "company": "Company Name",
+            "start_date": "01/1989",
+            "end_date": "04/2007",
+            "description": "Assisted electronic filing programmers by analyzing and diagnosing software errors to pass IRS electronic filing standards. Used IRS IRM to transmit standard test returns, identified and communicated programming errors, collaborated with Tax Examiners, managed data archival to nine-track tapes and mainframe processing, maintained network and desktop computers, diagnosed network outages with sniffers, and installed workstation updates."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Sociology and Social Work Psychology",
+            "school": "Weber State University",
+            "year": "1983"
+        }
+    ],
+    "certifications": [
+        "SKSIT Monitoring, Backups, and Recovery in Windows Server 2008",
+        "SKSIT Software Updates and Compliance Management in Microsoft Windows Server 2008",
+        "SKSIT Patch Management and Securing and Monitoring Servers in Windows Server 2008",
+        "SKSBS IT Project Management Essentials: Monitoring and Controlling IT Projects",
+        "SKSBS IT Project Management Essentials: Executing IT Projects",
+        "SKSBS IT Project Management Essentials: Initiating and Planning IT Projects",
+        "SKSBS IT Project Management Essentials: Managing Risks in an IT Project",
+        "SKSBS IT Project Management Essentials: Introduction to IT Project Management",
+        "SKSBS Troubleshooting and Closing the Project",
+        "SKS-LLPKG PM Lite - A Blended Approach",
+        "SKSBS Managing a Project",
+        "SKSBS Transitioning into a Project Management Role",
+        "SKSBS Project Management Fundamentals",
+        "SKSBS Initiating and Planning a Project",
+        "SKSIT Windows Server 2008 Backup and Recovery",
+        "SKSIT Cisco IINS 2.0: VPN Technologies and Public Key Infrastructure",
+        "SKSIT Intrusion Detection and Response in Networked Environments",
+        "SKSIT 3G Communication Systems",
+        "PSTR - FISMA Continuous Monitoring - ASCA Training",
+        "SKSIT SSCP Domain: Malicious Code",
+        "Configuration Management (CM) Overview (CBT)",
+        "Change Management Process Overview"
+    ],
+    "languages": []
+}

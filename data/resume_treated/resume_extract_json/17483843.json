@@ -1,0 +1,125 @@
+{
+    "name": "William Russ",
+    "email": null,
+    "phone": "760.830.7097",
+    "location": "City, State",
+    "summary": "Solutions-focused, versatile management professional offering a comprehensive background supporting U.S. military operations in roles of increasing responsibility during a 9 year career in the Marines. Effective communicator who quickly masters new roles and technologies to achieve positive results with minimal resources. To include 6 years in logistics, transportation, and embarking. As well as 3 years with on-job- training, and certification as Unmanned Aviation Systems Maintenance Controller. Highlights Microsoft Office Suite, Microsoft Word, Outlook, Internet, Excel, Publisher",
+    "skills": [
+        "approach",
+        "Basic",
+        "budget",
+        "Ca",
+        "product development",
+        "documentation",
+        "fast",
+        "functional",
+        "hand tools",
+        "logistics",
+        "materials",
+        "Mentor",
+        "Excel",
+        "Microsoft Office",
+        "Outlook",
+        "Publisher",
+        "Microsoft Word",
+        "oscilloscopes",
+        "personnel",
+        "power tools",
+        "procurement",
+        "progress",
+        "project plans",
+        "radio",
+        "safety",
+        "sales",
+        "scheduling",
+        "Six Sigma",
+        "soldering",
+        "Spanish",
+        "Supervisor",
+        "switches",
+        "technical project management",
+        "Technician",
+        "test equipment",
+        "Trainer",
+        "Transportation",
+        "troubleshoot"
+    ],
+    "experience": [
+        {
+            "title": "Unmanned Aviation Technician Supervisor",
+            "company": "Company Name",
+            "start_date": "2011-02",
+            "end_date": "Present",
+            "description": "Oversees unmanned aviation technician operations, logistics planning, and maintenance control. Certified as Unmanned Aviation Systems Maintenance Controller. Manages flight schedules, coordination with load planners and battalions, and safety protocols; performs equipment maintenance, troubleshooting, assembly of components, and documentation. Coordinates with engineers and technicians, analyzes flight test data, and ensures mission readiness."
+        },
+        {
+            "title": "Production, Planning, and Expediting Clerk",
+            "company": "Company Name",
+            "start_date": "2008-03",
+            "end_date": "2010-03",
+            "description": "Directed production planning and expediting activities; supervised 15+ personnel; maintained documentation; supported procurement and scheduling; developed plans and ensured adherence to timelines."
+        },
+        {
+            "title": "Production, Planning, and Expediting Clerk Supervisor",
+            "company": "Company Name",
+            "start_date": "2006-03",
+            "end_date": "2007-03",
+            "description": "Direct supervision of 15+ military personnel; evaluated performance; promoted team approach; maintained accurate documentation; provided mentorship."
+        },
+        {
+            "title": "Volunteer",
+            "company": "Volunteer",
+            "start_date": "2007-05",
+            "end_date": "2010-05",
+            "description": "Provided emotional assistance to military spouses who lost loved ones during Operation Enduring Freedom and Operation Iraqi Freedom."
+        }
+    ],
+    "education": [
+        {
+            "degree": "AAS",
+            "school": "National University",
+            "year": "2004"
+        },
+        {
+            "degree": "Unmanned Aviation System Safe For Flight",
+            "school": "Twenty-Nine Palms, CA",
+            "year": "2006"
+        },
+        {
+            "degree": "Unmanned Aviation System Technician",
+            "school": "Ft. Huachuca, AZ",
+            "year": "2014"
+        },
+        {
+            "degree": "Six Sigma, Yellow Belt",
+            "school": "California",
+            "year": "2012"
+        },
+        {
+            "degree": "Basic Machine Gun Trainer",
+            "school": "Camp Lejeune, NC",
+            "year": "2013"
+        },
+        {
+            "degree": "Hazardous Material Handling",
+            "school": "Lackland AFB, TX",
+            "year": "2011"
+        },
+        {
+            "degree": "Military Standard Transportation and Movements Procedures",
+            "school": "Ft.Eustis, VA",
+            "year": "2010"
+        },
+        {
+            "degree": "Distribution Management Specialist",
+            "school": "State",
+            "year": "2009"
+        }
+    ],
+    "certifications": [
+        "Unmanned Aviation Systems Maintenance Controller"
+    ],
+    "languages": [
+        "Spanish (Intermediate)"
+    ]
+}

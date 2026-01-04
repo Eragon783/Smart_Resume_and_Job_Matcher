@@ -1,0 +1,114 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "With over 12 years of experience in performance marketing (PPC), SEM, Social, Local and Programmatic media, I specialize in portfolio management, data-driven optimization, and ROI-focused digital advertising across multiple markets. I excel in fast-paced environments, strategic planning, audience targeting, and cross-channel execution. Vendor for Microsoft Digital Advertising; experienced in leading global remote teams and delivering measurable results.",
+    "skills": [
+        "PPC",
+        "Digital Media Planning",
+        "DSP",
+        "Behavioral Targeting",
+        "Comscore",
+        "SimilarWeb",
+        "Kenshoo",
+        "MS Excel",
+        "PowerPoint",
+        "Agile Marketing",
+        "Portuguese",
+        "Advertising",
+        "Presentations",
+        "Agile",
+        "Quality Agency",
+        "Quality Control",
+        "Auditing",
+        "Reporting",
+        "Branding",
+        "Sales Budget",
+        "Bilingual",
+        "BI",
+        "Spanish",
+        "Capital Markets",
+        "Strategy"
+    ],
+    "experience": [
+        {
+            "title": "Director",
+            "company": "Company Name",
+            "start_date": "2017-07",
+            "end_date": "2021-05",
+            "description": "Led data analysis and DSP design for strategic clients; built audience clusters based on behavioral targeting for Brazilian, Mexican, Canadian, and US markets. Vendor for Microsoft Digital Advertising. Part of a global team of 8 remote. Increased revenue in Brazil from $50k to $500k and over $3M in the second year. Assisted in quality control for team members."
+        },
+        {
+            "title": "Digital Media Solutions Executive Director",
+            "company": "Company Name",
+            "start_date": "2016-01",
+            "end_date": "2017-07",
+            "description": "Led a team of 8 specialists across search, social, mobile, display, programmatic and local ads; focused on Branding and Performance. Grew media spend across all channels by over 100% (+$300M). Established procedures for digital media planning and execution; created the Blinks Media Mix Modeling. Provided strategic insights across digital channels; implemented auditing and technical evaluations to improve campaign quality. Delivered training, built partnerships with media channels, and supported RFPs. Coordinated Digital Days for clients. Invited to test the Facebook Blueprint Certification; Awarded Bing Agency of the Year (Sept 2017)."
+        },
+        {
+            "title": "Account Director",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2015-12",
+            "description": "Managed portfolio of largest clients at Blinks including Netshoes, ACCOR, AIG and OLX. Led a team of 8 analysts; cross-channel reporting; budget allocation and prioritization. Developed first-to-market campaigns; created best practices (A/B testing, Black Friday checklists). Reduced CPL by 300% in under 6 months; maintained ROI while increasing investment from 300k to 600k; tripled lead generation (CPL reduction of 150%)."
+        },
+        {
+            "title": "Account Manager",
+            "company": "Company Name",
+            "start_date": "2010-12",
+            "end_date": "2013-12",
+            "description": "Managed portfolio of large and SMB accounts (~30); strategy and execution of PPC campaigns. Defined KPIs based on client objectives; held monthly results reviews with clients. Monitoring and optimization of campaigns; collaboration with clients and partners."
+        },
+        {
+            "title": "Behavior Targeting Specialist",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2013-01",
+            "description": "Implemented and optimized behavior targeting strategies to improve campaign performance; contributed to data-driven decision making across campaigns."
+        },
+        {
+            "title": "Senior Investment Specialist",
+            "company": "Company Name",
+            "start_date": "1999-01",
+            "end_date": "2003-03",
+            "description": "Managed portfolio of high net worth accounts (>US$1 million), including LatAm clients. Provided trading assistance in various financial products; advised on investments; educated clients on trading platforms and software."
+        },
+        {
+            "title": "Equity Trading Liaison",
+            "company": "Company Name",
+            "start_date": "1997-07",
+            "end_date": "1999-01",
+            "description": "Operations liaison between exchanges and account reps; resolved trade disputes to minimize risk. Led 20+ helpers during downtimes to input trades, emphasizing agility and accuracy."
+        },
+        {
+            "title": "Floor Broker",
+            "company": "Company Name",
+            "start_date": "1995-01",
+            "end_date": "1997-01",
+            "description": "CBOE broker trading stocks; executed orders from multiple brokerages; evaluated market volatility and order flow for best executions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Mini MBA in Business Strategy",
+            "school": "WPP",
+            "year": 2017
+        },
+        {
+            "degree": "B.S. in Business Administration",
+            "school": "Boston College",
+            "year": 1994
+        }
+    ],
+    "certifications": [
+        "Google AdWords Certified",
+        "Google Analytics Certified",
+        "Facebook Certified Planning Professional"
+    ],
+    "languages": [
+        "English",
+        "Portuguese",
+        "Spanish"
+    ]
+}

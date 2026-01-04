@@ -1,0 +1,60 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced floater/teacher seeking to obtain a position teaching children. Demonstrates strong classroom management, collaboration with parents, student motivation, interactive teaching style, and innovative lesson planning. Proficient in health education curriculum development and creating positive learning environments. Notably created and taught the first Health Curriculum at the Jewish Academy of Arts and Sciences.",
+    "skills": [
+        "Classroom management",
+        "Parent collaboration",
+        "Motivating students",
+        "Interactive teaching",
+        "Lesson planning and curriculum development",
+        "Health education and nutrition",
+        "Positive communication",
+        "Patience",
+        "Effective listening",
+        "Organization and coordination",
+        "Team leadership",
+        "Safety and risk management"
+    ],
+    "experience": [
+        {
+            "title": "Floater/Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "2015-03",
+            "end_date": "Present",
+            "description": "Work with and teach children ages 6 weeks to Pre-K; enforce rules and procedures to maintain order; provide daily affection and positive praise; collaborate with classroom teachers by following schedules and lesson plans."
+        },
+        {
+            "title": "Physical Education and Health Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "2015-01",
+            "end_date": "2015-05",
+            "description": "Taught 60-minute Physical Education classes to Kindergarten, 1st, 3rd, 4th, and 5th grade. Covered anatomy and nutrition, emphasized safety, and developed unit-based lesson plans. Created critical thinking prompts; conducted bi-monthly assessments through various methods. As Health Education teacher for 3rd-5th grades, created the Health class outline/proposal and implemented the first Health curriculum; assessed students via group projects and daily quizzes."
+        },
+        {
+            "title": "Children's Fitness Instructor/Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2008-08",
+            "end_date": "2013-12",
+            "description": "Taught physical education and nutrition to children ages 18 months to 5 years; created engaging, positive, and safe classes. Promoted to Manager in Aug 2013; responsibilities included hiring coaches, creating weekly schedules, monitoring coach performance, communicating with school directors, and maintaining professional operations; maintained daily communication with coaches."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Education - Physical Education",
+            "school": "University of New Mexico",
+            "year": "2008"
+        },
+        {
+            "degree": "Coursework",
+            "school": "New Mexico State University",
+            "year": "2005"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

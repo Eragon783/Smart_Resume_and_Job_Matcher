@@ -1,0 +1,73 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "Games",
+        "Increase",
+        "Recruitment",
+        "Associate",
+        "Budget",
+        "Fundraising",
+        "Health And Wellness",
+        "Liaison",
+        "Recruiting",
+        "Arrangements",
+        "Exchange",
+        "Progress",
+        "Team Player",
+        "Travel Arrangements",
+        "Field Operations",
+        "Operations",
+        "Packing",
+        "Program Manager",
+        "Purchase Orders",
+        "Vouchers",
+        "Coaching",
+        "Award"
+    ],
+    "experience": [
+        {
+            "title": "Associate Teacher",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "January 2015",
+            "description": "Maintain safe classroom setting while fostering a positive and engaging learning environment; Develop daily lesson plans for 5 and 6 grade; Reason and Rhetoric; Teach students weekly vocabulary words and writing techniques using nonfiction articles; Led and guided students in classroom discussions; Lead co-curricular programs such as recess, lunch, and study hall; Closely monitor the academic and social lives of seventh grade boys."
+        },
+        {
+            "title": "Head Coach, Girls' Varsity Basketball",
+            "company": "Company Name",
+            "start_date": "January 2012",
+            "end_date": "January 2014",
+            "description": "Manage recruitment and enrollment of prospective students from the New England area, New York, Montreal, New Jersey, Philadelphia, Maryland, Chicago, Virginia, and Florida; Develop contacts with feeder schools, sports programs, coaches, and educational consultants; Act as the athletic liaison for the admission office; Attend regional and national admission events to attract prospective students and families; Coordinate and manage daily tour guides for prospective families and arrange for coaches to meet prospective students; Interview and evaluate prospective students for admission; Assist in the planning and execution of Holderness School's Fall Open House and Spring Second Visits for over 100 accepted students; Help manage the Holderness Social Media websites; Assisted in the development and implementation of the strategic plan to increase the number of applicants on a 1 year, 3 year, and 5 year span; Developed strategies to attract mission appropriate students; Collected the documents required to make a decision on applicants; Assisted in the admission publication; Assisted in increasing full pay boarding students (15%), female applicants (18%), freshman applicants (20%), and domestic diversity (15%); managed all aspects of the Girls' Basketball program, competing in the Lakes Region league and NEPSAC; Attended regional and national AAU tournaments to identify, evaluate, and recruit student-athletes; Coordinated daily practice plans to enhance successful learning and performance outcomes for both varsity and junior varsity teams; Invited and scheduled scrimmage games among AAU programs; Developed scouting reports and game plan of the opposition for student-athletes to create successful results; Collaborated with Strength and Conditioning coach to develop a health and wellness program; Performed end of the season evaluations with coaches and players; Assisted student-athletes and the college counseling office in the college recruitment process; Coached Skidmore Forward Migle Vilunate; Organized end-of-year team dinner and individual awards; Provided individual skill development program during the season and postseason; Coordinated travel to and from opposing schools for both teams; Collaborated with Athletic Director to manage the team's budget and fundraising initiatives; Member of the Women's Basketball Coaches Association (WBCA)."
+        },
+        {
+            "title": "Student Assistant Coach, Men's Basketball",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "January 2012",
+            "description": "Conducted comprehensive on and off campus recruiting; attended regional tournaments/camps; Attended games and review film of opponent's games; develop scouting reports and recommendations; Assisted in development of daily practice plans to enhance successful learning and performance outcomes; Supervised student manager and practice players; Instructed guard play, creating performance drills and individualized instruction; Managed exchange of game film for non-conference and conference opponents; Managed academic progress of student-athletes, as assigned by head coach; Managed outreach to constituents (parents, fans, coaches, alumni, etc.); Assisted in coordination of team travel arrangements, housing, and meals; Coordinated community service activities between the student-athletes and local community; Coached three All-League players and one All-Rookie team player; Attended and scouted opponent games and reviewed film; developed scouting reports and recommendations; Assisted in development of daily practice plans to enhance successful learning and performance outcomes; Worked with post players, creating performance drills and individualized instruction; Helped lead Thoroughbreds to 16-10 record and Liberty League Tournament berth; Attended and scouted opponent games and reviewed film; developed scouting reports and recommendations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Management and Business",
+            "school": "Skidmore College",
+            "year": 2011
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Holderness School",
+            "year": 2007
+        },
+        {
+            "degree": "Master in Coaching and Athletic Administration",
+            "school": "Concordia University",
+            "year": 2015
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

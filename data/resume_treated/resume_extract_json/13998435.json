@@ -1,0 +1,97 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Interior Designer with a distinct understanding of spatial theory who harbors an exceptional design instinct and is uniquely attuned to the importance of materiality, lighting, composition and the overall design process.",
+    "skills": [
+        "AutoCAD",
+        "3D",
+        "Interior Design",
+        "Lighting",
+        "Space Planning",
+        "Drafting",
+        "Graphic Presentations",
+        "Color and Material Application",
+        "Concept Development",
+        "Documentation",
+        "Furniture Systems",
+        "Budgeting",
+        "Project Management",
+        "HVAC",
+        "Electrical",
+        "Plumbing",
+        "Floor Plans",
+        "Elevations",
+        "Presentations",
+        "Material and Finishes",
+        "Graphic",
+        "Design Process",
+        "Communication",
+        "Team Collaboration"
+    ],
+    "experience": [
+        {
+            "title": "Principle Designer / Owner",
+            "company": "Company Name – City, State",
+            "start_date": "08/2011",
+            "end_date": "Current",
+            "description": "Designed floor plans, elevations, and 3D perspective views and material boards for both in-house review and presentation to the client. Programmed client's need from schematic design to the construction document phase and installation. Created professional presentations to creatively communicate design intent and direction. Participated in furniture selection and documentation of the specifications. Maintained accurate specifications for each project. Ensured that the project vision and design intent were reflected. Visited home sites when necessary to assess and fulfill customer needs. Successfully assisted clients in choosing furnishings that were consistent with their preferences and budget. Produced content for material boards and specification binders for presentation and construction. Reviewed project costs, budgets and adherence to schedules."
+        },
+        {
+            "title": "Principle Designer / Owner",
+            "company": "Company Name – City, State",
+            "start_date": "10/2005",
+            "end_date": "09/2011",
+            "description": "Designed floor plans, elevations, and material boards for both in-house review and presentation to the client. Programmed client's need from schematic design to the construction document phase and installation. Created professional presentations to creatively communicate design intent and direction. Participated in furniture selection and documentation of the specifications. Maintained accurate specifications for each project. Ensured that the project vision and design intent were reflected. Visited home sites when necessary to assess and fulfill customer needs. Produced content for material boards and specification binders for presentation and construction. Developed interior design concepts and prepared interior systems and finishes. Reviewed project costs, budgets and adherence to schedules."
+        },
+        {
+            "title": "CAD Operator/Designer",
+            "company": "Company Name – City, State",
+            "start_date": "07/1997",
+            "end_date": "07/2005",
+            "description": "CAD Operator/Designer for a fast paced New York City MEP firm. Electrical (Power & Lighting), Plumbing, Sprinklers, and some HVAC. Worked closely with Senior Engineers, Architects, and Interior Designers. Filled in wherever needed."
+        },
+        {
+            "title": "Lighting Designer",
+            "company": "Company Name – City, State",
+            "start_date": "10/1995",
+            "end_date": "04/1997",
+            "description": "Developed and designed overall and specialty lighting from conception to completions for the former May Company Stores. Primarily assigned to remodels due to their more complicated nature. Designed floor plans, elevations and created professional presentations to creatively communicate design intent and direction. Maintained accurate specifications for each project. Visited sites when necessary to assess and fulfill client needs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Fine Arts in Interior Design",
+            "school": "Miami International University of Art and Design",
+            "year": "2015"
+        },
+        {
+            "degree": "Bachelor of Fine Arts in Interior Design",
+            "school": "Art Institute of Fort Lauderdale",
+            "year": "1994"
+        },
+        {
+            "degree": "Associate of Applied Science in Interior Design",
+            "school": "Art Institute of Colorado",
+            "year": "1993"
+        }
+    ],
+    "certifications": [
+        "JID Writers Workshop",
+        "Integrating Non-Design Majors Into a Fourth Year Design",
+        "Assessment of Millennial Interior Design Students' Perception Concerning Game-Based Learning",
+        "Encouraging the Extraordinary",
+        "Graphic Language in the Classroom",
+        "Raising the Bar on Pinterest: History of Interiors in a New Context",
+        "Hybrid Spaces of Worship: Muslims in Atlanta",
+        "Visual Environmental Attributes Contributing to Wayfinding in Unfamiliar Environments",
+        "Design for Sight: Typologies Inhibiting Low Vision Access to Interior Spaces",
+        "The Physiological Effects of Window Decal on Pediatric Patients",
+        "Agents of Change: Exploring Diversity and Creating Meaningful Learning Experiences Through A Culturally Immersive Studio Project",
+        "Cultural Agency: Exploring Perception, Product, and Approach"
+    ],
+    "languages": [
+        "English"
+    ]
+}

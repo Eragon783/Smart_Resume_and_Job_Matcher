@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Creative, warm professional with exceptional people skills and a strong ability to build relationships. Dedicated supporter of team, driven to accomplish team and individual goals. Possess the qualities required for building a strong, satisfied employee base.",
+    "skills": [
+        "Communication",
+        "Customer Service",
+        "Computer Proficient",
+        "Needs Assessment",
+        "Organization",
+        "Research",
+        "Writing/Editing"
+    ],
+    "experience": [
+        {
+            "title": "YOGA INSTRUCTOR",
+            "company": "Company Name",
+            "start_date": "Aug 2012",
+            "end_date": "Present",
+            "description": "Teach movement and principles of yoga. Guide students through a variety of postures. Promote physical, mental and spiritual wellness. Demonstrate relaxation and breathing techniques."
+        },
+        {
+            "title": "FIRST GRADE TEACHER",
+            "company": "Company Name",
+            "start_date": "Aug 2010",
+            "end_date": "Present",
+            "description": "Manage a classroom of 20-27 students daily. Plan and implement lessons based on common core standards. Utilize a variety of instructional strategies to incorporate all student learning styles and differentiate lessons accordingly. Maintain and utilize student data in a variety of programs to assess learning, and modify lessons to create meaningful, authentic education. Collaborate with team members and staff to create and implement curriculum based on common core standards. Communicate student progress to parents/guardians."
+        },
+        {
+            "title": "FITNESS AND WELLNESS COORDINATOR",
+            "company": "Company Name",
+            "start_date": "Feb 2009",
+            "end_date": "Dec 2009",
+            "description": "Developed and facilitated diversified fitness programs campus wide. Wrote monthly fitness and nutrition newsletter. Instructed a variety of daily fitness classes."
+        },
+        {
+            "title": "FITNESS INSTRUCTOR",
+            "company": "Company Name",
+            "start_date": "Oct 2007",
+            "end_date": "Dec 2010",
+            "description": "Developed and facilitated fun, safe and effective group exercise programs for senior citizens off site to stimulate mind and body. Motivated students to strive for physical wellness while accommodating diverse fitness levels and special needs."
+        },
+        {
+            "title": "Police Services Specialist II",
+            "company": "Company Name",
+            "start_date": "Jan 1997",
+            "end_date": "Mar 2004",
+            "description": "Police Services Specialist II role; responsibilities not listed in resume."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master in Teaching",
+            "school": "Heritage University",
+            "year": 2010
+        },
+        {
+            "degree": "Bachelor of Arts in Law and Justice",
+            "school": "Central Washington University",
+            "year": 1996
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

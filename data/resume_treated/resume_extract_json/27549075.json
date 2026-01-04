@@ -1,0 +1,74 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Committed and detail-oriented administrative professional with exceptional customer service and problem solving skills. Organized and energetic team player with a strong work ethic.",
+    "skills": [
+        "Microsoft Word",
+        "Excel",
+        "Microsoft Power point",
+        "Outlook",
+        "Spreadsheet development",
+        "Employee training and development",
+        "Coordination",
+        "Deadline-oriented",
+        "Creative problem solving",
+        "iMs Connexis proficient",
+        "accounts receivable",
+        "administrative",
+        "billing",
+        "budgeting",
+        "contracts",
+        "client databases",
+        "documentation",
+        "grant writing",
+        "invoicing",
+        "payroll",
+        "personnel",
+        "public relations",
+        "reporting",
+        "sales",
+        "staffing",
+        "phone"
+    ],
+    "experience": [
+        {
+            "title": "Coordinator",
+            "company": "Company Name",
+            "start_date": "2003-07",
+            "end_date": "Present",
+            "description": "Hire, train and supervise all interns, part-time and contracted employees. Responsible for allocation, acquisition, and budgeting of monies through grant writing and invoicing. Daily communication with Superior Court Judge/staff regarding compliance matters, court calendars, updates/changes in status, grant information and treatment provider standards. Review and present treatment provider contract to Superior Court Judge and Board of Commissioners. Review and present the Department of Behavioral Health and Developmental Disabilities (DBHDD) contracts to Board of Commissioners and submit all qualifications, license and insurance information of treatment providers. Evaluate program through data reporting, grant writing, and other documentation and submit findings with recommendations to the Administrative Office of the Courts and the Criminal Justice Coordinating Council. Liaison between Drug Court/Superior Court Judge, District Attorney's Office, Public Defender's Office, Superior Court Clerk's Office, Carroll County Jail staff, Sheriff's office staff, Carrollton Police Department, and Georgia Department of Corrections Probation Division staff and others. Liaison between DBHDD and Carroll County Board of Commissioners. Referral source to Pathways Community Services Board, Goodwill Industries, Georgia Department of Labor, West Georgia Technical College, local staffing agencies, treatment facilities and half-way houses/others. Responsible for case flow management. Maintain 70+/- clients at any given time. Maintain a fully functional drug testing lab including, but not limited to, ordering all reagents, supplies, sample collections as well as interpret and report results to appropriate agencies. Responsible for building relationships within the community through public relations."
+        },
+        {
+            "title": "Retail Sales Representative",
+            "company": "Company Name",
+            "start_date": "2003-05",
+            "end_date": "2007-06",
+            "description": "Responsible for sales and maintenance and yearly sales quotas. Exceeded monthly quotas. Trained and updated employees on computer systems and phone operations. Responsible for all store functions including transactions, audits, and reconciliation of daily receipts. Verified service contracts with customers and advised them of the circumstances of early termination/penalties/overage fees. Evaluated customer billing and propose cost-savings to customer."
+        },
+        {
+            "title": "Sales Manager",
+            "company": "Company Name",
+            "start_date": "1999-08",
+            "end_date": "2003-02",
+            "description": "Hire, train, and supervise part-time personnel. Responsible for all accounts receivable and payable. Prepare payroll and legal documents according to federal and state regulations. Maintained appointment calendar of buyers, sales, and shows. Maintained database of clientele and sent notifications of sales and shows. Coordinated Apparel and Gift Mart Shows eight times per year. Assisted in all merchandising of showroom. Responsible for decisions made regarding design and manufacture of apparel."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Criminal Justice",
+            "school": "University of West Georgia",
+            "year": "1995"
+        }
+    ],
+    "certifications": [
+        "National Drug Court Conference 2012",
+        "National Drug Court Conference 2009",
+        "National Mental Health Court Conference 2009",
+        "National Judicial College 2007",
+        "Drug Court Coordinator Training 2005",
+        "State of Georgia Drug Court Conference 2005"
+    ],
+    "languages": []
+}

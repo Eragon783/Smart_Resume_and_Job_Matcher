@@ -1,0 +1,74 @@
+{
+    "name": "Boppana Rao",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "A results-driven and business minded technology leader with 20+ years of experience in technology and software development. A professional who is passionate about developing people and teams to reach their greatest potential. A thought leader that partners with business to drive strategy from conception to execution. A team player that places a priority on networking, relationship building and diversity to achieve the greatest possible outcome. A progressive technology leader with an innovative and growth mindset.",
+    "skills": [
+        "People Centered Leadership",
+        "Strategic & Tactical Planning",
+        "Software Engineering",
+        "Designing & Architecting Systems",
+        "Coaching and Talent Development",
+        "Building a Culture of Innovation and Engagement",
+        "Transformation and Change Advocate"
+    ],
+    "experience": [
+        {
+            "title": "Vice President Information Technology - Software Engineering",
+            "company": "Safelite Group",
+            "start_date": "2018-03",
+            "end_date": "Present",
+            "description": "Leads all aspects of IT Application Development and Corporate Systems teams (100+ associates plus consultants) with a $20M budget; drives capital transformative projects for the full software lifecycle; champions Fit for Growth; oversees cloud and microservices/containers-based architecture on AWS; leads robotic process automation (RPA) initiatives with anticipated savings of $2-3M per year."
+        },
+        {
+            "title": "Assistant Vice President - Solutions Delivery",
+            "company": "Safelite Group",
+            "start_date": "2015-07",
+            "end_date": "2018-03",
+            "description": "Defined and executed product vision for Safelite's core systems architecture to drive growth across 5 national contact centers, 600+ retail locations, 6000 mobile technicians, 90 warehouses, 2 distribution centers, and multiple customer-focused web applications. Drove Agile adoption, built autonomous product teams, and extended core systems for omni-channel service. Led customer engagement initiatives, launched the Road to Innovation program, and delivered the first cloud-based end-to-end claim solution; sunsetted legacy AS-400; oversaw MuleSoft integration."
+        },
+        {
+            "title": "Director Of Technology",
+            "company": "Safelite Group",
+            "start_date": "2013-04",
+            "end_date": "2015-07",
+            "description": "Managed web-responsive self-service portals for policyholders, agents, claimants and customers; upgraded safelite.com to a modern web interface; increased online conversion/self-service usage from 15% to ~60% in 3-4 years. Led RESTful APIs for carrier ecosystems, implemented end-to-end IVR with partner API integrations, and oversaw inventory management and forecasting systems to Oracle EBS and GAINS."
+        },
+        {
+            "title": "Information Technology Manager",
+            "company": "Safelite Group",
+            "start_date": "2008-02",
+            "end_date": "2013-04",
+            "description": "Transformed Safelite's systems and IT teams across Safelite Solutions, Safelite AutoGlass and Service AutoGlass; re-platformed legacy systems; led distributed service architecture using .NET; implemented new glass claims management system and migrated 200+ carriers' claim processing from legacy mainframe; designed distributed architecture using .NET C# and SQL Server."
+        },
+        {
+            "title": "Team Lead",
+            "company": "Safelite Group",
+            "start_date": "2003-06",
+            "end_date": "2008-02",
+            "description": "Led IT teams within Safelite's technology organization (role summarized from resume)."
+        },
+        {
+            "title": "Information Technology Consultant",
+            "company": "Safelite Group",
+            "start_date": "1998-04",
+            "end_date": "2003-06",
+            "description": "Provided information technology consulting and project support during early career at Safelite."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Mini MBA",
+            "school": "Boston University",
+            "year": null
+        },
+        {
+            "degree": "BS Electronics And Communications Engineering",
+            "school": "Anjuman Engineering College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To be able to join an organization where I can utilize my proficiency with accounting principles, along with a flair for accuracy towards performing my duties.",
+    "skills": [
+        "Accounting",
+        "General accounting",
+        "Auditing",
+        "Balance sheets",
+        "Billings",
+        "Budget",
+        "Closing",
+        "Contracts",
+        "CPA",
+        "Credit",
+        "Client",
+        "Clients",
+        "Finance",
+        "Financial",
+        "Financial Accountant",
+        "Financial audit",
+        "Financial reporting",
+        "Financial Statements",
+        "Funds",
+        "PHP",
+        "Inspection",
+        "Internal audit",
+        "Inventory",
+        "Meetings",
+        "Exchange",
+        "Office",
+        "Payables",
+        "Procurement",
+        "Quality",
+        "Maintaining files",
+        "Reporting",
+        "Securities",
+        "Tax",
+        "Tax Returns",
+        "Phone",
+        "Year-end"
+    ],
+    "experience": [
+        {
+            "title": "Finance Specialist",
+            "company": "Company Name",
+            "start_date": "Nov 2014",
+            "end_date": "Jan 2015",
+            "description": "Duties included processing vendor invoices, processing monthly rental payments, handling petty cash, reviewing BAH reconciliation of outgoing residents, assisting in out processing, inquiries handling, mail distribution, collecting rent from military residents not allocated in pay slips, and processing credit card payments for civilian residents."
+        },
+        {
+            "title": "Financial Accountant",
+            "company": "Leighton Asia",
+            "start_date": "May 2008",
+            "end_date": "Sep 2011",
+            "description": "Worked under the Finance and Administration Manager; supervised input of financial data, monthly closing, client billings and collections, cash flows, budgeting and reporting packages; prepared Financial Statements and Tax Returns; liaised with external auditors; managed petty cash, contracts, and internal controls; supported internal audit and procurement activities."
+        },
+        {
+            "title": "Associate Auditor",
+            "company": "SGV & Co.",
+            "start_date": "Nov 2006",
+            "end_date": "May 2008",
+            "description": "Participated in financial audits across various industries; worked individually and in teams; contributed to identifying and correcting errors, ensuring accuracy and timely delivery of audit work; engaged with clients and auditors during engagements."
+        },
+        {
+            "title": "Audit Staff",
+            "company": "Sicangco, Menor, Villanueva & Co., CPAs",
+            "start_date": "Apr 2005",
+            "end_date": "Jun 2005",
+            "description": "On-the-job training for audit; assisted in financial audit, review and evaluation of controls and related professional services."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Accountancy",
+            "school": "Holy Angel University",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        "Philippine CPA Licensure"
+    ],
+    "languages": []
+}

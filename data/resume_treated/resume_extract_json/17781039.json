@@ -1,0 +1,51 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced manager with excellent client and project management skills. Action-oriented with strong ability to communicate effectively with technology, executive, and business audiences. Analyst with extensive experience in Microsoft Office. Proficiencies include Microsoft Word and Microsoft Outlook. Can effectively multitask in challenging situations and meet critical deadlines. I am self-motivated and work well independently with little supervision.",
+    "skills": [
+        "Event Management and Promotion",
+        "Leader",
+        "Strong Negotiation Skills",
+        "Team Building",
+        "Team Leadership"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "2016-02",
+            "end_date": "2016-04",
+            "description": "Sales of firearms and accessories. Developed tool to track and monitor personal sales opportunities, deals in progress and finished contracts. Took daily inbound calls and key-entered orders, faxes, backorders and credit memos for assigned accounts and clients. Consistently met and exceeded department expectations for productivity and accuracy levels. Developed promotional programs to optimize revenue levels."
+        },
+        {
+            "title": "Co-Owner/Manager",
+            "company": "Palace Pet Grooming",
+            "start_date": "2008-02",
+            "end_date": "2016-01",
+            "description": "Defined strategies and business plans for Palace Pet Grooming. Directed strategic initiatives to achieve a strong business plan that launched an inspired husband-and-wife dream, creating a business model that is thriving. Created sales strategies to promote advertising offerings and motivate larger deals. Completed strategic competitive analysis by assessing strengths and weaknesses of competitors. Worked effectively in a cross-functional, fast-paced environment. Developed innovative product solutions grounded in understanding of customer needs. Spearheaded blogs and social media content. Produced engaging online marketing campaigns. Led concept development and organized sales and operations resources."
+        },
+        {
+            "title": "Correctional Officer",
+            "company": "Company Name",
+            "start_date": "2003-01",
+            "end_date": "2009-10",
+            "description": "Maintain security within the institution and oversee the health and safety of staff and prisoners. Patrol and inspect units, yards, buildings, prisoners, prisoner property and clothing, etc., to ensure welfare, safety and security. Maintain surveillance of grounds by foot and from vehicle. Perform inspections and searches of premises and cells, checking for contraband and compliance with regulations. Conduct searches of prisoners and visitors. Observe prisoners directly and indirectly through visual, audio and video monitoring, to ensure the physical safety of prisoners, staff and the public. Monitor radio transmissions between staff to respond to calls. Provide escort and security for visitors. Enforce institutional rules and Standard Operating Procedures (SOP). Initiate disciplinary procedures and enforce rules. Supervise prisoners and monitor inmate phones and mail. Apply the appropriate level of force as needed. Compile data for incident and other required reports. Stabilize and provide backup in emergency situations for the protection of the public, staff and prisoners."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma: General Studies Automotive Technology",
+            "school": "Yosemite High School",
+            "year": "1991"
+        },
+        {
+            "degree": "Automotive Technology",
+            "school": "Universal Technical Institute",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

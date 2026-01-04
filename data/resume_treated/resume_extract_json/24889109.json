@@ -1,0 +1,82 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Stuttgart, Germany",
+    "summary": "Information Technology Specialist with Security+ certification and extensive LAN/WAN, VOIP, and information systems experience in high-visibility government settings. Proficient in network and server administration, disaster recovery, and leading technical teams; TS-SCI eligible. Strong leadership, training, and documentation skills.",
+    "skills": [
+        "Army",
+        "Basic",
+        "Cable",
+        "Cat 5",
+        "Cat 6",
+        "Cisco",
+        "Encryption",
+        "Customer Support",
+        "documentation",
+        "Firewalls",
+        "FTP",
+        "information systems",
+        "Information Technology",
+        "Messaging",
+        "Access",
+        "Exchange",
+        "Windows 7",
+        "monitors",
+        "Network",
+        "Networks",
+        "Organizational",
+        "personnel",
+        "radio",
+        "reporting",
+        "routers",
+        "Strategic",
+        "switches",
+        "TCP/IP",
+        "Technical Support",
+        "troubleshooting",
+        "VOIP",
+        "VPN",
+        "wiring"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Specialist",
+            "company": "Information Systems Specialist (Company Name)",
+            "start_date": "2011-07",
+            "end_date": "2012-12",
+            "description": "Level 1 and 2 Technical Support during Strategic Operations in Stuttgart, Germany for classified and unclassified systems. Trained in Information Assurance security. Implemented and sustained satellite and radio communications for all computer based information systems and VOIP. Maintained and organized important IT documentation. Deployed countermeasures against security breaches.Implemented Windows 7 across Garrison units. Direct support for Senior Officer Staff. Responsible for several million dollars in equipment and for personnel. Remedy / Exchange / CPOF / SOFTCau-HARDCau / Organizational Unit Administrator / VPN / FTP / TCP/IP / Firewalls / VOIP / Remote Connectivity / Encryption / Netscreen / Cisco / Tier 2 Helpdesk."
+        },
+        {
+            "title": "Cable Installer and Maintainer",
+            "company": "Company Name, Stuttgart, Germany",
+            "start_date": "2010-11",
+            "end_date": "2011-07",
+            "description": "Cable installer and maintainer for multiple Army posts in Stuttgart, Germany including 6 months in a combat zone in Africa. Extensive knowledge in wiring infrastructure, troubleshooting, Cat 5 and 6, and fiber termination. Maintained and organized racks, patch panels, cable trays, switches and routers. Working knowledge of terminating, splicing, testing and troubleshooting copper and fiber cable using Fluke Cable Analyzers. Accountable for thousands of dollars of equipment to include Fluke Networks Products."
+        },
+        {
+            "title": "Operator",
+            "company": "Defense Messaging Center (52d Signal Battalion)",
+            "start_date": "2009-12",
+            "end_date": "2010-11",
+            "description": "Facilitated Defense Messaging System (DMS) in support of Headquarters, United States European Command (USEUCOM) and other DoD activities. Operated and maintained CP-XP, AMHS, DII Guard and Certificate Workstations in support of DMS, SIPRNET and NIPRNET. Performed after-hours Network Operations, including monitoring SPECTRUM, recall of essential personnel and situational management, and processed trouble tickets. Responsible for over $100 million worth of equipment and repair parts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts in Business Administration",
+            "school": null,
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        "CompTIA Security+ Certified (Oct 2011)",
+        "SIPR/NIPR Access Point (SNAP) Terminal Certification (June 2011)",
+        "Fiber Optic Connectors and Splicing Basic Installation Course (Aug 2010)",
+        "Information Technology Specialist Training (25 weeks) (Nov 2009)",
+        "Information Technology Online Training (223 hours) (Mar 2009-Jan 2012)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

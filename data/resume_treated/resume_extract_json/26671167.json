@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "My goal is to obtain a position where I can utilize and enhance my education and skills. Highlights include excellent communication skills, self-directed, accurate and detailed, certified in Basic Life Support (BLS) and Electrocardiography Certification (EKG); independent worker; strong organizational skills; energetic work attitude; courteous demeanor. Recognized by peers and management for going above and beyond normal job functions; top leader while working at Alexander Dawson College; experience in quality assurance, human resources, and hospitality services; demonstrated ability to manage multiple roles and increase efficiency.",
+    "skills": [
+        "Excellent communication skills",
+        "Self-directed",
+        "Accurate and detailed",
+        "Basic Life Support (BLS) Certification",
+        "Electrocardiography Certification (EKG)",
+        "Independent worker",
+        "Strong organizational skills",
+        "Energetic work attitude",
+        "Courteous demeanor",
+        "Professional and friendly",
+        "Careful and active listener",
+        "Exceptional multi-tasker",
+        "Delivers exceptional customer service",
+        "Computer knowledge and skills",
+        "Neat, clean and professional appearance",
+        "Reliable team worker",
+        "Engaging personality",
+        "Detail oriented",
+        "Conflict resolution"
+    ],
+    "experience": [
+        {
+            "title": "HR Recruiter/Administration",
+            "company": "DIRECTV",
+            "start_date": "11/2014",
+            "end_date": "Current",
+            "description": "Generate new hire paperwork; keep all government documents up to date; assist with new employees and documentation; make copies, badges, and packets; transfer 125 MSO sheets into the computer per week; post job ads to bring in candidates for open positions; call and interview candidates over the phone; schedule and confirm appointments for management team; assist multiple managers with office issues and staff issues; coordinate department functions for a team of 10 employees; update employee accounts and information regularly; create databases and spreadsheets to improve inventory management and reporting accuracy; develop more efficient filing systems; coordinate admission processes and prepare agreement packets; handle and process confidential employee information."
+        },
+        {
+            "title": "Hostess",
+            "company": "Unknown",
+            "start_date": "09/2014",
+            "end_date": "11/2014",
+            "description": "Tasks as Hostess: Friendly greeted customers; professionally answered the phone; had complete knowledge of the entire restaurant and menu; completed cleaning checklists; guided guests to appropriate tables; helped book reservations for large parties and groups; ensured large parties were taken care of and satisfied; efficiently used OpenTable to take reservations and seat guests; dealt with customer issues calmly, quickly, and professionally."
+        },
+        {
+            "title": "Hostess/Cashier/Busser/Food Runner/ Expo",
+            "company": "Unknown",
+            "start_date": "09/2013",
+            "end_date": "09/2014",
+            "description": "Cashier/Hostess: Professionalism; Cooperated with fellow coworkers; Ability to multitask; Satisfied customer requests; Greeted customers in a friendly and welcoming manner; Answered telephones quickly and professionally; Completed daily checklists; Exceeded customer and employer expectations; Reliable and willing to cover shifts. Food Runner/Busser: Delivered food in a timely manner; Ensured a clean and orderly work environment; Dealt with customer complaints and issues; Helped keep customer complaints to a minimum; Responded to customers' requests immediately; Answered phones and took orders. Expo: Made salads and side dishes; Added final ingredients and toppings to food; Restocked all dishes and silverware; Efficiently communicated with cooks to ensure orders were correct; Made sure all counter spaces were clean and orderly; Completed cleaning checklist; Helped with customer complaints and issues."
+        },
+        {
+            "title": "Event Coordinator",
+            "company": "Coyote U-Night Community Fundraiser",
+            "start_date": "02/2012",
+            "end_date": "02/2012",
+            "description": "Brainstormed event ideas; Oversaw budget plans; Oversaw 5 coordinating groups; Responsible for advertisement distribution and media coverage; Responsible for communication with clientele; Coordinated with 100 teachers to help with fundraiser; Ensured safety for 2,000 people."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Southwest Career and Technical Academy",
+            "year": "2014"
+        },
+        {
+            "degree": "Pre-Nursing",
+            "school": "College of Southern Nevada",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Basic Life Support (BLS)",
+        "Electrocardiography Certification (EKG)"
+    ],
+    "languages": []
+}

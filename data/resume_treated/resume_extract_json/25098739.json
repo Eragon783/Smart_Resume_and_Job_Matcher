@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A motivated hard working individual that is willing to learn and accomplish any task that is given to me. I've always been dependable and reliable. Motivated to get along well with others and exceed expectations. Thrives in a fast-paced environment and works to complete projects quickly and efficiently. Experienced Construction Laborer knowledgeable about the tools, materials and methods used in road construction.",
+    "skills": [
+        "Demolition",
+        "Asphalt",
+        "Driving (excellent driving record)",
+        "Strong communication skills",
+        "OSHA Certified",
+        "Construction Workers Union Local 265",
+        "Residential construction",
+        "Sandbagging",
+        "Traffic control",
+        "Laying the liner",
+        "Painting"
+    ],
+    "experience": [
+        {
+            "title": "Construction Worker",
+            "company": "Company Name, City, State",
+            "start_date": "March 2012",
+            "end_date": "October 2014",
+            "description": "Planted plants in the ground at the Cincinnati city parks, cleaned the parks."
+        },
+        {
+            "title": "Construction Worker",
+            "company": "Company Name, City, State",
+            "start_date": "March 2008",
+            "end_date": "March 2012",
+            "description": "Flagged traffic and set traffic control."
+        },
+        {
+            "title": "Construction Worker",
+            "company": "Company Name, City, State",
+            "start_date": "August 2005",
+            "end_date": "February 2008",
+            "description": "General cleaning the college dorms out for the year. Helping the foreman out when he needed me to assist him with the ceiling tile."
+        },
+        {
+            "title": "Construction Worker / Painter",
+            "company": "Company Name, City, State",
+            "start_date": "June 2005",
+            "end_date": null,
+            "description": "Painting, cleaning up some remodeling houses and apartments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "West Fulton High School",
+            "year": 1985
+        },
+        {
+            "degree": "Training/Certification",
+            "school": "Drexel J. Thrash Training Center",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "OSHA Certified"
+    ],
+    "languages": []
+}

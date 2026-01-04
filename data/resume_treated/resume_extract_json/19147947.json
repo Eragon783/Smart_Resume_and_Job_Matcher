@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Adaptable sales and warehousing professional with extensive experience in material handling, inspections, shipping and receiving, and sales. Focused on continual process improvement and cost reduction. Skilled in safety, accuracy, communication, training, and cross-functional collaboration to drive operational efficiency.",
+    "skills": [
+        "Forklift operation (stand up and sit down)",
+        "Shipping and receiving",
+        "Inventory management",
+        "Process improvement",
+        "Cost reduction",
+        "Safety-oriented",
+        "Communication",
+        "Team leadership / training",
+        "Data entry / order processing",
+        "ERP and WMS proficiency",
+        "Quality assurance",
+        "DOT pre-trip inspections",
+        "Loading/unloading",
+        "Cross-functional collaboration"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name - City, State",
+            "start_date": "2013-07",
+            "end_date": "2015-10",
+            "description": "Averaged 50 hours per week; handled daily inbound calls; entered orders, faxes, backorders and credit memos; tracked opportunities, deals in progress and completed contracts; met and exceeded productivity and accuracy goals; prepared bi-monthly billings and proposals; participated in incentive programs."
+        },
+        {
+            "title": "Warehouse Lead Rep/Driver",
+            "company": "Company Name - City, State",
+            "start_date": "2011-01",
+            "end_date": "2013-07",
+            "description": "Supervised material flow, storage and global order fulfillment; maintained stock records; oversaw shipping; operated forklift (stand up and sit down); used ERP/WMS for inventory and reporting; performed DOT pre-trip inspections; coordinated delivery schedules."
+        },
+        {
+            "title": "Receiving/ Stocker/ Inventory Assistant",
+            "company": "Company Name - City, State",
+            "start_date": "2007-09",
+            "end_date": "2010-11",
+            "description": "Verified orders; processed inbound shipments; stocked using forklift; conducted audits; QA procedures; supported planning and budgeting; provided assistance to resolve QA problems; extensive knowledge of product characteristics and safety practices."
+        },
+        {
+            "title": "Truck Loader/Case Pack/ Re-Pack",
+            "company": "Company Name - City, State",
+            "start_date": "2006-08",
+            "end_date": "2007-09",
+            "description": "Implemented shipping policies to meet sales targets; inspected loads; loaded trucks; cross-trained in multiple departments; prepared orders for shipping; ensured safe handling and timely delivery."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Ardmore High School",
+            "year": "2004"
+        },
+        {
+            "degree": "Completed one semester",
+            "school": "University Center of Southern Oklahoma",
+            "year": null
+        },
+        {
+            "degree": "Completed one semester",
+            "school": "Prairie View A&M University",
+            "year": null
+        },
+        {
+            "degree": "Completed one year",
+            "school": "University of Central Oklahoma",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

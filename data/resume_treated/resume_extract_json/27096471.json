@@ -1,0 +1,98 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Human Resource Professional highly effective at incorporating creative leadership skills to achieve business objectives. Directs projects that improve efficiency while meeting deadlines and budget requirements.",
+    "skills": [
+        "ADA",
+        "Benefits",
+        "Budget",
+        "Business process improvement",
+        "Interpersonal communication",
+        "Consulting",
+        "Client",
+        "Employee Relations",
+        "Filing",
+        "HR",
+        "Human Resources",
+        "Legal Compliance",
+        "Director",
+        "Access",
+        "Team-building",
+        "Networking",
+        "Organizational Development",
+        "Payroll",
+        "Policies",
+        "Project management",
+        "Reporting",
+        "Risk management",
+        "Sales",
+        "Scanning",
+        "Seminars",
+        "Staffing",
+        "Strategy",
+        "Strategic Planning",
+        "Phone",
+        "Training programs",
+        "Vendor Management"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name, City, State",
+            "start_date": "2015-01",
+            "end_date": "Present",
+            "description": "Reviews federal and state laws to confirm and enforce company compliance. Wrote ISO 9000-level HR instructions for employee in and out processing. Works with senior-level management to create fair and consistent HR policies and procedures. Manages all salary changes stemming from merit increases, promotions, bonuses and pay adjustments."
+        },
+        {
+            "title": "Career Development Program Director, Community Outreach Volunteer",
+            "company": "Company Name, City, State",
+            "start_date": null,
+            "end_date": null,
+            "description": "Works closely with members in all aspects of their job search, including preparation of resumes, interview techniques, participating in mock interviews, and job search strategies. Identifies and connects clients to potential jobs, schools, military or other training programs for participants. Performs mock interviewing, professional online image consulting and general business competency training."
+        },
+        {
+            "title": "Compensation and Benefits Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "2013-10",
+            "end_date": "2014-12",
+            "description": "Designed, and introduced the organization's first formal workplace accommodation process and procedure. Implemented the organization's first results- based wellness incentive campaign-produced over 35% ROI within first year, reduction in absentees, turnover and overall health of the employee population. Responsible for $3.5 million departmental budget with multiple vendor relationships leading employee resources groups of up to 15 staff members. Re-engineered multi -faceted HR communication channels and strategy including: web- based solutions; total rewards statements, and online enrollment. Incorporated diversity focus in benefits programs and policies. Created extensive health management programs to increase engagement and drive down cost with evolution toward outcome based programs. Developed and implemented overall benefits strategy by adding several employee wellness activities and events at no cost. Consolidated several medical plans resulting in improved benefit levels, reporting, satisfaction, and a 10.3% reduction in annual expenses."
+        },
+        {
+            "title": "Commercial Relationship Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2010-07",
+            "end_date": "2013-10",
+            "description": "Responsible for retention, in-group growth, and the sale of new products and services into existing accounts. Researched departmental systems to improve business process improvement resulting in $300k yearly saving. Led team in overall sales efforts including small business calls, outbound sales, hosts' sales events and other networking seminars. Created team-building activities to strengthen and enhance interpersonal communication. Utilized multiple learning methods and technologies to deliver client training sessions, including in person classroom, virtual classroom, self- study, and phone/conferencing."
+        },
+        {
+            "title": "Benefits Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "2006-07",
+            "end_date": "2008-10",
+            "description": "Counseled employees and management on leave of absence policies and procedures to ensure employees had all appropriate information including interpretation of multi- state and federal laws, COBRA, FMLA, HIPPA, ADA, etc. Liaison between the policyholder and The Standard. Responded to claim and coverage inquires, including verifying appropriate premium administration. Developed effective relationships with Human Resources, benefits and payroll staff throughout the policyholder's business units to ensure a positive customer experience for the employer and employee. Participated in the development of the employee module for HR Intranet, which allowed employees to access HR policies and be informed regarding important benefit and policy changes. Utilized project management skills for implementing on-line employment application and benefits enrollment, and a paperless/scanning filing system."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Human Resource Development",
+            "school": "Webster University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts in Mass Communication",
+            "school": "Xavier University",
+            "year": null
+        },
+        {
+            "degree": "MBA in Finance",
+            "school": "University of Missouri Columbia",
+            "year": "2017"
+        }
+    ],
+    "certifications": [
+        "Certified Facilitator-Look Good Feel Better"
+    ],
+    "languages": []
+}

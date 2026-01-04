@@ -1,0 +1,76 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Actively seeking full time opportunities from December 2019.",
+    "skills": [
+        "TCP/IP",
+        "UDP",
+        "HTTP/S",
+        "DHCP",
+        "DNS",
+        "STP",
+        "HSRP",
+        "ISIS",
+        "RIP",
+        "OSPF",
+        "MPLS",
+        "FTP",
+        "SMTP",
+        "IPSec",
+        "VLAN",
+        "VPN",
+        "Wireshark",
+        "VMware",
+        "Cisco Packet Tracer",
+        "VirtualBox",
+        "Oracle",
+        "Windows Server",
+        "AWS",
+        "Active Directory",
+        "Windows",
+        "Linux",
+        "CentOS",
+        "Ubuntu",
+        "RHEL",
+        "Python",
+        "Bash"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology and AWS Admin Intern",
+            "company": "Company Name – City, State",
+            "start_date": "04/2019",
+            "end_date": "Present",
+            "description": "Researched and implemented a secure cloud infrastructure for migrating the financial data into AWS with seamless integration for company's financial department. Achieved an overall increment of 30% in efficiency by migrating the company's infrastructure to AWS cloud. Reduced the company's infrastructure cost by 10 times. Implemented secure off-site backups through scheduled weekly SSH dumps to remote server. Configured and troubleshot switches, routers and firewalls using TCP/IP protocols."
+        },
+        {
+            "title": "Network Engineer Intern",
+            "company": "Company Name",
+            "start_date": "10/2015",
+            "end_date": "",
+            "description": "Built LAN and WAN for small-scale business enterprises using HTTP, DHCP, DNS, OSPF, VLAN."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Telecommunication and Networks",
+            "school": "Northeastern University; Solapur University",
+            "year": "12/2019"
+        },
+        {
+            "degree": "Bachelor of Engineering in Electronics and Telecommunications",
+            "school": "Solapur University",
+            "year": "06/2016"
+        }
+    ],
+    "certifications": [
+        "AWS Certified Solutions Architect- Associate",
+        "Cisco Certified Network Associate - CCNA 200-125"
+    ],
+    "languages": [
+        "Python",
+        "Bash"
+    ]
+}

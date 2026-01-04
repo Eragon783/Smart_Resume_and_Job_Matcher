@@ -1,0 +1,80 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "+1 7526269604",
+    "location": "",
+    "summary": "Innovative Electrical Engineer with over four years experience in operations management, CAD drafting, and component design. Skilled in designing, developing and testing electronic products, improving workflow efficiency, and managing multiple projects under tight deadlines.",
+    "skills": [
+        "C",
+        "CAD",
+        "capital expenditures",
+        "CATIA",
+        "CRM",
+        "data acquisition",
+        "English",
+        "experiment",
+        "French",
+        "inspection",
+        "instruction",
+        "interpretation",
+        "Maple",
+        "MATLAB",
+        "Nastran",
+        "novel",
+        "optimization",
+        "quality",
+        "receiving",
+        "research",
+        "scheme",
+        "Spanish",
+        "technical support",
+        "troubleshooting",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Aviation Engineer",
+            "company": "Company Name, City",
+            "start_date": "2015-01",
+            "end_date": "Present",
+            "description": "Established and helped in the production line of the Auxiliary Power Unit overhaul facility. Focused on APU units GTCP85-180-L-C, GTC85-56-70A-71-72, and T-62T-40-1 mainly used on C-130 Hercules and helicopters. Involved in repair scheme design, test cell, operational performance, drawings, manual interpretation, tooling, equipment improvement, and troubleshooting of engine problems, both in house and in the field. Worked on instruction writing, reports, as well as building document revisions. Developed and optimized tooling, manufacturing, and ground support equipment reviews for open issues or improvements. Worked on PT6A, T56, and 501 engines mainly in accessory testing and test cell operations. Designed tooling equipment, electrical circuitry, and hydraulic systems using CATIA V5. Designed and built testing bench for APU using data acquisition system and measurement devices such as digital readouts, pressure gauges, and level sensors. Provided technical support to the Accessory shop department, Engineering department, Machine Shop, Test cell, Management, and the Operation's department. Performed receiving and detailed inspection of incoming parts, accessories, and engines to the overhaul facility."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name, City",
+            "start_date": "2013-01",
+            "end_date": "2013-01",
+            "description": "Provided technical support in part design using CATIA for aircraft implementation. Participated in the improvements of engineering software, and designed several components for fuel controls, starters, coordinators and fuel nozzles for different turboprop engines. Developed linearization software to help the pre-test process of 501 coordinators."
+        },
+        {
+            "title": "Aerospace Engineer",
+            "company": "Company Name, City",
+            "start_date": "2014-01",
+            "end_date": "2015-01",
+            "description": "Member of the AIAA and the front line team that developed a novel cooling design system for turbine blades. Used STARCCM and CAD to simulate geometries in wind tunnel; analyzed pressures, temperatures, velocities among other important physical quantities in 40 geometries. Contributed to the optimization process of turbine blades and higher temperature levels and efficiency. A research paper was written and patented."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Aerospace Engineering",
+            "school": "Embry-Riddle Aeronautical University",
+            "year": "2015"
+        },
+        {
+            "degree": "Applied Mathematics",
+            "school": "Embry-Riddle Aeronautical University",
+            "year": "2014"
+        },
+        {
+            "degree": "High School Degree",
+            "school": "Unidad Educativa San Nicola, Venezuela",
+            "year": "2010"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English (fluent)",
+        "Spanish (native)",
+        "French (Beginner)"
+    ]
+}

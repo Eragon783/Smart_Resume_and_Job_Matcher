@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Punctual, customer-focused professional focused on exceeding expectations and building customer loyalty. Flexible schedule and strong communicator who consistently meets and exceeds customer service goals. Reliable team player with an enthusiastic, outgoing attitude.",
+    "skills": [
+        "Interpersonal communication",
+        "High customer service standards",
+        "Adapt to diverse groups",
+        "Excellent people skills",
+        "Skilled problem solver",
+        "Consistently meets sales goals",
+        "Personable",
+        "Motivated team player",
+        "Conflict resolution proficiency",
+        "Strong problem solving ability",
+        "Active listener",
+        "Exceptional organizational skills",
+        "Professional and friendly",
+        "Careful and active listener",
+        "Multi-tasking",
+        "Organizational skills",
+        "Great telephone and computer communication skills"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2013-10",
+            "end_date": "2014-01",
+            "description": "Priced merchandise, stocked shelves and took inventory of supplies. Alerted customers to upcoming sales events and promotions. Identified potential shoplifters and alerted management. Determined customer needs by asking relevant questions and listening actively to the responses. Answered customer telephone calls promptly and in an appropriate manner. Followed merchandising guidelines to present visually appealing displays. Followed merchandising guidelines to present visually appealing displays. Resolved all customer complaints in a professional manner while prioritizing customer satisfaction."
+        },
+        {
+            "title": "Childcare Professional",
+            "company": "City, State",
+            "start_date": "2013-03",
+            "end_date": "2016-01",
+            "description": "Carefully monitored children's play activities. Prepared meals per employers instruction or om my own if instruction was not provided Disciplined children and recommended other measures to correct behavior. Incorporated music and art activities to encourage creativity and expression. Routinely picked children up from school and activities. Escorted children on outings and trips to local parks and zoos. Upheld all CPR and First Aid certifications."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "2011-10",
+            "end_date": "2012-05",
+            "description": "Operated a cash register for cash, check and credit card transactions with 100% accuracy. Cleaned and organized the store, including the checkout desk and displays. Alerted customers to upcoming sales events and promotions. Identified potential shoplifters and alerted management. Completed all point of sale opening and closing procedures, including counting the contents of the cash register. Handled all customer relations issues in a gracious manner and in accordance with company policies. Welcomed customers into the store and helped them locate items. Used time efficiently when not serving customers, including folding clothes and cleaning out fitting rooms."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Prospect Mountain High School",
+            "year": "2010"
+        },
+        {
+            "degree": "Expanded Functions Dental Assistant Certificate",
+            "school": "New Hampshire Technical Institute",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "CPR",
+        "First Aid"
+    ],
+    "languages": []
+}

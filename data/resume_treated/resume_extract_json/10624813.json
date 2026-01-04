@@ -1,0 +1,133 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior software executive and engineering operations leader with 15+ years of leadership in strategic planning, product development, and building high-performing global engineering teams. Experienced in Agile software development, process improvement, and driving engineering excellence, with P&L responsibility and a track record of aligning technical metrics with business KPIs to increase revenue and reduce costs.",
+    "skills": [
+        "3D",
+        "Agile",
+        "AJAX",
+        "B2B",
+        "budget",
+        "C",
+        "C++",
+        "CSS",
+        "database",
+        "delivery",
+        "e-commerce",
+        "Expert Systems",
+        "funds",
+        "hiring",
+        "HTML",
+        "Java",
+        "JavaScript",
+        "Jira",
+        "Jenkins",
+        "REST",
+        "SOAP",
+        "MongoDB",
+        "Perl",
+        "PHP",
+        "Python",
+        "SQL",
+        "Oracle",
+        "PL/SQL",
+        "Selenium",
+        "Bootstrap",
+        "AWS",
+        "EC2",
+        "Hibernate",
+        "Elastic Search",
+        "JSMVC",
+        "JUnit",
+        "CanJS",
+        "Aurora",
+        "MySQL",
+        "GitHub",
+        "Camel",
+        "PCI",
+        "Prototyping",
+        "Product Development",
+        "Public safety",
+        "Real-time",
+        "Sales"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Operations Director",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "Present",
+            "description": "Identified misalignment between technical teams and business; reorganized the technical teams and aligned metrics to support KPIs, increasing revenue and cost savings. Doubled team to 20 people in 4 months by improving hiring process and achieving >90% acceptance rate. Awarded Culture Champion Award."
+        },
+        {
+            "title": "Director of Software Development",
+            "company": "Company Name",
+            "start_date": "January 2012",
+            "end_date": "January 2014",
+            "description": "Turned around a multiyear software delivery failure by re-architecting the approach, changing technology, and transitioning the team to Agile; restored the software on budget and on time. Reduced tech dependency by roadmapping a multiyear strategic technology plan, cutting technologies used by 50%. Managed web-based PCI-compliant e-commerce software connected to an enterprise database."
+        },
+        {
+            "title": "Chief Operating Officer",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "January 2012",
+            "description": "Public safety software and services company focused on enterprise-class software for Fire and EMS. Implemented a SaaS solution enabling smaller towns to use and integrate with the Fire and EMS software. Reduced server upgrade time from 4 days to 4 hours. Eliminated the need to remove hard-mounted mobile computers from fire trucks for upgrades. Reduced mobile computer install and upgrade times from 1 day to 2 hours."
+        },
+        {
+            "title": "Vice President of Engineering",
+            "company": "Company Name",
+            "start_date": "January 2001",
+            "end_date": "January 2010",
+            "description": "Grew revenue from 0 to over 16M with CAGR greater than 30% for 6 consecutive years. Integral in receiving 6 term sheets and securing 8M in VC funds in 2008. Expanded company from 22 to 110 employees and coordinated with Sales, Product Development, and Marketing to produce globally competitive products. Implemented critical software architectural changes creating a partner ecosystem."
+        },
+        {
+            "title": "Director of Software Development",
+            "company": "Company Name",
+            "start_date": "January 2000",
+            "end_date": "January 2001",
+            "description": "30-person company using patented lens system to project a standard 3D image into a 180-degree hemispherical screen; software converts the flat image to the curved surface without distortion."
+        },
+        {
+            "title": "Engineering Manager/Senior Software Engineer",
+            "company": "Company Name",
+            "start_date": "January 1996",
+            "end_date": "January 2000",
+            "description": "60-person company providing B2B and B2C real-time 3D solutions via the Internet."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Company Name",
+            "start_date": "January 1993",
+            "end_date": "January 1996",
+            "description": "Software Engineer role."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Company Name",
+            "start_date": "January 1989",
+            "end_date": "January 1993",
+            "description": "Software Engineer role."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. in Computer Science",
+            "school": "Union College",
+            "year": 1989
+        },
+        {
+            "degree": "B.S. in Computer Science",
+            "school": "Union College",
+            "year": 1988
+        },
+        {
+            "degree": "Postgraduate courses in Cognitive and Neural Systems",
+            "school": "Boston University",
+            "year": 1991
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

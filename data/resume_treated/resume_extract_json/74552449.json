@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "BANKING Summary Hands-on, client-oriented banking professional who implements creative investment strategies and is dedicated to continuous improvement. Entry level banking focused on applying excellent research skills and writing ability to a position in business management.Enthusiastic business major with excellent communication skills and strong motivation to succeed. Highlights Cash handling Financial analysis MS Excel expert Analytical Financial reporting Loan operations Managing multiple priorities Identifying risks Accomplishments Client Interface Â Spanish speaking MS Office proficiency Team leadership Excellent communication skills Strong lead development skills Business negotiation Collaborated with prospective clients to prepare efficient product marketing strategies and drive business development.",
+    "skills": [
+        "Sales",
+        "Salesforce.com",
+        "TapScan",
+        "Public Relations",
+        "Bacon's Mediasource",
+        "Factiva",
+        "Photoshop",
+        "Illustrator",
+        "HTML",
+        "MS Excel",
+        "MS Office",
+        "Cash handling",
+        "Financial analysis",
+        "Financial reporting",
+        "Loan operations",
+        "Analytical",
+        "Research",
+        "Team leadership",
+        "Business negotiation",
+        "Customer service",
+        "Spanish speaking"
+    ],
+    "experience": [
+        {
+            "title": "Banking",
+            "company": "Company Name",
+            "start_date": "11/2016",
+            "end_date": "Present",
+            "description": "Opened new customer accounts, including checking, savings and lines of credit.Balanced daily cash deposits and bank vault inventory with a zero error rate.Processed cash withdrawals.Researched and resolved customer issues on personal savings, checking and lines of credit accounts.Delivered prompt, accurate and excellent customer service.Researched banking guidelines and statutory requirements to stay updated on new laws and applications."
+        },
+        {
+            "title": "Banking Employee",
+            "company": "Company Name",
+            "start_date": "05/2014",
+            "end_date": "08/2015",
+            "description": "Opened new customer accounts, including checking, savings and lines of credit.Balanced daily cash deposits and bank vault inventory with a zero error rate.Processed cash withdrawals.Researched and resolved customer issues on personal savings, checking and lines of credit accounts.Delivered prompt, accurate and excellent customer service.Researched banking guidelines and statutory requirements to stay updated on new laws and applications."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "06/2013",
+            "end_date": "09/2013",
+            "description": "Managing and editing the companys online area and the educative software (Moodle). Developing and preparing accounting, statistics and Office subject papers (Word, Excel,PowerPoint)."
+        },
+        {
+            "title": "Banking intern",
+            "company": "Company Name",
+            "start_date": "06/2012",
+            "end_date": "09/2012",
+            "description": "Opened new customer accounts, including checking, savings and lines of credit.Balanced daily cash deposits and bank vault inventory with a zero error rate.Processed cash withdrawals.Researched and resolved customer issues on personal savings, checking and lines of credit accounts.Delivered prompt, accurate and excellent customer service.Researched banking guidelines and statutory requirements to stay updated on new laws and applications."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: International Trade",
+            "school": "Universidad Carlos III de Madrid",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Science: Business Administration and Direction",
+            "school": "Universidad Pública de Navarra",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

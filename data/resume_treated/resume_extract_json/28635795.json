@@ -1,0 +1,113 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Mysore, Karnataka, India",
+    "summary": "A passionate and dedicated professional with more than five years of experience in the fields of law, linguistics and interpretation.",
+    "skills": [
+        "administrative",
+        "administrative duties",
+        "agency",
+        "case management",
+        "client",
+        "clients",
+        "customer satisfaction",
+        "database",
+        "English",
+        "Farsi",
+        "Dari",
+        "Hindi",
+        "instructing",
+        "Legal",
+        "lesson plans",
+        "letters",
+        "meetings",
+        "Excel",
+        "Microsoft Office",
+        "PowerPoint",
+        "Word",
+        "police",
+        "presentations",
+        "rehabilitation",
+        "seminars",
+        "translation",
+        "Translator",
+        "Urdu",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Driver",
+            "company": "Company Name",
+            "start_date": "2015-04",
+            "end_date": "2016-03",
+            "description": "Welcomed customers, assisted with transportation planning, and performed basic car maintenance including battery changes and tire changes."
+        },
+        {
+            "title": "Server",
+            "company": "Fire of Brazil",
+            "start_date": "2014-07",
+            "end_date": "Present",
+            "description": "Greeted customers, managed seating, took orders, and worked to ensure customer satisfaction and retention; ensured menu availability and proper condition; escorted guests to seats."
+        },
+        {
+            "title": "Relation Officer",
+            "company": "Company Name",
+            "start_date": "2013-09",
+            "end_date": "2014-03",
+            "description": "Compiled information for reports and filed documents for distribution to related offices and provinces. Traveled weekly to provinces to assess the situation of each area and draft reports; assisted manager with administrative duties."
+        },
+        {
+            "title": "Translator, Legal and Cultural Advisor / International Security Assistant",
+            "company": "City, State",
+            "start_date": "2011-01",
+            "end_date": "2013-01",
+            "description": "Provided live translation between Farsi (Dari), Pashto, and English for American military personnel in official meetings; translated confidential government/military documents; maintained confidentiality; kept management informed through recordkeeping."
+        },
+        {
+            "title": "Case Researcher",
+            "company": "City, State",
+            "start_date": "2010-01",
+            "end_date": "2011-01",
+            "description": "Provided holistic case management services; maintained a caseload of families; met with clients weekly; input data into the agency database."
+        },
+        {
+            "title": "English Instructor",
+            "company": "English Language Center Puli Khumri, Afghanistan",
+            "start_date": "2005-01",
+            "end_date": "2007-01",
+            "description": "Instructed English as a Second Language; prepared lesson plans and homework; prepared monitoring reports; participated in professional development."
+        },
+        {
+            "title": "Legal Aid",
+            "company": "City, State",
+            "start_date": "2008-01",
+            "end_date": "2011-01",
+            "description": "Provided legal aid to civil societies, NGOs and individuals; communicated legal concepts in layman's terms; coordinated with government bodies to ensure action against child abuse; prepared reports and drafts."
+        },
+        {
+            "title": "Service",
+            "company": "City, State",
+            "start_date": "2008-01",
+            "end_date": "2011-01",
+            "description": "Conducted seminars and presentations on small family size, health education and financial literacy; supported social service programs; aided relief and rehabilitation during calamities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Academic Law",
+            "school": "J.S.S Law College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Microsoft Office Suite (Word, Excel, PowerPoint) - Aptech Learning Institution"
+    ],
+    "languages": [
+        "English",
+        "Pashto",
+        "Dari",
+        "Hindi",
+        "Urdu"
+    ]
+}

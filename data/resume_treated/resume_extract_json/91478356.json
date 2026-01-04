@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Proficient and caring Nursing team member offering over 6 years of patient-facing experience. Adept at addressing patient needs with compassionate care and attention to detail. Diligent about maximizing satisfaction, safety and wellness while serving patients of all backgrounds.",
+    "skills": [
+        "Patient services",
+        "Feeding assistance",
+        "Qualified in patient transport",
+        "Adaptable",
+        "Professional bedside manner",
+        "Culturally-competent care",
+        "Mobility assistance aptitude",
+        "Infection control and aseptic procedures",
+        "Documenting behaviors",
+        "Patient assessments",
+        "Conducting intakes",
+        "Data entry",
+        "Measuring bodily fluids",
+        "Direct patient care",
+        "Inpatient care",
+        "Patient privacy",
+        "Charting and clinical documentation",
+        "Recording vital signs"
+    ],
+    "experience": [
+        {
+            "title": "Patient Care Technician",
+            "company": "Company Name – City, State",
+            "start_date": "03/2015",
+            "end_date": "Current",
+            "description": "Under the direction of the Nurse Manager, assists Registered Nurse to provide safe, quality care. Implements progressive mobility guidelines; ambulating, turning and repositioning patients; uses patient handling equipment for lifting, transferring, repositioning and transporting. May transport patients within the medical center and deliver/pick up specimens and prescriptions. Assists with activities of daily living (feeding, bathing, toileting, oral care). Monitors vital signs, weights, and records inputs/outputs."
+        },
+        {
+            "title": "Certified Nursing Assistant",
+            "company": "Company Name – City, State",
+            "start_date": "05/2014",
+            "end_date": "02/2015",
+            "description": "Helped patients with routine bathing, grooming and hygiene; assisted with mobility, including moving to and from beds, organizing wheelchairs and preparing assistive devices. Gathered dietary information, assisted with feeding and monitored intake to help patients achieve nutritional objectives. Participated in activities to boost mood and memory; cared for average of 7 patients per PM shift."
+        },
+        {
+            "title": "Private Duty Home Healthcare Aide",
+            "company": "Company Name – City, State",
+            "start_date": "01/2013",
+            "end_date": "11/2013",
+            "description": "Cooked meals and assisted patients with eating tasks to support healthy nutrition. Provided assistance in daily living activities by dressing, grooming, bathing and toileting patient. Managed large range of services including pet care, phone screening and shopping. Performed household tasks such as laundry, dusting, washing dishes and vacuuming. Accompanied clients to medical appointments."
+        },
+        {
+            "title": "Retail Associate",
+            "company": "Company Name – City, State",
+            "start_date": "12/2009",
+            "end_date": "01/2011",
+            "description": "Organized store merchandise racks and displays to promote and maintain visually appealing environments. Offered each customer top-notch, personal service and polite support to boost sales and customer satisfaction. Skilled using cash register including processing sales discounts and refunds. Greeted customers, helped locate merchandise and suggested suitable options."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Armijo High School",
+            "year": null
+        },
+        {
+            "degree": "Some College (No Degree) - Criminal Justice and Nursing",
+            "school": "Solano Community College",
+            "year": null
+        },
+        {
+            "degree": "Certificate: Medical Assisting",
+            "school": "Boston Reed",
+            "year": "2011"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

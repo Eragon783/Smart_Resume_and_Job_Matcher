@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Non-Profit Executive Director with over 15 years of progressive experience in non-profit management, grant-writing, fundraising, development, public relations, and marketing.",
+    "skills": [
+        "grant-writing",
+        "fund raising",
+        "development",
+        "public relations",
+        "marketing",
+        "communications",
+        "Boards of Directors",
+        "supervision and management",
+        "fiscal operations",
+        "volunteer recruitment and coordination",
+        "Microsoft Office Suite"
+    ],
+    "experience": [
+        {
+            "title": "Executive Director",
+            "company": "Company Name",
+            "start_date": "May 2001",
+            "end_date": "Present",
+            "description": "Providing overall management of the legislatively mandated Early Learning Coalition; working with the Board of Directors to develop and implement the agency's strategic visions; financial management of a $6 million annual budget; directing funding aligned with Board policy; oversight of service delivery; fundraising and managing relationships with funding sources; marketing and public relations; overseeing resource allocation; advocacy with local agencies, media, and government; supervising staff of 16; contracts and compliance; strategic plan implementation; staff development and succession planning; promoting teamwork, accountability, and transparency."
+        },
+        {
+            "title": "Public Relations Officer",
+            "company": "Company Name",
+            "start_date": "January 1997",
+            "end_date": "April 2001",
+            "description": "Served as press/media contact for museum activities; developed PR plan and budget; promotional/advertising strategy; increased attendance; produced publications; planned and implemented special events and fund-raising events; managed facility rentals; supervised group tour coordinator, development interns and volunteers."
+        },
+        {
+            "title": "Coordinator of Community Relations",
+            "company": "Company Name",
+            "start_date": "February 1994",
+            "end_date": "July 1997",
+            "description": "Public relations, education, marketing and development for a non-profit hospice in-home services; promoted hospice awareness; developed annual agency marketing plan and materials; planned events; wrote grants; developed in-service education; recruited and supervised volunteers; liaison with medical referral base and community; interdisciplinary team involvement."
+        },
+        {
+            "title": "Program Development Specialist",
+            "company": "Company Name",
+            "start_date": "July 1985",
+            "end_date": "February 1994",
+            "description": "Developed and supervised programs for the elderly across seven counties; public speaking, training, grant writing, budgeting, and contract development; monitored service providers; liaison with State Division of Aging; edited agency newspaper; developed PR campaigns; statewide educational project on alcohol abuse/drug misuse in the elderly."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science, Social and Rehabilitation Services",
+            "school": "University of Southern Mississippi",
+            "year": 1981
+        },
+        {
+            "degree": "Associate of Arts, Liberal Arts",
+            "school": "Clarke College",
+            "year": 1979
+        }
+    ],
+    "certifications": [
+        "Certified Trainer, Bridges Out of Poverty",
+        "Certified Facilitator, Getting Ahead in a Just Getting By World"
+    ],
+    "languages": []
+}

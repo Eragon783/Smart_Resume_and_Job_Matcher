@@ -1,0 +1,94 @@
+{
+    "name": "Jennifer Bodek",
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Experienced Administrative Assistant with extensive background providing support to college Dean of Student Success, Associate Vice President of Student Affairs and Vice President of Student Affairs. Technically proficient, with experience in using wide range of computer software and systems. Provided support and counsel on projects requiring confidentiality, independent thinking, and competence. Processed budgetary issues, employee records. Triaged and managed student needs. Assisted in college wide committees and projects.",
+    "skills": [
+        "Microsoft Office Suite",
+        "Datatel",
+        "Power Campus",
+        "BlackBoard",
+        "SARS (Student Affairs Record System)",
+        "ImageNow",
+        "Siemens",
+        "Scheduling management system",
+        "FERPA",
+        "Call center",
+        "Budgeting",
+        "Payroll",
+        "Requisitions and purchase orders",
+        "Travel planning",
+        "Budget tracking",
+        "Accounting",
+        "Front desk management",
+        "Training new staff",
+        "SARS scheduling management system",
+        "Book loan program",
+        "Microsoft Project",
+        "Publisher",
+        "Visio",
+        "Access",
+        "Mentoring",
+        "Meetings coordination",
+        "Reporting templates",
+        "Grants",
+        "Funds",
+        "Customer Service",
+        "Imaging",
+        "Insurance",
+        "Layout design",
+        "Hiring"
+    ],
+    "experience": [
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name – City, State",
+            "start_date": "2013-07",
+            "end_date": "Present",
+            "description": "Responsible for administrative support functions for division Dean. Maintain schedule and coordinate plans for meetings, including logistical, catering and technical needs. Provide support services for department faculty. Supervision/Management Provide oversight for the federal student worker. Process and approve payroll for staff and student worker. Budgetary Support Maintain budget for School of Education Undergraduate and Graduate programs. Process requisitions and purchase orders for all School of Education budget lines. Maintain accurate accounting records. Track and manage travel plans and budget."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name – City, State",
+            "start_date": "2005-01",
+            "end_date": "2011-01",
+            "description": "Provide administrative support to the Dean of Student Success and Vice President of Student Affairs. In this capacity, responsible for: Administrative Support, Coordinate and prepare all files for discipline and judiciary level actions for both the student and the Judicial Hearing Board. Maintain schedule and coordinate plans for meetings, including logistical, catering and technical needs. Develop metrics on student servicing levels. Provide support services for a professional staff of forty, maintaining balance between student appointments and their academic and college-wide responsibilities in faculty union environment. Design report templates for efficiency monitoring of student mentoring book loan program. Monitor Faculty and Cadre hours to ensure budgetary compliance. Supervision/Management Provide oversight for the Student Success Center front desk staff and student workers. Participate in training new staff both professional and support. Assist in creation of front desk service procedures. Train all new front desk staff and oversee student workers. Customer Service Effectively communicate with students, parents, staff and faculty in accordance with FERPA regulations. Assist with College's call center during peak periods. Train all new employees on SARS scheduling management system."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name – City, State",
+            "start_date": "1999-01",
+            "end_date": "2004-01",
+            "description": "Assisted with all daily functions of a small family-owned sign shop. Learned use of CASmate and CASwin software to perform basic sign design. Assisted with converting all customer information in paper files to business software. Maintained office and sign production supplies. Performed multiple facets of customer service, from point of inquiry to billing. Researched vendors to ensure getting lowest possible costs to maintain competitive pricing."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name – City, State",
+            "start_date": "1998-01",
+            "end_date": "1999-01",
+            "description": "Performed all front desk receptionist operations, including answering phones and scheduling appointments. Organized small office filing system to better match newer insurance reimbursement procedures. Submitted insurance reimbursement forms for office as well as patients. Provided customers with reminder calls for routine check up scheduling. Kept office and waiting area tidy and welcoming to reduce patient tension while waiting."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Administration",
+            "school": "Albright College",
+            "year": 2013
+        },
+        {
+            "degree": "Master of Science",
+            "school": "",
+            "year": 2016
+        },
+        {
+            "degree": "Associate of Liberal Studies",
+            "school": "Montgomery County Community College",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        "CQI Training"
+    ],
+    "languages": []
+}

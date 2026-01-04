@@ -1,0 +1,59 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": null,
+    "summary": "Dependable, hard-worker with over seven years of experience in maintenance work.",
+    "skills": [
+        "Dependable independent worker",
+        "Customer service skills",
+        "Good at following instructions",
+        "Customer service experience",
+        "Solid communication skills",
+        "Strong work ethic",
+        "Jack of all trades",
+        "Can perform all types of handiwork"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2013-08",
+            "end_date": "2013-12",
+            "description": "Responsibilities: Make the customer happy; Great customer services; Perform assigned/unassigned tasks; Face-front/Organize shelves and bays. Skills Used: Good oral/communication skills; Able to lift heavy objects; ALWAYS put the customer first."
+        },
+        {
+            "title": "Lawn Care Technician",
+            "company": "Company Name",
+            "start_date": "2013-05",
+            "end_date": "2013-09",
+            "description": "Responsibilities: Lawn Mowing- Edging, Weed whipping, Blowing grass and debris off pavement and structures; 20 in. lawn mower was primarily my responsibilities. Learned how to use the 36, 42 in. mowers and rider. Gardening/Landscaping- Maintain gardens by cultivating and weeding, and mulching. Snow Plowing-Snow blow/shovel driveways and sidewalks. Salt afterwards. Preform tasks quickly with minimal mistakes. Skills Used: Learned how to use plenty of mowing/landscaping equipment (36,42 inch blades, rider etc.)"
+        },
+        {
+            "title": "Handyman",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2016-07",
+            "description": "Handyman Services including - Window/gutter cleaning; Power washing/staining decks; Power washing houses; Painting; Repairing (from little tasks like screens and windows to larger tasks like a basement.); Snow Plowing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Avondale High School",
+            "year": 2011
+        },
+        {
+            "degree": "Liberal Arts",
+            "school": "Clackamas Community College",
+            "year": 2013
+        },
+        {
+            "degree": "Liberal Arts",
+            "school": "Oakland Community College",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

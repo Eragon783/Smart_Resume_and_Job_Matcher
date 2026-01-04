@@ -1,0 +1,78 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am a responsible self-starter who communicates well and is dedicated to providing great customer service and staff support. I am comfortable working autonomously or in a team-based setting. I am both calm and focused, great at prioritizing, completing multiple tasks simultaneously and following through to achieve project goals.",
+    "skills": [
+        "Microsoft Office: Word, Excel, Power Point, Outlook",
+        "AIMsi",
+        "OMS Systems",
+        "UPS Worldship",
+        "ALICE",
+        "Apricot",
+        "Typing 40 WPM",
+        "10-key touch"
+    ],
+    "experience": [
+        {
+            "title": "Domestic Violence Counselor Advocate",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "Present",
+            "description": "Provide domestic violence counseling, education, advocacy and support for staff and clients; crisis intervention, trauma-informed care, preventative services, and support services; assess danger and safety planning; assist victims to access emergency shelter; provide weekly domestic violence education classes; accompany and advocate for clients in Juvenile Dependency and/or Superior Court; link victims with resources in their community; attend Risk Assessment Meetings (RAMs) and Team Decision Making meetings (TDMs); follow-up and document outcomes; present yearly workshops and training; develop brochures and written materials, and maintain daily service logs, case notes, intakes, referral outcome reports and monthly summaries."
+        },
+        {
+            "title": "Shelter Hotline Advocate",
+            "company": "Company Name",
+            "start_date": "2013-02",
+            "end_date": "2015-07",
+            "description": "Graveyard shift; crisis intervention over the phone and in person; shelter intakes; supervise shelter operations overnight; ensure residents follow house rules; teach independent living skills; assist with medication, first aid, hygiene products or transporting clients to the ER as needed; document behavior and needs; maintain hotline reports and close client files; train new staff, interns and volunteers."
+        },
+        {
+            "title": "Domestic Violence Counselor Advocate",
+            "company": "Company Name",
+            "start_date": "2008-08",
+            "end_date": "2013-04",
+            "description": "Started as Administrative Assistant, then advocate; crisis intervention; facilitated support groups and life skills; managed day-to-day operations of the outreach center (2009-2011); coordinated with local organizations for food pantry; conducted fundraising events; trained new hires and volunteers; presented at state mandated domestic violence trainings."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2005-09",
+            "end_date": "2007-07",
+            "description": "Answered and screened a heavy volume of calls; handled billing and invoicing; accounts receivable and collections; coordinated LTL shipping; prepared import documentation; created daily reports, spreadsheets, and payable verification; maintained office operations and trained new staff."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2000-09",
+            "end_date": "2005-06",
+            "description": "Conducted I-9 reviews, drug tests, reference and criminal background checks; maintained client and employee data; performed clerical duties; scheduled and conducted interviews; followed up with clients and employees; managed accounts receivable/payable; created and maintained the agency's website."
+        }
+    ],
+    "education": [
+        {
+            "degree": "General Education",
+            "school": "Citrus College",
+            "year": "1995"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Glendora High School",
+            "year": "1992"
+        },
+        {
+            "degree": "Medical Assistant",
+            "school": "West College",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Domestic Violence 40-hour Training",
+        "State Mandated Domestic Violence Training (conducted 2 times a year)"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

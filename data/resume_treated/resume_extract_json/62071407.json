@@ -1,0 +1,104 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Mechanical Engineer with 25 years of progressive experience in manufacturing. Demonstrated project management, preventive/corrective maintenance strategies, and on-time/budget-conscious delivery. Experienced maintenance manager with risk-based prioritization and cross-disciplinary collaboration. Industry exposure includes Military and LRV trains. Proficient in SolidWorks, AutoCAD, failure analysis, data acquisition, PLC/process control, and Microsoft Office.",
+    "skills": [
+        "AutoCAD",
+        "SolidWorks",
+        "Data Acquisition",
+        "Electrical Systems",
+        "Electronics",
+        "Calibration",
+        "HVAC",
+        "Maintenance Scheduling",
+        "Failure Analysis",
+        "Project Management",
+        "Troubleshooting",
+        "PLC",
+        "Process Control",
+        "Process Equipment",
+        "Programming",
+        "Citrix",
+        "Budgeting",
+        "Carpentry",
+        "Materials",
+        "Microsoft Office",
+        "Navy",
+        "Natural Gas",
+        "Oil",
+        "Personnel",
+        "Scheduling",
+        "Quality",
+        "Research",
+        "Upgrades"
+    ],
+    "experience": [
+        {
+            "title": "Mechanical Engineering Intern",
+            "company": "Company Name State",
+            "start_date": "2013-05",
+            "end_date": "2014-08",
+            "description": "Updated piping and instrumentation drawings in AutoCAD. Performed failure analysis on process equipment and implemented new maintenance schedules. Managed projects including HVAC zone installation for the main office/foyer, installation of Intralox thermodrive conveyor, water-conservation initiatives, fire suppression system for oil recovery unit, and updates to sizer production."
+        },
+        {
+            "title": "Mechanical Engineering Intern",
+            "company": "Company Name State",
+            "start_date": "2013-05",
+            "end_date": "2013-08",
+            "description": "Designed diesel fuel tanks for 400 kW and 750 kW generators in AutoCAD using UL-142 standards. Assisted in design of generator conversion from diesel to natural gas. Project Manager for reinforcing mobile generator trailers. Composed operating procedures for diesel generators."
+        },
+        {
+            "title": "Electrical/Mechanical Technician",
+            "company": "Company Name City , State",
+            "start_date": "2008-07",
+            "end_date": "2011-01",
+            "description": "Maintained and calibrated process control and laboratory equipment. Implemented engineering upgrades for research, design, and prototypes. Implemented a new Data Acquisition system, including installing and programming 32 Honeywell chart recorders. Repaired and calibrated oxygen sensor for the updraft of Thermal Oxidizing stack. Calibrated thermocouples and Watlow process controllers. Planned, scheduled and coordinated phases of large-scale projects; coordinated contractors, architects and other project team members to deliver high-quality projects on time."
+        },
+        {
+            "title": "Modifications Supervisor",
+            "company": "Company Name State",
+            "start_date": "2005-05",
+            "end_date": "2006-02",
+            "description": "Installed electrical/mechanical modifications on multi-million dollar LRV projects. Created critical spare parts lists for LRV modifications. Used Citrix drawings for troubleshooting onboard systems. Purchased and organized materials for LRVs. Used PTU for interfacing and troubleshooting Bombardier propulsion, Knorr braking, and HVAC systems. Wrote modification/progress reports and scheduled train upgrades and testing."
+        },
+        {
+            "title": "Marine Electrical Technician",
+            "company": "Company Name City , State",
+            "start_date": "2004-04",
+            "end_date": "2005-01",
+            "description": "Installed and wired electronics/electrical components on 85- and 65-foot yachts. Installed 300 kW and 250 kW Northern Light generators, Detroit propulsion engines, and all domestic and auxiliary systems. Built engine rooms from the ground up, including carpentry, electrical, mechanical, and fiberglass work."
+        },
+        {
+            "title": "Plastics Operator",
+            "company": "Company Name City , State",
+            "start_date": "2002-01",
+            "end_date": "2004-04",
+            "description": "Operated and maintained rotational molding machine. Trained personnel on all five stations. Helped develop operation procedures for machines. Used troubleshooting skills to solve issues on a 4-arm, 4-station rotational molding machine, including overheating, plating and incorrect rotational speeds."
+        },
+        {
+            "title": "Project Manager/Electrician",
+            "company": "Company Name",
+            "start_date": "1999-08",
+            "end_date": "2002-09",
+            "description": "Coordinated and built treatment plants. Finished Royal Roads Treatment Plant ahead of schedule and under budget. Initiated and wrote all corrective and preventive maintenance schedules for treatment sites. Planned, scheduled and coordinated phases of large-scale projects. Coordinated contractors and other project team members to deliver high-quality projects. Wired and installed new wastewater systems for BC Ferries."
+        },
+        {
+            "title": "Electrical/Electronic Technician",
+            "company": "Company Name",
+            "start_date": "1990-01",
+            "end_date": "1999-08",
+            "description": "Repaired electrical/electronic systems aboard Navy ships, including controllers, instrumentation and PLCs for a 3.5 GW power plant. Maintained FT4/FT12 and 750 kW gas turbines. Trained junior personnel. Planned corrective and preventive maintenance for onboard electrical systems. Maintained reverse osmosis distillation and electro-catalytic sewer treatment plants. Led preventive and corrective maintenance on IPC/PLC switchboards, HVAC, fire suppression, liquid level management systems and all domestic equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "school": "Louisiana Tech University",
+            "year": 2015
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,87 @@
+{
+    "name": "Cruz Navarro",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly ambitious professional with background in Financial Services Procurement and Management. Expertise in market analysis, forecasting and client needs assessments.",
+    "skills": [
+        "Account management",
+        "Business development",
+        "Business operations",
+        "Cisco",
+        "International business",
+        "Logistics",
+        "Oracle",
+        "Purchasing",
+        "Sales",
+        "Spreadsheets",
+        "Tax law",
+        "Budgeting and finance",
+        "Verbal communication",
+        "Conflict resolution",
+        "Client assessment and analysis",
+        "Microsoft Office",
+        "Oracle CRM",
+        "CRM"
+    ],
+    "experience": [
+        {
+            "title": "Business Advocate Banker",
+            "company": "Company Name",
+            "start_date": "2016-07",
+            "end_date": "Present",
+            "description": "Target and identify affluent clients, analyze their needs, provide financial solutions based on their relationship with the bank and refer them to the appropriate business line when required. Advisor for the Small Business Development, provide financial wellness solutions for new and existing clients. Consult credit products and state regulations for business origination and ownership. Plan, develop and execute out of office visits and venues to small business owners to develop stronger relationships and increase profitability. Participate weekly on conference calls with the Small Business Segment leader and Wells Fargo at Work Program director for better understanding and direction. Create performance and efficiency reports, direct morning huddles with team members to provide feedback on previous activities. Assist management with operational activities: schedules, cash shipments, random vault audits, dual control assignments, approvals, challenging situations with customers, etc."
+        },
+        {
+            "title": "Personal Banker",
+            "company": "Safe Company Name",
+            "start_date": "2016-07",
+            "end_date": "Present",
+            "description": "Target and identify affluent clients, analyze their needs, provide financial solutions based on their relationship and refer them to the appropriate business department when required. Partner with Financial advisors, Mortgage consultants and additional team members to develop client acquisition plans. Consultation to business owners of banking and credit solutions throughout Wells Fargo tools and services for business owners. Assist Wells Fargo international clients providing tailored recommendations suiting their needs. Out of office visits and venues to business owners to develop stronger relationships and increase bank profitability. Assist management with operational activities: team member's schedules, cash shipments, random vault audits, dual control assignments, approvals, challenging situations with clients, etc. Created strategies to develop and expand sales of services to existing customer which resulted in a 24 % increase in annual revenue. Advised clients on mortgage, educational and personal loans. Maintained friendly and professional customer interactions."
+        },
+        {
+            "title": "Licensed Service Advisor",
+            "company": "Company Name",
+            "start_date": "2015-12",
+            "end_date": "2016-07",
+            "description": "Meet business goals by proactively reaching out to existing and new clients, cross-sell and increase insurance coverage. Review profit metrics, analyze areas of opportunity and develop an action plan for a successful goal achievement. Client outreach for retention, insurance review, renewal and leads for new business and high-value account management. Create policy orders under the Texas Insurance Law for Homeowners, Renters, Flood (FEMA), Auto and Commercial. Partnership with Real Estate agents, Mortgage Consultants for business acquisition and referral program. Supported Chief Operating Officer with daily operational functions."
+        },
+        {
+            "title": "Office Manager II",
+            "company": "Company Name",
+            "start_date": "2013-02",
+            "end_date": "2015-12",
+            "description": "Generate spreadsheets, reports and correspondence to use internally and externally. Perform monthly financial estimations to support financial transactions related to business activities. Match invoices to statements and purchase orders for optimum accuracy. Assist calculating taxes of purchasing activities, acquired services and the deductions they might have. Revision of lawful permits and commercial invoices as result of transnational operations. Generate report of past import and export transactions as requested by the Federal Government tax enforcement. Gather necessary data to cross-reference and generate required reports. Submit data entries as required by management into the company's system. Organize and update the cloud data files required by Audit department. Record payments history, manage the cashbox when needed, deposit of checks or payments when requested. Build rapport with the suppliers and manage the logistics process to ensure business operations. Administer CRM and company database, maintenance and updates."
+        },
+        {
+            "title": "Buyer",
+            "company": "Company Name",
+            "start_date": "2010-07",
+            "end_date": "2013-01",
+            "description": "Research of requested product, review supplier's location, price, quality and efficiency for a well rounded decision. Negotiate price, term of payments, product specifications, shipment details, warranty policies and further assistance required. Quote the inquired products and services and present at least three ideal options for business. Place requisition of products into the ERP & MRP. Discuss budget specifications with management when required and review reduction of costs options. Weekly phone conferences with management regarding financial or market updates. Facilitated a fast-paced and dynamic entrepreneurial environment. Served as executive staff liaison to several committees. Reconciled business and creative needs. Observed all laws, regulations and other applicable obligations."
+        },
+        {
+            "title": "Order processing agent",
+            "company": "Company Name",
+            "start_date": "2010-07",
+            "end_date": "2013-01",
+            "description": "Research of requested product, review supplier's location, price, quality and efficiency for a well rounded decision. Negotiate price, term of payments, product specifications, shipment details, warranty policies and further assistance required. Quote the inquired products and services and present at least three ideal options for business. Place requisition of products into the ERP & MRP systems, usually working with CISCO systems and Oracle. Review performance indicators as monthly, quarterly and annually purchases. Discuss budget specifications with upper management when required and review reduction of costs options. Weekly phone conferences with management regarding financial or market updates. Internal customer interaction with the Sales department. Weekly and monthly spreadsheets report of purchased materials costs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of International Business Management",
+            "school": "Universidad Autónoma de Nuevo León",
+            "year": "2012"
+        },
+        {
+            "degree": "Project Management Certification (ongoing)",
+            "school": "Houston Community College",
+            "year": "2017-ongoing"
+        }
+    ],
+    "certifications": [
+        "Project Management Certification (ongoing)"
+    ],
+    "languages": []
+}

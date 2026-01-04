@@ -1,0 +1,81 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Determined and proactive Administrative Specialist who works with a sense of urgency to anticipate the needs of senior-level executives. Thrives in a fast paced, dynamic environment.",
+    "skills": [
+        "Advanced MS Office Suite",
+        "Excel (macros and pivot tables)",
+        "Word",
+        "Outlook",
+        "PowerPoint",
+        "Critical Thinking",
+        "Decision Making",
+        "Communication Skills",
+        "Time Management",
+        "Meeting Planning",
+        "Self-directed",
+        "Attention to Detail",
+        "Grammar",
+        "Resourceful",
+        "Problem Solving",
+        "Scheduling appointments",
+        "Calendar management",
+        "Email management",
+        "Travel arrangements",
+        "Lodging reservations",
+        "Confidential information handling",
+        "Dashboard reporting",
+        "Marketplace Compliance",
+        "Field marketing promotions",
+        "Sales support",
+        "Salesforce.com",
+        "Desktop Publishing",
+        "Photoshop",
+        "Illustrator",
+        "Addressing customer concerns",
+        "Special events",
+        "Sales",
+        "Tutoring"
+    ],
+    "experience": [
+        {
+            "title": "Centralized Administrative Support",
+            "company": "Company Name",
+            "start_date": "Mar 2016",
+            "end_date": "Present",
+            "description": "Scheduling appointments, maintaining calendars, managing email; Arrange travel and lodging reservations; Arrange meetings including communication preparation and equipment; Order supplies and equipment for leaders; Follow protocol in handling confidential and sensitive information; Run dashboard summary reports for Sales Leader; Complete Marketplace Compliance process for field marketing promotions for Sales Leader."
+        },
+        {
+            "title": "Data Entry Clerk",
+            "company": "Company Name",
+            "start_date": "Oct 2015",
+            "end_date": "Dec 2015",
+            "description": "Verified information in the computer system; Identified and resolved system and account issues; Used attention to detail to provide quick and accurate labor for a long-term assignment; Maintained data entry requirements by following data program techniques and procedures."
+        },
+        {
+            "title": "Tutor Counselor",
+            "company": "Company Name",
+            "start_date": "Jun 2015",
+            "end_date": "Jul 2015",
+            "description": "Used attention to detail to provide quick and accurate labor for a long-term assignment; Maintained data entry requirements by following data program techniques and procedures; Created timeline and goals to complete assignments; Verified information in the computer system was up-to-date and accurate."
+        },
+        {
+            "title": "Executive Assistant/Special Events",
+            "company": "Company Name",
+            "start_date": "Aug 2006",
+            "end_date": "May 2015",
+            "description": "Responsible for direct customer service, worksite direction, food preparation and serving, and creative direction for a catering company servicing a diverse clientele and broad range of events with high guest counts (including mayoral inaugurations, class and family reunions, weddings, retirement parties, etc.). Executed executive assistance: managed events calendars, scheduling/booking, directed team in owner's absence, addressed customer concerns, tracked employees hours. Worksite assistance: setup of event locations, loading/unloading equipment and supplies, establishing food stations and 'behind-the-scenes' prep areas, and setting up guest areas and tables."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Health Education and General Science",
+            "school": "Jackson State University",
+            "year": "2015"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

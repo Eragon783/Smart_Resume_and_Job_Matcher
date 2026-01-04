@@ -1,0 +1,78 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Energetic and enthusiastic insurance professional motivated to succeed in a fast-paced and deadline-driven professional environment. Comprehensive knowledge of claims adjustments with special knowledge in identifying elements of fraud. Highlights claims file management processes, insurance fraud expertise, interviewing techniques, database management, strong interpersonal and communication skills, self-directed, report writing, analytical, team player, and critical thinker. Accomplishments include promoted to Claims Special Investigator within 1 month of initial claims handling, and audit scores consistently exceeded expectations, maintaining the highest audit scores within the Special Investigations Unit.",
+    "skills": [
+        "Claims adjustments",
+        "Insurance fraud detection",
+        "Interviewing techniques",
+        "Database management",
+        "Claims file management",
+        "Report writing",
+        "Analytical",
+        "Interpersonal communication",
+        "Team player",
+        "Critical thinker",
+        "Fraud investigations",
+        "Case management",
+        "Negotiation"
+    ],
+    "experience": [
+        {
+            "title": "Special Investigative Unit I",
+            "company": "Company Name, City, State",
+            "start_date": "2013-02",
+            "end_date": "2015-02",
+            "description": "Primary mission to detect, deter and defeat insurance fraud. Worked closely with management in various departments to assist in coverage decisions with focus on thoroughness, quality, cost control and mitigation of future risk. Conducted interviews, gathered detailed information and completed field investigations. Developed connections with local fraud bureaus, district attorneys' offices and professional associations. Worked with house counsel in preparing cases for legal purposes. Trained claims adjusters in identifying fraud and addressing coverage issues and red flags. Investigations included theft, fire, vandalism, personal injury protection, third party bodily injury, rate evasion, material misrepresentation at application, out-of-state losses and staged losses. Adapted to a high-paced environment across multiple states (PA, NY, CT, IL, TX, SC, GA). Shared intelligence with other fraud investigators and attended conferences on current fraud trends."
+        },
+        {
+            "title": "Field Adjuster II / Claims Special Investigator",
+            "company": "Company Name, City, State",
+            "start_date": "2010-10",
+            "end_date": "2013-02",
+            "description": "Investigated coverage and liability for personal auto policies. Promoted to Claims Special Investigator within one month of claims handling due to performance. Handled sensitive files, reduced loss ratios through fair and prompt processing, conducted interviews and field investigations. Mentored new staff, recommended settlement offers, negotiated payment arrangements, and gathered information for proper evaluation of injury claims. Drafted statements of loss and managed high-volume workload in a fast-paced environment. Coordinated between office and field, investigated residency, employment, and automobile history, and handled theft, fire, vandalism, and other complex files."
+        },
+        {
+            "title": "Warehouse Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2009-08",
+            "end_date": "2010-01",
+            "description": "Supervised material flow, storage and global order fulfillment. Oversaw special orders and after-hours, urgent shipping. Operated shipping systems (Visual 2000, FedEx Ship Manager, UPS WorldShip). Managed detailed, custom orders up to bulk product shipping. Oversaw warehousing and storage practices and housekeeping. Verified inbound shipments against purchase orders. Performed telemarketing and cold calling, leveraging MS Excel and Word."
+        },
+        {
+            "title": "Operations Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2006-07",
+            "end_date": "2009-08",
+            "description": "Executive role; key member of operations and event planning. Managed daily warehouse and janitorial operations. Planned and implemented logistics solutions, improved efficiency, and organized systems for sending and receiving. Oversaw special orders and urgent shipping, managed two-week scheduling, and conducted regular inventories."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Continuing Education",
+            "school": "Kaplan Continuing Education (Infinity Insurance program)",
+            "year": "2012"
+        },
+        {
+            "degree": "Bachelor of Fine Arts",
+            "school": "Pennsylvania Academy of the Fine Arts",
+            "year": "2005"
+        },
+        {
+            "degree": "Commercial Art",
+            "school": "Hussian School of Art",
+            "year": "2001"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Woodstown-Pilesgrove High School",
+            "year": "1999"
+        }
+    ],
+    "certifications": [
+        "Israeli Krav Maga Certified Instructor (Founder & Owner, Warrior Class LLC)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Guadalajara, Jalisco, Mexico",
+    "summary": "Experienced Fulfillment Advocate with 8 years in manufacturing and IT, skilled in materials, finance, sales and supply chain. Strong analytical and communication abilities, focused on customer satisfaction and continuous improvement. Willing to learn new processes, adapt to change, and contribute as a multi-skilled professional in international settings.",
+    "skills": [
+        "People Management",
+        "Finance",
+        "Manufacturing process",
+        "Order entry",
+        "Backlog Management",
+        "Customer relationship",
+        "Microsoft Office",
+        "ERP (SAP, BAAN, ORACLE, 4TH SHIFT)",
+        "Eclipse (Pricing program)",
+        "Inventory management",
+        "System architecture migration (Oracle to BAAN; BAAN IV to BAAN V)"
+    ],
+    "experience": [
+        {
+            "title": "Fulfillment Advocate",
+            "company": "Company Name, City, State",
+            "start_date": "04/2014",
+            "end_date": "Current",
+            "description": "Liaison between sales, factory, planning, customer and logistics. Coordinate with Order management for billing. Billing accuracy. Business partner management. Backlog Management. Customer relationship. Supply analysis. Order entry."
+        },
+        {
+            "title": "Business Operation Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "06/2012",
+            "end_date": "04/2014",
+            "description": "Liaison between sales and customer to analyze best option for customer customization services. Coordination and execution for customer services from second touch (rework) area/manufacturing site. Coordinate second touch operations such as forecasting, production plan, process improvements. Analysis of backlog management. Responsible for 2nd touch area, people management (80 people, 2 shifts). Suppliers relationship."
+        },
+        {
+            "title": "CSSM Customer Sales Support Manager",
+            "company": "Company Name, City, State",
+            "start_date": "01/2011",
+            "end_date": "06/2012",
+            "description": "Pricing updates; New orderable items creation; customer relationship. Anticipates and communicates product and pricing updates. Ensures setup and maintenance of Contracts (PS). Utilizes configuration tools to develop valid configurations meeting sales/customer requirements. Create, submit, manage Lifecycle Maintenance of PN. Proactively manages EOL and NPI in offering and catalog. Propose alternatives for EOL products. Drive catalog setup & maintenance in line with Sales and customer requirements."
+        },
+        {
+            "title": "Inventory Control Team Lead",
+            "company": "Company Name, City, State",
+            "start_date": "04/2010",
+            "end_date": "01/2011",
+            "description": "Inventory control supervision. Customer Service. New Projects Implementation. Purchase and sales management. People management. Supervise, train and provide support to the Hub's Specialist. Drive the month-end closing process at end of period, Ensuring that all Hub's Specialist complete all their month end close task's and to detect any issue regarding receipts and sales. Develop and organize the agenda and work plan for physical inventory at different warehouses in US such as coordinate the process of claim to recover part of the discrepancies reported by the warehouse contact. Coordinate and follow up for all new setup's within the VMI (Vendor Management Inventory) schema."
+        },
+        {
+            "title": "Cost Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "05/2007",
+            "end_date": "04/2008",
+            "description": "General Ledger; Inventory control; Cost Analysis; P&L; Expenses analysis; Revenue recognition. Financial and Fiscal statement preparation, presentation and accounting reviews. Costs control for distribution companies in US, Europe and Mexico. Intercompany Financial; Customer service. US GAAP knowledge; SOX Audit; VMI financial flows setup. PPV monitoring and handling; Expenses analysis; P&L and Balance sheet reconciliation. Overall Inventory control for Finance and Logistics process."
+        },
+        {
+            "title": "Inventory Controller (Hub Specialist)",
+            "company": "Company Name, City, State",
+            "start_date": "05/2006",
+            "end_date": "05/2007",
+            "description": "Purchase management. Inventory control. Customer service. Sales order management. Distribution Centers. Logistics criteria management (EXW, DDP & DDU). Flextronics Supply Chain responsibility. Purchase, Sales & Return orders (RMA & RTV). PPV management. Forecast and cycle count analysis. Inventory accuracy. Sales order management. Purchase order management."
+        },
+        {
+            "title": "Replenishment Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "05/2006",
+            "end_date": "05/2007",
+            "description": "VMI Management. Supply chain management. Inventory control. Work with Buying staff and Store Operations to identify sales/inventory opportunities. Confer with vendor contacts to obtain favorable and timely deliveries as well as best possible pricing. Waterfall forecast analysis. Inventory Planning & Supply negotiation. VMI(SMI) program. JIT scenario negotiation through 3PLs and In Plant Store. Hardware and packing suppliers setup through IPS and Tents outside of production buildings for direct point of use delivery. Supply Chain Management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diplomado in Cost Accounting",
+            "school": "University of Guadalajara",
+            "year": 2008
+        },
+        {
+            "degree": "Bachelor's Degree in International Business",
+            "school": "University of Guadalajara",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Portuguese"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Twenty years of experience in all aspects of sales/marketing management Focused, goal and profit-oriented. Proven track record of sustainable growth in existing market, and development of business in new markets. Effective organizational, communication, technical, leadership, personnel training/development, and public relations skills. Established reputation for professionalism, taking initiative, productivity, and dependability, attention to detail, teamwork and enthusiasm Motivated and results-driven Consistent high sales achiever. Proficient in use of Microsoft Windows/Office XP, (Word, Excel, PowerPoint) and Internet.",
+    "skills": [
+        "Sales",
+        "Sales Representative",
+        "In Sales",
+        "Corporate Sales",
+        "Operations",
+        "Billing",
+        "Business Operations",
+        "Customer Service",
+        "Developing Sales",
+        "Kitchen",
+        "Lighting",
+        "Marketing",
+        "Merchandising",
+        "New Accounts",
+        "Plumbing",
+        "Point Of Sale",
+        "Receptionist",
+        "Retail Sales",
+        "Sales Revenue",
+        "Sales Techniques",
+        "Training",
+        "Outside Sales",
+        "Clients",
+        "Leads",
+        "Sales Quotas",
+        "Buying/procurement",
+        "Existing Accounts",
+        "New Account",
+        "Proposals",
+        "Purchasing",
+        "Telemarketing",
+        "Excel",
+        "Marketing Management",
+        "Microsoft Windows",
+        "Office XP",
+        "Powerpoint",
+        "Public Relations",
+        "Sales/marketing",
+        "Word"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "Present",
+            "description": "Responsible for developing relationships with purchasing agents, engineers, and architects. Negotiate and secure sales, developing existing accounts and acquiring new account business. Prospect new customers and call on existing client accounts; provide informative presentations on all products; show catalogs; make recommendations; quote and negotiate prices/payment terms; submit proposals; secure purchase order agreements; and initiate additional sales through telemarketing."
+        },
+        {
+            "title": "Branch Manager",
+            "company": "Company Name",
+            "start_date": "January 2009",
+            "end_date": "January 2011",
+            "description": "Develop leads and maintain a viable network of business contacts and prospective clients to consistently meet assigned sales quotas. Review and analyze policy and procedures with a view toward enhancing sales productivity, efficiency and quality performance. Developed and implemented strategies to improve branch operations, staff competency and productivity. Establish relationships, educate, service, maintain and manage approximately 100 accounts. Trained, motivated, assigned and supervised performance of support staff. Consistently ranked #1 in sales and gross dollar profitability for the company, and ranked in \"top 2%\" for corporate sales performance."
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name",
+            "start_date": "January 1997",
+            "end_date": "January 2009",
+            "description": "Market, promote and develop outside and counter sales of high-end plumbing, electrical and lighting fixtures to architects, commercial contractors/residential builders in the Charleston Trident area. Setup new client accounts for billing purposes; write and submit orders to manufacturers; coordinate delivery schedules; provide follow-up customer service; and resolve customer billing issues. Assist walk-in customers with their inquiries/selections, including researching special order requests, setting up new accounts and registering customers' sales purchases and payment transactions. Participate (team effort) in merchandising visual displays and maintaining 8,000 sq/ft of showroom (point of sale) spaces for kitchen, bath, electrical/plumbing products, including major appliances. Establish relationships, educate, service, maintain and manage approximately 50-60 accounts. Receive ongoing training in all phases of business operations, including product lines, marketing and sales techniques, showroom merchandising, customer service and distribution support efforts. Contributed in developing sales revenue in excess of $20.4 million for 2006 FY, a 29.4% Consistently ranked #1/#2 in sales and gross dollar profitability for the branch, and ranked in \"top5%\" for corporate sales performance (out of 600+ sales reps, nationwide)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Business Administration",
+            "school": "The Citadel, The Military College of South Carolina",
+            "year": "1995"
+        },
+        {
+            "degree": "Bachelor of Science: Business Administration",
+            "school": "The Citadel, The Military College of South Carolina, Charleston, South Carolina",
+            "year": "1995"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

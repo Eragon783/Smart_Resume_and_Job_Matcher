@@ -1,0 +1,117 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Fitness and Wellness professional adept at developing comprehensive fitness and wellness programs and initiatives. Background in undergraduate health courses.",
+    "skills": [
+        "academic",
+        "Schedule appointments",
+        "benefits",
+        "blood pressure",
+        "CPR",
+        "critical thinking",
+        "customer service",
+        "staff training",
+        "special events",
+        "First Aid",
+        "lesson plans",
+        "Medical Terminology",
+        "meetings",
+        "access",
+        "payroll",
+        "Stress Management",
+        "supervisor",
+        "teaching",
+        "teamwork",
+        "workshops",
+        "composition"
+    ],
+    "experience": [
+        {
+            "title": "Administrative Office Assistant",
+            "company": "Company Name",
+            "start_date": "01/2015",
+            "end_date": "Current",
+            "description": "Provide customer service, Schedule appointments, and additional duties as needed."
+        },
+        {
+            "title": "Cheer Coach",
+            "company": "Company Name",
+            "start_date": "01/2015",
+            "end_date": "01/2016",
+            "description": "Foster a culture of sportsmanship, teamwork, and responsibility."
+        },
+        {
+            "title": "Adjunct Faculty",
+            "company": "Company Name",
+            "start_date": "07/2009",
+            "end_date": "Current",
+            "description": "Lecture and communicate effectively with students from diverse backgrounds. Initiate thought-provoking discussions to help students build their critical thinking skills and translate their academic interests into the real world. Maintain an undergraduate teaching load of 3-5 courses each semester to include Medical Terminology, Women's Health, Stress Management, Human Sexuality, Nutrition Concepts, Personal Fitness/Wellness, Student Development."
+        },
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "Current",
+            "description": "Adapt to variety of lesson plans to cover subject areas in grades K-12."
+        },
+        {
+            "title": "Fitness/Wellness Coordinator",
+            "company": "Company Name",
+            "start_date": "07/2005",
+            "end_date": "08/2008",
+            "description": "Interview, hire, train, schedule, and evaluate group fitness instructors. Maintain and manage fitness rooms and equipment. Sign off payroll. Navigate and use Class Track to provide access to specialty fitness classes. Organize and maintain employee records and CPR/First Aid certifications. Conduct monthly staff trainings and meetings. Execute On-campus incentive program (FITRaider&RaiderXcape). Coordinate and assist with special events (i.e., Fitness Xtravaganza, Tech Well, etc). Rename and brand fitness program (RaiderX and X2). Develop and manage Better U (yoga and pilates) personal training program. Collaborate with other departments on campus for various wellness activities (Amazing Spring Break Race, Alcohol Awareness Week, etc). Advise student supervisor for group fitness and special events. Lead Teen Raider Fitness Xperience."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "01/2001",
+            "end_date": "01/2002",
+            "description": "Assist with development of group fitness department upon opening of facility. Order fitness equipment. Interview, hire, and train fitness instructors. Coordinate monthly fitness class schedule. Organize the BodyPump program launch."
+        },
+        {
+            "title": "Group Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "01/2000",
+            "end_date": "01/2005",
+            "description": "Instruct weekly fitness classes to a variety of ages and levels."
+        },
+        {
+            "title": "Group Fitness Instructor & Personal Trainer",
+            "company": "Company Name",
+            "start_date": "01/1999",
+            "end_date": "01/2005",
+            "description": "Educate patrons on benefits of healthy living by preparing informational bulletin boards. Organize and participate in special events (Partner Yoga, Survivor Challenge, Fitness Challenge, Tech's Largest Boxing/Aerobics/Water Aerobics, Resident Hall Events, Fitness Around the World). Instruct students and faculty in a variety of fitness classes to include: Yoga, Pilates, Step, Cardioboxing, Group Weight Training, Abs, Hi/Lo, Pre/Post-natal, Sculpting, Circuit Training, Cycling, Yogilates, Water Fitness, Ten Weeks to Health, YogaFusion, Nutrition Mondays, Partner Yoga/Couple's Massage, Making Yoga WORK in your Day. Serve on evaluation committee. Assist with the coordination of Fitness Expo (including teaching workshops at Expo). Design exercise programs specific to individual needs. Perform fitness assessments: heart rate, blood pressure, flexibility and muscular strength, cycle ergometer, body composition, circumference measurements. Counsel individuals on proper biomechanics and fitness techniques. Motivate and cultivate healthy lifestyle choices in health and nutrition awareness."
+        },
+        {
+            "title": "Lead Supervisor/Facility Supervisor",
+            "company": "Company Name",
+            "start_date": "01/1999",
+            "end_date": "01/2005",
+            "description": "Provide facility tours and assist Facility Manager with staff training. Navigate programs for facility usage and employee records."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. Ed., Health Promotion & Physical Education",
+            "school": "Virginia Polytechnic Institute and State University (Virginia Tech)",
+            "year": ""
+        },
+        {
+            "degree": "B.S., Human Nutrition, Foods, & Exercise",
+            "school": "",
+            "year": ""
+        },
+        {
+            "degree": "B.A., Interdisciplinary Studies",
+            "school": "",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "CPR",
+        "First Aid"
+    ],
+    "languages": []
+}

@@ -1,0 +1,58 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Responsible Kennel Attendant who remains clearheaded in the face of emotionally demanding jobs. Effectively soothes and manages difficult animals. Has Experience With Caring for Dogs of all ages and Has had training at Animal shelter for behavior and Kennel Responsibility's. Highlights Arts and crafts aptitude Conflict resolution techniques Calm and patient Creative arts talent Training in food handling preparation Active listener Positive and cheerful Creative arts talent Conversant in korean",
+    "skills": [
+        "Problem Solving",
+        "Adaptability",
+        "Collaboration",
+        "Strong Work Ethic",
+        "Time Management",
+        "Critical Thinking",
+        "Self-Confidence",
+        "Handling Pressure",
+        "Leadership",
+        "Creativity"
+    ],
+    "experience": [
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "2015-12",
+            "end_date": "2016-02",
+            "description": "Assessed customer needs and responded to questions. Cleaned and straightened work area. Issued receipts for purchases and gifts. Bagged merchandise by following standard procedures. Organized register supplies."
+        },
+        {
+            "title": "Apparel",
+            "company": "Company Name",
+            "start_date": "2015-09",
+            "end_date": null,
+            "description": "Described use and operation of merchandise to customers. Received and processed cash and credit payments for in-store purchases. Maintained knowledge of current sales and promotions, policies regarding payment and exchanges and security practices. to Apparel."
+        },
+        {
+            "title": "Care-giver",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2015-08",
+            "description": "Read stories to the children and taught them painting, drawing and crafts. Employed a variety of materials for children to explore and manipulate in learning activities and imaginative play. Carefully monitored children's play activities. Offered detailed daily reports that outlined each child's activities. Incorporated music and art activities to encourage creativity and expression."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "school": "Chandler Gilbert Community College",
+            "year": "2017"
+        },
+        {
+            "degree": "GED",
+            "school": "Adult Education School",
+            "year": "2015"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Korean"
+    ]
+}

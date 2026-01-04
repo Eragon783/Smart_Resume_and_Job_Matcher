@@ -1,0 +1,107 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Certified Accountant with more than 10 years experience working with company financial statements. Vast experience in preparing tax returns. Ability to critically review financial statements. Highly motivated manager with excellent administrative, organizational and communication skills. Reliable person with more than 20 years work experience.",
+    "skills": [
+        "Professional Accountant",
+        "Tax Auditing",
+        "Proficient in Microsoft Office",
+        "Management expert",
+        "General and tax accounting",
+        "Expert in taxation",
+        "Good Communication",
+        "Customer Service",
+        "Problem Solver",
+        "Team work",
+        "IT Skill",
+        "Proficient in Quickbooks"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name, City , State",
+            "start_date": "June 2013",
+            "end_date": "November 2013",
+            "description": "Performed debit, credit and total accounts on computer using specialized accounting software. Managed accounting operations, accounting close, account reporting and reconciliations. Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions. Assisted the Managing Director with the production of the monthly financial and management reports. Prepared financial and regulatory reports required by boards of directors."
+        },
+        {
+            "title": "Commissioner of Taxes",
+            "company": "Company Name, City , State",
+            "start_date": "April 2011",
+            "end_date": "April 2012",
+            "description": "Managed over 80 staff responsible for the collection of domestic revenue. Managed the formulation and implementation of the annual operational plan and budget of the domestic taxes department. Prepared and managed the annual budget of the department. Formulated policy objectives and strategy of the department."
+        },
+        {
+            "title": "Deputy Commissioner of Taxes",
+            "company": "Company Name, City , State",
+            "start_date": "April 2007",
+            "end_date": "April 2011",
+            "description": "Ensured that the Large Taxpayer Unit (LTU) maximises revenue collections. Managed and oversee the work of the LTU. Made monthly reports summerising progress against plans and account for variations. Established and reported trends in compliance and liaised with technical services unit to develop procedures or legal changes to counter threats to revenue. Liaised with other government departments and private institutions to establish arrangements for collection, collation and exchange of relevant data. Conducted performance appraisals on LTU staff."
+        },
+        {
+            "title": "Inspector of Taxes",
+            "company": "Company Name, City , State",
+            "start_date": "January 2003",
+            "end_date": "April 2007",
+            "description": "Conducted tax audits on taxpayers. Produced tax audit reports. Ensured taxpayers compliance with payment and filing obligation. Advised taxpayers on tax issues."
+        },
+        {
+            "title": "Assistant Inspector of Taxes",
+            "company": "Company Name, City , State",
+            "start_date": "May 1999",
+            "end_date": "December 2002",
+            "description": "Planned and executed enforcement activities. Inspected tax returns and carryout desk audits. Prepared and issued tax assessments to taxpayers."
+        },
+        {
+            "title": "Tax Officer",
+            "company": "Company Name, City , State",
+            "start_date": "February 1997",
+            "end_date": "April 1999",
+            "description": "Ensured tax returns are processed efficiently. Maintained and up to date records of taxpayers' liability and payments."
+        },
+        {
+            "title": "Senior Tax Clerk",
+            "company": "Company Name, City , State",
+            "start_date": "December 1991",
+            "end_date": "January 1997",
+            "description": "Maintained taxpayer files. Issued tax clearance certificates. Provided first point of contact for taxpayers requiring assistance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "ACCA (Association of Certified Chartered Accountants)",
+            "school": "Kaplan Financial (FTC)",
+            "year": 2002
+        },
+        {
+            "degree": "AAT - Accounting",
+            "school": "Management Development Institute",
+            "year": 1998
+        },
+        {
+            "degree": "Certificate in Management",
+            "school": "HMRC Staff College",
+            "year": 2009
+        },
+        {
+            "degree": "Certificate in Management",
+            "school": "Management Institute for National Development (MIND)",
+            "year": 2007
+        },
+        {
+            "degree": "Certificate in Taxation",
+            "school": "HMRC Staff College",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        "Achieving Management Potential",
+        "Taxation",
+        "Management Development"
+    ],
+    "languages": [
+        "English"
+    ]
+}

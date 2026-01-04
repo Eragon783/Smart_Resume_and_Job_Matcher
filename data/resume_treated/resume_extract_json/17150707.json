@@ -1,0 +1,72 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Versatile HR professional with a strong benefits administration background, progressive cross-functional experience in broad range of HR functions including; HRIS, state and federal reporting, project management, client and vendor relation management, HR regulations, employee relations, HR policies and procedures, training, candidate screening and interviewing, employee oversight Highlights Applaud, Colleague, SAP, ADP, PeopleSoft, Microsoft Office, Aon/Hewitt HRIS Systems Experience",
+    "skills": [
+        "HRIS",
+        "PeopleSoft",
+        "SAP",
+        "ADP",
+        "Microsoft Office",
+        "Aon/Hewitt HRIS Systems",
+        "state and federal reporting",
+        "project management",
+        "client relations",
+        "vendor relations",
+        "HR regulations",
+        "employee relations",
+        "HR policies and procedures",
+        "training",
+        "candidate screening",
+        "interviewing",
+        "employee oversight"
+    ],
+    "experience": [
+        {
+            "title": "HR Shared Services Analyst",
+            "company": "Company Name",
+            "start_date": "2015-09",
+            "end_date": "Current",
+            "description": "Provide customer support for HRIS questions and issues by researching resolving simple to complex policy and transactional questions related to the use of the PeopleSoft HRIS and HR administrative policies and practices. Assist in addressing and resolving inquiries from employees, managers and/or or internal HRBPs Provide tier 1 or 2 support to employees, managers and HRBPs Receive, audit, and complete requests for Mass Changes/ Reorganizations in PeopleSoft Perform periodic audits of data entered into HR systems Establish guideline for setting up standard reports Complete HR transactional, payroll and administrative activities as needed Suggest methods to update, simplify, and enhance processes, procedures and technologies based upon customer feedback Receive, audit, and complete requests for data corrections using Correction Mode in PeopleSoft Support and execute user acceptance testing of system updates and enhancements to PeopleSoft Conduct data audits to ensure data integrity Fulfill general reporting requests Maintain consistent service levels as defined Meet deadlines and handle varying workloads with a high degree of accuracy."
+        },
+        {
+            "title": "Human Resources Representative",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2015-02",
+            "description": "Daily support for the administration of all University benefits programs, including communications with vendors and third party administrators. Maintenance for the Staff Compensation System through market based job evaluation Providing daily administration and counseling to HR staff and University employees on all benefits and compensation systems. Performing day to day administration of a variety of other human resource function including unemployment, forms review and completion, exit interviews and file review. Interpreting University personnel policies and procedures to ensure their equitable application. Providing training and engaging in outreach activities. Providing support for WMU retirees and related retiree benefits programs. Providing technical support for HR Representatives (generalist) for the benefits/compensation subject areas. Providing support and backup to the role of Director Human Resources Benefits & Compensation. Make policy and procedure recommendations based on best practices."
+        },
+        {
+            "title": "Benefits Manager/HRIS Specialist",
+            "company": "Company Name",
+            "start_date": "2012-06",
+            "end_date": "2014-01",
+            "description": "Management of the College's employee benefits programs and the Human Resources Information System (HRIS). Documentation of HR processes and procedures for HRIS management. Provided excellent service to faculty, staff and retirees while ensuring compliance with state and federal employment and benefits law. Oversee the employee benefit enrollment process, serve as primary contact for faculty, staff and retirees with benefit related questions or concerns and work directly with vendors to resolve issues."
+        },
+        {
+            "title": "HR Specialist",
+            "company": "Company Name",
+            "start_date": "2007-12",
+            "end_date": "2011-07",
+            "description": "Managed annual open enrollment and payroll-related functions to include frozen salary, imputed income, rates information, EOI, direct bill for retirees and LOA Supervised the process for worksheet and confirmation statement fulfillment as the direct contact for vendors for both annual and ongoing enrollment Created test plans and conduct testing for HR portal for annual enrollment Successfully maintained the client research mailbox, researched and resolved complex client issues through to resolution Maintained and update process documentation for client processes and procedures Updated and maintained carrier files, imports, and exports."
+        },
+        {
+            "title": "Specialist",
+            "company": "Company Name",
+            "start_date": "2006-11",
+            "end_date": "2007-12",
+            "description": "Processed short term disability payments. Administered leave of absences, including FMLA, for client organizations. Responsible for reporting and metrics."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S : Business",
+            "school": "Western Michigan University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

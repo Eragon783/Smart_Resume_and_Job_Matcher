@@ -1,0 +1,78 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Technical IT Healthcare Consultant with experience designing, building, testing and deploying enterprise-class IT systems across financial, healthcare, telecom, distribution, manufacturing, transportation and pharmaceutical sectors. Skilled in project management, cloud computing, data center migration, system integration and application support, with hands-on experience in Linux/Unix administration, virtualization, clustering, PCI compliance and disaster recovery.",
+    "skills": [
+        "Project Management",
+        "Cloud Computing Services",
+        "Data Center Migration",
+        "Application Integration & Support",
+        "System Integration",
+        "Account Management"
+    ],
+    "experience": [
+        {
+            "title": "Technical IT Healthcare Consultant",
+            "company": "Company Name - City , State",
+            "start_date": "04/2014",
+            "end_date": "Current",
+            "description": "Design,Build, Test, and Deploy base upon technical requirements of vendor. System installations and maintenance (Window 8 Professional server, desktop, network). Implementation of Medisoft V20 Healthcare Application for Clinical Healthcare Facility. Provided Data conversion from existing system to Medisoft V20. performance tuning and troubleshooting of server, network, desktop. Automation of Backup/Restore. Participate in on-call rotation 24x7."
+        },
+        {
+            "title": "Linux System Administrator",
+            "company": "Company Name - City , State",
+            "start_date": "10/2012",
+            "end_date": "01/2014",
+            "description": "Linux Red Hat - configuration, installations, administration, and monitoring twenty IBM Blades with fault tolerant, snapshot, LVM, and selinux. Manage and troubleshoot Linux servers, network, and application issues (Apache, Oracle, Java) System Administration, bash scripting, security, satellite patching, auditing, Unix automation Managing and Administrating automation process utilizing Puppet Automation Tool to implement applications, packages, and upgrades on window and linux environment. TCP/IP networking and troubleshooting and maintain Level 2 and 3 support (24x7)."
+        },
+        {
+            "title": "UNIX/LINUX System Administrator",
+            "company": "Company Name - City , State",
+            "start_date": "04/2010",
+            "end_date": "08/2012",
+            "description": "Managed, administered, and provided remote troubleshooting and analysis for server/client configuration, TCP/IP networking hardware, protocols, LAN and WAN technologies for over 500 servers running Red Hat version 5.6 and Solaris 9.0 Veritas Cluster Server - maintenance on are group applications in the VCS environment Apache, Tomcat, Web Logic - primary support of all applications using Apache and web logic VMware - Administrator primary support of all applications running VM Oracle Middleware/Database - system administrative support Data Center Migration and Consolidation onto Cloud platform and enables. Open System Technology diverted from IBM mainframe Tools - NetScout, Bib Brother, NGROSS, etc. LVM - crated file systems to match the specifications for UNIX servers System administration, scripting, security, patching, auditing, Unix automation PCI Compliance Patching - primary support of all system and application patching for UNIX, Linus, Windows, Solaris System monitoring and alerting tools; Maintain Level 2 and 3 support (24x7) DNS, NIS, NFS, Good Documentation skills Entry level experience with Puppet Automation Tool Jumpstart, kickstart , Manage a highly distributed global network of server."
+        },
+        {
+            "title": "HP-System Administrator",
+            "company": "Company Name - City , State",
+            "start_date": "02/2007",
+            "end_date": "03/2010",
+            "description": "This position requires the maintenance and support of over 900 servers running HP-UX 9, 10, 11i, and linux servers. MC/Service Guard - configuration and maintenance on the exiting service guard clusters for the Oracle databases Ignite-UX - configuration, install and support for DR and build HP-UX Linux Red Hat - configuration and installations of Red Hat version 5.3 on IBM Blades, HP Blades and Dell Blades Superdome - created new Vpar partitions and maintenance on the existing Scripting - write shell scripts to perform monitoring and daily maintenance of the applications and operating systems Disaster Recovery - planning, implementing and documenting LVM - manage physical disks, luns, file systems and volume groups Analyze technical and business requirements/Engineering design and layout Application maintenance and support for Highly Critical Application."
+        },
+        {
+            "title": "HP-UX System Administrator",
+            "company": "Company Name - City , State",
+            "start_date": "01/1995",
+            "end_date": "02/2007",
+            "description": "This position required the maintenance and support of over 1000 HP-UX servers running HP-UX versions 10.20 and 11.X. Performed all system administration functions on the HP-UX server for the crisis management team Superdome - SM, maintenance, patches and upgrades HP_UX System Performance - provided technical solutions to customers and high level support organizations within Hewlett Packard to increase system performance Veritas Clustering - primary support and implemented VCS Clustering Disaster Recovery - perform, document and maintain DR procedure and guideline for Off-site DR drills KVM -created file systems to match the specifications for UNIX servers Korn Shell scripting, security, auditing, UNIX Automation PCI Compliance Patching - primary support of all systems."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Accounting and Computer Science",
+            "school": "Georgia State University",
+            "year": 1987
+        },
+        {
+            "degree": "Technical Certification in IT Technology",
+            "school": "Georgia Tech Institute",
+            "year": 1990
+        },
+        {
+            "degree": "Technical Certification in Programming and Technology",
+            "school": "Georgia Tech Institute",
+            "year": 1992
+        }
+    ],
+    "certifications": [
+        "Deploy Hadoop Cluster",
+        "Configuration and Performance Tuning",
+        "Load Data and Run Application",
+        "Monitoring and Troubleshooting",
+        "Provide Technical Assistance in Administration and Automation",
+        "Disaster Recover Certification"
+    ],
+    "languages": []
+}

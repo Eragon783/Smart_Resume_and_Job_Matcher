@@ -1,0 +1,93 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To pursue a caring and creative career, where I can apply my existing knowledge, acquire new skills and contribute effectively to this nation's future, our children. Having prior experience in IT field, exploring the field to be with children lead to do the Early Childhood Education course and be the part of the little bud's life.",
+    "skills": [
+        "apple",
+        "Art",
+        "book",
+        "Oral",
+        "concept",
+        "conflict resolution",
+        "CPR",
+        "creativity",
+        "Designing",
+        "direction",
+        "Documentation",
+        "First Aid",
+        "Flash",
+        "fundraising",
+        "drawing",
+        "instruction",
+        "Materials",
+        "meetings",
+        "organizing",
+        "philosophy",
+        "express",
+        "Read",
+        "Recording",
+        "Safety",
+        "sound",
+        "teacher",
+        "Teaching",
+        "Transportation"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Analyst",
+            "company": "Company Name",
+            "start_date": "09/2010",
+            "end_date": "09/2011",
+            "description": "I believe that each child has their own potential and interests and curiosity in learning. Designing an organized classroom setup, positive and welcoming, caring and secured, safe-risk taking, theme based, and discussions on their interests during class meetings would create warm atmosphere and environment to grow in every domain of development socially, emotionally, physically, and intellectually. I believe the teacher needs to be a supportive person as well as a guide in providing the information, and plans for hands on activities with tools and materials that help them for self-discovery and understand the lesson in curriculum. Letting kids be kids and have freedom to express their own thoughts and creativity and valuing them. My personal goal for my future classroom is to grow their potential and interests in their own pace without pressurizing with targets. Students should be given information on where to find the answers and given the opportunity to explore the solution rather than giving the direct answers, this gives the space for exploration and creativity. I would have the strong idea on having the curriculum inclusive of each child's needs and interests. Curriculum plan involving group work, which is the key for the student led jobs, and direction to help others, teach respect for others and themselves. Motivation and stimulation are the factors that pull out the full potential of the child. Recording their interests and motivated ideas of every student periodically, and sharing with the parents and caregivers to engage the children. Giving the base line of the activity and watching them on how they expand and give new dimension for more than we thought which is a great feeling. Giving the ownership to the children yields mutual trust, support, and love between teacher and child. Developing trust, love and respect for themselves and others help avoid bullying and hurtful words/actions. Make the point that, every child should be treated consistent, equal, fair and approachable. Giving them the time and space to explore along with spending valuable time with them promotes the emotional development as they spend more time in school than any other place. I believe in the quote 'A strong body makes the mind strong and strong mind makes a body strong', I would encourage more of the outdoor activities during the supporting weather. I feel interaction among peers, conflict resolution, turn taking, creativity, helping others, teaching love and respect can be achieved more in outdoor group activities. A healthy meal plan are one main criteria in making sure they have a balanced diet every meal they eat, lots of fruits and vegetables, dairy foods, and less sodium and sugar. I would be compassionate, dedicated, and continue learn and strive to give the best part to my children as a future teacher. I understand teaching involves regulations, restrictions, and responsibilities, as with any other job but this comes with the package of cherishing moments, excitement, joy of being with the innocent and laughing children. Enjoy students and everything they do and accept them as they are, that would be the best gift we give the children who come to school leaving the parents. My philosophy may grow in the future with experience and continued learning and welcoming the ideas and knowledge from work place."
+        },
+        {
+            "title": "Technology Analyst",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "08/2010",
+            "description": ""
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Company Name",
+            "start_date": "10/2006",
+            "end_date": "06/2008",
+            "description": ""
+        },
+        {
+            "title": "Project Engineer",
+            "company": "Company Name",
+            "start_date": "07/2004",
+            "end_date": "10/2006",
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.E : Computer Science and Engineering",
+            "school": "Folsom Lake College",
+            "year": "December 2016"
+        },
+        {
+            "degree": "Early Childhood Education - 6 Units",
+            "school": "",
+            "year": ""
+        },
+        {
+            "degree": "H.S.C",
+            "school": "Sri Vijay Vidyalaya Matriculation HSS, Dharmapuri",
+            "year": "April 1998"
+        },
+        {
+            "degree": "S.S.L.C",
+            "school": "Sri Vijay Vidyalaya Matriculation HSS, Dharmapuri",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "First Aid and CPR certification (in progress)"
+    ],
+    "languages": []
+}

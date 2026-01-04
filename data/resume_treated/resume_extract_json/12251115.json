@@ -1,0 +1,78 @@
+{
+    "name": "Tyrone Krantz",
+    "email": "",
+    "phone": "720-216-4714",
+    "location": "",
+    "summary": "Executive profile: Over 5 years experience in the marijuana industry, managing and assisting in building up a marijuana business to a multi-million-dollar, multi-company operation. Solid management experience with strong knowledge in operations of Dispensary (Retail), OPC (Grow), and MIP (Manufacturing). CO State industry badge since 8/2011 (M03625).",
+    "skills": [
+        "Advertising",
+        "consultant",
+        "training employees",
+        "Staff training",
+        "Hiring",
+        "HR",
+        "Inspecting",
+        "inventory",
+        "Managing",
+        "marketing",
+        "Excel",
+        "Operations management",
+        "packaging",
+        "pain management",
+        "Payroll",
+        "pricing",
+        "Quickbooks",
+        "sales",
+        "scheduling",
+        "Staff management",
+        "Co2 extraction",
+        "METRC",
+        "MJFreeway",
+        "Compliance",
+        "licensing"
+    ],
+    "experience": [
+        {
+            "title": "Professional Experience Consultant",
+            "company": "Company Name",
+            "start_date": "Feb 2015",
+            "end_date": "Present",
+            "description": "Independent industry operations consultant with private groups."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "Apr 2014",
+            "end_date": "Jan 2015",
+            "description": "Managing operations for (MIP) manufacturing, production, grow; Hiring, scheduling, training employees; Processing company payroll; Assisting in setting up new (high end) Co2 extraction equipment; Operating, maintaining Co2 extraction equipment; Tracking and entering inventory in METRC; Collecting, processing, delivering test samples to lab; Wholesale orders and transfers of product to other facilities."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name",
+            "start_date": "Jul 2010",
+            "end_date": "Apr 2014",
+            "description": "Managing fast paced medical/recreational dispensary; Hiring, scheduling, training employees; Tracking inventory in MJFreeway and METRC, running audits; Inspecting and pricing products; Processing wholesale orders; METRC entry for transfers, wholesales, daily sales, packaging; Balancing cash drawers; Advertising campaigns for marketing products and sales, social media."
+        },
+        {
+            "title": "Owner/ Holistic Healer",
+            "company": "Company Name",
+            "start_date": "Jan 2001",
+            "end_date": "Jun 2010",
+            "description": "Managing private practice working with patients one on one in a therapeutic environment using various modalities for pain management and healing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science, Nursing",
+            "school": "University of North Carolina",
+            "year": ""
+        },
+        {
+            "degree": "Associate of Science, Paramedicine",
+            "school": "Gaston Technical College",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

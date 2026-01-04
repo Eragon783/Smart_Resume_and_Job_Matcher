@@ -1,0 +1,122 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Visionary and highly accomplished Information Technology executive with 20+ years of experience in high-performance environments, overseeing IT infrastructures, ERP, data and voice networking, software development, performance analysis and other critical business processes. Adept at managing enterprise projects and budgets to align IT initiatives with business objectives.",
+    "skills": [
+        "Innovative Leadership",
+        "Change Management",
+        "Infrastructure Design",
+        "Strategic Planning",
+        "Technology Development",
+        "Collaboration and Liaison",
+        "P & L Oversight",
+        "Organizational Development",
+        "Mentoring and Coaching",
+        "Accounting",
+        "Analyst",
+        "business processes",
+        "Cisco Certified",
+        "Coaching",
+        "hardware",
+        "conversion",
+        "clients",
+        "direction",
+        "e-mail",
+        "employee training",
+        "Engineer",
+        "ERP",
+        "Finance",
+        "financials",
+        "human resources",
+        "HR",
+        "information security",
+        "information technology",
+        "inventory",
+        "IP",
+        "Leadership",
+        "Team Leadership",
+        "Managing People",
+        "Managing",
+        "Mentoring",
+        "MS Office suite",
+        "Office",
+        "Windows 7",
+        "Windows 98",
+        "Windows XP",
+        "migration",
+        "needs analysis",
+        "Enterprise",
+        "Network Administrator",
+        "network",
+        "Operating System",
+        "Organizational Development",
+        "phone system",
+        "policies",
+        "printers",
+        "processes",
+        "Programmer",
+        "Project Management",
+        "purchasing",
+        "reporting",
+        "Seminars",
+        "servers",
+        "Service Level Agreements",
+        "SLA",
+        "software development",
+        "strategic",
+        "Strategic Planning",
+        "Supervision",
+        "technical support",
+        "telecom",
+        "telecommunication",
+        "Telephony",
+        "Trainer",
+        "Wordperfect"
+    ],
+    "experience": [
+        {
+            "title": "Director of Information Technology",
+            "company": "Company Name",
+            "start_date": "2005-08",
+            "end_date": "Present",
+            "description": "Manage software development and infrastructure projects. Direct daily operations and oversee vendor relationships. Define project requirements and align efforts with clients and corporate needs; assess outcomes. Develop change management processes, release control, maintenance and employee training programs. Determine needs analysis for infrastructure and software requirements. Establish corporate policies pertaining to staff and employee usage of technology. Provides 24x7 technical support, Service Level Agreements (SLAs) and root cause analysis reporting. Directed staff of 7 IT professionals comprising an IT Manager, Network Administrator, Programmer, IT Trainer and 3 Helpdesk Analysts supporting approximately 675 employees in 18 branches within Florida. Interact with various departments in Corporate to derive pertinent information for Accounting, HR and Finance and formulate decisions based on data derived from the firm-wide ERP system. Accomplishments include: companywide system conversion to Windows 7 and Office 2010 completed within 4 months; standardization of software applications and hardware infrastructure; $300K/year reduction in IT expenditures; implementation of a $1.5 million ERP system; design and installation of an IP hybrid telecom system with $160K annual telecom savings."
+        },
+        {
+            "title": "Manager of Information",
+            "company": "Company Name",
+            "start_date": "2003-02",
+            "end_date": "2005-07",
+            "description": "Provided leadership in the firm's information technology department in the direction, planning and implementation of technology leading to support and alignment of the Firm's business operation to achieve an effective, cost-beneficial and secure IT operations for over 350 users. Provided strategic and tactical planning, development, evaluation, and coordination of the IT Department. Oversee the integrity of all electronic records including information related to information security and data recovery processes. Facilitated communication between staff, management, vendors and other technology resources within the organization. Directed supervision of 6 IT staff including a Network Administrator, 2 IT trainers and 3 Helpdesk Analysts. Ensured that all users are properly trained for secure and effective use of the systems. Accomplishments: Developed system policies addressing areas of risk and formulating a protocol for effective change management; spearheaded conversion of phone system to IP telephony resulting in a 30% decrease in spending for telecommunication infrastructure; coordinated conversion of legacy servers and virtualization of servers, increasing operations efficiency and reducing downtime; migrated several legacy applications and standardized utilization of software."
+        },
+        {
+            "title": "Senior Systems Analyst/Project Manager",
+            "company": "Company Name",
+            "start_date": "1998-07",
+            "end_date": "2003-01",
+            "description": "Responsible for planning and implementation of IT projects while managing and coordinating IT resources. Managed relationships with vendors and suppliers to ensure routine maintenance and that any possible problems are detected before they occur. Evaluated hardware and software acquisition to ensure compatibility and alignment with the Firm's objectives. Ensured all systems are properly updated and evaluated for routine maintenance. Assessed network and e-mail security to ensure network integrity. Responsible for the standardization and migration of Windows 98 Operating System to a Windows XP environment, WordPerfect to MS Office suite and consolidation of networked workstations and printers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Industrial Psychology",
+            "school": "University of Santo Tomas",
+            "year": "1985"
+        },
+        {
+            "degree": "Associates Degree: Computer Science",
+            "school": "Baruch College",
+            "year": "1995"
+        },
+        {
+            "degree": "Cisco Certified Engineer",
+            "school": "Dersyha University",
+            "year": "1997"
+        }
+    ],
+    "certifications": [
+        "Cisco Certified Engineer"
+    ],
+    "languages": []
+}

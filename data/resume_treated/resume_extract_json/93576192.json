@@ -1,0 +1,65 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced educator who over the past 13 years employed a broad range of techniques and teaching strategies to retain student interest, differentiate instruction, and maximize individual learning by gaining immediate feedback through data analysis with use of instructional management systems and best practices. Accomplishments Rated as \"highly effective\" in the category of Collegiality and Professionalism in 2013-2014 Recognized by the Florida Department of Education as a High Impact Teacher in 2014-15 / 2015-16 Received a 4.0 student growth rating in 2015-2016 Awarded OCPS Foundation Grant in 2015-2016 Selected to create mini benchmarks for the county ELA department using Unify - Summer 2016 Chosen as a Mentor for other teachers; completed OCPS Clinical Educator Training Assessed as \"highly effective\" with selected Deliberate Practice Elements three of four years using Marzano's Model of instructional methods Selected to pilot the VIEWpath camera technologies and other evaluation tools using Insight Advance to improve instructional practices  Modeled instruction and hosted campus tours including: OCPS leaders, Future of Educational Technology Tours (FETC), and Broad Foundation Scholarship evaluation team (2014) ",
+    "skills": [
+        "Moodle",
+        "Sphere 2 (Video Creation)",
+        "Google Classroom",
+        "Google Docs",
+        "Google Forms",
+        "Turning Point technologies",
+        "Instructional design",
+        "Edgenuity Program",
+        "Canvas",
+        "Edmodo",
+        "Blackboard",
+        "iMovie",
+        "iBooks",
+        "GarageBand",
+        "MS Office",
+        "Safari Montage Live",
+        "Unify"
+    ],
+    "experience": [
+        {
+            "title": "English Language Arts Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "2009-08",
+            "end_date": "Present",
+            "description": "English Language Arts Teacher responsible for applying a broad range of techniques to retain student interest, differentiate instruction, and maximize learning; used data analysis with instructional management systems; hosted campus tours and mentored teachers; selected to create mini benchmarks for the county ELA department using Unify (Summer 2016); piloted VIEWpath camera technologies and other evaluation tools; modeled instruction and contributed to campus tours for OCPS leaders, FETC, and Broad Foundation Scholarship evaluation team (2014)."
+        },
+        {
+            "title": "English Language Arts Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "2007-08",
+            "end_date": "2009-06",
+            "description": "English Language Arts Teacher. Developed and implemented assessments aligned to state testing formats and Common Core Standards; collaborated within Professional Learning Communities; supported student learning through differentiated instruction."
+        },
+        {
+            "title": "Behavior Specialist Consultant",
+            "company": "Company Name, City, State",
+            "start_date": "2003-08",
+            "end_date": "2007-06",
+            "description": "Familiar with Canvas, Edmodo, and Blackboard; proficient with MS Office; integrated iMovie, iBooks, GarageBand; utilized Safari Montage; analyzed data trends from assessments; worked as part of a Professional Learning Community; developed behavioral and developmental plans for children with Autism Spectrum Disorders; created behavior modification plans for staff, teachers, parents, and children; supervised clinical team members; managed staff during home and school therapy sessions; provided professional development supervision for support staff; coordinated with Psychologists, school officials, insurance providers, and therapists."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.Ed. Technologies Enhanced Learning - Instructional Design",
+            "school": "Seton Hill University",
+            "year": 2003
+        },
+        {
+            "degree": "B.S. Elementary Education",
+            "school": "West Virginia University",
+            "year": 1997
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

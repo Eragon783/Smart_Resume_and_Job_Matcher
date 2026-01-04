@@ -1,0 +1,105 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "More than ten years of progressive experience in manufacturing accounting. Currently preparing for CMA exam; CPA eligible. Strong motivator and morale builder with a positive outlook. Ability to communicate effectively with all levels. Cum Laude graduate with BBA in Accounting and Finance. Exceptional analytical, communication, and leadership skills. Advanced Excel skills. Experience with multiple ERP and Accounting systems - adapt well to different systems. Willing to relocate.",
+    "skills": [
+        "Advanced Excel",
+        "PowerPoint",
+        "Outlook",
+        "Word",
+        "IFS",
+        "Macola Progression",
+        "NetSuite",
+        "JD Edwards",
+        "ADP Payroll",
+        "Tool$",
+        "Crystal Reports",
+        "Global",
+        "FAS - Fixed Asset Software",
+        "Vantage",
+        "QuickBooks",
+        "Month end close",
+        "Year end close",
+        "Cash Management",
+        "Supervision",
+        "AP/AR",
+        "Acquisitions",
+        "Balance sheet",
+        "Bookkeeping",
+        "Budget preparation",
+        "Cash Flow",
+        "ERP",
+        "Financial Statements",
+        "Financial statement analysis",
+        "Fixed Assets",
+        "General Ledger",
+        "Internal Control",
+        "Inventory",
+        "Payroll",
+        "Quality Assurance",
+        "ISO",
+        "ISO 9001"
+    ],
+    "experience": [
+        {
+            "title": "Contract Accountant",
+            "company": "Robbins LLC",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Contracted as accountant for client during a maternity leave (Client ERP software NetSuite). Bookkeeping for clients and personal taxes. Assessed and advised client on internal controls, audit follow up to ensured policy and procedure compliance and effectiveness. Made client recommendation of purchasing card use. Wrote policies and procedures for client. Through rebates and extension of cash flow resulted in 22% total annualized savings."
+        },
+        {
+            "title": "Quality Manager",
+            "company": "Robbins LLC",
+            "start_date": "2008-01",
+            "end_date": "2014-01",
+            "description": "Lead a team of direct report quality assurance specialists and inspectors. Build effective relationships with customers, vendors and plant employees. Manage product inspections to identify and isolate quality issues. Ensure plant compliance with ISO 9001:2008. Zero findings on first plant ISO audit. Education, motivation and training of plant workforce."
+        },
+        {
+            "title": "Senior Staff Accountant",
+            "company": "Robbins LLC",
+            "start_date": "2008-03",
+            "end_date": "2013-04",
+            "description": "Responsible for month end closing process for three plants. Cash management. Management of all AP and AR functions. Supervision of AP/AR clerks. Comparative Financial Statements preparation and review for three plants as well as consolidated. Financial statement analysis; Balance sheet reconciliations; Variance accounts analysis; deep analysis requiring much research. Preparation of Bank Borrowing Base Certificate/ Bank Covenant compliance. Lead semiannual bank audits and financial statement audit. Financial results reporting to President when VP of Finance is unavailable. Year-end inventory audit/verification. Key member of the Robbins Financial Control Committee/internal control testing. Annual Budget preparation and monthly review with department managers. Standard cost and pricing of Molded Product. Assist with raw material and Customix standard updates. Miscellaneous projects, assist or advise where/when needed."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Robbins LLC",
+            "start_date": "2004-01",
+            "end_date": "2008-01",
+            "description": "General ledger: BS accounts, fixed assets, inter-company accounts. Sales and use tax for multiple states. Prepared/implemented procurement card policy and procedure. Key member of fixed asset module implementation. Assist with acquisitions."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Robbins LLC",
+            "start_date": "2004-01",
+            "end_date": "2004-01",
+            "description": "Payroll and cash management."
+        },
+        {
+            "title": "Accounts Receivable",
+            "company": "Robbins LLC",
+            "start_date": "2003-01",
+            "end_date": "2004-01",
+            "description": "Accounts receivable and accounts payable."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA in Accounting and Finance",
+            "school": "University of North Alabama",
+            "year": 2004
+        },
+        {
+            "degree": null,
+            "school": "Columbia State Community College",
+            "year": 2001
+        }
+    ],
+    "certifications": [
+        "CMA (in progress)"
+    ],
+    "languages": []
+}

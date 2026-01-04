@@ -1,0 +1,101 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Denver, Colorado area",
+    "summary": "Results-driven fitness trainer and coach with 4+ years of experience in the fitness field. Passionate about developing programs to improve fitness, stamina, and healthy living. Strong customer service, communication, and organizational skills to advance in fitness and wellness.",
+    "skills": [
+        "Exercise Science",
+        "Online coaching",
+        "Teaching and instructional abilities",
+        "CPR and First Aid",
+        "Macro counting",
+        "Corporate Wellness assessments",
+        "Motivation and coaching",
+        "Health and wellness promotion",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Oracle",
+        "Sales",
+        "Customer service",
+        "Investments",
+        "Organizational skills",
+        "Process improvement",
+        "Enthusiasm and energy",
+        "Interpersonal skills"
+    ],
+    "experience": [
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "January 2017",
+            "end_date": "April 2017",
+            "description": "Shadowed personal training sessions, group fitness classes, corporate wellness clients, and new client testing. Designed 10 daily workouts to be stored in the Inward Fitness library to be given out to clients. Created and executed a 30 day fitness challenge for clients of the gym. Proposed outside educational events to do a sports clinic at. Planned and executed a fitness presentation to the staff."
+        },
+        {
+            "title": "Fitness Coach",
+            "company": "Company Name",
+            "start_date": "September 2015",
+            "end_date": "January 2017",
+            "description": "Worked one-on-one with online clients, personal training clients, and coached both small and large group fitness classes. Designed and implemented training and nutrition schedules based on client's fitness assessments, in order to achieve their fitness goals and optimal results. Energetically guided clients in solo and group exercise activities, taking into account individualized physical limitations. Assisted the owner with facility marketing, membership sales, and member engagement. Was highly involved in the social media aspect of the facility which included Facebook and Instagram."
+        },
+        {
+            "title": "Group Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "September 2013",
+            "end_date": "June 2016",
+            "description": "Demonstrated leadership capabilities at the front of a class while making it a safe and enjoyable fitness experience, while ensuring member retention. Met participants before and after class to answer questions and maintain a positive exercise experience. Established organizational skills in creating and preparing combinations to be taught within the parameters of the format. Represented a high degree of energy and endurance to complete each fitness class in its entirety."
+        },
+        {
+            "title": "Group Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "September 2011",
+            "end_date": "June 2016",
+            "description": "Developed, organized, and taught group workouts for members that included various aerobic and weight training routines. Prepared teaching area for each class and organized all equipment at the end of each class. Guided beginner, intermediate, and advanced fitness classes. Demonstrated a solid knowledge of workout routines based on appropriate skill levels."
+        },
+        {
+            "title": "Technical Specialist II",
+            "company": "Company Name",
+            "start_date": "July 2007",
+            "end_date": "Present",
+            "description": "Ensure accurate and timely reconciliation of client accounts in order to provide clients and branches with all of the reporting information for their investments. Provide superior customer service to our clients to support the firm's objectives. Contribute to an inclusive team oriented work environment to maximize team productivity. Continuously seek and determine ways to identify opportunities to improve processes for internal Oracle reports."
+        },
+        {
+            "title": "Customer Service Manager",
+            "company": "Company Name",
+            "start_date": "March 2004",
+            "end_date": "August 2007",
+            "description": "Exercised general supervision of the staff to ensure all functions are performed in accordance with established guidelines and procedures. Was a member of the elite training program which involved the training, motivation, and monitoring of direct reports. Performed monthly, quarterly, and yearly audits of the branch in order to stay in compliance. Diligently stressed quality customer service and sales quotas to each associate."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Exercise Science",
+            "school": "Missouri Baptist University",
+            "year": 2017
+        },
+        {
+            "degree": "Master of Science in Exercise Science",
+            "school": "Missouri Baptist University",
+            "year": 2017
+        },
+        {
+            "degree": "Master Certificate in Exercise Science",
+            "school": "Missouri Baptist University",
+            "year": 2017
+        },
+        {
+            "degree": "Associate of Arts in Business Administration",
+            "school": "St. Louis Community College",
+            "year": 2005
+        }
+    ],
+    "certifications": [
+        "Certified AFAA Group Fitness Instructor",
+        "Certified AFAA Mat Pilates Instructor",
+        "Certified Spin 360 Instructor",
+        "CPR and First Aid Certification"
+    ],
+    "languages": []
+}

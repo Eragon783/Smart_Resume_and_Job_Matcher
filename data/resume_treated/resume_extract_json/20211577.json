@@ -1,0 +1,110 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To obtain a position which utilizes and enhances my education and work experience with the Potential for career advancement. Recognized for long hours, commitment to customers, attention to detail and follow up. Work well as a team member or independently and under pressure. Demonstrates ability to meet the needs of patrons, dependable, hardworking and punctual. Excellent basic clerical and computer skill including knowledge of Microsoft Office. Excellent interpersonal, listening and communication; both written and spoken skills. Sound ability to keep sensitive information confidential. Sound organization skills, goal- oriented, proactive, and excellent at reporting.",
+    "skills": [
+        "Healthcare data systems (HEDIS)",
+        "MMIS (Georgia Medical Management Information System)",
+        "GRITS (Georgia Registry of Immunization Transactions and Services)",
+        "Excellent communication skills",
+        "Advanced clerical knowledge",
+        "Filing and data archiving",
+        "Medical billing",
+        "Customer service",
+        "Delivery",
+        "Faxes",
+        "Filing",
+        "Insurance",
+        "Microsoft Office Suite",
+        "Management Information System",
+        "Reading",
+        "Scheduling",
+        "Technical support",
+        "Technician",
+        "Phones",
+        "Transportation"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Effectiveness and Information Set Coordinator (HEDIS)",
+            "company": "Company Name",
+            "start_date": "04/2014",
+            "end_date": "Current",
+            "description": "Handle inbound/outbound member calls and assist them with service, appointment scheduling, arranging transportation, and initiating reminder calls, e-mails and/or faxes. Educate and inform members about current and past due clinical services to improve member health outcomes and HEDIS rates. Conduct HEDIS provider chart request calls to support medical record capture for HEDIS supplemental data review and abstraction. Record and document all member and provider outreach activity using Microsoft Office Suite applications and web-based technology. Review member plan eligibility using MMIS. Review member claims data to determine need for services using the Health Plan Proprietary Information system or GRITS. Identify and refer members to internal programs and services such as Case Management and Disease Management. Maintain strict confidentiality and compliance with HIPAA during outreach activities."
+        },
+        {
+            "title": "Data Entry/File Clerk/ Receptionist/ Customer Service Rep",
+            "company": "Company Name",
+            "start_date": "10/2013",
+            "end_date": "01/2014",
+            "description": "Entered information from lease into the system. Pulled, filed, and organized resident leases, in numeric and alphabetic order. Worked the front window and assisted walk-in clients. Answered incoming calls, provided information about properties that are move-in ready, and contacted leasing agents for information that assist with more information the property, and transferred all other calls to the appropriate department."
+        },
+        {
+            "title": "Customer Service/ Pharmacy Technician",
+            "company": "Company Name",
+            "start_date": "10/2012",
+            "end_date": "08/2013",
+            "description": "Provided customer service to patients who wanted or needed to save money on name brand prescription drugs. Activated/Deactivated Rx Discount cards for qualifying and non-qualifying patients. Assisted pharmacist and pharmacy technicians with proper steps on how to bill the Rx discount cards. Verified card benefits, provided override codes when needed and reversed paid claims upon request."
+        },
+        {
+            "title": "Passport II Specialist",
+            "company": "Company Name",
+            "start_date": "02/2012",
+            "end_date": "09/2012",
+            "description": "Provide General Information for customers who need assistance with obtaining a U.S. Passport. Educate customers about personal account information and their minors Passport."
+        },
+        {
+            "title": "Customer Service/ Inbound Sales Rep",
+            "company": "Company Name",
+            "start_date": "01/2011",
+            "end_date": "12/2011",
+            "description": "Provided award winning customer service to Consumer Cellular as well as AARP Members with ordering easy to use cell phones. Took bill payments as well as made payment arrangements on account balances."
+        },
+        {
+            "title": "Customer Service/ Inbound Sales Rep",
+            "company": "Company Name",
+            "start_date": "08/2010",
+            "end_date": "01/2011",
+            "description": "Assisted with ordering large appliances over the phone for customers. Provided online assistance when needed and education about appliances. Assisted with setting up appointments for cleaning, repair and delivery."
+        },
+        {
+            "title": "Customer Service/ Sales Rep",
+            "company": "Company Name",
+            "start_date": "06/2008",
+            "end_date": "12/2009",
+            "description": "Provided award winning customer service to Sprint/Nextel and satisfy customers on every call. Assisted customers with paying their bills as well as reading bills, sold phones and accessories, ported customers to Sprint/Nextel. Handled account modifications and all account needs. Assisted with technical support for the Peek device activated and deactivated services when needed or upon request."
+        },
+        {
+            "title": "Debt Collector",
+            "company": "Company Name",
+            "start_date": "02/2008",
+            "end_date": "05/2008",
+            "description": "Assisted with everyday transactions as instructed. Attended Owens Community College after work hours."
+        },
+        {
+            "title": "File Clerk and Backup Receptionist",
+            "company": "Company Name",
+            "start_date": "08/2007",
+            "end_date": "10/2007",
+            "description": "Alpha and Numerical Medical Record Filing for the Claims Department."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "05/2006",
+            "end_date": "12/2006",
+            "description": "Performed all duties as instructed."
+        }
+    ],
+    "education": [
+        {
+            "degree": "H.S. Diploma",
+            "school": "Humanities and Science Institute (ICI)",
+            "year": "2007"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

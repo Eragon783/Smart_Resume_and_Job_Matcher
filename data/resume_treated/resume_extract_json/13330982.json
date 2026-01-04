@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Education professional driven to create an environment that promotes hands-on learning for children at all stages of the learning process. Proficient with Microsoft Office, Smart Board, Geographic Information System, Engrade, Skedula, and Internet; experienced in counseling, first aid and CPR, classroom management, and developing school programs and events.",
+    "skills": [
+        "Microsoft Office",
+        "Smart Board",
+        "Geographic Information System",
+        "Engrade",
+        "Skedula",
+        "Internet",
+        "Counseling",
+        "First Aid and CPR Certified",
+        "Classroom management",
+        "Curriculum development",
+        "Event planning"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "2009-09",
+            "end_date": "Present",
+            "description": "Taught Regents level Earth Science; developed curriculum, projects, and exams; facilitated and administered required labs; incorporated film throughout the curriculum; exclusively used SmartBoard lessons to enhance student learning. Taught Environmental Science (11th Grade); developed curriculum, projects, and exams; facilitated labs and activities. Taught Health class incorporating the six components of Health: Physical, Emotional, Social, Mental, Spiritual, and Environmental."
+        },
+        {
+            "title": "Female Soccer Assistant Coach",
+            "company": "Company Name, City, State",
+            "start_date": "2012-08",
+            "end_date": "Present",
+            "description": "Coordinated practices; taught basic and advanced soccer skills; created and ran up-to-date and relevant drills. Monitored the academic performance of student-athletes in addition to their athletic progress. Helped develop each participant's physical and psychological fitness. Fostered a culture of good sportsmanship, cooperation and responsibility. Motivated and encouraged student athletes to do their best during practices and games."
+        },
+        {
+            "title": "School Safety Officer",
+            "company": "Company Name, City, State",
+            "start_date": "1996-01",
+            "end_date": "1998-10",
+            "description": "Provided safe and secure learning environment in various high schools; became a qualified driver."
+        },
+        {
+            "title": "Youth Care Worker/Recreation Director",
+            "company": "Company Name, City, State",
+            "start_date": "1994-01",
+            "end_date": "1996-01",
+            "description": "Facilitated and planned all recreational activities including calisthenics, basketball games, pool tournaments, and trips away from facility. Taught social skills to youth incarcerated for non-violent crimes in anticipation of release back into society; implemented treatment plans set by qualified therapists. Worked closely with the youth to implement Boy's Town's Behavior Modification program."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Education",
+            "school": "Concordia University (Online)",
+            "year": "2015"
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Brooklyn College/CUNY",
+            "year": "2009"
+        }
+    ],
+    "certifications": [
+        "First Aid and CPR Certified"
+    ],
+    "languages": []
+}

@@ -1,0 +1,91 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Looking for a Manager position in a company that provides an open environment with opportunities for continuous growth. Highly motivated achiever recognized for combining program excellence, integrity, and innovation with best practices and disciplined attention to achieving immediate and long-term goals.",
+    "skills": [
+        "10-key by touch",
+        "accounts payable",
+        "accounts receivable",
+        "administrative",
+        "billing",
+        "budgets",
+        "budget",
+        "Cisco",
+        "closing",
+        "interpersonal",
+        "customer satisfaction",
+        "customer care",
+        "database",
+        "direction",
+        "driving",
+        "general ledger",
+        "government",
+        "Internet Explorer",
+        "team building",
+        "director",
+        "managing",
+        "meetings",
+        "Access",
+        "Excel",
+        "Microsoft Office",
+        "Power Point",
+        "Windows",
+        "Word",
+        "Works",
+        "negotiating",
+        "PeopleSoft",
+        "policies",
+        "presenting",
+        "processes",
+        "quality",
+        "quality control",
+        "research",
+        "Vantive",
+        "Vista",
+        "written",
+        "Amdocs",
+        "Exony",
+        "Ensemble",
+        "1SourceCenter Connect",
+        "ICare",
+        "Call Support Tools",
+        "TotalView/IEX"
+    ],
+    "experience": [
+        {
+            "title": "Finance Operations / Supervisor Manager",
+            "company": "Company Name, City, State",
+            "start_date": "1999-09",
+            "end_date": "2012-02",
+            "description": "Supervised and managed daily operations of employees. Monitored performance and ensured quality control; prepared daily reports of key milestones; handled billing inquiries; reconciled daily accounts payable, accounts receivable, and cash receipts in the general ledger; developed process improvements to enhance efficiency; implemented employee incentives; managed collections and new accounts; interfaced with upper management to identify performance gaps and develop departmental budgets and controls."
+        },
+        {
+            "title": "Customer Relations Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2012-03",
+            "end_date": "Present",
+            "description": "Supervised and managed daily operations; led key projects resulting in employee recognition; ensured customer satisfaction and implemented service standards; prepared daily and monthly performance reports; oriented new hires; advised on opportunities and training; negotiated resolutions of customer complaints; managed department budget and controls; developed and implemented process improvements to enhance efficiency and effectiveness."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate in Early Childhood Education",
+            "school": "Community College of Denver",
+            "year": 1995
+        },
+        {
+            "degree": "Diploma: General Studies",
+            "school": "Emily Griffith Opportunity School",
+            "year": 1993
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "George Washington High School",
+            "year": 1993
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

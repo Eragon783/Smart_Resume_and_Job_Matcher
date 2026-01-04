@@ -1,0 +1,101 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Licensed United Healthcare Insurance Sales Agent with a proven track record in sales and customer service, skilled at upselling/cross-selling health insurance products, building strong client relationships, and delivering exceptional service while meeting or exceeding goals.",
+    "skills": [
+        "Time Management",
+        "Effective Communication",
+        "Trouble Shooting",
+        "Problem Solving",
+        "Cloud technology",
+        "Skype",
+        "Proficient",
+        "Microsoft Office Suite",
+        "Instant Messaging",
+        "Web Chat",
+        "Negotiating",
+        "Up-sell",
+        "Cross-Sell Ability",
+        "Outlook Email",
+        "Lotus Notes",
+        "Quicken",
+        "QuickBooks"
+    ],
+    "experience": [
+        {
+            "title": "Licensed United Healthcare Insurance Sales Agent",
+            "company": "Company Name – City, State",
+            "start_date": "09/2014",
+            "end_date": "10/2015",
+            "description": "Provided services to clients changing or updating healthcare insurance needs by upselling/cross-selling a variety of health insurance products (MA, MAPD, MED Sup and PDPs) for groups and individual consumers; assisted with outbound campaigns to ensure customer satisfaction; demonstrated prospecting skills; met/exceeded sales goals; built new client relationships with strong people skills and product knowledge while maintaining HIPAA compliance and company policy."
+        },
+        {
+            "title": "Account Executive Sales Agent/FedEx Account",
+            "company": "Company Name – City, State",
+            "start_date": "03/2014",
+            "end_date": "09/2014",
+            "description": "Maintained and deepened existing customer relations; made outbound calls to engage customers with new products and services to develop value propositions; increased volume from existing customers; delivered client services using effective negotiation and collaboration; conducted daily rapport-building with customers using a consultative sales approach and maintained regular contact with designated accounts."
+        },
+        {
+            "title": "Licensed United Healthcare Insurance Sales Agent",
+            "company": "Company Name – City, State",
+            "start_date": "09/2013",
+            "end_date": "03/2014",
+            "description": "Provided services to clients updating healthcare insurance needs by upselling/cross-selling health insurance products (MA, MAPD, MED Sup and PDPs) for groups and individuals; assisted with outbound campaigns; demonstrated prospecting skills; built new client relationships with strong people skills and product knowledge while gaining customer trust and rapport; followed HIPAA guidelines and company policy."
+        },
+        {
+            "title": "Customer Service Agent",
+            "company": "Company Name – City, State",
+            "start_date": "04/2013",
+            "end_date": "09/2013",
+            "description": "Handled pharmacy/pharmacist contacts via telephone regarding insurance authorization, benefits, claims, and general assistance; resolved adjudicated prescription claims related to member eligibility and prior authorizations/ overrides; delivered exceptional customer service in a fast-paced environment while adhering to HIPAA and CMS compliance."
+        },
+        {
+            "title": "Online Customer Service & Sales Agent/ Web/Ivr PSR II",
+            "company": "Company Name – City, State",
+            "start_date": "11/2008",
+            "end_date": "09/2012",
+            "description": "Provided inbound calls to assist personal and business customers with website navigation, troubleshooting and account maintenance; established online accounts, password resets, and user IDs; managed online bill pay issues; reconciling accounts using Quicken and QuickBooks; educated and referred all product/services; achieved first-contact resolutions and ensured regulatory compliance (BSA, USA PATRIOT Act, OFAC, FDIC, TISA, HMDA, CRA)."
+        },
+        {
+            "title": "Customer Service Task Specialist",
+            "company": "Company Name – City, State",
+            "start_date": "07/2006",
+            "end_date": "08/2008",
+            "description": "Made contact with creditors and new/existing clients to open/update accounts; negotiated terms; updated and modified payables; collected and processed payments; achieved quota goals of 200 inbound/outbound calls daily; collaborated with customer care departments to enhance service."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Administration",
+            "school": "DeVry University, Charlotte, NC",
+            "year": 2013
+        },
+        {
+            "degree": "Web/ IVR Certificate",
+            "school": "Wachovia Bank NA, Charlotte, NC",
+            "year": 2008
+        },
+        {
+            "degree": "Career Readiness Silver Certificate",
+            "school": "Central Piedmont Community College",
+            "year": 2001
+        },
+        {
+            "degree": "Computer Office Information Systems Certificate",
+            "school": "Central Piedmont Community College",
+            "year": 2001
+        },
+        {
+            "degree": "High School Equivalency Diploma",
+            "school": "Central Piedmont Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Web/ IVR Certificate (2008)"
+    ],
+    "languages": []
+}

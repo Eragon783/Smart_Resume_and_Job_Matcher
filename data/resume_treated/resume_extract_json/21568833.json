@@ -1,0 +1,96 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Consultant in Accounting/Regulatory and banking operations with extensive experience in tax preparation, regulatory reporting, general ledger, reconciliations, and financial statements. Proficient in Microsoft Office, Lotus Notes, QuickBooks, ACBS, BCS, OTG, AP, RECON+, FMS (G/L), REVAL, and Bloomberg. Recognized with Certificates of Recognition (1998) and Certificate of Appreciation (1999).",
+    "skills": [
+        "Accounting",
+        "accounts payable",
+        "accruals",
+        "AP",
+        "Auditing",
+        "Balance Sheet",
+        "bank reconciliation",
+        "banking",
+        "BC",
+        "Bloomberg",
+        "bonds",
+        "Business Law",
+        "closing",
+        "consultant",
+        "Controller",
+        "clients",
+        "Senior Management",
+        "Finance",
+        "financial reports",
+        "financial statements",
+        "Fixed Assets",
+        "focus",
+        "forms",
+        "General Ledger",
+        "Government",
+        "insurance",
+        "Lotus Notes",
+        "Microsoft Office",
+        "Office",
+        "month end closing",
+        "policies",
+        "QuickBooks",
+        "retail",
+        "sales",
+        "securities",
+        "Swaps",
+        "tax",
+        "taxes",
+        "tax returns",
+        "valuation",
+        "monthly variance analysis",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Transworld Inc (client engagement)",
+            "start_date": "2013-01",
+            "end_date": "2016-09",
+            "description": "Engaged with Transworld Inc, an insurance brokerage and accounting services company. Responsibilities included preparation of tax returns for clients, handling audit matters with IRS and NYS tax authorities; preparation of sales tax returns (monthly, quarterly, yearly); preparation of accounts, reports and financial statements; provided full accounting services to clients."
+        },
+        {
+            "title": "Senior Accountant/Accounting Officer",
+            "company": "The New York Branch of Bank Hapoalim",
+            "start_date": "2000-01",
+            "end_date": "2013-01",
+            "description": "Reviewed General Ledger and posted entries to ensure accuracy and GAAP compliance. Managed month-end, quarterly, and year-end closings; posted journal entries; prepared month-end accruals; processed sales and use tax returns and commercial rent tax; prepared call reports; handled tax payments to IRS for forms 1042 and 945 (1099); assisted in special projects; supervised bank reconciliations and accounts payable; supervised fixed assets records; ensured GAAP alignment; performed monthly FAS115 valuation entries; prepared monthly reports for two bank subsidiaries using QuickBooks; prepared amortization of premium/discount reconciliation for Callable CDs; prepared aging analysis of suspense items; managed assets swaps accounting, government bonds/securities; securities available-for-sale, trading and non-trading; developed accounting policies; maintained Chart of Accounts; processed vendor and employee payments."
+        },
+        {
+            "title": "Regulatory/Compliance Accountant",
+            "company": "Company Name",
+            "start_date": "1988-01",
+            "end_date": "2000-01",
+            "description": "Responsible for regulatory reporting (FR 2900, FR2951, BL 1, BC, BQ, BL (SA), BC (SA), FFIEC 002 Call Report via DPSC Software). Prepared monthly financial statements and various reports for Head Office; produced statistical and quarterly reports to the Department of Commerce. Managed month-end closing; developed and implemented Compliance procedures and Manual to satisfy BSA, FRB regulations and US sanctions; evaluated and updated procedures to simplify accounting; prepared monthly variance analysis and monthly/quarterly BSA, OFAC, US sanctions and FRB compliance reports; handled NYS Banking and FRB examiners."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Accounting",
+            "school": "York College, City University of New York",
+            "year": "1994"
+        },
+        {
+            "degree": "B.S. in Accounting",
+            "school": "University of Sindh, Hyderabad, Pakistan",
+            "year": "1979"
+        },
+        {
+            "degree": "M.A. in Economics",
+            "school": "University of Sindh, Hyderabad, Pakistan",
+            "year": "1983"
+        }
+    ],
+    "certifications": [
+        "Certificate of Recognition (1998)",
+        "Certificate of Appreciation (1999)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,96 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Advanced Desktop Support Lead/Manager with 14+ years of experience in the Information Technology field providing Tier II-III technical support. Proven troubleshooting expertise resolving end-user issues quickly and exceeding SLA. Over 15 years of experience supporting United States Senate end-users across multiple platforms.",
+    "skills": [
+        "Arabic",
+        "Back-up",
+        "budgets",
+        "hardware",
+        "client",
+        "Database",
+        "database management",
+        "designing",
+        "disaster recovery",
+        "documentation",
+        "financial",
+        "Help Desk",
+        "HP",
+        "local area network",
+        "LAN",
+        "Leadership",
+        "access",
+        "network",
+        "networks",
+        "NT servers",
+        "PCs",
+        "policies",
+        "printer",
+        "processes",
+        "Research",
+        "SQL",
+        "MS SQL",
+        "desktop support",
+        "training programs",
+        "Troubleshooting",
+        "Upgrades",
+        "WAN",
+        "workflow"
+    ],
+    "experience": [
+        {
+            "title": "Administrator of Information Technology",
+            "company": "United States Senate",
+            "start_date": "2007-01-17",
+            "end_date": "Present",
+            "description": "Research, implement and support new technologies in support of developing public policy implement and support of 175-person infrastructure upgrades. Train technical and general staff in support processes and troubleshooting techniques. Establishes system specifications by conferring with users; analyzing workflow, access, information, and security requirements; designing system infrastructure. Establishes system by planning and executing the selection, installation, configuration, and testing of PC and server hardware, software, LAN and WAN networks, and operating and system management systems; defining system and operational policies and procedures. Maintains system performance by performing system monitoring and analysis, and performance tuning; troubleshooting system hardware, software, networks and operating and system management systems; designing and running system load/stress testing; escalating application problems to vendor. Secures system by developing system access, monitoring, control, and evaluation; establishing and testing disaster recovery policies and procedures; completing back-ups; maintaining documentation. Prepares users by designing and conducting training programs; providing references and support. Upgrades system by conferring with vendors and services; developing, testing, evaluating, and installing enhancements and new software. Meets financial requirements by submitting information for budgets; monitoring expenses for the entire Leadership conference. Protects organization's value by keeping information confidential."
+        },
+        {
+            "title": "Network Support Engineer",
+            "company": "United States Senate",
+            "start_date": "2004-08-17",
+            "end_date": "2006",
+            "description": "Integrated, selected and developed procedures to support 3rd party. Provided support for software, printing, and network access issues to entire Senate community. Provided senior level support to internal Help Desk operations. Worked on integrating with 3rd party software. Responsible for installation, configuration and support of Capitol Correspond sql database. Trouble shooting with HP printer issues. Worked on connecting and configuring PC's, and NT servers to the network. Assure that H/W and software are working smoothly within the environment. Provide desktop support in a cross-platform environment Support the ongoing development and maintenance of local area network Support effective security systems. Back-up systems and updates. Perform special projects as needed. Identify, research, and recommend solutions on technical issues as needed."
+        },
+        {
+            "title": "Software Specialist",
+            "company": "United States Senate",
+            "start_date": "2000-08-15",
+            "end_date": "2004",
+            "description": "Provides client site level 2 support of capitol Correspond database management software running on MS SQL database. Responsible for installation, configuration and support of Capitol Correspond SQL database. Provided client training for the use of Capitol Correspond Database. Trouble shooting with MS SQL, and troubleshooting printer issues. Provided client training for the use of Capitol Correspond Database. Worked on connecting and configuring PCs, and NT servers to the network. Provide desktop support in a cross-platform environment Support the ongoing development and maintenance of local area network Support effective security systems. Back-up systems and updates. Perform special projects as needed. Identify, research, and recommend solutions on technical issues as needed."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts",
+            "school": "AMERICAN MILITARY UNIVERSITY",
+            "year": 2014
+        },
+        {
+            "degree": "State Graduate Certificate",
+            "school": "AIR FORCE AIR COMMAND AND STAFF COLLEGE",
+            "year": 2013
+        },
+        {
+            "degree": "Master of Science",
+            "school": "MARYMOUNT UNIVERSITY",
+            "year": 2007
+        },
+        {
+            "degree": "Bachelor of Science",
+            "school": "MARYMOUNT UNIVERSITY",
+            "year": 1999
+        }
+    ],
+    "certifications": [
+        "Certified Cyber Intelligence Professional (CCIP) (2016)",
+        "CompTIA A+ (2016)",
+        "CompTIA Network+ (2016)",
+        "CompTIA Security+ (2016)"
+    ],
+    "languages": [
+        "Arabic (fluent)"
+    ]
+}

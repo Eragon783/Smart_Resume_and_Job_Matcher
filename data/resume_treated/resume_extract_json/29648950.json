@@ -1,0 +1,81 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Finance and Sales with management training experience and exceptional people skills. Versed in strategic leadership roles and responsible for training small groups of new hires. Desires a challenging role as your Finance and Insurance Manager.",
+    "skills": [
+        "Advertising",
+        "Making appointments",
+        "art",
+        "Closing",
+        "Counseling",
+        "Credit",
+        "Clients",
+        "Customer Service",
+        "Databases",
+        "Email",
+        "Filing",
+        "Finance",
+        "forms",
+        "Insurance",
+        "Marketing",
+        "meetings",
+        "mentoring",
+        "Negotiating",
+        "Networking",
+        "pricing",
+        "Real Estate",
+        "Selling",
+        "Sales Manager"
+    ],
+    "experience": [
+        {
+            "title": "Finance and Sales Consultant",
+            "company": "Company Name - City, State",
+            "start_date": "January 2015",
+            "end_date": "January 2016",
+            "description": "Finance and Sales Consultant with a 94% finance approval rate and 85% closing rate. Responsible for direct customer contact to finance newly purchased vehicles, coordinating with lenders to close deals, and upselling products and services. Trained four new hires and mentored others, led daily meetings, and collaborated with colleagues to improve sales and finance performance. Served as Assistant Sales Manager when needed, managed customer wait lists, and communicated facility operations. Advised on down payments and collateral strategies, leveraging knowledge of banks that work with challenged credit. Maintained an 85% closing rate, documented 100% Extended Service Plan upsells for two months, and maintained a 75% upsell ratio on Gap Insurance."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name - City, State",
+            "start_date": "October 2013",
+            "end_date": "January 2015",
+            "description": "Identified vehicles to match customer needs, supervised vehicle prep and timely delivery, and worked with management to ensure sale closure. Responded to email leads and phone inquiries, increasing sales by 20% over two years. Maintained an average of 15 cars sold per month and developed a large referral and repeat customer base. Counseled customers in purchasing decisions."
+        },
+        {
+            "title": "Sellers Agent",
+            "company": "Company Name - City, State",
+            "start_date": "September 2013",
+            "end_date": "December 2014",
+            "description": "Advertising and marketing own real estate business under a broker. Listed homes on MLS and other platforms, achieving a 30-day close rate for two years. Negotiated with buyers' agents, hosted open houses, and ensured title work was completed at closing. Assisted investors in listing homes for sale or rent. Open to other duties as needed."
+        },
+        {
+            "title": "Buyers Agent",
+            "company": "Company Name - City, State",
+            "start_date": "September 2013",
+            "end_date": "December 2014",
+            "description": "Cold-called clients to attract buyers, discussed financing opportunities, and advised on pricing and mortgage maintenance. Searched for homes that fit client needs and budget, scheduled showings, and built strong client relationships with loan officers and bankers to secure favorable terms."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science in Business Management",
+            "school": "Prince George's Community College",
+            "year": 2012
+        },
+        {
+            "degree": "Real Estate Sales Licensure",
+            "school": "Long and Foster Continuing Education",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "MAR - Maryland Associations of Realtors",
+        "PAR - Prince George's County Realtor",
+        "REALTOR NAR - National Associations of Realtors",
+        "PMA - Property Management Association"
+    ],
+    "languages": []
+}

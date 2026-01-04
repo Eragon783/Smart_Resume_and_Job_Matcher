@@ -1,0 +1,141 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Solutions-focused, versatile management professional with a 30-year U.S. Marine Corps career, adept at leading teams, doctrine/publication development, and complex operational support. Demonstrates strong verbal and written communication, organizational prowess, and security clearance experience, with extensive field and training leadership across MEU/SOC deployments.",
+    "skills": [
+        "verbal communication",
+        "extremely organized",
+        "strong managerial skills",
+        "attention to detail",
+        "effective writing",
+        "Top Secret/SCI security clearance",
+        "Security clearance",
+        "CPR certification",
+        "firearms safety training",
+        "defensive tactics",
+        "intelligence gathering techniques",
+        "emergency response",
+        "doctrinal writing",
+        "concept development",
+        "leadership",
+        "mentoring",
+        "weapons",
+        "Navy",
+        "network",
+        "organizational",
+        "personnel",
+        "processes",
+        "publication",
+        "research",
+        " robotics",
+        "safety",
+        "writer",
+        "Marine Corps/ Air Force",
+        "Army",
+        "ATP 3",
+        "ATP",
+        "C",
+        "CA",
+        "Concept",
+        "Consultant",
+        "databases",
+        "Driving",
+        "government",
+        "instruction",
+        "Instructor",
+        "instructing",
+        "Interpretation",
+        "Machinist",
+        "managing",
+        "program development",
+        "publication",
+        "research",
+        "Robotics",
+        "Safety"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "FSCX (Fort Sill, Oklahoma)",
+            "start_date": "October 2013",
+            "end_date": "October 2014",
+            "description": "Part-time consultant assisting doctrine writers revising doctrine, tactics, techniques and procedures manuals, including ATP 3-09.13 (FM 3-09.13) and related Fire Support topics; supported Battlefield Coordination Detachment (BCD) and Army Doctrine 2015 format."
+        },
+        {
+            "title": "Primary Doctrine Writer",
+            "company": "Keybridge Technologies",
+            "start_date": "September 2012",
+            "end_date": "September 2013",
+            "description": "Primary Doctrine Writer for Explosive Hazard Operations, ATP 3-34.20/MCRP 3-17.2D; authored and updated doctrinal publications; re-wrote FM 3-34.210; gathered and analyzed information for publication updates."
+        },
+        {
+            "title": "Military Analyst",
+            "company": "Fort Leonard Wood, MO",
+            "start_date": "September 2011",
+            "end_date": "August 2012",
+            "description": "Capability Gap Analysis, DOTMPLF assessments, and related research in support of DCIED; extensive knowledge of Defeat the Device and related ISR/DT solutions; JUONS and DtD liaison and material solution research."
+        },
+        {
+            "title": "Associate",
+            "company": "Fort Leonard Wood, MO",
+            "start_date": "March 2009",
+            "end_date": "August 2011",
+            "description": "Performing capability gap analyses, DOTMPLF assessments, and research; authored/co-authored CONOPS and TTPs; supported material solution research for warfighters."
+        },
+        {
+            "title": "Associate",
+            "company": "Booz Allen Hamilton",
+            "start_date": "March 2008",
+            "end_date": "March 2009",
+            "description": "Training & Doctrine Developer for MSCoE MDoT; contributed to Site Exploitation doctrine; identified and researched exploitation concepts; supported site exploitation doctrine development."
+        },
+        {
+            "title": "Lead Instructor",
+            "company": "Combined Explosives Hazard Center",
+            "start_date": "September 2007",
+            "end_date": "March 2008",
+            "description": "Instructor for Combat and Advanced Search; trained Marines and Army personnel in search techniques across Iraq and Enduring Freedom; taught multiple search domains."
+        },
+        {
+            "title": "Senior Enlisted Leader",
+            "company": null,
+            "start_date": "October 2005",
+            "end_date": "June 2006",
+            "description": "Mentored over 6,000 Marines and Sailors; supervised training of rotary wing squadrons; ensured up-to-date tactics and protective services operations; oversaw humanitarian relief planning and execution."
+        },
+        {
+            "title": "Command Sergeant Major",
+            "company": "15th Marine Expeditionary Unit (SOC) / First MEU, Camp Pendleton, CA",
+            "start_date": "May 2003",
+            "end_date": "October 2005",
+            "description": "Senior Enlisted Leader for MEU (SOC); mentored 2,800+ Marines and Sailors; developed TTPs for CIED; planned and executed combat deployments; directed relief operations in Anbar; liaison between ARG and MEU (SOC)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Business Organizational Security Management",
+            "school": "Webster University",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Science in General Studies Psychology",
+            "school": "Columbia College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Top Secret/SCI Security Clearance",
+        "Secret Clearance",
+        "CPR Certification",
+        "Firearms Safety Training",
+        "Defensive Tactics Training",
+        "Antiterrorism Evasive Driving Course",
+        "Imagery Interpretation Course",
+        "Advanced Staff Non-Commissioned Officers Course",
+        "Marine Air Ground Task Force Intelligence Course",
+        "Naval Gunfire School"
+    ],
+    "languages": []
+}

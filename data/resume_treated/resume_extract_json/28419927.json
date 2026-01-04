@@ -1,0 +1,67 @@
+{
+    "name": "Karla Lee",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Results-focused people advocate with vast experience in Wealth Management and Deposit Financial Services. Targets growth through nurturing exemplary teams and focusing on a format of listening to our clients for best outcomes. Proactive leader experienced in deep internal and external partnerships for best client outcome.",
+    "skills": [
+        "Industry partnership development",
+        "Team building",
+        "Recruiting and hiring",
+        "Process improvement",
+        "Operations oversight",
+        "Executive leadership",
+        "Problem resolution",
+        "Relationship building",
+        "Data management"
+    ],
+    "experience": [
+        {
+            "title": "Regional Director of Banking and Wealth",
+            "company": "Company Name",
+            "start_date": "Mar 2018",
+            "end_date": "Dec 2020",
+            "description": "Responsible for overall growth performance of strategic marketplace. Led the development of high-performing, distinct teams by inspiring innovation and excellence in CRM/Customer Engagement deliverables. Outcome: three direct reports promoted to Managing Director within two years. Revitalized client engagement routines to include cultural and geographic relevance. Engaged NY-based Portfolio Managers and analysts to host clients on a rotating schedule. Outcome: advisor acumen and loyalty increased; turnover reduced by 50%. Client retention and share of wallet increased. AUM grew through client-added investments and referrals. Bay Area deposit market share gain in 2019 (> $10B) and second-highest AUM growth (three consecutive years over 20%). Aligned Wealth Management efforts across lines of business. Transformed departmental operations through process overhaul and a focus on quality. Advisor and banker turnover halved from 2018 to 2020. JP Morgan Healthcare conference collaborations; Chase Center suites co-hosted with client affinities."
+        },
+        {
+            "title": "Northern CA Operations Executive",
+            "company": "Company Name",
+            "start_date": "Nov 2016",
+            "end_date": "Mar 2018",
+            "description": "Responsible for profitability of the Northern CA marketplace: 350 Financial Centers with ~3,000 associates. Led Northern CA region ($30B in deposits) through enterprise partnerships with Small Business, Home Loans and Merrill Edge investments. Outcome: Recognized by CEO for best-in-class performance. Initiated monthly client listening sessions to surface enterprise capabilities; focused on Silicon Valley client. Outcome: Advocated for change in mortgage recast to accommodate large inflows of bonus cash. Partnered with credit card underwriting to support a new deposit-based credit solution, contributing to Apple selecting Bank of America as a preferred/only vendor on campus. Completed 60 Financial Center renovations to align with the 'Advice Center' model highlighting Merrill Edge capabilities. Included external partnerships (Apple campus, UC Berkeley campus, Samsung technology in SF)."
+        },
+        {
+            "title": "Sales and Service Executive-West Coast",
+            "company": "Company Name",
+            "start_date": "Nov 2011",
+            "end_date": "Nov 2016",
+            "description": "Responsible for 40% revenue growth of the consumer franchise; integrated Merrill Lynch into the client spectrum for Bank of America. Participated in first pilot hiring and scaling capabilities of the Merrill Edge organization. Outcome: Boston-based pilot scaled nationwide, then moved to Los Angeles to launch West Coast. Collaborated in SLAs based on client feedback for best outcome. Key executive for pilot bringing all specialized sales inside Financial Centers including Countrywide acquisition lending capabilities. Outcome: best-in-class teams following CEO's scorecard, best in class portfolio penetration. Motivated and encouraged team members to communicate openly; established leadership councils in key cities to mitigate delivery escalations and enable cross-LOB referral accountability."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "school": "University of San Francisco, School of Management",
+            "year": 2023
+        },
+        {
+            "degree": "Finance",
+            "school": "Pacific Coast Banking School, University of Washington",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Toulouse Lautrec School of Art",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Series 7",
+        "Series 9",
+        "Series 10",
+        "Series 66"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

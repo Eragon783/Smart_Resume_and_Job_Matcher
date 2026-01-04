@@ -1,0 +1,110 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "18+ yrs. of experience in Information Technology Management with a proven record as a servant leader for large distributed teams in diverse technical environments. Proven record of managing budgets, LRPs, product & portfolio roadmaps, business cases, software architecture, development and operations. Extensive track record of nurturing deep relationships within the company, vendors, strategic partners and standards bodies to achieve business goals. Strengths Cloud native architectures to drive reliability, performance and cost optimizations - IaaS, DBaaS, PaaS, Containerized, SaaS and Serverless Strategic Digital Transformations using traditional software development best practices and bleeding edge, emerging technologies in corpus/intent based digital assistants, bots, RPAs, computer vision, NLP, deep learning and Blockchain Program and Project management with Agile/SCRUM/Kanban, and DevOps/DevSecOps Metrics, KPIs and SLA driven IT Governance and Controls including 24/7/365 operational excellence, disaster recovery, & continuous improvement of software development processes Excellent analytical, problem solving and verbal & written communication skills; self-motivated fast learner, adaptable and fast decision maker even in ambiguous situations Management skills include hiring/firing, motivating, retention, performance reviews, SMART goals, conflict resolution, career development, executive reporting, mentoring Highlights NET, Networks APM, Objective-C Agile, Oracle API, Payment Processing Apple, Postgres Budget, Pricing Business development, Problem resolution C, Coding C++, Programming Catalog, Project Management CD, Project Planning Content, Quality Client, QA Databases, Relationship management Delivery, Sales Designing, SCRUM Disaster recovery, SDLC Drupal, Software Developers Gateway, Strategic Hiring, Swift UX, TV HTML, Underwriting PHP, Unique IT Management, Vendor management Java, Video JavaScript, Web sites Linux Director Managing Market C# Office Win Windows MySQL Ecommerce, Software Engineering Features, SQL Server Finance, Strategy Negotiations Network Strategic planning Skills NET, APM, Agile, API, Apple, budget, business development, C, C++, Catalog, CD, content, client, Databases, Delivery, designing, disaster recovery, Drupal, ecommerce, features, Finance, gateway, Hiring, UX, HTML, PHP, IT Management, Java, JavaScript, Linux, Director, Managing, market, C#, Office, win, Windows, MySQL, negotiations, Network, Networks, Objective-C, Oracle, Payment Processing, Postgres, pricing, problem resolution, coding, Programming, Project Management, Project Planning, quality, QA, Relationship management, sales, SCRUM, SDLC, Software Developers, Software Engineering, SQL Server, Strategy, strategic, Swift, TV, underwriting, unique, Vendor management, Video, web sites",
+    "experience": [
+        {
+            "title": "Experience Manager",
+            "company": "Company Name",
+            "location": "City, State",
+            "start_date": "11/2013",
+            "end_date": "Current",
+            "description": "Manage a large global team of up to 50 Managers, Technical Leads and Software Developers across a portfolio of 25 LOB applications. My responsibilities include:. Vendor management, RFPs, vendor selection, scope based contractual obligations, and negotiations on Fixed Bid, Fixed Scope, T&M SOWs and 3rd Party Software licensing. LRPs, short and long-term strategic Road Maps, Project Planning & Monitoring and Software Delivery. Operational Excellence using Application Performance Monitoring (APM), Log aggregation, etc. Solution Architecture & design of complex projects and enhancements to existing products. All aspects of IT Management - Hiring, Up/Out, developing trust based on highly advanced technical knowledge, motivating actively, Key Contributions:. Reshaped the SDLC within the first 90 days from an everything-goes to an Agile (SCRUM) based process, substantially improving on-time and on-budget deliveries. Introduced Jira as part of the transformation which snowballed into centralization of fractured implementations and adoption by thousands of people across the company. Stabilized a key VOD Rights and Windows management application with many technical challenges including performance and data corruption. Improved the resiliency of the platform, and reduced the technical debt enabling faster features development. Substantially improved MTTR and RCA by adopting Splunk and AppDynamics, and by establishing proactive alerts to detect problems earlier than the users. Strongly Influenced the UI/UX of a touch-enabled web and iOS application used by top executives. Established and delivered very stringent performance, quality and reliability requirements. Established a cloud-native, 12-factor architecture of an application deployed on AWS using Elastic Bean Stalk, RDS, SNS, and other related AWS services. Nominated on NBC-wide Cloud-first strategic committees. Key role & contributions to Identity Management (IdM) and REST based API reference architectures Technologies included - Java, .NET, iOS (Objective-c / Swift) HTML, JavaScript, PHP/Drupal OnPrem & Cloud-native architectures at all levels of abstraction (IaaS, PaaS, 12-factor, Containerized & Serverless."
+        },
+        {
+            "title": "Senior Director",
+            "company": "Company Name",
+            "location": "City, State",
+            "start_date": "01/2011",
+            "end_date": "05/2013",
+            "description": "Headed the Solution Architecture and Project Management Office responsible for designing and delivering marquee consumer facing digital streaming on Web, iOS, Android, ROKU, XBOX and other platforms. My Responsibilities included:. Architectural SME for pre-sales and business development executives on key accounts such as Target, STARZ, Barnes & Noble, Dish Network, etc. Product Strategy and roadmaps for critical components of the Video Streaming platform including devices, Catalog, Apple/Google/Microsoft DRM and Digital lockers. Project management, scope management, problem resolution, delivery and launch of the client-company's products to its customers. Relationship management with internal and external strategic partners Key Contributions. Helped win a $9 million-dollar account with Barnes & Noble based on establishing trust and relationship with the head of Nook device development by answering and proposing solutions to tough technical problems. Even wrote Java code for video playback of DRM content such as Movies & TV Shows on Nook's highly customized Android platform. A unique Public Key Infrastructure (PKI) based shared-responsibility security model to authenticate and authorize issuing of DRM keys for video playback of encrypted content, which garnered interest from Charter Communications. Recognized and promoted to Senior Director within 6 months of joining the company"
+        },
+        {
+            "title": "Regulated Payment Processing - Manager",
+            "company": "Green Dot",
+            "location": "",
+            "start_date": "Mar 2010",
+            "end_date": "Jul 2010",
+            "description": "Managing a team of Business Analysts, Architects & Web Developers at Green Dot to build multiple consumer facing web sites, including Walmart MoneyCard. Company Name for processing 12-million home-loans every day for Federal HARP compliance requirements."
+        },
+        {
+            "title": "First Vice President - Regulated Finance & Lending",
+            "company": "Countrywide",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Regulated Finance & Lending: First Vice President at Countrywide managing a team of 15 onshore and offshore Architects, Developers, and QA to deliver a $1.7 million lead management project with an ROI of $29.3 million."
+        },
+        {
+            "title": "Technical Lead and Development Manager",
+            "company": "IndyMac",
+            "location": "",
+            "start_date": "",
+            "end_date": "",
+            "description": "Regulated Finance & Lending: Technical Lead and Development Manager at IndyMac for automated underwriting and pricing systems. As a member of a team, built the first such web ecommerce solution in the US mortgage market. Proposed, brought consensus by demonstrating a POC, and built a C++ engine improving performance by 75%"
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.B.A",
+            "school": "Massachusetts Institute of Technology",
+            "year": 2016
+        },
+        {
+            "degree": "MBA",
+            "school": "UCLA Anderson School of Management",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelor's in Engineering",
+            "school": "Thapar University",
+            "year": 1993
+        }
+    ],
+    "certifications": [],
+    "languages": [],
+    "skills": [
+        "Cloud (AWS, Azure, IaaS, PaaS, Serverless)",
+        "DevOps / DevSecOps",
+        "Scrum / Kanban / XP",
+        "SDLC",
+        "Solution Architecture",
+        "API design",
+        "Java",
+        ".NET",
+        "JavaScript",
+        "TypeScript",
+        "Objective-C",
+        "Swift",
+        "C",
+        "C++",
+        "C#",
+        "Linux",
+        "Windows",
+        "HTML",
+        "PHP",
+        "Drupal",
+        "Docker",
+        "Kubernetes",
+        "Docker Swarm",
+        "Envoy",
+        "SQL Server",
+        "Oracle",
+        "MySQL",
+        "PostgreSQL",
+        "SQLite",
+        "Splunk",
+        "AppDynamics",
+        "Veracode",
+        "Snyk",
+        "Jenkins",
+        "Artifactory",
+        "Nexus",
+        "SonarQube",
+        "PKI",
+        "Identity Management (IdM)",
+        "Disaster Recovery"
+    ]
+}

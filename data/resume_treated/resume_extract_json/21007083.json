@@ -1,0 +1,57 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Philadelphia, PA",
+    "summary": "Enthusiastic photographer committed to delivering results and maintaining a unique artistic vision. Experienced in product photography with strong lighting, workflow management, and collaborative, client-focused approach across e-commerce, editorial, and commercial projects.",
+    "skills": [
+        "Photoshop",
+        "Capture One",
+        "Lightroom",
+        "Desktop Publishing",
+        "Strong Communication Skills",
+        "Creative Problem Solving",
+        "Lighting",
+        "E-commerce Photography",
+        "Retouching",
+        "Color Correction",
+        "Batch Editing"
+    ],
+    "experience": [
+        {
+            "title": "Product Photographer",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "Present",
+            "description": "Collaborated successfully with a variety of personalities and work styles. Photograph product for web store. Retail store and support the live show."
+        },
+        {
+            "title": "Photographer",
+            "company": "Company Name",
+            "start_date": "2013-05",
+            "end_date": "2014-03",
+            "description": "E-commerce Photographer. Photograph product for web store. Retail and wholesale websites. Skin retouching, background removal, special effects, color correcting & batch editing. Photograph editorials. Catalogs, look books, and banners. Scheduled models for shoots."
+        },
+        {
+            "title": "Photographer",
+            "company": "Company Name",
+            "start_date": "2012-10",
+            "end_date": "2013-05",
+            "description": "Editorial and product photographer. E-commerce and print. Cropped, manipulated and performed color-balance for final images."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science in Photography",
+            "school": "Antonelli Institute of Art and Photography",
+            "year": 2012
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "North Penn High School",
+            "year": 2009
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

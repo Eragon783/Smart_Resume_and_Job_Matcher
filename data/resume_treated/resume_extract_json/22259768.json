@@ -1,0 +1,88 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Profile-focused consultant with around 5 years of experience in requirements gathering, design, development, testing, and implementing SAP and mobile solutions. Experienced in SAP EAM, PM, MM, ECC and BW, GIS integration, end-to-end testing, data migration, and end-user training. Strong documentation, reporting, and change management skills with a proven ability to translate business requirements into technical specifications.",
+    "skills": [
+        "Asset Management",
+        "business plan",
+        "Business process",
+        "Capacity Planning",
+        "Change Management",
+        "Conversion",
+        "Costing",
+        "Data analysis",
+        "Debugging",
+        "documentation",
+        "ETL",
+        "Forms",
+        "Functional",
+        "GIS",
+        "GUI",
+        "HP",
+        "Excel",
+        "Office",
+        "migration",
+        "developer",
+        "pdf",
+        "Design process",
+        "processes",
+        "QTP",
+        "Quality",
+        "Reporting",
+        "Requirements gathering",
+        "SAP",
+        "Scheduling",
+        "Scripts",
+        "Specification",
+        "User Training",
+        "training manuals"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name, City, State",
+            "start_date": "2014-07",
+            "end_date": "2015-06",
+            "description": "Projects: ETGIS, Leak Repair, Cathodic Protection. Requirements gathering and data analysis. Perform mapping of GIS to SAP. Work with developers on creating dashboards for reporting and asset management. Perform interface testing using SOAPUI, functional testing and UAT. Data cleansing involving creating, dismantling and reconfiguring Equipment, Function Locations, and Maintenance items in critical environments. Identify data discrepancies between GIS and SAP data by working with SMEs. Act as a single point of contact between business users and testers. Automate processes to reduce time and resource usage. Provide technical and functional support in migration of GIS data to SAP. Work on conversion requirements specifications and definition of data elements including clarification of the meaning and purpose of SAP fields. Collaborate with Asset Strategists, Mappers, and GIS Engineers to identify issues and resolution. Use LSMW, IBIP to create and update Equipment and Functional Locations. Prepare training manuals for End Users. Use PAR (Problem Action Resolution) and Quality Center for defect tracking. Prepare requirements documents and testing for enhancements for GAS and Compliance Team. Configuration for Capacity Planning and Work clearance Management."
+        },
+        {
+            "title": "Business Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "2012-05",
+            "end_date": "2014-06",
+            "description": "Involved in requirement gathering and designed specifications for business processes; interacted with business users to model reporting requirements. Participated in JAD and Gap Analysis sessions. Configured Asset Life Cycle Management (CP10, Gas Storage and Riser Inspection) for end-to-end processes using SAP PM integrated with MM. Generated region-based maintenance plans for Preventive Maintenance. Designed Bundling Program for generation of orders by region, district, street, section, segment and house number. Created an Exception Report to capture conditions requiring different processes. Integrated GIS with SAP for design delivery. Understood corrective and preventive maintenance. Created data using QTP for training in different environments. Scheduled via Click Schedule and Click Mobile. Prepared Functional Specifications. Planned and prepared Test Plans, Test Cases and Test Scripts for areas including Notifications, Designs, Work Orders, Equipment and Functional Locations, Material Reservation, Material Master, Customer Master, Purchase Requisition and other financial transactions. Created test scripts for GUI testing and functionality using QTP. Maintained Requirements matrix in HPQC; managed defect tracking in HP Quality Center. Wrote and executed test scripts for various scenarios. Provided post-go-live support including user training. Prepared job aids for end-user training. Involved in UAT for reports and debugging. Designed and tested reports using BEx Analyzer; defined reports for Compliance KPIs; developed data models with development team. Translated business processes into technical design documents for M&I processes. Worked on San Diego Gas & Electric projects: Construction, Planning and Design. Facilitated JAD sessions for Electric Field Memo and Riser Inspection (DIMP) in SAP Plant Maintenance. Designed and implemented Electric Field Memo to automate end-to-end Electric, Gas, and Transmission Field and Office Operations. Designed complex compatibility search for Electric Field Memo data extraction from legacy systems to SAP for Riser Inspection. Prepared functional specs and process flows; coordinated with developers on business requirements. Defined test scenarios for mobile application testing for Riser Inspection. Executed end-to-end testing of SAP to mobile app; provided end-user training. Designed process for PMLite; mapped custom tables with Costing Sheet for generating pdf letters to customers. Tested Adobe Forms for PMLite."
+        },
+        {
+            "title": "Business Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "2014-01",
+            "end_date": "2014-06",
+            "description": "Gathered requirements for implementing SAP Financial Supply Change Management. Participated in brainstorming sessions for Collections Management. Defined test scenarios and documented test scripts for end-to-end testing. Configured Company Segments, Company codes, Collection Groups, and Collection Strategies. Created data for testing. Prepared job aids for end-user training."
+        },
+        {
+            "title": "Business Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "2010-09",
+            "end_date": "2012-02",
+            "description": "Asset Management Life Cycle: Gathered requirements, documentation, and testing. Translated business processes into technical design documents. Created query transforms for ETL. Designed and validated reports. Coordinated with developers on requirements. Managed the Change Management Process. Uploaded scripts into HP Quality Center from Excel. Tested enhancements, reports, functionality and conversions. Performed shakedown and ad-hoc testing before UAT. Conducted smoke, white-box, and black-box testing before actual test execution. Reported bugs and tracked defects with developers; tracked and analyzed defects using Quality Center."
+        },
+        {
+            "title": "Consultant",
+            "company": "Company Name, City, State",
+            "start_date": "2010-01",
+            "end_date": "2010-05",
+            "description": "Conducted market research and prepared a business plan to explore new market opportunities. Involved in requirements gathering, market trend evaluation, financial evaluation, and comparative study."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Information Technology Management",
+            "school": "University of Texas",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

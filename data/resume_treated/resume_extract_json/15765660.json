@@ -1,0 +1,97 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Passionate Marketing Manager leveraging expertise in program management, sales enablement, and brand awareness to deliver ROI and increase customer outreach with cost-centric solutions. Experienced in strategic campaign management, lead generation, marketing communications, partner programs, program and project management, sales enablement, and content development and delivery.",
+    "skills": [
+        "MS Office Suite (Word, Excel, Outlook, PowerPoint)",
+        "SharePoint",
+        "Visio",
+        "LMS",
+        "Centra",
+        "Digital Marketing",
+        "MailChimp",
+        "Webtrends",
+        "TreeHouse PRM",
+        "MS Dynamics",
+        "Salesforce.com",
+        "Hubspot",
+        "Marketo",
+        "Vertical Response",
+        "Photoshop",
+        "Dreamweaver",
+        "TeamSite CMS",
+        "Citrix",
+        "LinkedIn",
+        "Facebook",
+        "Twitter"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "2014-11",
+            "end_date": "Present",
+            "description": "Maintaine knowledge of current menu items, ingredients and preparation methods. Deliver exceptional service by greeting and serving guests in a timely, friendly manner. Suggest additional items to guests to increase restaurant sales. Skillfully anticipate and address guests service needs. Effectively communicate with kitchen staff regarding guest allergies, dietary needs and other special requests."
+        },
+        {
+            "title": "Marketing Manager (Contract)",
+            "company": "Company Name",
+            "start_date": "2012-04",
+            "end_date": "2014-11",
+            "description": "Create, deliver, and optimize marketing materials including; data sheets, website, and other collateral. Develop messaging that is supportive of and consistent with marketing strategies. Research competitive products by identifying and evaluating product characteristics, market share, pricing, and advertising while updating and maintaining research database. Deliver social media campaigns via Hubspot to LinkedIn, Twitter, Facebook, Spiceworks and email. Manage event logistics for tradeshows, conferences and sales meetings to meet budget requirements. Proactively work with vendors to process expenditure requests and approvals. Develop marketing communications campaigns and project management of activities. Manage delivery of press releases, media relations content, case studies, white papers, executive bios, corporate newsletter content, and social media content. Created a strategic demand generation plan targeting various industries; Healthcare, Public Safety, Utilities, Retail, Manufacturing, Construction and other market segments. Developed strategies for digital marketing campaigns including; SEM, Google Ads and Ad-words, content syndication, blogging, webinars and email campaigns to generate opportunities for sales. Managed marketing automation systems to support campaign execution (Microsoft CRM Dynamics, TreeHouse, and Google Analytics) and measure effectiveness of each campaign to drive ongoing investment decisions. Measured demand generation performance against revenue goals and effectively delivered reporting metrics to marketing and sales leadership to ensure all lead scoring and nurture programs are continually optimized. Collaborate with multiple stakeholders including: Global Managers, Channel Marketing, Marketing Ops, Sales, and Product Marketing to analyze sales objectives, sales qualified leads (SQL) and improve demand creation strategies. Managed team responsible for graphics, analytics, web maintenance, email marketing, lead nurturing, creative services and webinars. Managed and negotiated with all vendors and co-manage a 1.5 million dollar marketing budget for the company."
+        },
+        {
+            "title": "Outbound Marketing Manager",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2012-03",
+            "description": "Successfully launched Juniper OEM go-to-market (GTM) plans that expanded the end to end solution of Dell's networking portfolio. Created marketing communication plans and implemented procedures to streamline processes to ensure close coordination of parties involved for each product launch, including departments working in silos. Devised a product launch tracking system for specific product lines and administered effective collaboration with core launch team. Facilitated weekly meetings with Juniper and Dell core staff to ensure smooth flow of communication across all business units by monitoring and reporting delays and issues to senior staff. Executed editorial strategy and content of Dell's Networking Communications, which included newsletters, SharePoint networking collaboration website, product sales training, and internal marketing campaigns."
+        },
+        {
+            "title": "Marketing Programs Manager",
+            "company": "Company Name",
+            "start_date": "2008-02",
+            "end_date": "2011-12",
+            "description": "Partnered with global managers in executing strategic campaigns and provided sales teams with product messaging and value propositions. Administered channel partner activities including; editorial calendar, web pages, email and quarterly newsletters. Managed all in-house product sales training videos by applying adeptness and experience in Saba LMS and Camtasia VOD system; including all recording, edition, HTML pages and uploading to training site. Efficiently managed events, logistics, invitations, registrations, website, vendors, budgets, surveys, and event metrics. Delivered monthly announcements to more than 5,000 Ericsson employees, partners, and updates to website. Developed and implemented automated systems for various databases and logistics that optimized the distribution list from 1,200 to 5,300 within six months while minimizing manual labor and margin of error. Successfully developed and managed a pod-casting program titled \"IP Talk Radio\" that generated company wide attention from all levels of Ericsson and increased website traffic by 65% in one quarter. Built and managed portfolio of marketing initiatives including KPIs, budgeting, campaign tracking and analysis using Salesforce.com and Marketo. Managed online metrics for the internal website and raised awareness by 209% to 5,500 Ericsson employees."
+        },
+        {
+            "title": "Marketing Consultant",
+            "company": "Company Name",
+            "start_date": "2002-03",
+            "end_date": "2008-01",
+            "description": "Managed internal and external web content, web development, ecommerce payment gateways, and Content Management Systems (CMS) for 80% of my clients. Created strategic marketing plans for go-to-market campaigns, focusing on Google Ad and Adwords. Conducted market analysis to better focus marketing tactics on the proper target market; thus, expanding market awareness and increasing online sales by 35% within three months. Produced various marketing materials for products and services, such as video testimonials, case studies, advertisements, brochures, newsletters, email campaigns, and partner programs."
+        },
+        {
+            "title": "Program Manager",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2002-01",
+            "description": ""
+        },
+        {
+            "title": "Affiliate Marketing Manager, Nationwide Territory",
+            "company": "Company Name",
+            "start_date": "1998-01",
+            "end_date": "2000-01",
+            "description": ""
+        },
+        {
+            "title": "Channel Sales Account Manager, North-West Territory",
+            "company": "Company Name",
+            "start_date": "1995-01",
+            "end_date": "1998-01",
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Marketing",
+            "school": "California State University Northridge",
+            "year": "1994"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

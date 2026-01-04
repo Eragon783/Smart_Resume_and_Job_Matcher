@@ -1,0 +1,81 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Detail-oriented Administrative/ Clerical professional with extensive experience performing medical clerical duties and supporting five physicians in a busy medical office. Expertise includes verifying insurance coverage, records reviews, and schedule maintenance. 18 years of experience with excellent communication skills, maintaining confidentiality and meticulous attention to detail.",
+    "skills": [
+        "Scheduling",
+        "Strong verbal skills",
+        "Excellent written skills",
+        "ICD-9 and CPT coding",
+        "Excel"
+    ],
+    "experience": [
+        {
+            "title": "Customer Service Advocate",
+            "company": "Company Name",
+            "start_date": "May 2014",
+            "end_date": "Present",
+            "description": "Provided accurate and appropriate information in response to customer inquiries by Medicare Part B providers. Explained Medicare Part B claim denials and how to correct claim for payment. Provided reference and resource material to providers and conducted research into some denials. Verified and confirmed beneficiary eligibility in Medicare Part A and B. Strictly followed all federal and state guidelines for release of information. Examined diagnosis codes for accuracy, completeness, specificity and appropriateness according to services rendered."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "September 2013",
+            "end_date": "May 2014",
+            "description": "Addressed customer service inquiries in a timely and accurate fashion. Explained current Medicare D drug plan to members. Took medication refill orders. Researched plan design copay structures and formulary changes. Provided pleasant, accurate customer service. Provided information regarding changes to Medicare Part D drug plan structures. Provided Medicare mandates procedures and updates."
+        },
+        {
+            "title": "Surgery Scheduler",
+            "company": "Company Name",
+            "start_date": "March 1999",
+            "end_date": "June 2013",
+            "description": "Efficiently performed insurance verification and pre-certification and pre-authorization functions. Coordinated surgery schedule with patient, physician and operating room and provide patients with detailed information regarding dates, time scheduled and necessary arrangements. Arrange and schedule pre-operative tests for patient and maintain operating room schedule instructions, as directed by physicians. Contact patient to remind of post-operative instructions, as directed by physicians. Worked with Star Panel, Epic Hyperspace, and other systems. Verify patient eligibility, coverage for procedure, obtain pre-certifications, authorizations for procedures and tests ordered by physician. Notify and forward paperwork for insurance certification to Billing Office and obtain additional paperwork if needed for compliance. Responds to written and telephone inquiries from carriers regarding surgeries. Perform clerical duties to support physicians and the surgery scheduling function regarding patient and surgery information."
+        },
+        {
+            "title": "Office Assistant III",
+            "company": "Company Name",
+            "start_date": "February 1996",
+            "end_date": "March 1999",
+            "description": "Responsible for printing daily schedules to pull medical records for clinic appointments and surgeries. Recorded and filed patient data and medical records. Scanned and indexed clinic notes, pathology reports, lab tests, financial information in Electronic health record system. Performed various administrative duties, including data entry and document preparation. Eliminated outdated records on annual basis by sending the records to be scanned. Assisting medical students, doctors, nurses and secretaries archival retrieval. Pick up, sort and distribute mail for clinic."
+        },
+        {
+            "title": "Clerk III",
+            "company": "Company Name",
+            "start_date": "January 1995",
+            "end_date": "February 1996",
+            "description": "Developed and created a more effective filing system to accelerate paperwork processing. Printing daily schedules, pull medical records for clinic. Verified that information in the computer system was up-to-date and accurate for appointments and surgery. Dispersed incoming mail to correct recipients throughout the office."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Health Care Administration with Concentration in Management",
+            "school": "University of Phoenix",
+            "year": 1991
+        },
+        {
+            "degree": "Health Care Administration (in progress)",
+            "school": "Not specified",
+            "year": 2016
+        },
+        {
+            "degree": "High School Diploma: Psychology",
+            "school": "Belmont University",
+            "year": 1990
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Organizational Skills Certification",
+            "issuer": "Vanderbilt Training and Development",
+            "year": 2000
+        },
+        {
+            "title": "Administrative Assistants Conference",
+            "issuer": "Administrative Assistants Conference",
+            "year": 2008
+        }
+    ],
+    "languages": []
+}

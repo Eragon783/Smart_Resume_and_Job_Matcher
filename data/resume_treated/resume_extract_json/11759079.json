@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Experienced Senior Accountant with extensive background in real estate funds, external audit coordination, capital calls, construction loan management, and forensic/audit engagements across multiple jurisdictions.",
+    "skills": [
+        "accounting",
+        "balance sheet",
+        "budgets",
+        "derivatives",
+        "drafting",
+        "equity",
+        "financial accounting",
+        "financial statements",
+        "fixed assets",
+        "funds",
+        "government",
+        "information technology",
+        "inventory",
+        "investments",
+        "ledger",
+        "Microsoft Excel",
+        "programming",
+        "real estate",
+        "research",
+        "sales",
+        "writing",
+        "fraud investigations",
+        "auditing",
+        "internal controls",
+        "cash flow"
+    ],
+    "experience": [
+        {
+            "title": "Senior Accountant",
+            "company": "Experience Company Name",
+            "start_date": "June 2011",
+            "end_date": "Present",
+            "description": "Prepare quarterly and annual financial statements for 17 multi-family communities for distribution to investors and financial institutions. Reconcile and account for all activity on the income statement and balance sheet including cash, fixed assets, derivatives, equity, and property debt. Coordinate and review work of external audit firms. Initiate capital calls and distributions for investors. Manage budgets and construction loan activity for approximately $100,000,000 in active construction projects in FL, MA, and MD."
+        },
+        {
+            "title": "Associate Fund Controller",
+            "company": "Company Name",
+            "start_date": "March 2010",
+            "end_date": "June 2011",
+            "description": "Performed quarterly and annual close procedures for MSREF (Morgan Stanley Real Estate Funds) 6I, the largest international real estate investment fund to date with $8 billion of partnership assets, and draft financial statements distributed directly to fund investors. Lead quarterly management fee process by performing work to draft approximately $14,000,000 in bills to fund Partners. Develop work plan to ensure deadlines are met, test results, delegate work to other Fund Controllers, and perform detailed review of their work. Lead MSREF 6I initiative to implement reinvestment of proceeds (ROP) methodology to reallocate approximately $120,000,000 in cash to-date amongst investments with deficient cash balances to cover contributions and expenses. Write formulas to analyze cash movement in Microsoft Excel and assist four Information Technology Vice Presidents in programming the partner capital sub ledger system to calculate the movement and test results. Wrote standard operating procedures memo for ROP to train team members."
+        },
+        {
+            "title": "Advisory, Forensic and Audit Associate",
+            "company": "Company Name",
+            "start_date": "June 2007",
+            "end_date": "March 2010",
+            "description": "Performed research to locate red flags in numerous potential fraudulent mortgages at one of the largest bank failures in U.S. history. Developed writing skills by drafting over forty memorandums that summarized potential fraud in loans that were presented to multiple agencies of the Government. Wrote a thirty-five page corporate intelligence narrative explaining personal and Professional relationships of an individual under investigation. These tasks assisted the FBI in arresting the individual, suspected of orchestrating a two billion dollar mortgage fraud scheme. Performed substantive test work, analytical procedures, and testing of controls at multiple audit clients, including leading the sales and inventory test work of an international company with approximately one billion in annual sales. Audited cash, receivables, investments, inventory, payables, property, debt, equity, revenue, cost of goods sold, and expenses. Analyzed audit client's major accounting processes, identified control weaknesses, and recommended solutions and improvements. Worked on multiple phases, including fraud investigations and data analytics, of a high profile engagement involving the largest natural disaster relief fund in United States history and was the first to analyze, discuss, and research a series of fraud allegations received from an anonymous telephone hotline that lead to a new, lasting client relationship with the Federal government. Analyzed a series of bank accounts owned by over twenty customers of a large, domestic bank to determine the amount of funds stolen and trace illicit transfers made by a bank employee from each account in a multi-million dollar fraud scheme."
+        },
+        {
+            "title": "Accounting Tutor",
+            "company": "Sole Proprietorship",
+            "start_date": "August 2006",
+            "end_date": "May 2007",
+            "description": "Held private sessions to teach financial accounting to over 25 individual client needs and wrote practice questions which resulted in grade improvement amongst all clients, including one who increased his exam performance by 35 percentage points after sessions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration in Accounting",
+            "school": "Emory University, Goizueta Business School",
+            "year": 2007
+        }
+    ],
+    "certifications": [
+        "CPA (Georgia license)",
+        "CFE (Certified Fraud Examiner)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,59 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "",
+    "skills": [
+        "budgeting",
+        "clients",
+        "data entry",
+        "financial",
+        "access",
+        "excel",
+        "powerpoint",
+        "microsoft word",
+        "spanish"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Chef",
+            "company": "Company Name",
+            "start_date": "May 2015",
+            "end_date": "Current",
+            "description": "Highlights Microsoft Word, Excel, PowerPoint, and Access. Developed and prepared meals. Coordinated with manager and supervised kitchen staff. Communicated with clients to fulfill their needs."
+        },
+        {
+            "title": "Assistant Chef",
+            "company": "Company Name",
+            "start_date": "Oct 2008",
+            "end_date": "Nov 2011",
+            "description": "Developed and prepared meals. Coordinated with manager and supervised kitchen staff. Communicated with clients to fulfill their needs."
+        },
+        {
+            "title": "Financial Aid Office Assistant",
+            "company": "Company Name",
+            "start_date": "Jun 2013",
+            "end_date": "Jun 2015",
+            "description": "Developed excel projects for budgeting, calculating student needs, etc. Evaluated and processed numerous documents daily. Performed data entry. Consulted with students and assisted with financial aid documents."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Finance",
+            "school": "Portland State University",
+            "year": 2017
+        },
+        {
+            "degree": "Associate of Science",
+            "school": "Portland Community College",
+            "year": 2014
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "French (conversational)"
+    ]
+}

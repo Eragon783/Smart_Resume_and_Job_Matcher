@@ -1,0 +1,123 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Friendly and enthusiastic professional with extensive experience in sales, customer service, and operations. Proven ability to learn quickly and build key customer relationships. Strong leadership, advisory, consulting and problem-resolution skills. Proficient in Salesforce CRM, Microsoft Dynamics CRM, Microsoft Office, and Adobe Suite.",
+    "skills": [
+        "Sales",
+        "Marketing",
+        "Operations",
+        "Api",
+        "Integration",
+        "Integrator",
+        "Budget",
+        "Financial Services",
+        "Outside Sales",
+        "Account Executive",
+        "Search Engine",
+        "Account Development",
+        "Advertising",
+        "Advertising Sales",
+        "Sales Position",
+        "Time Management",
+        "Networking",
+        "Clients",
+        "CRM",
+        "Customer Relationship Management",
+        "Direct Accounts",
+        "Metrics",
+        "Payroll",
+        "Cases",
+        "Leads",
+        "Optimization",
+        "Search Engine Marketing",
+        "Test Cases",
+        "Account Management",
+        "Client Relations",
+        "Life Cycle",
+        "Pipeline",
+        "Publisher",
+        "Benefits",
+        "Business Consultant",
+        "Created Sales",
+        "Production Process",
+        "Prospecting",
+        "Customer Service",
+        "Detail-oriented",
+        "Dynamics",
+        "Dynamics CRM",
+        "Microsoft Dynamics",
+        "Microsoft Dynamics CRM",
+        "Microsoft Office",
+        "Ms Office",
+        "Problem Resolution",
+        "Problem Solving",
+        "Public Relations",
+        "Receptionist",
+        "Retail Sales",
+        "Team Player",
+        "Business Operations",
+        "Solutions"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "Present",
+            "description": "Consultant to transform business operations and to achieve business goals through use of DNB tools and CRM integration. Planned and led meetings with executives, delivered a variety of presentations for numerous initiatives ensuring program alignment with expected targets. Transformed business operations and contributed over $8M in revenue by FY13Q2 to achieve business goals. Design, manage, and deploy complex, high-risk technical customer solutions from conception to production."
+        },
+        {
+            "title": "Senior Business Consultation Acquisitions New Business Acquisition and Consulting",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2014-01",
+            "description": "Led 24 x 7 operations amongst cross-functional teams. Resolved more than 2,000 network disruptions during our 2012 contract, resulting in decreased impact on customer revenues. Presented weekly reports to client executives, supported and managed the client relationship across a dynamic, high intensity environment with stringent SLAs while achieving timely implementation, adhering to budget constraints, and generating new business opportunities. Acquisition of new customers through inbound calls and chats, probing questions and value add of product suite. Knowledgeable of full product suite from sales and marketing tools to financial services and custom API integration."
+        },
+        {
+            "title": "Independent Agent",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2011-01",
+            "description": "Streamlined team operations and facilitated issue resolution to meet contract compliance metrics. Marketing AFLAC supplemental insurance products through outside sales and networking to generate accounts. Accountable for servicing new and existing payroll accounts and policyholders, along with nominating recruits. Consistently meet new business goals for individual direct accounts, group payroll and employee direct accounts."
+        },
+        {
+            "title": "Account Executive",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2010-01",
+            "description": "Presented over 300 test cases to the State of Connecticut, which established realistic expectations of project deliverables thereby strengthening the customer relationship while also achieving deadlines and exceeding targets. Sold Search Engine Marketing and Optimization services to businesses through face to face or phone presentations. Responsible for generating leads, maintaining CRM data, acquiring and servicing new business accounts. Repeatedly exceeded monthly goals by generating high levels of new clients along with excellent retention rates."
+        },
+        {
+            "title": "Owner / Publisher",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2009-01",
+            "description": "Concurrently planned, executed and deployed 27 critical client projects within a 6-month period while also actively managing 100+ pipeline client projects. Developed and successfully implemented a Concept to Production Life Cycle management enhancement solution. Oversee all facets of the publication including client relations, ad design, layout, distribution and pay processing. Took over entire business and turned around for print within two weeks by preserving and increasing advertisers. Created awareness in community and grew client base and relationships with thorough account management."
+        },
+        {
+            "title": "Sales and Marketing Director",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2008-01",
+            "description": "Exceeded customer expectations by clarifying project outcomes, summarizing HP's service performance data, and emphasizing benefits of service changes to customer. Created sales division and generated new clients through consistent, persistent prospecting and networking. Business consultant accountable for developing and launching small business video and online media division. Responsible for all aspects of projects, overseeing entire production process, and maintaining client relationships. API"
+        },
+        {
+            "title": "Account Executive and Media Consultant",
+            "company": "Company Name",
+            "start_date": "2005-01",
+            "end_date": "2008-01",
+            "description": "Consultative outside sales position requiring organization, self-motivation and time management skills. Consistently achieved objectives for revenue generation through print, online and search engine advertising sales. Responsible for prospect generation, along with all aspects of account development and retention."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Communications",
+            "school": "St. Edward's University",
+            "year": 2002
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

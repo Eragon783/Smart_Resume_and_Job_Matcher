@@ -1,0 +1,74 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Honorably discharged Navy First Class Aviation Specialist transitioning to civilian work, with ten years of combined military experience and education in Homeland Security and Intelligence Studies. Homeland Security professional focused on public safety and security, emergency planning and response, training development, personnel management, and operations analysis. Proficient with Windows environments, Video Teleconference setup, Defense Travel System, NALCOMIS OMA, and Naval Aviation Logistics data analysis. Experienced in supervising, documentation control, equipment accountability, and process improvement; demonstrated leadership in Navy/Marine Corps Relief Society fundraising and cost-saving initiatives.",
+    "skills": [
+        "CPR",
+        "First Aid",
+        "Child CPR",
+        "Emergency Planning",
+        "Emergency Response",
+        "Public Safety",
+        "Security",
+        "Training & Development",
+        "Leadership",
+        "Personnel Management",
+        "Human Resources",
+        "Active Listening",
+        "Critical Thinking",
+        "Decision Making",
+        "Firearms Safety & Handling",
+        "Documentation",
+        "Records Management",
+        "Data Analysis",
+        "NALCOMIS OMA",
+        "Naval Aviation Logistics",
+        "Aviation Maintenance",
+        "Video Teleconference",
+        "Defense Travel System",
+        "Windows",
+        "System Security",
+        "Configuration Management",
+        "Inventory Control",
+        "Logistics",
+        "Public Speaking"
+    ],
+    "experience": [
+        {
+            "title": "Force Analyst",
+            "company": "Company Name",
+            "start_date": "May 2013",
+            "end_date": "Present",
+            "description": "Developed and led training programs; custodian of classified documents for high-ranking officials; maintained accountability of equipment valued over $120,000; tracked personnel and supplies; communicated urgent orders to 20+ personnel; prepared requisitions and technical documentation; organized libraries and information; performed duties for aviation staff command; set up Video Teleconference; processed Defense Travel System orders; developed a cost-saving algorithm for corrosion treatment; verified 239,967 records for correct documentation; led Navy/Marine Corps Relief Society fundraising."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Homeland Security & Intelligence Studies",
+            "school": "Ashford University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts in Homeland Security",
+            "school": "Ashford University",
+            "year": "2014"
+        },
+        {
+            "degree": "Associate of Applied Science in Process Technology",
+            "school": "Lee College",
+            "year": "2008"
+        }
+    ],
+    "certifications": [
+        "First Aid / CPR Certification",
+        "Secret Security Clearance",
+        "FEMA IS-00100.B Certificate",
+        "FEMA IS-00559 Certificate",
+        "NCCER Training"
+    ],
+    "languages": [
+        "English"
+    ]
+}

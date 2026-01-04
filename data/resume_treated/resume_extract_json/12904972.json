@@ -1,0 +1,103 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Seasoned manager with extensive experience in continuous improvement, Six Sigma and Lean methodologies, and aviation maintenance. Skilled in leading cross-functional teams, process optimization, and project management, with hands-on experience as an A&P mechanic, aircraft technician, and aviation electronics technician. Strong background in training, documentation, and safety compliance.",
+    "skills": [
+        "Six Sigma",
+        "Lean",
+        "Kaizen",
+        "Value Stream Mapping",
+        "Cause and Effect Analysis",
+        "Process Controls",
+        "Visual Controls",
+        "Flow production",
+        "Variation reduction",
+        "Waste elimination",
+        "5S",
+        "Project Management",
+        "Public Speaking",
+        "Time Management",
+        "Organizational Skills",
+        "MS Office",
+        "Aviation Maintenance",
+        "Aircraft Mechanic",
+        "Aircraft Technician",
+        "Aviation Electronics",
+        "Fiber Optic Repair",
+        "Airframe",
+        "Engines",
+        "Powerplant",
+        "Electrical",
+        "Hydraulic/Pneumatic",
+        "Flight Controls",
+        "Fire Protection",
+        "Sheet Metal",
+        "Painting",
+        "Technical Publications",
+        "Turbine",
+        "Documentation",
+        "Black Belt",
+        "FAA",
+        "FCC"
+    ],
+    "experience": [
+        {
+            "title": "Manager, Continuous Improvement",
+            "company": "Company Name, City, State",
+            "start_date": "2014-11",
+            "end_date": "Present",
+            "description": "Utilize Six Sigma and Lean to improve processes across facilities; lead cross-functional teams; manage employees as project leaders for continuous improvement projects; eliminate waste and variation; implement 5S, Kaizen Events, Value Stream Mapping, Cause and Effect Analysis, Process Controls, Visual Controls, Flow production, variation reduction and waste elimination to reduce cycle times and improve profitability."
+        },
+        {
+            "title": "A&P Mechanic / Aircraft Technician",
+            "company": "Company Name, City, State",
+            "start_date": "2014-04",
+            "end_date": "2014-10",
+            "description": "Assign work to mechanics; lead and guide activities ensuring maintenance compliance with company policies and FAA regulations; order and track parts; monitor job estimates; provide on-the-job training; verify qualifications of assigned employees."
+        },
+        {
+            "title": "Aviation Technician",
+            "company": "Company Name, City, State",
+            "start_date": "2010-09",
+            "end_date": "2013-09",
+            "description": "Troubleshoot mechanical malfunctions of engines; launch and recover aircraft; perform maintenance on time-sensitive parts; perform minor repairs on airframe and engine; perform fuel and defuel of aircraft; engine operational checks upon completion of maintenance."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name, City, State",
+            "start_date": "2008-09",
+            "end_date": "2010-08",
+            "description": "Create shelf displays; provide customers with detailed information; ensure products are properly stocked; maintain cleanliness of sales area; operate cash register; assist other associates; manage displays for games, computers and accessories."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Aviation Business Administration with a minor in Safety",
+            "school": "Embry-Riddle Aeronautical University",
+            "year": 2018
+        },
+        {
+            "degree": "Master Certificate in Six Sigma",
+            "school": "Villanova University",
+            "year": 2014
+        },
+        {
+            "degree": "AS in Aviation Maintenance",
+            "school": "National Aviation Academy",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "Master Certificate in Six Sigma (Villanova University, 2014)",
+        "Certified Lean Six Sigma Black Belt (Villanova University, 2015–Present)",
+        "Airframe and Powerplant Mechanics license (FAA) (2010–Present)",
+        "FCC Elements 1, 3, & 8 (2011–Present)",
+        "FCC GROL (General Radiotelephone Operator license) with ship radar endorsement",
+        "FCC Commercial Operators License (Marine Radio Operator Permit)"
+    ],
+    "languages": [
+        "Chinese (Mandarin)"
+    ]
+}

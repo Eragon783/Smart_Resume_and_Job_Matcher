@@ -1,0 +1,125 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "Anatomy",
+        "aseptic techniques",
+        "Bachelors",
+        "Biology",
+        "calculators",
+        "calibration",
+        "content",
+        "credit",
+        "database",
+        "Department of Health",
+        "DNA",
+        "Educator",
+        "English",
+        "equipment maintenance",
+        "forms",
+        "forth",
+        "Good Laboratory Practices",
+        "instruction",
+        "interpretation",
+        "laboratory procedures",
+        "laboratory tests",
+        "lesson plans",
+        "Director",
+        "materials",
+        "money",
+        "Pathology",
+        "PCR",
+        "Physiology I",
+        "progress",
+        "QA",
+        "Real-Time",
+        "reporting",
+        "Research",
+        "selling",
+        "Statistics",
+        "Teaching",
+        "Technician",
+        "Troubleshoot",
+        "workshops",
+        "Composition I",
+        "composition"
+    ],
+    "experience": [
+        {
+            "title": "Biology Teacher",
+            "company": "Company Name",
+            "start_date": "11/2016",
+            "end_date": "Current",
+            "description": "Execute, implement, and modify lesson plans while incorporating differentiated instruction and multiple intelligences. Design and align lessons, labs, and assessments incorporating STEM, problem based learning, Common Core and NGSS. Volunteer and participate in schools extracurricular activities such as selling tickets for the school talent show and participating in the Lindenwold HS 5K for the scholarship fund. Teach and translate materials utilizing Sheltered Instruction techniques for English Language Learners. Co-teach with special education teachers while executing modifications in student IEP and 504 plans. Plan and present Google applications training for Lindenwold HS professional development."
+        },
+        {
+            "title": "Biology Teacher",
+            "company": "Company Name",
+            "start_date": "09/2011",
+            "end_date": "11/2016",
+            "description": "Seek out of district professional development opportunities including but not limited to NJEA and NSTA Conventions, and addition programs focused in science, standards, & STEM. Successfully fundraise money for incorporating additional technologies, TI Nspire CX graphing calculators, for the classroom through DonorsChoose.org. Execute, implement, and modify lesson plans while incorporating differentiated instruction and multiple intelligences. Design and align lessons, labs, and assessments incorporating STEM, problem based learning, Common Core and NGSS. Implement ideas, practices, and theories from professional development workshops. Turn-Key for other teachers). Co-teach with special education teachers while executing modifications in student IEP and 504 plans. Communicate with parents/guardians regarding student progress within the classroom. Achieve Level 1 Google Certified Educator status in October 2016."
+        },
+        {
+            "title": "Student Teacher",
+            "company": "Company Name",
+            "start_date": "01/2011",
+            "end_date": "03/2011",
+            "description": "Develop labs, assignments, and projects to reinforce material taught previously encouraging deeper knowledge and understanding in addition to incorporate multiple disciplines, including writing, science, social sciences, and health. Continuous educational improvement by applying constructive criticism to lessons during student teaching experience. Formative and summative assessments of students on content related to the New Jersey State standards. Execute and implement lesson plans for the week while ensuring differentiated instruction. Communicated with parents/guardians about student progress within the classroom."
+        },
+        {
+            "title": "Clinical Lab Manager/Technologist",
+            "company": "Company Name",
+            "start_date": "04/2007",
+            "end_date": "04/2011",
+            "description": "Educate and train Pathology Residents according to guidelines set forth in Molecular Diagnostic Laboratory Resident Manual, including observation and hands on bench training of laboratory procedures and techniques. Research and validate new laboratory tests by determining parameters for sample concentration, detection limits, and composition of procedures for the laboratory. Maintain failed run, repeat testing, instrument/equipment maintenance & calibration, QC temperature, & T-A-T logs. Perform DNA extraction/quantitation, PCR, CE, interpretation, and reporting of results of molecular studies. Manage and operate the laboratory and equipment according to the QA/QC Procedure and Protocol."
+        },
+        {
+            "title": "Quality Control Technician - TCA/E Coordinator",
+            "company": "Company Name",
+            "start_date": "08/2005",
+            "end_date": "04/2007",
+            "description": "Coordinate monthly seminar with QC Director and attending laboratory technicians in addition to conducting 'Good Laboratory Practices' and orientation lectures for laboratory technicians. Compose and administer seminar quizzes and verifying technician credit by monitoring seminar attendance. Assemble and execute state reports for Department of Health in several states in which licenses are held. Troubleshoot and investigate pending specimens to ensure results are reported within a timely manner. Manage Technician Competency Assessment (TCA) and Continuing Education (TCE) Programs. Maintain laboratory technician training records and schedule annual evaluations. Accumulate test result and testing comments for final report completion. Compose standard operations and procedure for pending specimens. Verify patient requisition forms to records in company database. Compile and maintained list of specimens pending."
+        },
+        {
+            "title": "Clinical Laboratory Technician",
+            "company": "Company Name",
+            "start_date": "01/2005",
+            "end_date": "08/2005",
+            "description": "Prepare gel agars and associated substrates from raw materials in large-scale electrophoresis testing platform. Proficient in aseptic techniques, 'Good Laboratory Practices', and proper pipetting practices. Extract raw samples for DNA purification utilizing aseptic techniques. Execute and analyze Real-Time and conventional PCR results."
+        }
+    ],
+    "education": [
+        {
+            "degree": "DIG Field School",
+            "school": "Discoveries in Geosciences",
+            "year": "2016"
+        },
+        {
+            "degree": "Post-Bachelors Teaching Certification Program: Secondary Education",
+            "school": "University of Washington",
+            "year": "2011"
+        },
+        {
+            "degree": "Secondary Education",
+            "school": "Drexel University School of Education",
+            "year": "2011"
+        },
+        {
+            "degree": "Bachelor of Science in Biological Sciences",
+            "school": "Rutgers, The State University of New Jersey",
+            "year": null
+        },
+        {
+            "degree": "Associate degree",
+            "school": "Camden County College",
+            "year": "2005"
+        }
+    ],
+    "certifications": [
+        "Level 1 Google Certified Educator (October 2016)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Analytical and results oriented professional with 2+ years of extensive experience in conducting, analyzing and interpreting customer, competitor and market intelligence across the marketing spectrum on customer segmentations and product categories. Excellent analytical skills and a strong sense of structure and logic. Ability to prepare high quality presentation and spreadsheet models. Passionate about providing high quality, cutting edge research and have an understanding of the complex profile of consumers and how business can tap directly into their habits, aspirations and attitudes Hands on experience working on projects encompassing market analysis, organization structures analysis, competitive benchmarking, financial analysis and other best practice studies across industries. Demonstrated ability to work effectively, both independently and in a team environment, in an atmosphere of multiple projects, shifting priorities, and deadline pressures. A confident and concise communicator with excellent relationship & team management skills. Possess a flexible & detail oriented attitude.",
+    "skills": [
+        "SPSS",
+        "MS Word",
+        "Excel",
+        "PowerPoint",
+        "Gartner",
+        "Forrester",
+        "Datamonitor",
+        "OneSource",
+        "Factiva",
+        "Benchmarking",
+        "Big Data",
+        "Business research",
+        "Competitor Analysis",
+        "Consulting",
+        "Client management",
+        "Critical thinking",
+        "Research",
+        "Market research",
+        "Market analysis",
+        "Marketing plan",
+        "Financial analysis",
+        "Investment Banking",
+        "Investment management",
+        "Wealth management"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Capgemini Consulting",
+            "start_date": "2012-04",
+            "end_date": "2014-04",
+            "description": "Investigation and understanding of key business issues across verticals; provided clear, concise and timely analysis and recommendations. Designed research methods and translated findings, market data and industry knowledge into actionable insights with critical thinking and forward-looking statements. Played a key role in redesigning product offerings by researching the market and developing comprehensive product profiles. Used primary and secondary sources along with quantitative and qualitative research. Liaised with internal clients for project requirements and provided ongoing support. Interacted with personnel across departments and levels. Projects included Strategic Research, Market Study / Competitor Analysis, vendor analysis of SaaS HCM market, big data analytics landscape, market analysis for green tech manufacturers, social media monitoring tool benchmarking, and benchmarking of best practices across verticals. Built client relationships as an advisor to solve critical business problems."
+        },
+        {
+            "title": "Intern",
+            "company": "Pantaloon Retail",
+            "start_date": "2011-04",
+            "end_date": "2011-06",
+            "description": "Customer Experience Management: Designed and implemented a marketing plan using market research data, surveys, market analysis and revenue forecasts before and after implementation. Commercial evaluation of activations: implemented sales promotion plans and new store concepts to generate sales; coordinated in-store activities for new releases and special products; assessed financial feasibility and ROI. Activations Management: planned and managed activations at Bangalore Central to drive sales."
+        },
+        {
+            "title": "Intern",
+            "company": "The Goldman Sachs",
+            "start_date": "2008-04",
+            "end_date": "2008-06",
+            "description": "Investment Banking Operations: Worked with the Treasury team to understand key investment banking operations; studied effectiveness of operations. Recommended revision of threshold amounts for inbound/outbound claims, resulting in a 58% increase in productivity and a 72% reduction in total claims."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration, Marketing Management",
+            "school": "Christ University, India",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Business Management",
+            "school": "Christ University, India",
+            "year": 2010
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

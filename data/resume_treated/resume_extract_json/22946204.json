@@ -1,0 +1,90 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "R&D Product Development Engineer with 5+ years of C and MATLAB, and 5+ years of mechanical design experience (AutoCAD, SolidWorks). Experienced in UAV/robotics, control systems, data analysis, and programming (Python, Java). Proficient with embedded systems, CAD/CAM, and lab experiments; strong cross-disciplinary skills spanning mechanical, electrical, and software domains.",
+    "skills": [
+        "C",
+        "Python",
+        "Java",
+        "MATLAB",
+        "R",
+        "Processing",
+        "SQL",
+        "PLC",
+        "Word",
+        "PowerPoint",
+        "Excel",
+        "Pages",
+        "Numbers",
+        "Keynote",
+        "LaTeX",
+        "AutoCAD",
+        "SolidWorks",
+        "MakerBot 3D printing",
+        "Laser cutting",
+        "Milling",
+        "Drilling",
+        "Lathe",
+        "STATA",
+        "SPSS",
+        "SQL Server",
+        "Navicat",
+        "Windows",
+        "OS X",
+        "Arduino",
+        "Kalman Filter",
+        "Extended Kalman Filter",
+        "PUMA 260",
+        "RANSAC",
+        "Computer Vision",
+        "Data Analysis",
+        "Machine Learning",
+        "Embedded Systems",
+        "Robotics",
+        "Mechatronics",
+        "UAV",
+        "Modeling"
+    ],
+    "experience": [
+        {
+            "title": "R&D Product Development Engineer",
+            "company": "Company Name",
+            "start_date": "2016-06",
+            "end_date": "Present",
+            "description": "Design and build a tail-sitter VTOL UAV; aerodynamics modeling, UAV control system design, mechanical manufacturing, simulation and experiments."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Company Name",
+            "start_date": "2015-05",
+            "end_date": "2016-02",
+            "description": "Research assistant for Wharton School environment economics projects on Europe Emission Trading. Data collection, cleaning, merging, database construction and data analysis; skills included Java, Python, Navicat/SQLite and STATA."
+        },
+        {
+            "title": "Mechanical Technician",
+            "company": "Company Name",
+            "start_date": "2013-08",
+            "end_date": "2013-09",
+            "description": "Check, report on reducer components, automobile chassis production; trained in mechanical manufacturing fundamentals in automotive industrial production."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Mechanical Engineering & Applied Mechanics",
+            "school": "University of Pennsylvania, School of Engineering and Applied Science",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Science: Mechanical Design and Automation",
+            "school": "Harbin Institute of Technology (HIT)",
+            "year": 2010
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Chinese"
+    ]
+}

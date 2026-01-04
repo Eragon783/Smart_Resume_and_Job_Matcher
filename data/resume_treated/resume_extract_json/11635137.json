@@ -1,0 +1,55 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Creative leader offering rich career experience in corporate communications for domestic and global brands and strategic communications for use on social media, internal operations, and multi-media production. Successfully communicates brand messages to impressive heights through story-telling; key to transforming ideas into realities. Achievements include product penetration, brand recognition and value, brand and image awareness, visual communications, and public relations campaign management/execution. Recognized skills in content development, project planning/management, multi-million-dollar budget oversight, business development, advertising, and agency management.",
+    "skills": [
+        "Content development",
+        "Project planning/management",
+        "Budgeting",
+        "Business development",
+        "Advertising",
+        "Agency management",
+        "Persuasive leadership",
+        "Skilled negotiator",
+        "Brand champion",
+        "Revenue generation",
+        "Communications",
+        "Branding",
+        "Strategic planning",
+        "Operations",
+        "Social media marketing",
+        "Digital production",
+        "Public relations",
+        "Sales",
+        "Customer service leadership"
+    ],
+    "experience": [
+        {
+            "title": "Marketing & Communications Executive",
+            "company": "Company Name, City, State",
+            "start_date": "01/1995",
+            "end_date": "04/2016",
+            "description": "Highly successful firm that has provided public relations and corporate communications services to more than 100 national and global clients. Track record of success market identification and penetration, competitive differentiation, corporate image improvements, new business development, content development and awareness. Controlled budgets ranging up to $20 million. Instrumental in generating 1+ million Internet viewers by devising aggressive public relations and communications campaign to support the introduction of Quincy Jones III's revolutionary health initiative Feel Rich. Accelerated public awareness of critical Diabetes care across the nation by writing and producing more than 30 entertaining and informative stories for CNBC's show D-Life, which prompted tens of thousands of Internet viewings. Successfully wrote and produced over 75 digital marketing pieces, and wrote and produced in excess of 100 segments for brands such as Apple TV ESPN, CNBC, and DirecTV, among others. Traveled globally to write and produce stories for Warner Brothers,Disney, Universal Studios, ESPN, CNBC, DirecTV, and the History Channel. Garnered interviews with scores of celebrities including Magic Johnson, Dustin Hoffman, Matthew McConaughey, the President of the United States' former personal physician, and many others. Presided over public relations projects designed to boost after-theatrical sales revenue for more than 200 home entertainment/VOD films such as The 40 Year Old Virgin, Munich, and American Gangster. Engineered successful strategies in foreign markets and across DVD, VOD, and pay TV sectors to accelerate sales."
+        },
+        {
+            "title": "Vice President, Marketing & Public Relations",
+            "company": "Company Name, City, State",
+            "start_date": "01/1988",
+            "end_date": "01/1995",
+            "description": "Managed over 25 global staff members and architected over 50 public relations campaigns and initiatives proving to be pivotal to capturing Oscar nominations and awards. Cultivated the public relations efforts when company went public. Led all efforts for corporate communications. Projects included : Madness of King George, Ang Lee's Wedding Banquet & Eat Drink Man Woman, Kenneth Branagh's Much Ado About Nothing; Oversaw the public relations and communications for the worldwide launch and multi-season success for iconic American Gladiators series"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in English Literature",
+            "school": "UC Santa Barbara",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

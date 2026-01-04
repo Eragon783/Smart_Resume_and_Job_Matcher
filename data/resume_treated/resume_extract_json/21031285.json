@@ -1,0 +1,82 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced Accountant with expertise in financial reporting, budgeting, grants accounting, and process improvements; proficient in SAP, PeopleSoft, macros, Excel; strong knowledge of GAAP and Sarbanes-Oxley compliance.",
+    "skills": [
+        "account reconciliation",
+        "accounting",
+        "accounting system",
+        "AR",
+        "budget",
+        "business objects",
+        "closing",
+        "contracts",
+        "financial analysis",
+        "financial controls",
+        "financial operations",
+        "financial reports",
+        "financial statements",
+        "GL",
+        "Grants",
+        "inventory",
+        "invoicing",
+        "ledger",
+        "Macros",
+        "Access",
+        "Excel",
+        "Microsoft Office",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "operating systems",
+        "PeopleSoft",
+        "procurement",
+        "reporting",
+        "Research",
+        "SAP",
+        "Sarbanes-Oxley",
+        "training materials",
+        "view"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2014-08",
+            "end_date": "Present",
+            "description": "Accountant in the Experimental Therapeutics Research department; prepared grant and restricted/non-restricted financial reports; created financial models; prepared monthly PI reports; reconciled ncRNA Core monthly; assisted with effort reporting via EPAF system and expense transfers; assisted with operating budget; developed financial models for grants; monitored departmental transactions for policy compliance; liaised with Grants and Contracts; reviewed and close Open POs; analyzed financial systems; assisted with ILABS invoicing; developed a macro-enabled reconciliation template to reduce keying errors and increase efficiency; prepared training materials; completed special department projects."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "2012-12",
+            "end_date": "2014-08",
+            "description": "Full-cycle accountant for several operating companies at Sysco Foods; produced and issued weekly, monthly, and quarterly financial statements; uploaded and ran reports in Business Objects; verified journal entries; prepared monthly P&L and analyzed variances; reviewed GL transactions for accuracy; reconciled aging AR; performed financial analysis; ensured GAAP compliance; supported internal and external auditors; reviewed reconciliations from other accountants."
+        },
+        {
+            "title": "Accountant / Auditor",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2012-02",
+            "description": "Accountant and auditor in the Financial Services department; compiled, retrieved, and summarized accounting information for analysis and reporting; examined source documents for accuracy and compliance with rules and regulations; provided training on procurement card regulations; maintained records to ensure data accuracy; identified non-compliance and suggested process improvements; ensured GAAP, internal controls, and Sarbanes-Oxley compliance; reviewed expense reports and prepared adjusting and closing entries."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Accounting",
+            "school": "Prairie View A&M University",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelor of Business Administration in Accounting",
+            "school": "Prairie View A&M University",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        "CPA Candidate"
+    ],
+    "languages": []
+}

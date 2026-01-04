@@ -1,0 +1,61 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly motivated, competitive, sales consultant seeking opportunity with long-term growth potential through integrity sales success, building relationships and developing the business.",
+    "skills": [
+        "account penetration",
+        "adaptability",
+        "identify and create new business opportunities",
+        "brain lab navigation experience",
+        "demonstrating products",
+        "product launch",
+        "account relationships",
+        "confident clinical expertise",
+        "competitive",
+        "features",
+        "marketing strategies",
+        "marketing",
+        "multi-tasking",
+        "personnel",
+        "sales skills",
+        "sales",
+        "sales plan",
+        "sales reports",
+        "surgeon",
+        "troubleshoot"
+    ],
+    "experience": [
+        {
+            "title": "Sales Consultant",
+            "company": "Company Name",
+            "start_date": "Jun 2013",
+            "end_date": "Present",
+            "description": "Cultivate relationships with surgeons while covering procedures with clinical proficiency and business acumen. Build and implement sales plan, manage and track customer sales activity and prospective customer initiatives. Team increased territory sales 12.5% to 3.8 million in 2014, 5% to 4 million in 2015 and 10% to in 2016. Increase physician volume through PCP events, community outreach programs and marketing strategies. Serve as a primary resource to key accounts for full line product support and continued service. Ability to troubleshoot complex issues with highly creative solutions. Maintain training in sales skills, new technologies, product features, and competitive product portfolios. Develop relationships with hospital personnel and key account stakeholders to expedite sales. Demos and lab training to demonstrate products and surgical techniques."
+        },
+        {
+            "title": "Office Intern",
+            "company": "Company Name",
+            "start_date": "Oct 2012",
+            "end_date": "May 2013",
+            "description": "Compiled sales data, generated sales reports for territory managers and profiled prospective surgeons. Organized and distributed marketing information, product portfolio, audits and sales goals projections. Organized and participated in training labs for potential surgeon customers."
+        },
+        {
+            "title": "Server / Bartender",
+            "company": "Company Name",
+            "start_date": "May 2010",
+            "end_date": "May 2013",
+            "description": "Worked full-time while completing bachelor's degree and internship. Amongst top 5 in sales regularly maintaining $90 plus per person guest average. Exceptional multi-tasking ability proven to effectively and efficiently service large amounts of business."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.B.A. in Business Management, Management Information Systems, Business Intelligence",
+            "school": "Florida Atlantic University",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,56 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "My objective is to obtain a successful career with your company by bringing enthusiasm, dedication, responsibility, good work ethic and customer service, combined with a desire to utilize my skills obtained through my experience.",
+    "skills": [
+        "Customer satisfaction",
+        "Word",
+        "Outlook",
+        "AS400",
+        "Knowledge of medical equipment",
+        "Physical therapy",
+        "Advanced problem-solving",
+        "Enthusiastic people person",
+        "Great organizational skills",
+        "Multi-task management"
+    ],
+    "experience": [
+        {
+            "title": "Physical Therapist Technician",
+            "company": "Company Name City , State",
+            "start_date": "01/2010",
+            "end_date": "Current",
+            "description": "Assist physical therapists in daily patient treatments and care. Set up orthopedic equipment. Assist in ultrasound and E-stem treatment along with wound care and patient activities."
+        },
+        {
+            "title": "Construction Worker",
+            "company": "Company Name City , State",
+            "start_date": "01/2009",
+            "end_date": "01/2010",
+            "description": "Operated heavy machinery. Assisted in home and business modification,cleaning, and preparation for the site."
+        },
+        {
+            "title": "Floor Worker/Cashier",
+            "company": "Company Name City , State",
+            "start_date": "12/2007",
+            "end_date": "01/2009",
+            "description": "Assisted customers with any questions or concerns they had.Checked the customers in for their workouts. Cleaned workout equipment. Answered phones and handled money transactions."
+        }
+    ],
+    "education": [
+        {
+            "degree": null,
+            "school": "Glencoe High School",
+            "year": "2002-2006"
+        },
+        {
+            "degree": null,
+            "school": "Gadsden State Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

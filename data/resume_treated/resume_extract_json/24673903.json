@@ -1,0 +1,50 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Dedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company success.",
+    "skills": [
+        "Strong organizational skills",
+        "Active listening",
+        "Sharp problem solver",
+        "Energetic work attitude",
+        "Inventory control",
+        "Customer service",
+        "Cash handling",
+        "POS inputting",
+        "Customer interface"
+    ],
+    "experience": [
+        {
+            "title": "Chef",
+            "company": "Company Name",
+            "start_date": "2013-09",
+            "end_date": "2016-01",
+            "description": "Responsible for the preparation of 2 daily snacks and lunch for 150 children. Required to create a balanced menu along with catering to child specific medical and religious restrictions. Continuously maintained above par menu and stayed within an established budget. Highly organized, time sensitive and creative."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2005-08",
+            "end_date": "Present",
+            "description": "Assisting Customers in the purchases. POP inputting. Creating an overall experience to create returning customer base. Customer service, product knowledge and computer skills."
+        },
+        {
+            "title": "Assistant Food and Beverage Manager",
+            "company": "Company Name",
+            "start_date": "2003-05",
+            "end_date": "2005-04",
+            "description": "Worked a liaison between membership and management to ensure all requirement where meet for a satisfying experience at a golf/tennis/pool facility. Was continuously asked to manage private and company events due to hard work and commitment to excellence. Ordered beverages to maintain sufficient stock, scheduled staff, and excellent customer service."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business",
+            "school": "MCLA",
+            "year": "1984"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

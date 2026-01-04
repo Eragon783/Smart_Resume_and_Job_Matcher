@@ -1,0 +1,62 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Gallatin, TN",
+    "summary": "Strong 4-H / agriculture education and extension background in areas of youth development and adult agriculture advocacy. Expertise in outreach programs towards youth and adults. Energetic, prospective extension agent who is a self-starter and team oriented with excellent analytical, organizational, and project management skills. Successful at building strong professional relationships as a skilled mentor and educator, who excels at bringing out the best in 4-H members, parents, and volunteers. Knowledgeable about theories, methods, and curriculum standards used in designing, developing and delivering successful training programs, projects, and 4-H clubs. Prospective extension agent who is organized, driven, and effective at using efficient educational methods while focusing on the individual needs of each participant.",
+    "skills": [
+        "Time Management",
+        "Discipline",
+        "Instruction",
+        "Management",
+        "Creative Lesson Planning",
+        "Research Goal Setting",
+        "Implementation",
+        "Program Development",
+        "Community Involvement"
+    ],
+    "experience": [
+        {
+            "title": "UT-TSU Agriculture / 4-H Extension Agent Trainee",
+            "company": "UT-TSU Agriculture / 4-H Extension",
+            "start_date": "09/2015",
+            "end_date": "Present",
+            "description": "Observe daily aspects of an agriculture extension agent and a 4-H youth development extension agent; participate in in-service trainings; help set up 4-H clubs and Master Beef programs; visit farms for soil sampling, weed, forage, or tree identification; support tours and demonstrations at workshops; develop first-year goals (soil sampling poster, weed/plant ID presentation, Ag in the Classroom program)."
+        },
+        {
+            "title": "Research Assistant Manager",
+            "company": "UT Extension",
+            "start_date": "05/2008",
+            "end_date": "08/2015",
+            "description": "Manage herd health management of research animals and oversee diverse undergraduate and graduate students; perform general livestock record keeping; inventory control; development and management of livestock facilities (nutrition and health); collect and process field data and laboratory procedures; conduct educational lectures, demonstrations, and tours for outreach programs; prepare purchasing requisitions and assist with results of research proposals and evaluation of livestock programs."
+        },
+        {
+            "title": "UT Extension Intern",
+            "company": "UT Extension",
+            "start_date": "05/2013",
+            "end_date": "08/2013",
+            "description": "Tutored 4-H students; assisted in setting up 4-H club meetings; registered participants for judging contests; judged at the Sumner County Fair; created newsletters; developed and delivered research-based educational programs; supported 4-H Camp activities; judged beef and sheep expo skill-a-thon contests; assisted with livestock evaluation and showmanship; answered insect/weed identification questions for county residents."
+        },
+        {
+            "title": "Veterinary Technician Assistant",
+            "company": "Unspecified Veterinary Clinic",
+            "start_date": "05/2006",
+            "end_date": "08/2008",
+            "description": "Provide nursing care and healing therapy for animals; perform laboratory tests; sterilize and prepare surgical equipment; handle and care for animals during treatment and surgery; produce radiography, and collect and analyze samples."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Agriculture Education and Extension",
+            "school": "Tennessee State University",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Science: Agriculture Science Animal Science/Pre-Veterinary Medicine",
+            "school": "Tennessee State University",
+            "year": 2008
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

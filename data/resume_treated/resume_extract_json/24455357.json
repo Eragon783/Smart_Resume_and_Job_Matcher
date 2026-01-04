@@ -1,0 +1,73 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Honduras",
+    "summary": "Represent the company's interest in universal and consistent fit aesthetics and proper construction of garments; standardize product fit and construction specifications. Skilled in specification writing, fitting, pattern making and sewing; knowledgeable in textiles; experienced in coordinating with overseas contractors; proficient in flat sketching; strong administrative abilities; bilingual in English and Spanish.",
+    "skills": [
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft Outlook",
+        "Web PDM",
+        "IBM AS-400",
+        "Writing specification sheets",
+        "Fitting",
+        "Pattern making",
+        "Sewing",
+        "Textiles",
+        "Contractor liaison / overseas correspondence",
+        "Flat sketching",
+        "Administrative skills",
+        "English proficiency",
+        "Spanish proficiency"
+    ],
+    "experience": [
+        {
+            "title": "Apparel Technical Designer",
+            "company": "Company Name, City, State",
+            "start_date": "2016-09",
+            "end_date": "Present",
+            "description": "Work with Design on seasonal development to identify styles requiring tech design support; issue initial specs to expedite first proto; manage fit cycle approval from development through stock; interface with Design, Product Development, Merchants, Production Quality Assurance and Suppliers to ensure updated information is communicated; measure garments for fittings; maintain fit logs and prepare for fittings; maintain labeling, packaging and construction standards; create and maintain fit comments and specs in Books; resolve technical issues with factories; review graded specs, tolerances and construction for consistency; maintain seasonal spec binders; communicate delivery issues and work with cross-functional team to resolve outstanding issues."
+        },
+        {
+            "title": "Specification Writer, Quality Control Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "1996-01",
+            "end_date": "2000-01",
+            "description": "Wrote specification sheets including sewing construction, trim, grading, pattern and label parts; attended fittings and corresponded with contractors overseas; liaison between Spec Department and other departments such as Quality Control, Design, Trims, Pattern Making, Washing and Shrinkage, Fabrication Matching, Sample Room, Grading and Marking; analyzed Line Development Management Reports for domestic and overseas operations to ensure deadlines were met; kept and updated extensive database and books; trained new hires."
+        },
+        {
+            "title": "Specification Writer",
+            "company": "Company Name, City, State",
+            "start_date": "1993-01",
+            "end_date": "1996-01",
+            "description": "Wrote Specification Sheets including Sewing construction, Trim, Grading, Patterns and label parts; liaison between Spec Department and other departments such as Quality Control, Design, Trims, Pattern Making, Sample Room, Grading and Marking; managed the distribution and tracking of the specification packages from production through to delivery to factories, warehouses and relevant personnel; monitored performance against deadlines and reported progress to production group at weekly reviews; kept and updated extensive database and books; trained new hires."
+        },
+        {
+            "title": "Production Line Supervisor",
+            "company": "Company Name, City, State",
+            "start_date": "1990-01",
+            "end_date": "1990-12",
+            "description": "Supervised line operations and staff; supervised and researched daily water treatment; calculated required quantities of raw materials for daily production and controlled output against plan; investigated and reported line efficiency on a daily basis."
+        },
+        {
+            "title": "Freelance Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "1988-01",
+            "end_date": "1989-03",
+            "description": "Taught Chemistry, Mathematics and Physics as a freelancer."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Chemical Engineering",
+            "school": "National University of Honduras",
+            "year": "1987"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

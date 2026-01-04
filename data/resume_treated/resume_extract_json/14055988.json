@@ -1,0 +1,103 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Talented Accountant employing creative teaching strategies to engage students fully in the learning process. A highly motivated Accounting professional with a verifiable record of accomplishment spanning over thirteen years. Highly creative, recognized as a results-oriented and solution-focused individual.",
+    "skills": [
+        "Account Reconciliation",
+        "Accounting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "AR",
+        "Billing",
+        "Budget",
+        "Cash Handling",
+        "Closing",
+        "Coaching",
+        "Communication Skills",
+        "Contracts",
+        "Credit",
+        "Customer Service",
+        "Financial",
+        "Forms",
+        "General Ledger",
+        "General Ledger Acounts",
+        "Grants",
+        "Groupwise",
+        "Instructing",
+        "Mentoring",
+        "Merchandising",
+        "Microsoft Office",
+        "Outlook",
+        "Organizational Skills",
+        "Packaging",
+        "Policies",
+        "Pricing",
+        "Public Speaking",
+        "Purchasing",
+        "Receiving",
+        "Reconciling",
+        "Research",
+        "Spreadsheets",
+        "Team Player",
+        "Time Management",
+        "Year-End"
+    ],
+    "experience": [
+        {
+            "title": "Accountant III",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "Current",
+            "description": "Responsible for grant management including preparing corrections, cost transfers, budget transfers, invoices and final reports. Request cash drawdowns and complete monthly reconciliations for grants and contracts. Correspond with outside granting agencies and University Grants and Contracts department to verify billing details. Monitor accounts receivable balances."
+        },
+        {
+            "title": "Assistant Accountant",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "January 2014",
+            "description": "Full charge processing of all functions related to accounts receivable, accounts payable & purchasing, assists in year-end close out. Independently research records and prepare journal entries as necessary. Reconcile records and documents; record general ledger entries. Analyze accounting records for compliance with DCCCD procedures."
+        },
+        {
+            "title": "Accounting Clerk B",
+            "company": "Company Name",
+            "start_date": "January 2006",
+            "end_date": "January 2007",
+            "description": "Examined, coded, verified, balanced, and reconciled various kinds of transactions, invoices and reports. Reconciled specific general ledger accounts and prepared adjusting journal entries as needed. Maintained spreadsheets and other related files and documents to record accounting transactions. Cash handling."
+        },
+        {
+            "title": "Accounting Instructor",
+            "company": "Company Name",
+            "start_date": "June 2003",
+            "end_date": "January 2004",
+            "description": "Plan course instruction based on the approved syllabus/course outline provided to assure course content and learning objectives are met. Design, administer, and grade examinations to assess achievement of course objectives as identified in the syllabus and as approved by the Academic Dean. Schedule and post office hours to provide academic support to students, tutor if necessary, and provide other assistance as needed. Start classes on time, conduct classes for the full time period, and enforce any applicable campus administrative policies. Utilize a variety of teaching styles and methods to accommodate diverse learning styles of students."
+        },
+        {
+            "title": "Student Accounts Representative/Bookkeeper",
+            "company": "Company Name",
+            "start_date": "January 2003",
+            "end_date": "January 2004",
+            "description": "Tracked and maintained student accounts throughout the collection process to ensure prompt payment of outstanding balances. Advised students regarding their payment options and financial policies. Provided customer service and answer student inquiries regarding their financial status. Reviewed student payment plans for completeness and accuracy. Posted student tuition and fees. Issued system generated receipts. Assisted in charging tuition and fees, as well as reviewing monthly earnings. Updated appropriate tracking systems for timely billing and collections. Processed forms related to student status changes in accordance with company policies and procedures. Performed student account maintenance activities, including conducting account reviews, reconciling aging levels verifying account clearances, applying payments, monitoring collection activities, and updating accounts in compliance with established company AR management policies and procedures. Responsible for billing third-party vendors for payment of student tuition and fees."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA: Accounting",
+            "school": "Prairie View A & M University",
+            "year": 2003
+        },
+        {
+            "degree": "BBA: Finance",
+            "school": "University of North Texas",
+            "year": 2013
+        },
+        {
+            "degree": "MBA: Strategic Management",
+            "school": "University of North Texas",
+            "year": 2015
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

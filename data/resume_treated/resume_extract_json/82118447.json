@@ -1,0 +1,135 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Executive profile: Marketing and sales executive with extensive experience in direct sales, brand management, and revenue growth across national accounts. Creative, results-oriented leader skilled at problem solving, team development, and delivering strategic initiatives in high-pressure environments.",
+    "skills": [
+        "account management",
+        "ADP",
+        "Business Law",
+        "Case Management",
+        "Corporate Finance",
+        "Counselor",
+        "Crisis Intervention",
+        "client relations",
+        "Decision Making",
+        "Dimensions",
+        "Direct sales",
+        "Documentation",
+        "E-Business",
+        "Financial",
+        "Human Resource Management",
+        "Human Relations",
+        "International business",
+        "International Marketing",
+        "leadership skills",
+        "Managerial",
+        "marketing",
+        "Market",
+        "Marketing Management",
+        "negotiator",
+        "communicator",
+        "optimization",
+        "Organizational",
+        "Payroll",
+        "P.C.",
+        "problem solving",
+        "protocols",
+        "Psychology",
+        "Research",
+        "sales",
+        "sales training",
+        "Strategic",
+        "strategic marketing",
+        "Technician",
+        "telecommunications",
+        "trainer"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Manager/Program Director",
+            "company": "Company Name",
+            "start_date": "February 2014",
+            "end_date": "Current",
+            "description": "Designed and implemented strategic marketing initiative for First Interstate Bank entitled 'Bank of the Future.' Market share and revenue grew by over 300% and the program, including the training of bank employees in direct sales, was rolled out nationally. Developed sales training protocols for ADP's new 'P.C. Payroll' product line which dominated the marketplace. Recruited, trained and managed an agent sales force for AT&T's GBS Division which grew to in excess of $250 million in revenue per year. Built a successful telecommunications company that grew to 30+ employees and $5 million in annual revenue. Responsible for all aspects of the organization including direct sales."
+        },
+        {
+            "title": "Program Director",
+            "company": "Company Name",
+            "start_date": "September 2011",
+            "end_date": "January 2015",
+            "description": "Oversaw program direction and coordination for the organization."
+        },
+        {
+            "title": "Senior Counselor",
+            "company": "Company Name",
+            "start_date": "November 2008",
+            "end_date": "August 2011",
+            "description": "Provided substance abuse counseling."
+        },
+        {
+            "title": "Substance Abuse Counselor",
+            "company": "Company Name",
+            "start_date": "August 2006",
+            "end_date": "November 2008",
+            "description": "Provided substance abuse counseling."
+        },
+        {
+            "title": "Substance Abuse Counselor",
+            "company": "Company Name",
+            "start_date": "September 1993",
+            "end_date": "August 2006",
+            "description": "Provided substance abuse counseling."
+        },
+        {
+            "title": "President/CEO",
+            "company": "Company Name",
+            "start_date": "January 1990",
+            "end_date": "May 1993",
+            "description": "Chief Executive Officer of a medium-size telecommunications corporation. Managed day-to-day operations and long-term strategy; conducted cost, schedule, contract performance, variance and risk analysis; drafted business plans and budgets; coached 38 staff; conducted all sales training; established knowledge-sharing processes; increased monthly sales; managed budgets; identified strategic partnerships; expanded revenue; led marketing and client relationship activities."
+        },
+        {
+            "title": "Senior Territorial Manager",
+            "company": "Company Name",
+            "start_date": "April 1988",
+            "end_date": "January 1990",
+            "description": "Spearheaded an Agent Program resulting in a 300% increase in revenue. Led cross-selling/up-selling initiatives; trained sales agents; prepared performance updates and quarterly business reviews; monitored market conditions and competitor activity."
+        },
+        {
+            "title": "District Manager",
+            "company": "Company Name",
+            "start_date": "May 1986",
+            "end_date": "March 1988",
+            "description": "Led sales teams, expanded customer base, and managed district operations; achieved revenue growth and strengthened customer relationships."
+        },
+        {
+            "title": "Credit/Marketing Manager V.P",
+            "company": "Company Name",
+            "start_date": "March 1984",
+            "end_date": "April 1986",
+            "description": "Managed credit and marketing responsibilities; oversaw strategic initiatives and revenue growth."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. in Business Administration",
+            "school": "California Coast University",
+            "year": 2003
+        },
+        {
+            "degree": "MBA in Business Administration",
+            "school": "California Coast University",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelor of Science in Business Administration",
+            "school": "California Coast University",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        "Certified Substance Abuse Counselor"
+    ],
+    "languages": []
+}

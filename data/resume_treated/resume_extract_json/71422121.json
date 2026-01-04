@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Plano, Texas",
+    "summary": "QA Test Analyst profile with 4+ years of experience in manual software quality assurance, skilled in functional, regression, system, UAT, and performance testing, with experience across Client/Server, Web, and SAAS platforms in finance, banking, retail, and health care. Proficient in Agile, Scrum, Waterfall, and V-model methodologies, and in communicating with stakeholders to meet deliverables. Experienced in test planning, test case design, test data creation, and defect logging. Strong knowledge of SDLC, STLC, and DMLC, with experience collaborating with offshore and onsite QA teams. Proficient in SQL-based backend data validation, metric development for quality control, and strong communication in English, Hindi, and Urdu. Quick learner, self-starter, team player, with strong analytical, organizational, and planning skills, able to handle multiple tasks in dynamic environments.",
+    "skills": [
+        ".NET",
+        "Agile",
+        "JIRA",
+        "Quality Center",
+        "HP ALM",
+        "Test Director",
+        "SQL",
+        "Oracle",
+        "SQL Server",
+        "XML",
+        "Windows",
+        "Mac OS",
+        "iOS",
+        "Android",
+        "Web browsers (IE, Firefox, Chrome, Safari)",
+        "Functional Testing",
+        "Regression Testing",
+        "System Testing",
+        "User Acceptance Testing",
+        "Performance Testing",
+        "Smoke Testing",
+        "SDLC",
+        "STLC",
+        "DMLC",
+        "Manual Testing",
+        "SQL Queries",
+        "Back-end Testing",
+        "Defect Tracking/Management",
+        "BRD",
+        "FSD",
+        "Scrum",
+        "Waterfall",
+        "V-Model",
+        "POS",
+        "Finance/Banking domain"
+    ],
+    "experience": [
+        {
+            "title": "QA Test Analyst",
+            "company": "Kohl's",
+            "start_date": "2014-09",
+            "end_date": "Present",
+            "description": "Tested Kohl's mobile apps on iOS and Android; performed backend data validation using SQL; participated in all phases of the development lifecycle; reviewed BRD and FSD for testability; created test plans, test data, and test cases; tracked defects to support regression testing; collaborated with onshore/offshore QA teams to ensure quality; tested across OS platforms using physical devices."
+        },
+        {
+            "title": "Quality Analyst Assurance",
+            "company": "Humana",
+            "start_date": "2013-10",
+            "end_date": "2014-07",
+            "description": "Participated in all phases of the SDLC for software quality assurance; analyzed requirements for completeness; wrote SQL queries to validate data; prepared test strategies, scenarios, and cases; implemented regression testing for new builds; tracked defects in Quality Center; worked in Agile with daily scrums; tested mobile apps on iOS/Android with real devices."
+        },
+        {
+            "title": "Manual Tester",
+            "company": "Bank M",
+            "start_date": "2010-06",
+            "end_date": "2013-06",
+            "description": "Performed cross-browser functional and regression testing; created test cases for finance/account modules; validated large data sets via backend SQL validation; prepared defect summaries and reports; participated in Agile processes and mobile testing; verified data through SQL and UI validations."
+        },
+        {
+            "title": "Jr. Quality Assurance Analyst",
+            "company": "Qatar Airways",
+            "start_date": "2009-07",
+            "end_date": "2010-05",
+            "description": "Involved in full Testing Life-Cycle from requirements analysis to execution; prepared GUI and PCI security test scripts; executed manual test cases using Test Director; conducted regression testing and defect logging; mapped requirements to test results; wrote SQL queries to retrieve data."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Marketing",
+            "school": "University of North Alabama",
+            "year": 1999
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hindi",
+        "Urdu"
+    ]
+}

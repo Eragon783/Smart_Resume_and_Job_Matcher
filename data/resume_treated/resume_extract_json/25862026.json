@@ -1,0 +1,102 @@
+{
+    "name": "Nicole Morgan",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "8+ years of accomplished experience in the field of accounting. Team and organizational training from a major global public corporation. Exceptionally fast, efficient and organized. Knowledge of all accounting functions: GL, PL, and BS - budgets, forecasting, variance analysis, trend analysis, financial reporting, reconciliations, work papers, journal entries, accruals, AP, AR. Experience in GAAP and Statutory accounting and monthly and year-end closing processes. Highlights Oracle Financial, PeopleSoft, Microsoft Dynamics Nav, Microsoft Office Suite, Outlook, Lotus Notes.",
+    "skills": [
+        "account reconciliation",
+        "Accounting",
+        "general accounting",
+        "accruals",
+        "ad hoc",
+        "Agency",
+        "balance sheets",
+        "billing",
+        "budgets",
+        "Budget",
+        "charts",
+        "compliance reporting",
+        "contracts",
+        "customer service",
+        "documentation",
+        "financial",
+        "Financial Analysis",
+        "financial management",
+        "financial reports",
+        "Financial Reporting",
+        "financial statements",
+        "fixed assets",
+        "foreign exchange",
+        "frame",
+        "general ledger",
+        "general ledger accounts",
+        "home office",
+        "Inventory",
+        "invoicing",
+        "ledger",
+        "Lotus Notes",
+        "meetings",
+        "Microsoft Dynamics",
+        "Microsoft Office Suite",
+        "Outlook",
+        "month end close",
+        "Oracle Financial",
+        "PeopleSoft",
+        "personnel",
+        "policies",
+        "presentations",
+        "profit and loss",
+        "reporting",
+        "settlements",
+        "underwriting"
+    ],
+    "experience": [
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name",
+            "start_date": "2015-06",
+            "end_date": "Present",
+            "location": "City, State",
+            "description": "Prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to reporting and procedural standards. Process, prepare and maintain reporting related to Inventory, and all associated recurring and/or ad hoc journal entries, account analysis, financial reporting, account reconciliation and system interface analysis, (COGS, Rebates, Adjustments, Other Revenues) in accordance with established general accounting policies and procedures. Summarize vendor contracts and/or annual contract amendments to extract financial pertinent information to determine rebate configuration for monthly/quarterly invoicing. Create, review revenue loaders, rebate, billing invoices and track the payment status. Prepare communications such as memos, presentation charts, and process documentation, and coordinate with other departments with assembling information for reporting results. Maintain Sox controls and departmental documentation. Train new staff and review the work of less experienced staff. Cross training with other team members in other accounting functions."
+        },
+        {
+            "title": "Accountant II",
+            "company": "Company Name",
+            "start_date": "2013-09",
+            "end_date": "2014-05",
+            "location": "City, State",
+            "description": "Completed assigned reconciliations accurately, completely and in the time frame required by corporate policies. Prepared and ensured accuracy and integrity of accounting and transactional records to ensure proper financial reporting. Worked with internal Financial Reporting personnel to support timely and accurate completion of monthly, quarterly and annual internal and external reporting. Processed and maintained assigned ad hoc or recurring journal entries in a timely and accurate manner. Ensured that interfaces between ancillary systems and the general ledger are processed timely and accurately so that the affected assigned general ledger accounts are complete, accurate and properly classified. Independently reviewed revenue and expense accounts for accuracy; determined proper accruals. Independently provided prompt, courteous and professional customer service to internal and external users of information provided by the Accounting department. Worked with external audit firm to support timely completion of audits or compliance reporting. Assisted other departments with compiling information and reporting results and variances."
+        },
+        {
+            "title": "Accountant II",
+            "company": "Company Name",
+            "start_date": "2008-12",
+            "end_date": "2013-01",
+            "location": "City, State",
+            "description": "Assisted in the month/year end close and preparation of associated journal entries. Performed detailed analysis of the general ledger in conjunction with the month end close. Responsible for the preparation of foreign branch balance sheets, income statements, and fixed assets schedules and reconciliations. Verified and analyzed monthly and quarterly underwriting activity as reported by foreign branches, subsidiaries and affiliates, Pools and Syndicates. Recognized and investigated unusual results utilizing all available resources and effectively communicated findings to management. Analyzed and recorded foreign branch results on home office books, interacting with other areas, to ensure the accuracy of journal entries. Reconciled ledger balances resulting from underwriting activity, account settlements, and profit and loss on foreign exchange and between sub-ledger and general ledger to insure accurate figures before monthly sub-ledger close. Cash settlements through wire transfers, electronic receipts, check deposits, ach payments, and check requests."
+        },
+        {
+            "title": "Associate",
+            "company": "Company Name",
+            "start_date": "2006-10",
+            "end_date": "2008-06",
+            "location": "City, State",
+            "description": "Developed, coordinated and planned expense budgets, forecasts, headcount monitoring and tracking and consolidated and analyzed trends of the expenses for Compensation and Planning within Agency Division successfully ended the year within +/- 2% variance to forecast. Prepared, updated and monitored monthly Financial Analysis Summaries and budget templates for the monthly financial management presentations including actual and projected results. Coordinated with section managers to prepare budget uploads and monthly Budget versus Actual meetings. Prepared recurring and ad-hoc journal entries and provided ad hoc analysis reporting to management as needed, such as identifying spending trends, analyzing variances, or for other purposes as requested."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Accounting",
+            "school": "Kean University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science in Management Science",
+            "school": "Kean University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

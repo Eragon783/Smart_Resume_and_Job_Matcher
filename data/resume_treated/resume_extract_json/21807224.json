@@ -1,0 +1,117 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Lean manufacturing professional with 20 years experience in lean manufacturing and continuous improvement. Highly skilled in all lean six sigma initiatives.",
+    "skills": [
+        "Microsoft Office",
+        "Visio",
+        "Inventor",
+        "Lean Manufacturing",
+        "SPC",
+        "FMEA",
+        "Minitab",
+        "Process improvement",
+        "Continuous Improvement",
+        "database",
+        "Ergonomics",
+        "estimating",
+        "manufacturing processes",
+        "mentor",
+        "new product development",
+        "processes",
+        "quality",
+        "safety",
+        "Six Sigma"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Manager",
+            "company": "Company Name",
+            "start_date": "2015-12",
+            "end_date": "2016-08",
+            "description": "Build the foundation for the engineering department at Airmate Company. Lead, develop, and mentor a group of engineers on daily tasks, project assignments, and project timelines. Standardized estimating process improving estimations from -30% to +5%. Implement engineering change control process."
+        },
+        {
+            "title": "Process Technician",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2015-12",
+            "description": "Lead Lean/Continuous Improvement Projects to develop, standardize, and improve manufacturing processes. Approve engineering decision on material, dimensional specifications, processes and tolerances. Validate and verify new product designs. Participate and lead 3P events."
+        },
+        {
+            "title": "Quality Engineer Valve Value Stream",
+            "company": "Company Name",
+            "start_date": "2005-03",
+            "end_date": "2009-01",
+            "description": "Handled all customer complaints and corrective actions. Proactively visited customers regarding quality or process improvements. Maintained APQP database which included PFMEA's, Control Plans, Product Profiles and all applicable work instructions. Performed capability studies on both machines and processes. Assisted with the development of new products and new processes."
+        },
+        {
+            "title": "Process Technician Valve Value Stream",
+            "company": "Company Name",
+            "start_date": "2003-01",
+            "end_date": "2005-01",
+            "description": "Created and maintained value stream maps. Championed or led kaizen events derived from value stream maps. Led multiple material and process cost saving initiatives. Created and controlled all standardized work including operational instructions and set up instructions. Assisted Applications and Manufacturing Engineering in new product development and launches."
+        },
+        {
+            "title": "Value Stream Group Leader",
+            "company": "Company Name",
+            "start_date": "1997-01",
+            "end_date": "2003-01",
+            "description": "Led 50-70 hourly employees on day to day activities. Maintained and improved safety, morale, productivity, cost and quality daily. Led continuous improvement activities in productivity, quality and safety."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Applied Industrial Ergonomics",
+            "school": "",
+            "year": 2014
+        },
+        {
+            "degree": "Lean Certification (Parker Lean Boot Camp I, II, and III)",
+            "school": "",
+            "year": 2014
+        },
+        {
+            "degree": "EPA Certification",
+            "school": "",
+            "year": 2013
+        },
+        {
+            "degree": "AWS Brazing Certification",
+            "school": "",
+            "year": 2011
+        },
+        {
+            "degree": "Six Sigma Green Belt",
+            "school": "Six Sigma Academy",
+            "year": 2007
+        },
+        {
+            "degree": "Value Stream Mapping",
+            "school": "Duggan and Associates",
+            "year": 2004
+        },
+        {
+            "degree": "Mixed Model Value Stream Mapping",
+            "school": "Duggan and Associates",
+            "year": 2006
+        },
+        {
+            "degree": "Poke-a-Yoke Certification",
+            "school": "Purdue University",
+            "year": 2003
+        }
+    ],
+    "certifications": [
+        "Lean Certification (Parker Lean Boot Camp I, II, and III)",
+        "EPA Certification",
+        "AWS Brazing Certification",
+        "Six Sigma Green Belt Training",
+        "Poke-a-Yoke Certification",
+        "Value Stream Mapping Certification",
+        "Mixed Model Value Stream Mapping Certification"
+    ],
+    "languages": []
+}

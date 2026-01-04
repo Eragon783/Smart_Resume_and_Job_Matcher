@@ -1,0 +1,49 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced 25Live Administrator and IT Help Desk Supervisor with strong technical skills, commitment to up-to-date industry knowledge, and a proven track record in resource management, process improvement, and customer-focused service delivery.",
+    "skills": [
+        "Excellent communication skills",
+        "System upgrades",
+        "Problem-solving abilities",
+        "Microsoft MCSA/MCSE Certified",
+        "Diagnostic skills",
+        "Enterprise technologies"
+    ],
+    "experience": [
+        {
+            "title": "25Live Functional Administrator/Supervisor of I.T. Help Desk",
+            "company": "Benedictine University",
+            "start_date": "2007-10",
+            "end_date": "Present",
+            "description": "Manage Resource 25 space reservations, keep data current, and perform space management tasks. Run weekly reports on events and Sports Complex activities, coordinate communications with events committees and Village of Lisle, and develop policies for Resource 25 usage. Train staff, maintain Resource 25 website, assist with upgrades and interface discussions with PeopleSoft, and provide CSR support and mentoring. Serve as Team Lead in the absence of the Service Desk Team Lead and support department objectives."
+        },
+        {
+            "title": "Supervisor Public Safety / Digital Media Tech",
+            "company": "Benedictine University",
+            "start_date": "2003-09",
+            "end_date": "2006-06",
+            "description": "Conduct frequent campus patrols, respond to incidents, and coordinate with dispatchers and police. Detain offenders when necessary, testify in court, and ensure access control and security of campus facilities. Oversee media equipment and digital media projects, assist in training and scheduling staff, provide technical guidance for media production, and participate in budgeting and facility utilization activities."
+        },
+        {
+            "title": "Legislative Aide",
+            "company": "City of Chicago – Office of the Alderman",
+            "start_date": "1999-02",
+            "end_date": "2003-08",
+            "description": "Supported administration, communication, research, and public relations for the Alderman. Prepared bills, memos, circulars, and official documents; wrote press releases and speeches; managed press conferences; maintained digital records; planned schedules and meetings; coordinated with other departments; arranged transportation for official tours."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Social Science",
+            "school": "Benedictine University",
+            "year": "2015"
+        }
+    ],
+    "certifications": [
+        "Microsoft Certified Professional (MCP)"
+    ],
+    "languages": []
+}

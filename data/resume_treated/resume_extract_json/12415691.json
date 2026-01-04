@@ -1,0 +1,113 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Strong leadership, project management, system administration and technical skills to meet the efficiency and optimization needs. Has 3+ years of professional experience in managing, developing and maintaining software systems, web applications, and database systems. Experience in Unix/Linux System Administration, Oracle Database Administration (11g), MySQL database administration, Ellucian Banner ERP, and Oracle Application Express (APEX).",
+    "skills": [
+        "C",
+        "C++",
+        "C#.NET",
+        "Java",
+        "Python",
+        "PHP",
+        "Mathematica",
+        "Oracle",
+        "PL/SQL",
+        "MySQL",
+        "XHTML/CSS",
+        "Oracle Application Express (APEX)",
+        "Unix",
+        "Linux",
+        "Red Hat Linux",
+        "Windows",
+        "Windows Server",
+        "WAMP",
+        "LAMP",
+        "TOAD for Oracle",
+        "SQL Developer",
+        "Visual Studio",
+        "Eclipse",
+        "NetBeans",
+        "Dev-C++",
+        "Notepad++",
+        "Microsoft Office",
+        "Nagios",
+        "OSSEC",
+        "LogWatch",
+        "Apache",
+        "DNS",
+        "Tomcat",
+        "CAS",
+        "WebGUI CMS",
+        "BMC Track-It",
+        "Shell scripting",
+        "Bash",
+        "Perl",
+        "Single Sign-On (SSO)",
+        "Oracle RDBMS",
+        "Banner"
+    ],
+    "experience": [
+        {
+            "title": "Information Designer",
+            "company": "Luminis",
+            "start_date": "2012-09",
+            "end_date": "Present",
+            "description": "Chief technical staff for maintaining university's website. DegreeWorks administrator. Implemented DegreeWorks application on Linux with backend Oracle database and customized XML frontend. Plans and implements backup and recovery of the Oracle database using RMAN and MySQL with mysqldump. System administration for 12+ servers including Red Hat Linux, CentOS Linux and Unix (Solaris 10); performance tuning, query optimization, and database consistency checks. Developed and supported database-driven applications using Oracle Application Express (APEX). Monitoring servers with Nagios, OSSEC, and LogWatch. Maintained Web Servers: Apache, DNS, Tomcat, CAS, WebGUI CMS. Managed users and permissions; server security via iptables; SSL certificates; SSO integration. Installed, upgraded and patched Oracle RDBMS modules and Banner System. Developed reporting with Cognos BI; created custom PL/SQL reports; shell scripting (bash, perl). Handled Banner security access and tickets with BMC Track-It."
+        },
+        {
+            "title": "DegreeWorks Administrator",
+            "company": "Luminis",
+            "start_date": "2012-09",
+            "end_date": "Present",
+            "description": "Implemented DegreeWorks on Linux with Oracle backend and XML frontend; backed up and recovered Oracle database; performed system administration for multiple servers; designed and supported database-driven apps with Oracle APEX; monitoring and security tasks; reporting with Cognos BI."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Cameron University",
+            "start_date": "2012-05",
+            "end_date": "2012-07",
+            "description": "Assist professor in preparing and analyzing data; perform comparative analyses on former experimental data; Mathematica used for data analysis. Project funded by CU Faculty Research Grant, joint with Dr. Wayne Eby. Included work on a banking system project using C and TCP sockets and related client-server interfaces."
+        },
+        {
+            "title": "Office Assistant",
+            "company": "Cameron University",
+            "start_date": "2012-05",
+            "end_date": "2012-07",
+            "description": "Administrative support duties."
+        },
+        {
+            "title": "Mathematics Tutor",
+            "company": "Cameron University",
+            "start_date": "2010-10",
+            "end_date": "2012-05",
+            "description": "Tutored mathematics."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science and Mathematics",
+            "school": "Cameron University",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "Oracle Database 11g Administration (2013)",
+        "Banner Database Administration (2013)",
+        "Red Hat Enterprise Linux 7 System Administration (2015)"
+    ],
+    "languages": [
+        "C",
+        "C++",
+        "C#.NET",
+        "Java",
+        "Python",
+        "PHP",
+        "Mathematica",
+        "Oracle",
+        "PL/SQL",
+        "MySQL",
+        "XHTML/CSS"
+    ]
+}

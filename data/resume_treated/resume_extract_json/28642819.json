@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Solid background in special needs and early childhood education, with strong emphasis in children's development. Consistently exceed teaching goals and parents expectations. Experienced in assessing and evaluating individual needs to provide an enhanced learning experience. Skilled in developing and implementing strategies and procedures.Enthusiastic teacher who has earned trust and respect from students, colleagues and administration for 12+ years.",
+    "skills": [
+        "classroom management",
+        "teaching",
+        "tutoring",
+        "counseling",
+        "experience with special needs",
+        "parent communication",
+        "interactive teaching/learning",
+        "innovative lesson planning",
+        "team building and leadership",
+        "lesson planning",
+        "education strategies",
+        "plan development",
+        "reading assistance",
+        "bilingual English/Spanish",
+        "teamwork",
+        "attention to detail",
+        "planning and organizing",
+        "multitasking",
+        "clear writing",
+        "active listening",
+        "feedback and collaboration",
+        "CPR/First Aid certified"
+    ],
+    "experience": [
+        {
+            "title": "Lead Teacher",
+            "company": "Company Name",
+            "start_date": "Aug 2013",
+            "end_date": "Jun 2015",
+            "description": "Plan and execute daily lessons. Manage children portfolio and progress using Teaching Strategies Gold. Make in-home student referrals. Maintain the comfort, safety and educational demeanor of the classroom environment. Supervise one assistant teacher's in the classroom. Plan and allocate work equally among the staff. Evaluate and test students for appropriate class placement."
+        },
+        {
+            "title": "Head Teacher",
+            "company": "Company Name",
+            "start_date": "Jan 2003",
+            "end_date": "Aug 2013",
+            "description": "Evaluate and test students for appropriate class placement. Translate CPSE evaluations to non-English speaking parents. Collaborate with school administrators and parents to develop student program plans to ensure successful outcomes. Conduct family conference to discuss student progress, needs and referrals. Develop and enter daily observations, progress and attendance notes into school data base. Plan and execute daily lessons. Make in-home student referrals. Maintain the comfort, safety and educational demeanor of the classroom environment. Supervise three assistant teachers in the classroom. Plan and allocate work equally among the staff."
+        },
+        {
+            "title": "case manager",
+            "company": "Company Name",
+            "start_date": "Oct 2005",
+            "end_date": "May 2006",
+            "description": "Managed a caseload of over 18 at risk teenage and young adult females. Met with client's family members and drug counselors when substance abuse was issue in order to determine such activities and keep recidivism down. Helped clients with school enrollment and verified attendance. Held weekly team conferences to discuss client court dates, progress and concern in order to prepare monthly court reports for legal staff and judges. Provided case management services, escort, face to face services in community, communication with community providers, conducted site visits to shelter, residential and outpatient programs, and attending case conferences to engage and support participants in community treatment. Addressed any ongoing legal and or personal issues our female population was dealing with. Kept track of client progress via company database systems. Set up random drug tests in collaboration with our Substance Unit for female participants abuse. Directed any participant mental health concerns to our director. Made referrals for participants to outpatient/inpatient drug treatments facilities. Act as advocate and liaison for participants in securing access to community services, income support and self help"
+        },
+        {
+            "title": "Assistant Teacher",
+            "company": "Company Name",
+            "start_date": "Jan 2001",
+            "end_date": "Jan 2003",
+            "description": "Collaborated with classroom assistants and teachers in creating weekly classroom lesson plans on a bi-weekly basis. Evaluated and tested students for appropriate class placement. Reviewed daily progress notes before they were entered into the company's electronic system and edited them as needed. Responsible for ordering, receiving and distributing office and classroom supplies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. in Education/ Special Education Early childhood",
+            "school": "Touro College",
+            "year": 2006
+        },
+        {
+            "degree": "A.S., Liberal arts",
+            "school": "Kingsborough Community College",
+            "year": 2000
+        },
+        {
+            "degree": "Bachelor of Science in Psychology",
+            "school": "College of Staten Island",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "CPR",
+        "First Aid"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

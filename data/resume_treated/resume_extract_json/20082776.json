@@ -1,0 +1,94 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "11+ years experience in the accounting profession. Bachelors Degree in Accounting and studying for CPA license. Managed tax preparation and filing for 25 diverse companies such as sole proprietors, corporations, S-corps, partnerships, and non-profit organizations in many different industries across 10 states. Results-oriented Accountant skilled in regulatory reporting, tax accounting operations with extensive knowledge of accounting software and processes. Highlights include Payroll, 940/941 withholding, Accounts Payable & Receivable, Multi-State Sales Tax Filing, Analytical reasoning, and Account reconciliation. Accomplishments include accounting reviews, general ledger accounting, financial statement analysis, and strength in regulatory reporting. Proficient with Adobe, Sage, PeachTree, QuickBooks, MS Office, Medlin, Tax Slayer, Pro Series, Lotus I-III; conducted detailed technical and analytical review of federal/state corporate, partnership and S corporation tax returns for Fortune 500 company with 17 branches in 10 states. Maintained general ledger accounts including cash, inventory, prepaid expenses, fixed assets, accounts payable, accrued expenses and lines of credit. Streamlined accounting and billing activities, improving efficiency, productivity and profitability for accounting and tax firms. Auditing experience includes Financial Statement audits, reviews, compilations for governmental organizations; saved over $20,000 from workers compensation and sales/use tax audits.",
+    "skills": [
+        "Attention to Detail",
+        "Goal oriented",
+        "Accounts payable",
+        "Accounts receivable",
+        "Management",
+        "Lotus I",
+        "QuickBooks",
+        "Sage",
+        "Peachtree",
+        "Adobe",
+        "MS Office",
+        "Payroll",
+        "Purchasing",
+        "Journal Entry Preparation/Posting",
+        "Financial Statement Analysis",
+        "Bank Reconciliations",
+        "Full Cycle Month & Year-end Close",
+        "Problem Solving",
+        "Profit & Loss",
+        "Regulatory Filings",
+        "Tax Analysis and Compliance"
+    ],
+    "experience": [
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "2011-01",
+            "end_date": "Current",
+            "description": "Successfully negotiated settlement with the NC State Revenue Dept to keep restaurant owner from losing business. Reconciled 6 years of tax returns for Performance Motorcycle shop in three months bringing client current with all tax filings. Managed 10 business accounts and 30 individual clients' payroll and tax needs."
+        },
+        {
+            "title": "Accounts Payable/Receivable & Purchasing Administrator",
+            "company": "Company Name, City, State",
+            "start_date": "2012-01",
+            "end_date": "Current",
+            "description": "Audited credit card bills and transactions, processed check requests, and cash receipts. Prepared, calculated and filed monthly multi-state sales and use tax returns. Matched up check invoices; obtained all signatures required for check disbursements and bank transfers. Reconciled vendor statements, researched and corrected discrepancies resolving customer & vendor inquiries. Maintained consignment accounts, assisted with purchasing & inventory management. Obtained credit references, set up new customer accounts."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "2011-01",
+            "end_date": "2012-01",
+            "description": "Prepare payroll, sales and use tax, employment taxes, employer taxes, W-2, annual reports. Manage two separate entities (corporation and proprietorship). Transformed company into a positive financial standing. Implemented modern tax & accounting software QuickBooks, Peachtree, Payroll Mate increasing office productivity."
+        },
+        {
+            "title": "Accounts Receivable & Collection Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2010-01",
+            "end_date": "2011-01",
+            "description": "Successfully collected and deposited $1,200,000 of outstanding debt from General Contractors on current and past projects. Amended incorrect corporate, multi-state sales and use tax returns for 3 different entities. Restructured and managed accounts receivable billing process for Government & multi-state projected invoicing. Resolved discrepancies between financial, budgetary transactions, records, and reports or problems associated with complex or nonstandard transactions. Filed bond claims with Surety Company on defaulted contracts."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "2002-01",
+            "end_date": "2011-01",
+            "description": "Prepared/Filed Individual & Corporate Income Taxes (1040, 1040A, 1040EZ, Schedule A, C, M, EIC, SE, L, 1065, 1120, 1120S, Schedule A, B, K, L, M-1, M-2, K-1). Business Tax (Federal 941, 940, State withholding, Sales and Use Tax, W-2, I-9). Liaison with IRS, Department of Labor, Workers Compensation Insurance Commission, Employment Security Commission, and Department of State Revenue for filing of tax returns. Managed and implemented installation of accounting and tax software programs (QuickBooks, PeachTree, Medlin, Tax Slayer)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Accounting",
+            "school": "Colorado Technical University",
+            "year": "2010"
+        },
+        {
+            "degree": "Professional Certificate: Basics in Accounting",
+            "school": "",
+            "year": "2010-02"
+        },
+        {
+            "degree": "Financial Statement Analysis",
+            "school": "",
+            "year": "2010-05"
+        },
+        {
+            "degree": "Associate of Arts and Applied Science: Accounting",
+            "school": "Rowan Cabarrus Community College",
+            "year": "2007"
+        }
+    ],
+    "certifications": [
+        "Basics in Accounting Professional Certificate",
+        "Financial Statement Analysis"
+    ],
+    "languages": []
+}

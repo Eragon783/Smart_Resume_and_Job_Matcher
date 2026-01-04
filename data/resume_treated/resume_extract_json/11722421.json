@@ -1,0 +1,70 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Technical Designer with extensive experience in developing and producing tech packs, pattern development with grading, and overseeing manufacturing. Skilled in sourcing fabrics and trims, quality control, and cross-functional collaboration. Proficient with CAD tools (Photoshop, Illustrator, Accutrac) and strong textile engineering background spanning knitting, weaving, dyeing, printing, and finishing.",
+    "skills": [
+        "Photoshop",
+        "Illustrator",
+        "Accutrac",
+        "CAD",
+        "Pattern Making",
+        "Garment Construction",
+        "Draping",
+        "Sewing",
+        "Trend Analysis",
+        "Color Analysis",
+        "Fabric Sourcing",
+        "Quality Assurance"
+    ],
+    "experience": [
+        {
+            "title": "Technical Designer",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "Present",
+            "description": "Created 65 complete development and production technical packages including spec sheets in 1 week. Developed patterns with grading rules for production. Coordinated eight manufacturing tasks enabling over 30,000 units of production. Supervised garment creation, including fitting, detailing and adaptations. Sourced fabrics, trims, fastenings and embellishments; approved trim quality and provided fit corrections to overseas teams. Negotiated with customers and suppliers; oversaw production. Contributed to design and sourcing with cost engineering. Collaborated with designer, merchandiser, manager, and business partner to achieve desired product while maintaining production schedule. Achieved significant production savings by solving design faults."
+        },
+        {
+            "title": "Assistant Designer / Technical Designer",
+            "company": "Vintage Casual Sportswear",
+            "start_date": "2014-06",
+            "end_date": "2014-12",
+            "description": "Created designs by hand or CAD; produced complete development and production technical packages including spec sheets. Created inspirational trend/color/product presentation materials. Managed development/production calendar deadlines. Confirmed gauges and knit downs for full fashion sweaters. Led design meetings, photo shoots, and meetings with customers and fabric agents. Sought creative solutions for garment/tech pack specifications."
+        },
+        {
+            "title": "Assistant Designer / Technical Designer",
+            "company": "Company Name",
+            "start_date": "2013-04",
+            "end_date": "2014-04",
+            "description": "Created Tech Packs and Line sheets for import and domestic styles. Managed current styles in Accutrac. Used Illustrator and Photoshop to create and refine sketches. Updated BOMs, catalogs, and maintained textile and pattern libraries. Supported Design Team across the design process. Provided Fit Comments to overseas factories (China and India). Supplied accurate specs for garments. Sourced fabric and trims. Prepared mood boards, color boards, fabric boards, and design boards with technical drawings and samples."
+        },
+        {
+            "title": "Assistant Designer",
+            "company": "Company Name",
+            "start_date": "2010-07",
+            "end_date": "2012-08",
+            "description": "Assisted in designing all types of Women's Casual Sportswear, Dresses and Sweaters."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "United States University",
+            "year": ""
+        },
+        {
+            "degree": "Master of Fashion Design",
+            "school": "FIDM/Fashion Institute of Design & Merchandising",
+            "year": "2014"
+        },
+        {
+            "degree": "Bachelor of Engineering in Textile Technology",
+            "school": "RGPV University",
+            "year": "2010"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,69 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Results-oriented accounting professional with 17+ years of progressive experience across a broad range of accounting functions. Proven at managing multiple projects, meeting deadlines, and driving process improvements. Strong analytical, organizational and communication skills with experience in automation, budgeting, financial reporting and cross-functional collaboration.",
+    "skills": [
+        "Accounts Payable",
+        "Fixed Asset and Property",
+        "Accounts Receivable",
+        "Payroll",
+        "Month-End Closing",
+        "Reconciliation and Analysis",
+        "General Ledger Entries",
+        "Budgeting",
+        "Contract Management",
+        "Board Of Directors Reporting",
+        "Staff Management",
+        "Expense Reporting",
+        "Settlement Payments",
+        "Vendor Relations",
+        "Automation and implementation",
+        "Employee expense and vendor self-service",
+        "Oracle Payroll implementation",
+        "Positive Pay and ACH notifications",
+        "Oracle Accounting",
+        "Dun and Bradstreet",
+        "Financial Reporting",
+        "Microsoft Office",
+        "Bank Of America CashPro"
+    ],
+    "experience": [
+        {
+            "title": "Accountant III",
+            "company": "Company Name",
+            "start_date": "2007-08",
+            "end_date": "Present",
+            "description": "Team Lead for three Accounting Specialists. Oversees accounts payable functionality; manages daily workflow. Executes check printing and ACH direct deposits for AP, payroll third party and risk management vendors and employees. Initiates positive pay file, stop payments and void file transfers. Capitalizes operating and project expenses; monitors fixed asset subledger and reconciles to the general ledger. Codes/reclassifies invoices for fixed asset purchases. Audits invoices for accuracy and compliance with GAAP and authority procedures. Manages multiple contracts, retainage, and operating accruals; posts monthly to GL. Trains staff and external vendors; collaborates with project managers and contract administrators. Researches discrepancies to ensure accuracy and adherence to procedures."
+        },
+        {
+            "title": "Credit / Collections Analyst",
+            "company": "Company Name",
+            "start_date": "1999-04",
+            "end_date": "2007-08",
+            "description": "Co-managed short-term operational and intermediate-term reserve investment portfolios totaling $300 million. Managed cash forecasting, daily cash position, funds movement and investments. Initiated wire transfers and managed transfer database. Monitored credit policy and AR aging; minimized past due accounts. Liaison with financial institution and Office of Corporate Finance to resolve variances."
+        },
+        {
+            "title": "Accounting Coordinator",
+            "company": "Company Name",
+            "start_date": "1996-12",
+            "end_date": "1999-04",
+            "description": "Reconciled monthly bank statements; monitored accounts for fraudulent activity and common bank errors. Managed accounts receivable, posted cash, prepared deposits and recorded transactions to the general journal."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "school": "Kennesaw State University",
+            "year": ""
+        },
+        {
+            "degree": "BBA: Accounting",
+            "school": "Tennessee State University",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

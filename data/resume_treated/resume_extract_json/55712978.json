@@ -1,0 +1,77 @@
+{
+    "name": "Afshin Ebrahimpour",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Biophysicist/Biochemist with 16 years of research experience including 7 years in university teaching. Published 20+ journal articles and 30+ conference proceedings. Developed 60+ prototypes, 7 patents, 5 grants and performed over 25 international journal reviews. Award-winning leader with broad expertise in protein/peptide chemistry, molecular biology, enzyme biotechnology, microbiology, fermentation, drug delivery, ADME and related analytical methods; proficient in QSAR, neural networks and statistical modeling for therapeutic peptide research.",
+    "skills": [
+        "Protein/Peptide Chemistry",
+        "Protein/Peptide Expression",
+        "Protein/Peptide Purification",
+        "Protein/Peptide Engineering",
+        "Protein Characterization",
+        "Molecular Biology",
+        "Ligand-Binding Protein",
+        "Enzyme Biotechnology",
+        "Microbiology",
+        "Fermentation",
+        "Drug Delivery",
+        "ADME",
+        "Spectroscopic Methods (UV-Vis, IR, Atomic Absorption, Fluorescence)",
+        "Chromatographic Methods (Gel Exclusion, Hydrophobic Interaction, Reversed Phase, Ion Exchange, Affinity)",
+        "Electrophoretic Methods (SDS-PAGE, Native PAGE, Isoelectric Focusing, Offgel, 2D, Blotting)",
+        "Thermodynamic/Hydrodynamic Methods (DSC, ITC, Centrifugation, Filtration, Diafiltration, Dialysis)",
+        "Molecular Biology Methods (DNA/RNA Extraction, PCR, Genetic Engineering, Rational Gene Modification)",
+        "Cell Biology Methods/Immunoassay (Cell Culture, ELISA, MTT)",
+        "Microbiology Methods (Screening, Identification, Fermentation, Secondary Metabolites Pathways Engineering)"
+    ],
+    "experience": [
+        {
+            "title": "Post-doctoral Research Fellow",
+            "company": "Company Name",
+            "start_date": "May 2011",
+            "end_date": "January 2015",
+            "description": "Focused on production, purification and structure-function studies of multi-functional therapeutic peptides with immunomodulatory, anti-inflammatory, anti-hypertension, anti-oxidation and anti-microbial effects. Analyzed enzymes/proteins as single molecules or as networks (signaling pathways) and their therapeutic/industrial applications. Developed methods and conducted research on process optimization, product formulation, protein engineering, and QSAR studies using artificial neural networks and other statistical methods. Designed and established new protein, peptide, and enzyme analytical methods and assay systems. Constructed gene cloning and different expression systems, and engineered enzyme structures and functions. Studied ADME of therapeutic molecules in vitro/in vivo, and developed delivery strategies. Supervised 6 PhD, 5 MSc and 7 BSc students; taught biochemistry and biophysics; led a bioactive peptides research team with 22+ members. Completed 4 research projects resulting in 60+ novel prototypes, 6 patent applications, 9+ journal articles and 7 conference proceedings. Designed 2 recombinant GAD systems in lactic acid bacteria for GABA overproduction. Received 18 awards from Invention, Innovation, Research and Technology Exhibitions. Created spectroscopic assay systems for rapid screening of bioactive peptides/enzymes/microbes."
+        },
+        {
+            "title": "Graduate Research Assistant",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "December 2009",
+            "description": "Recipient of the Al-Biruni 2007/2008 outstanding researcher award in enzyme and microbial technology research, and Invention, Innovation, Research and Technology Exhibition recognition at University Putra Malaysia. Designed and constructed recombinant fusion intra-, extracellular and cell surface display of a novel thermostable, organic solvent tolerant, regioselective lipase, leading to a patent, 3 prototype biocatalysts and 4 journal publications."
+        },
+        {
+            "title": "Research Fellow",
+            "company": "Company Name",
+            "start_date": "September 2003",
+            "end_date": "July 2005",
+            "description": "Conducted research on enzyme biotechnology and bioelectromagnetics, resulting in novel approaches to inhibit/activate enzyme activity."
+        },
+        {
+            "title": "Chaired Biochemistry & Biophysics Research Lab",
+            "company": "Company Name",
+            "start_date": "February 1999",
+            "end_date": "July 2005",
+            "description": "Chaired a 17-member laboratory. Published 13 conference proceedings on electromagnetic fields triggering Phosphatidylinositol signal cascades and biomolecular targets such as Na+/K+ ATPase and acetylcholinesterase."
+        }
+    ],
+    "education": [
+        {
+            "degree": "PhD, Enzyme Biotechnology",
+            "school": "University Putra Malaysia",
+            "year": 2010
+        },
+        {
+            "degree": "MSc, Biophysics",
+            "school": "University of Tehran",
+            "year": 1997
+        },
+        {
+            "degree": "BSc, Cell and Molecular Biology",
+            "school": "University of Tehran",
+            "year": 1993
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

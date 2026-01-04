@@ -1,0 +1,90 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "India",
+    "summary": "Seasoned Human Resources professional with a Masters in Human Resources and over 10 years of experience in staffing, technology recruiting, and HR in fast-paced environments, including startups, corporates, and non-profit sectors. Experienced in full life cycle recruitment, high-volume hiring, IT talent sourcing in US and India, candidate assessment, interviewing, onboarding, and working with ATS (Taleo). Proven track record of partnering with hiring managers, managing recruitment campaigns, and driving talent acquisition across diverse industries.",
+    "skills": [
+        "Recruitment",
+        "Staffing",
+        "Talent acquisition",
+        "High-volume recruiting",
+        "Sourcing",
+        "Interviewing",
+        "Candidate assessment",
+        "Onboarding",
+        "Reference checks",
+        "Salary negotiations",
+        "Closing candidates",
+        "ATS (Taleo)",
+        "Job postings",
+        "Networking",
+        "IT recruitment",
+        "Technical recruiting",
+        "Java/J2EE",
+        "C/C++",
+        ".NET",
+        "Windows",
+        "UNIX/Linux",
+        "SQL Server",
+        "Oracle",
+        "Informatica",
+        "Data modeling",
+        "Data warehousing",
+        "Project/Program management",
+        "HR policies",
+        "Induction",
+        "Staff communications",
+        "Negotiation",
+        "Contract and full-time placement"
+    ],
+    "experience": [
+        {
+            "title": "Volunteer HR",
+            "company": "iVolunteer",
+            "start_date": "2009-06",
+            "end_date": "2015-10",
+            "description": "Provided recruitment support for a non-profit sector; job profiling; candidate screening; scheduling interviews; reference checks; developed global recruiting presentations for International HR teams; engaged in non-profit sector recruitment; collaboration with hiring managers and HR partners."
+        },
+        {
+            "title": "Technical Recruiter",
+            "company": "Unknown",
+            "start_date": "2007-01",
+            "end_date": "2008-01",
+            "description": "Full life-cycle recruitment for Senior Software/Database Developers; technologies included C/C++, Windows & UNIX/Linux, .NET, Java/J2EE, SQL Server, Oracle; mentored and trained junior recruiters; top revenue generator; negotiation, interview coordination, offers, and closing."
+        },
+        {
+            "title": "Technical Recruiter",
+            "company": "Unknown",
+            "start_date": "2006-03",
+            "end_date": "2007-01",
+            "description": "Sourced candidates via internet research, internal databases, cold calling, referrals, networking, and job fairs; recruited for Java, Microsoft technologies, Oracle, SAP, QA, Engineering; experience with Informatica and data warehousing; managed candidate logistics and client feedback."
+        },
+        {
+            "title": "Senior Executive",
+            "company": "Mitra Technology Foundation",
+            "start_date": "2002-06",
+            "end_date": "2005-06",
+            "description": "HR roles focusing on Recruitment and Induction; internal HR communications; HR policy liaison with payroll and benefits; recruitment and onboarding; involvement in non-technical openings; contributed to various HR projects and tasks."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Post Graduate Diploma Management",
+            "school": "Balaji Institute of Modern Management, India",
+            "year": 2002
+        },
+        {
+            "degree": "Masters in Labor Laws and Labor Welfare",
+            "school": "Symbiosis Law College, India",
+            "year": 2000
+        },
+        {
+            "degree": "Bachelor of Commerce",
+            "school": "H. P. State University, India",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

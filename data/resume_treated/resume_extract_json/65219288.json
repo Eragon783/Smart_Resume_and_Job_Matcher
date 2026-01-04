@@ -1,0 +1,53 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Airport Operations Safety and Training Coordinator with management experience and exceptional people skills. Versed in accident investigation and analysis to develop action plans and initiatives to address accident trends. Desires a challenging role as a Safety Training Manager.",
+    "skills": [
+        "agency",
+        "balance",
+        "budgets",
+        "contracts",
+        "delivery",
+        "government",
+        "inventory",
+        "loss prevention",
+        "managing",
+        "meetings",
+        "access",
+        "personnel",
+        "policies",
+        "program development",
+        "progress",
+        "safety",
+        "sales",
+        "training programs",
+        "transportation"
+    ],
+    "experience": [
+        {
+            "title": "Entrepreneur General Manager",
+            "company": "Company Name",
+            "start_date": "2011-12",
+            "end_date": "2015-12",
+            "description": "Led operations and revenue initiatives for gas station and related services; conducted loss-revenue analysis resulting in a complete turnaround; increased sales by 17% over two years; provided onsite training; managed inventory across multiple databases; oversaw budgets, staff of over 30; contracted with USAID to deliver food and seeds in Haiti; planned transportation, routes, and logistics; monitored and evaluated performance of subordinates."
+        },
+        {
+            "title": "Safety & Training Coordinator",
+            "company": "Company Name",
+            "start_date": "1995-06",
+            "end_date": "2011-01",
+            "description": "Developed and delivered training for more than 15,000 airport employees; planned and evaluated safety and training programs; maintained records; ensured compliance with FAA regulations; coordinated with airlines and government agencies; developed manuals and training materials; performed inspections and incident investigations; oversaw safety budgets and equipment; ensured compliance with safety standards on airfield operations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor",
+            "school": "Barry University",
+            "year": "2007"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

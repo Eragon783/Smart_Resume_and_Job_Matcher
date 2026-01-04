@@ -1,0 +1,70 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Innovative Accountant with 8+ years of experience spanning oil and gas services, manufacturing, and trading. Proficient in IFRS and US GAAP, working capital management, cost control, internal controls, ERP implementations (Oracle, Hyperion, QuickBooks), statutory compliance, payroll and inventory management, budgeting and forecasting, planning, and decision support. Proven ability to lead teams, manage tight deadlines, develop KPIs and governance frameworks to optimize financial performance.",
+    "skills": [
+        "Financial Reporting & Analysis (IFRS and US GAAP)",
+        "Budgeting",
+        "Planning (Short, Medium and Long Term)",
+        "System Development & Cost Controls",
+        "Project/Commercial Evaluation",
+        "Activity Based Costing",
+        "Internal Controls",
+        "Financial Audits",
+        "Controllership of Accounting Operations",
+        "Team Leadership",
+        "KPIs & Performance Measurement",
+        "ERP",
+        "MS Office",
+        "PowerPoint",
+        "Excel",
+        "Oracle",
+        "Hyperion",
+        "SAP",
+        "Synapse",
+        "Citrix",
+        "QuickBooks",
+        "Inventory Management",
+        "Contract and Vendor Analysis",
+        "Financial Analysis",
+        "Cost Tracking",
+        "GAAP Compliance"
+    ],
+    "experience": [
+        {
+            "title": "Acting Finance Manager",
+            "company": "Unspecified multinational group (Oil & Gas) operating in Saudi Arabia, Bahrain and Jordan",
+            "start_date": "2011-01",
+            "end_date": "Present",
+            "description": "Reported to General Manager; responsible for accounting operations including monthly, quarterly, and annual financial reporting; consolidated financials; cash flow monitoring and weekly cash reports; maintenance of general ledger and chart of accounts; accounts payable and receivable management; bank reconciliations; fixed assets and depreciation; month-end closing and journal entries; management of L/Cs and bank guarantees; tax review (Zakat/Sales Tax); liaising with auditors, banks, and lawyers; development of internal controls and document management; review of vendor agreements and intercompany transactions; ad hoc reporting; cost analysis and budgeting/forecasting; KPI setup; ERP implementation and governance (Oracle Financials 12i)."
+        },
+        {
+            "title": "Accountant",
+            "company": "IN, USA (Trading oil & gas and consumer products)",
+            "start_date": "2009-01",
+            "end_date": "2011-01",
+            "description": "Posted daily sales and generated month-end sales reports; prepared cash deposit details and bank reconciliations; reviewed and approved retail invoices and posted expenses; prepared detailed monthly inventory schedules and reconciled inventory; processed payroll; prepared AR and AP aging analyses; monitored cash flows; developed internal controls to secure assets and inventory; reconciled GL accounts; created chart of accounts and templates in QuickBooks Premier; prepared monthly sales tax returns; implemented QuickBooks Premier and customized reporting."
+        },
+        {
+            "title": "Inventory and Supply Chain Analyst",
+            "company": "IN, USA (HVAC manufacturing and oil & gas sectors)",
+            "start_date": "2007-01",
+            "end_date": "2009-01",
+            "description": "Coordinated material flow through manufacturing; conducted forecast analysis for inventory exceeding USD 10 million; implemented strategies to improve material flow and reduce costs; managed inventory turnover; posted all transactions; prepared month-end adjustments; reviewed production goals; supported pilot projects; analyzed variance; conducted supplier contract audits and tracked supplier KPIs; performed physical inventory to ensure 100% accuracy; supported supplier transitions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business (Accounting and Finance)",
+            "school": "Kelley School of Business, Indiana University",
+            "year": "2010"
+        }
+    ],
+    "certifications": [
+        "CMA",
+        "Certified in advanced MS Excel"
+    ],
+    "languages": []
+}

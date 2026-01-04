@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Profit-focused Director of Finance, an expert in cost reduction, forecasting and budgeting. Highly effective at encouraging outstanding performance from team members and colleagues.",
+    "skills": [
+        "Budgeting and financial management",
+        "Superior time management",
+        "Lean implementation",
+        "Exceptionally organized",
+        "Advanced financial analysis",
+        "MS Excel expert"
+    ],
+    "experience": [
+        {
+            "title": "Corporate Director of Finance",
+            "company": "Company Name",
+            "start_date": "April 2014",
+            "end_date": "Present",
+            "description": "Manage yearly budget process for Great Wolf Resorts. Oversee quarterly production of board book which is distributed to executive committee and owners. Analyze budgets, financial reports and projections for accurate reporting of financial standing. Proposed and achieved cost savings by reducing labor and operating expenses. Train and develop a group of analysts. Assumed ownership of forecasting and strategic planning. Developed annual budgets in collaboration with eleven properties and executive teams. Identified and investigated variances to financial plans and forecasts by interpreting financial results. Managed an annual budget that grew 22.9% in 2 years. Forecast operating costs for projects by strategizing with VP of Finance, Regional Vice Presidents and Chief Operating Officer. Hold two monthly calls with property director teams and Regional Vice President to review 30-60-90 day forecast and review previous month's P&L. Managing team implementing a new budget and forecasting system."
+        },
+        {
+            "title": "Senior Manager of Finance",
+            "company": "Company Name",
+            "start_date": "June 2013",
+            "end_date": "April 2014",
+            "description": "Implemented labor management system. Manage financial analysts. Created labor metrics to compare lodges and a dashboard to be published weekly to ensure lodges were operating efficiently and in a profitable manner. Hold two monthly calls with property director team and Regional Vice President to review 30-60-90 day forecast and review previous month's P&L."
+        },
+        {
+            "title": "Senior Manager",
+            "company": "Company Name",
+            "start_date": "November 2011",
+            "end_date": "June 2013",
+            "description": "Created a Key-Performance-Indicator Dictionary for expenses. Wrote and taught 'Business Basics' with Manager of Training in an effort to improve each property's business acumen. Worked with finance to create new forecast templates. Hold two monthly calls with each property's director team and Regional Vice President to review 30-60-90 day forecast and previous month's P&L statements."
+        },
+        {
+            "title": "Operations Analyst",
+            "company": "Company Name",
+            "start_date": "March 2008",
+            "end_date": "November 2011",
+            "description": "Implemented and ran monthly calls to review P&L's of each lodge with Regional VP, Corporate Director of Retail, Corporate Director of Food and Beverage, General Manager, and Director of Finance for each lodge. Created pro forma s for potential new companies or business ventures and worked with Vice President of Development to ensure new companies would be run in a profitable manner. Implemented monthly reviews with new companies. Reviewed financial statement of companies we were looking to acquire and made suggestions on ways to improve their profitability if we acquired company. Created a Profit and Loss Statement for our Call Center along with a Forecast Income Statement and a 30-60-90. Also put into place monthly P&L Review with call center and forward looking reviews of forecast to ensure that we were being as efficient as possible. Reported and summarized information to CEO to be used in earnings Quarterly Earnings Call and Board Meetings. Worked with our Marketing firms and provided them with information and made suggestions on media placement in each DMA, looked at booking trends. Worked with Corporate Directors of each Department to develop addhoc reports when needed."
+        },
+        {
+            "title": "Budget and Reporting Analyst",
+            "company": "Company Name",
+            "start_date": "February 2007",
+            "end_date": "March 2008",
+            "description": "Promoted to Budget and Reporting Analyst, a newly created position. Worked with our Business Intelligence System, Datavision, to create a new way to budget and forecast. Maintained Excel based forecasting templates and Income Statements. Changed forecast and budget templates to help Directors of Finance at each Resort save 5-10 hours a month when forecasting. Worked with each lodge General Manager and Director of Finance during budget season. Put into place process of budget reviews between Regional Vice Presidents and General Managers of each lodge. Worked with Corporate Director of Spa to develop and present a new way to pay Spa Technicians that would save each lodge 10% on wages and produce higher productivity."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "May 2006",
+            "end_date": "January 2007",
+            "description": "Record inter-company journal entries, participate in monthly close process, track activity in balance sheet accounts and perform monthly bank reconciliations. Interact with companies with whom GWR has joint ventures with to ensure accurate financials. Worked as a team to start Dictionary of Expense Accounts. Took on a more active role in monitoring of fixed assets."
+        },
+        {
+            "title": "Accounts Payable",
+            "company": "Company Name",
+            "start_date": "August 2004",
+            "end_date": "May 2006",
+            "description": "Enter payments into system, cut checks communicate with vendors, and review weekly aging. Cut five hours of work per week through better organization of Accounts payable. Identified areas of opportunity for savings and helped follow through on procedures to keep spending under. control."
+        },
+        {
+            "title": "General Manager",
+            "company": "Regent Street McDonalds",
+            "start_date": "August 2002",
+            "end_date": "July 2004",
+            "description": "Promoted to Regent Street McDonalds to improve its rating of F to an A. In August 2002 Regent Street McDonalds had decreasing sales; its yearly net sales were $1.65 million. In August 2003 its sales had an increase of 8%; by July 2004 it had another sales increase of 3%. Supervised 40 new crewmembers and new nine managers. Over saw hiring, training, and firing of employees. Did annual reviews on all managers and supervised crewmembers' review. Prepared yearly budgets, these budgets were reviewed and updated monthly."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Accounting",
+            "school": "Lakeland College",
+            "year": "2009"
+        },
+        {
+            "degree": "Bachelor's Degree in Accounting",
+            "school": "Upper Iowa University",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

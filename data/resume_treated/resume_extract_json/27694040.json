@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "APPAREL PRODUCTION MANAGER Executive Profile Creative Apparel Production Manager adept at product development design change and cost tracking to adhere to budgetary guidelines. Proficient in the use of design software to further expedite project completions. Specialize in applying creative approaches to design while managing daily production staff activities.",
+    "skills": [
+        "Adobe Photoshop",
+        "budget",
+        "client",
+        "clients",
+        "design software",
+        "facility maintenance",
+        "inventory",
+        "multitasking",
+        "product design",
+        "quality",
+        "quality assurance",
+        "quality control",
+        "real-time",
+        "sales"
+    ],
+    "experience": [
+        {
+            "title": "Apparel Production Manager",
+            "company": "Company Name",
+            "start_date": "August 2013",
+            "end_date": "Present",
+            "description": "Set production schedules and established production specifications. Checked finished apparel for size accuracy. Performed fabric tests to ensure quality compliance. Oversaw daily facility activities. Ensured that all facility maintenance procedures were followed."
+        },
+        {
+            "title": "Apparel Production Manager",
+            "company": null,
+            "start_date": "February 2009",
+            "end_date": "August 2013",
+            "description": "Reviewed production sketches. Periodically updated production specifications. Set team objectives. Addressed quality control issues."
+        },
+        {
+            "title": "Apparel Production Manager",
+            "company": "Company Name",
+            "start_date": "September 2006",
+            "end_date": "November 2008",
+            "description": "Reviewed equipment performance reports. Maintained contact with clients to ensure timely fulfillment of orders. Prepared purchase orders invoices and budget reports. Routinely inspected staff work areas."
+        },
+        {
+            "title": "Apparel Production Manager",
+            "company": "Company Name",
+            "start_date": "May 2005",
+            "end_date": "September 2006",
+            "description": "Coordinated with other offices to ensure consistency in apparel production. Set monthly production quotas and tracked production in real-time. Oversaw inventory of fabric and related supplies. Prepared sales samples per client requests."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Applied Management",
+            "school": "University of California",
+            "year": 2005
+        },
+        {
+            "degree": "Bachelor of Science: Business Administration",
+            "school": "University of California",
+            "year": 2009
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Alex D. Meredith",
+    "email": "ameredith@desu.edu",
+    "phone": "(302) 241-7315",
+    "location": "Delaware, USA",
+    "summary": "Personable education professional driven to inspire students to achieve personal and academic success.",
+    "skills": [
+        "SAS/SPSS statistical applications",
+        "Windows XP",
+        "MS Office",
+        "Adobe In-design 6",
+        "Banner Web & Baseline (Curriculum Advising and Program Planning, Early Alert System)",
+        "Drupal Content Management System"
+    ],
+    "experience": [
+        {
+            "title": "Behavioral Interventionist",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "Current",
+            "description": "Demonstrate knowledge of growth & development as it relates to pediatric and adolescent populations. Establish a positive rapport with clients to help resolve social, personal, and academic issues. Utilize therapeutic listening skills in all client contacts to assist client in developing coping skills and positive behaviors. Participate in treatment team planning meeting and/or family counseling sessions as requested. Initiate monthly therapist contacts. 95% Compliance with agency policies and procedures. Identify community resources to aid in client's treatment goals and aftercare."
+        },
+        {
+            "title": "Recruiter",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "Current",
+            "description": "Instituted an action plan to recruit new students using innovative methods to the College such as: Forensic Botany Day, Summer Agri- Science Institute, collaborating with departments across campus (i.e. undecided majors), meet with targeted prospects to build mutually beneficial partnerships to foster increase in enrollment, developed website presence (recruitment/marketing of academic programs) and by showcasing the College of Agriculture and Related Sciences via student-oriented media (i.e. Facebook, Twitter). Advise students utilizing appreciative advising model to effectively advise on university policy and procedures regarding: academic scheduling, career development, internships, co-curricular experiences and research opportunities throughout student's undergraduate experience. Collaborate with faculty/stakeholders in enhancing professional development opportunities for students."
+        },
+        {
+            "title": "Advisor",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "01/2011",
+            "description": "Developed relationships with outside organizations that have a vested interest in MANRRS to garner sponsorship for the chapter's operational budget. Developed professional development series workshops for Delaware State University students. Mentored students in the areas of: academia, importance of outreach activities, professional development, and graduate school. Played an instrumental role in ensuring members represent DSU in a positive manner when competing regionally and nationally. Placed first in the Undergraduate Poster Research competition at the 2010 MANRRS' 25th Annual Career and Training Conference in Orlando, Florida."
+        },
+        {
+            "title": "Teacher/Coordinator",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "07/2008",
+            "description": "Worked closely with administration, guidance office, parents and students to ensure efficient placement into the daylight/twilight program. Administrator for the Novel Stars Software System for the Lake Forest School District. Taught 75 students on a myriad of high school subjects (Mathematics, Health, English, Science, Social Studies, etc) through computer- based learning applications. Processed completed coursework to counselors for earned high school credits. Sustained a high level of classroom management to ensure a stable educational environment. Serviced homebound students utilizing the Novel Stars System from outside the school building."
+        },
+        {
+            "title": "Adjunct Professor",
+            "company": "Company Name",
+            "start_date": "01/2007",
+            "end_date": "Current",
+            "description": "Taught Marketing Agricultural Products. Department of Agriculture & Natural Resources). Taught Introduction to Algebra utilizing real-life situations to enhance student's comprehension of subject content. Department of Mathematics). Taught Career Development in Agriculture. Southern Illinois University Carbondale in the Department of Plant, Soil Science, and Agricultural Systems). Held weekly tutorial sessions to ensure student's comprehension of subject material."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Plant and Soil Science, Agriculture Education",
+            "school": "Southern Illinois University Carbondale (SIUC)",
+            "year": ""
+        },
+        {
+            "degree": "Master of Science: Agriculture Economics, International Trade",
+            "school": "North Carolina A&T State University",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Science: Agriculture Business",
+            "school": "Delaware State University",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

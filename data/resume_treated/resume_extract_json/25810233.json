@@ -1,0 +1,94 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Results-driven sales professional with extensive experience in sales management, territory sales, online advertising, and business development. Proven ability to build relationships, drive revenue, manage cross-functional teams, and negotiate strategic partnerships across multiple industries.",
+    "skills": [
+        "Advertising",
+        "Book",
+        "Excellent Communication",
+        "Computer Knowledge",
+        "Contracts",
+        "Clients",
+        "Documentation",
+        "Innovation",
+        "Inventory",
+        "Team Building",
+        "Marketing Plans",
+        "Newspaper",
+        "Programming",
+        "Proposals",
+        "Research",
+        "Sales Skills",
+        "Selling",
+        "Sales",
+        "Sales Management",
+        "Strategic",
+        "Phone",
+        "Websites"
+    ],
+    "experience": [
+        {
+            "title": "Sales Manager / Territory Sales Manager",
+            "company": "Company Name",
+            "start_date": "2014-02",
+            "end_date": "2015-08",
+            "description": "Selling and working with franchises and strategic partners on a mobile loyalty platform. Working with digital and advertising agencies on reselling products. Selling local clients in the Arkansas territory on the mobile loyalty platform."
+        },
+        {
+            "title": "Marketing Executive / Senior Sales Consultant",
+            "company": "Company Name",
+            "start_date": "2011-04",
+            "end_date": "2014-01",
+            "description": "Researched, developed, and cultivated leads for LivingSocial Deals; exceeded sales goals; qualified prospective clients by phone and closed deals in person; used consultative sales to assess merchant goals and propose solutions; managed relationships and drafted proposals and contracts; documented sales activities in Salesforce; collaborated with operations."
+        },
+        {
+            "title": "Business Manager",
+            "company": "Company Name",
+            "start_date": "2008-06",
+            "end_date": "2011-03",
+            "description": "Selling online advertising, sponsorships, and contests to strategic accounts and new customers."
+        },
+        {
+            "title": "Local Sales Manager",
+            "company": "Company Name",
+            "start_date": "2004-10",
+            "end_date": "2008-06",
+            "description": "Managed 9 Local Account Executives; team building; inventory management; controlled paid programming and direct response accounts; point person for Internet sales; received the New York Times \"Rules of the Road\" Award for Top Performer 2007."
+        },
+        {
+            "title": "Retail Account Executive / Internet Advertising Manager",
+            "company": "Company Name",
+            "start_date": "1998-08",
+            "end_date": "2004-10",
+            "description": "Developed new and serviced existing accounts related to newspaper design; implemented marketing plans for individual clients; worked with advertising agencies; created Internet Sales Department; developed Internet advertising on newspaper websites."
+        },
+        {
+            "title": "Senior Buyer",
+            "company": "Company Name",
+            "start_date": "2015-08",
+            "end_date": "Current",
+            "description": "Remote senior buyer researching for new and exciting products; established partnerships with designers and manufacturers; pitched brand vendors to work with Touch of Modern; managed dozens of accounts; planned sales events; negotiated pricing and terms."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "school": "University of Arkansas",
+            "year": null
+        },
+        {
+            "degree": "B.S in Business Administration/Marketing",
+            "school": "University of Central Arkansas",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Mansfield High School",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Forward-thinking Aviation Maintenance Technician with hands-on experience performing quality troubleshooting of all aviation mechanical and electrical subsystems.",
+    "skills": [
+        "Quality Assurance of aircraft parts and subsystems",
+        "Determining aircraft airworthiness",
+        "Troubleshooting and Repairing: aircraft engines",
+        "Troubleshooting and Repairing: auxiliary power units",
+        "Troubleshooting and Repairing: propellers & rotor systems",
+        "Troubleshooting and Repairing: power train systems",
+        "Troubleshooting and Repairing: airframe and systems-specific electrical components",
+        "Maintaining and repairing aircraft fuselages",
+        "Wings",
+        "Rotor blades",
+        "Fixed and movable flight control surfaces",
+        "Bleed aircraft air, hydraulic, and fuel systems"
+    ],
+    "experience": [
+        {
+            "title": "Aviation Maintenance Technician",
+            "company": "Company Name",
+            "start_date": "May 2010",
+            "end_date": "July 2014",
+            "description": "Accepted and deployed to Aviation Maintenance School. Completed 20 weeks of full time aviation maintenance school in which I was taught how to inspect, service, maintain, troubleshoot and repair aircraft engines, auxiliary power units, propellers, rotor systems, power train systems, and associated airframe and systems-specific electrical components. We serviced, maintained and repaired aircraft fuselages; wings; rotor blades; fixed and movable flight control surfaces; and also bleed aircraft air, hydraulic and fuel systems. I was also trained to filled aircrew positions such as flight engineer, flight mechanic, loadmaster, dropmaster, sensor-systems operator and basic aircrewman."
+        },
+        {
+            "title": "United States Ceremonial Honor Guardsman",
+            "company": "Company Name",
+            "start_date": "November 2007",
+            "end_date": "May 2010",
+            "description": "Hand selected by Drill Instructors to serve two years in the Coast Guard Honor Guard stationed in Washington D.C. where I represented the Coast Guard in high profile events around the world."
+        },
+        {
+            "title": "Setup Department Mechanic",
+            "company": "Company Name",
+            "start_date": "January 2005",
+            "end_date": "November 2007",
+            "description": "Worked for the largest motorcycle dealer/maintenance company in Reno Nevada. In 2005 I was in charge of three personnel to build and deliver new vehicles and repair and deliver used vehicles under strict time constraints. Job consisted of troubleshooting, ordering, and installing parts required for repair with maximum potential profit on used vehicles. Ensuring safety of new and used vehicles before delivery to customers. All customers receiving our products would receive a safety briefing and product demonstration before transferring possession. Accomplishments: 2006 promoted to quality control; 2008 promoted to head Coast Guard Honors; Also, 2008 supported Coast Guard Aviation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "school": "University of Nevada, Reno",
+            "year": 2018
+        },
+        {
+            "degree": "Aviation Maintenance",
+            "school": "Aviation Maintenance School",
+            "year": 2010
+        },
+        {
+            "degree": "Associate of Science",
+            "school": "Truckee Meadows Community College",
+            "year": null
+        },
+        {
+            "degree": "Aeronautical Engineering",
+            "school": "Embry-Riddle University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Private Pilot Ground School",
+        "Fueling Operations Specialist training",
+        "Aviation Maintenance Technician Certification",
+        "Aviation Maintenance School certificate"
+    ],
+    "languages": [
+        "English"
+    ]
+}

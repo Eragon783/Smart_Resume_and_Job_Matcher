@@ -1,0 +1,41 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "+972",
+    "location": "Netanya, Israel",
+    "summary": "Experienced Front End Developer with 2+ years of total experience, based in Netanya, Israel. Skilled in JavaScript, HTML/CSS, and React. Fluent in Hebrew, advanced in English, and native in Russian.",
+    "skills": [
+        "JavaScript (ES6)",
+        "HTML",
+        "CSS",
+        "React",
+        "Figma"
+    ],
+    "experience": [
+        {
+            "title": "Front End Developer (Freelancer)",
+            "company": "Freelancer",
+            "start_date": null,
+            "end_date": null,
+            "description": "Freelance front-end developer with JavaScript (ES6), HTML, CSS and React. Worked on multiple projects, including development of responsive educational web applications."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Front End Developer Certificate",
+            "school": "SV College",
+            "year": "2019-2020"
+        },
+        {
+            "degree": "Matriculation",
+            "school": "Shevah Mofet High School",
+            "year": "2009-2015"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Hebrew (fluent)",
+        "English (advanced)",
+        "Russian (native)"
+    ]
+}

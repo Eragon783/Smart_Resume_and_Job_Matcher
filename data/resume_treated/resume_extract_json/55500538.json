@@ -1,0 +1,63 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Committed to sustainable community development and fighting climate change, bringing 5 years of outdoor and forestry experience and 2 years international experience through the Peace Corps. Successful in project planning, community integration and development. Knowledgeable in various environmental, forestry, and agricultural disciplines using sustainable methods.",
+    "skills": [
+        "Proposal Development",
+        "Funding Source Research",
+        "Leadership",
+        "Maintenance & Repair",
+        "Microsoft Office & GIS",
+        "Data analysis",
+        "Community development",
+        "International aid"
+    ],
+    "experience": [
+        {
+            "title": "FEMA Vaccine Distribution",
+            "company": "Company Name – City",
+            "start_date": "04/2021",
+            "end_date": "08/2021",
+            "description": "Created spreadsheets using Microsoft Excel for daily, weekly and monthly reporting. Worked flexible hours; night, weekend, and holiday shifts. Exceeded goals through effective task prioritization and great work ethic. Provided logistical support by moving supplies and directing traffic. Supported doctors and nurses by completing various tasks."
+        },
+        {
+            "title": "Park Maintenance Worker",
+            "company": "Company Name – City, State",
+            "start_date": "06/2020",
+            "end_date": "12/2020",
+            "description": "Maintained routine landscaping schedules to boost lawn health and keep facilities neat and well-groomed. Including trimming, weeding and general clean-up. Collected, compiled and posted information on forest recreation and trail conditions to encourage visitor safety and participation in programs. Performed regular forestry maintenance, cutting and trimming trees. Promoted reforestation by reintroducing grass and groundcover plants into area and completed various tree planting and prairie restoration projects."
+        },
+        {
+            "title": "Agriculture Volunteer",
+            "company": "Company Name – City, State",
+            "start_date": "10/2018",
+            "end_date": "03/2020",
+            "description": "Lived in a rural community providing expertise with Agriculture, Health, and Education. Worked on language and cultural integration, as well as counterpart and community capacity building. Planted 300 trees with community and Dept. of Forestry to combat deforestation and provide a sustainable source of income, natural resources, and nutrition diversity. Planned and facilitated large community based projects. Facilitated lessons and discussions in schools and community groups using PACA methods."
+        },
+        {
+            "title": "Parks and Forestry Maintenance Worker",
+            "company": "Company Name – City, State",
+            "start_date": "06/2014",
+            "end_date": "08/2014",
+            "description": "Maintained 71 parks and recreation areas by mulching, aerating, weeding, planting, trimming and edging around walks, walls and flower beds. Trimmed and cut trees using various type of power equipment, including chainsaws. Identified and removed poison ivy, buckthorn and other invasive plants. Worked with supervisors to complete daily projects."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Geography/Urban Studies",
+            "school": "University of Minnesota - Twin Cities",
+            "year": 2018
+        },
+        {
+            "degree": "Associate of Science in Geography",
+            "school": "Normandale Community College",
+            "year": 2016
+        }
+    ],
+    "certifications": [
+        "Certified Forest Garden Trainer - APMG International (March 2020)"
+    ],
+    "languages": []
+}

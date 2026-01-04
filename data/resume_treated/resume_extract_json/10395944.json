@@ -1,0 +1,68 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Freeburg, Illinois",
+    "summary": "I currently have 42 flying hours. I am a Sophomore student at Southwestern Illinois College in the Aviation Pilot Program and I am very interested in the aviation world. I have wanted to be a pilot and be around airports and planes since I was eight years old. I am working on my Private Pilot Certificate at Ideal Aviation. I also work at Ideal Aviation as a Line Service Technician.",
+    "skills": [
+        "Great People Skills",
+        "Microsoft Office",
+        "Fueling Aircrafts",
+        "Airport Ramp Knowledge",
+        "Private Pilot Knowledge",
+        "Aircraft Knowledge",
+        "Invoice Knowledge",
+        "Customer Service Experience",
+        "Leadership",
+        "Team leadership",
+        "Outlook",
+        "Fast learner",
+        "Verbal Communication",
+        "Aviation Knowledge",
+        "Worked at two Airports"
+    ],
+    "experience": [
+        {
+            "title": "Line Service Technician",
+            "company": "Company Name – City, State",
+            "start_date": "03/2017",
+            "end_date": "Present",
+            "description": "Fuel Aircraft from Cessna to Gulfstream as well as helicopters. Marshaling in Aircraft. Pilot and Passenger communication. Towing and Pushing aircraft. Aircraft Cleaning. Aircraft Management."
+        },
+        {
+            "title": "Ramp Agent",
+            "company": "Company Name – City, State",
+            "start_date": "07/2016",
+            "end_date": "03/2017",
+            "description": "Fueling of F-18, T-38, Boeing 737, E-2. Marshaling of inbound and outbound aircraft. Baggage for Allegiant Airlines. Pushback Operator for Allegiant Airlines. Use of Unicom and Deicing Military and Commercial Aircraft. Lavatory Service Use and Ground Power Unit. Pilot Communications."
+        },
+        {
+            "title": "Team Member",
+            "company": "Company Name – City, State",
+            "start_date": "12/2015",
+            "end_date": "05/2016",
+            "description": "I was in charge of running the computer system which entailed cash register and returns. I was responsible for helping customers with problems and showing them where certain things were in the store. I was taught to use self thinking to solve their problems. Everyday I worked I had to load multiple bags of 50 pounds of animal feed into the store. This job taught me customer service and organization."
+        },
+        {
+            "title": "Event Staff",
+            "company": "Company Name – City, State",
+            "start_date": "04/2015",
+            "end_date": "06/2016",
+            "description": "I was in charge of setting up for weddings, birthday parties, bridal showers, baby showers, etc. I was in charge of driving customers in our six-seater gas-powered golf cart as well as our four-seater gas-powered golf cart and was also in charge of using the four-wheeler to pull trailers. I was in charge of setting up chairs and tables which required heavy lifting. This job entailed me working long days and long nights. I was called on by the owners for a couple of landscaping jobs around the property. This job required good people skills and time management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science: Aviation Pilot Training",
+            "school": "Southwestern Illinois College",
+            "year": "2018"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Freeburg Community High School",
+            "year": "2016"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

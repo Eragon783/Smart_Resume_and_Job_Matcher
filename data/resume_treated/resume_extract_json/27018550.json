@@ -1,0 +1,58 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Dedicated, Driven, and Dynamic with over 20 years of customer service expertise. Motivated to maintain customer satisfaction and contribute to company success with an emphasis in personnel and process management. Solid team player with proven ability to establish rapport with clients.",
+    "skills": [
+        "10-Key by touch",
+        "Type 50 wpm",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Access",
+        "Filing",
+        "Personnel management",
+        "Telephone inquiries",
+        "Customer service",
+        "Call center",
+        "Inbound and Outbound contact center experience",
+        "Oral and written presentation",
+        "Conflict resolution"
+    ],
+    "experience": [
+        {
+            "title": "HR Specialist",
+            "company": "Accenture",
+            "start_date": "May 2007",
+            "end_date": "Oct 2008",
+            "description": "Received inbound emails from clients as initial point of contact to answer questions related to HR policies, practices or to resolve issues. Helped the client by answering their inquiry, resolving their issue or routing their email to a caseworker for resolution. Recorded and tracked the client issue via the case management tool from initiation to resolution. Maintained records of customer interactions and transactions by documenting details of inquiries, complaints, and comments as well as actions taken."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Accenture",
+            "start_date": "Mar 2007",
+            "end_date": "Feb 2008",
+            "description": "Maintained records of customer interactions and transactions by documenting details of inquiries, complaints, and comments, as well as actions taken. Developed and implemented filing and delivery methods for FMLA and Short Term Disability documentation to respective global clientele. Facilitated communication for the Absence Management Team to clients and internal departmental teams. Organized and maintained payroll and people services database management system. Communicated to clients and internal/external departmental teams mitigated risks and resolutions regarding policy, transactions and other queries"
+        },
+        {
+            "title": "Call Centre Shift Supervisor",
+            "company": "Accenture",
+            "start_date": "Aug 2003",
+            "end_date": "Mar 2007",
+            "description": "Answered and Dispatched calls for Medical and Professional clients in the San Antonio and surrounding areas. Provided call monitoring to ensure staff was adhering to quality call control. Built On Call books for various medical staff to ensure that the correct staff was contacted during after hours and weekends."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate of Completion in Business Administration",
+            "school": "Texas A&M Extension Services",
+            "year": 1997
+        }
+    ],
+    "certifications": [
+        "Certificate of Completion in Business Administration"
+    ],
+    "languages": []
+}

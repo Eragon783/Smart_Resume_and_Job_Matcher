@@ -1,0 +1,67 @@
+{
+    "name": "Phat Le",
+    "email": null,
+    "phone": null,
+    "location": "Triangle, VA; Montclair, VA",
+    "summary": "Hello! I am Phat Le (or Danny), a high school student in Forest Park studying to become a Graphic Designer/Photographer. I am currently searching for a part-time job where I can apply my education and volunteering experience to a job in fast food industry. Areas of proficiency include Graphics and Photography. In these courses I have learned to see whether or not something appeals to the average eye, and to create aesthetically pleasing images and creations. I have also developed many more skills in these classes such as creativity, being flexible with work, being productive and proficient. I am able to bring knowledge to what appeals to customer with strong backgrounds to show in these courses. For communications, I am trilingual, being able to speak English, Spanish, and Vietnamese. I also able to communicate with others to exchange any ideas and solutions and have volunteer experience that involves many different types of interaction with customers and co-volunteers.",
+    "skills": [
+        "Graphic Design",
+        "Photography",
+        "Desktop Publishing",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Time management",
+        "Multitasking",
+        "Organizational skills",
+        "Planning",
+        "Creativity",
+        "Communication",
+        "Customer service",
+        "Problem-solving",
+        "Active listening",
+        "Empathy"
+    ],
+    "experience": [
+        {
+            "title": "Graphic Designer (Volunteer)",
+            "company": "Company Name",
+            "start_date": "April 2015",
+            "end_date": null,
+            "description": " volunteered as a graphic designer for a Walk for Suicide event; responsibilities included creating a poster/ flyer that clearly expressed the beliefs of the Walk for Suicide event, including event time and address; design was delivered in 2 days and used on social media."
+        },
+        {
+            "title": "Cashier/Waiter/Greeter",
+            "company": "Company Name",
+            "start_date": "March 2013",
+            "end_date": "2013",
+            "description": "Volunteer at a Dog Fair; roles included greeter, recording attendees and donations, later serving as a waiter at various stands; up-sold menu items to support dog adoption efforts; recorded orders and coordinated with other volunteers."
+        },
+        {
+            "title": "Animal Caretaker",
+            "company": "Family",
+            "start_date": "June 2014",
+            "end_date": "Present",
+            "description": "Caretaker responsibilities within a family setting; duties not specified in detail."
+        },
+        {
+            "title": "Babysitter",
+            "company": "Family",
+            "start_date": "May 2013",
+            "end_date": "May 2015",
+            "description": "Babysitting for family; involved in childcare and supervision."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma in Graphics/IT",
+            "school": "Forest Park High School",
+            "year": 2017
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "Vietnamese"
+    ]
+}

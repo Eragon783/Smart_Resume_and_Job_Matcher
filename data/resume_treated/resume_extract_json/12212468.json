@@ -1,0 +1,128 @@
+{
+    "name": "Clara Newsom",
+    "email": "",
+    "phone": "",
+    "location": "Maryland, USA",
+    "summary": "Highly motivated Civil Engineer with 16 years of experience working for one of North America's largest and most respected construction and engineering organizations with revenues of more than $11 billion, consistently ranking among the top five contractors by Engineering News-Record. Experience with Kiewit prepared me to plan and execute projects promoting safety, quality, schedule, and cost performance. Career ranges from design coordinator on a multi-billion dollar design-build project to on-site project engineering and project management for self-performing heavy civil construction work ranging from $545 million to $3.1 million. Skilled in construction means and methods, cost controls, scheduling, claims analysis and contract administration. As Field Engineer and Project Controls Manager on one of the largest design-build projects in Maryland, I manage approximately 1,000 WBS activities on a P6 schedule. Despite a six-month delay in the award, the project remained substantially complete on the original completion date.",
+    "skills": [
+        "Hard Dollar Estimating",
+        "Training",
+        "Expedition",
+        "Centric",
+        "Viewpoint Constructware",
+        "bridges",
+        "contracts",
+        "delivery",
+        "direction",
+        "Engineer",
+        "framing",
+        "HVAC",
+        "lighting",
+        "managing",
+        "materials",
+        "access",
+        "Network Installation",
+        "painting",
+        "plumbing",
+        "procurement",
+        "project plans",
+        "quality",
+        "quality control",
+        "safety",
+        "sound",
+        "supervising",
+        "supervision",
+        "Transportation",
+        "Type III",
+        "Type II",
+        "utilities"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Project Manager/Design Build Construction Coordinator",
+            "company": "Company Name – City, State",
+            "start_date": "2013-09",
+            "end_date": "Present",
+            "description": "Assistant Project Manager/Design Build Construction Coordinator responsible for daily coordination of correspondence, cost-loaded CPM scheduling (P6) with ~1,000 WBS activities, RFIs, modifications, change orders, and handling unforeseen field conditions requiring redesign and schedule adjustments to meet a hard completion date on a large Maryland design-build project."
+        },
+        {
+            "title": "Project Contract Administration Manager",
+            "company": "Company Name – City, State",
+            "start_date": "2011-06",
+            "end_date": "2013-09",
+            "description": "Project Contract Administration Manager for Intercounty Connector-Segment B (~$550M) in Maryland, overseeing seven miles of new six-lane toll road. Managed excavation, embankment, pavement, walls, drainage and bridges; evaluated and mitigated design-build changes; negotiated change orders up to $2.6M; oversaw project controls on a large Maryland design-build project; managed ~1,000 WBS activities on a P6 schedule; coordinated correspondence, CPM, RFIs, modifications, and schedule changes to meet deadlines."
+        },
+        {
+            "title": "Structures Project Engineer",
+            "company": "Company Name – City, State",
+            "start_date": "2008-03",
+            "end_date": "2011-06",
+            "description": "Structures Project Engineer for I-95/I-495 Interchange at Telegraph Road (VDOT) project ($256M). Directed structural operations, planned and executed work, designed substructure and superstructure formwork, prepared job cost projections, procured materials, negotiated a $2M net change, and oversaw project closeout."
+        },
+        {
+            "title": "Estimator",
+            "company": "Company Name – City, State",
+            "start_date": "2007-03",
+            "end_date": "2008-03",
+            "description": "Estimator for design-build projects including I-95 Widening and Reconstruction (FDOT District 5, $170M). Performed quantity takeoffs and cost estimates for bids."
+        },
+        {
+            "title": "Structures Superintendent/Design Coordinator",
+            "company": "Company Name – City, State",
+            "start_date": "2007-03",
+            "end_date": "2008-03",
+            "description": "Structures Superintendent/Design Coordinator for Design Build I-95 Widening and Reconstruction. Oversaw design coordination of three bridge widenings; developed best means and methods; supervised construction and coordinated project phases."
+        },
+        {
+            "title": "Structures Superintendent",
+            "company": "Western Beltway Project – Florida Turnpike Authority",
+            "start_date": "2004-08",
+            "end_date": "2007-03",
+            "description": "Structures Superintendent for Western Beltway Project. Created schedules for structures operations; supervised AASHTO bridges and signature walls; planned and executed all structural field operations."
+        },
+        {
+            "title": "Stations Project Engineer",
+            "company": "Douglas Line Renovation Project – Chicago Transit Authority",
+            "start_date": "2001-09",
+            "end_date": "2004-12",
+            "description": "Stations Project Engineer for the Douglas Line Renovation. Oversaw coordination of 15 subcontractors; drafted subcontracts and material contracts; reviewed pay estimates; ensured quality control; prepared submittals and RFIs; procured permits; negotiated change orders."
+        },
+        {
+            "title": "Structures Office/Field Engineer",
+            "company": "Dublin I-16 – Georgia Department of Transportation",
+            "start_date": "2002-12",
+            "end_date": "2004-08",
+            "description": "Structures Office/Field Engineer for Dublin I-16 (GDOT, $10.1M)."
+        },
+        {
+            "title": "Field Superintendent/Project Controls Manager",
+            "company": "Level 3 Communications Fiber Optic Network Project – Atlanta to Birmingham",
+            "start_date": "2000-08",
+            "end_date": "2001-09",
+            "description": "Field Superintendent/Project Controls Manager for Level3 Fiber Optic Network ($41.5M). Coordinated trenching, directional boring, and equipment installation along 150+ miles; prepared weekly status reports; acted as client representative for property acquisitions; managed document control and as-built turnover; verified quantities for invoices and coordinated equipment delivery."
+        },
+        {
+            "title": "Field Engineer",
+            "company": "Howard Street Track Reconstruction – Baltimore",
+            "start_date": "1999-08",
+            "end_date": "2000-08",
+            "description": "Field Engineer for Howard Street Track Reconstruction and related projects; on-site quality control inspection of rail alignment; produced progress updates; oversaw self-perform crews."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Civil Engineering",
+            "school": "University of Kentucky",
+            "year": 1999
+        }
+    ],
+    "certifications": [
+        "Hard Dollar Estimating Training",
+        "Expedition",
+        "Centric",
+        "Viewpoint Constructware"
+    ],
+    "languages": [
+        "English"
+    ]
+}

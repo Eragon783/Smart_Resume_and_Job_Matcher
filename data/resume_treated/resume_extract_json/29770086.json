@@ -1,0 +1,100 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "CONSULTANT Executive Profile Marketing Executive offering outstanding presentation, communication and cross-cultural team management skills. High-energy, results-oriented leader with an entrepreneurial attitude. Desires a high-level position in a professional corporate environment.",
+    "skills": [
+        "Hubspot",
+        "SEO",
+        "Marketo",
+        "Google Analytics",
+        "PPC",
+        "Wordpress",
+        "Salesforce",
+        "Project Management",
+        "Basecamp",
+        "JIRA",
+        "MS Project",
+        "Trello",
+        "Adobe",
+        "Agile",
+        "SCRUM",
+        "analytical skills",
+        "social media",
+        "SEM",
+        "PR",
+        "pricing",
+        "product marketing",
+        "product testing",
+        "optimization",
+        "promotions",
+        "writing proposals"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "2016-01",
+            "description": "Created new revenue streams via LinkedIn and Meetups. Generated new business through inbound lead generation campaign. Captured local market share with small business clients through a partnership referral program."
+        },
+        {
+            "title": "VP of Marketing",
+            "company": "Company Name",
+            "start_date": "2012-10",
+            "end_date": "2015-01",
+            "description": "Spearheaded mega PPC campaign, resulting in a 53% increase in revenue year over year. Generated new business through SEO and PR campaigns. Created new revenue streams through cutting unnecessary expenditures of $89,000. Held accountable for a daily goals of 150 systems, which were often exceeded. Improved customer experience via Website relaunch with mobile and Ecommerce implementation. Forecasted, trend analysis, lifecycle/product marketing, promotions, product testing, affiliate and customer base marketing. Trained sales pods on new product rollouts and provide rebuttals based on product knowledge and competitor intelligence."
+        },
+        {
+            "title": "Director of Marketing",
+            "company": "Company Name",
+            "start_date": "2011-06",
+            "end_date": "2012-09",
+            "description": "Generated increased revenue of 45% by acquiring and upselling these clients: Codank Software, Checkpoint Technologies, Security Guard Exchange, Lowes, Mercedes Benz, Toyota, and Bank of America. Developed and directed strategy for launch of new viral campaign based entirely on a shoestring budget and yielded 1,500 participants. Instituted project management to allow clients to manage their campaigns effectively, increasing productivity by 15%. Coordinated corporate events for the Mayor Fox of Charlotte, CBI (non-profit) and other clients. Negotiated client contracts including: terms and conditions, pricing and services including customized, digital strategies to all clients."
+        },
+        {
+            "title": "CEO/Client Success Officer",
+            "company": "Company Name",
+            "start_date": "2006-07",
+            "end_date": "2011-05",
+            "description": "Liaised with all clients to ensure 100% satisfaction including first call resolution (98% FCR). Conducted sales and implemented marketing plans and local PR strategies increasing our impressions by 200%. Designed and implemented digital marketing projects on time and on budget. Ensured monthly rent was paid on time and pursued any delinquent payments in a timely manner."
+        },
+        {
+            "title": "Director of Marketing",
+            "company": "Company Name",
+            "start_date": "2009-06",
+            "end_date": "2010-02",
+            "description": "Executed hands-on Interactive-Digital, IT, Analytics, SEO, SEM, SMO, Vendor Relations, Analytics and leverage multi-million dollar budgets. Full redesign/rebrand and Ecomm implementation for Dental, Medical, Veterinary and Special Markets. Developed SEO friendly, Social Media enriched site for Henry Schein. Conducted usability, beta & multivariate testing for new site launch."
+        },
+        {
+            "title": "Interactive Consumer Marketing Manager",
+            "company": "Company Name",
+            "start_date": "2008-11",
+            "end_date": "2009-06",
+            "description": "Developed and directed strategy for launch of new Optimum Auto product that became #1 in the market place for the next 11 months after launch. Solely drove online traffic through PPC and SEO resulting in $4 million in Auto sales in only 3 months. Branded Optimum Homes campaign and launched with promotions, blog and multi-media to drive revenue by 60%. Executed hands-on SEO/SEM/PPC/SMO optimization of all large company sites, email campaigns and analytics for newsletters, Press Releases and Ad placement."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's Degree of Arts in English, Business and Multicultural Education",
+            "school": "Stony Brook University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor's Degree in English",
+            "school": "Hofstra University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Six Sigma Black Belt Certified",
+        "Project Management"
+    ],
+    "languages": [
+        "French",
+        "Creole",
+        "Spanish",
+        "Russian"
+    ]
+}

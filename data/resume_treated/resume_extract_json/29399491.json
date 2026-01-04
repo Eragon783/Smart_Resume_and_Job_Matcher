@@ -1,0 +1,90 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Motivated customer service specialist with over 5 years of retail experience in a fast-paced, team-based environment. Expertise in delivering support services and resolving customer complaints. Friendly and hard working associate.",
+    "skills": [
+        "Customer Service",
+        "Bilingual: English & Spanish",
+        "Fluent in English",
+        "Fluent in Spanish",
+        "Financial management",
+        "Marketing",
+        "Microsoft Word",
+        "Presenting",
+        "Sales",
+        "Basic computer knowledge",
+        "MS Windows proficient",
+        "PowerPoint",
+        "Quick learner",
+        "Strong client relations",
+        "Proficient in cash management",
+        "Cash flow management",
+        "Multi-line phone talent",
+        "Team player",
+        "Reliable",
+        "Goal-oriented",
+        "Decisive",
+        "Calm under pressure",
+        "Analytical thinker",
+        "Excellent interpersonal skills",
+        "Natural leader",
+        "Crisis communication",
+        "Superior verbal and written communication skills",
+        "Flexible schedule",
+        "Computer-savvy",
+        "Organized"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name – City",
+            "start_date": "08/2014",
+            "end_date": "Current",
+            "description": "Described product to customers and accurately explained details and care of merchandise. Earned management trust by serving as key holder, responsibly opening and closing store. Politely assisted customers in person and via telephone. Communicated with vendors regarding back order availability, future inventory and special orders. Effectively communicated with and supported sales, marketing and administrative teams on a daily basis. Answered product questions with up-to-date knowledge of sales and store promotions. Scheduled weekly inventory pickups and deliveries with vendors. Set up and explained new membership contracts."
+        },
+        {
+            "title": "Overnight Cashier",
+            "company": "Company Name – City, State",
+            "start_date": "02/2014",
+            "end_date": "09/2014",
+            "description": "Maintained cleanliness and presentation of stock room and production floor. Managed wide variety of customer service and administrative tasks to resolve customer issues quickly and efficiently. Investigated and resolved customer inquiries and complaints in a timely and empathetic manner. Scored in top 10% of employees in successful resolution of issues. Restocked inventory every month and reviewed cash operation data to verify proper replenishment. Folded and arranged garments in attractive displays. Learned, referenced and applied product knowledge information."
+        },
+        {
+            "title": "Seasonal Overnight Stocking",
+            "company": "Company Name – City, State",
+            "start_date": "10/2013",
+            "end_date": "01/2014",
+            "description": "Loaded truck and properly secured items to prevent damage during transportation. Demonstrated use and care of merchandise. Helped customers with questions, problems and complaints in person and via telephone. Stocked shelves and supplies and organized displays. Organized store merchandise racks by size, style and color. Led merchandise selection, pricing, planning and marketing. Rotated manufacturer products as needed. Removed damaged, out-of-code, not-in-set and discontinued items from displays. Loaded and unloaded merchandise using a ladder and pallet jack. Partnered with sales representatives and managers to coordinate delivery and merchandising schedule."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name – City, State",
+            "start_date": "06/2013",
+            "end_date": "06/2014",
+            "description": "Answered an average of 200 calls per day by addressing customer inquiries, solving problems and providing new information. Earned management trust by serving as key holder, responsibly opening and closing theater. Politely assisted customers in person and via telephone. Assisted customers with food selection, inquiries and order customization requests. Developed reputation as an efficient service provider with high levels of accuracy. Designed displays to make the theater experience interactive, engaging and reassuring."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "school": "Miami Dade College - City, State",
+            "year": "Current"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Miami Senior High School - City, State",
+            "year": "2013"
+        }
+    ],
+    "certifications": [
+        "Customer Service Award from Life 4 Cars Inc.",
+        "Employee of the month at Walgreen",
+        "Employee of the month at AMC Theater 24"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

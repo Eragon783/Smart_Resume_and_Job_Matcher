@@ -1,0 +1,72 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Charlotte, NC",
+    "summary": "I have been working professionally in the field of multi-family housing communities for over two years. My day to day duties are in sales and relocation assistance, taking tours, helping with resident and client issues, many administrative and office tasks, and processing of monies, following up with leads, scheduling vendors for maintenance issues, ordering supplies, data collection and weekly reports for our owners, and appointment setting. I learn and adapt easily, work well with others and am efficient and accurate in my work. I received my B.S. in Appropriate Technology from Appalachian State University in 2012 and am currently completing a second degree part time online, a B.S.B.E. in Information Technology with East Carolina University.",
+    "skills": [
+        "Office administrative tasks: filing, market analysis, marketing plans, outreach marketing, answering multi-line phones, appointment scheduling, billing and collections, typing",
+        "Microsoft Office: Word, Access, PowerPoint, Excel, Outlook, Publisher",
+        "Mac Office Suite: Pages, Numbers, Keynote",
+        "Proprietary Programs: RealPage/Onesite, ADP E-Time Management, Key-Trac System, Blue Moon, LeasingDesk, Weblisters, Property Solutions, LRO, MRI, SafeRent, Yardi",
+        "Technology and drafting software: Revit BIM, AutoCAD, Windographer, C+, C++"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Manager/ Sales and Relocation Specialist",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "Present",
+            "description": "Leasing apartments at two multifamily apartment communities (South Park and Third Ward, Charlotte). Managed sales process, resident concerns, scheduling maintenance, coordinating marketing collateral, tours, collecting contact information, following up with leads via email, phone, and handwritten letters, and maintaining property and owner reports; contributed to market analysis and renewal programs."
+        },
+        {
+            "title": "Floating Leasing Agent/Consultant",
+            "company": "Company Name",
+            "start_date": "2013-04",
+            "end_date": "2014-06",
+            "description": "Leased apartments at three multifamily communities; assisted residents and maintenance coordination; conducted tours; managed lead follow-up and marketing; maintained property files and email communications; contributed to weekly market analysis and marketing visits."
+        },
+        {
+            "title": "Construction Crew Member",
+            "company": "Company Name",
+            "start_date": "2012-06",
+            "end_date": "2013-12",
+            "description": "Demolition of homes and retail spaces to be remodeled; framing and sheet rocking; site cleanup after remodel or build."
+        },
+        {
+            "title": "Server",
+            "company": "Company Name",
+            "start_date": "2011-10",
+            "end_date": "2013-02",
+            "description": "Provided service to customers; supported restaurant/food service operations."
+        },
+        {
+            "title": "Construction Crew Member",
+            "company": "Company Name",
+            "start_date": "2002-01",
+            "end_date": "2009-01",
+            "description": "Demolition of homes and retail space to be remodeled; framing and sheet rocking; site cleanup after remodel or build."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSBE in Information Technology",
+            "school": "East Carolina University",
+            "year": "Present"
+        },
+        {
+            "degree": "Bachelor of Science, Appropriate Technology",
+            "school": "Appalachian State University",
+            "year": "2012"
+        },
+        {
+            "degree": "High School Diploma, College Prep",
+            "school": "Parkwood High School",
+            "year": "2005"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Executive Assistant and Project Manager with a strong track record in administrative support, project coordination, and photography. Highly attentive to detail, capable of multi-tasking in deadline-driven environments, and committed to professional, client-focused communication. Proficient in Microsoft Office, customer service, scheduling, event planning, and light photo editing.",
+    "skills": [
+        "Microsoft Office",
+        "Articulate",
+        "Social media",
+        "Appointment setting",
+        "Customer service",
+        "Mail management",
+        "Meeting planning",
+        "Executive presentation development",
+        "Business correspondence",
+        "Scheduling",
+        "Excel spreadsheets",
+        "Administrative support",
+        "Photography",
+        "Digital image editing",
+        "Time management",
+        "Data entry"
+    ],
+    "experience": [
+        {
+            "title": "Project Manager and Photographer",
+            "company": "Company Name",
+            "start_date": "2007-04",
+            "end_date": "2016-01",
+            "description": "Project Manager and freelance photographer. Professionally trained through the military. Over 15+ years of digital photography experience. Scheduled events, planned and coordinated venues, and handled bookkeeping for all events. Digitally manipulated images to improve quality and add artistic touch. Provided excellent customer service and delivered 100% customer satisfaction."
+        },
+        {
+            "title": "Independent Consultant",
+            "company": "Company Name",
+            "start_date": "2012-11",
+            "end_date": "2014-01",
+            "description": "Marketed and sold high-quality kitchen tools and accessories through in-home demonstrations, trade shows booths, and fundraiser programs. Provided marketing, sales demonstrations, order entry, shipping, receiving and customer service. Maintained inventory, accounting and data entry for small business."
+        },
+        {
+            "title": "Tax Preparer",
+            "company": "Company Name",
+            "start_date": "2008-10",
+            "end_date": "2010-04",
+            "description": "Provided timely and accurate tax preparation and advice for individuals, families and businesses. Performed e-filing tasks; addressed complex tax issues and deductions; advised clients about legal issues, tax amendments and payment plans. Interviewed clients and prepared taxes to maximize refunds under current tax laws. Achieved 100% customer satisfaction and client retention."
+        },
+        {
+            "title": "Intelligence Analyst",
+            "company": "United States Navy",
+            "start_date": "1988-07",
+            "end_date": "2008-07",
+            "description": "Honorable discharge after 20 years as a Naval intelligence analyst. Provided near real-time intelligence to executives and pilots; led divisions and teams; supported overseas postings (Italy) and multiple aircraft carriers. As Leading Petty Officer, managed a division of 30 sailors; headed the Intelligence Collection team onboard USS John C. Stennis and USS Mustin, providing intelligence preparation and education for team members."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in History",
+            "school": "Old Dominion University",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "French"
+    ]
+}

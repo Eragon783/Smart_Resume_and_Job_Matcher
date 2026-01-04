@@ -1,0 +1,90 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Articulate Certified Personal Trainer driven to succeed. Strategic planning and client relationship management expert. Looking to advance my career here at Planet Fitness and take my member oriented approach to a reach a much larger scale of members.",
+    "skills": [
+        "Academic",
+        "Coach",
+        "Coaching",
+        "contracts",
+        "customer service",
+        "database",
+        "delivery",
+        "financing",
+        "insurance",
+        "letters",
+        "meetings",
+        "NAC",
+        "networking",
+        "personnel",
+        "policies",
+        "processes",
+        "recruiting",
+        "recruitment",
+        "sales",
+        "scheduling"
+    ],
+    "experience": [
+        {
+            "title": "Fitness Trainer",
+            "company": "Company Name",
+            "start_date": "August 2014",
+            "end_date": "Current",
+            "description": "CPR/First Aid Certified. ASFA Certified Fitness Trainer. 10+ years of doing public speaking engagements in the sport of softball to prospective coaches. Taught and implemented all classes in the PE@PF schedule. Made great relationships with members and gave them +1%. Designed specific workouts for each member and made myself available to make the members feel special about what they are doing. Added to the biggest loser class to make it more effective and enjoyable to our members. Taught over 40+ classes per week."
+        },
+        {
+            "title": "Assistant Softball Coach/Recruiting Coordinator",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "Current",
+            "description": "Plan, organize, and conduct practice sessions. Plan and direct physical conditioning programs that will enable athletes to achieve maximum performance. Identify and recruit potential student athletes by attending games, sending recruitment letters, and meeting and conducting tours with potential recruits on campus. Ability to use FrontRush application daily to monitor our recruiting database and maintain relationships with potential student-athletes. Coached 2013 NAC Rookie of the Year and on staff that won 2013 Coach of the Year Honors."
+        },
+        {
+            "title": "Assistant Softball Coach/Strength and Conditioning Coach",
+            "company": "Company Name",
+            "start_date": "September 2012",
+            "end_date": "August 2013",
+            "description": "Aided in finding colleges for all fourteen members of team ranging from Division I to Division III. Built strong networking relationships with college coaches at each level and was able to travel across the country during this time to hone my skills. Serve as tournament host including scheduling of games, staff, outside vendors."
+        },
+        {
+            "title": "Golf Department Manager/Senior Sales",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "December 2012",
+            "description": "Sold or arranged for delivery, insurance, financing, or service contracts for merchandise. Placed special orders or call other stores to find desired items. Maintained knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices. Recommended, selected, and helped locate or obtain merchandise based on customer needs and desires. Increased sales in golf department 30% in year one and 20% in year two. Practiced customer service in high volume, busy environment."
+        },
+        {
+            "title": "Athletic Department Assistant/Game Day Manager/Fitness Center Coordinator",
+            "company": "Company Name",
+            "start_date": "September 2006",
+            "end_date": "August 2010",
+            "description": "Scheduled all athletic facility requests for athletic department as well as outside interests. Scheduled usage of, and maintained athletic department vehicles for use by athletic department as well as other school departments. Processed athletic department purchase orders / managed orders received within athletic department. Participated in faculty and college committee activities. Represented institution at community and campus events, in meetings with other institution personnel, and during accreditation processes. Managed all equipment for all six varsity sports and all of our intramural programs. Acted as site manager for soccer, basketball, and softball events on campus. Also managed field maintenance of all athletic facilities on campus which included soccer and softball field along with our college gymnasium. Scheduled student-workers for to ensure fitness center was up to date. Also made recommendations for new equipment and made sure that the equipment was maintained and up to date."
+        },
+        {
+            "title": "Assistant Softball Coach",
+            "company": "Company Name",
+            "start_date": "January 2004",
+            "end_date": "August 2011",
+            "description": "Member of 2005 NFCA/Speedline National Coaching Staff of the Year. Won 2005 and 2006 conference championships. Had a winning season in all but one season including a program best 31 wins in 2010. Qualified for post season play each season and was region runner-up in 2005. Coached seven NFCA/NJCAA All-Americans and nine Academic All-Americans."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. Sport and Recreation Management",
+            "school": "New England College",
+            "year": 2014
+        },
+        {
+            "degree": "A.A. Liberal Arts",
+            "school": "Sussex County Community College",
+            "year": 2005
+        }
+    ],
+    "certifications": [
+        "CPR/First Aid Certified",
+        "ASFA Certified Fitness Trainer"
+    ],
+    "languages": []
+}

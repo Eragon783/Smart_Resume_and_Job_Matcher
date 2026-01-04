@@ -1,0 +1,128 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Executive profile of a Director of Ship Construction and Lean operations leader with extensive experience managing complex multi ship projects, budgeting, and organizational development. Proven track record in Lean implementation, workforce optimization, cost reduction and on time delivery. Skilled in leadership, cross functional collaboration, and union relations.",
+    "skills": [
+        "Leadership",
+        "Project management",
+        "Business operations",
+        "Budgeting",
+        "Employee relations",
+        "Lean implementations",
+        "Change agent",
+        "Team building",
+        "Labor negotiations",
+        "Ethical",
+        "Talent selection",
+        "Multi-unit operational experience",
+        "P&L",
+        "Communications",
+        "Training",
+        "Relationship building",
+        "Problem solving",
+        "Conflict resolution",
+        "Organizational skills",
+        "Microsoft Office",
+        "Energetic"
+    ],
+    "experience": [
+        {
+            "title": "Director of Ship Construction",
+            "company": "Company Name",
+            "start_date": "2015-07",
+            "end_date": "Present",
+            "description": "Oversees ship construction from first plate cut to launch. Manages cost and schedule to meet strategic goals. Builds relationships with union members and negotiates with the union on upcoming contracts. Oversees four ships in various stages, more than 850 union employees and 61 area managers. Introduced lean methods and barcoding to improve productivity and material control. Achieved improved schedule and cost performance and delivered multi ship programs on time."
+        },
+        {
+            "title": "Director of Outfitting",
+            "company": "Company Name",
+            "start_date": "2014-07",
+            "end_date": "2015-06",
+            "description": "Accountable for ship completion prior to launch including outfitting, testing and system completion. Led structural completion and module erection ensuring all pipe, electrical, insulation, equipment and propulsion systems were complete. Managed a team across four ships and more than 600 union employees and 42 area managers. Implemented lean practices and status boards to communicate performance and safety alerts. Achieved high completion rates and earned customer accolades and a multi million dollar incentive bonus."
+        },
+        {
+            "title": "Director of Fabrication and Assembly",
+            "company": "Company Name",
+            "start_date": "2012-11",
+            "end_date": "2014-06",
+            "description": "Accountable for construction of modules for LCS vessels. Managed steel and aluminum structural trade with improvement from 50 percent productivity to higher levels. Implemented lean methods including 5S, status boards, and daily tracking. Reduced tool loss by 50 percent and improved safety, quality and throughput. Oversaw 70 employees and managed vessel to vessel cost improvements and high pass rates on first time surveys."
+        },
+        {
+            "title": "Director of Outfitting",
+            "company": "Company Name",
+            "start_date": "2012-06",
+            "end_date": "2012-11",
+            "description": "Accountable for ship completion with focus on lean implementation and team building. Introduced lean 5S, staging of rigging tools and safety equipment. Reduced accidents and improved completion rates to 97 percent prior to module erection."
+        },
+        {
+            "title": "Director of Module Construction",
+            "company": "Company Name",
+            "start_date": "2009-09",
+            "end_date": "2012-06",
+            "description": "Accountable for construction of modules for LCS and JHSV vessels. Expanded a 370K sq ft facility and grew the workforce from 50 to 600. Implemented Lean methods including 5S and shadow boards. Improved vessel to vessel cost, first time survey pass rates and overall schedule performance."
+        },
+        {
+            "title": "Operations Manager",
+            "company": "Company Name",
+            "start_date": "2006-10",
+            "end_date": "2009-09",
+            "description": "Accountable for the construction of LCS and HSF vessels. Led Lean deployment and team based problem solving across multiple vessels. Drove improvements in cost, schedule and safety through structured lean activities."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "2005-04",
+            "end_date": "2006-10",
+            "description": "Accountable for Forestry and Boat divisions. Implemented Lean, supply chain management and a hierarchy of priorities focusing on quality, delivery and continuous improvement while ensuring safety. Achieved reductions in overtime and cost savings and improved on time delivery."
+        },
+        {
+            "title": "Vice President/General Manager",
+            "company": "Company Name",
+            "start_date": "2002-01",
+            "end_date": "2005-01",
+            "description": "Led the Aftermarket Business Unit of Thermasys Corporation. Implemented Lean Manufacturing and built self directed teams. Improved on time delivery from 60 percent to 99 percent, reduced lead times from six weeks to three days, lowered external defects and inventory, and grew sales while improving profitability."
+        },
+        {
+            "title": "Operations Manager",
+            "company": "Company Name",
+            "start_date": "1999-01",
+            "end_date": "2002-01",
+            "description": "Managed day to day operations for the Heat Exchanger Division. Implemented Kaizen style Lean manufacturing. Reduced scrap from 6 percent to 1.5 percent, improved daily goal attainment, reduced workforce and improved fill rates."
+        },
+        {
+            "title": "Manufacturing Engineering Manager",
+            "company": "Company Name",
+            "start_date": "1997-01",
+            "end_date": "1999-01",
+            "description": "Directed process improvements for the heat exchanger and tubing operations. Managed multiple projects and Lean improvements. Executed removal of the Aqueous Washer and epoxy repair elimination resulting in substantial savings. Implemented a new process line for a new market."
+        },
+        {
+            "title": "Product Engineering Assistant Manager",
+            "company": "Company Name",
+            "start_date": "1989-01",
+            "end_date": "1997-01",
+            "description": "Led product design activities and developed process fixtures and equipment. Launched a Ford aftermarket radiator product line generating revenue. Managed QS 9000 documentation leading to certification and received a Presidents Award for design advances."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Management",
+            "school": "Troy State University",
+            "year": 2001
+        },
+        {
+            "degree": "Bachelor of Business",
+            "school": "Auburn University",
+            "year": 1986
+        },
+        {
+            "degree": "Associate of Science in Drafting and Design Technology",
+            "school": "John Patterson State Technical College",
+            "year": 1989
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

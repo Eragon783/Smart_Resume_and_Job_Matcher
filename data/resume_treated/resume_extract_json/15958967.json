@@ -1,0 +1,80 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Orland Park, Illinois",
+    "summary": "Doctorate-prepared registered nurse and medical author with extensive clinical experience, excellent physical assessment skills, proven strength in teaching, and a passion for health education. Specialized training in pediatric primary care, chronic disease management, sports medicine, nutrition, pediatric cardiology, and mental wellness. Excels at presenting health & medical education, and program management.",
+    "skills": [
+        "Clinical instruction and teaching",
+        "Curriculum development and course design",
+        "Clinical simulation and scenario development",
+        "Evidence-based practice",
+        "Quality improvement and program management",
+        "Pediatric primary care",
+        "Chronic disease management",
+        "Sports medicine",
+        "Nutrition",
+        "Pediatric cardiology",
+        "Mental wellness",
+        "Research and data analysis",
+        "Health education and public health",
+        "Student safety and clinical documentation",
+        "Leadership and mentorship",
+        "Interdisciplinary collaboration"
+    ],
+    "experience": [
+        {
+            "title": "Faculty, Clinical Instructor, & Clinical Coordinator",
+            "company": "Company Name",
+            "start_date": "05/2016",
+            "end_date": "Current",
+            "description": "Responsible for course lectures and leadership of clinical instructors within the Master's Entry Nursing Program (MENP). Designed and provided evidence-based information achieving course objectives as required through university program protocol and the national guidelines of competencies for registered nurses. Partnered with Clinical Simulation Manager to develop, implement, and evaluate clinical scenarios within the simulation laboratory environment to optimize student learning outcomes. Coordinated directly with Medical Education Department personnel to augment the clinical rotation experience with hands-on and observation opportunities for students."
+        },
+        {
+            "title": "School Nurse",
+            "company": "Company Name",
+            "start_date": "08/2011",
+            "end_date": "Current",
+            "description": "Demonstrates advance skills in the nursing process of physical assessment, implementation, and evaluation with students and staff. Attention to cultural diversity within the health care setting and its effect on care delivery & treatment management. Serves as a strategic partner providing school wide proactive direction & training for health and emergency action plans. Provides management, recommendation, and consulting services to administrative leadership team on individual student medical status and needs according to state and federal regulations to ensure academic success. Excellent skills in finalizing and disseminating medical review data. Administers vision and hearing screenings and addresses results with referral resources as contracted with district partnerships and the Illinois Department of Public Health. Successfully initiates and manages projects involving teen student volunteers for community service learning in accordance with high school department policies. Assures strict adherence to Illinois standards of the Professional School Nurse Practice Act, Illinois School District 135 Board of Education policies, protocol, and procedures regarding student-patient care, safety, data collection, and confidentiality."
+        },
+        {
+            "title": "Clinical Specialist",
+            "company": "Company Name",
+            "start_date": "09/2009",
+            "end_date": "09/2011",
+            "description": "Provided contractual clinical services to a global medical device company specializing in design, development, and commercializing complex spine and minimally invasive spine technologies and operative techniques. Demonstrated product knowledge expertise, timely troubleshooting, and direct product evaluations of spinal implants, instrumentation, and biologic products involving motion preservation, annular repair, and nucleus replacement. Educated MDs, APNs, RNs, and surgical staff on proper use and maintenance of products, requiring 90% of time spent within operation room environments."
+        },
+        {
+            "title": "Nurse Clinician II (RN)",
+            "company": "Company Name",
+            "start_date": "05/1994",
+            "end_date": "02/2010",
+            "description": "Specialized in Pediatric Intensive Care Unit & Pediatric Surgical Heart Unit. Responsible for the complete nursing process of critically ill or injured patients in a Level I Trauma Unit and pre and post-surgical patients in Pediatric Cardiac Surgical Unit. Extensively trained to deliver the most sophisticated level of treatment and surgical expertise in Trauma, Complex Pediatric Cardiac Surgery, Neonatal, and General Pediatrics. Successfully performed extensive RN role within cardiology specialty, exhibiting expertise in clinical anatomy and physiology, thorough understanding of surgical interventions and corrective procedures, while encompassing professional and compassionate patient care."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Doctorate in Nursing Practice: Pediatric Primary Care",
+            "school": "Rush University",
+            "year": 2016
+        },
+        {
+            "degree": "Associate of Applied Science: Nursing",
+            "school": "Richard J. Daley College",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science: Nutrition",
+            "school": "Northern Illinois University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Registered Nurse (RN) license, 1994",
+        "Nationally Certified School Nurse, National Board for Certification of School Nurses (2017)",
+        "Designation for Individualized Education Program (IEP) privileges, Illinois State Board of Education (2017)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Performance Management Consultant with more than 10 years of experience in planning, developing and implementing behavioral and operational procedures to enable sales and productivity. Responsible for maximizing performance across Corporate-Owned Retail teams in regional territories by collaborating with Directors of Sales and Area Managers to address key issues in operations, sales skills, leadership development, performance improvement, retail operations and customer engagement. Focused on creating infrastructure for sustainable, measurable improvement and on continually improving internal processes and efficiencies within technical systems and behavioral procedures.",
+    "skills": [
+        "Clarify the nature of problems",
+        "Evaluate alternatives",
+        "Propose viable solutions",
+        "Determine outcomes of options",
+        "Detail-oriented",
+        "Present information and ideas clearly and concisely",
+        "Review diverse viewpoints and make objective judgments",
+        "Investigate all possible solutions to problems",
+        "Draw conclusions from observations and facts",
+        "Synthesize ideas and information",
+        "Maximize efficiency and team productivity through collaborative quality initiatives",
+        "Evaluate skills and performance to identify improvements",
+        "Results-oriented and customer-focused",
+        "Leadership development and mentoring",
+        "Coaching and team leadership",
+        "Cross-functional relationship management",
+        "Sales and sales development",
+        "Operations and process optimization",
+        "Training and performance management",
+        "Project management",
+        "Quality assurance and testing",
+        "Data analysis and reporting",
+        "Microsoft Office (including Visio)"
+    ],
+    "experience": [
+        {
+            "title": "PMC/PSM/ Sales Manager/ Sales Associate",
+            "company": "Company Name",
+            "start_date": "05/2010",
+            "end_date": null,
+            "description": "Responsible for maximizing performance across Corporate-Owned Retail team in the Southwest Territory. Collaborates 1:1 with Director of Sales and Area Managers to address operational issues, KPIs, customer engagement, and behaviors necessary to achieve business results. Plays a critical role in creating infrastructure for sustainable, measurable improvement and improving internal processes and efficiencies within technical systems and behavioral procedures. Assessed skill levels of associates, provided feedback on training effectiveness, and helped develop action plans. Facilitated training sessions, developed reporting metrics, and monitored performance against standards. Managed scheduling, forecasting, reporting, time off, expenses, overtime, and other operational responsibilities. Provided leadership and coaching to retail staff on selling skills, policies, performance management and career development; drove store sales targets and high customer satisfaction."
+        },
+        {
+            "title": "Customer Service Lead",
+            "company": "Company Name",
+            "start_date": "04/2009",
+            "end_date": "01/2011",
+            "description": "Management position responsible for all aspects of managing a single retail store. Ensured operation liability to achieve sales, service, organization, customer satisfaction and profitability goals. Developed and executed short and long-term plans aligned with district/region strategy. Maintained operational and merchandising standards, store presentation, and brand consistency. Provided effective staff training in customer service, product knowledge, inventory control and merchandising; handled loss prevention issues."
+        },
+        {
+            "title": "Owner",
+            "company": "Company Name",
+            "start_date": "10/2008",
+            "end_date": "10/2010",
+            "description": "Analyzed business performance against budget and goals; developed and implemented business plans and strategies. Identified market opportunities, directed sales coverage, and oversaw all departments including sales, inventory, shipping, and human resources. Prepared monthly, quarterly, and annual business reports and financial information; created training programs for personnel."
+        },
+        {
+            "title": "Dispatcher",
+            "company": "Company Name",
+            "start_date": "10/2005",
+            "end_date": "10/2008",
+            "description": "Provided support to the sales and service teams to ensure objectives were met. Prepared weekly sales reports; handled customer service inquiries, problem solving, and information on new products. Tracked inventory and shipping/receiving; scheduled and dispatched technicians; assisted with invoicing and handled customer complaints."
+        },
+        {
+            "title": "Repair Operations Representative",
+            "company": "Birch Telecom",
+            "start_date": "06/2001",
+            "end_date": "09/2002",
+            "description": "Received inbound customer repair issues; used troubleshooting skills and testing systems to determine correct fixes. Managed back-office tickets, status updates, and escalation as needed. Relayed information to ILECs regarding trouble reports and supported evening call takeovers for irate customers."
+        },
+        {
+            "title": "Install/Special Projects Specialist",
+            "company": "Birch Telecom",
+            "start_date": "09/2002",
+            "end_date": "06/2003",
+            "description": "Created local service requests to install new Pots lines for Birch customers. Updated customers on order progress; cleared queues to prevent ETTR issues; exceeded daily quotas, and received high quality audit results. Handled complex MAC orders (e.g., Loop to ground, Trunk to Pots) and corrected service address inconsistencies by issuing manual records updates."
+        },
+        {
+            "title": "Quality Analyst",
+            "company": "Birch Telecom",
+            "start_date": "06/2003",
+            "end_date": "10/2005",
+            "description": "Audited orders from inside and outside sales to ensure customer satisfaction. Exceeded weekly audit quotas, helped create and maintain reporting guidelines for audits, revised definitions to improve audit accuracy, and produced documentation for new processes used across the company."
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,83 @@
+{
+    "name": "Ethan Araya",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Versatile digital designer with background in art and psychology, with experience assisting artists and working in educational settings; strong client-facing and analytical skills and interest in applying art in a design firm.",
+    "skills": [
+        "arts",
+        "blueprint reading",
+        "bridges",
+        "Computer experience",
+        "direction",
+        "documentation",
+        "Edit",
+        "Engineer",
+        "English",
+        "French",
+        "German",
+        "government",
+        "Graphic",
+        "materials",
+        "Access",
+        "Excel",
+        "Microsoft Office",
+        "PowerPoint",
+        "Word",
+        "posters",
+        "processes",
+        "read",
+        "research",
+        "Spanish",
+        "welding"
+    ],
+    "experience": [
+        {
+            "title": "Digital Designer",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Many designs in High School, and posted them around school. Made many portfolios, and animated designs. Created posters, and 2 dimensional designs."
+        },
+        {
+            "title": "Technical Director",
+            "company": "Company Name",
+            "start_date": "July 2009",
+            "end_date": "April 2011",
+            "description": "Implemented new or enhanced methods and processes for the processing, testing, or manufacture of nanotechnology materials or products. Collected and compiled nanotechnology research and engineering data. Supervised or provided technical direction to technicians engaged in nanotechnology research or production. Assembled components, using techniques such as interference fitting, solvent bonding, adhesive bonding, heat sealing, and ultrasonic welding."
+        },
+        {
+            "title": "Sr. Technical Engineer",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "July 2009",
+            "description": "Assisted civil engineers on several key government projects involving roadway designs and improvements, solutions easing traffic congestion and replacement of deteriorating bridges. Handled cost-of-materials estimations, report and document tracking, project documentation, on-site project visits, invoice/agreement verification and building permit applications. Gained experience in blueprint reading, as well as preparation of maps and plans."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Elky High Elklan",
+            "year": 2006
+        },
+        {
+            "degree": "Bachelor of Science in Civil Engineering",
+            "school": "Foothill University",
+            "year": 2010
+        },
+        {
+            "degree": "Engineer in Training (EIT) Certification",
+            "school": "City, State",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        "Engineer in Training (EIT) Certification"
+    ],
+    "languages": [
+        "German",
+        "French",
+        "English",
+        "Spanish"
+    ]
+}

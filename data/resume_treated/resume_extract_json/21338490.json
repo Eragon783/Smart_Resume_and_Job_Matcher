@@ -1,0 +1,120 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Over 18 years of experience in accounting and finance including audit, financial analysis, bank reconciliations, accounts payable/receivable, financial statements, month- and year-end reporting, and budgeting. Proficient in MS Word, PowerPoint, Outlook, Access, and Excel (Advanced); experience with Creative Solutions, QuickBooks, Fidelio (Hotels), Sales Tax Express, and other proprietary accounting software.",
+    "skills": [
+        "Account reconciliation",
+        "accounting",
+        "general accounting",
+        "accounting software",
+        "accounts payable",
+        "accounts receivable",
+        "A/P",
+        "Arabic",
+        "Balance sheet",
+        "bank reconciliations",
+        "banking",
+        "billing",
+        "bookkeeping",
+        "budgeting",
+        "budgets",
+        "closing",
+        "English",
+        "Equity",
+        "finance",
+        "financial analysis",
+        "analyze financial statements",
+        "Fixed Assets",
+        "forecasting",
+        "general ledger",
+        "GL",
+        "inventory",
+        "Investments",
+        "Access",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "MS Word",
+        "payables",
+        "payroll",
+        "problem solving",
+        "processes",
+        "Profit",
+        "Profit and loss account",
+        "Public Accounting",
+        "Express",
+        "QuickBooks",
+        "reporting",
+        "Sales",
+        "Swedish",
+        "Tax",
+        "tax returns",
+        "year-end"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "June 2013",
+            "end_date": "Present",
+            "location": "City, State",
+            "description": "Responsible for all accounting processes for 45 clients. Perform end-of-period closing processes; prepare financial statements, and budgets. Reconcile bank statements, ledger entries and journal entries. Balance sheet account analysis and Profit and loss account and review them. Prepare and analyze financial statements and other various reports. Collection functions for accounts receivables & payables. Assist in budget and forecast preparation. Ability to manage multiple projects, priorities, deadlines and budgets. Working with others on Team to complete client service tasks timely and accurately. Review general ledger and make all correcting journal entries. Support month-end and year-end close process including reconciliation of ledger account. Complete and submit food and sales tax license documentation for small businesses."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "February 2008",
+            "end_date": "March 2013",
+            "location": "City",
+            "description": "Performed bookkeeping, end-of-period closing process, prepared financial statements, and budgets. Managed company financial systems and budget and organized and maintained accurate accounting records. Prepared company accounts and tax returns for audit. Prepare monthly department allocations and related journal entries, as needed. Prepare and publish timely monthly financial statements and supporting reports. Plans and supervises the work of an accounting unit engaged in the maintenance of Complex accounting. Records and other activities related to payments of and invoices. Support month-end and year-end close process including reconciliation of ledger account. Evaluates job performance and monitors and adjusts work load assignments to meet organizational deadlines."
+        },
+        {
+            "title": "Accounting Manager",
+            "company": "Company Name",
+            "start_date": "January 2000",
+            "end_date": "January 2007",
+            "location": "City",
+            "description": "Journal Entries including maintenance of recurring journal entries and allocations. Account reconciliation and analysis: Prepaid Expenses, Deposits, Accrued Expenses, Investments, Capital Leases, Members Equity, Inter-company balances. Journal Entries including maintenance of recurring journal entries and allocations. Management and supervision of general accounting, intercompany accounting, and payroll accounting personnel including assigned supervisors, senior accountants and staff accountants as well as external resources utilized for projects on an as needed basis. Report on breakeven points by products. Report on margins by product and division. Planning and collecting data to determine costs of business activity such as raw material purchases, inventory and labor. Calculating the job orders."
+        },
+        {
+            "title": "Staff Accountant / Finance Manager",
+            "company": "Company Name",
+            "start_date": "January 1996",
+            "end_date": "January 2000",
+            "location": "City",
+            "description": "Ensure an accurate and timely monthly, quarterly and year end close. Prepares working papers and coordinate all audit activity. Provide guidance of all accounting processes including billing, A/R, A/P, GL. Fixed Assets and Revenue/Expense recognition. Controller the daily banking requirements. Supports budget and forecasting activities. Provide training to new and existing staff as needed."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Accountancy",
+            "school": "Walsh College",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Accountancy",
+            "school": "Al Turath University",
+            "year": 1998
+        },
+        {
+            "degree": "Bachelor of Accountancy",
+            "school": "Unknown",
+            "year": 2010
+        },
+        {
+            "degree": "Certificate of Business Administration",
+            "school": "Stockholm University / Svenska Börsrum Institute, Sweden",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "Certificate of Business Administration"
+    ],
+    "languages": [
+        "English",
+        "Arabic",
+        "Swedish"
+    ]
+}

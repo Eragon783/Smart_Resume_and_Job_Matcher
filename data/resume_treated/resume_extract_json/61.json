@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "TelAviv",
+    "summary": "Frontend software engineer with experience in React, Redux, and TypeScript. Experienced in UI/UX features, unit testing, code reviews, SCRUM, and cross-team collaboration across EPAM Systems and UniqTrip projects.",
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "React",
+        "Redux",
+        "HTML",
+        "CSS",
+        "SCSS",
+        "Material-UI",
+        "Bootstrap",
+        "Jest",
+        "Enzyme",
+        "React Testing Library",
+        "Figma",
+        "Scrum",
+        "Jira",
+        "Git",
+        "Azure",
+        "Postman",
+        "Docker",
+        "MongoDB",
+        "Express"
+    ],
+    "experience": [
+        {
+            "title": "D2 (Middle) Software Engineer",
+            "company": "EPAM Systems",
+            "start_date": "2022",
+            "end_date": "2022",
+            "description": "Worked on DuPage Medical Clinic of the Future and Marionnaud France Digital Factory projects; responsibilities included features and UX implementation, unit testing, code reviews, issue identification and bug fixing, SCRUM participation, writing code specifications, and cross-team collaboration."
+        },
+        {
+            "title": "Junior Web Developer",
+            "company": "UniqTrip",
+            "start_date": "2021",
+            "end_date": "2022",
+            "description": "Contributed to five projects in Tourism, Booking and Construction; responsibilities included features and UX implementation, responsive UI layout, API development, structure design, issue identification and bug fixing, and unit testing. Tech scope included React (Router, Redux), JavaScript, TypeScript, Figma, Trello, Gitlab, Postman, Material UI, HTML/CSS, Node.js."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MSc joint degree program in Public History",
+            "school": "The Moscow School of Social and Economic Sciences and University of Manchester (UK)",
+            "year": "2015 - 2016"
+        },
+        {
+            "degree": "Specialist (M.Sc. analogue) in Economics and Management",
+            "school": "Ryazan State Radio- Engineering University (Russia)",
+            "year": "2000 - 2005"
+        },
+        {
+            "degree": "B.A (classical music)",
+            "school": "Ryazan State Musical College (Russia)",
+            "year": "1996 - 2000"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Russian (Native)",
+        "English (Upper-Intermediate)"
+    ]
+}

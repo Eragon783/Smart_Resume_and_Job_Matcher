@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced, detail-oriented Program Manager with excellent communication, problem solving and strategic planning skills. Passionate about networking, community engagement, building partnerships, training, and educational equity.",
+    "skills": [
+        "Training",
+        "Conference Organization",
+        "Microsoft Office Suite",
+        "Non-profit management",
+        "Curriculum design",
+        "Data-driven instruction",
+        "Diversity and inclusion",
+        "Public speaking",
+        "Project management",
+        "Community outreach",
+        "Policy understanding"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "2015-09",
+            "end_date": "2017-07",
+            "description": "Knowledge and understanding of DPS practices, framework, and mission. Collaborate with school administration, and Denver Public School leadership. Data driven instruction and curriculum design. Understanding of educational policy locally and nationally. Engaged with immigrant and refugee families, community leaders, and pre-collegiate programs for students in the Metro Denver area."
+        },
+        {
+            "title": "Service Learning Coordinator",
+            "company": "Company Name",
+            "start_date": "2013-11",
+            "end_date": "2014-09",
+            "description": "Created curriculum focused on job shadowing and experiential learning. Worked closely with parents and community to create engaging service opportunities. Planned trainings, conferences, and events around community engagement and service learning. Identified and recruited a broad range of speakers. Spoke on service learning and expeditionary learning panels. Managed budget."
+        },
+        {
+            "title": "English Teacher",
+            "company": "Company Name",
+            "start_date": "2012-08",
+            "end_date": "2013-10",
+            "description": "Worked with Japanese government to expand US and Japanese foreign relations. Taught high school students. Created and facilitated intercultural communication classes for adults."
+        },
+        {
+            "title": "Site Director",
+            "company": "Company Name",
+            "start_date": "2010-08",
+            "end_date": "2012-08",
+            "description": "Coordinated educational before and after school programs for over 250 students and their families. Managed adult and parent engagement classes and events. Created internship and job shadow opportunities. Partnered with Metro State, CU Boulder, University of Denver to create college preparedness workshops. Worked with Playworks, focused on conflict and dispute resolution and restorative justice. Trained in conflict and dispute resolution, mentoring, and restorative justice. Coordinated summer programs, hired and trained staff. Deep understanding of diversity and inclusion efforts in public education. Provided professional development opportunities to staff, mentors, and school administration. Facilitated trainings on diversity, homelessness, race, and restorative justice."
+        },
+        {
+            "title": "Program Manager",
+            "company": "Company Name",
+            "start_date": "2007-12",
+            "end_date": "2010-08",
+            "description": "Created pilot mentoring program for six urban schools funded by the Department of Education. Created job shadows and internships with local businesses. Gathered and analyzed data on community needs and interests. Solicited contributions and participation from local businesses to promote and improve community events and activities. Collaborated with community leaders, organizations and public agencies to promote the organization's community service programs. Monitored program budgets and costs to verify expenses were within budget parameters. Presented program developments to the community, city council and city manager. Collected and entered statistical data into databases."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MA, Education",
+            "school": "University of Denver",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelor of Science, Political Communications",
+            "school": "Emerson College",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        "Colorado Teaching Certification ELA-E",
+        "Conflict and Dispute Resolution Certification"
+    ],
+    "languages": []
+}

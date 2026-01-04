@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "Arizona, United States",
+    "summary": "Fitness-focused event coordinator with experience managing large-scale running events, volunteer teams, sponsorships, and community outreach. Highly organized and a strong problem solver with excellent communication, leadership, and time management skills under changing conditions.",
+    "skills": [
+        "POS systems experience",
+        "Microsoft Office / Excel",
+        "Scheduling systems and event planning",
+        "Google Drive (G-Drive) applications",
+        "Problem solving",
+        "Team leadership / staff coordination",
+        "Time management",
+        "Event marketing / grassroots outreach",
+        "Customer service / guest relations"
+    ],
+    "experience": [
+        {
+            "title": "Adventure Run Coordinator",
+            "company": "Road Runner Sports",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Coordinate two Arizona Adventure Run events; manage event permitting, charity beer garden, sponsorships and vendors; oversee setup/teardown; host events for approximately 500 attendees; supervise up to 25 volunteers and communicate with staff; promote events within the running and fitness community and handle unexpected obstacles with calm, high energy."
+        },
+        {
+            "title": "Grassroots Marketing Representative",
+            "company": "Road Runner Sports",
+            "start_date": "2013-05",
+            "end_date": "Present",
+            "description": "Community outreach for Arizona stores; book group runs and clinics, coordinate local race packet pickups, engage gyms and vendors for partnerships; manage own schedule and store event calendars and budgets."
+        },
+        {
+            "title": "Cash Wrap",
+            "company": "Road Runner Sports",
+            "start_date": "2011-10",
+            "end_date": "2013-05",
+            "description": "Assist customers with product recommendations, answer questions, and handle checkout; multitask handling phone inquiries and in-store interactions."
+        },
+        {
+            "title": "Operations",
+            "company": "Road Runner Sports",
+            "start_date": "2011-01",
+            "end_date": "2012-09",
+            "description": "Greet and check-in gym members; answer calls, assist with concerns, schedule appointments, manage memberships; multitask with leadership and a customer-first mindset; promote healthy lifestyle at the workplace."
+        },
+        {
+            "title": "Front Desk Fitness Attendant",
+            "company": "Road Runner Sports",
+            "start_date": "2006-04",
+            "end_date": "2011-01",
+            "description": "Summer Kid's Camp advisor; organize daily activities, oversee lunch and swim sessions; support team events; perform front desk duties, promotions, staff coordination, and customer service; assist with sales, snack bar, and facility upkeep."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Psychology and Sociology",
+            "school": "Arizona State University",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

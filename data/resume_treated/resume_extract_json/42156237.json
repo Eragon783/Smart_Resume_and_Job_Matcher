@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": " Highly analytical and process-oriented data analyst with in-depth knowledge of marketing project management, data manipulation and visualization. Furnish insights, analytics and business intelligence to advance opportunity identification, process reengineering and corporate growth.",
+    "skills": [
+        "budget",
+        "BI",
+        "content",
+        "clients",
+        "database",
+        "English",
+        "ETL",
+        "German",
+        "Google Analytics",
+        "Hindi",
+        "HTML",
+        "PHP",
+        "JavaScript",
+        "marketing",
+        "market",
+        "MS Access",
+        "MS Excel",
+        "MS Project",
+        "Minitab",
+        "MySQL",
+        "optimization",
+        "profit",
+        "progress",
+        "Punjabi",
+        "Python",
+        "reporting",
+        "sales",
+        "SQL",
+        "Tableau",
+        "TSQL",
+        "Visio"
+    ],
+    "experience": [
+        {
+            "title": "Senior Digital Marketing Analyst",
+            "company": "Company Name",
+            "start_date": "2016-07",
+            "end_date": "Present",
+            "description": "Design and build dashboards to help analyze, monitor and visualize key performance metrics. Interpret data, extract trends and identify insights or opportunities for product decisions. Design and monitor end-user reporting tools and systems, ensuring reports are accurate and up-to-date. Work with internal stakeholders and teams across the company. Accomplishment: A 30% increase in revenue by segmenting, resulting in an incremental $2M profit."
+        },
+        {
+            "title": "Web Analyst",
+            "company": "Company Name",
+            "start_date": "2014-02",
+            "end_date": "2016-03",
+            "description": "Extracted, transformed and loaded (ETL) customer data using code that was developed. using SQL. Built dashboards to monitor and control marketing efforts. Helped identify and repair datasets that are incomplete, inconsistent, or require cleaning. Handled internal customer data inquiries, data investigations, or other information requests from project teams. Helped investigate and understand available data sources on the market to solve customer site content challenges. Accomplishment: A 20% optimization in marketing cost by re-allocating $2M budget to profitable areas."
+        },
+        {
+            "title": "Web Developer",
+            "company": "Company Name",
+            "start_date": "2002-06",
+            "end_date": "2005-08",
+            "description": "Developed customized web solutions using PHP, HTML, and JavaScript for clients. Created database structures, relationships, and data types in MySQL and MS Access. Accomplishment: Increase of 22% in sales by increasing overall visitor traffic by over 400K."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "University of Redlands",
+            "year": 2013
+        },
+        {
+            "degree": "Bachelor of Sciences",
+            "school": "University of Hamburg",
+            "year": 2007
+        },
+        {
+            "degree": "College - Berufsschule",
+            "school": "City Nord",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "German",
+        "Hindi",
+        "Punjabi"
+    ]
+}

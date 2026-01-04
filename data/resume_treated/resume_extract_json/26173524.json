@@ -1,0 +1,71 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Results-oriented business professional with a track record in strategic planning, program implementation and operation within set timeframes, volunteer management, analytical thinking and problem solving, and strong communication across all levels of an organization.",
+    "skills": [
+        "Strategic planning",
+        "Program management",
+        "Program implementation",
+        "Volunteer management",
+        "Analytical thinking",
+        "Problem solving",
+        "Communication (written & oral)",
+        "Team collaboration",
+        "Organization",
+        "Self-motivation / initiative",
+        "Onboarding",
+        "Client relations / customer service",
+        "Data / database management",
+        "Event planning",
+        "Public relations",
+        "Marketing concepts"
+    ],
+    "experience": [
+        {
+            "title": "Client Service Specialist",
+            "company": "Company Name",
+            "start_date": "Sep 2012",
+            "end_date": "Current",
+            "description": "Responsible for the analysis, troubleshooting and resolution of second-level service desk incidents. Plan and manage program implementation for new clients; facilitate on-line registration for members and ensure all eligible members have access to website. Manage administrative/database functions for health screenings, resolve screening issues and maintain accessibility of member accounts. Work with implementation & account managers to plan on-boarding of new clients, also ensure all account requirements are met before client go-live. Research strategies to enhance client relationships. Facilitate and ensure loading of all eligible members into database, within 24 hours. Streamline all processes to ensure scalability and position company for doubled growth; maintain competitive market operations while accommodating client customizations."
+        },
+        {
+            "title": "Public Relations & Event Planning Intern",
+            "company": "Company Name",
+            "start_date": "Sep 2011",
+            "end_date": "Jun 2012",
+            "description": "Led various project management life cycles inclusive of planning phases, event planning and management, and outreach program implementation; supported project execution via management and maintenance of foundation database. Facilitated recruitment processes and supervised performances for qualified volunteers supporting signature events and fundraising efforts; adapted to intensive scheduling requirements and maintained efficiencies in performance and program execution. Designed outreach materials and coordinated distribution to general public; provided details and information regarding participation in organizational programs and initiatives. Solicited donations from sponsors by means of products and services."
+        },
+        {
+            "title": "Marketing Assistant",
+            "company": "Company Name",
+            "start_date": "May 2011",
+            "end_date": "Aug 2011",
+            "description": "Oversaw Customer Rewards Program development, execution, and long-term management, which enabled motivational incentives to high-performing clients, resulting in increased company loyalty; key facilitator for design and implementation of marketing concepts and materials. Managed and maintained client database systems, and oversaw communications and reporting functions for proactive alignment of companywide goals. Improved personal production with concurrent task management and added value to marketing strategies with consultation and new concepts. Gained subject matter expertise regarding Prinaj product line to facilitate proactive management of client issues and expedited resolution of key service issues."
+        },
+        {
+            "title": "Public Relations Associate",
+            "company": "Company Name",
+            "start_date": "May 2009",
+            "end_date": "Jul 2010",
+            "description": "Orchestrated design, implementation, and ongoing management of multiple customer relations training programs in individually tailored compliance with client specifications; pro-actively reviewed and restructured programs to align with evolving needs and resolve unforeseen issues. Monitored pending hits and clips and assisted compilation of quarterly media reports in support of senior staff decision making. Responded to and managed media inquiries and requests; secured expert resources and co-developed press materials and reactive media responses. Cultivated and grew beneficial relationships with media entities and third party organizations to streamline liaising and communicative efforts with all clientele. Honored recipient of the Timex Communications Excellence Award."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science, Integrated Marketing Communications",
+            "school": "Roosevelt University",
+            "year": "2012"
+        },
+        {
+            "degree": "Bachelor of Arts, Mass Communications",
+            "school": "Babcock University",
+            "year": "2009"
+        }
+    ],
+    "certifications": [
+        "Timex Communications Excellence Award (2010)"
+    ],
+    "languages": []
+}

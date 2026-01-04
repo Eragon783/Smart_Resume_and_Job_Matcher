@@ -1,0 +1,106 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Birmingham, Alabama, USA",
+    "summary": "Professional Account Manager with a track record in building strategic networks, increasing sales revenues, and maintaining strong customer relationships. Skilled in prospecting, cold calling, leadership, MS Office, project management, and delivering technology-focused solutions.",
+    "skills": [
+        "advertising",
+        "arts",
+        "auditing",
+        "branding",
+        "Business Administration",
+        "C",
+        "Cable",
+        "consultant",
+        "client",
+        "clients",
+        "customer relations",
+        "client liaison",
+        "direction",
+        "financial statements",
+        "image",
+        "employee management",
+        "managing",
+        "marketing",
+        "market",
+        "meetings",
+        "office",
+        "monitors",
+        "page layout",
+        "personnel",
+        "processes",
+        "Project Design & Development",
+        "promotion",
+        "Public Relations",
+        "quality",
+        "receiving",
+        "repairs",
+        "Research",
+        "retail",
+        "sales",
+        "strategic",
+        "supervisor",
+        "supervisory",
+        "Telephone",
+        "user interface design",
+        "vision",
+        "Web sites",
+        "MS Office",
+        "Project management",
+        "PowerPoint",
+        "Leadership",
+        "communication",
+        "interpersonal skills",
+        "customer service"
+    ],
+    "experience": [
+        {
+            "title": "Martial Arts Instructor/Client",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2012-05",
+            "description": "Instruct students in varied martial arts techniques; prepare and distribute detailed monthly, quarterly and yearly reports to clients; provide information to clients; prepare client meeting reports; provide support to management teams; audit all client liaison active accounts; revise submission and accounts closure applications; develop liaison with client service and collection department to provide required information and acquire necessary documents; revise and distribute contractual referrals; provide feedback to management on areas of improvements; implement enhanced processes; grew customer base from 13 accounts to 34 accounts in 2 years."
+        },
+        {
+            "title": "Account Service Representative II/Tech",
+            "company": "Company Name – State",
+            "start_date": "2012-01",
+            "end_date": "2014-05",
+            "description": "ASR II responsible for achieving sales goals and customer satisfaction at designated retail locations; demonstrates a strong aptitude and knowledge of technology personalized to each customer's needs; developed in-store promotions; maintained customer satisfaction surveys; promoted within to Level II (key holder/assistant manager)."
+        },
+        {
+            "title": "Property Manager / Leasing Manager",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2012-12",
+            "description": "Supervise and assist staff; train leasing staff; ensure building and office coverage; approve time off requests; manage tenant relations; inspect properties; monitor vendors; process work orders; coordinate lease terminations, preliminary inspections, and turnover; provide property tours; coordinate marketing and advertising; oversee budgets and financial statements; maintain market-ready condition of vacant units; manage delinquencies and collections."
+        },
+        {
+            "title": "Project Design & Development Lead",
+            "company": "Henderson-Thomas",
+            "start_date": "2014-05",
+            "end_date": null,
+            "description": "Discover, design and build new user experiences to drive the next generation of portals, applications and Web properties, including mobile. Design visually stunning graphics, animations and interactions for Web sites, portals and applications. Produce visual assets needed by development team. Contribute to building the Company brand on portals, applications, mobile apps and Web sites by executing user interface design consistently on all deliverables. Refine low to high-fidelity wireframes into designs for the information architecture, navigational models, process flows, page layout, information displays and interactional components based on user research and in partnership with user experience interaction designers. Research and communicate trends and best-practices related to visual design and branding. Responsible for achieving sales goals and customer satisfaction standards at designated retail locations. ASRs must demonstrate a strong aptitude and knowledge of all things technology personalized to each customer's needs, and project an energetic and upbeat professional image. This position is also responsible for integrating technology into the consumer's life with amazing ease and effectiveness. ASR II is also charged with extra supervisory duties such as key holding and employee management and inventory auditing. Developing and maintaining in-store promotions, and coordinating with appropriate personnel. Implementing and managing wireless sales events. Provide positive reinforcement and adult learning techniques to promote learning and skill improvement. Participated in Fiber to The Home installations. Promoted group activities and continuously met quotas and passed customer experience surveys and mystery shops. Gained promotion to level II (key holder/assistant manager) based on experience and performance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Business (Entrepreneurship)",
+            "school": "Auburn University",
+            "year": 2014
+        },
+        {
+            "degree": "High School Diploma: Math & Science",
+            "school": "Alabama School of Math & Science",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        "Employee of the Month – C Spire (February 2014)",
+        "C Spire Employee of the Quarter Award, Q1 2014"
+    ],
+    "languages": [
+        "English"
+    ]
+}

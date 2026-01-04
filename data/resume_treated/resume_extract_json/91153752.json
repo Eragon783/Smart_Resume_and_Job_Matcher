@@ -1,0 +1,85 @@
+{
+    "name": "Y",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Combined with work experience in Architecture to move forward with a new career in User-Centered Design. The priority is to create great experiences for users while always keeping in mind company needs and goals.",
+    "skills": [
+        "Sketch",
+        "Illustrator",
+        "Photoshop",
+        "Indesign",
+        "Invision",
+        "Omnigraffle",
+        "HTML5",
+        "After Effects",
+        "Keynote",
+        "Revit",
+        "Rhino",
+        "AutoCAD",
+        "Watercolor",
+        "Bluebeam",
+        "Design Thinking",
+        "UI/UX",
+        "Graphic Design",
+        "Story Boarding"
+    ],
+    "experience": [
+        {
+            "title": "Freelance UX/UI Interaction Designer",
+            "company": "Company Name",
+            "start_date": "Apr 2017",
+            "end_date": "Current",
+            "description": "LegalChat App Design — Created Interactive Prototypes, Low to High-Fidelity Wireframes, logic flows, visual design and Icon. Provided content strategy, UI design direction, User experience design."
+        },
+        {
+            "title": "Freelance UX Researcher",
+            "company": "Company Name",
+            "start_date": "Apr 2017",
+            "end_date": "May 2017",
+            "description": "Usability Testing for Airbrush App. Scheduled and conducted remote usability tests to observe user behavior on interaction. Discovered insights and created infographic report for company."
+        },
+        {
+            "title": "UX/UI Designer",
+            "company": "Company Name",
+            "start_date": "Mar 2017",
+            "end_date": "Apr 2017",
+            "description": "Website Redesign for Bay Area Chinese Musician Association. Produced content strategy, UI design direction, and user experience design. Deliverables included heuristic evaluation of current site, competitive research, persona creation, site map, low to High-Fidelity Wireframes."
+        },
+        {
+            "title": "Architectural Designer",
+            "company": "Company Name",
+            "start_date": "Aug 2015",
+            "end_date": "Apr 2017",
+            "description": "Architectural design specializing in educational projects. Teamed with Senior Designer, Project Manager and consultants, created design product for educational projects (LACCD, USC, UCLA). Created material schedules and furniture specification, meet with college users and furniture consultants to improve users' experience."
+        },
+        {
+            "title": "Lead Graphic Designer",
+            "company": "Company Name",
+            "start_date": "Sep 2009",
+            "end_date": "May 2010",
+            "description": "Design for University IMechE Student Chapter. Established 1st IMechE (Institution of Mechanical Engineers) Student Chapter in China, organised national presentation competitions. Created designs for marketing solutions, such as billboards, logos, shop signs, printable & movable ads and more."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arch and Design",
+            "school": "University of Michigan",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelor of Engineering",
+            "school": "University of Nottingham",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        "User Experience Design Certificate with Honors - BitTiger, 2017",
+        "Interaction Design Specification Certificate - UC San Diego (on Coursera), 2016-2017",
+        "Leadership in Energy and Environmental Design Accredited Professional (LEED AP) - USGBC, 2017",
+        "The BP Achievement Award - BP, 2011"
+    ],
+    "languages": [
+        "Mandarin"
+    ]
+}

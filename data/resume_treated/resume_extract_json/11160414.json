@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Marketing manager and writer with a comprehensive background in strategic marketing communications across platforms to drive customer acquisition and retention. Skilled in brand development, multi-media marketing, CRM management, copywriting, direct mail, email campaigns, social media, and public relations.",
+    "skills": [
+        "Business strategy",
+        "content creation and management",
+        "email marketing",
+        "social media",
+        "public relations"
+    ],
+    "experience": [
+        {
+            "title": "VP Marketing & Communications",
+            "company": "Company Name",
+            "start_date": "November 2015",
+            "end_date": "Present",
+            "description": "Develop marketing strategy and business plan for a creative agency promoting ecological consciousness of the sea and supporting the coastal business community. Manage all marketing and communication programs. Cultivate business leads to expand market. Create content and email marketing, press releases, and social media posts."
+        },
+        {
+            "title": "Research Advocate",
+            "company": "Company Name",
+            "start_date": "March 2012",
+            "end_date": null,
+            "description": "Review grants proposals for cancer research providing perspective and recommendations. Present critiques to panel of research scientists at Peer Review meetings in Washington, DC."
+        },
+        {
+            "title": "Account Executive",
+            "company": "Company Name",
+            "start_date": "June 2013",
+            "end_date": "November 2015",
+            "description": "Email and social media marketing management. Researched markets and worked with lead vendors, then executed, tested and analyzed targeted marketing campaigns using a variety of email service platforms for programs contributing to increased sales up to 80% year over year for a 118-store retail chain."
+        },
+        {
+            "title": "Marketing Campaign Manager",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": null,
+            "description": "Create and present strategic proposals to business leaders and manage all facets of clients' marketing programs including website, video, social media, infographics, advertising and public relations."
+        },
+        {
+            "title": "Sr. Marketing Project Manager",
+            "company": "Company Name",
+            "start_date": "October 1988",
+            "end_date": "February 2012",
+            "description": "Customer Retention Manager – Exceeded corporate customer retention goal by launching multi-channel retention programs geared toward distinct sales and customer segments. Led MetLife publications and digital properties to increase retention and referrals, promote safety and reduce claim losses. Managed a range of marketing initiatives across multiple sales channels, including product launches and safety programs."
+        },
+        {
+            "title": "Correspondent",
+            "company": "Company Name",
+            "start_date": "January 1988",
+            "end_date": "January 2000",
+            "description": "Reported on and wrote local interest stories. Columnist for monthly food and entertainment feature entitled \"RSVP\" which ran for five years."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Communication",
+            "school": "University of Pittsburgh",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts in Business",
+            "school": "University of Pittsburgh",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Associate of Insurance Service (AIS)",
+        "Associate of Personal Insurance (API)"
+    ],
+    "languages": []
+}

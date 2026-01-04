@@ -1,0 +1,38 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Energetic, resourceful, and results-driven professional. Skilled at working effectively both independently and collaboratively as part of a team within fast-paced environments to complete projects and responsibilities while adhering to deadlines and quality standards.",
+    "skills": [
+        "EPIC",
+        "Microsoft Office Suite (Word/Excel/PowerPoint)",
+        "Healthcare Systems",
+        "Insurance/Billing",
+        "Sorian Scheduling",
+        "Health/Medical Records",
+        "Research",
+        "Reports",
+        "Databases",
+        "Data Analysis",
+        "PCs/Windows Applications"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Associate",
+            "company": "Company Name",
+            "start_date": "February 2002",
+            "end_date": "Current",
+            "description": "Maintain full responsibility for demonstrating initiative, strong leadership and communication skills, and medical and healthcare knowledge to support efficient and productive day-to-day operations. Directly accountable for a diversity of patient/unit support activities including scheduling and discharge, coordinating admission packages, arranging transportation, completing unit work orders, maintaining inventory, and preparing patient unit census. Monitor and improve individual performance in all areas to ensure adherence to the highest levels of customer/patient service, productivity, efficiency, leadership, teamwork, and work quality at all times. Excellent capacity to meet deadlines, build rapport with individuals from diverse backgrounds, and to support practice objectives by facilitating an environment that consistently achieves/exceeds expectations. Responsible for maintaining professional and courteous communications, demeanor, and interactions with patients and medical staff while continuously seeking ways to provide value-added service and support. Maintain files, documents, databases, and records to provide highly reliable information quickly and use well-developed interpersonal skills to respond effectively to both internal and external requests/inquires. Communicate clearly and effectively, use strong coordination and prioritization skills to complete work, and exercise independent judgment and decision making abilities to help facilitate smooth operations. Strong organizational, time management, and multi-tasking skills with ability to prioritize work. Use well developed interpersonal skills to work effectively with clients, co-workers, and all levels of management. Accept new assignments and responsibilities with a positive, cooperative, and team-oriented attitude. Complete all tasks and projects in the most efficient manner possible and exercise independent decision making. Recognized by management for anticipating problems, presenting effective solutions/recommendations, team collaboration and leadership, exceeding work expectations, and consistently delivering outstanding results."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA Healthcare Management",
+            "school": "American InterContinental University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

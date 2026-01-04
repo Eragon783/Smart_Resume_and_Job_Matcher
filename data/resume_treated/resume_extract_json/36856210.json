@@ -1,0 +1,60 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dedicated Information Assurance Professional well-versed in analyzing and mitigating risk and finding cost-effective solutions. Excels at boosting performance and productivity by establishing realistic goals and enforcing deadlines. Versatile IT professional with 37 years of Enterprise design and engineering methodology.",
+    "skills": [
+        "Active Directory",
+        "Hardware Engineering",
+        "Information Technology",
+        "Red Hat Enterprise Linux",
+        "Servers",
+        "MS Windows Servers",
+        "MS Windows Desktop",
+        "Network Design & Troubleshooting",
+        "Architectural Diagrams",
+        "Accreditation Boundaries",
+        "Risk Management",
+        "Enterprise Strategies",
+        "Vendor Relations",
+        "Desktop Publishing Software",
+        "Photoshop",
+        "Illustrator",
+        "HTML",
+        "Team Work",
+        "Collaboration"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology",
+            "company": "Company Name",
+            "start_date": "02/2011",
+            "end_date": "Current",
+            "description": "Hired to manage accreditation efforts for a major department modernization project involving 3 accreditation packages, leading to successful Authorization To Operate (ATO) decisions. Responsibilities expanded to include all departmental accreditation efforts, delivering additional ATOs. Currently working on 4 new accreditations including re-authorization. Wrote and implemented vulnerability management for existing accredited systems. Coordinated with ONI Enterprise on critical design decisions to integrate the program into the Enterprise. Ensured STIG compliance and hardening for various configurations and services. Analyzed complex computer systems to assess vulnerability and risk. Supervised 5 external computer consultants and vendors. Managed application patches, data backups, security changes, and network configuration."
+        },
+        {
+            "title": "Systems Engineer",
+            "company": "Company Name",
+            "start_date": "02/2006",
+            "end_date": "02/2011",
+            "description": "Initiated processing strategies to fulfill department analyst requirements. Identified product problems and strengths, collected data on customer experience, and reviewed Enterprise compliance to transition to new technology. Improved local storage design to exceed 200TB, saving over a million dollars in purchasing and maintenance costs. Designed, purchased, and accredited a Red Hat Linux high compute cluster for Enterprise operation. Improved big data analytical processing, reducing processing time from 30 hours to 30 minutes and enabling richer data analysis with higher sensor, frequency, and range selections."
+        },
+        {
+            "title": "Senior Systems Analyst",
+            "company": "Company Name",
+            "start_date": "02/1999",
+            "end_date": "02/2006",
+            "description": "Improved corporate and client communications and processing requirements; designed, built, and deployed three Enterprise network solutions, including support for Washington Navy Yard, Norfolk Virginia, and Hawaii facilities. Identified and documented network software/hardware weaknesses and developed preventive strategies to avoid interruptions and increase security; documented system layouts, wiring diagrams, and addressing schema to inform upper management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science in Electronic Engineering",
+            "school": "Florence Darlington Technical School",
+            "year": "1980"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Cleveland, Ohio area",
+    "summary": "Attorney with 25+ years of experience in contracts, divorce mediation, elder care, employment, estates, family law, probate, property law, trusts, and wills; strong mediator, negotiator, and advisor in business transactions; founder/director of mediation programs; skilled in research, writing, and trial preparation.",
+    "skills": [
+        "leadership",
+        "communication",
+        "human resources",
+        "negotiations",
+        "mediation",
+        "estate planning",
+        "tax planning",
+        "legal research",
+        "legal writing",
+        "drafting legal documents",
+        "litigation",
+        "management",
+        "probate",
+        "wills",
+        "contracts",
+        "property law",
+        "family law",
+        "elder care",
+        "real estate",
+        "estate administration",
+        "grant proposals",
+        "interviewing",
+        "depositions",
+        "court filings",
+        "research & writing briefs"
+    ],
+    "experience": [
+        {
+            "title": "Owner/Attorney and Mediator",
+            "company": "Company Name",
+            "start_date": "January 2001",
+            "end_date": "Present",
+            "description": "Gathers evidence to formulate defense or initiate legal actions; interviews clients and witnesses; analyzes evidence and applies relevant laws and precedents; conducts depositions and discovery; determines liability; evaluates information from documents; interviews claimants and witnesses; researches laws and precedents; recommends settlements; prepares briefs and appeals; investigates facts; analyzes outcomes; prepares documents; handles probate wills and estate matters; negotiates settlements; advises clients on business transactions and legal rights."
+        },
+        {
+            "title": "Founding & Initial Director",
+            "company": "Company Name",
+            "start_date": "March 1995",
+            "end_date": "June 1996",
+            "description": "Researched and submitted grant proposals to Cleveland and Gund Foundations. Developed forms and procedures to facilitate mediation. Recruited and trained initial mediators; conducted meetings with disputants; clarified issues and needs; used mediation techniques to facilitate communication and guide parties to mutual agreement; prepared mediation agreements."
+        },
+        {
+            "title": "Assistant Director of Law",
+            "company": "Company Name",
+            "start_date": "March 1986",
+            "end_date": "August 1988",
+            "description": "Advised city departments; gathered and analyzed research data; prepared legal briefs and opinions; filed appeals in state and federal courts; arranged depositions and discovery; supported claims and litigation."
+        },
+        {
+            "title": "Manager, Cleveland, OH",
+            "company": "Company Name",
+            "start_date": "June 1976",
+            "end_date": "July 1980",
+            "description": "Promoted through four progressively larger ladies apparel departments; recruited, interviewed, trained, supervised and, at times, fired staff; managed human resources, merchandising, office procedures, operations and sales."
+        },
+        {
+            "title": "Manager, Assistant, Manager-in-Training",
+            "company": "Company Name",
+            "start_date": "August 1976",
+            "end_date": "August 1980",
+            "description": "Managed and trained staff; oversaw human resources, merchandising, office procedures, operations and sales in ladies apparel."
+        }
+    ],
+    "education": [
+        {
+            "degree": "J.D., cum laude, rank 11th",
+            "school": "Cleveland-Marshall College of Law, Cleveland State University",
+            "year": 1983
+        },
+        {
+            "degree": "High School Diploma, College Prep, with Honors",
+            "school": "Normandy High School",
+            "year": 1971
+        },
+        {
+            "degree": "Undergraduate studies",
+            "school": "Cleveland State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Mediation training (over 100 hours), American Mediation Association",
+        "Continuing Legal Education (CLE), annual since 1984"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "name": "John Chris Key",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Productive, quality oriented professional eager to contribute comprehensive skills toward actively supporting a progressive organization as a key team member.",
+    "skills": [
+        "Expedite",
+        "AOG",
+        "Logistics",
+        "Customer Service",
+        "Finance / Accounting",
+        "Sales",
+        "Purchasing",
+        "Inventory Control",
+        "Stores / Warehouse",
+        "Management",
+        "Shipping",
+        "Receiving",
+        "Bookkeeping",
+        "accounting",
+        "Adobe",
+        "Basic",
+        "benefits",
+        "contracts",
+        "delivery",
+        "documentation",
+        "fashion",
+        "legal",
+        "materials",
+        "Excel",
+        "Word",
+        "packaging",
+        "quality",
+        "reporting",
+        "requirement",
+        "Transportation",
+        "Vision"
+    ],
+    "experience": [
+        {
+            "title": "Purchaser / Production Coordinator",
+            "company": "Flightstar",
+            "start_date": "2011-01",
+            "end_date": "Present",
+            "description": "Coordinated production activities by interfacing with leads, project managers, and customer representatives regarding aircraft documentation, parts status, and delivery schedule. Managed aircraft paperwork, work cards during maintenance visits, and ensured proper communication of parts with Purchasing to expedite delivery. Generated daily reports on parts statuses, man hours, and aircraft schedule; interfaced with accounting and quality to ensure payments, billings, and supplier approvals; supported AOG operations and supplier relationships; focused on achieving industry-standard performance and cost savings."
+        },
+        {
+            "title": "Purchasing Clerk / Material Specialist",
+            "company": "Vision Airlines",
+            "start_date": "2009-02",
+            "end_date": "2010-12",
+            "description": "Quoted and purchased materials for Aircraft and Stock; handled Stores / Warehouse, Shipping, and Receiving. Obtained quotes, secured approvals, coordinated shipping and payment, matched invoices to POs, tracked shipments, verified material certification, loaded materials into the system, and issued materials. Maintained records using Excel, Word, and Adobe; supported AOG logistics and maintenance facility representations."
+        },
+        {
+            "title": "Purchasing Agent / Material Expeditor",
+            "company": "Clientlogic (DELL)",
+            "start_date": "2005-02",
+            "end_date": "2009-01",
+            "description": "Expedited material to ensure smooth production flow; coordinated order and shipment processes; sourced price and availability, built relationships with vendors, retrieved required paperwork and certifications, and expedited materials to various departments. Managed AOG orders and supported maintenance and aviation standards across multiple airlines and military customers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Transportation Dangerous Goods Development Group Training Certificate",
+            "school": "Transportation Dangerous Goods Development Group",
+            "year": 2010
+        },
+        {
+            "degree": "Vision Airlines Maintenance Indoctrination Course Training Certificate",
+            "school": "Vision Airlines",
+            "year": 2009
+        },
+        {
+            "degree": "Reduced Vertical Separation Minimum Training Certificate (RVSM)",
+            "school": "Vision Airlines",
+            "year": 2009
+        },
+        {
+            "degree": "TABE - Test of Basic Education (Form 9, Level A, Score 12.9)",
+            "school": "Lake City Community College",
+            "year": 2008
+        },
+        {
+            "degree": "Federal Aviation Certificate of Training \"Gold Award\" Administration Maintenance Technicians Awards Program",
+            "school": "Federal Aviation",
+            "year": 2005
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "State of Florida Department of Education",
+            "year": 2001
+        }
+    ],
+    "certifications": [
+        "Transportation Dangerous Goods Development Group Training Certificate",
+        "Vision Airlines Maintenance Indoctrination Course Training Certificate",
+        "Reduced Vertical Separation Minimum Training Certificate (RVSM)",
+        "TABE - Test of Basic Education (Form 9, Level A, Score 12.9)",
+        "Federal Aviation Certificate of Training 'Gold Award' Administration Maintenance Technicians Awards Program"
+    ],
+    "languages": []
+}

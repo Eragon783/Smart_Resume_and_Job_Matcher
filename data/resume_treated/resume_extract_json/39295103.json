@@ -1,0 +1,119 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Diligent Office Administrative Assistant possessing 25 years of hands-on experience in performing front office duties. A creative problem-solver with outstanding critical thinking abilities. Adept at filing expense reports, managing calendars, and scheduling meetings. Capable of taking the initiative to help others.",
+    "skills": [
+        "administrative",
+        "AP",
+        "AR",
+        "Billing",
+        "conferences",
+        "contracts",
+        "client",
+        "clients",
+        "customer satisfaction",
+        "Customer service",
+        "customer support",
+        "database",
+        "dictation",
+        "senior management",
+        "faxes",
+        "finance",
+        "financial",
+        "human resources",
+        "Invoicing",
+        "notes",
+        "director",
+        "materials",
+        "meetings",
+        "Excel spreadsheets",
+        "Microsoft Excel",
+        "mail",
+        "Microsoft Office",
+        "office",
+        "Microsoft Word",
+        "presentations",
+        "processes",
+        "coding",
+        "proposals",
+        "quality",
+        "receptionist",
+        "reporting",
+        "Scheduling",
+        "spreadsheets",
+        "strategy",
+        "telephone",
+        "Time management",
+        "transportation",
+        "travel arrangements",
+        "upgrades",
+        "web applications",
+        "websites",
+        "year- end"
+    ],
+    "experience": [
+        {
+            "title": "Finance And Accounting Specialist",
+            "company": "Company Name – City , State",
+            "start_date": "11/2005",
+            "end_date": "11/2017",
+            "description": "Collaborated extensively with auditors during preliminary and year-end audit processes. Reconciled financial accounts using Innoprise software. Assisted in the implementation of Innoprise and Water software. Managed all payments processing, invoicing and collections tasks. Processed invoice payments and recorded information in account database. Increased customer satisfaction by greeting visitors promptly and professionally. Improved communication efficiency as primary liaison between departments, clients and vendors. Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information."
+        },
+        {
+            "title": "Buyer",
+            "company": "Company Name – City , State",
+            "start_date": "07/1996",
+            "end_date": "02/2005",
+            "description": "Worked closely with managers to plan buys. Directed transportation initiatives to maximize efficiency. Performed detailed reviewed of high and low performing products. Recommended optimal suppliers after qualifying vendors and evaluating proposals. Negotiated favorable contracts and determined lowest possible cost, factoring in quality and reliability, by analyzing data."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name – City , State",
+            "start_date": "03/1990",
+            "end_date": "05/1995",
+            "description": "Planned travel arrangements, meeting agendas, supplied advance materials and executed follow-up for meetings and team conferences. Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Wrote reports and correspondence from dictation and handwritten notes. Dispersed incoming mail to correct recipients throughout the office. Made copies, sent faxes and handled all incoming and outgoing correspondence. Organized files, developed spreadsheets, faxed reports. Created weekly and monthly reports and presentations. Managed the day-to-day calendar for the company's senior director. Properly routed agreements, contracts and invoices through the signature process. executives and staff. Received and screened a high volume of internal and external communications. Managed daily office operations and maintenance of equipment."
+        },
+        {
+            "title": "Executive Administrative Assistant",
+            "company": "Company Name – City , State",
+            "start_date": "11/1979",
+            "end_date": "06/1985",
+            "description": "Scheduled Board of Directors meetings and assisted with meeting materials and agendas. Maintained and coordinated executive and senior management vacation, day-to-day meeting and travel schedules. Collaborated with other administrative team members, human resources and the finance department on special projects and events. Wrote and distributed meeting minutes to appropriate individuals."
+        },
+        {
+            "title": "Software Tester",
+            "company": "Company Name – City , State",
+            "start_date": "06/1985",
+            "end_date": "11/1989",
+            "description": "Prepared and presented technical proposals for clients. Troubleshooter and resolved web application issues escalated from customer support and other departments with a 100% success rate. Assisted in the monitoring and reporting on websites traffic and performance. Developed application framework that served as the cornerstone for a highly successful thin-client web applications strategy. Designed, documented and executed maintenance procedures, including system upgrades, patch management and system backups. Designed complex interfaces to support third party systems."
+        },
+        {
+            "title": "Booking Clerk",
+            "company": "Company Name – City , State",
+            "start_date": "07/1972",
+            "end_date": "10/1979",
+            "description": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science: Accounting",
+            "school": "Lake Michigan College",
+            "year": ""
+        },
+        {
+            "degree": "Business Associate of Applied Science: Computer Science Accounting",
+            "school": "Milwaukee Area Technical College",
+            "year": ""
+        },
+        {
+            "degree": "Associate of Arts: Material Management",
+            "school": "Houston Community College",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

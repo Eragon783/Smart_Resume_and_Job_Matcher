@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "ASP.NET Web Developer with experience migrating ColdFusion applications to ASP.NET MVC, building dashboards, and leading web development projects. Proficient in SharePoint, MVC, database design, and deployment workflows. Recognized with Associate of the Month and Team of the Month awards.",
+    "skills": [
+        "C#",
+        "ASP.NET",
+        "MVC",
+        "SharePoint 2010",
+        "ASP.NET 4.0",
+        "ASP.NET 3.5",
+        "ASP.NET 2.0",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "SQL Server",
+        "SQL Server Management Studio",
+        "MySQL",
+        "Oracle",
+        "MS Access",
+        "Visual Studio 2008",
+        "Visual Studio 2010",
+        "Visual Studio 2013",
+        "GitHub",
+        "Team Foundation Server",
+        "Visual SourceSafe",
+        "JIRA",
+        "Highcharts"
+    ],
+    "experience": [
+        {
+            "title": "ASP.Net Web Developer",
+            "company": "Company Name",
+            "start_date": "April 2015",
+            "end_date": "Current",
+            "description": "Migration of IU Print website (print.iu.edu) from ColdFusion to ASP.Net using MVC Framework. Create a prototype dashboard for IU Print Analytics module using High Charts."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Company Name",
+            "start_date": "July 2011",
+            "end_date": "July 2014",
+            "description": "Designed and developed an application to migrate legacy data to an ASP.Net application with data validation to meet business rules; designed story boards using HTML and CSS and designed databases; performed code reviews, participated in pair programming, prepared build packages and contributed to integration and deployment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters in Computer Science",
+            "school": "Indiana University - Bloomington",
+            "year": "2014-2015"
+        },
+        {
+            "degree": "Bachelor of Technology in Computer Science and Engineering",
+            "school": "Jawaharlal Nehru Technological University, Andhra Pradesh, India",
+            "year": "2007-2011"
+        }
+    ],
+    "certifications": [
+        "RFA"
+    ],
+    "languages": []
+}

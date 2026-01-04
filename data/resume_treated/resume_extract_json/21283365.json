@@ -1,0 +1,61 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Solutions-oriented IT professional with leadership experience managing a 24x7x365 IT organization and large SaaS environments.",
+    "skills": [
+        "Communication",
+        "Collaboration with clients",
+        "Written communication",
+        "Documentation and reporting",
+        "Project Management",
+        "Technical Support",
+        "Management",
+        "Budget Management",
+        "RFP development and responses",
+        "Cloud Environments",
+        "Design & Implementation",
+        "Network Design & Implementation",
+        "VOIP",
+        "Cyber Security (NIST HITRUST/HIPAA)",
+        "Emerging Technologies"
+    ],
+    "experience": [
+        {
+            "title": "Director of Information Technology",
+            "company": "Adsystech",
+            "start_date": "Sep 2005",
+            "end_date": "Present",
+            "description": "Designed and deployed the first data center and an enterprise SaaS offering; established cyber security policies; built and led teams for data center operations and technical support. Implemented a hybrid cloud environment in 2008 and drove recurring revenue through SaaS."
+        },
+        {
+            "title": "Information Technology Manager",
+            "company": "City organization",
+            "start_date": "Sep 2003",
+            "end_date": "Sep 2005",
+            "description": "Managed a +$120M IT program supporting County Wide Human Service programs. Led a bi-county steering committee for RFP releases and selections; oversaw the 2.5M system rollout for ~2000 users; supervised network design, security, and support teams."
+        },
+        {
+            "title": "Information Technology Manager",
+            "company": "Relax the Back",
+            "start_date": "Sep 1998",
+            "end_date": "Mar 2003",
+            "description": "Managed national POS network across 100+ retail locations and 5 distribution centers; oversaw ERP at manufacturing plant and accounting/HR systems; liaison between vendors, operations, and CFO; responsible for Cisco routers/firewalls, Windows Server, and desktop support."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Information Technology",
+            "school": "California State University, Fullerton (CSUF) – Mihaylo College of Business and Economics",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Science in Information Technology",
+            "school": "University of Phoenix",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

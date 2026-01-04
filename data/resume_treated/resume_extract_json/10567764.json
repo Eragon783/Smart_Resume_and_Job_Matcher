@@ -1,0 +1,90 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Supervisor with experience in corrosion control and aircraft painting, including personnel supervision, safety, hazmat management, and government clearance; proficient in surface preparation, masking, plastic media blasting, painting, and finishing on various aircraft types.",
+    "skills": [
+        "blueprints",
+        "C",
+        "charts",
+        "color",
+        "office",
+        "painting",
+        "paint",
+        "power tools",
+        "publications",
+        "maintain records",
+        "maintain files",
+        "safety",
+        "supervising",
+        "technical manuals",
+        "technician",
+        "welding",
+        "word processing",
+        "aircraft painting",
+        "surface preparation",
+        "masking",
+        "plastic media blasting",
+        "corrosion control",
+        "hazmat",
+        "tool control",
+        "respirator qualified",
+        "stencil application",
+        "blueprint interpretation"
+    ],
+    "experience": [
+        {
+            "title": "Supervisor",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2012-01",
+            "description": "Supervised corrosion control facility; directly responsible for maintenance and upkeep of twelve aircraft paint schemes; supervised three employees; respirator qualified; managed tool control, hazmat inventory, EPA-regulated waste handling, and safety procedures; contributed to 0% accident rate; performed masking, sanding, painting, and finishing on aluminum aircraft components."
+        },
+        {
+            "title": "Administration Clerk",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "Present",
+            "description": "Prepare, type, and route correspondence and reports; organize and maintain files; receive office visits and handle telephone communications; operate computers and word processing; maintain records and official publications."
+        },
+        {
+            "title": "Aircraft Worker",
+            "company": "Company Name",
+            "start_date": "2013-10",
+            "end_date": "2014-06",
+            "description": "Worked on P-3s, T-34s, T-44s, and F/A-18s; masked surfaces; performed plastic media blasting to remove paint and corrosion; stripped and repainted surfaces; prepared surfaces with chemical solutions; mixed and thinned paint; used spray equipment and power tools; performed masking to prevent damage during stripping."
+        },
+        {
+            "title": "Aircraft Painter",
+            "company": "Company Name",
+            "start_date": "2014-11",
+            "end_date": "2015-03",
+            "description": "Painted Boeing 737-777 and Airbus 320; masked surfaces; applied primer and coatings; followed blueprints for stencils and placards; used rollers and brushes; stripped paint with chemicals; prepared surfaces and achieved consistent color/finish."
+        },
+        {
+            "title": "Aircraft Painter",
+            "company": "Company Name",
+            "start_date": "2015-04",
+            "end_date": "2015-10",
+            "description": "Worked on Airbus 319 & 320; masked and repainted surfaces; applied primer and coatings; prepared surfaces; used rollers/brushes; followed color charts and finish specs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Aircraft Coating Technician Certificate",
+            "school": "Florida State College of Jacksonville",
+            "year": null
+        },
+        {
+            "degree": "Welding Certificate",
+            "school": "Tulsa Welding School",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Respirator qualified",
+        "US Government Secret Security Clearance"
+    ],
+    "languages": []
+}

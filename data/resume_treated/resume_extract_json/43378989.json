@@ -1,0 +1,115 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "In-depth knowledge and understanding of numerous software packages and operating systems. Skilled in Database Administrator, Network Administration, Web developer. Providing Customer and End-User Help Desk Support. Easily identify and resolve technical issues and concerns. Excellent communication and presentation capabilities.",
+    "skills": [
+        "API",
+        "Billing system",
+        "C",
+        "C++",
+        "Hardware",
+        "Database",
+        "DNS",
+        "e-commerce",
+        "Eclipse",
+        "EJB",
+        "XML",
+        "FTP",
+        "hard drives",
+        "HTML",
+        "Hubs",
+        "IDE",
+        "Information Technology",
+        "Java",
+        "JSP",
+        "JavaScript",
+        "memory",
+        "Access",
+        "Microsoft Access",
+        "C#",
+        "Excel",
+        "Office",
+        "Outlook",
+        "PowerPoint",
+        "Microsoft Visio Professional",
+        "Windows 7",
+        "Windows 8",
+        "Microsoft Windows XP",
+        "MS Word",
+        "MySQL",
+        "Network",
+        "Networks",
+        "object-oriented design",
+        "Oracle",
+        "Peripherals",
+        "coding",
+        "programming",
+        "RAID",
+        "Router",
+        "Servers",
+        "Servlet",
+        "Microsoft SQL Server",
+        "SQL Server",
+        "Cisco switches",
+        "system design",
+        "TCP/IP",
+        "Team work",
+        "user documentation",
+        "UML",
+        "VPN",
+        "Microsoft Visual Basic",
+        "Visual Studio",
+        "website",
+        "written",
+        "XHTML"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "Mar 2014",
+            "end_date": "May 2017",
+            "description": "Provided object-oriented design, programming and implementation support to the customer Billing system written in Java. Design database system for e-commerce website with persistence. EJB platform. Prepared test plans and data, and user documentation for customer billing system. Problem-solved hardware issues with fault-tolerant hard drives."
+        },
+        {
+            "title": "Database Administrator",
+            "company": "Company Name",
+            "start_date": "Dec 2009",
+            "end_date": "Feb 2017",
+            "description": "Working with database management systems, determining and storing data. Identify user needs and set up new computer database. Integrate data from outdated systems to new system."
+        },
+        {
+            "title": "Machinist, CNC Programmer",
+            "company": "Company Name",
+            "start_date": "Jun 2001",
+            "end_date": "Dec 2009",
+            "description": "Setup fixtures, program CNC machines for plumbing equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science, Computer Science/ Information Technology",
+            "school": "Limestone College",
+            "year": "May 2013"
+        },
+        {
+            "degree": "Bachelor of Science, Business Administration",
+            "school": "Limestone College",
+            "year": "Dec. 2011"
+        },
+        {
+            "degree": "Bachelor of Science, Computer Science Software/Programming",
+            "school": "Limestone College",
+            "year": "Dec. 2011"
+        },
+        {
+            "degree": "Master's degree Information Technology (MIT)",
+            "school": "University of Virginia Tech",
+            "year": "Present"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

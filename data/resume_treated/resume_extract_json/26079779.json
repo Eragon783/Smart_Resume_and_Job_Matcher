@@ -1,0 +1,80 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Budget and Administration professional with experience in IT budgeting, vendor contracts, HR coordination, and high-volume administrative support across academic and organizational environments.",
+    "skills": [
+        "academic",
+        "arts",
+        "budgets",
+        "budget",
+        "clerical",
+        "closing",
+        "contracts",
+        "council",
+        "credit",
+        "customer services",
+        "database",
+        "documentation",
+        "special events",
+        "filing",
+        "finance",
+        "financial",
+        "financial planning",
+        "grant applications",
+        "hiring",
+        "human resources",
+        "information technology",
+        "director",
+        "materials",
+        "meetings",
+        "excel",
+        "office",
+        "policies",
+        "processes",
+        "reception",
+        "reconciling",
+        "telephone",
+        "travel arrangements"
+    ],
+    "experience": [
+        {
+            "title": "Budget and Administration Manager",
+            "company": "Company Name",
+            "start_date": "2016-01",
+            "end_date": "2017-01",
+            "description": "Responsible for providing financial explanation of a $3M budget for the division of Information Technology. Upheld processes, policies and procedures as specified by finance. Provided financial plans for new year, mid-year and closing of the financial year based on upcoming projects. Created contracts with vendors and individuals providing services for Information Technology. Collaborated with Human Resources to ensure positions were recorded and financially accommodated. Ensured monthly invoices were processed in a timely manner. Served as liaison between federation and vendors to secure approved partnerships. Managed payments of invoices for Information Technology."
+        },
+        {
+            "title": "Administrative Aide II",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2016-01",
+            "description": "Maintained critical day-to-day office confidentiality. Participated in departmental financial planning; reconciled departmental credit card accounts for Chief of Staff and Director of Global Communications. Provided customer services to high-profile guests. Collaborated with various departments on day-to-day activities and special projects. Worked on events including the 40 Acres and a Mule Anniversary Gala; recorded donations. Participated in hiring; assisted in Tisch admissions for applicants. Acted as liaison for the Dean and departments; drafted, edited correspondences; managed Tisch housing apartments; ordered departmental supplies; volunteered for Freshman Follow-Up; established departmental filing system."
+        },
+        {
+            "title": "Administrative Aide",
+            "company": "Company Name",
+            "start_date": "2001-01",
+            "end_date": "2006-01",
+            "description": "Researched potential donors and created prospect tracking worksheets. Organized events (Sundance Reception, Wasserman Award Reception). Maintained Dean's Council donor list and confidential information. Updated Advance database to track prospects and donors. Coordinated travel for the Associate Dean of External Affairs and staff. Prepared grant applications and drafted correspondences. Managed budgets, processed and reconciled budgets; coordinated meetings; submitted staff timesheets."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MS",
+            "field": "Human Resources Management",
+            "school": "Walden University",
+            "year": 2015
+        },
+        {
+            "degree": "BA",
+            "field": "Comparative Humanities",
+            "school": "SUNY Old Westbury",
+            "year": 2001
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

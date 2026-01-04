@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "",
+    "skills": [
+        "Computer literate",
+        "drivers",
+        "listening",
+        "natural",
+        "packaging",
+        "quality",
+        "rapport",
+        "teaching"
+    ],
+    "experience": [
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name City , State",
+            "start_date": "01/2014",
+            "end_date": "11/2014",
+            "description": "Prepare lunch Direct children for recess Aid in teaching class."
+        },
+        {
+            "title": "Teacher aid",
+            "company": "Company Name City , State",
+            "start_date": "08/2011",
+            "end_date": "06/2012",
+            "description": "Welcome children and direct them to the proper area for that day. Assist children with assignments and lead them to completion of assignments. Assist with manners and lunch prep. Teach Yoga to students. Attend any field trips and supervise activity."
+        },
+        {
+            "title": "Forklift driver",
+            "company": "Company Name City , State",
+            "start_date": "04/2009",
+            "end_date": "Current",
+            "description": "Safely move any product to the proper location after unloading it from the truck. Check weight and product packaging as its unloaded. Keep all area's clean and clear of trash while production is going. Take care of any paperwork and make sure it is legible."
+        },
+        {
+            "title": "Quality Assurance Technician/ forklift driver",
+            "company": "Company Name City , State",
+            "start_date": "06/2003",
+            "end_date": "06/2006",
+            "description": "Performed proportions and weight tests. Printed and checked labels. Checked chlorine and metal detection of each line. Checked in products and conducted temperature verifications for each product. Bailed boxes, loaded tied bails into trucks, unloaded products and any box trucks, arranged products from oldest to newest, and printed labels to tag each product as they came in. Worked closely with drivers and product teams to ensure quality."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science: Business Management",
+            "school": "Fortis College Online",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Applied Science: Criminal Justice",
+            "school": "Fortis College Online",
+            "year": 2011
+        },
+        {
+            "degree": "Associate of Applied Science: Automotive Technology",
+            "school": "Lincoln College of Technology",
+            "year": 2008
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

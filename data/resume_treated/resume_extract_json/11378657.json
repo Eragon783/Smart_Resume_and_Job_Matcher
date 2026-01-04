@@ -1,0 +1,71 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A highly ambitious, customer service oriented business professional, with experience in human resources, customer service and administrative support. Expertise in client development and needs assessments. My goal is to obtain a challenging and rewarding career opportunity, where my administrative, human resources, and customer service skills will be fully utilized. I am team oriented, professional, and focused - I look forward to having an opportunity to discuss what I can contribute to your team!",
+    "skills": [
+        "administrative skills",
+        "admin support",
+        "benefits",
+        "benefits administration",
+        "interpersonal",
+        "Excel",
+        "Microsoft Office programs",
+        "PowerPoint",
+        "MS Word",
+        "data management",
+        "team leadership",
+        "client needs assessment",
+        "analysis",
+        "HR",
+        "recruiting",
+        "recruitment",
+        "staffing",
+        "Radiology"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Recruiter",
+            "company": "A contingency, clinical staffing firm",
+            "start_date": "April 2000",
+            "end_date": "Current",
+            "description": "Consult with client HR professionals, within all areas of the healthcare field, regarding clinical staffing needs. Created staffing partnerships with some of the largest healthcare facilities in the U.S., including Stanford University Hospital, Lucile Packard Children's Hospital, Florida Hospital, Inova Health Systems, Adventist Healthcare, and Brigham Women's Hospital. Implemented marketing strategies which resulted in continued growth of customer base."
+        },
+        {
+            "title": "Healthcare Recruiter",
+            "company": "Company Name",
+            "start_date": "April 1998",
+            "end_date": "December 1999",
+            "description": "Provided recruitment services to Virginia Beach General Hospital business groups for RN Management, Staff RN, and Allied Health staffing. Managed all phases of recruitment, including defining hiring management needs and posting available positions. Communicated the duties, compensation, benefits and working conditions to all potential candidates. Analyzed employment-related data and prepared required reports. Managed all aspects of the employee life cycle process, including on and off boarding. Maintained an accurate candidate tracking system. Guided candidates through in-house computer testing. Supported management in developing and implementing personnel policies and procedures. Conducted exit interviews and verified that employment termination paperwork was completed. Hired employees and initiated the new hire paperwork process. Developed and facilitated job recruitment fairs. Organized new employee orientation schedules for all new hires. Promptly corresponded with all applicants and coordinated and conducted interviews. Posted positions through approved recruitment channels. Screened all applicants based on their qualifications and background."
+        },
+        {
+            "title": "Employment and Staffing Representative",
+            "company": "Company Name",
+            "start_date": "March 1990",
+            "end_date": "February 1997",
+            "description": "Coordinated recruitment and staffing services for both salaried and union employees for the state's largest utility company. Provided HR support to all service groups including managers, directors and VPs, regarding Affirmative action goals & objectives, union contract interpretation, and hiring and termination processes. Drafted internal announcements and sent them in a timely manner. Recruited for various positions across multiple sites in both Southside Hampton Roads, and the Peninsula. Employed multiple feedback mechanisms and analysis to continuously improve the recruiting process. Thoroughly explained the employee handbook during new employee orientations. Initiated key partnerships with department management, which resulted in better candidate hire, and employee retention. Conducted exit interviews and verified that employment termination paperwork was completed. Supported management in developing and implementing personnel policies and procedures. Developed and facilitated job recruitment fairs. Organized new employee orientation schedules for all new hires. Promptly corresponded with all applicants and coordinated and conducted interviews. Networked with industry contacts, association memberships and associates."
+        },
+        {
+            "title": "Benefits Representative",
+            "company": "Company Name",
+            "start_date": "May 1985",
+            "end_date": "March 1990",
+            "description": "Provided support in the administration of all company benefits programs, to include Medical plans (self-insured), Dental, 401K, Life Insurance, Tuition Reimbursement Plan, and EAP programs. Conducted benefits administration for a total of 1500 benefit-eligible employees, including both salaried and union. Responsible for the analysis and processing of all carrier invoices for benefit programs, handled resolution of inquiries regarding administration of various benefit plans, and created roll out program for annual Open Enrollment Communications."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma in Liberal Arts",
+            "school": "Saint Leo University",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Princess Anne High School",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

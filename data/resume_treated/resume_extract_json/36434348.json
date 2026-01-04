@@ -1,0 +1,102 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Quality-driven Information Technology Manager with over 10 years experience aligning business systems with business policies and guidelines while managing IT support and application development operations. Looking to bring strong management, analytical and problem-solving skills to an industry-leading technology company.",
+    "skills": [
+        "ASP.NET",
+        "Active Directory",
+        "Adobe Acrobat",
+        "Adobe Dreamweaver",
+        "Adobe Photoshop",
+        "HTML",
+        "C++",
+        "Crystal Reports 9",
+        "Databases",
+        "Database Design",
+        "Database development",
+        "Oracle database",
+        "PL/SQL",
+        "Microsoft SQL Server",
+        "Microsoft Access",
+        "Microsoft Office",
+        "Microsoft SharePoint",
+        "Windows Server 2008",
+        "Windows Server 2012",
+        "SDLC",
+        "Software Development Life Cycle",
+        "Project Management",
+        "Help desk",
+        "Help desk support",
+        "IT Governance",
+        "Data security",
+        "System administration",
+        "disaster recovery",
+        "Web development",
+        "SQL",
+        "report writing",
+        "reporting",
+        "SAP",
+        "Business Objects/Web Intelligence",
+        "Visual Basic"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Manager",
+            "company": "Company Name",
+            "start_date": "2005-04",
+            "end_date": "Present",
+            "description": "Managed computer support staff of college serving over 150+ employees. Responsible for planning and implementation of major modifications/upgrade to the entire computing environment of the college. Involved in IT Governance efforts of the campus to develop infrastructure and security policy. Overseen help desk support which included troubleshooting hardware, software and Windows servers. Managed multiple projects (varying in scope, time frame and difficulty) to develop applications or other IT solutions for various needs of the Faculty, staff and students. Administer data needs of the college including data security, database development/maintenance and report generation. Responsible for the purchasing appropriate computing equipment that would fit the various needs of the college Faculty and staff."
+        },
+        {
+            "title": "System Analyst",
+            "company": "Company Name",
+            "start_date": "2003-06",
+            "end_date": "2005-04",
+            "description": "Managed efforts of staff to accomplish various tasks related to new system migration project. Generate SQL for data population and complex report writing using PL/SQL and Crystal Reports 9 to accommodate new system migration project. Maintain and improve existing databases used to manage everyday workflow. Created several tools using Visual Basic and SQL to assist over 80+ Housing Specialists improve accuracy of data files needed for mandatory reporting to the federal government."
+        },
+        {
+            "title": "Graduate Assistant-Technical Writer",
+            "company": "Company Name",
+            "start_date": "2002-01",
+            "end_date": "2003-05",
+            "description": "Developed user manuals and training materials for computer systems used by police. personnel. Tested web and client server applications to ensure that user requirements were met. Utilized web development tools to create on-line user's manuals."
+        },
+        {
+            "title": "Co-Founder, Business Manager",
+            "company": "Company Name",
+            "start_date": "2001-12",
+            "end_date": "Present",
+            "description": "Managed all aspects of business operations of non-profit performance arts organization. Developed marketing materials for release to community entities. Wrote grants to secure funding for youth and out-of-school time programs."
+        },
+        {
+            "title": "Applications Developer",
+            "company": "Company Name",
+            "start_date": "2000-10",
+            "end_date": "2001-07",
+            "description": "Documented user requirements for the rewriting of existing billing systems that tracked. resource usage of an internal service group to the entire global organization. Lead development team in requirements gathering tasks. Provided support for billing systems involving troubleshooting complex queries."
+        },
+        {
+            "title": "Programmer Analyst",
+            "company": "Company Name",
+            "start_date": "1995-06",
+            "end_date": "2000-09",
+            "description": "Performed tasks in all stages of the system development life cycle of a disability claims system including user specifications, functional designs, and technical designs. Created Oracle database objects (views, queries, PL/SQL, and SQL) to satisfy the reporting needs of end-users. Developed testing strategy and lead testing team responsible for all testing stages of large disability claims system."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Management Information Systems",
+            "school": "University of Illinois",
+            "year": "2003"
+        },
+        {
+            "degree": "Bachelor of Science in Information and Decision Sciences",
+            "school": "University of Illinois",
+            "year": "1995"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

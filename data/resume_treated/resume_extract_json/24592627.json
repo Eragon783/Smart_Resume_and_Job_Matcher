@@ -1,0 +1,102 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "SENIOR SPECIAL INVESTIGATOR Summary To work within a successful Special Investigation Unit and work effectively with others. I worked as a Sworn Police Officer for 10 years and have been employed as a Sr. Special Investigator or Manager within the insurance industry for 30 years. When working with the insurance companies, I have been in the Special Investigation Unit combating fraud and investigating questionable claims. When a claim is determined to be fraudulent or have elements of fraud, I have filed numerous cases with the State's DOI Fraud Bureau and the appropriate counties District Attorney's Office. I have also conducted numerous training sessions with the Insurance industry on how to recognize the 'red flags' of insurance fraud. Highlights Insurance fraud expertise Database management Strong interpersonal and communication skills Property claims Workers' compensation claims Report writing Team player Interviewing techniques Decisive Critical thinker Accomplishments Earned a Certified Insurance Fraud Investigator (CIFI) from the International Association of Special Investigation Units (IASIU) Earned a Senior Claims Law Associate Degree Earned a Senior Fraud Claims Specialist Degree",
+    "skills": [
+        "Insurance fraud expertise",
+        "Database management",
+        "Strong interpersonal and communication skills",
+        "Property claims",
+        "Workers' compensation claims",
+        "Report writing",
+        "Team player",
+        "Interviewing techniques",
+        "Decisive",
+        "Critical thinker"
+    ],
+    "experience": [
+        {
+            "title": "Senior Special Investigator",
+            "company": "Great American",
+            "start_date": "March 2004",
+            "end_date": "September 2014",
+            "description": "Sr. Special Investigator in the SIU. In this position I conduct complex possible fraudulent insurance claims investigations for the Specialty Group of Great American. These claims are within their Workers Comp Unit, Liability Unit, Property Claims, Agriculture Claims, Equine Claims and Tractor-Trailer claims units. I am the sole investigator in their Western SIU Office, handling questionable insurance claims within the 14 Western States. After the investigation has determined fraudulent activity, it is referred to the different states Dept of Insurance, Fraud Units and the Counties District Attorney's office for further investigation."
+        },
+        {
+            "title": "Sr. Special Investigator",
+            "company": "Company Name",
+            "start_date": "January 2003",
+            "end_date": "March 2004",
+            "description": "In this position I also conducted investigations into suspicious insurance claims relating to Bodily Injury Accidents, First Party Auto Theft, Burglary, Vandalism, Property theft and etc. I also referred to the CA DOI upon completion."
+        },
+        {
+            "title": "Sr. Special Investigator",
+            "company": "Company Name",
+            "start_date": "January 2002",
+            "end_date": "January 2003",
+            "description": "Same job description as above. I also would monitor out of the area investigations by Private Investigation Companies on Unitrin Insurance products."
+        },
+        {
+            "title": "Sr. Special Investigator",
+            "company": "USAA",
+            "start_date": "January 1994",
+            "end_date": "January 2001",
+            "description": "I conducted complex insurance fraud investigations for USAA in the Orange County/Los Angeles Office. Same job description as the above companies."
+        },
+        {
+            "title": "Supervising SIU Investigator",
+            "company": "Continental Insurance",
+            "start_date": "January 1987",
+            "end_date": "January 1993",
+            "description": "I was in charge of 3 & 4 different offices of the Special Investigation Unit for Continental Insurance. These offices were in Costa Mesa, CA, Pleasanton, CA, Tucson, AZ and Honolulu, HI. This included the supervision of 4-5 different investigators along with support staff."
+        },
+        {
+            "title": "Investigator",
+            "company": "Multiple carriers",
+            "start_date": "January 1983",
+            "end_date": "January 1986",
+            "description": "Conducted investigations of possible insurance fraud for several different carriers. These investigations were completed just as the insurance industry was finding fraud in their claims system was a problem."
+        },
+        {
+            "title": "Police Officer, Sr. Police Officer & Traffic",
+            "company": "City, State",
+            "start_date": "January 1973",
+            "end_date": "January 1982",
+            "description": "Normal Police duties. Worked Patrol, Special Investigations Unit, Traffic Division on a motorcycle."
+        },
+        {
+            "title": "Deputy Sheriff",
+            "company": "City, State",
+            "start_date": "January 1972",
+            "end_date": "January 1973",
+            "description": "In the Sheriff's Academy, Biscailuz Center Jail and Main County Jail."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate Degree in Criminology",
+            "school": "Long Beach Community College",
+            "year": 1972
+        },
+        {
+            "degree": "Bachelor's Degree in Management",
+            "school": "University of Redlands",
+            "year": 1977
+        }
+    ],
+    "certifications": [
+        "Certified Insurance Fraud Investigator (CIFI)",
+        "Senior Claims Law Associate Degree (SCLA)",
+        "Fraud Claims Law Specialist (FCLS)",
+        "California Peace Officer Standards in Training (POST): Basic, Intermediate & Advanced Skills",
+        "International Association of Auto Theft Training",
+        "International Association of Credit Card Fraud Training",
+        "California Conference of Arson Investigators Seminar",
+        "Vehicle Fires, Cause and Recovery",
+        "Midwest Cargo Theft Training Event",
+        "Basic Arson Investigation and Prosecution Training"
+    ],
+    "languages": []
+}

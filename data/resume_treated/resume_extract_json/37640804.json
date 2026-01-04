@@ -1,0 +1,91 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Registered Nurse with BSN from Loyola University Chicago and approximately 4 years of MICU experience, including 2 years as a Nurse Clinician II in Medical/Cardiac ICU and Interventional Unit. Experienced in telemetry monitoring, ventilator management, CRRT/CVVH therapy, hypothermia therapy, TPA management, IABP management, life-support equipment, IV and high-potency medication administration, and end-of-life care. Proactive in education and precepting nursing students; strong patient-family communication; seeking a Doctor of Nursing Practice (DNP) with concentration in nurse anesthesia (CRNA).",
+    "skills": [
+        "Telemetry monitoring",
+        "Ventilator management",
+        "CRRT/CVVH therapy",
+        "Hypothermia therapy",
+        "TPA management",
+        "Intra-Aortic Balloon Pump management",
+        "Flow Trac device (Cardiac Output, Cardiac Index monitoring)",
+        "Impella",
+        "Pacemaker and Transcutaneous Pacemaker management",
+        "Rapid Infusers",
+        "Swan-Ganz Catheter",
+        "Bladder Pressure monitoring",
+        "Potent IV medications (vasopressors and sedatives)",
+        "Neo-Synephrine",
+        "Levophed",
+        "Vasopressin",
+        "Epinephrine",
+        "Dopamine",
+        "Dobutamine",
+        "Propofol",
+        "Fentanyl",
+        "Midazolam",
+        "Lorazepam",
+        "Morphine",
+        "Nitroglycerin",
+        "Nipride",
+        "Nimbex",
+        "Life support",
+        "IV administration",
+        "Medication administration",
+        "Therapy and treatment",
+        "Procedural assistance",
+        "Hourly rounding",
+        "HIPAA compliance",
+        "Reporting and documentation",
+        "Computer charting",
+        "Diagnostic assessments",
+        "Vital signs",
+        "Phlebotomy",
+        "12-lead EKG",
+        "Microsoft Office (Word, Excel, PowerPoint)",
+        "Spanish (conversational)"
+    ],
+    "experience": [
+        {
+            "title": "Nurse Clinician II - Medical/Cardiac Intensive Care Units and Interventional Unit",
+            "company": "Advocate Lutheran General Hospital",
+            "start_date": "2013-09",
+            "end_date": "Present",
+            "description": "Provide compassionate care to critically-ill patients; telemetry monitoring, ventilator management, CRRT/CVVH therapy, hypothermia therapy, TPA and IABP management; manage life-support equipment and IV medications; respond to cardiac and respiratory codes per ACLS guidelines; educate families; precept nursing students; provide end-of-life care; contribute to high patient satisfaction."
+        },
+        {
+            "title": "Dancer",
+            "company": "Chicago Bulls - Luvabulls",
+            "start_date": "2014-08",
+            "end_date": "Present",
+            "description": "Lead, cheer, and support the Chicago Bulls during basketball games; promote crowd involvement; participate in charity work, fundraisers, and community events; manage practice sessions and gameday readiness."
+        },
+        {
+            "title": "Nursing Care Technician II - Medical/Cardiac ICU and Interventional Unit",
+            "company": "Advocate Lutheran General Hospital",
+            "start_date": "2011-06",
+            "end_date": "2013-08",
+            "description": "Dual role as Nursing Care Technician/Unit Secretary on a 33-bed Medical/Cardiac/Interventional ICU floor; basic patient care, phlebotomy, 12-lead EKG, wound care, and assistance to nurses; unit secretarial duties."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSN (Bachelor of Science in Nursing)",
+            "school": "Loyola University Chicago",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "RN License: Illinois (Active, since 2013)",
+        "ACLS Certification: 2014-Present",
+        "BLS Certification: 2014-Present",
+        "PALS Certification: 2015-Present",
+        "NIHSS Certification: 2013-Present"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

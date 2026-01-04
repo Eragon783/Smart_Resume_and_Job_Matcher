@@ -1,0 +1,64 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "A hard working and self-motivated Australian professional willing to learn and develop new skills. I am a dedicated, organised and methodical individual. I have good interpersonal skills, am an excellent team worker with an active and dynamic approach to work. I am flexible, reliable and possess excellent time keeping skills. As an aspiring business professional, I am looking to utilize my current analytical skills and knowledge as well as further develop these skills in a practical and fast-paced environment.",
+    "skills": [
+        "Customer service specialist",
+        "Friendly",
+        "Calm under pressure",
+        "Federal Aviation Administration (FAA) regulations",
+        "Cabin technologies",
+        "Expert problem solver",
+        "CPR certification",
+        "Multi-line phones",
+        "Passion for travel"
+    ],
+    "experience": [
+        {
+            "title": "Passenger Services Officer",
+            "company": "Company Name – City",
+            "start_date": "11/2013",
+            "end_date": "07/2014",
+            "description": "System and Product Training: Complete Systems training: Amadeus Altea Customer Management System; Complete Product Training: Singapore Airlines; Passenger baggage handling and flight check-in; Checked in an average of 60 passengers per check-in; Being a team player by helping colleagues achieve targets and solve problems to meet daily KPIs; Serving customers in a polite and professional manner according to Singapore Airlines standards; Dispatching flights on time which included overseeing the boarding of the aircraft; Demonstrating an in-depth knowledge of key health and safety standards used within the industry; Working alongside airline duty officers to meet KPIs and airline standards; Consistently achieved airline on-time performance standards; Demonstrated the ability to handle complex situations within the given industry safety measures; Significantly improved the customer experience, regularly converting unhappy customers to very satisfied customers, earning employee of the month in June 2014."
+        },
+        {
+            "title": "International Travel Consultant",
+            "company": "Company Name – City",
+            "start_date": "04/2010",
+            "end_date": "10/2013",
+            "description": "Complete Systems training: Galileo Reservations, Universal Desktop, Client Management and accounting; Complete Product training: Customer sales process; Selling Travel products to a wide range of clients; Helping train new team members in key competencies; Handling customer payments and accounting; Being a team player by coaching colleagues on the sales process to reach store revenue targets; Adopting business strategies including local store marketing and financing; Dealing with customer complaints; Providing business solutions; Liaising with airline representatives and wholesalers to drive sales and meet targets; Achieved consistent revenue and growth targets on a monthly basis; Repeat client base of approximately 60 percent; Demonstrated resilience and ability to upsell products, consistently meeting KPIs by adding more value to sales; Significantly improved negotiation skills, regularly converting customers from point of enquiry to sale; Gained self directed learning and development and problem solving skills."
+        },
+        {
+            "title": "Corporate Travel Manager / Staff Developer and Trainer",
+            "company": "Company Name – City",
+            "start_date": "08/2014",
+            "end_date": "Current",
+            "description": "Assisting with on the job sales, product and systems training for new staff members. Developing staff in core competences to ensure success. Researching travel options & presenting the best deals in terms of customer requirements. Ensure all bookings & reservations are processed accurately. Responding to all phone enquiries promptly, courteously and in a friendly manner. Filing, photocopying and general administrative duties. Building strong relationships with clients. Ability to achieve branch, team sales and profitability objectives. Up selling relevant add-ons, like, insurance, excursions, etc. Negotiating corporate and best rates with hotels. Advising on and organising visas & passports. Booking rail, hotel, domestic and international air travel. Monitoring competitor activity in order to maintain the most competitive rates. Complying with all relevant laws and travel business legislation. Handling high numbers of incoming calls from direct customers and travel trade. Offering holidays to a wide variety of long haul luxury destinations, including the Indian Ocean, Arabian Gulf, Americas, Egypt & Africa and Far East."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Applied Science (Aviation) – Aviation Business Management",
+            "school": "Royal Melbourne Institute of Technology",
+            "year": "Current"
+        },
+        {
+            "degree": "Certificate III in Tourism Retail Sales",
+            "school": "",
+            "year": "2011"
+        },
+        {
+            "degree": "Diploma : Management",
+            "school": "",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "CPR certification"
+    ],
+    "languages": [
+        "English"
+    ]
+}

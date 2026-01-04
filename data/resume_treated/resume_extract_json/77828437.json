@@ -1,0 +1,76 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To secure a full time Combustion Engineer position applying strong fundamentals for application, research, and development in the areas of Combustion and Fluids and Thermal Sciences and other allied Mechanical Engineering related functions",
+    "skills": [
+        "AutoCAD Mechanical",
+        "Pro/Engineer (Pro/E)",
+        "MATLAB",
+        "PTC Creo",
+        "Revit",
+        "Autodesk Inventor",
+        "GD&T",
+        "SolidWorks",
+        "MicroStation",
+        "ANSYS Mechanical",
+        "Microsoft Office",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Project",
+        "ASME Engineering Design Standards",
+        "P&ID",
+        "CAD",
+        "CNC",
+        "Lathe",
+        "Drill",
+        "Milling",
+        "DSC"
+    ],
+    "experience": [
+        {
+            "title": "Mechanical Design Engineering Intern",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "2014-08",
+            "description": "Familiarized with and utilized ASME Engineering Design, Drafting & Documentation Standards. Supported engineering team in developing conceptual layout drawings and performed studies to obtain simple and efficient solutions for pressure vessel and piping design. Developed drawings, schematics and P&IDs using AutoCAD Mechanical and MicroStation according to ANSI Document Control & Management System for electronic and hard copy documents. Coordinated organizing, scanning, retrieval and distribution of engineering documents for Project Managers."
+        },
+        {
+            "title": "Manufacturing Engineering Intern",
+            "company": "Company Name",
+            "start_date": "2012-08",
+            "end_date": "2013-05",
+            "description": "Designed and operated a Compact Inserts Drying Machine. Researched past techniques used for drying of inserts to identify flaws and consolidated ideas in a three-person team on how to eliminate these flaws. Designed a pneumatic cylinder to lift the cabinet door using a Direction Control Valve. Modeled a cabinet head using Pro/Engineer (Pro/E). Calculated heat transfer rates and air flow rates for the appropriate selection of SILVENT air nozzle and KANTHAL air heater. Increased production rate by 16.67%, reduced cycle time by 1 minute and floor area by 61.87%, and reduced overall power consumption thereby increasing annual profit by Rs. 426,336."
+        },
+        {
+            "title": "Mechanical Engineering Intern",
+            "company": "Company Name",
+            "start_date": "2011-06",
+            "end_date": "2011-07",
+            "description": "Opportunity to learn about fixed and rotary wing aircraft engines and their thermodynamics. Exposed to turbo machines such as gas turbines, and the application of fluid mechanics and heat transfer to their operation. Training also included avionics and MRO activities. Hands-on experience with lathe, drill, mill and CNC machine."
+        },
+        {
+            "title": "NYSERDA Sponsored Research Intern",
+            "company": "Company Name",
+            "start_date": "2014-08",
+            "end_date": "2014-12",
+            "description": "Sponsored by the New York State Energy Research and Development Authority (NYSERDA) as part of advanced innovative energy solutions. Reviewed literature on different pyrolysis models used to characterize biomass. Performed heating experiments using a DSC-TGA to study pyrolysis of BioBlock. Using TGA, calculated kinetic parameters like activation energy and rate constant from the obtained mass vs temperature data. Determined the heat of pyrolysis and specific heat using the heat flow vs temperature data obtained from the DSC. Created a decomposition model based on the experimental results. Solved non-linear Euler equation for gas dynamics using CFD tools (Lax-Friedrichs, Runge-Kutta 4th order, and Lax-Wendroff methods). Compared fundamental properties of the numerical schemes and assessed accuracy."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Mechanical Engineering",
+            "school": "SUNY, University at Buffalo",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Engineering in Mechanical Engineering",
+            "school": "University of Pune",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

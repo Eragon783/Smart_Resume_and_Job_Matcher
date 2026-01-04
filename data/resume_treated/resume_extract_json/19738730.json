@@ -1,0 +1,53 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Highly skilled and organized individual who has won employee of the month a lot of times with an infectious enthusiasm to work in fast paced environment. Highlights Focused and disciplined High volume production capability Bilingual (English/Twi) Healthy cuisine expert Exceptional written and oral communication abilities",
+    "skills": [
+        "Proficient with large cooking machines",
+        "Great culinary skills",
+        "Organizational skills",
+        "Highly motivated"
+    ],
+    "experience": [
+        {
+            "title": "Dietary Aide",
+            "company": "Company Name",
+            "start_date": "09/2013",
+            "end_date": "Present",
+            "description": "Collaborated extensively with interdisciplinary care team to meet the nutritional needs of each resident. Devised meal plans in line with patients' age, gender, diagnosis, cultural background and religious practices. Conducted daily inspections and maintained food sanitation and kitchen equipment safety reports. Advised new cooking techniques and equipment to kitchen staff."
+        },
+        {
+            "title": "Chef",
+            "company": "Company Name",
+            "start_date": "05/2013",
+            "end_date": "08/2013",
+            "description": "Identified opportunities to increase revenue, decrease kitchen expenses and maximize departmental productivity without compromising guest satisfaction. Served classic English, French and modern European. Collaborated closely with the Food and Beverage Director to conduct staff meetings and resolve service, product and personnel issues."
+        },
+        {
+            "title": "Kitchen Manager",
+            "company": "Company Name",
+            "start_date": "08/2008",
+            "end_date": "04/2013",
+            "description": "Operated large-volume cooking equipment such as grills, deep-fat fryers and griddles. Tremendously increased sales after becoming the manager. Monitored customer preferences to determine focus of sales efforts. Directed and supervised employees engaged in sales, food preparation. Determined staff promotions and demotions, and terminated employees when necessary. Up-sold additional menu items, beverages and desserts to increase restaurant profits."
+        }
+    ],
+    "education": [
+        {
+            "degree": "CURLINARY",
+            "school": "Kumasi Polytechnic",
+            "year": 1999
+        },
+        {
+            "degree": "CURLINARY",
+            "school": "SUNYANI POLYTECHNIC",
+            "year": 1990
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Twi"
+    ]
+}

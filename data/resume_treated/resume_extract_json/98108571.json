@@ -1,0 +1,48 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "",
+    "skills": [
+        "Photoshop",
+        "Illustrator",
+        "Computer skills"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "04/2016",
+            "end_date": "Current",
+            "description": "Help customers with their pet problems and assist them in choosing the right products for their pets."
+        },
+        {
+            "title": "Office Secretary",
+            "company": "Company Name",
+            "start_date": "06/2014",
+            "end_date": "08/2014",
+            "description": "Organized a storage area full of papers and transferred them into the computer for easier access. Helped run errands for my co-workers and my boss."
+        },
+        {
+            "title": "Waitress",
+            "company": "Company Name",
+            "start_date": "02/2014",
+            "end_date": "04/2014",
+            "description": "Waited on customers and cleaned necessary thing as instructed. Assisted in the preparation of some dishes."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Edward R. Murrow High School",
+            "year": "2017"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Russian",
+        "French (basic)"
+    ]
+}

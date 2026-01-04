@@ -1,0 +1,52 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Visionary and motivated hospitality leader with over twenty-five years of experience in project management and financial administration in both public and private sectors. Possess an established track record of creating and implementing programs and long term business strategies aimed at company growth. Passionate about providing healthy nutritious options and enhancing wellness for youth and communities.",
+    "skills": [
+        "Small business development",
+        "Public relations and community outreach in private and public sectors",
+        "Teaching, training, and public speaking",
+        "Non-profit administration",
+        "Leadership and team building",
+        "Budget administration"
+    ],
+    "experience": [
+        {
+            "title": "Executive Director",
+            "company": "Company Name",
+            "start_date": "2008-10",
+            "end_date": "Current",
+            "description": "Set policies consistent with the mission of the foundation; supervised workflow, design, and delivery of foundation initiatives for strategic plan; built strong diplomatic relationships with government agencies and officials; successfully secured over one million dollars in grant funds for the foundation; developed training programs for restaurants and hotels; created new revenue streams to achieve financial solvency for the foundation; supervise partnership with thirty-five high schools in state culinary and restaurant management programs."
+        },
+        {
+            "title": "Owner and Operator",
+            "company": "Company Name",
+            "start_date": "1998-03",
+            "end_date": "2006-09",
+            "description": "Served as President and Chief Operating Officer. Directed daily operations including financial, human resources, marketing, inventory control, and customer relations to generate optimal revenue streams."
+        },
+        {
+            "title": "Director of Culinary Arts and Hospitality Management Division",
+            "company": "Company Name",
+            "start_date": "1984-09",
+            "end_date": "2008-09",
+            "description": "Administered all curricular, administrative and financial aspects of the division; lead program evaluation efforts and created strategic plan to develop and enhance program offerings; managed annual budget of up to $750,000; provided leadership for planning new and improved labs and staff development to optimize student success; implemented and evaluated programs and activities to ensure that the advisory committee functions in a manner consistent with accreditation standards; participated in professional development activities and programs as required by accreditation and regulatory agencies; coordinated all faculty orientation and training; managed all foodservice and catering operations for the college and McIntyre Hall Performing Arts Center; served on the committee to design NW Career and Technical Skills Center; taught numerous courses including: Advanced Culinary, Restaurant Management, Customer Service, and Nutrition; developed restaurant management training program for Swinomish tribal members; developed and taught hospitality training program for DSHS Work First initiative; taught senior level coursework for Washington State University Hotel and Restaurant Administration program."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts, Hotel and Restaurant Administration",
+            "school": "Washington State University",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "FMP - Food Service Management Professional",
+        "CFBE - Certified Food and Beverage Executive (National Restaurant Association)",
+        "Certified Instructor in Advance Food Safety, Serving Alcohol Responsively, Nutrition, and Restaurant Management",
+        "Certified Personal and Group Fitness Instructor (WITS, NCSF)"
+    ],
+    "languages": []
+}

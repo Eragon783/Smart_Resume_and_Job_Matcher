@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I have been with IBC for nearly a year, and I am looking forward to continuing my career as the Sales Lead for the Moore Branch. I am determined to help my branch continue to grow, and I am excited to continue to develop our Tellers and Sales Associates into outstanding, motivated, and productive IBC employees. I tried my very best to make sure our customers were satisfied and had a great experience at our dealership.",
+    "skills": [
+        "balance",
+        "book",
+        "database",
+        "Debit",
+        "documentation",
+        "email",
+        "Forms",
+        "front office",
+        "IMS",
+        "inventory",
+        "Legal",
+        "notes",
+        "money",
+        "Outlook",
+        "Enterprise",
+        "newsletters",
+        "sales",
+        "take messages",
+        "phone",
+        "Type",
+        "website"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name - City, State",
+            "start_date": "10/2015",
+            "end_date": "Present",
+            "description": "Open all types of accounts (personal and business), collect required documentation, ensure documents are signed, scanned, and saved in systems. Perform routine maintenance on accounts. Prepare Consumer and Small Business Loan applications with supporting documents and submit to Loan Liaison. Prepare Legal Document Review Forms and supporting documents (death certificates, marriage licenses, trust documents, wills, etc.) and send to legal department for review; revise/close accounts after legal review. Determine if fraud holds are needed and submit paperwork. Make/answer/return calls and assist customers. Issue/deactivate Debit Cards daily. Responsible for Vault procedures, balancing, selling, buying, and transferring money. Recognized for Bronze/Silver/Gold performance and top performer in Q2 2015. Proficient with Precision, Horizon, Outlook, IMS, DX Enterprise, Elan, and other branch systems."
+        },
+        {
+            "title": "Assistant/Warranty Administrator",
+            "company": "Company Name - City, State",
+            "start_date": "06/2014",
+            "end_date": "12/2014",
+            "description": "Conduct all payment transactions for the Service Department. Submit warranty claims. Send invoices and bills to third-party repair shops. Receive payments and reimbursements. Send service reminders via email. Complete checkout of rental cars. Scan all records into the database. Order and deliver lunch for all employees and customers on Saturdays. Answer all phone calls directed to the service department. Set up service appointments. Advise customers when their vehicles were ready for pickup. Regular communication with mechanics and service advisors to ensure smooth workflow."
+        },
+        {
+            "title": "Front Office / Administrative Assistant",
+            "company": "Company Name - City, State",
+            "start_date": "11/2009",
+            "end_date": "09/2015",
+            "description": "Greet parents with a welcoming attitude, direct children to appropriate areas, and ensure they are happy and comfortable. Sort backpacks and homework; distribute items as needed. Keep classroom clean and organized; take inventory of supplies and order more when necessary. Submit and distribute book orders and fundraiser information. Type and send all correspondence to parents. Plan weekly activities. Provide one-on-one time with each student daily. Substitute in the front office as needed: answer/transfer calls, take messages, manage money, and type newsletters. Recognized for patience, kindness, organization, and calm under pressure; positive impact on students and parents."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Madill High School",
+            "year": 2008
+        },
+        {
+            "degree": "Elementary Education",
+            "school": "Ardmore Higher Education Center",
+            "year": 2010
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,57 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior accountant who completes accounting activities with accuracy and speed with extensive experience in full life cycle of general ledger accounting.",
+    "skills": [
+        "Aderant/CMS",
+        "Excel",
+        "QuickBooks Pro",
+        "SQL",
+        "Access",
+        "Peachtree",
+        "Hyperion",
+        "Financial reporting",
+        "US GAAP",
+        "IFRS",
+        "Bookkeeping",
+        "Budget development",
+        "Individual tax returns",
+        "Essbase"
+    ],
+    "experience": [
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name",
+            "start_date": "March 2006",
+            "end_date": "Current",
+            "description": "Reconciled balance sheet accounts (including cash and liabilities) and ensured GL accuracy in accordance with cash controls, GAAP, and international tax requirements. Served as liaison for interim and annual audits by Deloitte; prepared schedules for audits and assisted auditors with internal controls related to revenue and expenditure cycles. Reviewed journal entries, resolved discrepancies with AR/AP/payroll/tax teams, analyzed international payrolls (Seoul, Shanghai, Tokyo) for tax purposes, and uploaded data to Aderant/CMS. Analyzed VAT for Vienna and Seoul, resolved currency fluctuations using currency mode journal entries, and tracked expatriate expenditures for W-2 reporting. Prepared initial K-1 schedules, month-end accruals, and monthly expense allocations. Reviewed inter-company transactions for Seoul, Shanghai, Tokyo, and Vienna. Prepared monthly financial statements for partners and management. Assisted in translating fixed asset invoices and travel expense reports. Notable accomplishments: detected material misstatement in prepaid property insurance in Q1 2008 and implemented adjustments; clarified Japanese payroll system details for management and made related GL adjustments."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "January 2005",
+            "end_date": "March 2006",
+            "description": "Maintained GAAP-based financial records for parent company and investors; reconciled G/L accounts and prepared semi-annual and year-end balance sheets, income statements, and cash flow statements. Coordinated with warehouse manager on shipping schedules and liaised with outside CPAs on tax issues. Established master employee payroll records, processed payroll deductions (401K, health insurance) through Paychex, and prepared loan applications with A/R factoring. Assisted in training and coordinating AP, AR, and other departments; performed semi-annual inventory valuation."
+        },
+        {
+            "title": "Financial Analyst",
+            "company": "Company Name",
+            "start_date": "August 2002",
+            "end_date": "January 2005",
+            "description": "Managed and forecasted funds for Palm Desert National Bank-sponsored ATM terminals; reconciliation and lead accounting for Innobeta Systems, Inc. Prepared monthly P&L reports for surcharge and interchange; analyzed carrier expenses during due diligence for ATM World Corp. Evaluated processing costs and network fees for EFTs. Prepared audit work papers, confirmations, and supporting documentation; performed GL analysis and journal entries for closings. Assisted with full financial statements and footnotes for investors and lenders; supervised staff workload and reconciliations. Translated and prepared documents related to defective parts for ComNet ATM Series and liaised with Nextran/Nextran subsidiaries; consulted private investors and customer services."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration in Accounting",
+            "school": "Temple University",
+            "year": "2002"
+        }
+    ],
+    "certifications": [
+        "Certified Public Accountant, New York State (issued 2015-03-04)"
+    ],
+    "languages": []
+}

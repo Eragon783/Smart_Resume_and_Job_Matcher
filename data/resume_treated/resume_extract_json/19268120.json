@@ -1,0 +1,90 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Fort Lauderdale, FL",
+    "summary": "Kitchen manager with six years in BOH operations and over five years as a chef in fast-paced restaurant kitchens. Experienced in team leadership, staff management, high-volume production, inventory and food cost control, menu planning, and catering/events. Bilingual in English and Spanish; ServSafe certified; reliable, punctual, and customer-service oriented; hands-on leader skilled at training staff and thriving under pressure.",
+    "skills": [
+        "ServSafe",
+        "High volume production",
+        "Portion and cost control",
+        "Inventory management",
+        "Bilingual (English/Spanish)",
+        "Cash handling",
+        "Reliable and punctual",
+        "Team leadership",
+        "Customer service",
+        "Deep fryer and slicer operation",
+        "Inventory and ordering",
+        "Menu planning",
+        "Catering and events",
+        "Food cost control",
+        "Plate presentation",
+        "Staff training",
+        "Scheduling",
+        "P&L management",
+        "Sanitation",
+        "Event planning",
+        "Sauté and broiler",
+        "Ethnic foods preparation",
+        "Food safety"
+    ],
+    "experience": [
+        {
+            "title": "Kitchen Manager / Catering and Events Chef",
+            "company": "Company Name, City, State",
+            "start_date": "2011-07",
+            "end_date": "2014-01",
+            "description": "Apportioned and served food to facility residents, employees, or patrons; checked quantity and quality of received products; cleaned and prepared foods for cooking or serving. Managed kitchen operations for high-volume, fast-paced fair concession; developed menu items for gluten-free and vegan diets; trained 23 staff; oversaw 8 cooks and 17 staff; managed Meal-on-Wheels operations for Saint Lucie County; ensured cleanliness and proper plating."
+        },
+        {
+            "title": "Kitchen Manager / Executive Chef",
+            "company": "Company Name, City, State",
+            "start_date": "2008-01",
+            "end_date": "2011-06",
+            "description": "Checked in deliveries and signed off on products received; performed tableside food preparation; reduced waste and profit loss via FIFO; oversaw kitchen staff to meet production and service standards; maintained guest satisfaction by addressing needs and requests."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Company Name, City, State",
+            "start_date": "2005-02",
+            "end_date": "2008-02",
+            "description": "Delivered exceptional dining experiences; ensured quality standards; coordinated orders with kitchen and service teams; advised on allergies and dietary needs; prepared diet-specific items; maintained knowledge of menu and ingredients; responded to guest feedback."
+        },
+        {
+            "title": "Lead Line Cook",
+            "company": "Company Name, City, State",
+            "start_date": "2001-02",
+            "end_date": "2005-01",
+            "description": "Led kitchen staff during high-volume dinners; cooked across grills, fryers, and griddles; maintained sanitation and safety; assisted catering events and menu planning; planned menus according to dietary restrictions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "GED",
+            "school": "Lyndon B Johnson",
+            "year": 1996
+        },
+        {
+            "degree": "Associate of Applied Science in Culinary Arts",
+            "school": "Lincoln College",
+            "year": 1999
+        },
+        {
+            "degree": "Basic Vocational Certificate: Prep Cook",
+            "school": "Nutrition courses / Classes in Restaurant and Facility Operations / Coursework in Food and Beverage Operations / Serve Safe Management",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "ServSafe",
+        "AA in Applied Science",
+        "Station Cook Certificate",
+        "Four Dietary Certificates"
+    ],
+    "languages": [
+        "Spanish",
+        "English",
+        "Creole"
+    ]
+}

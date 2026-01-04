@@ -1,0 +1,89 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Performance-driven executive in information technology with extensive experience directing IT operations, project management, and cost optimization. Proven ability to implement standards and procedures that improve business processes, lead diverse teams, and deliver strategic IT solutions in high-demand environments. Strong track record of improving service delivery, reducing costs, and aligning IT strategy with organizational goals.",
+    "skills": [
+        "budget",
+        "client-server",
+        "customer satisfaction",
+        "DEC",
+        "directing",
+        "direction",
+        "GIS",
+        "Government",
+        "Help Desk support",
+        "IBM",
+        "IBM Mainframe",
+        "information technology",
+        "local area network",
+        "leadership",
+        "managing",
+        "Microsoft Exchange",
+        "98",
+        "modems",
+        "enterprise",
+        "Network",
+        "organizational",
+        "PCs",
+        "Project leader",
+        "routers",
+        "Safety",
+        "SAN",
+        "servers",
+        "strategic",
+        "upgrading",
+        "VAX",
+        "VoIP",
+        "wiring"
+    ],
+    "experience": [
+        {
+            "title": "Director of Information Technology",
+            "company": "Company Name",
+            "start_date": "05/2000",
+            "end_date": "01/2014",
+            "description": "Led IT strategy and operations for the City of Greensboro, overseeing Application Services, GIS, Network Services and Public Safety IT; established guidelines for IT management; implemented city-wide IT policy; achieved $400K annual savings with VoIP; partnered on city-wide fiber optic infrastructure; enabled online payments; maintained 95% customer satisfaction and 98% uptime; implemented virtualized servers with a redundant SAN and business continuity site; re-established the Technology Advisory Committee."
+        },
+        {
+            "title": "Network Services Manager",
+            "company": "Company Name",
+            "start_date": "07/1998",
+            "end_date": "05/2000",
+            "description": "Managed the Desktop Services Division (Help Desk, LAN, server administration, training, and technology leasing); supported enterprise-wide technology deployment; implemented a client-server environment with Microsoft Exchange; directed installation of 900+ workstations ahead of schedule; created a $2.8 million internal service charge-back structure for Help Desk and leasing; developed a custom Helpdesk Request application with customer satisfaction surveys after each closed call."
+        },
+        {
+            "title": "Data Communications Analyst",
+            "company": "Company Name",
+            "start_date": "06/1989",
+            "end_date": "07/1998",
+            "description": "Installed, maintained, configured and analyzed the data communication needs for the City of Greensboro; configured modems, multiplexers, routers, control units and DEC/IBM terminals; managed IBM Mainframe, VAX systems and servers; led upgrade of IBM Mainframe to VSE/ESA; authored operations manual; Employee of the Year finalist 1996."
+        },
+        {
+            "title": "Electronics Technician",
+            "company": "Company Name",
+            "start_date": "09/1986",
+            "end_date": "06/1989",
+            "description": "Repaired, installed, configured and maintained PCs, servers, modems and other communications equipment; designed network and data communication circuits; installed and configured mid-range servers and VAX systems; established and maintained redundant communications infrastructure for campus networks."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certified Chief Information Officer (CIO)",
+            "school": "UNC-Chapel Hill",
+            "year": 2005
+        },
+        {
+            "degree": "B.S. in Industrial Technology (Electronics)",
+            "school": "North Carolina A&T State University",
+            "year": 1986
+        }
+    ],
+    "certifications": [
+        "Certified Chief Information Officer (CIO)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

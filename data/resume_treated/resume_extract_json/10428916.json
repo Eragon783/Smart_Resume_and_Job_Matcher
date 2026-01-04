@@ -1,0 +1,61 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To gain a Recreation Supervisor position so that I can provide support to professional and part time staff. I am looking for the opportunity to guide day to day operations of high quality, community recreation facilities. I hope to provide the type of support and management conducive to a healthy work environment so that all staff can not only complete their roles & responsibilities, but also provide a facility that runs efficiently and offers exceptional service to members.",
+    "skills": [
+        "ACSM Exercise Physiologist",
+        "TRX Qualified Instructor",
+        "Personal Trainer",
+        "AHA CPR/AED & First Aid",
+        "Microsoft Office",
+        "Budget Allocation",
+        "Good interpersonal skills",
+        "Ability to handle different projects for the organization effectively"
+    ],
+    "experience": [
+        {
+            "title": "Recreation & Sports Coordinator",
+            "company": "",
+            "start_date": "2015-03",
+            "end_date": "Current",
+            "description": "Assisted in daily supervision and administration of facility and interacted with members to ensure programs were carried out in a safe and effective manner. Planned, organized and implemented recreation leagues and events throughout the calendar year. Supervised recreation programs, resolving any issues or disputes that may arise. Enforced safety and administered first aid to participants when required. Assisted supervisor in developing budget and developed innovative ways to increase revenue. Responsible for financial transactions including daily cash deposits and purchasing responsibilities including maintaining a purchasing card and receipt of sale."
+        },
+        {
+            "title": "Senior Health & Fitness Specialist",
+            "company": "",
+            "start_date": "2013-02",
+            "end_date": "2015-03",
+            "description": "Developed and implemented programs to assess and increase the health and physical activity levels of various populations. Managed HealthCalc software program through the enrollment of new clients and maintained private records. Conducted health and wellness assessments for clients and assisted them with goal setting and strategies to improve and maintain their health and worksite wellness."
+        },
+        {
+            "title": "Health and Fitness Specialist",
+            "company": "",
+            "start_date": "2012-08",
+            "end_date": "2013-02",
+            "description": "Developed and utilized special programs to connect with various health and wellness populations. Maintained great rapport with all customers ensuring all needs were handled in a timely manner. Entered appropriate documents into software database ensuring each participant was safe for physical activity assessments and participation."
+        },
+        {
+            "title": "Facility Manager",
+            "company": "",
+            "start_date": "2010-01",
+            "end_date": "2012-05",
+            "description": "Supervised 40 staff at the university's 100,000 square foot facility and assisted in the new hire recruitment and training procedures. Provided exceptional customer service to all members and prepared daily reports recording any issues within the facility. Administrative support by assisting with budget preparation, financial reports, membership sales, payment records, account charges, collections and deposits."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Kinesiology",
+            "school": "East Carolina University",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "ACSM Exercise Physiology",
+        "TRX Qualified Instructor",
+        "Personal Trainer",
+        "AHA CPR/AED & First Aid"
+    ],
+    "languages": []
+}

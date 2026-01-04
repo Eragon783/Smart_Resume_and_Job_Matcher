@@ -1,0 +1,95 @@
+{
+    "name": "Greg",
+    "email": "Greg@TheVarium.com",
+    "phone": "801-910-6500",
+    "location": "Salt Lake City, UT",
+    "summary": "Seasoned technology consultant and finance operations professional with over a decade of experience delivering product implementations, data migration, system integration, and process automation for Fortune 500 clients. Expertise in analytics, CRM/ERP tools, and financial controls with a track record of improving campaign efficiency, increasing services revenue, and strengthening client relationships across US and EMEA.",
+    "skills": [
+        "Visual Basic",
+        "HTML",
+        "JavaScript",
+        "SQL",
+        "XML",
+        "Python",
+        "MVC",
+        "FileMaker",
+        "PHP",
+        "Advanced Excel",
+        "SiteCatalyst",
+        "Salesforce.com",
+        "Oracle",
+        "QuickBooks",
+        "MS Access",
+        "ODBC",
+        "Sarbanes-Oxley",
+        "COBIT",
+        "Model-View-Controller"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "Present",
+            "description": "Publicly traded (ADBE) digital technology company specializing in content creation and online analytics. Supported simultaneous client consulting engagements by performing product implementations, technical problem solving, and ad hoc client requests for Fortune 500 companies such as Home Depot, Disney and REI. Promoted to a non-billable role to retain and rebuild relationships with dissatisfied clients in the US and EMEA. Participated in product integration teams as the product expert for SiteCatalyst and SearchCenter during acquisition integrations. Designed and coded custom tools for automating and improving client campaign creation, management and deployment, increasing campaign management efficiency. Increased services revenue by developing tools to optimize advertising spend and supported EMEA clients with implementations and training."
+        },
+        {
+            "title": "Controller",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2010-01",
+            "description": "Provider of medical coding information. Oversaw all financial functions including audits, monthly financial statements, daily cash flow, debt and equity management, VC reporting, and cash/revenue forecasts. Managed six-person department with two direct reports. Shortened finance month-end from 15 days to 3 days by automating processes; decreased G&A cost by 40% annually; achieved first deficiency-free audit by automating processes and integrating key systems. Developed a proprietary operational system combining CRM, inventory, financial management, sales, fulfillment, call center tracking, and QuickBooks integration."
+        },
+        {
+            "title": "Controller",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2008-01",
+            "description": "Managed the financial health of the organization including audits, billing, credit card management, customer support, month-end close, equity and debt management, budgeting/forecasting, and daily cash management. Regularly utilized Salesforce.com, Oracle, SQL, VBA and Excel to process daily transactions and report metrics. Increased customer retention by 54% by monitoring usage trends; implemented Salesforce.com and migrated historical data; trained staff on CRM functionalities."
+        },
+        {
+            "title": "Internal Auditor",
+            "company": "Publicly traded (ANET) credit card processor",
+            "start_date": "2006-01",
+            "end_date": "2007-01",
+            "description": "Charged with monitoring and testing financial and IT systems, controls, and processes for COSO, SOX, COBIT, and audit compliance. Regularly utilized HTML, ODBC, VBA, XML, and Excel to test and improve system processes. Increased testing efficiency by eliminating redundant tests, automated customer applications, and reduced sales overhead by 15% annually; corrected $80K in erroneous commissions."
+        },
+        {
+            "title": "Accountant",
+            "company": "Broker dealer for 1031/Tenant in Common security exchanges, REITs, stocks, bonds",
+            "start_date": "2005-01",
+            "end_date": "2006-01",
+            "description": "Calculated weekly commissions and payments; managed AP, AR, and invoicing. Regularly utilized SQL, VBA, XML, and Excel to process daily transactions, commissions, and improve system processes. Automated commission calculation time from 4 days to minutes by integrating existing systems through SQL. Improved data accuracy by developing an MS Access based system to replace spreadsheets."
+        },
+        {
+            "title": "Regional Manager",
+            "company": "Provider of third-party hospital billing recovery solutions",
+            "start_date": "2003-01",
+            "end_date": "2005-01",
+            "description": "Managed HCA and Iasis hospitals in Utah and surrounding regions. Directed an 18-person staff with four direct reports. Standardized data reporting across hospitals and improved regional profitability by 45% in eight months by increasing use of Medicaid and COBRA benefits."
+        },
+        {
+            "title": "Co-Founder",
+            "company": "Studio Enizio",
+            "start_date": "2005-01",
+            "end_date": "Present",
+            "description": "National on-site hair and makeup service with local salon. Secured cash financing and managed daily cash flows, inventory, payroll, and federal/state tax filings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "Gore School of Business, Westminster College",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Accounting",
+            "school": "David Eccles School of Business, University of Utah",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "CPA"
+    ],
+    "languages": []
+}

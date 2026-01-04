@@ -1,0 +1,81 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Accomplished business development executive with 7 years of experience in life science startups and clinical research organizations, plus entrepreneurial experience as a co-founder and a financial background from Bentley University.",
+    "skills": [
+        "streamline",
+        "approach",
+        "balance sheet",
+        "bonds",
+        "budgeting",
+        "business development",
+        "cash flow",
+        "clinical research",
+        "clinical trials",
+        "consulting",
+        "corporate finance",
+        "CRM",
+        "database",
+        "email",
+        "equities",
+        "financials",
+        "financing",
+        "fundraising",
+        "funds",
+        "graphical user interface",
+        "information systems",
+        "innovation",
+        "inventory",
+        "marketing",
+        "network",
+        "neural",
+        "presentations",
+        "sales",
+        "scientific",
+        "strategy",
+        "strategic",
+        "websites"
+    ],
+    "experience": [
+        {
+            "title": "VP of Business Development",
+            "company": "PainQx (PQX)",
+            "start_date": "2016-01",
+            "end_date": "Present",
+            "description": "Led business development for PQX, a diagnostic software company. Incorporated PQX platform in six clinical trials as a pain biomarker; raised $500k from angel investors and venture funds; identified a joint venture partner in China resulting in a $1M investment; developed an economic model showing potential healthcare savings of up to $8,500 per patient; created financial statements to justify capital raises; centralized contacts and investors in a CRM; produced investor-facing presentations; formed an alliance with Evoke Neurosciences to integrate EEG headset; conducted a 100-physician market survey to validate value proposition and identify new markets; sourced and won a NIDA grant via SBIR Fast Track."
+        },
+        {
+            "title": "Co-Founder, VP of Business Development",
+            "company": "LSN",
+            "start_date": "2012-06",
+            "end_date": "2016-01",
+            "description": "Co-founded LSN to track funding and partnering preferences of 5,000 investors and strategic partners through a 90-day rolling cycle. Generated $4M in revenue since inception (including $3M in 2016). Launched Boston Innovation Capital broker-dealer in 2015 to execute fundraising campaigns between $5M-$20M. Oversaw sales, financial projections, IT, management, and marketing. Grew team to 22 employees (7 BD reps, 6 researchers, 4 conference reps, 2 marketers). Created pitch decks, executive summaries, and websites for twelve biotech/medtech companies, increasing investor responsiveness. Used Salesforce to host backend data, saving over $1M in R&D costs. Built deep knowledge of database and information systems; personally sourced, pitched, and closed over $1M in consulting and data services from Big Pharma, CROs, and biotech/medtech companies. Helped create fundraising strategy for 34 biotech/medtech companies including EIP Pharma, Hsiri Therapeutics, and JB Therapeutics (Corbus Pharma). Built a network of over 1,000 life science investors and executives."
+        },
+        {
+            "title": "Business Development",
+            "company": "Abpro",
+            "start_date": "2011-01",
+            "end_date": "2012-07",
+            "description": "Part of Abpro's business development team. Grew sales from $700k in 2010 to $2.2M in 2011 and $4.0M in 2012. Personally closed $1.6M in new business revenue. Participated in a financing campaign aiming to raise $3.4M in debt. Modeled the present value of debt offerings to inform investment decisions. Developed the company's first financial model linking income, balance sheet, and cash flow. Built an inventory tracking system reducing production delays by 30%. Created an automated system that crawled 300 scientific journals to gather contact information of authors, building a database of 100,000 contacts for targeted email campaigns."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Finance",
+            "school": "Bentley University, McCallum Graduate School of Business",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Science in Economics & Finance",
+            "school": "Bentley University",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

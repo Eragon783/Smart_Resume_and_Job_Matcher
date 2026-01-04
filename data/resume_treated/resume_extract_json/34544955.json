@@ -1,0 +1,106 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "My objective is to obtain and secure a meaningful position integrating my skills with the expertise of my co-workers, resulting in a successful service provided to the client. Additionally, I am eager to gain knowledge through my own hard work and the tutelage of my superiors to earn advancement within the organization.",
+    "skills": [
+        "Microsoft Windows",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "GAAP knowledge",
+        "Civil construction materials testing and inspection",
+        "Contractor and client communication",
+        "Leadership",
+        "Team-oriented",
+        "Budget-conscious",
+        "Strong written and verbal communication",
+        "Integrity and professionalism"
+    ],
+    "experience": [
+        {
+            "title": "ICC Special Inspector and Construction Materials Technician (CMT)",
+            "company": "International Code Council",
+            "start_date": "2015-03",
+            "end_date": "Current",
+            "description": "ICC Special Inspector; Reinforced Concrete Rebar and concrete placement inspections, and epoxy anchor bolt inspections. Concrete, Soils, and Asphalt Field Testing Technician."
+        },
+        {
+            "title": "ICC Special Inspector and CMT Technician",
+            "company": "Company Name City, State",
+            "start_date": "2014-11",
+            "end_date": "2015-03",
+            "description": "ICC Special Inspector; Reinforced Concrete Rebar and concrete placement inspections. Concrete, and Soils Field Testing Technician. Gradations, proctors, moisture content, -200 wash. Input data in computer programs and present final results to clients in timely, cost-effective professional manner."
+        },
+        {
+            "title": "ICC Special Inspector and CMT Technician",
+            "company": "Company Name City, State",
+            "start_date": "2014-05",
+            "end_date": "2014-11",
+            "description": "ICC Special Inspector; Reinforced Concrete Rebar and concrete placement inspections, and epoxy anchor bolt inspections. Concrete, Soils, and Asphalt Field Testing Technician."
+        },
+        {
+            "title": "Lab Manager/Lead Technician, Construction Materials Testing Lab",
+            "company": "Company Name City, State",
+            "start_date": "2010-06",
+            "end_date": "2013-11",
+            "description": "Rebar and concrete placement inspections, and epoxy anchor bolt inspections. Estimating potential job costs for proposals. Concrete, Soils, and Asphalt Field Testing Technician. Grout cubes and prisms; intermediate experience in Masonry. Lab Testing Technician: Gradations, proctors, moisture content, -200 wash, specific gravity/absorption, concrete/grout breaks, sand equivalent, percent fracture. Input data in computer programs and present final results to clients in timely, cost-effective professional manner."
+        },
+        {
+            "title": "Quality Control Inspector Level II",
+            "company": "URS-Washington Division - Eunice, NM-National Enrichment Facility",
+            "start_date": "2007-10",
+            "end_date": "2009-01",
+            "description": "QCI qualified in civil soils II, civil concrete II, receipt inspection II and coatings II. Verify field operations to ensure compliance with specifications, plans, procedures, ASTM, 10 CFR Part 50 Appendix B and ASME NQA-1. Perform QC inspections on the batch plant, concrete, grout, and backfill operations. Receipt inspection of concrete constituents as batch plant inspector."
+        },
+        {
+            "title": "CMT Technician II",
+            "company": "Hanford Nuclear Reservation-Vitrification Plant RPP-WTP",
+            "start_date": "2007-03",
+            "end_date": "2007-10",
+            "description": "Concrete, Soils, and Lab Materials Testing Technician Level II. Cross-reference job site specifications and plans, ASTMs, and other industry standards to ensure proper testing and inspection on a 10 CFR Part 50 and ASME NQA-1 job site. Sand-cones, Kelly ball drop, flow test, cast cylinders for CLSM. Grout flow, cast cubes and prisms."
+        },
+        {
+            "title": "Non-Permanent Transportation Technician II",
+            "company": "WSDOT-SCR - Union Gap, WA -Various projects",
+            "start_date": "2006-03",
+            "end_date": "2006-12",
+            "description": "Transportation Technician II (non-permanent) Concrete, Soils, and Asphalt Field Testing Technician. Read and interpret plans while cross-referencing with state specifications and construction manual. Layout including staking/marking various offsets, signing, monuments, and planned work. Inspected operations including grinding, rumble strip, replace/install RPMs, scaling, drilling and grouting of rock/anchor bolts, backfill, striping, guide posts, jersey barrier, curbing, weigh station, rock crushing plant, ticket taking on paver for quantities and yield."
+        },
+        {
+            "title": "Concrete, Soils, and Lab Materials Testing Technician Lead",
+            "company": "Hanford Nuclear Reservation-Vitrification Plant RPP-WTP",
+            "start_date": "2003-04",
+            "end_date": "2005-11",
+            "description": "In charge of testing frequencies to meet construction plans and specifications. Manage manpower to cover field and lab testing operations. Review all technicians' reports to ensure accuracy. Concrete, Soils, and Lab Materials Testing Technician Lead; in charge of 10 CFR Part 50 Appendix B and ASME NQA-1 job site."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma: College Preparation",
+            "school": "Eisenhower High School",
+            "year": "1999"
+        },
+        {
+            "degree": "Industrial Technology",
+            "school": "Western Washington University",
+            "year": "2002"
+        },
+        {
+            "degree": "Associate of Arts: Pre-Business",
+            "school": "Yakima Valley Community College",
+            "year": "2015"
+        },
+        {
+            "degree": "Bachelor of Science: Accounting",
+            "school": "Central Washington University",
+            "year": "2017"
+        }
+    ],
+    "certifications": [
+        "ICC Special Inspector- Reinforced Concrete",
+        "ACI Field Testing Technician Level 1",
+        "Nuclear Densometer Safety Handler"
+    ],
+    "languages": []
+}

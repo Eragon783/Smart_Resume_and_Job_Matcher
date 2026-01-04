@@ -1,0 +1,81 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Federal Way, WA",
+    "summary": "Human Resources/Office Manager with 4 years of experience in employee management, hiring, computer training and benefits. Detail-oriented, organized, and results-driven with strong communication, analytical and data-entry skills. Experienced in payroll, scheduling, training, and customer service.",
+    "skills": [
+        "Hiring and retention",
+        "Training and development",
+        "Employee relations",
+        "New hire orientation",
+        "Client relations",
+        "Customer satisfaction",
+        "Scheduling",
+        "Time management",
+        "Payroll and benefits administration",
+        "Accounts payable/receivable",
+        "Multi-tasking",
+        "Data entry",
+        "Confidential records handling",
+        "ADP Payroll",
+        "QuickBooks",
+        "Tenant Tracker",
+        "One-site",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Customer service"
+    ],
+    "experience": [
+        {
+            "title": "Office Manager",
+            "company": "Company Name - City , State",
+            "start_date": "May 2015",
+            "end_date": "November 2016",
+            "description": "Managed front office operations; data entry and records maintenance; handled payments (VA, MYCAA, DARS); assisted CNA instructor; recruited and interviewed applicants; managed I-9/W-2; conducted new employee orientation; advised managers on policy matters; supported programs to maximize customer satisfaction."
+        },
+        {
+            "title": "Leasing Specialist",
+            "company": "Company Name - City , State",
+            "start_date": "January 2014",
+            "end_date": "May 2015",
+            "description": "Collaborated with operations for rental inventory; prepared leasing reports; greeted prospective residents; conducted background/credit checks; managed money and bank procedures; facilitated move-ins; performed bank/corporate audits."
+        },
+        {
+            "title": "Administrative Assistant/Office Manager",
+            "company": "Company Name - City , State",
+            "start_date": "January 2013",
+            "end_date": "September 2013",
+            "description": "Managed purchasing, hiring, terminations and travel logistics; bi-weekly payroll via ADP; coordinated reporting, acquisitions, leases and sales; screened candidates and conducted interviews; maintained Excel spreadsheets."
+        },
+        {
+            "title": "Barista/Office Manager",
+            "company": "Company Name - City , State",
+            "start_date": "March 2012",
+            "end_date": "December 2012",
+            "description": "Managed 6 employees; payroll via ADP; bank deposits; sales and marketing; opening/closing the stand; scheduling; training new hires; maintained sales-tracking spreadsheets."
+        },
+        {
+            "title": "Retail Apparel Associate",
+            "company": "Company Name - City , State",
+            "start_date": "March 2010",
+            "end_date": "March 2012",
+            "description": "Cashier; merchandising; stock room to sales floor; daily customer service; opened/closed store; stock and fitting room oversight."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Federal Way High School",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "Certified Nurse Aide (CNA)",
+        "CPR Certification",
+        "BLS - Basic Life Support",
+        "Electrocardiogram certification (in progress)",
+        "Phlebotomy certification (in progress)"
+    ],
+    "languages": []
+}

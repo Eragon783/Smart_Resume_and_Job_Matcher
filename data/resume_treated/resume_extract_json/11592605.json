@@ -1,0 +1,86 @@
+{
+    "name": "Lisa",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Dedicated and focused Administrative Assistant who excels at prioritizing, completing multiple tasks simultaneously and following through to achieve project goals. Seeking a role of increased responsibility and authority. Highlights Microsoft Office proficiency Excel spreadsheets Meticulous attention to detail Results-oriented Self-directed Time management Professional and mature Self-starter Legal administrative support.",
+    "skills": [
+        "administrative",
+        "Administrative Assistant",
+        "bi",
+        "conferences",
+        "database",
+        "special events",
+        "filing",
+        "Human Resource Management",
+        "HR",
+        "Human Resources Management",
+        "Excel",
+        "Exchange",
+        "Microsoft Office",
+        "Office",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "newsletter",
+        "Paralegal",
+        "Performance Management",
+        "processes",
+        "Publications",
+        "Recruitment",
+        "Strategic Planning",
+        "Supervisor",
+        "training programs",
+        "travel arrangements",
+        "Visio",
+        "Website",
+        "workshops",
+        "annual reports"
+    ],
+    "experience": [
+        {
+            "title": "HR Generalist",
+            "company": "Company Name, City, State",
+            "start_date": "11/2008",
+            "end_date": "08/2014",
+            "description": "Managed visa related employment processes for all non-immigrant faculty and staff. Improved productivity and enhanced visa related services. Improved operational structure by developing guidelines and tools for internal and external administration of non-immigrant employment procedures Reduced internal employment authorization processing times by approximately 30 percent. Prepared, reviewed and submitted petitions for USCIS adjudication Maintained electronic database of petitions filed Served as a university point of contact for USCIS. Developed and presented university with guidelines to adhere to mandates presented by USCIS, USDHS and USDOS Presented monthly orientation Created, edited and internally distributed bi-annual newsletter Maintained HR Website."
+        },
+        {
+            "title": "Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "05/2000",
+            "end_date": "11/2008",
+            "description": "Provided advice to faculty, staff, scholars and students by interpreting complex regulatory guidelines. Thoroughly prepared and filed non-immigrant petitions to USCIS for non-immigrant students and employees. Maintained highly confidential and sensitive data Identified as Designated School Official for non-immigrant student programs and Alternate Responsible Officer overseeing the J-1 Exchange Visitor Program for J-1 employees Assisted foreign nationals in obtaining the H-1B visa status for employment in the U.S. Coordinated bi-annual student orientation Created training programs; supervised and trained volunteers Supervised Administrative Assistant and student employees Managed and coordinated student activities."
+        },
+        {
+            "title": "Coordinator/International Student Advisor/Secretary",
+            "company": "Company Name, City, State",
+            "start_date": "05/2000",
+            "end_date": "11/2008",
+            "description": "Drafted meeting agendas, supplied advance materials and executed follow-up for meetings and team conferences. Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Designed electronic file systems and maintained electronic and paper files. Handled all media and public relations inquiries. Planned meetings and prepared conference rooms. Wrote reports and correspondence from dictation and handwritten notes. Dispersed incoming mail to correct recipients throughout the office. Made copies, sent faxes and handled all incoming and outgoing correspondence. Created PowerPoint presentations used for business development. Organized files, developed spreadsheets, faxed reports and scanned documents. Managed daily office operations and maintenance of equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "ABA Approved Paralegal Program Certification",
+            "school": "",
+            "year": "2013"
+        },
+        {
+            "degree": "BA in Justice Studies",
+            "school": "Montclair State University",
+            "year": "2013"
+        },
+        {
+            "degree": "AS in Psychology",
+            "school": "Essex County College",
+            "year": "2002"
+        }
+    ],
+    "certifications": [
+        "SHRM Essentials of Human Resource Management — New York Institute of Technology, 2013"
+    ],
+    "languages": [
+        "English"
+    ]
+}

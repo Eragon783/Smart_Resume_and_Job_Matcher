@@ -1,0 +1,36 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Haifa",
+    "summary": "I'm self-taught. Everything I know I have learned on my own. I like to learn new things and add non-standard solutions. I am looking for my first job as a junior programmer or intern.",
+    "skills": [
+        "C++",
+        "Python",
+        "HTML",
+        "CSS",
+        "GIT",
+        "Boost",
+        "STL",
+        "OpenGL",
+        "CMake",
+        "SFML",
+        "SQLite",
+        "Microcontrollers",
+        "CURL"
+    ],
+    "experience": [],
+    "education": [
+        {
+            "degree": "Ulpan",
+            "school": "Beit Ulpan / UTime",
+            "year": 2022
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Russian (Native)",
+        "English (B1-B2)",
+        "Hebrew (A1-A2)"
+    ]
+}

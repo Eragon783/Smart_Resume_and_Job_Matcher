@@ -1,0 +1,52 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Chicago, IL",
+    "summary": "An internship opportunity under the Marketing Director of AKIRA Chicago, where I can demonstrate my knowledge of market trends and customer needs to help create innovative and effective marketing strategies.",
+    "skills": [
+        "Enthusiastic, friendly, and personable",
+        "Advanced problem-solving",
+        "Highly adaptable",
+        "Bilingual: English and Spanish",
+        "Effective communication skills",
+        "Works well within a team, as well as individually",
+        "Working knowledge of HTML 5 and CSS",
+        "Intermediate knowledge in Microsoft Word, PowerPoint, and Excel"
+    ],
+    "experience": [
+        {
+            "title": "Stylist",
+            "company": "Company Name",
+            "start_date": "Apr 2015",
+            "end_date": "Present",
+            "description": "Pulled entire wardrobes for clients, styling them from head to toe in our merchandise. Built a strong client base that remained loyal to myself and the brand. Made clients and customers feel welcome through excellent customer service. Upsell and suggest items to customers in order to exceed personal KPI stats ($80 per transaction, 3.0 units per transaction, $300 an hour). Created and hosted client shopping events for my loyal customer base to increase the store's end of day sales by 15%."
+        },
+        {
+            "title": "Keyholder",
+            "company": "Company Name",
+            "start_date": "Nov 2014",
+            "end_date": "Apr 2015",
+            "description": "Promoted a work environment that is positive, customer-service oriented, and compliant with established company policies and procedures. Monitored the activities of the store employees to maximize efficiency and respond to customers' needs in a timely fashion. Supervised sales floor ensuring key selling zones are covered. Cashier duties. Opened and closed the store."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "Feb 2014",
+            "end_date": "Nov 2014",
+            "description": "Greet and develop rapport with customers. Provide product information regarding features, trends, and styles of merchandise. Assisted customers and made suggestions based on knowledge of merchandise and customer. Maintained neat and organized merchandise through straightening, hanging, sizing, and merchandising."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA, Marketing",
+            "school": "DePaul University",
+            "year": 2019
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

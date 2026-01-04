@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "As a Microsoft employee, I am driven by customer obsession, growth mindset and One Microsoft principles. I have delivered engineering support, created services portfolio offerings, architected and delivered cloud migration engagements, and led cross-organizational initiatives to improve Skype for Business and Office 365 experiences through Get Healthy programs and proactive outreach.",
+    "skills": [
+        "go live",
+        "Architect",
+        "audio",
+        "Cisco",
+        "Citrix",
+        "Consultant",
+        "content development",
+        "delivery",
+        "designing",
+        "Engineer",
+        "Hub",
+        "Innovation",
+        "Office",
+        "migration",
+        "Enterprise",
+        "Network",
+        "Quality",
+        "real-time",
+        "Risk Assessment",
+        "sales",
+        "strategy",
+        "video"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Microsoft",
+            "start_date": "2016-02",
+            "end_date": "Present",
+            "description": "Consultant in the Enterprise Communications Global Practice (ECGP). Helped develop and expand the Get Healthy program; acted as a Solutions Architect for pre-sales, artefact and delivery activities; developed hybrid and Online frameworks; supported training of global delivery resources; engaged with customers such as 3M, Alcoa, Aon, Lubrizol and AllState to scope, customize and deliver Get Healthy offerings; assisted with AirLift deliveries and conducted technical interviews for Consultant and Architect level candidates."
+        },
+        {
+            "title": "Premier Field Engineer",
+            "company": "Premier Field Engineer",
+            "start_date": "2013-06",
+            "end_date": "2016-02",
+            "description": "DSE workload of at least 1600 hours; performed Risk Assessment as a Service and Office 365 Network Performance assessments for Delta Airlines and other customers; analyzed performance issues, performed KHI and CQM analysis, SCOM alert tuning, and helped environments move to real-time monitoring (StatsMan, Call Quality Dashboard). Part of the AIG O365 team as Lync DSE for two years; supported hybrid O365 strategies and consolidation/migration of Lync environments; assisted with merger/acquisition scenarios and configured/supported transitions from IM&P to enterprise voice; provided support for Citrix, Carnival Cruise Lines, Florida Hospital, Diebold, Kellogg's, and backup support for Amazon, Visa, Mastercard, Humana, Deloitte, King County, and State of Washington. Volunteered for MySkillsForAfrika and assisted Botswana Innovation Hub with Skype for Business deployment."
+        },
+        {
+            "title": "Lead Application Engineer",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2013-06",
+            "description": "Led design and engineering of unified communications solutions; served as Lead Lync Application Engineer. Migrated OCS 2007 R2 300-user deployment to on-premise Lync 2010 for 25K users; integrated Morgan Keegan's Lync 2010 environment; designed Lync 2013 architecture; completed Polycom integration with RMX and DMA; responsibilities included mobile device management design and implementations (BlackBerry, Good, ActiveSync, MobileIron)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate degree",
+            "school": "University of Stellenbosch",
+            "year": 1998
+        },
+        {
+            "degree": "Associate degree",
+            "school": "Nelson Mandela Metropolitan University",
+            "year": 1998
+        },
+        {
+            "degree": "Matriculation Certificate",
+            "school": "Collegiate Girls High School",
+            "year": 1996
+        }
+    ],
+    "certifications": [
+        "MCSE: Communication",
+        "MCSA: Office 365",
+        "MCITP: Lync Server Administrator 2010"
+    ],
+    "languages": []
+}

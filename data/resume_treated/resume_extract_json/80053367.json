@@ -1,0 +1,86 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "GENERAL ACCOUNTANT Career Focus To obtain a position which will allow me to utilize skills I have acquired through my education and work experiences while continuing to expand my knowledge. Energetic and motivated student dedicated to providing top-quality patient care. I have ten years of administrative support service with five years of that being in a senior position. I work proficiently in a team environment and demonstrate excellent interpersonal skills. I am detailed and multi-task oriented and believe that I can efficiently accomplish any task placed before me.",
+    "skills": [
+        "Basic Life Support (BLS) Certification",
+        "Post-operative care",
+        "Patient advocacy",
+        "Medical billing",
+        "Medical transcription",
+        "Administrative support",
+        "Bookkeeping",
+        "General ledger",
+        "Dun & Bradstreet reports",
+        "Credit limit establishment",
+        "Accounts receivable",
+        "Scheduling",
+        "Staffing",
+        "Subpoenas",
+        "HIPAA compliance",
+        "JCAHO compliance",
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "MS Outlook",
+        "RIS",
+        "Health Connect",
+        "Symposium",
+        "Mainframe",
+        "Abraxas",
+        "SAP",
+        "Typing 72 wpm",
+        "Customer service",
+        "Transcription",
+        "Data entry",
+        "Microsoft Office suite"
+    ],
+    "experience": [
+        {
+            "title": "General Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "April 2010",
+            "end_date": "April 2011",
+            "description": "Maintain general ledgers, bookkeeping, generate reports from Dun and Bradstreet, establish credit limits for new customers, balance books for end of month closing."
+        },
+        {
+            "title": "Medical Biller/Collector",
+            "company": "Company Name, City, State",
+            "start_date": "December 2009",
+            "end_date": "April 2010",
+            "description": "Post charges/payments, Maintained patient charts and confidential files, transcription, prepare progress reports for workers compensation cases, process liens for liability cases, manage M.D.'s calendars, prepare subpoenas, answer high-volume phones, front desk check-in and scheduling."
+        },
+        {
+            "title": "Lead of Clerical Services",
+            "company": "Company Name, City, State",
+            "start_date": "August 2000",
+            "end_date": "December 2009",
+            "description": "Provide administrative support for senior management, present education/training to all new clerical staff, including cross-training for multiple service areas, Maintained patient charts and confidential files, prepare statistical reports for senior management, transcribe diagnostic reports, prepare weekly staffing assignments, coordinate calendars and meetings, involvement in interviewing new-hires, organize general staff meetings to provide information to all levels of workforce, in addition to minute taking, prepare special handling reports, provide performance evaluations for all clerical staff, and prepare invoices from outside facilities. Prepared for HIPAA and JCAHO reviews, ensuring required brochures and pamphlets were available to patients in all clinics."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Nursing",
+            "school": "California State University, Northridge",
+            "year": "2016"
+        },
+        {
+            "degree": "Associate of Science in Nursing",
+            "school": "College of the Canyons",
+            "year": "2015"
+        },
+        {
+            "degree": "Registered Nursing",
+            "school": "",
+            "year": "July 2008-Current"
+        }
+    ],
+    "certifications": [
+        "Basic Life Support (BLS) Certification (2013-Present)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

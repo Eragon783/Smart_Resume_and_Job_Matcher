@@ -1,0 +1,142 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior Information Technology Professional with more than fifteen years of experience directing and managing large and complex IT Operations and Data Center. Resourceful thinker, methodical problem solver, and analytical in all facets of technical management. Proficient at educational and advanced enterprise related technology solutions. A strong, decisive leader who leads by example and hardworking professional focused on results and details. Fully bilingual in English and Spanish.",
+    "skills": [
+        "ADABAS",
+        "AIX",
+        "analyst",
+        "Application Development",
+        "Budgeting",
+        "business solution",
+        "CISCO",
+        "Coaching",
+        "Databases",
+        "Database",
+        "Department of Health",
+        "direction",
+        "documentation",
+        "edge",
+        "English",
+        "Forecasting",
+        "Frame Relay",
+        "IBM",
+        "DB2",
+        "information technology",
+        "innovation",
+        "leadership",
+        "Linux",
+        "Notes",
+        "Mentoring",
+        "Exchange",
+        "Office",
+        "SharePoint",
+        "Microsoft Windows",
+        "Enterprise",
+        "network",
+        "Networking",
+        "Networks",
+        "Operating Systems",
+        "OS",
+        "ORACLE",
+        "Performance management",
+        "personnel",
+        "PhD",
+        "PR",
+        "Process Improvement",
+        "Programming",
+        "Project Management",
+        "Rehabilitation",
+        "Relational Databases",
+        "SCADA",
+        "Supervisory Control and Data Acquisition",
+        "Servers",
+        "software development",
+        "Spanish",
+        "SQL",
+        "Staff Supervision",
+        "supervision",
+        "System Analysis and Design",
+        "Technical Management",
+        "Telecommunications",
+        "Tivoli",
+        "Track-It",
+        "Visio",
+        "water treatment"
+    ],
+    "experience": [
+        {
+            "title": "Deputy Director",
+            "company": "Information Technology Bureau",
+            "start_date": "January 2010",
+            "end_date": "Present",
+            "description": "Oversee and lead the Infrastructure & Operations IT Service, 24x7. This includes the supervision of four divisions: (1) Programming & Applications; (2) Networking & Communications; (3) Desktop Services & Support; and (4) Operating Systems & Database. Performance management and KPIs. Key Accomplishments: Oversees a department of 140 contractors and employees. Manages infrastructure data network of 9,300 users, 250 sites. Evaluates direct cutting edge technology solutions for the implementation of 53 IT projects."
+        },
+        {
+            "title": "Information Technology Director",
+            "company": "Company Name",
+            "start_date": "October 2009",
+            "end_date": "January 2010",
+            "description": "Provided technical leadership to a data center and technical supervision of analysts, programmers, database administrators, and network as well as the support personnel. Key Accomplishments: Managed Data Center for 900 employees. Developed an innovation and technological portfolio of IT projects in Vocational Rehabilitation Administration. Supported department documentation digitalization initiatives at the Department of Labor."
+        },
+        {
+            "title": "Senior IT Project Manager",
+            "company": "Company Name",
+            "start_date": "July 2004",
+            "end_date": "August 2009",
+            "description": "Delivered technical direction for a multimillion dollar Monitoring and Controlling System. Key Accomplishments: The total amount managed was 185 plants of filtration water and sewer water treatment with 1,540 facilities through the PR Island. SCADA - Supervisory Control and Data Acquisition). Technical supervised the software analyst, programmers and database administrators during the software development and implementations of Department of Health compliance systems. Career Notes."
+        },
+        {
+            "title": "IT Business Consultant",
+            "company": "Company Name",
+            "start_date": "January 2003",
+            "end_date": "June 2004",
+            "description": "Assist in computer network & voice integrator in over 11 Medical Center locations.Consulted for individuals and organizations in information technology business solution."
+        },
+        {
+            "title": "Information Technology Business Consultant",
+            "company": "Company Name",
+            "start_date": "January 2003",
+            "end_date": "August 2004",
+            "description": "Assist in computer network & voice integrator in over 11 Medical Center locations. Consulted for individuals and organizations in information technology business solution."
+        },
+        {
+            "title": "Professor",
+            "company": "Company Name",
+            "start_date": "January 2003",
+            "end_date": "June 2003",
+            "description": "Taught courses in (1) Optical Networking; (2) System Analysis and Design."
+        },
+        {
+            "title": "Professor",
+            "company": "Company Name",
+            "start_date": "September 1999",
+            "end_date": "August 2003",
+            "description": "Taught graduate courses in (1) Data Communication, Networks and Distributed Processing; (2) Computer Concepts and Programming Tools; (3) Relational Databases."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. in Organization and Management",
+            "school": "Capella University",
+            "year": null
+        },
+        {
+            "degree": "Educational Computing",
+            "school": "Inter American University",
+            "year": null
+        },
+        {
+            "degree": "BSBA in Finance & Computers",
+            "school": "University of Puerto Rico",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

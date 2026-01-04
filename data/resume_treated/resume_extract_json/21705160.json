@@ -1,0 +1,48 @@
+{
+    "name": "Rowena",
+    "email": null,
+    "phone": null,
+    "location": "Singapore",
+    "summary": "Dedicated aspiring fashion journalist with graphic design experience and event poster design, seeking opportunities to transfer to Rutgers University from De Anza College.",
+    "skills": [
+        "Graphic Designer",
+        "Posters"
+    ],
+    "experience": [
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name, City, State",
+            "start_date": "January 2014",
+            "end_date": "January 2015",
+            "description": "With a personal interest in design, Rowena served as one of the Club Officers from Fall 2014 to Spring 2015 as the Graphic Designer where she designs and creates event posters not only for the club itself but also other clubs on campus."
+        },
+        {
+            "title": "Human Resource Manager - Intern",
+            "company": "Company Name, City, State",
+            "start_date": "January 2006",
+            "end_date": null,
+            "description": ""
+        },
+        {
+            "title": "Sales Person",
+            "company": "Company Name, City, State",
+            "start_date": "January 2002",
+            "end_date": "January 2004",
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Holy Innocents' High School",
+            "year": 2010
+        },
+        {
+            "degree": "Journalism",
+            "school": "De Anza College",
+            "year": 2015
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

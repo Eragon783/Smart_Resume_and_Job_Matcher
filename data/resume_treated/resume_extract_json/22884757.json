@@ -1,0 +1,72 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Well organized, thorough, dedicated professional with documented success in undertaking various tasks and responsibilities. Experience in educational, office, and customer service environments. Degree in social work and TESOL certified, teaching English to speakers of other languages. Skilled in the use of technology and the presentation of impactful instruction in a classroom environment.",
+    "skills": [
+        "Creative Lesson Planning",
+        "Instructional Best Practices",
+        "Curriculum Development",
+        "Classroom Management",
+        "Standardized Testing",
+        "Learner Assessment",
+        "Technology-Based Instruction",
+        "Customer Service",
+        "Problem Resolution",
+        "Communication",
+        "Presentation",
+        "Interpersonal Relationships",
+        "Teamwork",
+        "Special Needs Students",
+        "Compliance",
+        "Policies",
+        "Procedures"
+    ],
+    "experience": [
+        {
+            "title": "English Teacher",
+            "company": "Company Name",
+            "start_date": "08/2016",
+            "end_date": "08/2017",
+            "description": "Planned and implemented lessons increasing vocabulary and sentence structure for students. Organized and participated in school activities and English camp for summer and winter vacation periods. Created challenging and engaging lesson plans. Successfully improved students' listening and speaking skills through diverse conversational activities."
+        },
+        {
+            "title": "English Teacher",
+            "company": "Company Name",
+            "start_date": "11/2015",
+            "end_date": "03/2016",
+            "description": "Taught English for kindergarten students. Participated in school recreational and social activities and national holiday celebrations."
+        },
+        {
+            "title": "Shampoo Staff",
+            "company": "Company Name",
+            "start_date": "08/2007",
+            "end_date": "01/2014",
+            "description": "Completed the shampooing procedure carefully after determining client's preferences,. Applied shampoo, massaged scalped, washed and dried hair. Assigned schedules for employees, organized products and the salon's appearance. Recommended product solutions based on the needs of customers. Trained new employees and products and procedures. Helped build the business by delivering excellent service, developing loyal customers."
+        },
+        {
+            "title": "Counselor",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Provided and maintained the highest standard of community based rehabilitation services within a team of direct service staff. Supported psychiatric rehabilitation and case management services to clients with mental illness. Interacted with clients on a daily basis, assisted with basic living skills, group activities, and outings.."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Social Work; Minor in Sociology",
+            "school": "University of Maryland",
+            "year": ""
+        },
+        {
+            "degree": "Study Abroad",
+            "school": "Yonsei University",
+            "year": "2015"
+        }
+    ],
+    "certifications": [
+        "Teaching English to Speakers of Other Languages (TESOL)"
+    ],
+    "languages": []
+}

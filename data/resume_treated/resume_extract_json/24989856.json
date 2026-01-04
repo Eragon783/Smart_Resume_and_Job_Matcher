@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Creative, hands-on professional with expertise in art direction and project management, marketing and special promotions.",
+    "skills": [
+        "CLERICAL",
+        "CLIENTELE",
+        "DATA ENTRY",
+        "DATA BASE",
+        "FASHION",
+        "INTERIOR DESIGN",
+        "INVENTORY",
+        "MARKETING",
+        "OFFICE",
+        "PHONE"
+    ],
+    "experience": [
+        {
+            "title": "KEYHOLDER",
+            "company": "Company Name",
+            "start_date": "01/2015",
+            "end_date": "Present",
+            "description": "MOD, MANAGER ON DUTY WHEN MANAGERS ARENT PRESENT; OPEN AND CLOSING OF STORE; RUNNING DAILY STORES PERFORMANCE REPORTS; OPENING DAY AND END OF DAY PAPERWORK; MANAGEMENT DUTIES, PUSHING ASSOCIATES TO SELL; BACK STOCK COORDINATOR; INVENTORY CLOSING; CASHIER; SAFE COUNT AND MONEY HANDLING"
+        },
+        {
+            "title": "CASHIER",
+            "company": "Company Name",
+            "start_date": "09/2014",
+            "end_date": "04/2014",
+            "description": "CASHIER; MAINTAINING COMPLETE KNOWLEDGE OF ALL FOOD AND BEVERAGE ITEMS, PRICES, AND AVAILABILITY; EFFECTIVELY WELCOMING EVERY CUSTOMER WHILE PROVIDING GREAT SERVICE; STORE MERCHANDISING, STOCKING AND ROTATING PRODUCTS; EFFICIENTLY WORKING THE REGISTER TO COMPLETE MONETARY TRANSACTIONS; UPON REQUEST RESPONSIBLE FOR COPYING AND E-MAILING CUSTOMER RECEIPTS"
+        },
+        {
+            "title": "SEASONAL SALES ASSOCIATE",
+            "company": "Company Name",
+            "start_date": "10/2013",
+            "end_date": "11/2013",
+            "description": "STORE CUSTOMER GREETER; MARKETING SPECIAL STORE PROMOTIONS OF WHOLE STORE; BUY ONE GET OTHER 50 PERCENT OFF; RESPONSIBLE FOR COMPLETING ALL ORDERS OVER PHONE; UPDATING CUSTOMER E-MAIL LIST; ASSISTING CUSTOMERS THROUGHOUT THE STORE"
+        },
+        {
+            "title": "SEASONAL SALES ASSOCIATE",
+            "company": "Company Name",
+            "start_date": "10/2013",
+            "end_date": "12/2013",
+            "description": "IN STORE CUSTOMER GREETER; IN CHARGE OF ASSISTING VISUAL AND FLOOR DISPLAYS TO ENSURE EVERYTHING MEETS STORE'S STANDARDS; MARKETING FOR ALL SPECIAL PROMOTIONS; CASHIER; ASSISTING CUSTOMERS WITH SHOES, ACCESSORIES, AND BAGS; CUSTOMER ORDER SHIPMENTS AND INVENTORY"
+        },
+        {
+            "title": "STORE COORDINATOR",
+            "company": "Company Name",
+            "start_date": "02/2010",
+            "end_date": "08/2010",
+            "description": "ORGANIZED ALL MANNEQUIN DISPLAYS; MANAGED PROJECTS ACCORDING TO TIMELINE AND SEASONAL CHANGES; VISUAL MERCHANDISING FOR STORE; IN CHARGE OF OPEN AND CLOSING STORE; IN CHARGE OF UPDATING AND REPORTING STORE INVENTORY; UPDATING CLIENTELE LIST; RESPONSIBLE FOR HELPING CUSTOMERS LIFT HEAVY ITEMS TO THEIR CAR SUCH AS FURNITURE; ASSISTING ALL CUSTOMERS OVER PHONE"
+        },
+        {
+            "title": "STUDIO COORDINATOR",
+            "company": "Company Name",
+            "start_date": "04/2009",
+            "end_date": "09/2009",
+            "description": "ORGANIZED INTERIOR DESIGN FOR THE BUILDING; MARKETING FOR ALL SPECIAL PROMOTIONS; HEAD OF CLERICAL AND SECRETARY WORK; STORE VISUAL MERCHANDISER; MANAGING ALL MANNEQUINS AND JEWELRY DISPLAYS; RESPONSIBLE FOR CREATING STUDIO EVENTS SUCH AS MAKEUP AND BEAUTY BAR OUTING, GALLERY HOP FASHION GRAND OPENING NIGHT; MAKING APPOINTMENTS; TAGGING AND PRICING ITEMS"
+        },
+        {
+            "title": "DATA ENTRY SPECIALIST",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "01/2011",
+            "description": "TRANSPORTED VARIOUS PETITIONS AND SURVEYS INTO ITS DESIGNATED COUNTY OFFICE; CIRCULATED PETITIONS FOR CERTAIN ISSUES; ENTERED INTO COMPANY DATABASE; BEGAN AS A PETITIONER WHILE GETTING PROMOTED INTO A DATA ENTRY SPECIALIST FOR THE QUALITY CONTROL DEPARTMENT; ENGAGING QUESTIONNAIRE ASSISTANCE OVER PHONE"
+        },
+        {
+            "title": "SERVED",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "11/2013",
+            "description": "IN VARIOUS AREAS OF THE ESTABLISHMENT ENSURING GREAT CUSTOMER EXPERIENCE; ALLOWING A PROMOTION TO CERTIFIED TRAINER; IN CHARGE OF INVENTORY, SPECIAL PROMOTIONS; GATHERS NEW INFORMATION FOR NEW EMPLOYEES; GIVES FEEDBACK AND REVIEWS PAPERWORK TO DETERMINE WORKING STATUS; MANAGED PROJECTS ACCORDING TO TIMELINE AND SEASONAL CHANGES"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "school": "Columbus State Community College",
+            "year": "2010"
+        }
+    ],
+    "certifications": [
+        "Certified Trainer"
+    ],
+    "languages": []
+}

@@ -1,0 +1,90 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "I am an Marketing Specialist that creates and executes first class corporate and store events, marketing plans, and social media content to support stores sales objectives as well as company's overall objectives. I am seeking a corporate event planning or marketing position. Planned multiple events for new Scheels stores including a number of PR events as well as formal events. Major projects included social media development for our 26 stores and planning multiple expos and conferences.",
+    "skills": [
+        "advertising",
+        "attention to detail",
+        "brochures",
+        "budgets",
+        "excellent communication",
+        "conferences",
+        "content",
+        "contracts",
+        "clients",
+        "customer service",
+        "email",
+        "financial",
+        "fundraising",
+        "leadership",
+        "logistics",
+        "marketing plans",
+        "marketing",
+        "marketing and communications",
+        "marketing communications",
+        "marketing material",
+        "materials",
+        "meetings",
+        "personnel",
+        "press releases",
+        "understand store",
+        "promotion",
+        "proposals",
+        "purchasing",
+        "quality",
+        "radio",
+        "strategy",
+        "strategic",
+        "TV",
+        "trade shows",
+        "travel arrangements"
+    ],
+    "experience": [
+        {
+            "title": "Events & Public Relations Leader",
+            "company": "Company Name",
+            "start_date": "12/2015",
+            "end_date": "Present",
+            "description": "Collaborate with marketing leaders to understand store markets and develop event and marketing plans by region. Create an annual events strategy aligned with store goals, and lead the development and execution of strategic events, trade shows, demos, expos, sponsorships, community involvement, and conferences. Develop marketing plans for events and store promotions; create event content for social media, blogs, in-store signage, radio and other media. Act as project manager to coordinate vendors, agencies and internal teams, ensuring timelines, brand standards, objectives and budgets are met. Coordinate registration and payments, promotional advertising and mailings, and corporate sponsorship activities. Maintain budget tracking, seek cost-saving methods, and conduct pre/post event evaluations to improve ROI and future initiatives."
+        },
+        {
+            "title": "Events Coordinator",
+            "company": "Company Name",
+            "start_date": "12/2014",
+            "end_date": "11/2015",
+            "description": "Order, proof and create marketing materials for events and promotions; write copy for communications including in-store signage, blogs, press releases, Facebook events, radio and email blasts. Schedule speakers, vendors and participants; coordinate event logistics and attendee tracking; provide on-site support, including staffing, security and entertainment. Manage budgets, organize logistics, and report status to store directors and leadership."
+        },
+        {
+            "title": "Project Assistant",
+            "company": "Company Name",
+            "start_date": "09/2013",
+            "end_date": "10/2014",
+            "description": "Plan Grand Openings for healthcare, education and sports & recreation building projects. Coordinate trainings, luncheons/dinners, business meetings, and travel arrangements. Create and updated marketing content including proposals, brochures, invites and social media. Prioritized, generated and tracked contracts, as requested by Project Managers, with sharp deadlines to ensure projects stay on timelines. Invoiced large financial payments and assisted in tracking budgets with great attention to detail on multimillion dollar projects mostly in the healthcare industry. Organized required catering service, venture and equipment setup for events including golf tournaments, appreciation dinners and company retreat. Provided the highest level of customer service to customers and clients. Addressed customer questions, concerns and needs in a professional manner."
+        },
+        {
+            "title": "Marketing & Events Intern",
+            "company": "Company Name",
+            "start_date": "12/2012",
+            "end_date": "11/2013",
+            "description": "Collaborated with team to strategically plan most profitable fundraising events while creating awareness for our non-profits mission. Proposed, purchased and assembled local advertising for events including radio, print and social. Delegated responsibly to interns before and during the events to run seamless events. Coordinated event logistics, including registration and attendee tracking, presentation and materials support and pre and post-event evaluations. Created and update social media channels including Facebook, Twitter, Instagram and Pinterest."
+        },
+        {
+            "title": "Marketing Intern",
+            "company": "Company Name",
+            "start_date": "07/2012",
+            "end_date": "09/2012",
+            "description": "Assisted in planning and promotion of a variety of local events including Mankato Marathon, Senior Games, Ribfest, Mankato Air Show, Vikings Training Camp booths. Coordinated the technical needs of events including administering contracts, purchasing materials, obtaining permits, arranging security and parking, and soliciting vendors and sponsors."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in Mass Communications / Business Marketing",
+            "school": "Minnesota State University",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

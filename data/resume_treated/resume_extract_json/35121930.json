@@ -1,0 +1,53 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Albuquerque, NM",
+    "summary": "To apply my current education to obtain placement in an agency that provides services to clients who are seeking treatment for substance use/abuse, Intimate Partner Violence , and PTSD.",
+    "skills": [
+        "Approach",
+        "agency",
+        "child care",
+        "client",
+        "clients",
+        "Fashion",
+        "futures",
+        "mechanical",
+        "meetings",
+        "money",
+        "works",
+        "quality",
+        "Safety"
+    ],
+    "experience": [
+        {
+            "title": "Manufacturing Technician Ops Coordinator",
+            "company": "Company Name",
+            "start_date": "01/2001",
+            "end_date": "09/2007",
+            "description": "Certified Level 2 Ops Coordinator for Wet Etch and Thin Films. Responsible for communicating area priorities. Responsible for attending Middle of Shift and End of Shift meetings to discuss the area strengths, weaknesses and tool availability."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors of Social Work",
+            "school": "New Mexico Highlands University",
+            "year": "2015"
+        },
+        {
+            "degree": "Associates of Arts: Child, Youth, and Family Development Social Work",
+            "school": "Central New Mexico Community College",
+            "year": "2014"
+        },
+        {
+            "degree": "Associates of Science: Electronic Engineering Technology",
+            "school": "ITT Technical Institute",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Certified Level 2 Trainer",
+        "Certified Level 2 Ops Coordinator"
+    ],
+    "languages": []
+}

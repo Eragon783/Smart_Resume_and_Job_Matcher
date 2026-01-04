@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Personable education professional driven to inspire students to achieve personal and academic success; exceptional written and verbal communicator; committed to cultivating student leadership; innovative thinker; natural leader; positive and cheerful; active listener.",
+    "skills": [
+        "bookkeeper",
+        "Child Care",
+        "conferences",
+        "counseling",
+        "documentation",
+        "Educator",
+        "email",
+        "Human Resources",
+        "Internet navigation",
+        "meetings",
+        "mentor",
+        "Microsoft Office products",
+        "next",
+        "Organizational",
+        "evaluation of patients",
+        "problem solving skills",
+        "progress",
+        "reporting",
+        "safety",
+        "Staff Development",
+        "Teacher",
+        "teaching",
+        "team player",
+        "Time Management",
+        "unique",
+        "Workshops"
+    ],
+    "experience": [
+        {
+            "title": "Director/Preschool Teacher",
+            "company": "Company Name",
+            "start_date": "08/2008",
+            "end_date": "Present",
+            "description": "Oversee curriculum, enrichment, continuing education, human resources, staff development, registrar duties, and supply procurement. Respond to inquiries, organize registrations, schedule tours, ensure compliance with NH licensing standards, mentor kindergarten teachers, supervise staff, coordinate curriculum planning, evaluate student progress, plan field trips, and collaborate with Curriculum Committee."
+        },
+        {
+            "title": "Lead Teacher",
+            "company": "Company Name",
+            "start_date": "09/2006",
+            "end_date": "06/2008",
+            "description": "Plan, prepare, and implement all aspects of each student's educational goals and objectives according to their IEP; wrote progress reports; maintained documentation; participated in TEAM meetings; collaborated with therapists and instructional aides."
+        },
+        {
+            "title": "Kindergarten Teacher",
+            "company": "Company Name",
+            "start_date": "06/1999",
+            "end_date": "08/2006",
+            "description": "Delivered daily instruction to kindergarten students; helped develop self-confidence, social skills, problem solving, and safety; fostered a love of learning; created personalized curricula; engaged with faculty, staff, parents, and students to support development."
+        },
+        {
+            "title": "Mental Health Counselor",
+            "company": "Company Name",
+            "start_date": "01/1999",
+            "end_date": "04/1999",
+            "description": "Processed evaluations; conducted individual and group counseling; led in-group discussions and workshops on topics such as drug/alcohol prevention, anger management, family concerns, dispute resolution, and motivation; followed reporting procedures and consulted with families, schools, and administrators."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Psychology (Child Welfare)",
+            "school": "University of West Florida",
+            "year": "1999"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

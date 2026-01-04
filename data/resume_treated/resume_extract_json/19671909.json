@@ -1,0 +1,99 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior educational administrator with extensive experience as a middle school principal, focused on expanding administrative capabilities, building positive relationships and transparent leadership, and driving student achievement through data-driven instruction and professional development.",
+    "skills": [
+        "Leadership",
+        "Communication",
+        "Human Resources",
+        "Employee Relations",
+        "Self-motivation",
+        "Customer Orientation",
+        "Training and Development",
+        "Teamwork",
+        "Organizational Skills",
+        "Performance Evaluations",
+        "Data-Driven Instruction",
+        "Curriculum Development",
+        "Data Analysis",
+        "Instructional Coaching",
+        "School Improvement",
+        "RTI",
+        "Collaboration",
+        "Mentoring",
+        "Classroom Observation",
+        "Data Management",
+        "Student Support",
+        "Stakeholder Engagement"
+    ],
+    "experience": [
+        {
+            "title": "Middle School Principal",
+            "company": "Harper Creek Middle School",
+            "start_date": "July 2008",
+            "end_date": "June 2015",
+            "description": "Supervised and evaluated certified and non-certified staff; implemented a pilot staff evaluation model; oversaw general and special education staff and ensured compliance with IEP/504/Title I and at-risk services; planned and implemented book studies and professional development; mentored staff, led school improvement teams, and facilitated data-driven instructional decisions; maintained parent communication and supervised athletic programs; facilitated Title I audits and mediated student issues; contributed to Administrative Team and designed differentiated instruction."
+        },
+        {
+            "title": "Assistant Middle School Principal",
+            "company": "Harper Creek Middle School",
+            "start_date": "August 2005",
+            "end_date": "July 2008",
+            "description": "Evaluated certified and non-certified staff; supervised extracurricular activities; supported transitions between grades; assisted in planning school improvement and professional development; supervised special education teachers; educated students and families on academic and behavioral expectations; managed disciplinary issues and fostered district-wide positive relationships; delivered professional development for district bus drivers to support safe transportation."
+        },
+        {
+            "title": "High School Language Arts Teacher; K-12 Career Preparation Coordinator; HS At-Risk Programming Coordinator; Freshmen Class Advisor",
+            "company": "Harper Creek School District",
+            "start_date": "June 1999",
+            "end_date": "July 2005",
+            "description": "Taught high school language arts; coordinated K-12 career preparation and at-risk programming; advised freshmen class; contributed to program development and student support initiatives."
+        },
+        {
+            "title": "Student Government Advisor; School Improvement Team Committee Chairperson; OEA Negotiating Team member",
+            "company": "Harper Creek Middle School",
+            "start_date": "August 1994",
+            "end_date": "June 1999",
+            "description": "Advised student government; chaired School Improvement Team; participated in OEA negotiating team; supported school-wide improvement and staff collaboration."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Educational Leadership",
+            "school": "Western Michigan University",
+            "year": "2000"
+        },
+        {
+            "degree": "Bachelor of Arts in English and Psychology",
+            "school": "Hillsdale College",
+            "year": "1993"
+        },
+        {
+            "degree": "Secondary Teaching Certificate in English and Psychology",
+            "school": "Hillsdale College",
+            "year": "1993"
+        }
+    ],
+    "certifications": [
+        "The Thoughtful Classroom Teacher Evaluation System",
+        "MCEE pilot program with University of Michigan",
+        "Principals' NCLB and Title I Boot Camp",
+        "Nonviolent Crisis Intervention",
+        "Three Minute Classroom Walk-through",
+        "Data 4 Student Success",
+        "National Middle School Conference",
+        "Lucy Calkins Reading/Writing Workshops; Daily 5",
+        "Cognitive Coaching",
+        "Second Order Change",
+        "Distributive Leadership",
+        "How Leadership Influences Student Learning",
+        "In Search of School Leadership",
+        "Cultivating a Climate of Change",
+        "Teacher Leader Skills",
+        "Reading Apprenticeship: Rethinking Secondary Literacy Strategies"
+    ],
+    "languages": [
+        "English"
+    ]
+}

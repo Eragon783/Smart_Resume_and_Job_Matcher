@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "South Carolina, USA",
+    "summary": "Skilled and experienced classroom teacher certified and licensed to teach in the State of South Carolina. Demonstrated knowledge of successful teaching, behavior modification and classroom management. Ready to help students by leveraging training, skills and many years of classroom experience.",
+    "skills": [
+        "Microsoft Office",
+        "Modern classroom technology",
+        "Conflict Resolution",
+        "IEP familiarity",
+        "Organization/Planning",
+        "First Aid",
+        "BLS CPR Training",
+        "Positive learning environment",
+        "Student-centered learning",
+        "Lesson planning",
+        "Classroom management",
+        "Grading procedures",
+        "Technology integration",
+        "Inquiry-based learning",
+        "Test proctoring",
+        "Staff training",
+        "Tutoring",
+        "Workshops",
+        "Supervising",
+        "Teaching",
+        "Education",
+        "Communication"
+    ],
+    "experience": [
+        {
+            "title": "Classroom Teacher",
+            "company": "Company Name - City, State",
+            "start_date": "2014-08",
+            "end_date": "2017-06",
+            "description": "Performed all aspects of classroom management. Instructed students and provided individual support as needed. Documented attendance, assignments, grades and participation. Planned lessons, activities and trips to cover all required course material. Collaborated with parents, administrators and counselors to develop improvement plans for struggling students. Developed activities and integrated technology to diversify instruction. Met with parents to resolve conflicting educational priorities and issues. Created new lesson plans based on course objectives."
+        },
+        {
+            "title": "Classroom Teacher",
+            "company": "Company Name - City, State",
+            "start_date": "1998-08",
+            "end_date": "2014-06",
+            "description": "Collaborated with parents, administrators and counselors to develop improvement plans for struggling students. Administered quizzes and tests to assess student understanding of material. Documented attendance, assignments, grades and participation. Fostered meaningful relationships among students through student field-trip retreats and team-work community service projects. Served on School Affiliation Board and revised the institute's policies and rules. Created new lesson plans based on course objectives. Met with parents to resolve conflicting educational priorities and issues."
+        },
+        {
+            "title": "Classroom Assistant",
+            "company": "Company Name - City, State",
+            "start_date": "1989-08",
+            "end_date": "1998-06",
+            "description": "Maintained student safety in classroom and outside environments. Documented behaviors, interventions and results. Met with team of professionals from different disciplines to implement comprehensive action plan. Worked with individual students to provide personalized educational, behavioral and emotional support. Provided diverse assistance to teachers, including clerical support, classroom management and document coordination. Prepared instructional materials for group and one-on-one use. Developed and taught lessons on relevant children's books, poems, movies and themes to promote student interest."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Teaching Social Studies",
+            "school": "Winthrop University",
+            "year": 2018
+        },
+        {
+            "degree": "Bachelor of Arts in Sociology",
+            "school": "Coker College",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        "SC Certified",
+        "SCST Read to Succeed certification",
+        "First Aid Certification",
+        "CPR Certification"
+    ],
+    "languages": [
+        "English"
+    ]
+}

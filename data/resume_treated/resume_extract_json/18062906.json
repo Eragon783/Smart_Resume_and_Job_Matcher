@@ -1,0 +1,109 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Extremely loyal, ambitious and a hard working individual looking to leverage my high level of customer service skills to excel in a professional sales environment.",
+    "skills": [
+        "Assembly",
+        "hardware",
+        "customer satisfaction",
+        "customer service",
+        "database",
+        "direction",
+        "drivers",
+        "electronics",
+        "Forklift",
+        "Macola",
+        "Works",
+        "neat",
+        "cameras",
+        "pricing",
+        "Receiving",
+        "retail",
+        "routing",
+        "Safety",
+        "selling",
+        "sales",
+        "soldering",
+        "troubleshoot",
+        "type",
+        "well organized"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Care Wear Uniforms",
+            "start_date": "2014-01",
+            "end_date": "2014",
+            "description": "Replenish product bins and product racks. Load/Unload vans at various hospitals. Set up retail type stores in said various hospitals. Inform customers about new product. Assist customers with their purchases. Receiving and preparing product, maintaining the Grocery floor and displays, and selling product in support of regional Grocery standards. Providing courteous, friendly, and efficient customer service. Give every customer immediate and undivided attention. Surprise and delight the customers with consistent, delicious food. Ensure a fresh and appealing display by keeping cases and shelves clean and well stocked by front-facing, checking codes, rotating, and removing out-of-date products. Maintain accurate department signage and pricing. Stock and clean grocery shelves, bulk bins, frozen and dairy case. Keep Grocery department clean, sweep floors and maintain sweep logs. Assist with sampling program, keeping sample areas full, clean, and appealing. Follow and comply with all applicable health and sanitation procedures and adhere to safe work practices. Operate and sanitize all Grocery equipment in a safe and proper manner."
+        },
+        {
+            "title": "Road Safety",
+            "company": "",
+            "start_date": "2013",
+            "end_date": "2013",
+            "description": "Controls movement of vehicular traffic through construction projects: Discusses traffic routing plans, and type and location of control points with superior. Distributes traffic control signs and markers along site in designated pattern. Directs movement of traffic through site, using sign, hand, and flag signals. Warns construction workers when approaching vehicle fails to heed signals to prevent accident and injury to workers. Informs drivers of detour routes through construction sites."
+        },
+        {
+            "title": "Warehouse",
+            "company": "Memorize System Pavers",
+            "start_date": "2012",
+            "end_date": "2012",
+            "description": "30 minute sales presentation. Visit potential customers at their homes and helped design their dream yards and hard scape. Provided accurate designs, estimates and payment plans to homeowners on first visit."
+        },
+        {
+            "title": "Labor / Utility",
+            "company": "Rancho Murrieta Community Services District",
+            "start_date": "2012",
+            "end_date": "2012",
+            "description": "Performs a variety of unskilled and semiskilled labor tasks in the construction and maintenance of water distribution and wastewater collection systems, drainage systems, roads, pipelines and other District facilities. Works in or around hazardous electrical panels and equipment; assists operations staff as needed. Reads residential and commercial meters; maintains simple records and logs. Maintains districts open channels and ditch systems."
+        },
+        {
+            "title": "Assembler/Technician",
+            "company": "Paragon Products",
+            "start_date": "2011",
+            "end_date": "2011",
+            "description": "Assembly of inverters including soldering capacitors, modifying boards, assembling hardware, hi-pot testing and frequency setting. Mixing and pouring of epoxy to pot electronics assemblies. Validate, troubleshoot, and repair pumps using predefined pass/fail criteria. Installs inverters on pump assemblies. Record completed serial numbers in Macola database."
+        },
+        {
+            "title": "Food Service / Customer Interaction",
+            "company": "Relish Burger Bar",
+            "start_date": "2010",
+            "end_date": "2010",
+            "description": "Inspect, arrange, and run food in an up-tempo environment. Assist managers and other staff members in the upkeep of the restaurant. Interact with customers and ensure customer satisfaction while upselling seasonal and promotional items."
+        },
+        {
+            "title": "Server / Customer Service",
+            "company": "Red Robin",
+            "start_date": "2008",
+            "end_date": "2008",
+            "description": "Inspect, arrange, and run food in an up-tempo environment. Assist managers and other staff members in the upkeep of the restaurant. Interact with customers and ensure customer satisfaction while upselling seasonal and promotional items."
+        },
+        {
+            "title": "Courtesy Clerk",
+            "company": "",
+            "start_date": "2008-01",
+            "end_date": "2008",
+            "description": "Maintained a neat and well organized area. Product organization and stocked new products as needed. Responsible for customer satisfaction."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Sport Management",
+            "school": "Culver-Stockton College",
+            "year": 2010
+        },
+        {
+            "degree": "Associate of Science in Sport Management",
+            "school": "Sacramento City College",
+            "year": 2007
+        }
+    ],
+    "certifications": [
+        "OSHA Forklift Certified",
+        "ATSSA Flagger Certified",
+        "CDL Class B with Tanker Endorsement"
+    ],
+    "languages": []
+}

@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Experienced with multiple years of client relations, leadership, team building, strong analytical skills, managerial and project management knowledge. I seek to join a dynamic firm where my attention to detail and creative professional services can be valuable. Highlights Microsoft Office Suite, Dynamic AX, Access, Excel, PowerPoint and Word. Microsoft Teams. Experienced with Oracle, PeopleSoft, Sales Force, SAP, Jira, SharePoint and Gantt Chart Scheduler. Possess strong written and verbal communication skills. Possess strong knowledge of project management lifecycle. Streamline, Real time Ad, Reporting Advertisements, Sales Advertising, SAP Ad copy, Scheduling Agile, Verbal communication skills Automation, Workbench Billing, Written Budgets Budget Cable Hardware Client Clients Database Engineering projects Financial Focus Inventory Leadership Managing Market trends Access Excel Microsoft Office Suite PowerPoint SharePoint Word Works Networks Oracle PeopleSoft Processes Project management Proposals Skills Microsoft Office Suite, Dynamic AX, Access, Excel, PowerPoint and Word. Microsoft Teams. Experienced with Oracle, PeopleSoft, Sales Force, SAP, Jira, SharePoint and Gantt Chart Scheduler. Possess strong written and verbal communication skills. Possess strong knowledge of project management lifecycle. Streamline, ad, advertisements, advertising, ad copy, agile, automation, billing, budgets, budget, cable, hardware, client, clients, database, engineering projects, financial, focus, inventory, leadership, managing, market trends, Access, Excel, Microsoft Office Suite, PowerPoint, SharePoint, Word, Works, Networks, Oracle, PeopleSoft, Processes, Project management, Proposals, Real time, Reporting, Sales, SAP, Scheduling, Verbal communication skills, Workbench, Written",
+    "skills": [
+        "Microsoft Office Suite",
+        "Dynamic AX",
+        "Access",
+        "Excel",
+        "PowerPoint",
+        "Word",
+        "Microsoft Teams",
+        "Oracle",
+        "PeopleSoft",
+        "Salesforce",
+        "SAP",
+        "Jira",
+        "SharePoint",
+        "Gantt Chart Scheduler",
+        "Agile",
+        "Scheduling",
+        "Advertising",
+        "Ad copy",
+        "Real-time Ad",
+        "Automation",
+        "Workbench Billing",
+        "Budgets",
+        "Budget",
+        "Cable Hardware",
+        "Database",
+        "Engineering projects",
+        "Financial",
+        "Inventory",
+        "Leadership",
+        "Market trends",
+        "Projects management lifecycle",
+        "Proposals",
+        "Verbal communication",
+        "Written communication",
+        "Sales",
+        "Reporting",
+        "Process",
+        "Open Workbench"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Project Manager",
+            "company": "Company Name",
+            "start_date": "05/2015",
+            "end_date": "07/2017",
+            "description": "Managed various engineering projects from start to finish while cultivating the client relationship and overall sales processes both internally and externally. Tracked and reported key performance indicators while keeping present with market trends. Created data automation processes for managing projects. Processed proposals for new and existing customers with intentional sales tactics. Increased department sales revenue by 65%; achieved financial objectives by preparing annual department budgets and scheduling expenditures via Microsoft AX/AX7."
+        },
+        {
+            "title": "Sr. Project Manager",
+            "company": "Company Name",
+            "start_date": "07/2017",
+            "end_date": "03/2017",
+            "description": "Managed high volume projects from training to installation of door hardware locks and automation locking systems for various hotel chains; 60 projects on average with use of agile methology discipline and use of Microsoft AX 365. Handled rotating schedules while delivering projects on time and on budget for the department. Developed processes that help streamline project milestones; created action plans based on client needs. Communicated real time project status and changes to clients/upper leadership as needed in accordance with project guidelines and clarity reporting open workbench software. Leader of special projects from Marriott, Hyatt and Hilton that require more detailed focus; Investigated, analyzes and recommended solutions for client implementation issues."
+        },
+        {
+            "title": "Sr. Traffic Coordinator Ad Manager",
+            "company": "Company Name",
+            "start_date": "02/2010",
+            "end_date": "05/2015",
+            "description": "Responsible for scheduling and ensuring commercial advertisements air on cable networks per client's contract. Worked with clients and agencies to ensure ad copy and instructions are received and correct copy is ran; Inputs the titles of client advertisements into database and enters the instructions for ad airing. Maximized billing opportunities by evaluating sold and scheduled inventory and adjusting commercial placement as needed. Developed technical and systematic procedures to assist in the servicing of clients in addition to identifying problems and recommended solutions as needed. Reviewed various documents for accuracy, and works with sales to resolve issues with changes or missing information against the initial advertising contract per client; Average client load 25."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Communication",
+            "school": "Oakland University",
+            "year": "2015"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

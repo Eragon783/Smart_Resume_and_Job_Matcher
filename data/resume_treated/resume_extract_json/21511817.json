@@ -1,0 +1,104 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Executive Chef with a two year culinary degree and one year experience in high-pressure culinary environments. Skilled in preparing large volumes of food quickly and efficiently. Seeking to use culinary skills and expertise to prepare a special variety of dishes in a professional, rewarding environment.",
+    "skills": [
+        "High volume production capability",
+        "Focus on portion and cost control",
+        "Inventory management familiarity",
+        "Army",
+        "Basic",
+        "budget",
+        "CA",
+        "Controller",
+        "counseling",
+        "drivers",
+        "forecasting",
+        "Government",
+        "instruction",
+        "Instructor",
+        "Leadership",
+        "Leadership Development",
+        "law",
+        "local government",
+        "logistics",
+        "mentoring",
+        "personnel",
+        "policies",
+        "quality",
+        "quality assurance",
+        "safety",
+        "Trainer"
+    ],
+    "experience": [
+        {
+            "title": "Executive Chef",
+            "company": "",
+            "start_date": "January 2014",
+            "end_date": "October 2014",
+            "description": "Responsible for planning all aspects of dietary operations, including setting priorities and job assignments for a one hundred and twenty person assisted health care facility to include seventy five staff members. Managed dietary budget to include labor cost, forecasting, and ordering. Responsible for the quality and appearance of food, the morale of the staff. Developed positive relationships on behalf of the company with residents, families, and state and local government officials."
+        },
+        {
+            "title": "Associate Pastor",
+            "company": "",
+            "start_date": "March 2013",
+            "end_date": "Present",
+            "description": "Assist Senior Pastor as the church's Outreach Minister by mentoring and counseling members of the church and community who have or are continuing to struggle with drugs and alcohol. Prepared when called upon to preach sermons and assume leadership role when the Senior Pastor is away. Responsible for preparing Wednesday Evening Meals for up to seventy five church members."
+        },
+        {
+            "title": "Warehouse Worker/Delivery Driver",
+            "company": "",
+            "start_date": "July 2011",
+            "end_date": "October 2012",
+            "description": "Assisted Warehouse Manager and Shop Manager with the loading and off loading of equipment and logistics off of large trucks. Was often called upon to transport trucks to various locations throughout the country."
+        },
+        {
+            "title": "Safety Director/Office Manager",
+            "company": "",
+            "start_date": "August 2010",
+            "end_date": "June 2011",
+            "description": "Responsible for ensuring the safe practice of truck drivers, mechanics, and oilfield workers throughout East Central Mississippi and West Alabama. Coordinates and implements a training program in occupational and environmental safety. Responsible for the quality assurance inspections of equipment and personnel before, during, and after operations. Responds to accidents and recommends changes to policies and procedures when necessary."
+        },
+        {
+            "title": "Master Sergeant",
+            "company": "",
+            "start_date": "January 1983",
+            "end_date": "July 2010",
+            "description": "Passed on to others, who are in leadership positions instruction and guidance in effort to enhance unit effectiveness based on own experiences. Assisted the Commanding General in determining the state of discipline, morale and readiness throughout the 311th command which consists of over 6,300 service members on four different base camps in Kuwait. Conducted Inspector General Inquiries, along with high profiled investigations and inspections. Received and analyzed complaints from Soldiers and Government Civilian Employees, then ran reports and data to determine possible violation of military or federal law, or policies set by the appropriate commanders then assisted the Command IG in making recommendations for action."
+        },
+        {
+            "title": "Senior Instructor and Course Manager",
+            "company": "",
+            "start_date": "November 2002",
+            "end_date": "October 2005",
+            "description": "For the Primary Leadership Development Course, responsible for the health, welfare, morale, training, and administration of over 900 Soldiers annually."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ministry/Leadership",
+            "school": "Vanguard University of Southern California",
+            "year": 2010
+        },
+        {
+            "degree": "Culinary Arts Degree",
+            "school": "Meridian Community College",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        "Combat Life Saver Course, Camp Parks, CA 11/29/2007",
+        "Department of Defense Certified Mediator Course, Fort Riley, KS 05/25/2007",
+        "Contractor Representative Course, Fort Gillem, GA 01/12/2007",
+        "Department of the Army Inspector General Course, Fort Belvoir, VA 09/30/2005",
+        "Advanced Non-Commissioned Officers Course, US Army, Fort Leonard Wood, MO 06/28/2005",
+        "Small Group Instructor Training Course, US Army NCO Academy, Fort Dix, NJ 11/22/2002",
+        "Observer Controller Trainer Course, Camp Shelby, MS 09/27/2002",
+        "Drill Sergeant School, US Army NCO Academy, Fort Leonard Wood, MO 10/12/1995",
+        "Marine Corp Non-Resident Leadership Course, Fort Leonard Wood, MO 02/17/1995",
+        "Instructor Training Course, US Army, Fort Knox, KY 04/15/1994"
+    ],
+    "languages": []
+}

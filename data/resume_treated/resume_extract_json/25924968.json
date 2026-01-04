@@ -1,0 +1,135 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Executive profile seeking an opportunity to showcase my talent, education and abilities as a chef where my vast experience and demanding work ethic will be effectively utilized. Strong and diverse experience in the hospitality industry, including multi-unit experience, restaurant, catering and hotel experience onsite and offsite catering. Cuisines include French, Italian, Asian, American and Spanish. Skilled in menu development, kitchen management, event coordinating, dining room design and flow, POS system knowledge, marketing and advertising, customer relations, costing, inventory control and ordering, safety and sanitation, employee manuals, training and scheduling, troubleshooting and problem-solving. ServSafe certified.",
+    "skills": [
+        "Menu development",
+        "Kitchen management",
+        "Event coordination",
+        "Catering",
+        "Large-volume restaurant operations",
+        "Staff training and scheduling",
+        "Costing and inventory control",
+        "Purchasing",
+        "Safety and sanitation (ServSafe)",
+        "POS system knowledge",
+        "Marketing and advertising",
+        "Customer relations",
+        "Multi-unit hospitality operations",
+        "Cuisines: French, Italian, Asian, American, Spanish",
+        "Computer literacy: Word, Excel, PowerPoint, Photoshop",
+        "Internet skills",
+        "Staff hiring",
+        "General management",
+        "Leadership",
+        "Problem-solving",
+        "Food production",
+        "Vendor relations"
+    ],
+    "experience": [
+        {
+            "title": "Executive Chef",
+            "company": "Small Restaurant and wine bar",
+            "start_date": "February 2015",
+            "end_date": "Present",
+            "description": "Lunch and dinner service. Dinner menu specializes in small plates and I changed the menu every month based on season and availability of products; also provided 2-5 specials every night. Won culinary competitions for sweet and savory categories at 2 local food and wine festivals. Featured in VC Star news articles/reviews and numerous blogs and magazine write-ups. Also was featured on Eye on LA ABC as an up-and-coming Ventura County restaurant with great food."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Blush Restaurant and Lounge",
+            "start_date": "June 2014",
+            "end_date": "February 2015",
+            "description": "Developed small bar menu, purchased all food products, set up kitchen equipment and flow, hired and trained all BOH staff, operated large private events. Worked with owner on labor and food cost. A continuation of Blush Restaurant and Lounge Kitchen."
+        },
+        {
+            "title": "Executive Chef & General Manager",
+            "company": "Company Name",
+            "start_date": "July 2013",
+            "end_date": "February 2015",
+            "description": "100+ seat restaurant with large lounge area, catering for events of 500+ people. Responsible for all food production, staffing, training, hiring, terminating, organization, purchasing for the Kitchen. Reported weekly inventory and tracked purchase, sales, and labor on a weekly basis. Provided catering for Granada Theater as well as Marque Events. Open brunch, lunch, and dinner. Created weekly specials as well as new menus and holiday menus. Took over as Event Coordinator and General Manager. Trained FOH staff and organized all events and daily duties. Successfully ran multiple parties ranging from 20 people to 400 people."
+        },
+        {
+            "title": "Sous Chef",
+            "company": "Five Star Luxury Hotel (Stonehouse & Plow and Angel)",
+            "start_date": "April 2012",
+            "end_date": "February 2013",
+            "description": "Five-star luxury hotel with restaurants Stonehouse & Plow and Angel. Created seasonal menus, daily soups and specials. Instructed FOH in daily meetings about menu changes and specials, trained and managed BOH daily in every position and job. Executed the expo position while serving 41 rooms and two restaurants."
+        },
+        {
+            "title": "Culinary Arts Instructor",
+            "company": "Company Name",
+            "start_date": "July 2012",
+            "end_date": "September 2012",
+            "description": "Instructed 1st and 2nd period classes at local high school. Teaching basic knowledge, safety and entering the hospitality job market."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "September 2010",
+            "end_date": "February 2012",
+            "description": "Managed and operated two popular restaurants/bars. Staffed, trained and organized two full-service kitchens while creating and costing the menu. Purchased and stocked kitchen as well as bar when needed. Daily guest interactions making sure we are doing the best possible job."
+        },
+        {
+            "title": "Executive Sous Chef",
+            "company": "Company Name",
+            "start_date": "March 2010",
+            "end_date": "September 2010",
+            "description": "Working directly with Executive Chef and Owner creating seasonal, local, farmers market oriented cuisine with an emphasis on 'In House' made. Supervised multiple trips to markets and farms, outsourced specialty food items, and created multiple daily specials."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "March 2009",
+            "end_date": "February 2010",
+            "description": "Created the menu for a small wine oriented bistro. Trained and hired staff to execute new menu, keep organized and clean. Worked directly with owner on design and flow, specials, and greeting guests."
+        },
+        {
+            "title": "Sous Chef/Head of Preparation",
+            "company": "Company Name",
+            "start_date": "July 2008",
+            "end_date": "January 2009",
+            "description": "Responsible for managing food production, catering small and large events (500+ attendees), overseeing a team of 10+ employees, serving as onsite chef, creating, preparing, and plating meals; cleaning and ordering products. Evaluated and trained new employees."
+        },
+        {
+            "title": "Line Cook",
+            "company": "Company Name",
+            "start_date": "March 2008",
+            "end_date": "July 2008",
+            "description": "Introduced weekly specials and menu items for 30-seat French fine dining/catering restaurant. Prepared and plated hot line dishes, salads and desserts."
+        },
+        {
+            "title": "Chef's Assistant/Line Cook",
+            "company": "Company Name",
+            "start_date": "May 2007",
+            "end_date": "March 2008",
+            "description": "Developed employee manuals for 200-seat cafe serving three meals daily. Opened kitchen and delicatessen. Handled inventory control and deli customer relations."
+        },
+        {
+            "title": "Line Cook",
+            "company": "Company Name",
+            "start_date": "December 2005",
+            "end_date": "January 2007",
+            "description": "Line cook duties."
+        },
+        {
+            "title": "Waiter/Pastry",
+            "company": "Company Name",
+            "start_date": "July 1999",
+            "end_date": "August 2003",
+            "description": "Waiter and pastry duties."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science, Culinary Management",
+            "school": "Art Institute of California",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        "ServSafe Certified"
+    ],
+    "languages": []
+}

@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Qualified Training Manager offering a record of successful job performance with proven problem solving ability and experience developing and implementing innovative solutions. Experienced Leadership and Development Professional with over 10 years' experience in various Training environments. Intermediate/Expert level in all MS applications. Strong Training, Management, Learning/Development, Administrative and Consultative skills. Client, organizational and task oriented problem solver with the ability to rapidly adapt to new situations.",
+    "skills": [
+        "Administrative",
+        "Consultant",
+        "Course Development",
+        "Client",
+        "DC",
+        "delivery",
+        "Instructor",
+        "leadership development",
+        "Leadership and Development",
+        "Curriculum Development",
+        "Trainer workshops (T3)"
+    ],
+    "experience": [
+        {
+            "title": "Training Manager",
+            "company": "Company Name",
+            "start_date": "2011-08",
+            "end_date": "2015-09",
+            "description": "Creating and implementing training programs and overseeing the development of careers. Set performance metrics, evaluate productivity, and help workers create long-term career plans within an organization. Develop, implement, and monitor training programs within an organization. Supervise technical training for staff. Conduct orientation sessions. Create training materials and develop multimedia visual aids and presentations. Create testing and evaluation processes. Evaluate needs of company and plan training programs accordingly. Conduct performance evaluations. Provide classroom training, demonstrations, on-the-job training, meetings, conferences, and workshops. Manage staff of 70 classroom facilitators in multiple locations. Conduct continuing education training. Provide leadership development education. Provide logistical support, course development, delivery, evaluation, process measurements, and cost management. Plan the implementation and facilitation of activities and events, budget spending, material production and distribution, and other resources to ensure that operations are managed within authorized budgets."
+        },
+        {
+            "title": "Owner/Partner",
+            "company": "Defense Contractor",
+            "start_date": "2006-10",
+            "end_date": "2011-07",
+            "description": "Top Secret Facility Clearance. Supervised, and trained employees for high level security Military Intelligence operations, recruited quality personnel for special assignments, conducted high level briefings and debriefing for various security level investigations at Federal locations to Military, civilian and Congressional personnel. Developed business plans, budgets, cost proposals, task schedules, cost analysis and projections; issued status/quality control plans and reports. Developed specific scenarios and created specific characters per U.S.Military specifications adhering to strict government guidelines. Provided experienced instructors/role players who educate and assist Military and civilian personnel prior to deployment. Created comprehensive lesson plans to instruct Military and civilian personnel. Developed customized programs to support and enhance the security agencies of the United States government."
+        },
+        {
+            "title": "Role Player",
+            "company": "US Army Intelligence Center",
+            "start_date": "2003-01",
+            "end_date": "2004-01",
+            "description": "Provided services as a role player in support of CISAC for US Army Intelligence Center. Research & Development: Created new scenarios for Field Training Exercises (FTX) Cadre and teams, used world events as guidelines. Executed quality assurance programs. Prepared standard operating procedures. Analyzed program data to assist in strategic decision-making."
+        },
+        {
+            "title": "Program Administrator II, Project Manager",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2006-09",
+            "description": "Consultant and liaison to the Department of Interior (DOI) and Department of Defense (DOD) to effectively modernize inventory/ cataloging processes for sensitive and classified files, material and property. Single point of contact for project scheduling and changes. Capture Manager: Contract Acquisition: Procure, write and implement new Request for Purchase/Quotes opportunities (RFP/RFQ). Provided instruction to students enrolled in the CISAC 35L/97B course, using various methods, to include: formal platform instruction, practical exercises, demonstrations, automated presentations, test administration, test reviews. Retest-Retrain Team: Consultant to DA Branch Chief of 35L/97B Intelligence School. Assigned to retrain and coach Officers, Soldiers and Instructors who needed additional training to perform to their full potential as Counterintelligence Agents. Role Player."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts (Equivalent): Theology",
+            "school": "University of the South",
+            "year": "2007"
+        },
+        {
+            "degree": "Associates (Equivalent): Office Automation/Computer Specialist",
+            "school": "Coleman University",
+            "year": "1989"
+        }
+    ],
+    "certifications": [
+        "Certified Train the Trainer (T3)"
+    ],
+    "languages": []
+}

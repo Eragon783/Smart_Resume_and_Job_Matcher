@@ -1,0 +1,132 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Career Overview I am a highly enthusiastic,self motivated, skilled and hardworking customer service oriented professional, seeking a position as a costumer service representative in your company in order to contribute my organization, problem solving and strong communication skills to ensure customer satisfaction.",
+    "skills": [
+        "customer service",
+        "interpersonal skills",
+        "conflict resolution",
+        "creative problem solving",
+        "courteous demeanor",
+        "energetic work attitude",
+        "telecommunication skills",
+        "typing skills (35 words per minute)",
+        "computer skills",
+        "Word Perfect",
+        "POS",
+        "social media familiarity (Twitter, apps)",
+        "sales techniques",
+        "cash handling",
+        "Excel",
+        "Microsoft Office",
+        "data entry",
+        "donor registration",
+        "security awareness",
+        "team coordination",
+        "leadership",
+        "museum attendant",
+        "front desk duties",
+        "clerical work",
+        "record keeping",
+        "quality control",
+        "reading and writing",
+        "French"
+    ],
+    "experience": [
+        {
+            "title": "Volunteer Front Desk Receptionist / Canteen Worker",
+            "company": "Company Name - City, State",
+            "start_date": "Mar 2014",
+            "end_date": "Nov 2014",
+            "description": "Greet visitors and register all blood donors; answer calls and inquiries about blood drives; provide directions to donation areas; check IDs of non-donor visitors; monitor security footage; assist in Canteen work by greeting donors, engaging them in conversation, monitoring for dizziness, fainting, and weakness after donation; maintain up-to-date knowledge of Red Cross donation policies."
+        },
+        {
+            "title": "Musician and Choir Director",
+            "company": "Company Name - City, State",
+            "start_date": "Apr 2013",
+            "end_date": "Sep 2014",
+            "description": "Direct the choir in the manner of compliments and support the worship agenda for the congregation; select appropriate music for Sunday morning and special services; schedule weekly rehearsals; attend monthly board meetings to maximize church and choir membership."
+        },
+        {
+            "title": "Volunteer Security and Museum Greeter",
+            "company": "Company Name - City, State",
+            "start_date": "Jan 2010",
+            "end_date": "Jul 2012",
+            "description": "Provide a visual security presence in gallery spaces; make hourly rounds to ensure safety and preservation of art and artifacts; monitor entrance of visiting patrons and maintain daily logs; ensure secure conditions to prevent theft or damage; greet visitors and provide information and directions; assist in set up of special events."
+        },
+        {
+            "title": "Cotton Breeding Lab Technician",
+            "company": "Company Name - City, State",
+            "start_date": "Sep 2006",
+            "end_date": "Aug 2007",
+            "description": "Prepared and sold broad range of customized merchandise; resolved product issues; described cotton fiber processing; responded to general inquiries via mail, e-mail and fax."
+        },
+        {
+            "title": "Organists Assistant Choir Leader",
+            "company": "Company Name - City, State",
+            "start_date": "Jan 2005",
+            "end_date": "Jan 2007",
+            "description": "Assist the main choir director in leading worship music for Sunday services and special services; provide musical accompaniment; conduct weekly rehearsals; collaborate to organize and select music for Sundays or special performances; provide information for church bulletin."
+        },
+        {
+            "title": "Student Anatomy & Physiology Laboratory Technician",
+            "company": "Company Name - City, State",
+            "start_date": "Dec 2003",
+            "end_date": "Jun 2004",
+            "description": "Process and prepare animal tissue samples for student labs; perform routine laboratory tasks; log shipping and receiving orders; perform routine quality control; maintain laboratory safety and cleanliness."
+        },
+        {
+            "title": "Student Chemistry Lab. Technician",
+            "company": "Company Name - City, State",
+            "start_date": "Oct 2002",
+            "end_date": "Dec 2003",
+            "description": "Set up and prepare class demonstrations; maintain inventories; order and receive stock materials; prepare and dispense chemical materials for lab classes; prepare unknowns for analysis; manage materials loan records."
+        },
+        {
+            "title": "Academic Student Academic Advisor",
+            "company": "Company Name - City, State",
+            "start_date": "Sep 2001",
+            "end_date": "Aug 2003",
+            "description": "Interacted with instructors to schedule exams; advised students regarding information and academic requirements; assisted students in evaluating abilities and setting goals; prepared advising materials; performed light clerical duties."
+        },
+        {
+            "title": "Casino Shift Security",
+            "company": "Company Name - City, State",
+            "start_date": "Apr 1997",
+            "end_date": "Dec 1999",
+            "description": "Greet visitors; monitor and guard against illegal activities, theft and vandalism; escort casino funds; respond to emergencies; maintain security logs."
+        },
+        {
+            "title": "Temporary Security Gallery Attendant",
+            "company": "Company Name - City, State",
+            "start_date": "Apr 1993",
+            "end_date": "Sep 1993",
+            "description": "Patrol assigned galleries; report suspicious activities or medical emergencies; greet patrons; provide information; ensure visitor safety and report any displacement or damage."
+        },
+        {
+            "title": "Front Desk Security",
+            "company": "Company Name - City, State",
+            "start_date": "Mar 1989",
+            "end_date": "Jun 1991",
+            "description": "Greet visitors, check IDs, issue temporary passes and parking passes; monitor entrances; inspect packages; report irregularities; patrol areas and follow security procedures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in History International Studies",
+            "school": "Louisiana State University",
+            "year": 2008
+        },
+        {
+            "degree": "Associate Degree in General Studies",
+            "school": "Baltimore City Community College",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "French"
+    ]
+}

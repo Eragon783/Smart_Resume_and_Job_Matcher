@@ -1,0 +1,42 @@
+{
+    "name": "Christina Lorman",
+    "email": "",
+    "phone": "",
+    "location": "Tel-Aviv, Israel",
+    "summary": "I have finished a one-year course and have one-year experience. I keep studying Java and planning to become a full-stack developer.",
+    "skills": [
+        "HTML5",
+        "CSS",
+        "SASS/LESS",
+        "Bootstrap",
+        "ES6",
+        "JavaScript",
+        "REST API",
+        "React",
+        "Redux",
+        "Webpack",
+        "Git",
+        "Node.js"
+    ],
+    "experience": [
+        {
+            "title": "Front End Developer",
+            "company": "Elpisor Ltd",
+            "start_date": "",
+            "end_date": "",
+            "description": "Migrated layout to a responsive BEM-based model from legacy adaptive; implemented code minification methods, CSS sprites, and image optimization to ensure compatibility across various device resolutions; improved performance by approximately 20%."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Front-End Developer",
+            "school": "Tel-Ran Educational Center Ltd.",
+            "year": 2019
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Hebrew (B2 - Upper Intermediate)",
+        "Russian (C2 - Proficiency)"
+    ]
+}

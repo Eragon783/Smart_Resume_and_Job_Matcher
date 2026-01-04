@@ -1,0 +1,114 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced registered nurse with over 20 years in clinical nursing, management, statistics, quality management, and process improvement. Proven ability to lead high-performing teams across hospital, clinic, public health, and academic settings. Skilled in coaching, mentoring, facilitation, project management, and curriculum development; strong background in data-driven improvement and performance analytics.",
+    "skills": [
+        "Nursing Management",
+        "Process Improvement",
+        "Statistics and data Analysis",
+        "Operationalizing best practices",
+        "Teaching/Facilitating/Coaching/Mentoring",
+        "Team Building",
+        "Marketing and Public Relations",
+        "Lean/Six Sigma",
+        "Advanced Analytics",
+        "Data Management",
+        "Performance Improvement Planning",
+        "Financial Management",
+        "Strategic Planning",
+        "Gap Analysis",
+        "Process Control",
+        "Statistical Process Control",
+        "Contract Management",
+        "Human Resource Management",
+        "Training",
+        "Data Entry",
+        "Data Validation",
+        "Liaison",
+        "Statistics",
+        "Management",
+        "Teaching",
+        "Coaching",
+        "Mentoring",
+        "Curriculum Development",
+        "Project Management",
+        "Data Visualization/Infographics"
+    ],
+    "experience": [
+        {
+            "title": "Director, Quality Improvement Network Facilitation",
+            "company": "HQI - Quality Improvement Network Facilitation",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Manage and analyze state-level data to identify California's performance gaps and opportunities for improvement. Oversee data management, measurement, and reporting to generate reports for senior leadership and boards. Primary liaison for data repositories and advanced analytics (CALNOC, CMQCC, NHSN, HRET, HSAG, UC Davis Population Health). Develop data entry strategies, train hospitals in statistics and analytics, and consult on performance analysis and reporting. Collaborate on CalHEN, Patient Safety First, and Patient & Family engagement. Support grant activities; contribute to research and publications. Led development of public-facing reports and infographics; improved data validation and standardized reporting to stakeholders and media. Managed and mentored 28 hospitals on performance improvement initiatives; demonstrated outcomes improvement and sustainable gains."
+        },
+        {
+            "title": "RN Quality Coordinator",
+            "company": "Company Name",
+            "start_date": "2012-04",
+            "end_date": "2012-09",
+            "description": "Data management, analysis, and reporting; identified performance gaps and developed improvement strategies. Coordinated quality improvement activities, developed data collection processes for inpatient/outpatient coding events, and improved performance and compliance in organ/tissue/donor programs. Led ED referral process improvements and achieved sustained referral increases and regional recognition for best practices."
+        },
+        {
+            "title": "Healthcare Management Chair",
+            "company": "Des Moines University Osteopathic Medical Center / CHI, Des Moines, IA",
+            "start_date": "2005-01",
+            "end_date": "2011-01",
+            "description": "Managed health administration curricula and teaching activities; developed and evaluated programs, curricula, and resources for healthcare administration. Led instructional design efforts, online course development, and student course integration; oversaw program operations and compliance with accreditation standards."
+        },
+        {
+            "title": "Adjunct Faculty, Assistant Professor",
+            "company": "Des Moines University Osteopathic Medical Center – College of Health Sciences",
+            "start_date": "2005-01",
+            "end_date": "2011-01",
+            "description": "Plan, coordinate, implement, and evaluate healthcare administration courses. Develop instructional tools and online curricula; expand course offerings and improve student engagement across high-level healthcare administration programs."
+        },
+        {
+            "title": "Clinic Director",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2005-01",
+            "description": "Managed a healthcare clinic with 25 physicians, NPs, RNs, and support staff; oversaw operations, HR, budgeting, strategic planning, marketing, and regulatory reporting. Led JC accreditation efforts, expanded services (including new dental service), and oversaw renovation and expansion projects."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Public Health",
+            "school": "Des Moines University Osteopathic Medical Center, College of Health Sciences",
+            "year": null
+        },
+        {
+            "degree": "ADN in Nursing",
+            "school": "Des Moines Area Community College",
+            "year": null
+        },
+        {
+            "degree": "Master of Health Care Administration",
+            "school": "Des Moines University Osteopathic Medical Center, College of Health Sciences",
+            "year": null
+        },
+        {
+            "degree": "B.S. in Psychology",
+            "school": "Pars College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Black Belt Six Sigma - In progress",
+        "IHI Certified Improvement Advisor",
+        "Certified Public Health Nurse",
+        "Green Belt Six Sigma",
+        "Medical Office Manager",
+        "Board Certified Registered Nurse",
+        "Board Certified Registered Public Health Nurse",
+        "ACLS (Advanced Cardiac Life Support)",
+        "BCLS (Basic Cardiac Life Support)"
+    ],
+    "languages": [
+        "English",
+        "Farsi",
+        "Dari"
+    ]
+}

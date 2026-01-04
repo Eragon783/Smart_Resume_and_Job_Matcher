@@ -1,0 +1,96 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Creative, social innovator with extensive project experience from original concept to strategic development. Talents include thoughtful and socially-conscious program design, systems thinking across disciplines and departments, inert ability to problem solve, and consistent dedication to authentic collaboration, even in the most challenging circumstances.",
+    "skills": [
+        "21st century teaching and learning",
+        "systems thinker",
+        "ecological literacy",
+        "human-centered design facilitator",
+        "strong written and communication skills",
+        "proficiency in social media and community outreach",
+        "strong ability to visually communicate ideas, concepts, notes, and programs"
+    ],
+    "experience": [
+        {
+            "title": "Chief Innovation and Outreach Officer",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "Present",
+            "description": "Acute awareness for budget management and resource allocation. Systems thinking and ecological approach to program development, implementation and evaluation. Positive, energetic and a believer of creating a culture of risk-taking, reflection, and humor to do our collective best work. Leadership and Program Development: Provided leadership for innovation, growth, and development of a progressive K-8 education program. Defined, implemented, and fostered clear and transparent processes to support innovation at every level of the organization. Implemented new ways to gather data and measure impact around student learning, development and assessment of the whole child. Project Management and Creative Development: Identified projects with strong potential and allocated budgets to test them. Developed prototypes and gathered feedback around the impact and value for innovative and appropriate growth. Ensured alignment of innovation projects with the vision and mission of the ECS. Relationship Building and Outreach: Empowered professional transformation through professional growth experiences. Supported internal communication to build brand and culture. Developed external communication platforms to build connection with progressive education mindset throughout the region. Visioning, Mission Development, and Implementation: Planned, designed, and conducted strategic planning sessions that adhere to the ECS Guiding Principles and mission for building an ecologically literate citizenry. Coordinated opportunities for deep dives into environmental mission and for further reflection and connection with organizational culture. Conducted mindset growth opportunities for faculty to build leadership capacity and resilience. Financial Management and Budgeting: Project managed the design and execution of a 1.2 million renovation and retrofit for a new education facility. Supported annual collaborative budgeting, annual audit, and fiscal management of a 12 million dollar, public sector, non profit organization."
+        },
+        {
+            "title": "Consultant",
+            "company": "Green and Healthy Schools Academy",
+            "start_date": "2014-10",
+            "end_date": "2015-04",
+            "description": "Collaboratively researched, planned and executed deep professional development experiences for educators, administrators, and community members around culture development and systemic change. Utilized human-centered design and mindset techniques to support professional transformation."
+        },
+        {
+            "title": "Curriculum Architect and Academic Director",
+            "company": "Company Name",
+            "start_date": "2008-06",
+            "end_date": "2013-06",
+            "description": "Developed an innovative curriculum model that utilizes the environment as a teaching tool. Engaged partnerships with organizations to develop relationships rather than one-hit-wonder programs. Piloted alternative measurements for student thinking and learning. Provided leadership for changing the conversation around education, the profession, school governance, and school design. Utilized human-centered design to support and develop systems and infrastructure to rethink school."
+        },
+        {
+            "title": "Science Educator and Environmental Coordinator",
+            "company": "Company Name",
+            "start_date": "2008-07",
+            "end_date": "2009-07",
+            "description": "Instructed students at all grade levels using non-traditional practices, including using a 600+ acre park as an extended classroom. Developed curriculum for all grade levels integrating the science, tech, and engineering standards. Provided professional development for teachers in curriculum development and integration of content areas. Supported infrastructure, systems, and early development of a new organization."
+        },
+        {
+            "title": "Educator - Center for the Highly Gifted",
+            "company": "Company Name",
+            "start_date": "2004-09",
+            "end_date": "2007-09",
+            "description": "Instructed 4th grade highly gifted students with various levels and abilities in math, reading, social studies, sciences, and the arts. Created and adapted curriculum materials for instruction based on curriculum blueprints from elementary and middle school guidelines. Worked collaboratively with the Washington National Opera to create original operas with 75 students annually. Provided a basis of knowledge of gifted education to parents, colleagues and community. Taught and practiced problem solving, creative problem solving and creative thinking models with students."
+        },
+        {
+            "title": "Account Executive",
+            "company": "Company Name",
+            "start_date": "2001-02",
+            "end_date": "2002-08",
+            "description": "Coordinated and executed public relation strategies, events, and media placements. Discussed and prepared crisis communication plans for clients and strategic partners. Designed and implemented environmental communications programs for corporate clients. Advised clients on strategic philanthropy partnerships and environmental education programs."
+        },
+        {
+            "title": "Account Coordinator",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2001-02",
+            "description": "Supported media relations, media lists, and outreach efforts for clients. Refined materials, publications, and marketing pieces. Developed internal cultural programs to support a fun, thoughtful, and creative work environment."
+        },
+        {
+            "title": "Education and Outreach Coordinator",
+            "company": "Company Name",
+            "start_date": "1998-05",
+            "end_date": "2000-01",
+            "description": "Developed new Energy and Resource Conservation Education program for grades 2-12. Drafted grant proposals for environmental education projects in the Pittsburgh City Schools. Designed, authored and edited program newsletter and other publications and presentations. Wrote curriculum about the built environment for vocational and middle school students. Planned teacher workshops and events to illustrate connections of the natural and built environments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Principal Certification: School Leadership",
+            "school": "Gannon University",
+            "year": "2012"
+        },
+        {
+            "degree": "Masters in Curriculum Design and Instruction",
+            "school": "University of Maryland College Park (CITE Program)",
+            "year": "2004"
+        },
+        {
+            "degree": "BA in Environmental Studies",
+            "school": "Allegheny College",
+            "year": "1998"
+        }
+    ],
+    "certifications": [
+        "Trained in Human Centered Design at Luma Institute",
+        "Including Ourselves in the Change Equation: Personal Learning for Organizational Performance, Harvard University Graduate School of Education"
+    ],
+    "languages": []
+}

@@ -1,0 +1,68 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Tel Aviv, Israel",
+    "summary": "Java backend developer with experience optimizing Java code using Spring Boot; knowledge in implementing data transfer over TCP/UDP; BA in Informatics and Economy; motivated for continuous professional development and self-study; team player with good communication skills.",
+    "skills": [
+        "Java Core",
+        "C#",
+        "C++",
+        "WPF",
+        "Spring Boot",
+        "SQL",
+        "Git",
+        "Android programming",
+        "TCP/UDP data transfer",
+        "Java"
+    ],
+    "experience": [
+        {
+            "title": "Java and Android programming participant",
+            "company": "MASA Tlalim",
+            "start_date": "2020",
+            "end_date": "2021",
+            "description": "Educational program focusing on Java and Android programming; contributed to projects involving C# development and WPF for an Israeli startup in robotic technology."
+        },
+        {
+            "title": "Internship, Service Engineer",
+            "company": "Center for Financial Technologies",
+            "start_date": "2020",
+            "end_date": "2020",
+            "description": "Software development internship; Java + Oracle Development; optimized Java code using Spring Boot; implemented database queries."
+        },
+        {
+            "title": "Summer internship - Java Developer",
+            "company": "Eltex",
+            "start_date": "2019",
+            "end_date": "2019",
+            "description": "Internship as Java Developer; developed software for router systems; used Spring Boot to optimize Java code."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Informatics and Economy",
+            "school": null,
+            "year": null
+        },
+        {
+            "degree": "C# and Delphi professional courses",
+            "school": "Novosibirsk Academy of Design and Programming",
+            "year": "2012-2015"
+        },
+        {
+            "degree": "Java basic courses",
+            "school": "Udemy (online)",
+            "year": "2020"
+        },
+        {
+            "degree": "Ulpan language course",
+            "school": "Ulpan Alef, Beit Borodetsky, Tel Aviv",
+            "year": "2021"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Russian"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly qualified and accomplished financial professional offering 10 years of experience in leadership and direction in the financial services and financial products industries. Robust background with loan Funding, servicing, asset management, and loss mitigation strategies. Excel in professional staff training, development, mentoring, and production. Goal-focused Mortgage Executive with commitment to bottomline success through effective sales development, brand awareness, and client satisfaction.",
+    "skills": [
+        "client",
+        "clients",
+        "decision making",
+        "delivery",
+        "Equity",
+        "Finance",
+        "financial",
+        "Fixed Income",
+        "insurance",
+        "Investments",
+        "Team Leader",
+        "managing",
+        "marketing",
+        "excel",
+        "office",
+        "policies",
+        "quality",
+        "securities",
+        "strategy"
+    ],
+    "experience": [
+        {
+            "title": "Sr. Mortgage Banking Executive",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "Present",
+            "description": "Identified prospects and solicited business referrals by contacting realtors, attorneys, and financial professionals in an assigned territory. Drove company expansion from 12-member mortgage brokerage with one office to three and established a new branch in Las Vegas, NV. Led teams in high-stakes environments, fostering professional development and independent decision making. Maintained knowledge of loan products, processing procedures, underwriting guidelines, and departmental directives. Assisted with collection of loan-application documents and timely delivery of loan packages. Promoted from Sr. Loan Officer to Executive Team Leader within six months. Created and launched The Fraiman Group inside Global Equity Finance with effective marketing for the team."
+        },
+        {
+            "title": "Sr. Mortgage Banker & Financial Advisor",
+            "company": "Company Name",
+            "start_date": "2011-12",
+            "end_date": "2013-01",
+            "description": "Designed financial plans for over 100 high net-worth individuals and business owners including mortgages, insurance, retirement. Managed a team of ten Senior Loan Consultants forging new client relationships and servicing existing ones while maintaining a large client base. 25 million in new loan production, 84 total new loans in 2012, 50% increase from 2011. Increased loan production as a team manager including 30% increase in loan production for the entire team."
+        },
+        {
+            "title": "Sr. Investment Advisor",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2011-12",
+            "description": "Demonstrated record of success in Capital Raising via Private Placement for Preferred and Common stock offering to accredited investors through my own prospecting. Successfully introduced over $3,000,000 in one year for an early stage startup company for acquisition purposes, as well as opened two satellite offices in Texas and Ohio. Responsible for managing over $20,000,000 AUM and the succession of several RIA firms throughout the United States under our platform as well as Fixed Income Investments."
+        },
+        {
+            "title": "Financial Advisor",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2008-01",
+            "description": "Responsible for helping individuals and business owners design and implement an appropriate investment strategy based on their specific personal financial goals and circumstances. Rendered exceptionally high quality service to clients in estate planning for high net worth individuals using appropriate life insurance policies. Implemented many of my own insurance and securities marketing campaigns. Responsible for establishing new client accounts. Analyzing client's current and future financial needs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in English Literature",
+            "school": "University of Massachusetts",
+            "year": "2004"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Homer High School",
+            "year": "1998"
+        }
+    ],
+    "certifications": [
+        "NMLS ID: 528972",
+        "California - DOC Mortgage Loan Originator License",
+        "Minnesota Mortgage Loan Originator License",
+        "Nevada Mortgage Loan Originator License",
+        "New Mexico Mortgage Loan Originator License",
+        "Oregon Mortgage Loan Originator License",
+        "Washington Mortgage Loan Originator License"
+    ],
+    "languages": []
+}

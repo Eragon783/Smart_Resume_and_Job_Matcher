@@ -1,0 +1,48 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Self-motivated and detail oriented individual with comprehensive training in ICD-10-CM/PCS, CPT and HCPCS II coding. Focused individual who has demonstrated ability to work well independently while actively coordinating with other team members. Seeking medical coding position.",
+    "skills": [
+        "computer systems",
+        "organized",
+        "self starter",
+        "grammar",
+        "communicates well"
+    ],
+    "experience": [
+        {
+            "title": "Tutor",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2015-01",
+            "description": "Tutored homeschool students in weekly high school prep courses. Researched, planned and facilitated studies in Latin, Debate, Literature, Composition, Algebra, Science, Geography and History. Provided parent mentoring and support."
+        },
+        {
+            "title": "Office Manager",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "Present",
+            "description": "Tracked financial transactions. Monitored accounts receivable, accounts payable. Negotiated with vendors and customers. Produced profit and loss statements."
+        },
+        {
+            "title": "Independent Sales Consultant",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2014-01",
+            "description": "Presented product demonstrations. Communicated with hosts and customers and provided product support. Recruited and mentored new consultants. Won numerous sales and recruiting level recognitions and promotions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate of Graduation with Honors in Medical Coding and Billing",
+            "school": "Career Step",
+            "year": "2016"
+        }
+    ],
+    "certifications": [
+        "CPC-A (AAPC)"
+    ],
+    "languages": []
+}

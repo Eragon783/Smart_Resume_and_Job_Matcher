@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Hard Worker, Dedicated, Detailed Oriented, Experienced, Organized, and Highly Motivated HR Assistant with over 5 years of experience in human resource administration and customer service. Focused on benefits administration, payroll, career development and employment law.",
+    "skills": [
+        "HR Management",
+        "Employment Law",
+        "HR Policies & Procedures",
+        "Training & Development",
+        "Performance Management",
+        "Employee Relations & Mediation",
+        "Benefits Administration",
+        "Orientation & On-Boarding",
+        "Organizational Development",
+        "Employee Lifecycle",
+        "HRIS (PeopleSoft)",
+        "Microsoft Office (Word, Excel, PowerPoint, Access, Outlook)",
+        "Email/Communication Tools (MS Outlook, Windows Outlook, Yahoo, Google)",
+        "Networking (Job boards and networking sites)",
+        "Bilingual Thai & English",
+        "Adaptability",
+        "Strong work ethic",
+        "Customer service",
+        "Problem solving"
+    ],
+    "experience": [
+        {
+            "title": "HR Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "04/2014",
+            "end_date": "02/2016",
+            "description": "Increased productivity of the physician's office by organizing patients' charts and converting them into digital files; streamlined patient maintenance. Processed payroll through Paychex, ensuring vacation and sick time tracked, answered payroll questions, and facilitated resolutions to payroll errors. Processed incoming and outgoing mail. Edited the employee handbook to define job descriptions, office policies, patient management and proper patient reports. Wrote employee handbook covering disciplinary procedures, code of conduct, FMLA policy and benefits information. Wrote SOPs detailing employee expectations. Designed and implemented overall recruiting strategy; coordinated with the office manager to recruit candidates, administered interviews and conducted background checks. Processed documentation and prepared reports related to personnel activities. Identified and reduced business expenses to increase profits by monitoring budgets and variances."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name, City, State",
+            "start_date": "02/2013",
+            "end_date": "Current",
+            "description": "Promoted to interview and recruit new hires to sustain longer hours of operation and increase profits. Orchestrated integration of new hires through training and compensation structures. Ordered foods and supplies, maintained inventory, and managed daily accounting and payroll. Implemented cost reductions with vendors and wholesale suppliers. Increased restaurant marketability by designing a modernized menu. Stepped up to handle staff shortages to maintain productivity and service levels. Maintained high quality and quantity of food and overall restaurant operations. Created a recycling program for bin separation."
+        },
+        {
+            "title": "Hostess and Waitress",
+            "company": "Company Name, City, State",
+            "start_date": "04/2010",
+            "end_date": "11/2016",
+            "description": "Ordered foods and supplies, checked and maintained inventory, and handled daily accounting and payroll. Processed cost reductions and supported the restaurant's operations as needed."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "school": "The University of Thai Chamber of Commerce",
+            "year": "2007"
+        },
+        {
+            "degree": "Master of Science",
+            "school": "Strayer University",
+            "year": "2014"
+        }
+    ],
+    "certifications": [
+        "Professional in Human Resources (aPHR) - in progress; expected completion 2017"
+    ],
+    "languages": [
+        "Thai",
+        "English"
+    ]
+}

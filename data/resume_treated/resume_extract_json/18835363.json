@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "A talented program designer and learning specialist with experience developing and managing curricula across cultural, academic and organizational contexts. With a background in Brain & Cognitive Science and Learning Design, I bring a strong understanding of how the brain functions to inform the design of effective learning experiences. Experienced project manager adept at leading projects from concept through completion with a high degree of cultural competence, having run projects in seven countries over the last five years.",
+    "skills": [
+        "Program development",
+        "Intermediate coding in R studio",
+        "Project management",
+        "Proficient in Salesforce",
+        "Fluent in 4 languages",
+        "Facilitation",
+        "Stakeholder Management",
+        "Research",
+        "Curriculum development",
+        "Clear public speaking skills",
+        "Program evaluation"
+    ],
+    "experience": [
+        {
+            "title": "Program Manager & Designer",
+            "company": "Company Name – City, State",
+            "start_date": "2018-05",
+            "end_date": "2019-08",
+            "description": "Developed an internal Learning program to upskill new Associates to project leads, facilitating over 35 classes, with over 95% satisfaction results and resulting in 5 associates leading successful projects for clients. Managed new hires' onboarding onto the Social Contract Team leading to optimization of ramp time, from a 2 months, scattered onboarding to a 2 weeks, streamlined onboarding. Trained 13 co-facilitators in facilitation and design thinking resulting in them facilitating over 10 meetings per project and improving Social Contract's effectiveness."
+        },
+        {
+            "title": "Learner Success Consultant",
+            "company": "Company Name – City, State",
+            "start_date": "2017-11",
+            "end_date": "2018-04",
+            "description": "Developed and executed end-to-end learner success strategy for students taking the Human Rights Defenders MOOC. Led evaluation assessments of the action toolkit for Human Rights Defenders MOOC which enabled development of interventions. Provided online learning support to 155 students via their online learning platform and webinars."
+        },
+        {
+            "title": "Program Designer",
+            "company": "Company Name – City, State",
+            "start_date": "2017-05",
+            "end_date": "2017-10",
+            "description": "Founded and designed Dual School, an idea incubator program teaching entrepreneurial skills to high school students, that has currently worked with more than 150 students in Delaware. Received a $100,000 grant to fund the program and led grant execution efforts. Collaborated with school representatives, educators and other key individuals in community to support successful program implementation."
+        },
+        {
+            "title": "Development Associate & Founding Team Member",
+            "company": "Company Name – City, State",
+            "start_date": "2015-10",
+            "end_date": "2017-04",
+            "description": "Led early fundraising efforts for new Minerva Institute and successfully brought in 2 multimillion-dollar grants for Minerva international students. Attended special events, acting as representative of Minerva Institute and making new contacts with possible donors which resulted in 30% increase in number of donors."
+        },
+        {
+            "title": "Learning Consultant",
+            "company": "Company Name – City, State",
+            "start_date": "2016-09",
+            "end_date": "2017-01",
+            "description": "Conducted needs analysis to understand barriers to learning that students were having in order to achieve student learning goals. Collaborated with Learning Team to develop a new MOOC on online learning to help students successfully complete their online courses at Kiron, a university for refugees. Developed and integrated a learning support system within their existing technology platform resulting in 50% increase in student engagement and lower attrition rates."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Brain and Cognitive Sciences and Learning Design",
+            "school": "Minerva Schools at KGI",
+            "year": 2019
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

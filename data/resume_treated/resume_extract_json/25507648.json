@@ -1,0 +1,83 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Executive Summary Reliable, resourceful, dependable, flexible, goal-oriented individual. Team leader and player who works well with peers and all levels of management. Possesses excellent people organizational and communication skills. Adapts easily and quickly to changes in the work environment.",
+    "skills": [
+        "Bilingual",
+        "Customer Relations",
+        "Communication Skills",
+        "Staff Development",
+        "Sales",
+        "PC Competent",
+        "Hard-worker",
+        "Team Leadership",
+        "Interpersonal Skills",
+        "Organizational Skills",
+        "Team Building",
+        "Excel",
+        "Microsoft Word"
+    ],
+    "experience": [
+        {
+            "title": "Branch Logistics Manager",
+            "company": "Company Name",
+            "start_date": "2016-04",
+            "end_date": "2016-07",
+            "description": "Managed a team of 7 professionals; ensured timely and accurate delivery; ensured regulatory compliance; scheduled delivery drivers; planned daily routes; performed warehouse duties as needed; completed special projects to improve productivity and cut costs; troubleshot staffing and route issues; maintained maintenance logs and stock levels; coordinated with patients, vendors, and staff; supervised a diverse team; conducted hiring and performance management; conducted regular staff meetings."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "2012-02",
+            "end_date": "2015-02",
+            "description": "Managed club to meet or exceed monthly sales quotas (60%+); hired, developed, and promoted employees; led daily sales training; maintained a positive work environment; recruited corporate memberships; delegated daily tasks; developed club success reports; handled member inquiries; resolved member complaints."
+        },
+        {
+            "title": "Sales Manager/Assistant Manager",
+            "company": "Company Name",
+            "start_date": "2011-02",
+            "end_date": "2012-02",
+            "description": "Managed sales consultants to exceed weekly and monthly quotas; attended walk-ins and appointments; acquired and established memberships; established Corporate memberships for large corporations; assisted General Manager with membership corrective measures; delegated tasks; resolved member complaints; led staff meetings."
+        },
+        {
+            "title": "Personal Trainer/Aerobics Instructor",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2012-01",
+            "description": "Provided personal training and aerobics instruction."
+        },
+        {
+            "title": "Suspense Specialist",
+            "company": "Company Name",
+            "start_date": "2003-01",
+            "end_date": "2008-01",
+            "description": "Researched and resolved suspense items; performed maintenance, deposit adjustments, journal entries and other V-system transactions; determined actions to prevent recurrence; documented errors; analyzed processing trends; provided feedback to internal/external clients; prepared reports; cleared suspense items with billing impacts; maintained knowledge of indicator codes and suspense processing."
+        },
+        {
+            "title": "Contribution Specialist",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2003-01",
+            "description": "Processed contributions via e-Remit; reviewed bill history; uploaded media; prepared and transmitted files; reconciled bills with deposits; created input forms and tracked group contributions; resolved out-of-balance issues; managed participant data."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "G.C. Scarborough High School",
+            "year": "1996"
+        },
+        {
+            "degree": "Animation Studies",
+            "school": "Computer Animation Art Institute of Houston",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish",
+        "English"
+    ]
+}

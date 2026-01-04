@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Detroit, Michigan",
+    "summary": "Top Notch Financial Professional with 25+ years of experience across retail bank leadership, healthcare specialty banking, corporate banking, real estate title insurance, real estate lending, private banking, and credit management-leasing. Proven leadership, strong communication (written and oral), technical orientation, accounting and credit underwriting skills, collaboration, and ability to drive strategy, development of new business, and thought leadership.",
+    "skills": [
+        "Team leadership",
+        "Strong written and oral communication",
+        "Technical orientation",
+        "Accounting",
+        "Credit underwriting",
+        "Credit analysis/Automated underwriting",
+        "Sales management",
+        "Business development",
+        "Treasury management",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "CRM sales management system",
+        "Risk management",
+        "Regulatory compliance"
+    ],
+    "experience": [
+        {
+            "title": "Vice President-Business Banking Sales Manager and Healthcare Specialty Banker",
+            "company": "Unknown",
+            "start_date": "2008-12",
+            "end_date": "Present",
+            "description": "Sales Manager for Business Banking/Treasury team in Detroit, MI; leads a mixed team of bankers and treasury officers; responsible for attaining annual sales goals in SE Michigan; drives strategy, change management, risk management, regulatory compliance, training, sales coaching, and career development; collaborates with partners and external centers of influence; achieved above-goal performance in major categories (2013–2015) and #1 Sales Manager in Detroit in 2012."
+        },
+        {
+            "title": "Vice President Business Development Officer and Residential Mortgage Manager",
+            "company": "Unknown",
+            "start_date": "2004-05",
+            "end_date": "2008-12",
+            "description": "Drove business development across real estate, commercial lending (including real estate development), deposit services, advertising, and fee income products. Co-developed annual strategic and marketing plans; Asset-Liability Committee member; originated/administered commercial loan assets; managed a team of three residential lenders; ensured compliance with mortgage-backed securitization and brokerage requirements; represented the bank as a board member for the Michigan Bankers Association-Real Estate Title Joint Venture; chaired annual bank charity events."
+        },
+        {
+            "title": "Real Estate Title Insurance-Senior Account Executive",
+            "company": "Unknown",
+            "start_date": "2001-03",
+            "end_date": "2004-04",
+            "description": "Licensed with the State of Michigan; sold title insurance (new title policies) and supported real estate relationships (residential and commercial). Target market included realtors, builders, land developers, and commercial bankers. Responsibilities included new title policy generation, client support, problem resolution, closing agent and escrow matters; selected to head a newly formed 'Commission Advance' division prior to acquisition by First American Title; earned Million Dollar Sales Status and the 'Dare to Soar' Award."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "school": "Franciscan University",
+            "year": 2017
+        },
+        {
+            "degree": "B.A. in Finance, Accounting, Economics",
+            "school": "Michigan State University, Eli Broad College of Business",
+            "year": 2001
+        },
+        {
+            "degree": "Licensed Real Estate Title Insurance Representative",
+            "school": "State of Michigan",
+            "year": 1985
+        },
+        {
+            "degree": "RMA Omega Formal Credit Training",
+            "school": "RMA Omega",
+            "year": 2010
+        },
+        {
+            "degree": "Healthcare Administration/Practice Management Coursework for CMPE",
+            "school": "Medical Group Management Association",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Licensed Real Estate Title Insurance Representative, State of Michigan (1985)",
+        "RMA Omega Formal Credit Training (2010)",
+        "Certified Medical Practice Executive (CMPE) - preparation coursework completed (Medical Group Management Association)"
+    ],
+    "languages": []
+}

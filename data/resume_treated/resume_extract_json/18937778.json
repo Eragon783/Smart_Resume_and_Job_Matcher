@@ -1,0 +1,59 @@
+{
+    "name": "Scott Kachelek",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Sales and business development executive with more than 15 years of experience in large commercial and government digital LED lighting projects, immersive cinema technologies, and commercial printing control systems.",
+    "skills": [
+        "Cross region international projects",
+        "Competitive analysis",
+        "Sales strategy",
+        "Partner relationships",
+        "Business process improvement",
+        "Public presentations",
+        "Functional Spanish",
+        "Functional Japanese"
+    ],
+    "experience": [
+        {
+            "title": "Director, Global Business Development",
+            "company": "Company Name",
+            "start_date": "2015-06",
+            "end_date": "Present",
+            "description": "Built a go to market sales strategy from the ground up focusing on OEM partners, sales agents, industry associations, academic institutions, national end user accounts, and independent cinemas. Built value proposition for end user sales including usage cases, revenue generators, and return on investment. Prepared sales presentations and product demos for entertainment industry executives. Researched industry trends in cinema entertainment and provided feedback to product management to improve product positioning. Collaborated on technical and sales proposals for global pilot sites to prove the value of new technology to the market. Developed bank financing program for purchases and leases. Advised internal stakeholders on business opportunities in their region and worked together to include multiple product portfolios in a single sale."
+        },
+        {
+            "title": "Director, International Sales",
+            "company": "Company Name",
+            "start_date": "2007-09",
+            "end_date": "2015-06",
+            "description": "Created global sales plan per international market (33 total) to focus resources on new product introductions, first of their kind lighting applications, accurate project forecasting, and sales analytics reviews (margin trends, currency fluctuations, and cost of non quality). Built specifier (lighting designer, architect) relationships and project sales funnel through one on one meetings, industry presentations, and trade show attendance. Built value added partner relationships leading to increased sales through annual business strategy reviews, joint project management, joint end user sales meetings, tours of global reference projects, and technical, sales, and design related training. Worked closely with supply chain teams to plan production to meet current project timelines, forecast future demand, and reduce product costs to improve product margins."
+        },
+        {
+            "title": "Manager, International Inside Sales",
+            "company": "Company Name",
+            "start_date": "2002-09",
+            "end_date": "2007-09",
+            "description": "Recommended pricing strategies to win business. Assisted marketing with trade show booth construction. Managed credit approvals to release orders on prepay, credit, or letter of credit. Helped to collect past due invoices. Advised partners on product selection for specific projects to meet budget and project design goals."
+        },
+        {
+            "title": "Sales Coordinator",
+            "company": "Company Name",
+            "start_date": "1997-01",
+            "end_date": "2002-03",
+            "description": "Acted as a liaison between head office in U.S. and branch office in Japan to highlight staff and customer concerns. Attended trade shows to answer product specific questions from the market. Researched and developed web conferencing system for worldwide customer training to improve communication and reduce travel costs. Produced general marketing materials including videos, presentations, brochures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in International Business",
+            "school": "University of Minnesota, Carlson School of Management",
+            "year": "1994"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish (Functional)",
+        "Japanese (Functional)"
+    ]
+}

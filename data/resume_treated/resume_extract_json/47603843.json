@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "I am currently a student focused on earning a B.A. in Computer Science and becoming an Android app developer. My goal is to develop technical skills to develop and manage investment activities in the international markets.",
+    "skills": [
+        "Android Studio",
+        "Java",
+        "XML",
+        "Android SDK",
+        "Google APIs",
+        "databases",
+        "Jsoup",
+        "Firebase",
+        "Material Design",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Bootstrap",
+        "Photoshop",
+        "Paint.net",
+        "accounting",
+        "customer service",
+        "airfreight delivery",
+        "retail",
+        "operating airport vehicles",
+        "tug aircraft",
+        "luggage handling",
+        "inventory",
+        "managing",
+        "preparing quality entrees",
+        "beverages"
+    ],
+    "experience": [
+        {
+            "title": "",
+            "company": "Company Name",
+            "start_date": "02/2013",
+            "end_date": "02/2014",
+            "description": "I have experience using HTML, CSS, Javascript, and Bootstrap, Photoshop, and Paint.net. Responsible for customer service at the sushi bar, preparing quality authentic entrées and appetizers, manage and utilize luxury imported products conservatively to minimize shrinkage and maintain overhead. Responsible for training new employees and maintaining safety and efficiency behind sushi bar."
+        },
+        {
+            "title": "Head Chef",
+            "company": "Company Name",
+            "start_date": "02/2008",
+            "end_date": "03/2015",
+            "description": "Prepare entrées in timely fashion, maintain efficiency and safety in work environment. Support and train new employees in kitchen. Maintain cleanliness in the kitchen and sushi bar."
+        },
+        {
+            "title": "Ramp Agent",
+            "company": "Company Name",
+            "start_date": "01/2005",
+            "end_date": "01/2006",
+            "description": "Responsible for guiding aircraft traffic, baggage handling, maintaining security on ramp, removal of hazardous debris, customer support, cabin maintenance, operating Ground Support Equipment such as tugs, forklifts, and belt loaders. Responsible for delivery of high priority air-freight to cargo in timely fashion."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science: Finance",
+            "school": "Midlands Technical College",
+            "year": ""
+        },
+        {
+            "degree": "Associate of Science: Mathematical Economics",
+            "school": "Miami Dade College",
+            "year": ""
+        },
+        {
+            "degree": "Associate of Science: Computer Science",
+            "school": "University of North Georgia",
+            "year": "2017"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

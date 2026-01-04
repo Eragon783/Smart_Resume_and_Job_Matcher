@@ -1,0 +1,97 @@
+{
+    "name": "Maria",
+    "email": "",
+    "phone": "",
+    "location": "Kiryat Ono, Montefiore, 13",
+    "summary": "Senior system analyst, senior business analyst, team leader and project manager with extensive banking experience in Russia. Currently repatriating to Israel and actively studying Hebrew. Seeking junior/middle system or business analyst roles or QA tester to apply analytics and leadership skills while continuing to learn Hebrew.",
+    "skills": [
+        "SQL",
+        "PL/SQL",
+        "System analysis",
+        "Business analysis",
+        "QA testing",
+        "QA tester",
+        "Team leadership",
+        "Project management",
+        "Jira",
+        "Confluence",
+        "Visio",
+        "TFS",
+        "PowerPoint",
+        "Visual Studio Code",
+        "MS Project",
+        "Oracle SQL Navigator",
+        "MS SQL Management Studio",
+        "Waterfall",
+        "Scrum",
+        "Kanban",
+        "Electronic Document Management (EDM)",
+        "Banking domain",
+        "Requirements gathering",
+        "Documentation"
+    ],
+    "experience": [
+        {
+            "title": "Senior Team Manager",
+            "company": "Joint Stock Company ALFA-BANK",
+            "start_date": "2019-09",
+            "end_date": "Present",
+            "description": "Process management of four teams: work planning, communication, risk management, team building, human research, requirement review, assessment review, mentoring."
+        },
+        {
+            "title": "Senior System Analyst, Project Lead",
+            "company": "Joint Stock Company ALFA-BANK",
+            "start_date": "2017-12",
+            "end_date": "2019-09",
+            "description": "Automation of the process of concluding a cash collection deal. DBMS MsSql. All kinds of requirements and documentation, analyst team leader, management of all processes development, testing and communications."
+        },
+        {
+            "title": "Senior System Analyst",
+            "company": "AT Consulting",
+            "start_date": "2012-08",
+            "end_date": "2017-12",
+            "description": "Field Staff Management System of the Technical Support Department of Sberbank. System for monitoring and analyzing the activities of internal structural divisions of Sberbank. DBMS Oracle. All kinds of requirements and documentation, Analyst team leader, Management of all processes of analytics, testing and communication with the customer."
+        },
+        {
+            "title": "Senior System Analyst, Project Lead",
+            "company": "E-school",
+            "start_date": "2011-04",
+            "end_date": "2012-08",
+            "description": "Software for education system. DBMS MsSql. Business analysis, System analysis, Project management, Database architecture development, Technical documentation, User documentation, testing."
+        },
+        {
+            "title": "PL/SQL, SQL Developer",
+            "company": "PROMOS",
+            "start_date": "2009-02",
+            "end_date": "2012-08",
+            "description": "Building sector. DBMS Oracle. Form builder, Report builder, Database architecture development, Interviewing customers, instruction manuals for systems."
+        },
+        {
+            "title": "SQL Developer",
+            "company": "Beeline Russia",
+            "start_date": "2008-10",
+            "end_date": "2009-01",
+            "description": "Telecommunications. Big data reports developer."
+        },
+        {
+            "title": "PL/SQL Developer, SQL Developer",
+            "company": "INPRIS",
+            "start_date": "2005-09",
+            "end_date": "2008-09",
+            "description": "Software for publishing houses. DBMS Oracle. Form builder, Report builder, Database architecture development, Interviewing customers, instruction manuals for systems."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Not specified",
+            "school": "Moscow State University, Faculty of Mechanics and Mathematics",
+            "year": "2003"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English (Professional working proficiency)",
+        "Russian (Native)",
+        "Hebrew (Elementary proficiency)"
+    ]
+}

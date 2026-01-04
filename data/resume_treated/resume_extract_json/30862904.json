@@ -1,0 +1,102 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior HR strategist and Recruitment Manager with 10+ years of experience delivering talent management, strategic recruitment planning, and organizational development across diverse organizations. Proven track record in workforce planning, employee retention, performance management, and leadership development. Recognized for compassionate leadership, strategic thinking, and executive recruitment with expertise in designing recruitment strategies aligned to business objectives.",
+    "skills": [
+        "ADA",
+        "art",
+        "benefits",
+        "benefits administration",
+        "biotechnology",
+        "Branding",
+        "budget",
+        "change management",
+        "contract negotiations",
+        "databases",
+        "designing",
+        "direction",
+        "employee relations",
+        "senior management",
+        "Fax",
+        "focus",
+        "hiring",
+        "Human Resources",
+        "HR",
+        "Team Building",
+        "Leadership",
+        "Director",
+        "marketing",
+        "Organizational Development",
+        "payroll",
+        "Performance Appraisal",
+        "performance management",
+        "policies",
+        "processes",
+        "process improvement",
+        "Project Management",
+        "protocols",
+        "quality",
+        "Recruitment",
+        "Recruiting",
+        "recruiter",
+        "research",
+        "Strategic",
+        "Strategist",
+        "training design",
+        "vendor management",
+        "Vendor Relations"
+    ],
+    "experience": [
+        {
+            "title": "HR Manager",
+            "company": "Company Name",
+            "start_date": "March 2013",
+            "end_date": "Present",
+            "description": "Corporate HR Manager for a project management and consultancy firm offering advisory services to life science, biotechnology, and medical device industries. Provides strategic direction and design in talent acquisition, onboarding, performance management, and instructional training design. Aligns talent acquisition strategies with practice concentrations and subject matter needs; focuses on recruitment (search, interview, offer contracting), retention (employee relations, associate satisfaction), and performance management (analytics, evaluation design, job descriptions/work design) and training/development. Member of Leadership Team as Director - Talent Assimilation; extensive focus on succession planning and training leaders in tactical, operational, human capital, and organizational change management strategies."
+        },
+        {
+            "title": "Manager - HR Corporate Recruiter and HR consultant",
+            "company": "Company Name",
+            "start_date": "January 2006",
+            "end_date": "March 2013",
+            "description": "Coordinated full-cycle recruiting and retention strategies for management positions at corporate headquarters and nationwide facilities. Partnered with hiring managers to provide insight regarding interview and selection processes. Developed corporate recruiting policies, joined Corporate HR Team to assist with interview, job fair, and training projects, and reported weekly metrics to senior management. Spearheaded implementation of the company's first applicant tracking system (Region). Redesigned interview techniques—question design, skill evaluation, and situational analysis study. Reduced turnover (20% total; 35% in the Chicago region). Created vendor management system and clear contract negotiation process. Served as Lead Selection Advisor—determining traits, experience, and attributes necessary for specialized positions to recruit and hire top talent. Improved paper communication through an E-Fax system and designed recruitment protocols (initial questions and follow-up)."
+        },
+        {
+            "title": "Sr. HR Generalist/Lead Recruiting Manager",
+            "company": "Company Name, City, State",
+            "start_date": "January 1998",
+            "end_date": "January 2006",
+            "description": "Provided human resources and recruitment & HR Generalist support for a growing placement firm with approximately 38 full-time and 514 part-time/temporary employees. Oversaw marketing of HR opportunities and recruitment of qualified candidates. Led recruitment design and implementation; ensured contract compliance and monitored service level metrics. Designed databases and internet search modalities to locate passive and active candidates. Promoted from HR Generalist to HR Recruiting Manager based on strong performance in process improvement, recruitment initiatives, and performance management. Administered full-cycle recruiting and retention for the largest branch (1,500 employees). Managed EEOC, FLSA, ADA, FMLA, employee relations, workers’ compensation, benefits administration, and payroll. Coordinated new hire orientations, facilitated trainings, and advised managers on performance management, evaluations, compensation, promotions, and terminations."
+        },
+        {
+            "title": "Employee Relations Generalist",
+            "company": "Company Name, State",
+            "start_date": "January 1992",
+            "end_date": "January 1998",
+            "description": "Managed HR operations and generalist duties nationwide for an institute with 1,700 employees across 30 facilities. Oversaw employee relations, FMLAs, EEOC, ADA, FLSA, benefits, and payroll. Directed hiring managers on policies, procedures, performance management, and terminations. Monitored recruitment fill-rates for Illinois. Contributed to Applicant Tracking System development; created policy guides for supervisors and senior management. Developed and implemented employee wellness and referral bonus programs. Managed an annual budget of $2M."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MS in Human Resources",
+            "school": "Marquette University",
+            "year": null
+        },
+        {
+            "degree": "Juris Doctor (JD)",
+            "school": "The John Marshall Law School",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Marquette University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "PHR - Professional in Human Resource Management"
+    ],
+    "languages": []
+}

@@ -1,0 +1,94 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Capable Accountant with experience managing multiple projects and meeting deadlines under pressure. Skilled in Lawson and PeopleSoft, financial statement analysis, and a range of accounting software and processes.",
+    "skills": [
+        "Microsoft Excel",
+        "Peachtree",
+        "PeopleSoft",
+        "SAP",
+        "Sarbanes-Oxley",
+        "SQL"
+    ],
+    "experience": [
+        {
+            "title": "Principal Accountant",
+            "company": "Company Name",
+            "start_date": "Mar 2014",
+            "end_date": "Current",
+            "description": "General ledger accounting; Compile reports and supporting schedules for inclusion in OPC's monthly financial/statistical operating reports, SEC filings, and RUS filings; Collaborated extensively with auditors during preliminary and year-end audit processes."
+        },
+        {
+            "title": "Senior Accountant - Revenue & Purchased Power",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Maintain revenue aspects including billing, collections, and variance analysis; audit, balance, resolve, or reconcile discrepancies between payments, receipts, accounts, and/or source documents; post transactions in accounts, journals, and ledgers; process and prepare financial statements for auxiliary companies under agreements with OPC; develop and maintain account hierarchies/codes within general ledger system and monitor system functionality; process and reconcile monthly debt costs, interest income/expense and investment income; assist in general accounting and finance work including asset inventory, budget, depreciation expense, and monthly bank reconciliations; implement process improvements to address overall departmental inefficiencies."
+        },
+        {
+            "title": "Corporate Accounting Consultant",
+            "company": "Company Name",
+            "start_date": "Apr 2005",
+            "end_date": "Jun 2006",
+            "description": "Participated in the largest Restatement in US history of financials in accordance with GAAP for accounting periods 1999-2004 as directed by Securities Exchange Commission (SEC); assisted client management with analysis and assessment of internal controls including but not limited to documentation and testing of policies/procedures under guidelines established by Sarbanes Oxley Act (SOX); compiled forensic data for use in multi-site facility reconciliations and federal investigations; audited testing of accounts to identify errors and prepare necessary adjustments in PeopleSoft; implemented process improvements for revenue analysis and quality controls for some 7000 G/L account/facility combinations."
+        },
+        {
+            "title": "Financial Reporting Consultant",
+            "company": "Company Name",
+            "start_date": "Jul 2003",
+            "end_date": "Mar 2005",
+            "description": "Reviewed and prepared consolidated Financial Statements, as well as footnotes to the financial statements and Management's Discussion and Analysis in Coke's 10-K and 10-Q; compiled the Quarterly earnings release with the review and preparation of the income statement; Facilitated the preparation of the filings and maintenance of schedule; Coordinated and prepared Sarbanes-Oxley documentation for the External Financial Reporting department; Participated in the budget and forecast processes, SEC and tax reporting requirements, audit schedules, and various accounting projects; Ensured the accuracy of reporting by standardizing daily procedures and effecting compliance."
+        },
+        {
+            "title": "Controller",
+            "company": "Company Name",
+            "start_date": "Apr 1999",
+            "end_date": "Jul 2003",
+            "description": "Assisted in the preparation of consolidated reporting for internal & external agencies; supervision of 3 direct reports (assistant controller, senior and staff accountants); Provided variance analysis to executive management highlighting key revenue metrics and market trends; Advised executive management regarding current trends and liaison with external auditors; Completed two corporate mergers and due diligence for audits as required by the SEC."
+        },
+        {
+            "title": "Assistant Controller",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Oversight of GL, audit, budget, consolidation, and financial reporting processes; Facilitated conversion of new accounting software and chart of accounts; Supervision of 2 staff accountants and HR administrator."
+        },
+        {
+            "title": "Manager- Accounting",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Responsible for all accounting, general ledger, and financial statement reporting related to $26M in domestic syndicated radio advertising sales revenue; Developed and implemented revenue recognition for unusual activities such as trade and cross-media deals; Assisted with budget preparation and monitor key revenue and expense trends; Prepared monthly close and variance analysis packages and all inter-company transfers for two operating companies and one consolidating business unit."
+        },
+        {
+            "title": "Senior Financial Analyst",
+            "company": "Company Name",
+            "start_date": "Jan 1998",
+            "end_date": "Apr 1999",
+            "description": "Compiled and reconciled annual sales on a monthly basis and review of corporate agreements; Prepared monthly P & L statements for directors to measure performance against sales targets; Prepared weekly corporate flash, monthly journal entries, and balance sheet reconciliation."
+        },
+        {
+            "title": "Revenue Analyst",
+            "company": "Company Name",
+            "start_date": "May 1996",
+            "end_date": "Dec 1997",
+            "description": "Responsible for monthly reporting of subscriber billing of regional cable service to affiliates, payment tracking, allocations, reversals, forecasts, actual, and journal entries; Maintained collection issues and policies regarding payments, credits, and accounts status; Heavy departmental and team interaction."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration, Finance",
+            "school": "Rutgers University",
+            "year": "2002"
+        },
+        {
+            "degree": "Bachelor of Business Administration, Accounting",
+            "school": "Pace University",
+            "year": "1991"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

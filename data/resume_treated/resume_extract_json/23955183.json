@@ -1,0 +1,83 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Strategic and analytical finance professional with 4+ years of success in financial reporting, analysis and project management.",
+    "skills": [
+        "Analytical skills",
+        "Variance analysis",
+        "Complex problem solving",
+        "Financial modeling",
+        "Self-motivated professional",
+        "MS Office Suite",
+        "Interpersonal skills",
+        "Leadership skills",
+        "binder",
+        "clientele",
+        "clients",
+        "features",
+        "financial",
+        "forms",
+        "insurance",
+        "litigation",
+        "marketing strategies",
+        "market",
+        "meetings",
+        "networking",
+        "police",
+        "policies",
+        "recording",
+        "seminars",
+        "settlements",
+        "Sigma",
+        "technical assistance",
+        "underwriter"
+    ],
+    "experience": [
+        {
+            "title": "Finance Analyst",
+            "company": "Company Name",
+            "start_date": "November 2013",
+            "end_date": "Present",
+            "description": "Executed and reported variance and gap analysis. Monitored and analyzed Key Performance Indicators (KPI) and financial ratios. Tracked, analyzed and interpreted trends in [Data type] data. Analyzed pricing and sales for all business products. Developed financial analysis reports and presentations by applying acquired financial principles. Analyzed businesses of varying sizes to determine the financial impact of potential investments. Manipulated data using pivot tables, pivot charts and macros. Evaluated return-on-investment and profit-loss projections. Planned and managed budgets in excess of $ [Amount]. Created sales strategies to promote advertising offerings and motivate larger deals. Completed strategic competitive analysis by assessing strengths and weaknesses of competitors. Managed trade on new product releases. Worked effectively in a heavily cross-functional, fast paced environment. Researched and resolved billing and invoice problems. Created training manuals for our trade system. Led team training. Provided a high level support to sales representatives and customers. Recommended changes to existing methods to increase the accuracy and efficiency of our ROI. Generated and distributed weekly reports. Lead on and off-site support across multiple time zones."
+        },
+        {
+            "title": "Claim Representative",
+            "company": "Company Name",
+            "start_date": "February 2011",
+            "end_date": "October 2013",
+            "description": "Examine claims forms and other records to determine insurance coverage. Investigate and assess damage to property and review property damage estimates. Interview or correspond with claimants, witnesses, police, or other relevant parties to determine claim settlement, denial, or review. Review police reports and physical property damage to determine the extent of liability. Negotiate claim settlements and recommend litigation when settlement cannot be negotiated. Analyze information gathered by investigation, and report findings and recommendations. Refer questionable claims to investigator or claims adjuster for investigation or settlement. Collect evidence to support contested claims in court. Examine titles to property to determine validity and act as company agent in transactions with property owners. Evaluate practicality of repair as opposed to payment of market value of vehicle before accident. Determine salvage value on total-loss vehicle. Arrange to have damage appraised by another appraiser to resolve disagreement with shop on repair cost. Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments, as well as actions taken."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "August 2010",
+            "end_date": "October 2010",
+            "description": "Interview prospective clients to obtain data about their financial resources and needs, the physical condition of the person and to discuss any existing coverage. Call on policyholders to deliver and explain policy, to analyze insurance program and suggest additions or changes, or to change beneficiaries. Seek out new clients and develop clientele by networking to find new customers and generate lists of prospective clients. Calculate premiums and establish payment method. Contact underwriter and submit forms to obtain binder coverage. Attend meetings, seminars and programs to learn about new products and services, learn new skills, and receive technical assistance in developing new accounts. Ensure that policy requirements are fulfilled, including any necessary medical examinations and the completion of appropriate forms. Customize insurance programs to suit individual customers, often covering a variety of risks."
+        },
+        {
+            "title": "President",
+            "company": "PHI SIGMA SIGMA Sorority",
+            "start_date": "2007",
+            "end_date": "2008",
+            "description": "Monitor event activities to ensure compliance with applicable rules and satisfaction of participants, and resolution of any problems that arise. Coordinate services for events, such as accommodation and transportation for participants, facilities, catering, signage, displays, special needs requirements, printing and event security. Analyzed, revised and worked with budgets. Hold regular meetings. Leadership training 2 years."
+        },
+        {
+            "title": "Activities Committee",
+            "company": "STATE FARM ACTIVITIES COMMITTEE",
+            "start_date": "June 2012",
+            "end_date": "January 2013",
+            "description": "Monitor event activities to ensure compliance with applicable rules and satisfaction of participants, and resolution of any problems that arise. Coordinate services for events, such as accommodation and transportation for participants, facilities, catering, signage, displays, special needs requirements, printing and event security. Analyzed, revised and worked with budgets. Hold regular meetings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Administration Finance",
+            "school": "California State University, Bakersfield",
+            "year": 2010
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

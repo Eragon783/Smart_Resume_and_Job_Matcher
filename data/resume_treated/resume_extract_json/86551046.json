@@ -1,0 +1,59 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "St. Louis, Missouri",
+    "summary": "Chef with nine years of culinary experience and eleven total years of hotel experience. Skilled in leading and raising banquet quality of food, with a track record of improving food scores and delivering high-profile events. Experienced in menu development, team leadership, and collaborating with consulting firms to enhance performance.",
+    "skills": [
+        "Highly Focused and Driven",
+        "High Volume Production Capability",
+        "High Profile Events",
+        "Reliable"
+    ],
+    "experience": [
+        {
+            "title": "Senior Sous Chef",
+            "company": "Company Name",
+            "start_date": "2016-04",
+            "end_date": "Present",
+            "description": "Oversee three different outlets; improved Restaurant Quality of Food by 6 points in 2 years; developed menus for breakfast, lunch and dinner; achieved 87 for Associate Engagement Survey; worked closely with Carpedia (consulting firm); currently managing 3 managers and over 60 associates; $15.6 million in food sales for 2016."
+        },
+        {
+            "title": "Sous Chef",
+            "company": "Company Name",
+            "start_date": "2015-04",
+            "end_date": "2016-04",
+            "description": "Oversaw the PM culinary operations; improved quality of food scores by 3 points during first year on the job; trained and developed new Assistant Sous Chef and lead cook; assisted the Chef in achieving not only GSS goals but also financial targets."
+        },
+        {
+            "title": "Assistant Sous Chef",
+            "company": "Company Name",
+            "start_date": "2014-12",
+            "end_date": "2015-04",
+            "description": "Made schedules; scored an 82 on the AES survey; bridged the gap between AM and PM; attended WIG sessions; won silver medal in the NOWFE competition; contributed to menu development."
+        },
+        {
+            "title": "Kitchen Supervisor",
+            "company": "Company Name",
+            "start_date": "2014-02",
+            "end_date": "2014-12",
+            "description": "Oversaw the AM shift; part of a renovation (M Club); did scheduling and ordering for the hotel restaurant."
+        },
+        {
+            "title": "Banquet Cook 2 (Lead Cook)",
+            "company": "Company Name",
+            "start_date": "2014-02",
+            "end_date": "2014-12",
+            "description": "Attended daily BEO meetings; prepped and fired functions for upwards of 1500 guests; prepared tastings for VIP clients; delegated prep lists and daily cleaning lists to the team."
+        }
+    ],
+    "education": [
+        {
+            "degree": "GED",
+            "school": "SWIC",
+            "year": "2005"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

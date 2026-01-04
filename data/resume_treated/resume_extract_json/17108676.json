@@ -1,0 +1,57 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Highly motivated mechanical engineering student (EIT) interested in pursuing an engaging position in the corporate setting to implement skills honed through years of engineering background. A dedicated student with problem-solving, leadership, and communication skills along with the capability to build relationships and work in a team-oriented environment.",
+    "skills": [
+        "SolidWorks",
+        "AutoCAD",
+        "Engineering graphics and design",
+        "Microsoft Word",
+        "Microsoft PowerPoint",
+        "Microsoft Excel",
+        "Project management",
+        "Time management",
+        "Statics/Dynamics",
+        "Fluid mechanics",
+        "Thermal analysis",
+        "Heat transfer",
+        "Material science",
+        "Probability and statistics",
+        "Robotics",
+        "Safety",
+        "Laser",
+        "Research",
+        "Reporting",
+        "Verbal communication",
+        "Written communication"
+    ],
+    "experience": [
+        {
+            "title": "Mechanical Engineering Intern",
+            "company": "Company Name, City, State",
+            "start_date": "09/2015",
+            "end_date": "Current",
+            "description": "Worked with a team of four in UCSD's MAE 3 class to build a mobile robot. Evaluated parts of the robot using components such as springs, high-speed motor, and geared motor. Analyzed and assessed progress of the project using a Gantt chart. Directed the group in the areas of design process and concept generation. Performed energy analysis to estimate energy and power transfer from the motor to the wheels; calculated wheel torque, friction force, factor of safety, and desired time of travel. AutoCAD software utilization: developed drawings of a clock, archived CAD files and drawing documents, and implemented CAD files into the Lasercamm (Laser Cutter) to produce a clock made of acrylic. Reporting/Grading: worked as an Academic Employee (Grader) for UCSD's MAE 105 class; communicated graded results to the professor and expressed them through histograms by Microsoft Excel. Assisted in assembly and manufacture of prototypes; utilized manufacturing methods, fabrication, and product designs; designed and detailed prototypes using SolidWorks; researched and analyzed customer design proposals and specifications."
+        },
+        {
+            "title": "Systems Engineering Intern",
+            "company": "Company Name, City, State",
+            "start_date": "05/2014",
+            "end_date": "03/2015",
+            "description": "Responsible for the operations of crystallization robotics and compound management. Used automated instrumentation to support protein crystallization efforts. Assisted with daily order fulfillment (weighing and transferring research compounds). Stock solution preparation and rotation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "school": "University of California",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Engineer-In-Training (EIT) Certification, October 2015"
+    ],
+    "languages": []
+}

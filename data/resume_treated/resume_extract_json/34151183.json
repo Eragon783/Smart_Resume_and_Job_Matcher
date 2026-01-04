@@ -1,0 +1,124 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced Receptionist with more than 15 years of experience in training, operations, and customer service in various positions, including reception. Detail-oriented professional skilled at working independently and with diverse teams to ensure results. Effective communicator comfortable with people from multicultural backgrounds and demonstrated history of establishing rapport with leaders at all levels.",
+    "skills": [
+        "Customer Service",
+        "Cash Management",
+        "Order Processing",
+        "Microsoft Office",
+        "Electronic Medical Records",
+        "Interpersonal Communications",
+        "Training and Instruction",
+        "Nonprofit Case Management",
+        "Medical Terminology",
+        "Schedule Maintenance",
+        "Multi-Line Reception",
+        "Administrative Support",
+        "Purchasing Procedures",
+        "Vendor Negotiations",
+        "Exam Room Preparation",
+        "accounting",
+        "administrative support",
+        "benefits",
+        "billing",
+        "clerical",
+        "counseling",
+        "client",
+        "clients",
+        "data entry",
+        "database",
+        "documentation",
+        "general office",
+        "instruction",
+        "insurance",
+        "inventory",
+        "office",
+        "organizational",
+        "policies",
+        "pricing",
+        "processes",
+        "progress",
+        "quality",
+        "reception",
+        "research",
+        "safety",
+        "Switchboard Operator"
+    ],
+    "experience": [
+        {
+            "title": "Cashier",
+            "company": "Company Name, City, State",
+            "start_date": "January 2012",
+            "end_date": "January 2013",
+            "description": "Greeted customers upon arrival and responded to inquiries for product or policy information. Calculated costs and managed cash drawer before, during, and after shifts to ensure accuracy. Answered more than 20 calls daily to resolve customer concerns and answer product questions. Issued credits, receipts, and refunds to customers and maintained loyal clientele. Maintained cleanliness and order around checkout areas. Assisted with pricing and stocking of products, including special order coordination. Responded to customer complaints to resolve issues in a proactive and helpful manner."
+        },
+        {
+            "title": "Fitness Instructor Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "January 2012",
+            "end_date": null,
+            "description": "Supported Recreational Sports team, including coordination of programs and activities. Ensured compliance with all departmental policies and procedures. Collaborated with Program Coordinator on various projects. Facilitated instruction on group exercise for people of all ages and skill levels. Promoted correct form, position, and alignment during aerobic dance courses."
+        },
+        {
+            "title": "Case Manager",
+            "company": "Company Name, City, State",
+            "start_date": "January 2010",
+            "end_date": "January 2011",
+            "description": "Collaborated with Case Managers from Chicago Family Health Center to develop and implement treatment plans for high risk clients. Conducted individual intake assessments to determine services and served as client advocate. Maintained and developed resource files in partnership with social service and community agencies. Implemented various therapeutic and counseling methods to ensure success and progress. Provided care, such as checking vital signs and changing sterile dressings. Performed clerical tasks, including reception and data entry in electronic medical records database. Monitored medication stock to replace expired products."
+        },
+        {
+            "title": "Purchasing Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "January 2009",
+            "end_date": "January 2010",
+            "description": "Placed orders for organizational supplies according to approved purchase order processes. Negotiated prices with vendors for bulk and routine products. Conducted research on potential new vendors to meet business needs. Verified accuracy of incoming orders, processed invoices, and tracked missing documentation. Performed annual inventory of assets, including identifying and logging each item. Served as Switchboard Operator relief."
+        },
+        {
+            "title": "Customer Service Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "January 2008",
+            "end_date": null,
+            "description": "Prepared submissions for underwriters, including communicating status updates and issues. Purged files and prepared inactive records for storage offsite. Maintained monthly activity reports. Ensured exceptional quality of customer service."
+        },
+        {
+            "title": "Mapping Consultant/Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "January 2005",
+            "end_date": "January 2006",
+            "description": "Created statistical demographic maps for clients based on their specifications and needs. Trained and supervised team of seven interns. Collaborated with clients to ensure quality of service."
+        },
+        {
+            "title": "Mapping Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "January 2005",
+            "end_date": "January 2006",
+            "description": "Conducted research and compiled data to prepare demographic maps. Performed statistical information review of Bronzeville for commercial and residential development. Managed general office tasks, including administrative support and reception."
+        },
+        {
+            "title": "Radiology Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "January 1999",
+            "end_date": "January 2002",
+            "description": "Supported physicians and X-ray Technicians in capturing and processing films. Organized and maintained patient field, complying with confidentiality procedures. Assisted with patient transfers and ambulation. Fulfilled code card requests. Prepared operating and hospital rooms in adherence with sanitation and safety regulations."
+        },
+        {
+            "title": "Office Manager/Dental Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "January 1996",
+            "end_date": "January 2000",
+            "description": "Managed office operations, including schedule maintenance, billing, and accounting. Provided multi-line reception and communicated with patients, insurance providers, and vendors. Assisted with capture of dental X-rays and prepared examination room and dental trays. Mixed compounds for cleanings and fillings. Maintained patient records in Dentrix system and updated treatment information. Educated patients on proper dental hygiene and follow up care. Confirmed benefits for patients with specialists and insurance providers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Interdisciplinary Studies (Social Services)",
+            "school": "Northeastern Illinois University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

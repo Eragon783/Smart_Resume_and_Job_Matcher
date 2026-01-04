@@ -1,0 +1,54 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "A Game Designer with exceptional modeling and prioritization skills looking for a career in an organization that would enhance and further skillset.",
+    "skills": [
+        "3D",
+        "Photoshop",
+        "Animation",
+        "game design",
+        "Lighting",
+        "Maya",
+        "Modeling",
+        "Painter",
+        "people skills",
+        "quality",
+        "reality",
+        "Rendering",
+        "Sales",
+        "Sound",
+        "Sound Design"
+    ],
+    "experience": [
+        {
+            "title": "VR Designer",
+            "company": "Company Name",
+            "start_date": "01/2017",
+            "end_date": "",
+            "description": "Help facilitate the process of Game Development using Unity 5 and virtual reality. T.A. for Boeing Game Development course at Chronos Global Academy. 3D Modeler, Texture, Lighting and Sound special for Unity 5 and Unreal Engine 4. Sales and Marketing of VR titles on Steam and Vive-port"
+        },
+        {
+            "title": "Game Tester",
+            "company": "Company Name",
+            "start_date": "01/2016",
+            "end_date": "",
+            "description": "Provided expertise in testing games. Reported results and made sure the quality was production ready. Worked with teams in game functionality using multi language applications."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Fine Art and Game Design Animation/FX Artist",
+            "school": "Sanford Brown",
+            "year": "2014"
+        },
+        {
+            "degree": "Advanced Modeling, Advanced Animation, Level and World Building",
+            "school": "Education and Training",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,76 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Diverse experience in Accounting, Credit Union Financial Services, Retail Sales, Customer Service, Telemarketing, Food & Beverage, Construction and Ironworks. Strong organizational and interpersonal skills, with attention to detail and ability to manage multiple projects in fast-paced environments. Proficient in Excel and Microsoft Office, with extensive experience in accounts payable, payroll, general ledger, billing and revenue reporting, and customer service. Proven problem-solving abilities, leadership, and a track record of improving processes and client relations.",
+    "skills": [
+        "Accounting",
+        "Payroll",
+        "Accounts payable",
+        "General ledger",
+        "Billing and coding",
+        "Financial reporting",
+        "Excel",
+        "Microsoft Office",
+        "Time management",
+        "Problem solving",
+        "Interpersonal skills",
+        "Customer service",
+        "Data analysis",
+        "Reconciliation",
+        "Vendor invoice processing",
+        "Month-end close",
+        "Cash handling",
+        "Inventory management",
+        "Training",
+        "Leadership",
+        "Marketing",
+        "Networking",
+        "Presentation development"
+    ],
+    "experience": [
+        {
+            "title": "HR Payroll/ Accounting Representative",
+            "company": "Company Name City , State",
+            "start_date": "11/2008",
+            "end_date": "11/2011",
+            "description": "Assisted in payroll duties (hours worked, time off requests, STD, leave of absence), managed payroll and time/attendance systems, processed data for weekly and semi-monthly payrolls, onboarded new employees, processed rehires, transfers, terminations, garnishments and withholdings. In accounts payable, prepared purchase orders, reviewed and corrected errors and inconsistencies in financial entries, coded the general ledger and processed vendor invoice payments. Opened and assigned new client accounts, coordinated approval processes of all accounts payable invoices, balanced batch summaries, and conducted month-end balance sheet reviews and variance analyses. Researched and resolved billing and invoice problems."
+        },
+        {
+            "title": "Financial Relationship Specialist",
+            "company": "Company Name City , State",
+            "start_date": "",
+            "end_date": "",
+            "description": "Provided professional and prompt financial services to all members and potential members in a sales and service culture, while educating members on credit union products. Opened new member accounts, CDs and IRAs, originated and completed member consumer loan applications and closed loans originated outside the in-store branch. Balanced daily cash deposits and vault inventory with zero errors. Assisted with in-store marketing displays, trained employees on cash drawer operation, and supported loan disbursement and lien filing as needed."
+        },
+        {
+            "title": "Trainer/Server",
+            "company": "Company Name City , State",
+            "start_date": "05/2008",
+            "end_date": "12/2008",
+            "description": "Ordered and served customers with excellent service, resolved customer-related issues, assisted in training new recruits, and ensured opening and closing duties were performed correctly."
+        },
+        {
+            "title": "Counter Supervisor",
+            "company": "Company Name City , State",
+            "start_date": "09/2006",
+            "end_date": "07/2008",
+            "description": "Assisted Manager with visuals for the store, delegated daily staff workflow in the absence of the store manager, compiled store merchandise and inventory reporting, responded to customer inquiries, and provided support in operational, sales and team management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate in Business",
+            "school": "Blue River Community College",
+            "year": 1998
+        },
+        {
+            "degree": "Bachelor in Business Finance",
+            "school": "UMKC",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Self-motivated former service member with over 8 years of experience in environmental management and administration. Seeking a meaningful and challenging career opportunity with a governmental agency or aerospace company that will fully utilize my background, education, and professional talents. Veteran of the United States Armed Services with experience in supportive counseling to personnel and families, ability to read and write and communicate effectively, and advanced proficiency with Microsoft Office and databases.",
+    "skills": [
+        "Agency",
+        "billing",
+        "conferences",
+        "customer support",
+        "database",
+        "special events",
+        "hazardous waste disposal",
+        "hazardous waste",
+        "leadership",
+        "regulatory compliance",
+        "mailing",
+        "access",
+        "excel",
+        "office",
+        "outlook",
+        "word",
+        "packaging",
+        "problem solving",
+        "process equipment",
+        "publications",
+        "quality",
+        "quality control",
+        "reading",
+        "sales",
+        "shipping",
+        "teamwork",
+        "technical support",
+        "transportation",
+        "troubleshoot",
+        "water treatment",
+        "workshops"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Manager",
+            "company": "Company Name - City , State",
+            "start_date": "June 2015",
+            "end_date": "Present",
+            "description": "Increased sales and maximize revenue; Close daily business deals. Marketing and research for new business market segments. Identify and build relationship with new potential US customers. Manage daily sales and accounting operations."
+        },
+        {
+            "title": "Marketing Manager",
+            "company": "Company Name - City , State",
+            "start_date": "June 2014",
+            "end_date": "June 2015",
+            "description": "Research and market for new potential customers. Attend industry exhibitions to market product. Identify opportunities for sales; maintain and build existing customers."
+        },
+        {
+            "title": "Senior Field Technician",
+            "company": "Company Name - City , State",
+            "start_date": "February 2012",
+            "end_date": "January 2014",
+            "description": "Collecting, Preserving and handling of environmental samples. Quality assurance, quality control, data quality and reporting. Maintain understanding of local federal and state laws and standards."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Social Ecology, Environmental Analysis & Design",
+            "school": "University of California Irvine",
+            "year": 2004
+        },
+        {
+            "degree": "Public Affairs Office Internship",
+            "school": "Food & Drug Administration",
+            "year": 2003
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

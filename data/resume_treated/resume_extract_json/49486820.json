@@ -1,0 +1,90 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Customer service professional with Benefit Advocate experience, strong communication, problem-solving, and conflict-resolution skills. Experienced in benefits, eligibility, and claims processes, healthcare provider negotiations, and educating members on plan options. Proficient with MS Office, loan servicing systems, online medical software, and legal research tools. Proven ability to exceed performance goals and manage complex customer interactions.",
+    "skills": [
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "MS Office Publisher",
+        "Outlook",
+        "Loan Servicing Systems: MSP/Fidelity",
+        "SEAS",
+        "Image Viewer",
+        "Lexis Nexis",
+        "Westlaw",
+        "CRM",
+        "Citrix",
+        "Encoder Pro",
+        "MedPolicy",
+        "Negotiation",
+        "Active listening",
+        "Conflict resolution",
+        "Problem solving",
+        "Customer service",
+        "Customer service management",
+        "Troubleshooting",
+        "Telecommunications knowledge",
+        "Research",
+        "Claims research",
+        "Healthcare benefits education",
+        "Billing investigations",
+        "Data entry",
+        "Administrative support",
+        "Office management",
+        "Recruiting",
+        "Training",
+        "Sales",
+        "Cold calling",
+        "Warm selling",
+        "Medical coding (ICD-9, ICD-10)"
+    ],
+    "experience": [
+        {
+            "title": "Benefit Advocate",
+            "company": "Company Name - City, State",
+            "start_date": "March 2015",
+            "end_date": "Present",
+            "description": "Provide excellent customer service by responding to customer interactions via telephone, email, or internet in a professional and courteous manner; resolve inquiries with first-call resolution; assist members with benefits, eligibility, claims, spending accounts, and correspondence; educate on benefit plan options and help select quality care providers; intervene with care providers for appointments and specialist connections; negotiate provider fees; enable member self-sufficiency by navigating company websites and apps; take ownership of each call; initiate callbacks for research and follow-up; research complex claims across databases; collaborate with other departments to resolve escalated issues; provide benefits education and status on pre-authorizations; exceed performance goals in efficiency, call quality, customer satisfaction, and attendance; participate in special projects; resolve claims and billing issues; interface with carriers, physicians, hospitals, and other providers."
+        },
+        {
+            "title": "Online Customer Service Representative",
+            "company": "Aerotek (Contractor) - Company Name, City, State",
+            "start_date": "December 2014",
+            "end_date": "February 2015",
+            "description": "Provide excellent customer service via telephone, email, or internet; assist customers with enrolling for online banking; reset usernames and passwords; update accounts with accurate information for proper reception with advanced access codes for financial transfers and bill pay; help customers access accounts blocked for fraud protection."
+        },
+        {
+            "title": "Senior Customer Service Representative",
+            "company": "Xerox Corporation",
+            "start_date": "September 2013",
+            "end_date": "April 2014",
+            "description": "Provide professional customer service via telephone, email, or internet; support Wellpoint Insurance; address medical professional needs; verify benefits and eligibility; research and confirm ICD-9, CPT, and Diagnosis codes for billability and medical necessity using Encoder Pro and MedPolicy."
+        },
+        {
+            "title": "Sales Representative/Holistic Health Coach",
+            "company": "Health and Wellness/Weight Management Company",
+            "start_date": "March 2011",
+            "end_date": "December 2014",
+            "description": "CEO/COO of Health and Wellness/Weight Management Company; sold over $30k in first six months; managed a team of nine health coaches; conducted cold and warm sales calls; coached clients on dieting and weight loss; designed weight management plans; coordinated office management and administrative support; handled recruiting, training, and branding; maintained product knowledge and client relationships; utilized reports to meet performance goals and sales quotas."
+        },
+        {
+            "title": "Mortgage Insurance Customer Service Representative",
+            "company": "Company Name - City, State",
+            "start_date": "June 2008",
+            "end_date": "June 2011",
+            "description": "Inbound customer service for hazard insurance clients; assisted borrowers and external customers; maintained hazard and flood lender-placed insurance policies; trained new hires on campaigns; provided support for mortgage insurance related inquiries."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science in Paralegal",
+            "school": "Colorado Technical University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

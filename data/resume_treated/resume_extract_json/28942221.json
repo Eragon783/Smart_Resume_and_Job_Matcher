@@ -1,0 +1,104 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "",
+    "skills": [
+        "approach",
+        "Basic",
+        "bridges",
+        "C",
+        "Construction Management",
+        "customer service",
+        "delivery",
+        "Driving",
+        "government",
+        "home healthcare",
+        "inspection",
+        "legal documents",
+        "notes",
+        "materials",
+        "mail",
+        "radar",
+        "navigation",
+        "nursing",
+        "personnel",
+        "on foot",
+        "Police",
+        "radio",
+        "receiving",
+        "record keeping",
+        "reporting",
+        "safety",
+        "supervisor",
+        "supply inventory",
+        "telephone",
+        "warrants"
+    ],
+    "experience": [
+        {
+            "title": "Construction Inspector",
+            "company": "Company Name",
+            "start_date": "2018-01",
+            "end_date": "2018-06",
+            "description": "Inspected construction operations on roads and bridges to ensure work was done in accordance with the construction plans and specifications. Interpreted contract requirements through the examination of the specifications and drawings Applied a variety of testing and inspection techniques. Resolved specifications, drawings or construction conflicts and problems with site supervisor and/or project manager. Monitored contractor's construction schedule, materials, and equipment. Reviewed construction project safety practices and advised the supervisor of any corrective actions. Documented daily construction activities by utilizing the PennDOT Engineering and Construction Management System."
+        },
+        {
+            "title": "Courier",
+            "company": "Company Name",
+            "start_date": "2014-10",
+            "end_date": "2017-11",
+            "description": "Picked up and delivered court documents in a polite, resourceful, and professional manner. Coordinated incoming and outgoing mail. Maintained route supply inventory to ensure mail and documents are delivered promptly. Provided customer service by giving customers necessary information. Maintained delivery records. Served individuals and companies with legal documents."
+        },
+        {
+            "title": "Police Officer (retired)",
+            "company": "Company Name",
+            "start_date": "2000-08",
+            "end_date": "2013-11",
+            "description": "Patrolled designated areas in a patrol car or on foot to provide assistance, protect persons, and safeguard property. Enforced NJ State 2C criminal laws and motor vehicle laws. Apprehended suspects by effecting a lawful arrest in order to take suspects into custody. Conducted preliminary investigations by interviewing victims and witnesses after a crime. Obtained information and maintained notes for investigations. Prepared investigative reports and supplemental reports to provide an official record of the investigation. Prepared complaint summonses and warrants. Served defendants with their summons or warrant. Testified in New Jersey Courts for traffic and criminal investigations. Dealt with varied types of persons individually and in groups in a courteous and effective manner."
+        },
+        {
+            "title": "Communications Operator",
+            "company": "Company Name",
+            "start_date": "1997-04",
+            "end_date": "2000-08",
+            "description": "Updated leave, time, and pay balances for employees. Reviewed, maintained, and posted daily schedules and overtime rosters. Recorded and maintained information using manual or computerized record keeping systems. Prepared and distributed applicable reports. Received and transmitted calls utilizing telephone and radio systems. Dispatched emergency personnel or equipment. Issued and received paychecks, mail, keys, and other items."
+        },
+        {
+            "title": "Warehouse Manager and Purchasing",
+            "company": "Company Name",
+            "start_date": "1995-08",
+            "end_date": "1997-04",
+            "description": "Responsible for overseeing the ordering, receiving, restocking, and inventorying of medical supplies and equipment. Coordinated and managed the distribution of medical supplies and equipment to nursing homes, home healthcare providers, pharmacies, and individuals."
+        },
+        {
+            "title": "Security Officer",
+            "company": "Company Name",
+            "start_date": "1994-11",
+            "end_date": "1995-08",
+            "description": "Patrolled store and adjacent premises to maintain order, enforce regulations, and ensure observance of applicable laws. Assisted and notified staff during routine problems and emergency situations."
+        },
+        {
+            "title": "Operations Specialist",
+            "company": "Company Name",
+            "start_date": "1988-09",
+            "end_date": "1994-12",
+            "description": "Operated surveillance and search radar, electronic recognition equipment, and identification equipment. Operated surveillance and search radar, electronic recognition equipment, and identification equipment. Operated controlled approach devices and electronic aids to navigation. Served as plotter and status board keeper. Performed various security watch details. Performed diversified security duties to protect government property from fire, theft, and unauthorized personnel. Established and maintained various logs utilizing information obtained through numerous internal and external means including radio nets, electronic surveillance equipment and other various communication sources. Established and maintained primary and secondary communication source for reporting and assessment during possible wartime and peacetime crisis. Trained in the fighting and prevention of diversified classes of fires."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Basic Course for Police Officers",
+            "school": "Burlington County Police Academy",
+            "year": "2000"
+        },
+        {
+            "degree": "Fleet Combat Training Center",
+            "school": "Atlantic City",
+            "year": "1989"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

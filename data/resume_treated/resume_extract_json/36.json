@@ -1,0 +1,90 @@
+{
+    "name": "ERGEI HCHIPANOV",
+    "email": null,
+    "phone": null,
+    "location": "Kfar Saba, Israel",
+    "summary": "I am a Software Engineer with 6+ years experience in development and design on a wide technological stack. My main proficiency is building high-load Java backends. I design and build critical parts for core business applications such as integration buses, CI/CD and infrastructure applications. Looking for the Senior Software Engineer position.",
+    "skills": [
+        "Java",
+        "Java 8",
+        "TypeScript",
+        "C++",
+        "C#",
+        "Maven",
+        "Gradle",
+        "Gulp",
+        "Spring",
+        "Spring Boot",
+        "Node.js",
+        "Apache Camel",
+        "Apache Kafka",
+        "JUnit",
+        "JUnit 5",
+        "Mockito",
+        "Cucumber",
+        "PL/SQL",
+        "MS SQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Couchbase",
+        "Git",
+        "TFS",
+        "Jenkins",
+        "TeamCity",
+        "Docker",
+        "Kubernetes",
+        "Agile",
+        "Kanban",
+        "Scrum"
+    ],
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "company": "Sogo Services",
+            "start_date": "2019-12",
+            "end_date": "present",
+            "description": "Working on business-critical software projects across a wide technology stack including Java, TypeScript, Spring/Spring Boot, Node.js, Apache Kafka; VoIP; CI/CD with CircleCI; Git."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Amdocs",
+            "start_date": "2019-06",
+            "end_date": "2019-12",
+            "description": "Backend design for telecom customer-support software; Docker, Jenkins, Perforce; Couchbase, PostgreSQL."
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "Nexign",
+            "start_date": "2018-02",
+            "end_date": "2018-12",
+            "description": "Built backend for customer UI used in top-3 telecom carriers; performed multiple infrastructure updates including configuration management, edge interfaces and API redesign; technologies included Java, Spring, Docker, Jenkins, TeamCity, MongoDB."
+        },
+        {
+            "title": "Java Developer",
+            "company": "AlfaGroup",
+            "start_date": "2017-06",
+            "end_date": "2018-02",
+            "description": "Member of core service bus development team; Java, Spring, Red Hat Fuse, Jenkins."
+        },
+        {
+            "title": "Java Developer",
+            "company": "Luxo",
+            "start_date": "2014-10",
+            "end_date": "2017-06",
+            "description": "Developed visual database query builder and related tools; Java, Eclipse."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's degree",
+            "school": "MEPhI, National Research University (Nuclear University)",
+            "year": "2011-2016"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hebrew",
+        "Russian (native)"
+    ]
+}

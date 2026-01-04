@@ -1,0 +1,122 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Seeking a long term position. Supervise/manage planning departments for 10 years and improvements were seen in production rates and shipments. Manage/supervise estimating and quoting departments and reduced costs. Experience in reviewing documentation such as BOM's, routings, SOP's, routings, and change management, which led to reduced costs and improved deliveries. Implement a demand/capacity system and electronic work instruction system, which led to faster shipments to the customer. Experience includes ISO, Lean, Six Sigma, and APICS environments. MRP/ ERP systems include WDS, Syteline, Microsoft Great Plains, and others.",
+    "skills": [
+        "Adobe Acrobat",
+        "AutoCAD",
+        "CMS",
+        "customer relations",
+        "delivery",
+        "designing",
+        "documentation",
+        "drafting",
+        "electronics",
+        "Train employees",
+        "ERP",
+        "Great Plains",
+        "Maintain inventory",
+        "inventory control",
+        "Manufacturing engineer",
+        "Access",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "SharePoint",
+        "Windows",
+        "Word",
+        "MRP",
+        "Protel",
+        "purchasing",
+        "quality",
+        "receiving",
+        "research",
+        "router",
+        "scheduling",
+        "shipping",
+        "Supervisor",
+        "test equipment",
+        "wiring"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Planning Manager",
+            "company": "Company Name, City, State",
+            "start_date": "May 2015",
+            "end_date": "August 2017",
+            "description": "Company manufactures ankle monitoring systems. Maintain inventory. Maintain Manufacturing Orders issues and receipts."
+        },
+        {
+            "title": "Senior Manufacturing Project Engineer",
+            "company": "Company Name, City, State",
+            "start_date": "May 1996",
+            "end_date": "March 2015",
+            "description": "Company (OEM and CMS) manufactures PCB's, DH tools and electronics, box builds, etc. Supervise Planning Departments. This involved reviewing orders, monitoring shortages and reviewing work order reports for any discrepancies, which resulted in reducing delivery times to the customer. Coordinate with purchasing for proper scheduling of component parts from drawings and bills of material. Results were a faster turnaround times to the customer. Resolve customer issues involving deliveries, both in plant and at the customers' location. Results were improved customer relations. Translate customer documentation into our planning system for accurate processing. Implement a paperless document, and capacity/demand system, that resulted in faster turnaround. Train employees in MRP software, capacity/demand, and a paperless manufacturing system. Results were improved product quality and shipment improvements."
+        },
+        {
+            "title": "Production Planner",
+            "company": "Company Name, City, State",
+            "start_date": "June 1995",
+            "end_date": "May 1996",
+            "description": "Company (OEM) manufactures engine panels and gauges. Determine labor requirements for meeting production schedule and improving deliveries. Determine ship dates, order and maintain inventories, and schedule work through the department. Results were lower inventories and improved deliveries."
+        },
+        {
+            "title": "Production Manager",
+            "company": "Company Name, City, State",
+            "start_date": "July 1994",
+            "end_date": "June 1995",
+            "description": "Company (OEM) manufactures battery and cell research equipment. Determine the production schedule and material/ labor requirements. Responsibilities included planning, purchasing, engineering, production engineering, shipping/receiving, drafting, and developing outside vendors."
+        },
+        {
+            "title": "Department Supervisor/Planner",
+            "company": "Company Name, City, State",
+            "start_date": "December 1992",
+            "end_date": "July 1994",
+            "description": "Company (OEM) manufactures engine panels and gauges. Determine labor requirements for production schedule. Plan ship dates, order and maintain inventories, and schedule work through the department. Improvements in customers' costs were seen. Manage order ship dates for customers. Improved overall shipments."
+        },
+        {
+            "title": "Production Supervisor",
+            "company": "Company Name, City, State",
+            "start_date": "January 1988",
+            "end_date": "January 1992",
+            "description": "Company (OEM) manufactured pcb's and test equipment. Supervisor for high volume printed wiring board assemblies. Plan work schedule for department to improve shipments. Manage people, and process, to ensure a continuous flow of product through the operation. Results were faster shipments and improved costs."
+        },
+        {
+            "title": "Manufacturing Engineer",
+            "company": "Company Name, City, State",
+            "start_date": "January 1981",
+            "end_date": "January 1988",
+            "description": "Company (OEM) manufactures Variable Speed Drives. Plan products for the division. Implemented procedures that improved shipments. Manufacturing engineer for variable speed drives. Includes testing, assembly of parts, designing BOM's, router's, special instructions and installation. This help improve manufacturing output. Liaison between engineering, manufacturing, and field service in resolving, and improving, manufacturing. Promoted to various positions from inventory control, production control supervisor, and production supervisor."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration",
+            "school": "Langston University",
+            "year": 1996
+        }
+    ],
+    "certifications": [
+        "SharePoint (Advanced)",
+        "Adobe Acrobat (Advanced)",
+        "MRP/ERP (Advanced)",
+        "Altium/Protel (Intermediate)",
+        "Excel (Advanced)",
+        "AutoCAD (User)",
+        "Word (Intermediate)",
+        "CompliantPro (Advanced)",
+        "PowerPoint (Intermediate)",
+        "Shop Floor Control (Advanced)",
+        "Access (User)",
+        "Polydyne Quote Software (Intermediate)",
+        "Windows (Advanced)",
+        "WDS MRP Software (Advanced)",
+        "Outlook (Advanced)",
+        "Syteline MRP Software (Intermediate)",
+        "Project (Intermediate)",
+        "MS Great Plains (Intermediate)"
+    ],
+    "languages": []
+}

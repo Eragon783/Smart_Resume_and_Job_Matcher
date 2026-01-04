@@ -1,0 +1,113 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly-motivated Licensed Social Worker with 7 years of experience working with children and adolescents in various environments. seeks to advocate, connect and collaborate with individuals and their families to help them overcome barriers that affect their daily life. Highlights Emergency response training Suicide risk assessments Basic Cardiac Life Support (BCLS) Certified .Case management . Excellent in organization and documentation Creating and following treatment plans .Collaborative .Culturally competent",
+    "skills": [
+        "Compassionate",
+        "Active listener",
+        "Experienced in working with individuals and groups",
+        "Independent",
+        "Strong communicator",
+        "Knowledge of child development",
+        "Self-Awareness",
+        "Empathy",
+        "Boundary Setting",
+        "Time-management"
+    ],
+    "experience": [
+        {
+            "title": "Court Appointed Special Advocate for Abused and Neglected Children",
+            "company": "Company Name",
+            "start_date": "September 2013",
+            "end_date": "Present",
+            "description": "Collaborated with Guardian ad Litem's, Child protective service workers, Mental health professionals, teachers and parents Maintained monthly contact with my client and their families. Evaluated and addressed individual client needs and concerns. Wrote court reports and case plans Maintained thorough case history records and wrote detailed reports. Managed caseloads and acted as an advocate for client rights."
+        },
+        {
+            "title": "Emergency Medical Technician and Social Worker volunteer",
+            "company": "Company Name",
+            "start_date": "February 2013",
+            "end_date": "Present",
+            "description": "Assist with community public education Support prevention efforts Assist with local and major disasters Attend trainings and education seminars"
+        },
+        {
+            "title": "Social work Intern",
+            "company": "Company Name",
+            "start_date": "September 2015",
+            "end_date": "May 2015",
+            "description": "Semiweekly, worked under the indirect supervision of the school social worker. Conducted individual and group counseling and provided crisis management. Attended both IEP and staff meetings and worked collaboratively with teachers and parents. Individually created, followed and maintained intervention plans and kept detailed narrative reports of my client interactions. Assisted students with setting up outside resources and participated in risk assessments. Practiced cognitive behavioral and motivational enhancement techniques. Maintained a caseload of 10-15 clients, working under strict deadlines."
+        },
+        {
+            "title": "Social Worker Intern",
+            "company": "Company Name",
+            "start_date": "September 2015",
+            "end_date": "May 2015",
+            "description": "Once a week interned at the elementary school with the school social worker for 7 hours. My responsibilities included individual counseling, group counseling, creating and following treatment plans, following behavioral plans, emotional support, and attending IEP meetings. Presented case history material for review and discussion with other staff members. Evaluated and addressed individual client needs and concerns."
+        },
+        {
+            "title": "Social Work Intern",
+            "company": "Company Name",
+            "start_date": "September 2014",
+            "end_date": "May 2015",
+            "description": "Under the indirect supervision of the school social worker, once a week for an hour, I provided individual counseling. In addition I helped create personal plans of action in order for students to concentrate better while in the school environment."
+        },
+        {
+            "title": "Child Care",
+            "company": "Company Name",
+            "start_date": "January 2009",
+            "end_date": "January 2013",
+            "description": "Provided daily summer and after school care for a young boy who has an autism spectrum disorder Completed summer school and regular school assignments, visited educational and physical fitness facilities, and assisted with behavior and emotional problems. Designed an effective behavioral modification program."
+        },
+        {
+            "title": "Hippotherapy volunteer",
+            "company": "Company Name",
+            "start_date": "September 2011",
+            "end_date": "December 2011",
+            "description": "Accompanied occupational therapists in guiding medically challenged children during their Hippotherapy sessions."
+        },
+        {
+            "title": "Research Intern",
+            "company": "Settlement Music School / West Chester University (collaboration)",
+            "start_date": "September 2011",
+            "end_date": "December 2011",
+            "description": "Interned at Settlement Music school with a research team from West Chester University, assessing the correlation of poverty and learning. Collected and maintained data. Collaborated with teachers and staff around student schedules. Assisted teachers with daily classroom activities."
+        },
+        {
+            "title": "Girl Scout Leader",
+            "company": "Company Name",
+            "start_date": "February 2008",
+            "end_date": "February 2010",
+            "description": "Effectively coordinated and led Daisy Girl Scout troops for several years and assisted them through the moving up ceremonies. Created lesson and activity plans. Collaborated with parents."
+        },
+        {
+            "title": "Foster care assistant",
+            "company": "Company Name",
+            "start_date": "February 2008",
+            "end_date": "February 2010",
+            "description": "Assisted with the care of 3 medical and special needs children, within the foster system. Effectively maintained and fed 2 children through a Gastrostomy tube. Provided respite care for a child with autism and a heart defect. Designed an effective behavioral modification program."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Social Work",
+            "school": "West Chester University",
+            "year": "2015"
+        },
+        {
+            "degree": "Bachelor of Arts in Psychology",
+            "school": "West Chester University",
+            "year": "2013"
+        },
+        {
+            "degree": "Associate of Psychology",
+            "school": "Delaware County Community College",
+            "year": "2011"
+        }
+    ],
+    "certifications": [
+        "Emergency response training",
+        "Basic Cardiac Life Support (BCLS) Certified"
+    ],
+    "languages": []
+}

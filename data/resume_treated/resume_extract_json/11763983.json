@@ -1,0 +1,102 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "A people-oriented, results-driven professional with outstanding communication skills. Extensive experience delivering top-quality solutions for high- profile clients. Seeking to obtain a position which would allow me to apply my current knowledge, obtain new information and grow with a company.",
+    "skills": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Darwin",
+        "Act",
+        "Attendance Advisor",
+        "ERP/AS400",
+        "HRIS",
+        "ADP Payroll",
+        "Paycor",
+        "Internet Explorer",
+        "Outlook",
+        "Kronos",
+        "IFAS",
+        "PeopleSoft",
+        "Epicor",
+        "Winpak",
+        "E2",
+        "WASP",
+        "ACA",
+        "SOX",
+        "benefits administration",
+        "labor relations",
+        "recruitment",
+        "payroll",
+        "employee handbook",
+        "organization development",
+        "hiring",
+        "SOX compliance",
+        "401k",
+        "grievances",
+        "employee onboarding",
+        "exit interviews"
+    ],
+    "experience": [
+        {
+            "title": "HR Generalist",
+            "company": "Company Name",
+            "start_date": "2014-09",
+            "end_date": "Present",
+            "description": "Built the department from the ground up as the first HR person. Implemented policies and procedures to ensure compliance with State and Federal law. Built relationships with Management and employees. Provided advice and consultation to Supervisors and Executive Management for all employment-related matters. Administered employee benefits, payroll, workers' compensation, FMLA and personal leave, unemployment and training. Conducted workplace investigations from start to finish. Ensured ACA compliance. Facilitated employee engagement. Recruited for open positions, conducted onboarding and exit interviews. Produced weekly and monthly reports for Managers and Executives."
+        },
+        {
+            "title": "HR Representative",
+            "company": "Company Name",
+            "start_date": "2014-07",
+            "end_date": "2014-08",
+            "description": "Administered employee benefits, unemployment, FMLA and short-term disability leaves. Processed wage progressions and revised manpower reports weekly. Advised managers on employee conduct, performance improvement, disciplinary actions and terminations. Conducted grievance meetings with union representatives. Maintained open lines of communication with employees, managers and union representatives."
+        },
+        {
+            "title": "Human Resources Coordinator",
+            "company": "Company Name",
+            "start_date": "2014-03",
+            "end_date": "2014-07",
+            "description": "Processed HR transaction requests from Chrysler facilities in the U.S. and Canada into the PeopleSoft HR system. Ensured requests were complete and compliant with SOX guidelines."
+        },
+        {
+            "title": "HR Generalist",
+            "company": "Company Name",
+            "start_date": "2013-11",
+            "end_date": "2014-02",
+            "description": "Updated employee attendance and issued disciplinary actions as necessary. Scheduled and conducted hearings for higher-level discipline related to attendance and code of conduct violations. Conducted workplace investigations, interviewing claimants, accused and witnesses, collecting documentation and preparing investigative reports with action plans. Recruited for open positions and processed new-hire and termination documents."
+        },
+        {
+            "title": "HR Representative",
+            "company": "Company Name",
+            "start_date": "2012-07",
+            "end_date": "2013-09",
+            "description": "Administered workers' compensation and unemployment claims, wage progression, employee evaluations, exit interviews and leaves of absence (family medical, personal and short-term disability). Updated attendance system, earned personal days, grievances, benefits and 401k. Updated manpower reports weekly and released to management. Recruited open positions and conducted new-hire orientations. Familiar with union contract; collaborated with union representatives and managers."
+        },
+        {
+            "title": "HR Manager",
+            "company": "Company Name",
+            "start_date": "2002-01",
+            "end_date": "2012-07",
+            "description": "Provided guidance on employment-related matters including federal and state laws, employee handbooks, disciplinary actions and terminations. Investigated and assisted in resolving employee and client complaints. Acted as a liaison to resolve complex HR problems with creative solutions. Served as a consultant for unemployment, workers' compensation, benefits, and perks. Oversaw workers' compensation claims from injury to close. Directed benefits administration. Assisted clients in writing and implementing employee handbooks. Coordinated posting of job openings, screening applicants, conducting interviews and making hiring recommendations. Conducted new-hire orientation and ongoing training. Maintained strong cross-departmental communication to ensure timely completion of tasks."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA, HR",
+            "school": "Walsh College",
+            "year": ""
+        },
+        {
+            "degree": "HR Bachelor's Degree",
+            "school": "Walsh College",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Certified Nage No Kata Instructor"
+    ],
+    "languages": []
+}

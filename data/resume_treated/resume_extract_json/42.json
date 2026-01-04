@@ -1,0 +1,58 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Katsrin, Israel",
+    "summary": "Junior C++ developer with experience in designing and implementing data structures in C++ (C++98 and C++17), multithreading, and building tools with Docker, Git, and Kubernetes. Proficient in Linux/Unix environments, Qt and Boost, and experience with debugging tools (lldb, valgrind). Strong self-education, documentation, and translation skills.",
+    "skills": [
+        "C++ (C++98, C++17)",
+        "C",
+        "Go",
+        "Java",
+        "Haskell",
+        "Scala",
+        "Qt",
+        "Boost",
+        "Docker",
+        "Git",
+        "Kubernetes",
+        "Linux/Unix",
+        "lldb",
+        "valgrind",
+        "Vim",
+        "Qt Creator",
+        "Make",
+        "Multithreading",
+        "Web-server",
+        "Shell scripting",
+        "Translation (Russian-English)"
+    ],
+    "experience": [
+        {
+            "title": "Junior C++ Developer",
+            "company": "NT Progress",
+            "start_date": null,
+            "end_date": null,
+            "description": "Transferred old data structures to asynchronous implementations; developed dialog windows in Qt and Boost-based components; worked with Docker, Git, Kubernetes; multithreaded programming; Linux/Unix environment; debugging with lldb and valgrind."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Coding program",
+            "school": "42 Paris (Moscow campus)",
+            "year": "2020 - ongoing"
+        },
+        {
+            "degree": "Studies in History",
+            "school": "NRU HSE, School of History",
+            "year": "2020 - ongoing"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Russian",
+        "French",
+        "German"
+    ]
+}

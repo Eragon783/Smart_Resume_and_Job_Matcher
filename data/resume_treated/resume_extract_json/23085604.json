@@ -1,0 +1,157 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior technology executive with 25+ years of hands-on experience across software, hardware, manufacturing, and digital media delivery. Expert in system architecture, cloud and storage solutions, IPTV/OTT, broadcast, and large-scale media networks. Proven leader who builds global teams, transitions organizations to solution-selling models, and delivers complex, nationwide deployments. Recognized with Emmy and Clio awards for technological achievement and content delivery innovations.",
+    "skills": [
+        "Project timeline management",
+        "Product development",
+        "Video integration",
+        "Troubleshooting proficiency",
+        "Patient and diligent work ethic",
+        "Vast technical knowledge",
+        "Network asset management",
+        "Project management",
+        "Strong collaborative skills",
+        "Capacity and scalability planning",
+        "Optimizing and performance tuning",
+        "Testing",
+        "Problem solving",
+        "Customer needs assessment",
+        "Streaming video platforms",
+        "Encoding",
+        "Digital content delivery",
+        "IPTV/OTT",
+        "Broadcast systems",
+        "Storage systems",
+        "Media server",
+        "DHCP/DNS",
+        "Ethernet and firewall proficiency",
+        "Mobile device integration",
+        "3-screen delivery",
+        "Systems for content creation and distribution",
+        "Content management systems",
+        "Large-scale IPTV/OTT deployments",
+        "Video/digital media delivery expertise"
+    ],
+    "experience": [
+        {
+            "title": "Chief System Architect, SVP System Integration",
+            "company": "Telairity",
+            "start_date": "2009-06",
+            "end_date": "Present",
+            "description": "Responsibilities included building international integration and technical support organizations; led major RFP responses; transitioned the company from box selling to full solution selling with a global SI team; designed IPTV, Cable, OTT, DVB-T/T2, DVB-S/S2/DTH, MPLS, Mobile TV, Cloud Video and backup systems globally; oversaw design, deployment, and handover; opened 17 offices for system integration and support."
+        },
+        {
+            "title": "Chief System Architect, Digital Media and Entertainment Group",
+            "company": "Telairity – Digital Media and Entertainment Group",
+            "start_date": "2009-03",
+            "end_date": "2011-06",
+            "description": "Led the global DME practice for enterprise clients, CSPs, and related markets; responsible for system designs and deployments of large-scale IPTV/OTT and digital media solutions; worked with clients such as Alcatel, Cisco, Scientific Atlanta, Yahoo, QUALCOMM, NTT, and others."
+        },
+        {
+            "title": "CTO",
+            "company": "ZillionTV",
+            "start_date": "2007-01",
+            "end_date": "2009-09",
+            "description": "One of the original four founders; designed the entire IPTV/VOD/MobileTV delivery architecture, interactive UI, advertising system, and patented advertising program; led global developer program and evangelization for mobile TV; managed sales, partnerships, and content acquisition; company was sold."
+        },
+        {
+            "title": "EVP Operations, EVP/GM of Engineering, Television Design Center",
+            "company": "Television Design Center",
+            "start_date": "2004-01",
+            "end_date": "2007-01",
+            "description": "Established China engineering, manufacturing, and operations for the world’s largest TV design and integration center in Shenzhen; built from scratch an operation for design, engineering, and manufacturing of LCD TVs and related devices; managed manufacturing, project and product management, and global accounts; led teams across China, Japan, and Korea."
+        },
+        {
+            "title": "EVP Worldwide System Integration and Professional Services",
+            "company": "Telairity",
+            "start_date": "2003-01",
+            "end_date": "2004-01",
+            "description": "Created global integration, deployment, and field support operations for large enterprise clients, CSPs, digital media companies, and government programs; led MPEG-4/H.264 initiatives; expanded revenue base; managed global field staff."
+        },
+        {
+            "title": "VP Global Professional Services, Integration and Technical Services",
+            "company": "IVAST",
+            "start_date": "2000-01",
+            "end_date": "2003-01",
+            "description": "Directed product development, field engineering, system engineering, and managed services; built global sales engineering and professional services teams; led MPEG-4/H.264 efforts and IP delivery integrations."
+        },
+        {
+            "title": "Vice President System Integration and Professional Services",
+            "company": "Streaming21",
+            "start_date": "1998-01",
+            "end_date": "2000-01",
+            "description": "Hired to establish Streaming21 as a leader in streaming media delivery; built a comprehensive SI and professional services capability; closed major contracts; created a Solutions Group to interface with strategic partners."
+        },
+        {
+            "title": "Director of Digital Media Technology",
+            "company": "Hammer Storage Solutions",
+            "start_date": "1997-01",
+            "end_date": "1999-01",
+            "description": "Developed vertical storage solutions for entertainment; secured Disney and other major clients; led growth of Fibre Channel SAN division; contributed to company acquisition by Bell Micro."
+        },
+        {
+            "title": "Director of Technology, Creative Media Arts Division",
+            "company": "Andataco",
+            "start_date": "1996-01",
+            "end_date": "1997-01",
+            "description": "Built and re-designed storage and backup division for entertainment market; developed training programs; MRD tasks; supported entertainment vertical markets."
+        },
+        {
+            "title": "CEO, Creative Director",
+            "company": "Unknown",
+            "start_date": "1994-01",
+            "end_date": "1996-01",
+            "description": "Directed post-production facility; grew company revenue and earned Emmy/Clio recognitions for documentary and commercial work."
+        },
+        {
+            "title": "Vice President",
+            "company": "Lambert Industries",
+            "start_date": "1991-01",
+            "end_date": "1994-01",
+            "description": "Led independent film production and distribution; contributed to revenue growth and eventual acquisition."
+        },
+        {
+            "title": "President/CEO",
+            "company": "Travel Video Media",
+            "start_date": "1987-01",
+            "end_date": "1991-01",
+            "description": "Built travel video content business; created first all-digital post-production facility; scaled to 250 employees and $175M annual revenue; earned Emmy/Clio recognition; company sold to Disney."
+        },
+        {
+            "title": "Producer/Director",
+            "company": "Travel Video Media",
+            "start_date": "1985-01",
+            "end_date": "1987-01",
+            "description": "In-house producer/director for regional, national, and international broadcast campaigns; won Clios."
+        },
+        {
+            "title": "Executive Associate Producer",
+            "company": "Bob Evans Productions",
+            "start_date": "1982-01",
+            "end_date": "1985-01",
+            "description": "Feature film packaging, cast/crew development, distribution agreements; negotiated ancillary rights and funding."
+        },
+        {
+            "title": "First Assistant Director",
+            "company": "Greenbriar Productions (N. L. Lacy Associates)",
+            "start_date": "1980-01",
+            "end_date": "1982-01",
+            "description": "Staff director; directed regional/national ads; won Clio for United Airlines spot."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA",
+            "school": "Boston University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Emmy Awards (7)",
+        "Clio Awards (7)"
+    ],
+    "languages": []
+}

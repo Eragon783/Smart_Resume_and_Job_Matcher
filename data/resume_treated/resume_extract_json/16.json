@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Israel, Beer Sheva",
+    "summary": "",
+    "skills": [
+        "system design",
+        "KYC platform",
+        "Java",
+        "Kotlin",
+        "Spring Framework",
+        "SQL",
+        "Postgres",
+        "Oracle",
+        "Kafka",
+        "Cassandra",
+        "Git",
+        "Docker",
+        "TeamCity",
+        "GitLab",
+        "Agile",
+        "Scrum",
+        "SAFe",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Scala",
+        "Python",
+        "GWT"
+    ],
+    "experience": [
+        {
+            "title": "Senior Software Developer",
+            "company": "Raiffeisen Bank Russia",
+            "start_date": "Jan 2022",
+            "end_date": "June 2022",
+            "description": "system design of a new KYC platform; collecting business requirements"
+        },
+        {
+            "title": "Software Engineer / Senior Software Engineer",
+            "company": "Deutsche Bank",
+            "start_date": "Aug 2018",
+            "end_date": "Dec 2021",
+            "description": "Kafka, Cassandra; Git, Docker, TeamCity, GitLab; Agile, Scrum, SAFe methodologies; international teams in risk management; development of new features"
+        },
+        {
+            "title": "Software Developer / Senior Software Developer",
+            "company": "QIWI",
+            "start_date": "Dec 2015",
+            "end_date": "Aug 2018",
+            "description": "new features for payment processing engine; refactoring of legacy systems; mentor for interns"
+        },
+        {
+            "title": "Junior Java Developer / Java Developer",
+            "company": "I-Teco",
+            "start_date": "May 2013",
+            "end_date": "Jan 2015",
+            "description": "outsource projects; Java, GWT, HTML, CSS"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's degree, Computer Science",
+            "school": "National Research University Moscow Power Engineering Institute",
+            "year": "2010"
+        },
+        {
+            "degree": "Master's degree, Engineering and Technology in Computer Science",
+            "school": "National Research University Moscow Power Engineering Institute",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Russian",
+        "English"
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "ROUTE MANAGER Summary To obtaining a position in a company that will allow me to better use my skills and knowledge to advance the performance and profitability of that company. Goal oriented, self-motivated with twenty years of experience as a Supervisor/Manager of personnel, products, and budgets. Driven to tackle projects that advance the organization and build collaboration/teamwork among peers and subordinates. Leader of the consistently, number one ranked office for the MasTec Money sales program. Major strengthens include demonstrated track record of honesty, integrity, and loyalty; sound leadership; excellent communication skills; strong team player; advocate of self-efficacy; attention to detail; highly organized; proficient planner. Sound judgment Calm under pressure Relationship building Systems implementation Troubleshooting and problem solving Dedicated Client relationships Contract management Highlights Operations management Inventory control Supervision and training Procedure development Analytical Team building Multi-site operations Staff retention Accomplishments Leadership Served as a Regional Trainer when C ontinuous I mprovement M anagement S ystem was introduced to the company. Business Development: Â Successfully grew business by [action]. Project Management: Â Initiated [project] which resulted in [positive outcome].",
+    "skills": [
+        "Budget",
+        "Business Intelligence",
+        "Coach",
+        "Cost control",
+        "Customer satisfaction",
+        "Customer service",
+        "Firing",
+        "Hiring",
+        "Inventory",
+        "Inventory management and control",
+        "Leadership",
+        "Materials",
+        "Mentor",
+        "Negotiating",
+        "Payroll",
+        "Personnel",
+        "Policies",
+        "Quality",
+        "Quality control",
+        "RDO",
+        "Reporting",
+        "Routing",
+        "Safety",
+        "Software design",
+        "Teamwork",
+        "Technician",
+        "Upgrades"
+    ],
+    "experience": [
+        {
+            "title": "Route Manager",
+            "company": "Company Name",
+            "start_date": "January 2002",
+            "end_date": "Present",
+            "description": "Built a steady repeat customer base by providing a quality product and exceptional customer service. Maintained inventory levels along with current product knowledge daily. Completed daily reconciliations, recorded and made deposits of up to $1500."
+        },
+        {
+            "title": "Site Manager",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "Present",
+            "description": "Analyze reporting data to identify areas of opportunity and provide solutions to maximize performance potential and profitability. Manage daily operations of assigned DMA's to include personnel, overtime, inventory control, work load, usage of resources, cost control, and building and fleet maintenance. Communicate daily with Business Intelligence and RDO to maintain compliance with performance matrix to include technician schedules, skill packages, and a balanced work load. Coach, mentor, and direct team members of varying levels of experience in support of departmental objectives. Evaluate team members, making recommendations for improvement and implementing training as needed. Ensure adherence to company safety guidelines through education, training, and monitoring of daily in-field performance."
+        },
+        {
+            "title": "Technician Supervisor",
+            "company": "Company Name",
+            "start_date": "January 2005",
+            "end_date": "January 2007",
+            "description": "Monitor and manage technician productivity to ensure compliance with MasTec and DirectTV policies and procedures. Collaborate with Fleet Manager to ensure compliance with MasTec policies and procedures to include motor vehicle, personal injury, and damage claim investigations and associated paperwork. Communicate daily with multiple leadership teams to ensure proper allocations of time, materials, and resources to accommodate business needs. Facilitate technician training and development and provide evaluations based on quality inspections and in-field observations to advocate improvement and success."
+        },
+        {
+            "title": "Lead Technician",
+            "company": "Company Name",
+            "start_date": "January 2002",
+            "end_date": "January 2005",
+            "description": "Responsible for customer satisfaction, training of employees, inventory control, routing of daily work, and overall teamwork among employees. Provide satellite installations and service work for DirecTV customers. Conduct quality control inspections on installations and service work done by all technicians."
+        },
+        {
+            "title": "Production Manager",
+            "company": "Company Name",
+            "start_date": "January 2000",
+            "end_date": "January 2002",
+            "description": "Maintained a $1.5 million dollar budget and managed plant operations of 35 employees in seven departments through hiring, firing, payroll, training and developing job skills. Controlled the processing of 80,000 pounds of merchandise through the plant weekly and managed inventory of garments, equipment, supplies and parts. Coordinated contracting issues with vendors daily."
+        },
+        {
+            "title": "Assistant Operations Engineer",
+            "company": "Company Name",
+            "start_date": "January 1998",
+            "end_date": "January 2000",
+            "description": "Specialized in company wide inventory management and control through the design of computerized stockrooms and assisting in software design upgrades. Revised departmental infrastructure and individual job functions. Developed standards of measuring and evaluating job performance and efficiency. Supervised training and development of employees to maintain stockrooms. Managed monthly projects averaging $150,000 to include building stockrooms, hiring and monitoring contractors and negotiating with vendors."
+        },
+        {
+            "title": "Assistant Plant Manager",
+            "company": "Company Name",
+            "start_date": "January 1994",
+            "end_date": "January 1998",
+            "description": "Managed $5 million plant operations and supervised 40 employees. Controlled the processing of 100,000 pounds of merchandise through the plant weekly and managed inventory of garments, equipment, supplies and parts. Served as Safety Committee Chairman, insuring OSHA compliance. Supervised maintenance employees and maintained wastewater operations within guidelines of state and local regulations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science in Industrial Management",
+            "school": "Del Mar College",
+            "year": "1998"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

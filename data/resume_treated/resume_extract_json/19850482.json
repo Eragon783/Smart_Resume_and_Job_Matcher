@@ -1,0 +1,68 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Various locations in the United States (e.g., NYC, Stamford, CT; Houston, TX; New Orleans, LA)",
+    "summary": "Senior IT executive with leadership across financial services infrastructure, specializing in front- and back-office systems, disaster recovery, data center operations, vendor management, and global IT strategy. Proven ability to drive cost savings, manage complex migrations, and lead cross-functional teams in high-pressure environments.",
+    "skills": [
+        "Technology Optimization",
+        "Budgeting & Operational Cost",
+        "Team-Building, Training, & Leadership",
+        "Goal-Setting & Business Planning",
+        "Policy & Procedure Creation",
+        "Conflict Resolution & Management",
+        "Productivity, Efficiency, & Performance Improvements",
+        "IT Security",
+        "Project Management",
+        "Vendor Relations",
+        "Data Center Operations",
+        "Operating Systems: Windows 7, XP, Server 2013, 2008, 2003",
+        "Microsoft Active Directory",
+        "SharePoint",
+        "Exchange Server",
+        "VMware",
+        "Trend Micro",
+        "Cisco Infrastructure (Routers and Switches)",
+        "Palo Alto",
+        "EMC storage solutions",
+        "Data Center Management",
+        "Market Data & Trading Systems: Bloomberg Server API, FactSet, Fidessa, Tethys, Lava, LEK, ICE, Tradeware, Reuters Eikon, Thomson One, Reuters Station, Instinet, NASDAQ Trader, Advent",
+        "VPN",
+        "VoIP",
+        "Video conferencing",
+        "Disaster Recovery",
+        "UPS design and power continuity"
+    ],
+    "experience": [
+        {
+            "title": "Senior VP - Information Technology",
+            "company": "Company Name City , State",
+            "start_date": "08/2014",
+            "end_date": "09/2015",
+            "description": "Experienced technology leader overseeing front and back-office systems for a Financial Services firm. Responsible for relocation and hardware refresh of the NYC office, migration of the legacy VPN network to a Toronto-based MPLS, establishment of a NJ data center for high availability, implementation of a VM environment reducing hardware, energy, and licensing costs by $1.5M, migration of the legacy PBX to VoIP and video conferencing, setup of three new branch offices (Houston, TX; Stamford, CT; New Orleans, LA), and the disaster recovery plan making Stamford the DR site. Managed Bloomberg terminal contracts and FIX connections for SSEOMS and TOMS, and served on the GMP steering committee for IT project prioritization. Also held the role of SVP, Head of Technology Infrastructure U.S. within this period."
+        },
+        {
+            "title": "Chief Information Officer",
+            "company": "Company Name City , State",
+            "start_date": "01/2006",
+            "end_date": "08/2014",
+            "description": "Managed technology for an institutional trading firm, specializing in Fixed Income and Equities. Responsible for strategy, support, and technology initiatives to maximize system availability and responsive customer support. Established change control processes, oversaw disaster recovery and business continuity, negotiated IT contracts, migrated and upgraded trading systems (OMS and FIX connections), replaced core infrastructure with cost-conscious upgrades (Cisco ASA and IronPort), and ensured 3 hours of uptime with improved UPS. Coordinated with traders, sales, analysts, and senior management across 8 U.S. branch offices."
+        },
+        {
+            "title": "IT Support Manager",
+            "company": "Company Name City , State",
+            "start_date": "02/2001",
+            "end_date": "06/2006",
+            "description": "Oversaw vendor collaborations to implement/upgrade market data software and hardware. Coordinated PC hardware and OS upgrades across branch offices, managed Exchange upgrades and backups, standardized equipment procurement, managed market data entitlements and FIX connections, and participated in FINRA and internal audits."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Computer Science",
+            "school": "Montclair State University",
+            "year": 1999
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

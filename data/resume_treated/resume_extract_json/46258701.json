@@ -1,0 +1,78 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Highly efficient HR Coordinator with extensive experience in fast-paced administrative environments. Experienced in onboarding, background checks, drug screening, employee relations, performance reviews, and recruitment using Kenexa BrassRing. Proficient with ATS, EEO reporting, HRIS, and Microsoft Office Suite; strong organizational and communication skills.",
+    "skills": [
+        "HR coordination",
+        "Interpersonal skills",
+        "Microsoft Office Suite",
+        "HR audits",
+        "Confidentiality",
+        "Personnel records maintenance",
+        "New hire orientation",
+        "Applicant Tracking System (ATS)",
+        "EEO Reporting",
+        "HRMS",
+        "SharePoint",
+        "SAP",
+        "Excel",
+        "GroupWise",
+        "Outlook",
+        "Phone system",
+        "Receptionist",
+        "Recruiting",
+        "Kenexa BrassRing",
+        "Ultipro",
+        "Sarbanes-Oxley (SOX)",
+        "Scheduling",
+        "Access",
+        "Best Practices",
+        "Performance reviews",
+        "Filing",
+        "Database management",
+        "Lead generation"
+    ],
+    "experience": [
+        {
+            "title": "HR Coordinator",
+            "company": "Company Name",
+            "start_date": "2012-09",
+            "end_date": "Present",
+            "description": "Responsible for initiating, tracking and follow-up of background checks and drug tests; on-boarding for new employees (I-9 and tour); conducts exit interviews; posts requisitions to careers page and outside job boards; recruits for warehouse, driver and entry level to mid level positions using Kenexa BrassRing; maintains applicant flow logs and AA-EEO spreadsheets; attends college career fairs; initiates and leads Best Practices initiatives; administrator for employee performance review program; reviews managers' submissions of employee performance evaluations; maintains associate personnel files; vouches department bills for payment; other administrative duties as assigned."
+        },
+        {
+            "title": "HR Coordinator",
+            "company": "Edward Don & Company (temp to hire)",
+            "start_date": "2012-06",
+            "end_date": "2012-09",
+            "description": "Scheduled background checks and drug screens for candidates; compiled and processed expense reports for candidates; communicated with the Hiring Manager about the new hire's first day; administered the new hire associate experience by scheduling their first day's HR session, including reviewing company policies, completing I-9 through E-verify, dispensing WOTC survey, explaining direct deposit, encouraging self-identification (EEO) and demonstrating the company portal; designed and prepared printed HR materials for new hires; point person for SOX compliance for the HR Department; SAP Administration: ran requested reports, created requested reports and entered employee information; planned and managed internal corporate events; events included Take Your Child to Work Day, Wellness Fairs, fund raisers, blood drives, lunch and learns and employee service recognition breakfasts; edited and updated the HR Department's page on the portal using SharePoint software; trained in CPR and first aid; responded to injured associates and dispensed employee injury statements."
+        },
+        {
+            "title": "HR Coordinator",
+            "company": "Company Name",
+            "start_date": "2008-08",
+            "end_date": "2011-09",
+            "description": "Designed and prepared HR materials for new hires; scheduled and administered onboarding; served as point for SOX compliance; performed SAP administration: ran and created reports and entered employee information; planned internal corporate events and maintained HR portal pages; supported employee performance reviews and filing."
+        },
+        {
+            "title": "Receptionist",
+            "company": "Company Name",
+            "start_date": "2003-02",
+            "end_date": "2008-03",
+            "description": "Internship program Recruiter lead for college students; collaborated with company President to determine intern eligibility criteria; posted employment positions to company website; sourced and screened qualified candidates; tracked candidates in Excel; ensured state and federal poster compliance; acted as go-to person for general company knowledge; managed a six-line phone system; updated company phone and employee directory on the portal."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA Human Resources",
+            "school": "DePaul University",
+            "year": 2008
+        }
+    ],
+    "certifications": [
+        "CPR and First Aid"
+    ],
+    "languages": []
+}

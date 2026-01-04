@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Articulate Executive Assistant driven to succeed and bring value to any task. Strategic planning and client relationship management expert. Creative professional with extensive project experience from concept to development. Talents include customer service, excellent listening skills and communication skills.",
+    "skills": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Lotus Notes/Outlook",
+        "Concur",
+        "Arriba",
+        "Project management",
+        "Client relationship management",
+        "Customer service",
+        "Communication",
+        "Leadership",
+        "Team leadership",
+        "Conflict resolution",
+        "Budget management",
+        "Invoicing"
+    ],
+    "experience": [
+        {
+            "title": "Media Administrator",
+            "company": "Company Name",
+            "start_date": "September 2014",
+            "end_date": "Current",
+            "description": "Review client accounts; manage budgets and monthly invoices. Request and process credits; communicate successfully with negotiators. Monitor multiple databases to track discrepancies; ensure timely clearance and adherence to client guidelines. Led key projects resulting in completion before deadlines."
+        },
+        {
+            "title": "Customer Liaison Level I",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "September 2014",
+            "description": "Answer inbound calls from patients and providers demonstrating Montefiore Excellence; schedule medical and diagnostic testing appointments, register new patients. Contribute to team effort by accomplishing related goals; excelled in quality scores. Controlled the release of proprietary and confidential information for general patient lists. Manage multiple projects, competent in conflict resolution. Adhere to strict HIPAA compliance."
+        },
+        {
+            "title": "Executive Assistant",
+            "company": "Company Name",
+            "start_date": "August 2012",
+            "end_date": "November 2012",
+            "description": "Provided assistance for Director of Medical House Calls Program preparing for Joint Commission Review; compilation of data and research. Successfully led special projects; reviewed patient satisfaction surveys, files and assisted administrative staff to meet deadlines."
+        },
+        {
+            "title": "Executive Assistant",
+            "company": "Company Name",
+            "start_date": "April 2012",
+            "end_date": "June 2012",
+            "description": "Provided organizational support for Provost and administrative staff. Assigned to create spreadsheets for special projects, organized budget allocations for reconciling, reviewed student appeals and status. Prepared correspondence, accounting and financial documents for analysis. Responded to student requests and directed to appropriate persons, departments and resources."
+        },
+        {
+            "title": "Licensed Health Insurance Agent",
+            "company": "Company Name",
+            "start_date": "October 2010",
+            "end_date": "November 2011",
+            "description": "Received inbound calls for Humana Health Insurance Medicare Part C & D members. Identified billing and claims issues related to drug copay, deductibles, premiums and drug coverage; performed Rx calculations. Advised members of their out of pocket costs in coverage gaps. Adhered to HIPAA regulations, performed plan changes and enrollments for Medicare Advantage members during Annual Enrollment Period. Retrieved and updated customer information within various company databases; responded to member inquiries; resolved and/or reprocessed."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "May 2006",
+            "end_date": "January 2010",
+            "description": "Provided exceptional administrative support to C level executives including managing director, director and vice president in investment banking consumer foods department. Managed calendars and screened telephone calls for managing director, director and vice president, scheduled conference calls for interdepartmental meetings; acted as department gatekeeper. Prepared domestic and international travel itineraries including ground transportation. Prepared accommodations international guest clients confirming passport and visa requirements; liaised well with airlines and client offices to verify all relevant details. Created and processed expense reports for corporate charges in timely manner; confirmed accuracy and resolved personal charges. Set up high level breakfast and lunches and catering for guest clients, negotiated off site locations and confirmed budget with business director, planned specialty menus and coordinated activities for visitors. Reconciled purchasing orders for office supplies and expedited payments. Classified information and filed all sensitive documents in compliance with security procedures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts, Paralegal Studies",
+            "school": "Briarcliffe College",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Job Essentials Training (JET)"
+    ],
+    "languages": []
+}

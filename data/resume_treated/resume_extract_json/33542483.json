@@ -1,0 +1,76 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Devoted writer and editor with experience in print and digital magazines, corporate communications and project management. Skilled storyteller, leader and editor who strives to give people a voice. Experienced in international magazine work over the last three years.",
+    "skills": [
+        "AP Style",
+        "Sitecore web management",
+        "Google Analytics",
+        "MOZ Pro",
+        "Facebook",
+        "Twitter",
+        "LinkedIn",
+        "YouTube",
+        "Instagram",
+        "Skype for Business"
+    ],
+    "experience": [
+        {
+            "title": "Digital Content Editor",
+            "company": "Company Name",
+            "start_date": "2017-01",
+            "end_date": "Current",
+            "description": "Manage Toastmaster magazine online edition and oversaw launch of web-based version in October 2016. Generate supplemental and interactive content through photos, videos and links. Drive readership to the online magazine with web traffic up 94% since launch. Collaborate with Marketing to promote content through social media. Assign articles and manage freelance writers. Write features, Q&As and member profiles. Edit and proof print and online articles and internal company documents. Curate content from member submissions for print and online. Track SEO using Google Analytics. Collaborate with IT on future release improvements."
+        },
+        {
+            "title": "Proofreader/Editorial Coordinator",
+            "company": "Company Name",
+            "start_date": "2014-12",
+            "end_date": "2017-01",
+            "description": "Coordinated production schedule for the magazine for the first two years. Managed incoming content and submissions from members. Wrote feature articles, Q&As and member profiles. Proofed, fact checked and edited stories. Managed a team of freelance writers and editors. Coordinated payment of authors. Scheduled and led department meetings. Managed the company's internal editorial review process. Created digital magazine content for the digital app. Answered magazine related questions from members around the world."
+        },
+        {
+            "title": "Event Manager/Freelance Journalist",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "2015-12",
+            "description": "As Event Manager, assisted the Director of Sales with facilities events and marketing and communications, continuing remotely as a freelance journalist. Completed website updates through Wordpress. Designed monthly ads for local chamber newsletter. Wrote a monthly blog for the website. Produced information packet for clients. Handled marketing campaigns for the annual bridal show. Designed, wrote copy and sent email campaigns through PerfectWeddingGuide.com. Planned, marketed and attended monthly open houses for prospective sales."
+        },
+        {
+            "title": "Communications Specialist",
+            "company": "Company Name",
+            "start_date": "2012-07",
+            "end_date": "2014-01",
+            "description": "Wrote and edited national press releases, designed flyers and brochures. Designed content for sponsorship materials with professional sports teams. Managed internal employee communications through the company newsletter that I started. Promoted to project manager to track progress of projects. Handled day-to-day communications inquiries. Filtered all incoming marketing requests from employees. Created materials and content for HR department and other internal committees. Distributed internal and external emails through Outlook and ExactTarget. Planned and successfully executed company meetings, picnic, holiday party, incentive trips, and national sales meetings."
+        },
+        {
+            "title": "Communication Assistant",
+            "company": "Company Name",
+            "start_date": "2010-07",
+            "end_date": "2012-07",
+            "description": "Writer and photographer, working on both internal and external publications; two print and one digital. The audience reached from employees to other cooperatives and businesses locally and nationwide. Wrote hard news, feature, breaking news, press releases, covering special events and two to three-part series on industry topics. Represented the company by traveling to its 18 member cooperatives across southern Indiana."
+        },
+        {
+            "title": "Newspaper Reporter",
+            "company": "The Shelbyville News",
+            "start_date": "2009-06",
+            "end_date": "2009-08",
+            "description": "Selected by the Hoosier State Press Association in 2009 for the Eugene S. Pulliam award. Worked for 10 weeks as a feature writer, photographer, copy editor and news reporter."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Journalism",
+            "school": "Indiana University",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        "Eugene S. Pulliam Internship Award"
+    ],
+    "languages": [
+        "English"
+    ]
+}

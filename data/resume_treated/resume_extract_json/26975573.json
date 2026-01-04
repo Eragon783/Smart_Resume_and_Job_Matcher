@@ -1,0 +1,62 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "White Marsh, Maryland",
+    "summary": "EXPERIENCED ACCOUNTANT with more than 15 years of accounting and financial analysis experience. Expertise in budgeting and economic analysis, financial reporting, and resource analysis/optimization. Solid record of performance managing analytical studies, key initiatives, and high- profile performance improvement projects. Technical expert and analyst on complex program issues. Solid critical thinking, problem-solving, research and liaison skills. Recognized for outstanding communication skills, flexibility, keen political savvy, sense of humor, and leadership abilities.",
+    "skills": [
+        "Lawson",
+        "Invision",
+        "QuickBooks",
+        "MS Word",
+        "Excel",
+        "PowerPoint",
+        "Lotus Notes",
+        "Meditech",
+        "accounting",
+        "financial analysis",
+        "budgeting",
+        "financial reporting",
+        "internal controls",
+        "process improvement",
+        "data analysis",
+        "statistical analysis",
+        "reconciliations",
+        "general ledger",
+        "fixed assets",
+        "payroll",
+        "accounts payable",
+        "procurement",
+        "cost allocation"
+    ],
+    "experience": [
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name, City",
+            "start_date": "2001-01",
+            "end_date": "2011-02",
+            "description": "Analyzed financial reports and programs to resolve problems; prepared internal financial reports; monitored and researched revenue and budget variances; resolved complex issues involving multiple aspects of financial management; reviewed policies to plan and develop financial controls; performed reconciliations of accounts and transactions; updated monthly schedules for fixed assets; reconciled payroll tax withholdings; prepared monthly journal entries for fixed asset activity; advised senior management on financial-related issues; identified challenges and determined corrective actions; developed and maintained collaborative relationships; partnered with team members to establish streamlined financial and business strategies."
+        },
+        {
+            "title": "Accounts Payable Representative",
+            "company": "Company Name, City",
+            "start_date": "2000-01",
+            "end_date": "2001-01",
+            "description": "Managed financial functions and coordinated daily accounting functions for a high-profile regional medical facility; formulated and implemented processes for reviewing recurring payments and processing invoices, vouchers, reimbursements and check requests; performed administrative support for payment documentation; led extensive business studies to identify and resolve payment challenges; conducted analyses to evaluate program effectiveness and determine options for problem resolution; partnered with procurement to resolve pricing and quantity issues; provided customer service to internal and external customers; communicated effectively with diverse stakeholders."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration (Accounting)",
+            "school": "Strayer University",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Science",
+            "school": "Southern University at New Orleans",
+            "year": 1986
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,88 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Experienced, energetic Personal Trainer and former college/professional athlete with over 20 years conducting group and one-on-one training sessions in large gyms, as well as small fitness studios. Specializing in strength and conditioning, flexibility training, fitness program design with advanced training in metabolic testing, nutrition and weight management consulting. Formal training in the health and fitness field of business development and leadership training. Extensive sales and customer service experience.",
+    "skills": [
+        "Fitness assessments",
+        "Customer-oriented",
+        "Understanding of body fat tables and BMI",
+        "Fitness equipment operation",
+        "Senior fitness programming",
+        "Weight management",
+        "CPR and First Aid certified",
+        "Excellent sales skills",
+        "Fitness equipment expertise",
+        "Fitness programming",
+        "Operations management",
+        "Staff development",
+        "Inventory control",
+        "Policy and program development",
+        "Staff training",
+        "Supervision and training",
+        "Negotiation",
+        "Sound judgment",
+        "Project management",
+        "Performance tracking",
+        "Team building",
+        "Team leadership",
+        "Team player",
+        "Training and development",
+        "Administrative skills",
+        "Multi-tasking",
+        "Computer proficiency",
+        "Organizational skills",
+        "Communication skills",
+        "Business development",
+        "Problem resolution",
+        "Sales",
+        "Customer relations"
+    ],
+    "experience": [
+        {
+            "title": "Advocare Distributor",
+            "company": "Company Name",
+            "start_date": "June 2012",
+            "end_date": "Present",
+            "description": "Generated new accounts by implementing effective networking and content marketing strategies. Contacted new and existing customers to discuss how specific products could meet their needs. Answered customer questions regarding products, prices and availability. Generated new sales opportunities through direct and telephone selling and emails."
+        },
+        {
+            "title": "Asst. Personal Trainer Manager",
+            "company": "Company Name",
+            "start_date": "July 2009",
+            "end_date": "May 2012",
+            "description": "Contributed to a 75% increase in sales for the personal training department. Contributed to the operation of a clean, friendly and well maintained health club. Recorded training sessions and maintained package rates for each client. Encouraged clients to engage in group fitness classes and other activities in the gym to meet fitness goals. Carefully evaluated member needs and assisted them in achieving personal fitness goals. Arrived on time, prepared and attentive for every training appointment. Met minimum monthly revenue, service and customer satisfaction goals. Re-racked weights to maintain a neat, organized and clean club. Mediated club employee relations matters for all club fitness employees. Led clients and groups of all ages through personal workouts and skill development training. Administered fitness assessments, which included the seven point skin-fold body fat measurements, blood pressure and treadmill tests. Counseled clients on proper nutrition and exercise habits."
+        },
+        {
+            "title": "Asst. Manager/Personal Trainer",
+            "job_title": "Asst. Manager/Personal Trainer",
+            "company": "Company Name",
+            "start_date": "January 2006",
+            "end_date": "January 2009",
+            "description": "Managed team of 12 of professionals. Surpassed revenue goals in four consecutive quarters. Met minimum monthly revenue, service and customer satisfaction goals. Devised and announced new classes and distributed guest passes to market the club. Led weekly meetings to review performance and offer direction, motivation and guidance toward achieving individual and facility goals. Mediated club employee relations matters for all club fitness employees. Regularly trained staff on fitness industry updates and coached personal trainers on professional conduct. Contributed to the operation of a clean, friendly and well maintained health club."
+        },
+        {
+            "title": "General Manager Personal Training/Personal Trainer",
+            "company": "Company Name",
+            "start_date": "January 2004",
+            "end_date": "January 2006",
+            "description": "Earned the Personal Trainer of the Month Award 5 consecutive months for most revenue earned each month. Monitored 30,000.00 project budgets each month. Mentored, coached and trained 8 team members. Recruited, hired and trained 4 new employees for sales and personal training. Guided clients in safe exercise, taking into account individualized physical limitations. Participated in club promotions to recruit new members and increase club sales. Led weekly meetings to review performance and offer direction, motivation and guidance toward achieving individual and facility goals."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Criminal Justice",
+            "school": "South Carolina State University",
+            "year": 1999
+        }
+    ],
+    "certifications": [
+        "AFAA Certificate",
+        "AAAI Certificate",
+        "ISMA Certificate",
+        "Partner-Assisted Stretching Certificate",
+        "CPR & First Aid Certificate"
+    ],
+    "languages": []
+}

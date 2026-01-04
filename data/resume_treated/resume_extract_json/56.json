@@ -1,0 +1,69 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Israel, Tel-Aviv",
+    "summary": "Dependable game developer with more than 11 years of experience; strong expertise in Unity3D and C#, with experience porting from Flash to Unity, mobile game prototyping, and VR/AR domains. Proficient in OOP/SOLID/MVP and modern Unity tech stacks.",
+    "skills": [
+        "Unity3D",
+        "C#",
+        "WASM",
+        "UniRX",
+        "Zenject",
+        "Addressables",
+        "Shaders",
+        "URP",
+        "HDRP",
+        "WPF",
+        "MEF",
+        "VR",
+        "AR",
+        "Blender",
+        "Photoshop",
+        "Git",
+        "OOP/SOLID/MVP"
+    ],
+    "experience": [
+        {
+            "title": "Unity3D Developer",
+            "company": "VK (Remote)",
+            "start_date": "April 2020",
+            "end_date": "Present",
+            "description": "Remote Unity3D development. Ported a bunch of games from Macromedia Flash to Unity3D (WASM). Worked with UniRX and Zenject. Currently working on tactical RPG mobile game. Tech stack includes Unity3D, WASM, UniRX, Zenject, Addressables, Shaders/URP/HDRP."
+        },
+        {
+            "title": "Developer",
+            "company": "Advalange",
+            "start_date": "July 2019",
+            "end_date": "April 2020",
+            "description": "Developed automated workflow solutions that empower laboratories to achieve more."
+        },
+        {
+            "title": "Developer",
+            "company": "Artteam",
+            "start_date": "September 2017",
+            "end_date": "July 2019",
+            "description": "Made application for interior presentation which helps people choose the style of their accommodation using VR and XR tech in Unity. Runs on iOS, Android and HTC Vive platforms. Tech stack: Unity3D, Zenject, VR, AR, Blender, Photoshop."
+        },
+        {
+            "title": "Developer",
+            "company": "CrazyPanda",
+            "start_date": "April 2017",
+            "end_date": "October 2018",
+            "description": "Took part in the casual game development team. Tech stack: Unity3D, Zenject, UniRX, Behaviour Tree."
+        },
+        {
+            "title": "Developer / Team Lead",
+            "company": "Ironuts",
+            "start_date": "March 2015",
+            "end_date": "August 2017",
+            "description": "Worked on mobile games and led three RPG and one Casual game."
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "languages": [
+        "Russian (native)",
+        "English (B2)"
+    ]
+}

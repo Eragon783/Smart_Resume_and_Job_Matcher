@@ -1,0 +1,116 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Clinical professional with the proven ability to work with diverse clients and staff. Recognized for capacity to learn and willingness to take on new challenges and responsibilities. Interested in advancing myself personally and professionally in the Clinical Research field.",
+    "skills": [
+        "Microsoft Office",
+        "CTMS",
+        "eCRF",
+        "EDC",
+        "IWRS",
+        "IXRS",
+        "Epic EHR/EMR",
+        "IRB submissions",
+        "AE/SAE monitoring",
+        "Clinical trial coordination",
+        "Data collection",
+        "Patient recruitment",
+        "Device and drug accountability",
+        "Pharmacy protocol adherence",
+        "GCP",
+        "Regulatory compliance"
+    ],
+    "experience": [
+        {
+            "title": "Clinical Study Coordinator II",
+            "company": "Company Name",
+            "start_date": "October 2015",
+            "end_date": "Current",
+            "description": "Coordinate clinical trials for the Surgical Research department with a primary focus in Cardiovascular and Vascular device related studies. Communicate closely with surgical staff, pharmaceutical companies, surgical device manufacturers and contract research organizations. Author informed consent forms for clinical trials, in accordance with IRB and trial sponsor standards. Monitor studies to ensure continued compliance with federal and IRB regulations. Author IRB clinical trial submission, planned changes, continuation and end of study forms. Collect data from patient medical records, examinations and procedures, prepare and complete sponsor's clinical report forms. Monitor and document AE/SAE occurrences for submission to appropriate entities. Responsible for device and drug accountability for each study. Communicate closely with hospital pharmaceutical service and ensure adherence to all pharmacy and sponsor protocols. Introduced department to more efficient and improved patient payment process. Created department wide documents to improve trial efficiency including AE and SAE monitoring source documents, proof of patient payment forms, temperature monitoring logs for drug/device storage. Assisted and trained fellow staff with use of Epic EHR/EMR systems."
+        },
+        {
+            "title": "Clinical Research Coordinator I",
+            "company": "Company Name",
+            "start_date": "November 2014",
+            "end_date": "October 2015",
+            "description": "Coordinated pharmaceutical Phase II–IV clinical trials across multiple therapeutic areas, collaborating closely with physicians and staff, representatives from pharmaceutical companies, contract research organizations and academic institutions. Developed materials and tools necessary to appropriately carry out study procedures including source document development, study timelines and study related procedure strategies and execution plans. Interviewed and recruited patients for studies following protocols established jointly by study staff and project sponsors. Ensured all materials for each clinical trial protocol are available for subject enrollment and properly maintained. Maintained extensive patient contact, via telephone and written correspondence. Monitored patients to track follow-up visits, record AE and SAE's and patient outcomes. Performed specimen collection, processing and shipment of biological specimens. Experience in multiple therapeutic areas including: Asthma, COPD, Women's Health, Hyperlipidemia, Gastrointestinal, Gout, Diabetes, Immunology and Vaccine trial studies."
+        },
+        {
+            "title": "Exercise Specialist",
+            "company": "Company Name",
+            "start_date": "July 2013",
+            "end_date": "October 2014",
+            "description": "Supervised exercise sessions for phase II and III cardiac rehabilitation patients, including monitoring of cardiac telemetry unit, response to exercise, patient safety. Conducted patient orientations, prescribed cardiovascular and strength training exercise tailored to individual needs of patient. Provided and developed educational services and materials. Oversaw student internship program, develop educational materials, assess student learning. Performed clerical duties including billing, insurance verification and patient registration."
+        },
+        {
+            "title": "Cardiovascular Medical Technician",
+            "company": "Company Name",
+            "start_date": "July 2013",
+            "end_date": "March 2014",
+            "description": "Conducted noninvasive cardiovascular testing procedures including; exercise and pharmacologic stress echos, exercise and pharmacologic nuclear stress tests and tilt table testing. Prepared patients for 24-hour Holter and 30-day event monitor services, conducted inpatient and outpatient ECGs."
+        },
+        {
+            "title": "Exercise Specialist",
+            "company": "Company Name",
+            "start_date": "May 2013",
+            "end_date": "October 2013",
+            "description": "Consulted patients on exercise and health promoting behavior. Designed customized training programs that addressed health problems, risk factor modification, specific injuries/physical limitations, and fitness goals. Performed and analyzed DEXA body composition scans."
+        },
+        {
+            "title": "Fitness Specialist",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "May 2013",
+            "description": "Taught group exercise classes to senior independent, assisted, and Alzheimer/dementia residents to promote functional, aerobic, strength and flexibility benefits. Provided individualized exercise instruction as requested by residents based on goals and needs. Monitored wellness center and promoted and participated in resident activity department events."
+        },
+        {
+            "title": "Fitness Specialist",
+            "company": "Company Name",
+            "start_date": "December 2012",
+            "end_date": "August 2013",
+            "description": "Measured clients' fitness by completing comprehensive fitness evaluations and acquiring physician clearances based on risk stratification when needed. Designed customized client programs to meet individual fitness needs. Served as a point of reference for fitness expertise within the facility."
+        },
+        {
+            "title": "Clinical Exercise Physiologist Intern",
+            "company": "Company Name",
+            "start_date": "July 2012",
+            "end_date": "January 2013",
+            "description": "Clinical Exercise Physiologist Intern. Assisted with clinical exercise physiology duties, program development and patient education within the clinical environment."
+        },
+        {
+            "title": "Clinical Exercise Physiologist Intern",
+            "company": "Company Name",
+            "start_date": "September 2010",
+            "end_date": "November 2010",
+            "description": "Clinical Exercise Physiologist Intern. Assisted in clinical responsibilities and learning activities within exercise physiology settings."
+        },
+        {
+            "title": "Group Exercise Class Coordinator/Instructor",
+            "company": "Company Name",
+            "start_date": "April 2010",
+            "end_date": "June 2011",
+            "description": "In charge of overall efficiency of class procedures including instructor replacement and training, class scheduling and cancellation, emergency procedures, and documentation and organization of paperwork and class supplies. Led exercise to groups of 40 or more participants aged 50 years and older; Educated participants on proper exercise form and health benefits; Endorsed local community health promotion programs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Clinical Exercise Physiology",
+            "school": "Ohio University",
+            "year": "2012"
+        },
+        {
+            "degree": "Bachelor of Science in Kinesiology (Health Promotion and Bioethics and Humanities)",
+            "school": "Michigan State University",
+            "year": "2011"
+        }
+    ],
+    "certifications": [
+        "BLS for the Healthcare Provider",
+        "Phlebotomy Skills for the Healthcare Professional Course",
+        "CITI GCP Certified",
+        "IATA Certified"
+    ],
+    "languages": []
+}

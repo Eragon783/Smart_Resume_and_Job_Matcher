@@ -1,0 +1,84 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Over 1 year of end-to-end procurement operations experience and over 5 years in accounts payable and reconciliation. A strong team player with analytical, organized and versatile thinking, capable of developing and implementing creative ideas. Proficient in Oracle, SAP ECC 6.0, Helios and Sun System v5, MS Word, Excel and PowerPoint.",
+    "skills": [
+        "Accounts payable",
+        "Accruals",
+        "AP",
+        "Automation",
+        "Trial Balance",
+        "Invoicing",
+        "Invoice processing",
+        "Processing of invoices",
+        "Reconciliation",
+        "Vendor management",
+        "Procurement",
+        "Purchase requisitions",
+        "Purchasing",
+        "Receiving",
+        "Reporting",
+        "Oracle",
+        "SAP",
+        "Helios",
+        "Sun system",
+        "MS Word",
+        "Excel",
+        "PowerPoint",
+        "Problem Solving",
+        "Process improvement",
+        "Documentation",
+        "Email",
+        "Meetings",
+        "Quality",
+        "Shared Service",
+        "SLA",
+        "Team Player"
+    ],
+    "experience": [
+        {
+            "title": "Buyer",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "January 2015",
+            "description": "Global procurement operations across categories. Responsible for implementation, execution, tracking and documenting processes. Focused on meetings & events, facilities (low dollar), and office supplies. Managed low-dollar catalog purchasing and non-catalogue products; reviewed requisitions; adhered to approval procedures and audit requirements; managed req-to-PO creation globally; supported global buyers; supplier onboarding and vendor maintenance; P-Card payments; ensured timely payments and documentation; generated quarterly dashboards and monthly PO spend reports; managed global procurement inbox and AP queries."
+        },
+        {
+            "title": "Senior Executive",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "January 2014",
+            "description": "Led and guided a team in Accounts Payable (PO & Non-PO vendors); invoice processing, reconciliation and payments; assigned daily activities; analyzed dashboards and team performance; mentored associates; implemented action plans and process improvements; handled Amex card and vendor payment processes."
+        },
+        {
+            "title": "Senior Executive",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "January 2013",
+            "description": "End-to-end AP processing; accurate reconciliation of supplier statements; subject matter expert; managed escalation mailboxes; weekly client calls to provide updates on aged invoices; trained new joiners; processed multi-currency invoices with correct VAT; managed month-end accruals and asset capitalization; vendor management and address/bank details updates; communicated legal entity name for VAT; prepared journal entries and urgent invoices; ensured client updates to avoid escalations; led process improvements and cross-entity projects."
+        },
+        {
+            "title": "Executive",
+            "company": "Company Name",
+            "start_date": "January 2008",
+            "end_date": "January 2010",
+            "description": "Collaborated with Purchasing, Central Receiving, Vendors and Leads to resolve invoicing discrepancies; reconciled Goods Receipt and Invoice Receipt; processed invoices and payments; liaised with clients, Ingram warehouse and carriers; proposed process improvements; contributed to SLA achievement; received awards for performance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration: Finance & Human Resource",
+            "school": "CMR Institute of Management Studies, Bangalore University",
+            "year": "2008"
+        },
+        {
+            "degree": "Bachelor of Commerce: Marketing",
+            "school": "Narmada College of Science and Commerce, Veer Narmada South Gujarat University",
+            "year": "2006"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

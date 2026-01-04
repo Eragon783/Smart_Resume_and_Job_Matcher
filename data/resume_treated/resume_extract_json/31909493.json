@@ -1,0 +1,102 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Senior digital account leader with extensive experience managing global digital projects and cross-functional teams for major brands; expertise in strategy, analytics, CMS, CRM, UX, and online marketing.",
+    "skills": [
+        "Ads",
+        "Agency",
+        "Banners",
+        "Billing",
+        "Budgets",
+        "CMS",
+        "Competitive analysis",
+        "Content Management",
+        "Conversion",
+        "CRM",
+        "Database Management",
+        "Database Marketing",
+        "Decision making",
+        "Direct Mail",
+        "Email",
+        "Google Analytics",
+        "UX",
+        "Inventory",
+        "Marketing",
+        "Marketing communication",
+        "Network",
+        "Optimization",
+        "Performance reviews",
+        "Project leadership",
+        "Proposal",
+        "Quality",
+        "Recruiting",
+        "Relationship building",
+        "Reporting",
+        "Requirements",
+        "Research",
+        "Social media platforms",
+        "Strategy",
+        "Strategic",
+        "Strategy and development",
+        "Website Development",
+        "Web development",
+        "Websites",
+        "Webmaster",
+        "Year-end"
+    ],
+    "experience": [
+        {
+            "title": "Digital Client Lead",
+            "company": "Company Name City, State",
+            "start_date": "05/2014",
+            "end_date": "Present",
+            "description": "Lead a technology-centric account for ExxonMobil; spearhead strategy and project leadership in ExxonMobil's Next Gen Global Web development efforts; manage cross-functional team (UX, Search, Analytics, Technology, Creative, PM); deliver agency POVs; post-launch site operations and optimizations; manage User Database Marketing and email strategy; budget tracking; projects include ExxonMobil Next Generation Web Developments, User Database Marketing, Search, Analytics, Site Content Management."
+        },
+        {
+            "title": "Digital Account Director",
+            "company": "Company Name City, State",
+            "start_date": "04/2014",
+            "end_date": "05/2014",
+            "description": "Managed digital strategy, creative and production process in partnership with a traditional account team; contributed to a 2015 digital plan (~$3M) across web, social, CRM, digital media, PR; consulted Restasis analytics and reporting; proposed web optimization plans to improve user conversions; assisted in recruiting subject matter experts; facilitated RFPs and new business pitches; Projects: Website Development and Optimization; rEVO iPad App; Omniture Reporting; Google Analytics; SEO; Paid Search; Banners; Emails."
+        },
+        {
+            "title": "Digital Account Supervisor",
+            "company": "Company Name City, State",
+            "start_date": "06/2012",
+            "end_date": "04/2014",
+            "description": "Led and managed the Land Rover online businesses and integrated digital campaigns; hybrid role blending account management and digital production; coordinated with developers and tech teams; built client relationships; established US as an international pilot with UK team; managed end-to-end digital projects; developed annual scope; supervised Account Executives; ensured quality; Projects: Range Rover Sport – Race The Sun; Immersive Film Mobile Apps; Land Rover Owner's App; In-Control Car Integration; Digital banners; CMS SDL Tridion."
+        },
+        {
+            "title": "Integrated Account Supervisor",
+            "company": "Company Name City, State",
+            "start_date": "02/2010",
+            "end_date": "01/2012",
+            "description": "Led multi-brand campaigns (Kohl's, Nasdaq, Verizon, Novartis Reclast); managed end-to-end digital efforts; integrated with traditional work streams; maintained client contact and partnership; budget management; produced campaign analyses quarterly; mentored junior staff; Projects: Social Media apps, engagement games and contests; Campaign integrations across TV, Radio, Print; Rich Media banners; Websites; CMS SDL Tridion."
+        },
+        {
+            "title": "Digital Account Executive",
+            "company": "Company Name City, State",
+            "start_date": "12/2007",
+            "end_date": "01/2010",
+            "description": "Developed campaign strategies using emerging technology and social media; managed all account functions and creative process; presented ideas in client discussions; fostered strong client and vendor relationships; prepared project scopes, briefs, timelines and budgets; Projects: Digital experiences (Mobile App, AR, Touchscreen eDetail); Social Media campaigns; Websites, Banners, Emails; CRM; US and global digital projects."
+        },
+        {
+            "title": "Integrated Account Executive",
+            "company": "Company Name City, State",
+            "start_date": "10/2006",
+            "end_date": "12/2007",
+            "description": "Led integrated account between digital and CRM; supported team and clients; developed market insights and competitive analyses; managed communications between teams, clients, partner agencies and vendors; produced budgets and forecasts; Projects: Websites, Banners, CRM, Emails, Direct Mail, SEO, Print Ads."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA in Marketing Advertising",
+            "school": "Pace University",
+            "year": "2006"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

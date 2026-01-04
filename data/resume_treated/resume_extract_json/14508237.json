@@ -1,0 +1,115 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Fort Worth, TX",
+    "summary": "Summary Seeking to secure a position with a well established company that prides in the growth of its employees. With the ability to showcase versatile knowledge in auxiliary mechanic I hope to build a lasting partnership with whom I gain employment.",
+    "skills": [
+        "analytical skills",
+        "Agency",
+        "Attention to detail",
+        "call center",
+        "Caregiver",
+        "Case Management",
+        "cash register",
+        "Interpersonal communication",
+        "Oral communication",
+        "CPR",
+        "credit",
+        "customer service",
+        "customer care",
+        "database management",
+        "equipment operation",
+        "fax",
+        "IVR",
+        "Listening",
+        "Machinist",
+        "MS Excel",
+        "Excel",
+        "Outlook",
+        "Word",
+        "Microsoft Word",
+        "Navy",
+        "Assist patients",
+        "Problem Resolution",
+        "Problem solving",
+        "quality",
+        "Quality assurance",
+        "Sales",
+        "Telecommunications",
+        "record vital signs",
+        "written",
+        "Home Care"
+    ],
+    "experience": [
+        {
+            "title": "Customer Service / Support",
+            "company": "Agency Sales Resources",
+            "start_date": "2017-01",
+            "end_date": "Present",
+            "description": "Provided support to State Farm agents and staff, and to other State Farm associates. Delivered a remarkable customer experience. Communicated with customers using approved scripts via phone or written correspondence. Provided accurate and timely customer service to external and internal customers. Centralized service to field leaders and agents. Answered inbound calls, determined purpose of caller and distributed to appropriate personnel. Proficient in Microsoft Word, Excel, Outlook."
+        },
+        {
+            "title": "Personal Care Assistant",
+            "company": "Company Name",
+            "start_date": "2017-01",
+            "end_date": "Present",
+            "description": "Assist patients with daily activities, feeding, and personal hygiene. Administration of medications, companionship."
+        },
+        {
+            "title": "Captioning Agent",
+            "company": "Company Name",
+            "start_date": "2016-06",
+            "end_date": "2016-12",
+            "description": "Caption telecommunications connections, IVR, Web Communications for the Deaf and Hearing Impaired. Customer Service Representative, Troubleshooting technical problems; create problem reports. Ability to multi-task to accomplish workload efficiently using analytical skills. Maintain accuracy and production standards."
+        },
+        {
+            "title": "Waitress / Cashier / Hostess",
+            "company": "Company Name",
+            "start_date": "2016-01",
+            "end_date": "2016-05",
+            "description": "Operate a cash register, greet customers in a timely, professional and engaging manner. Follow through on all customer questions and requests. Answer the telephone using the appropriate greeting. Observe customers and check identification for proof-of-age; deny sale of alcohol to underage or intoxicated customers. Maintain check-out area: fill register supplies, bags; wipe counter tops. Handle customer issues that may arise. Take food and drink orders. Meet and greet customers. Operate cash register and receive payment from customer in cash or credit card. Provide excellent customer care."
+        },
+        {
+            "title": "Nurse Assistant / Caregiver",
+            "company": "Medical Case Management",
+            "start_date": "2009",
+            "end_date": "2011",
+            "description": "Maintain and set up patient rooms. Perform preventive maintenance on emergency equipment. Assist with patient and family education. Assist R.N. and L.V.N with sterile and non-sterile dressing changes. Fort Worth, TX."
+        },
+        {
+            "title": "Navy Service",
+            "company": "United States Navy",
+            "start_date": "2011-11",
+            "end_date": "2014-09",
+            "description": "Rank E-3; served in United States Navy. Various assignments and duties; willingness to relocate."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Psychology",
+            "school": "Kaplan University",
+            "year": "2018"
+        },
+        {
+            "degree": "A.A.S in Business Administration",
+            "school": "Navarro College",
+            "year": "2017"
+        },
+        {
+            "degree": "Machinist / Mechanical Engineering",
+            "school": "Vincennes University",
+            "year": "2014"
+        },
+        {
+            "degree": "General Studies",
+            "school": "Cedar Valley Community College",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "Certificate Of Contamination",
+        "CPR"
+    ],
+    "languages": []
+}

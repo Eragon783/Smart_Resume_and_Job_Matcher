@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Rhode Island, USA",
+    "summary": "Accomplished associate director with a track record in direct marketing communications, advertising sales, public relations, and event management. Experienced in market research, sponsorship sales, media partnerships, and leadership of complex communications programs across technology and nonprofit sectors.",
+    "skills": [
+        "advertisements",
+        "advertising sales",
+        "brochures",
+        "Cancer",
+        "client",
+        "clients",
+        "database",
+        "direct marketing",
+        "logistics",
+        "Director",
+        "mailing",
+        "market research",
+        "marketing",
+        "materials",
+        "online marketing",
+        "press releases",
+        "Programming",
+        "public relations",
+        "Publicity",
+        "researching",
+        "sales",
+        "sales development",
+        "strategy",
+        "supervisor"
+    ],
+    "experience": [
+        {
+            "title": "Associate Director",
+            "company": "Company Name",
+            "start_date": "2006-07",
+            "end_date": "present",
+            "description": "Manages direct marketing communications for advertising sales and public relations initiatives. Manages marketing, operations, and logistics for all of Technology Review's event business, including the annual Emtech Conference at MIT. Directs all public relations activities and media outreach for Technology Review's annual special projects, including the TR35: The Top 35 Innovators under 35, the TR50: The Top 50 Most Innovative Companies, and the TR10: The Top 10 Emerging Technologies. Handles sales development for sponsorship sales including market research, pre-qualifying prospects, and creating sales materials. Set strategy and coordinate all deliverables for media partnerships."
+        },
+        {
+            "title": "Marketing Assistant",
+            "company": "Company Name",
+            "start_date": "2005-06",
+            "end_date": "2006-03",
+            "description": "Researched effective marketing venues to reach target audience and then implemented these plans, both online and in print. Created print and online advertisements as well as product line brochures to be used in mass mailing activities in order to generate interest in new models. Qualified customers as potential buyers at boat shows, answered product questions, and provided necessary follow-up with clients to encourage the purchase of a sailboat or powerboat. Maintained the client database and managed customer relationships before and after sale. Oversaw online marketing activities for direct supervisor as well as the four additional offices of the company."
+        },
+        {
+            "title": "Public Relations Intern",
+            "company": "American Cancer Society",
+            "start_date": "2005-Spring",
+            "end_date": "2005-Spring",
+            "description": "Aided the Media Director for Rhode Island in researching, promoting, and implementing current and new cancer-awareness programs. Created press releases and worked with local media to gain coverage of programs. As the URI Relay for Life Publicity Chair, promoted the first-ever Relay For Life at the University of Rhode Island, which raised over $50,000."
+        },
+        {
+            "title": "Event Coordinator Intern",
+            "company": "Company Name",
+            "start_date": "2004-04",
+            "end_date": "2004-04",
+            "description": "Assisted student organizations with all aspects of on-campus programming from start to finish. Individually generated the Student Programming Handbook, a comprehensive and user-friendly guide to on-campus programming."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Public Relations English",
+            "school": "University of Rhode Island",
+            "year": 2005
+        },
+        {
+            "degree": "AustraLearn Study Abroad Program",
+            "school": "Queensland University of Technology",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

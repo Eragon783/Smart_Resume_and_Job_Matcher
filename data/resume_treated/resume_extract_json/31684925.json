@@ -1,0 +1,72 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Hard working recent graduate intending a part time or full time job to build experience in a Civil Engineering working environment. Bringing Civil Engineering office and field experience in roadway design and traffic engineering.",
+    "skills": [
+        "Civil Engineering",
+        "AutoCAD",
+        "MicroStation",
+        "GuideSign",
+        "Google Earth",
+        "Google Docs",
+        "MS Excel",
+        "MS PowerPoint",
+        "MS Word",
+        "Highway Capacity Manual",
+        "MUTCD",
+        "VDOT Standards",
+        "Traffic Engineering",
+        "Roadway Design",
+        "Traffic Counts",
+        "Contract Documents",
+        "Cost Estimation",
+        "SAP",
+        "Civil Engineering Software",
+        "Guardrail Installation",
+        "Roadway Design Manual",
+        "Structural Analysis"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Assistant",
+            "company": "Company Name",
+            "start_date": "2013-05",
+            "end_date": "2014-05",
+            "description": "Worked on Virginia Department of Transportation (VDOT) and Fairfax County Department of Transportation roadway projects in Virginia and Washington DC area. Worked with VDOT, FCDOT and Prime Consultants Engineers to prepare project documents including Plans, Special provisions and Estimates. Prepared roadway design for I-495 Express Lanes from Route 7 to Jones Branch Connector. Worked on I-66 and State Route 50 to prepare project plans and contract documents. Worked on County roads Route 643 and Route 645 in Fairfax County Roads in Fairfax County using VDOT Standard Specification and Project Special Provisions. Assisted Project Engineers to prepare project roadway design using AutoCAD and MicroStation. Used Highway Capacity Manual to perform traffic analysis and evaluation of intersections and roadways using Highway Capacity Manual. Performed peak and off-peak traffic counts at the intersections and roadway for traffic studies. Designed project traffic signs, striping and marking. Used FHWA Manual on Uniform Traffic Control Devices (MUTCD) and VDOT Supplement to 2009 MUTCD for the design, application, and placement of Traffic Control Devices (including signs, signals, and pavement markings) along major highways in Virginia and Washington DC areas. Used engineering software GuideSign to prepare contract documents. Prepared project estimates for submission used VDOT Standard Specifications and Weighted Average Price to prep Cost and Engineering Estimates. Designed roadways using VDOT Road Design Manual and FHWA roadway design manual. Designed guardrails along I-66 and Rt. 50 using Guardrail Installation Training (GRIT) Manual. Used VDOT 2012 CADD manual to design roadway using MicroStation software. Used MicroStation and AutoCAD to develop plans for Civil Highway and Traffic Engineering Design. Performed field survey to gather utilities, drainage and roadway information. Performed marketing research for contracts and bids for the firm. Attended project meetings with the Client's and Consulting Engineers. Prepared meeting minutes for project record and filing. Attended project status meetings, collaborated with the team members to meet project schedule and project completion within project budget."
+        },
+        {
+            "title": "Medical Receptionist",
+            "company": "Company Name",
+            "start_date": "2014-07",
+            "end_date": "Current",
+            "description": "Creates detailed expense reports and requests for capital expenditures. Assessed urgency and priorities before accepting or declining appointments and meetings with the CEO. Screened all visitors and schedule them for Doctor's visit. Ordered and distributed office supplies while adhering to a fixed office budget. Directed guests and routed deliveries and courier services. Answered and managed incoming and outgoing calls while recording accurate messages. Greeted numerous visitors, including VIPs, vendors and interview candidates."
+        },
+        {
+            "title": "Teller",
+            "company": "Company Name",
+            "start_date": "2011-05",
+            "end_date": "2012-08",
+            "description": "Achieved working knowledge of accounting software packages including MS Excel, MS PowerPoint, MS Word. Skilled in verbal and written communication plus strong quantitative and qualitative skills. Respected for personal qualities, including accuracy, dependability, efficiency, curiosity, and intelligence resulting in being elected as a leader in school roles. Successfully opened and closed bank branch at appropriate times. Successfully kept drawer balanced at all times working full time five days a week. Dealt with customer care on a daily basis. Responsible for handling cash drawers in balance at all times. Skilled at interpersonal communications with proven record to build harmonious relationships with diverse audiences."
+        },
+        {
+            "title": "Engineer Technician IV",
+            "company": "Company Name",
+            "start_date": "2015-12",
+            "end_date": "Current",
+            "description": "Collaborated with contractors and clients as the on-site engineer for several large public projects. Implemented complex design software and drawing tools to plan and design transportation and hydraulic systems. Advised the project manager regarding construction material costs and quantity calculations. Carefully organized, analyzed and prepared technical data reports to ensure proper workflow and productivity. Created detailed CAD drawings for the engineering departments. Quickly learned SAP software and used it to receive, stock and expedite parts. Supplied production data to field operators, technicians, engineers and supervisors."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Civil Engineering",
+            "school": "George Mason University",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        "Engineer-In-Training (EIT)"
+    ],
+    "languages": []
+}

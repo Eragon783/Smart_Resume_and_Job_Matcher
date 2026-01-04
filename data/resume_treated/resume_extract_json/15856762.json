@@ -1,0 +1,114 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Executive Banker with experience in all facets of banking: growth strategy (retail and commercial); operations; business development; and sales and marketing, with an entrepreneurial spirit. A macro-level thinker with a proven track record for structuring and negotiating sound, credit-worthy business and building strong teams, able to meet company-wide financial goals.",
+    "skills": [
+        "Accounting",
+        "Banking",
+        "Budgets",
+        "Business development",
+        "Business plans",
+        "Capital markets",
+        "Cash flow analysis",
+        "COGNOS",
+        "Consulting",
+        "Contract negotiations",
+        "Corporate finance",
+        "Credit",
+        "Debt and equity financing",
+        "Essbase",
+        "Finance",
+        "Financial planning & analysis",
+        "Foreign exchange",
+        "Hyperion",
+        "JD Edwards",
+        "Lotus 1-2-3",
+        "Market analysis",
+        "Marketing strategies",
+        "Marketing and sales",
+        "Mergers and acquisitions",
+        "Access",
+        "Excel",
+        "Microsoft Office applications",
+        "Oracle",
+        "Project management",
+        "Public speaking",
+        "Recruitment",
+        "Sales",
+        "Strategic planning"
+    ],
+    "experience": [
+        {
+            "title": "SVP, Business Banking",
+            "company": "AUB",
+            "start_date": "July 2015",
+            "end_date": "Current",
+            "description": "Executive Banker responsible for the Bank's Business Banking Group and a $55 million production P/L budget across CRE, C&I, Asset Based Lending and SBA. Manages Private Banking clients totaling $75 million. Oversees credit administration, strategic sales plan, marketing, staff hiring and training. Presents monthly sales and forecast to the board of directors. Manages five commercial branches with a staff of six BDOs. Oversees community representation and maintains accountability and fiscal responsibility."
+        },
+        {
+            "title": "SVP, Administration/Operating/Finance",
+            "company": "Pan American Bank",
+            "start_date": "January 2012",
+            "end_date": "July 2015",
+            "description": "Led merger with Finance & Thrift via reverse stock split acquisition. Raised $6.4 million in CRA via equity capital (SPA). Led cost restructuring (headcount reduction 29%), branch consolidation, and netted $1.1 million in capital proceeds, saving $637k annually. Directed business development and SBA certification resulting in $9.2 million loan growth. Managed community outreach, marketing and sales strategy. Reduced vendor costs by $97k in first 60 days. Built 501c3 partnerships contributing to $1.1 million loan growth. Implemented ALLL methodology with $125k provision in 2013; bank profit first time in six years. Reported quarterly ALM to board; member of audit/Compliance/ALM committee. Negotiated with Jack Henry for core systems saving $129k while enabling mobile/on-line banking and other tech upgrades."
+        },
+        {
+            "title": "President",
+            "company": "Primavera Capital",
+            "start_date": "July 2007",
+            "end_date": "December 2011",
+            "description": "Provided consulting services to middle-market companies in corporate finance advisory, access to capital, debt restructuring and business plans. Managed Toltec financial lending and consumer segments. Achieved $750k in new market sales in first four months; developed wholesale market segmentation increasing monthly sales by $125k. Created working capital KPIs, enabling $323k annual savings. Managed annual operating plan and quarterly sales goals; bilingual market expansion; presented to board monthly. Negotiated $500k line of credit for un-bankable client; expanded vendor/partnership agreements; secured regulatory licensing and built relationships with SBA and financial institutions."
+        },
+        {
+            "title": "EVP, Business Development/Emerging Markets",
+            "company": "Community Bank Ventures",
+            "start_date": "February 2006",
+            "end_date": "July 2007",
+            "description": "Led CBV business development for de novo banks; negotiated key partnership with a broker-dealer to execute CBV offerings and M&A transactions. Assisted in raising $48 million capital for formation of two de novo banks. Delivered weekly presentations to community leaders and high-net-worth investors. Developed annual budgets and analytics; supported Big 4-style accounting and audit work."
+        },
+        {
+            "title": "Consultant",
+            "company": "DLC Consulting",
+            "start_date": "March 2004",
+            "end_date": "February 2006",
+            "description": "Provided financial planning & analysis, financial systems implementation, process documentation and redesign, and project management for Fortune 1000 clients. Saved $7 million by negotiating FX rates; led Long-Term Incentive Program. Wrote SEC filings (10K, 10Q, 8K) including MD&A."
+        },
+        {
+            "title": "Financial Analyst",
+            "company": "PBG The Pepsi Bottling Group",
+            "start_date": "February 2003",
+            "end_date": "March 2004",
+            "description": "Financial analyst role at the world’s largest Pepsi beverage company; supported various financial activities."
+        },
+        {
+            "title": "Finance Manager",
+            "company": "Compass Aerospace",
+            "start_date": "December 2001",
+            "end_date": "February 2003",
+            "description": "Finance management for supplier/manufacturer of aircraft parts; responsibilities across financial management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Administration",
+            "school": "Pepperdine University, Graziadio School of Business and Management",
+            "year": 2003
+        },
+        {
+            "degree": "Bachelor of Arts: Business Economics",
+            "school": "California State University, San Bernardino",
+            "year": 1994
+        },
+        {
+            "degree": "Private Capital Markets",
+            "school": "Pepperdine University, Graziadio School of Business and Management",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

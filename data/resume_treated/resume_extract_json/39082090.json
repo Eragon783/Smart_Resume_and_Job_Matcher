@@ -1,0 +1,116 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "SURGICAL CLINICAL REVIEWER Summary A self-motivated and organized professional with over 20 years' experience providing thorough and skillful support. More than 10 years' management experience in organizational leadership and relationship building with clients and team members. Administrative experience in diverse business settings. Extensive international experience, with a deep understanding of diverse cultural and business practices, professional international liaison. Excellent writing skills, and the ability to find innovative solutions. A patient listener who fully focuses on speakers and understands a variety of accents. A flexible professional who enjoys learning new skills and quickly adapts to organizational changes. An energetic team leader, able to communicate effectively with people of all ages and backgrounds, to work collaboratively to resolve problems, and to motivate team members to achieve personal and organizational objectives. Self-starter with strong communication skills; work well independently or on a team. Skilled clinical researcher and administrator; hold a BS Degree in Health Information Management and currently enrolled in an MBA Degree. Highlights Management skills: administered, coordinated, delegated, evaluated, prioritized, performed trouble shooting, HR duties, Manage PTO, payroll, interview, hire and train new personnel, team goals Research skills: collected, extracted, organized, interpreted, summarized, audited Communication skills: corresponded, professional telephone etiquette, excellent customer service, Bilingual interpreted translated English/Spanish Detail skills: catalogues, multi-tasked, set goals, skilled typist, working knowledge of computer soft wares Creative skills: customized, integrated, established, marketing Clerical skills: compiled, monitored, generated, implemented",
+    "skills": [
+        "Payroll",
+        "Training",
+        "HEDIS",
+        "Audits",
+        "Cases",
+        "Database",
+        "Billing",
+        "Business Consultant",
+        "Business Development",
+        "Coding",
+        "Healthcare",
+        "Medicare",
+        "Outpatient",
+        "Quality Assurance",
+        "Reconciliation",
+        "Data Analysis",
+        "Marketing Analysis",
+        "Encoder",
+        "Medical Records",
+        "Staffing",
+        "Work Flow",
+        "MBA",
+        "Clerical",
+        "Clients",
+        "Customer Service",
+        "Energetic",
+        "Etiquette",
+        "Excellent Writing",
+        "HR",
+        "Liaison",
+        "Marketing",
+        "PTO",
+        "Receptionist",
+        "Relationship Building",
+        "Retail Sales",
+        "Self Motivated",
+        "Self-starter",
+        "Solutions",
+        "Strong Communication Skills",
+        "Telephone",
+        "Translated",
+        "Writing Skills",
+        "Paralegal"
+    ],
+    "experience": [
+        {
+            "title": "Surgical Clinical Reviewer",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2014-01",
+            "description": "Collected and submitted reliable data to the ACS NSQIP for surgical patients, provided morbidity and mortality postop reporting, generated lists of cases to be abstracted, and completed abstraction of applicable cases by entering data into the appropriate database (NSQIP). Participated in inter-rater reliability reviews to ensure accuracy of abstraction, validation and audits, followed up on appeals as necessary, and participate in conference calls and webinars."
+        },
+        {
+            "title": "Field Reviewer/Auditor",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2010-01",
+            "description": "Provided support for the 2009 and 2010 HEDIS project including Physician Grading, (payment integrity audit), Reporting, Medical Record Abstraction, Quality Improvement, and data analysis, provided feedback reporting to HEDIS, NCQA and other governing and regulatory agencies."
+        },
+        {
+            "title": "Healthcare Business Consultant",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2008-01",
+            "description": "Provided quality assurance reviews specializing in outpatient centers along with business development strategies. Reviewed charts to ensure correct coding for the services billed. Conducted mock surveys of facilities, and kept up to date with policies and procedures. Developed training schedules and job descriptions for staff and conducted performance evaluations. Handled payroll, billing issues, and physician contract credentialing. Hired and terminated staff as necessary. Provided findings to both Medicare and facilities for reconciliation, as well as, resolved claim issues with physician offices to collect outstanding monies."
+        },
+        {
+            "title": "Health Information Manager",
+            "company": "Company Name",
+            "start_date": "2002-01",
+            "end_date": "2004-01",
+            "description": "Oversaw all Health Information Management work flow in department, including performance of employees, training, and orientation of new staff, in-service of current employees, payroll submission, and medical record completion per JCAHO guide. Participated in JCAHO, HEDIS, ACHA and Tumor Registry reviews committee. Responsible for Utilization and Records Committees, Medical Records Abstract, in house clinical pertinence, closed chart review, 3M Encoder knowledge, and managed staffing levels in accordance to departmental needs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS Health Information Management",
+            "school": "Florida International University",
+            "year": 1999
+        },
+        {
+            "degree": "AA Psychology",
+            "school": "Miami Dade Community College",
+            "year": 1999
+        },
+        {
+            "degree": "Certificate of Completion: Surgical Clinical Reviewer ACS NSQIP",
+            "school": "ACS NSQIP",
+            "year": 2012
+        },
+        {
+            "degree": "MBA",
+            "school": "Northcentral University",
+            "year": 2015
+        },
+        {
+            "degree": "Paralegal Certificate",
+            "school": "Blackstone Institute",
+            "year": 2015
+        }
+    ],
+    "certifications": [
+        "ACS NSQIP Certificate of Completion Surgical Clinical Reviewer"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

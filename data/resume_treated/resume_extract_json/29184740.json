@@ -1,0 +1,58 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Atlanta, GA, USA",
+    "summary": "Sales and Marketing professional with 15+ years in the Atlanta real estate industry, recognized with awards and multi-million-dollar annual sales. Experienced as an independent contractor overseeing sales, marketing, HR, advertising and tax accountability. Background as a business manager for a local bicycle store and experience building clientele for major retailers and cosmetics firms.",
+    "skills": [
+        "Sales",
+        "Problem solving",
+        "Team building",
+        "Computer proficiency",
+        "Record keeping",
+        "Internet and social media savvy",
+        "Goal oriented",
+        "Creative staffing",
+        "Event planning and execution",
+        "Interpersonal awareness",
+        "Persuasive communication",
+        "Coaching",
+        "Client needs awareness",
+        "Development and management goals"
+    ],
+    "experience": [
+        {
+            "title": "Sales / Fragrance Ambassador",
+            "company": "Chanel / Macy's (Savoir Faire)",
+            "start_date": "2007-01",
+            "end_date": "2015-08",
+            "description": "Developed clientele and marketing strategy to increase staff productivity and volume. Maintained a client log of 500+ contacts via email, text, and phone; scheduled by appointment. Hosted and updated social media pages/websites for clients. Maintained Chanel guidelines for hygiene, beauty treatment and makeup application. Served as Fragrance Ambassador. Created, scheduled and advertised events and promotions for Chanel product line. Interfaced with clients in-store regarding treatments and makeup application; served high-profile clients in Atlanta area."
+        },
+        {
+            "title": "Real Estate Sales / Realtor",
+            "company": "Atlanta Board of Realtors",
+            "start_date": "1997-01",
+            "end_date": "Current",
+            "description": "Million Dollar Club Life Member; Coveted Phoenix Award for 10 consecutive years with over $1M in sales annually. Former Jenny Pruitt/Harry Norman Realtor; top sales producer in office for homes priced $150,000–$950,000. Specializes in single-family homes and condominiums (new and resale). Relocation credentials for assisting transferring employees."
+        },
+        {
+            "title": "Volunteer Chief / Firefighter",
+            "company": "City Fire Department",
+            "start_date": "1990-01",
+            "end_date": "1992-01",
+            "description": "Managed and trained a volunteer force of 30 firefighters within POST certification training guidelines. Maintained two fire stations. Petitioned Mayor and City Council for funding for training and equipment; executed funding events. Worked with insurance companies regarding billing and Arson Investigation training. Maintained Class B license."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Georgia State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Class B Driver's License",
+        "POST Certification Training (Fire Department)"
+    ],
+    "languages": []
+}

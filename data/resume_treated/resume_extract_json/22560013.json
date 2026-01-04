@@ -1,0 +1,88 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Enthusiastic and creative Visual Designer with strong time management, prioritization, and client management skills. Experienced in marketing and public relations management, design direction, and delivering visually appealing graphics in fast-paced, collaborative environments.",
+    "skills": [
+        "Adobe Creative Suite",
+        "Photoshop",
+        "Illustrator",
+        "InDesign",
+        "Flash",
+        "QuarkXPress",
+        "Acrobat",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "WordPress",
+        "Blackbaud NetCommunity",
+        "Constant Contact",
+        "Wordpress",
+        "Brand Strategy",
+        "Branding",
+        "Advertising",
+        "Advertisements",
+        "Art Direction",
+        "Creative Direction",
+        "Asset Management",
+        "B2B",
+        "Banners",
+        "Brochures",
+        "Budgeting",
+        "Budget",
+        "Packaging Design",
+        "Packaging",
+        "Photography",
+        "Posters",
+        "Pre-Press",
+        "Press",
+        "Direct Mail",
+        "Fundraising",
+        "Funds",
+        "Capital Markets",
+        "Media Buys",
+        "Project Management",
+        "Publications",
+        "Radio",
+        "Recruiting",
+        "Retail",
+        "Sales",
+        "Scripts",
+        "Spanish",
+        "Strategic",
+        "Strategic Development",
+        "Television",
+        "Website",
+        "Web Design",
+        "Layout",
+        "Newspapers"
+    ],
+    "experience": [
+        {
+            "title": "Marketing and Public Relations Manager",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "Current",
+            "description": "Art direction and design of all print and digital publications and materials supporting admissions, alumni relations, volunteer relations, summer programs, and fundraising. Designed and supervised production of the school magazine (three issues per year); admissions materials; brochures; annual report; invitations; programs; merchandise; street banners; and event photography. Implemented and maintained a social media presence on Facebook and Twitter. Created and maintained a news site in WordPress. Managed outside vendors for printing, photography and writing. Managed budget and calendar."
+        },
+        {
+            "title": "Partner/ Creative Director",
+            "company": "Company Name – City",
+            "start_date": "January 1995",
+            "end_date": "January 2011",
+            "description": "Designed and printed online interactive sales and marketing collateral; creative/art direction of client collateral. Managed office budget, client budget and supervised a team of eight; directed advertising and marketing campaigns. Coordinated and supervised multi-disciplinary team - designers, programmers, copywriters, photographers, illustrators - to ensure strategic and creative development and integrated consistency for client brands. Project management, client interface, internal budgeting. Print management, including pre-press, and press checks. Los Angeles County Sheriff's Department: Print Advertisements and Marketing Collateral: design and layout of print advertisements for newspapers and magazines; design, layout and production of recruiting materials including brochures, one-sheets, folders; marketing campaigns targeting women ages 21-35. Media buys: creation of marketing and advertising campaigns for outdoor (billboard) media, radio and television. Directed photo shoots for Deputy portraits and managed schedules and contracted budgets."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Graphic Design",
+            "school": "California State University, City",
+            "year": 1995
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

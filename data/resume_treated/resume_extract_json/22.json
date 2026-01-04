@@ -1,0 +1,67 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Kiriat Yam, Israel",
+    "summary": "I have 6+ years of experience in server-side development. I have been developing DWH with ETL processes, data input forms and OLAP reports. I have been implementing business logic in PL/SQL. Now I am learning Hebrew on MASA in Kiriat Yam.",
+    "skills": [
+        "SQL (Oracle)",
+        "PL/SQL",
+        "C#",
+        "Python"
+    ],
+    "experience": [
+        {
+            "title": "Oracle developer",
+            "company": "Pro IT Resource",
+            "start_date": null,
+            "end_date": null,
+            "description": "Development and support of OLAP financial data monitoring systems. The business logic of the systems was implemented as PL/SQL packages. Main tasks which were implemented: Data loading from external systems in form of incremental daily updates in XML; Maintenance of various directories and indicators, data input according to them; Development of OLAP reports based on input data."
+        },
+        {
+            "title": "Tutor",
+            "company": "KIBERone",
+            "start_date": null,
+            "end_date": null,
+            "description": ""
+        },
+        {
+            "title": "Oracle developer",
+            "company": "ER-Telecom",
+            "start_date": null,
+            "end_date": null,
+            "description": "Support of the Equipment Manager system (network equipment accounting system); Finalization of the electronic document management system in Equipment Manager: transferring documents to 1C and billing system;"
+        },
+        {
+            "title": "Junior tester",
+            "company": "JSC PROGNOZ",
+            "start_date": null,
+            "end_date": null,
+            "description": ""
+        },
+        {
+            "title": "Computer lab administrator",
+            "company": "The Perm State Regional Universal Library named after A.M.Gorky",
+            "start_date": null,
+            "end_date": null,
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Electrical Engineering, automated control and information processing systems (extramural, incomplete)",
+            "school": "Perm National Research Polytechnic University",
+            "year": "2011-2017"
+        },
+        {
+            "degree": "Mechanics, Applied Mathematics (incomplete)",
+            "school": "Perm State National Research University",
+            "year": "2007-2010"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Russian (native)",
+        "English (B1)"
+    ]
+}

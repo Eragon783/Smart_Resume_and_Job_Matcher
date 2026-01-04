@@ -1,0 +1,84 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "OSP/Construction/Engineering Manager with 33+ years of experience. Proven track record in strategic planning, people management, and delivering complex fiber and copper projects on schedule. Experienced in managing large union crews, cell site/tower construction, and deployment programs (e.g., 200 cell fiber towers for AMS project). Strong leadership, safety, and quality focus with a history of collaborating with engineering teams to resolve construction challenges and meet project deadlines.",
+    "skills": [
+        "Supervision",
+        "Training",
+        "Complex problem solving",
+        "Team leadership",
+        "Copper and fiber splicing",
+        "Cable maintenance",
+        "OSP aerial, buried, underground",
+        "Safety",
+        "Quality & production management",
+        "Cell site construction",
+        "First Aid & CPR",
+        "Alcatel/Lucent 8600 Training",
+        "Project management",
+        "OSP fault locating",
+        "AutoCAD",
+        "Customer service",
+        "Budget forecasts",
+        "Inventory control",
+        "Union meeting organization",
+        "United Way Affiliate"
+    ],
+    "experience": [
+        {
+            "title": "Construction Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2014-07",
+            "end_date": "2015-01",
+            "description": "Oversee material acquisition and placement of fiber for AT&T. Manage 25 to 30 crews and coordinate job assignments. Approve all red lines, invoicing, time sheets and expenses. Work closely with engineering group to resolve and solve construction issues. Weekly conference calls for updates, projections, safety, quality and production. Conduct weekly job observations, safety meetings and truck inspections. Accountable for every manager and technician in the location."
+        },
+        {
+            "title": "Supervisor",
+            "company": "Company Name, City, State",
+            "start_date": "2012-10",
+            "end_date": "2014-04",
+            "description": "Evaluate approved technologies and architectures for plant additions to respond to growth and/or new services. Design, develop, and define plans for the implementation ofFiber plant construction or modification of existing facilities. Conduct formal meetings/presentations regarding engineering and construction plans for pricing proposals or bids. Provide engineering fiber design, cost estimates, studies, and analysis; assist with documentation to provide service to customers and operation/maintenance of the plant. Coordinate and oversee all major Fiber construction projects in the Tucson AZ area; field placement, relays, splicing, testing; obtain permits/easements; manage installation/construction and testing; emphasize training, coaching, and development; lead a team of technicians to meet attendance and performance standards; collaborate with the Union for productive relationships."
+        },
+        {
+            "title": "Customer Service Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "2011-02",
+            "end_date": "2012-09",
+            "description": "Design, engineer and complete all new Fiber cable splicing projects. Coordinate contractors placing and splicing Fiber/Copper cables. Provide documentation to project engineers and construction management. Order and coordinate all major materials including Fiber and Copper cable. Create bills of materials and participate in budget preparation. Order and track materials; issue work and supervise contract personnel; verify qualification and acceptance of plant for invoices. Design, engineer and complete Fiber cable to new cell sites projects for vendors; plan daily activity and resources; complete job documentation."
+        },
+        {
+            "title": "Senior Technical Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "2007-11",
+            "end_date": "2011-02",
+            "description": "Constructed and turned up 200 Cell Site Fiber Fed Towers for the AMS Project in a 2-year period. Develop project scope, schedules, and cost estimates; prepare bid documents; manage project construction per schedule and budget. Ensure regulatory compliance (Safety, DOT, Environmental) with contractors; monitor status and generate progress reports. Design and coordinate all fiber for new sites, relocate existing fiber, review invoices, close out projects, and conduct post-job reviews. Lead project meetings with internal teams and subcontractors to coordinate ROW, permitting, and construction activities."
+        },
+        {
+            "title": "FTTP Local Manager",
+            "company": "Company Name, City, State",
+            "start_date": "1979-01",
+            "end_date": "2007-10",
+            "description": "Provide timely construction of new build/upgrade fiber facilities by coordinating with departments, utility companies, builders/developers, and local authorities. Schedule and direct fiber placing and splicing in the field; perform site quality inspections and ensure compliance with engineering standards, city/state codes. Obtain construction permits including make-ready, right-of-way, railroad, road-bore, and crossings. Improve efficiency by recommending methods, budgets, equipment usage; manage union employees and assign priorities to ensure productivity and deadlines; issue fiber placing projects to subcontractors; modify designs when problems occur; monitor progress, material expenditures, overtime, and inventory. Lead a team to meet attendance and performance standards and maintain safety and quality."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bell Labs Technical: Telecommunications",
+            "school": "Bell Labs Technical",
+            "year": "2002"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Bishop Forest High School",
+            "year": "1976"
+        }
+    ],
+    "certifications": [
+        "Alcatel/Lucent 8600 Training",
+        "AutoCAD Training",
+        "First Aid & CPR"
+    ],
+    "languages": []
+}

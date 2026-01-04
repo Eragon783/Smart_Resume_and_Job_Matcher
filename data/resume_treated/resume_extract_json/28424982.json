@@ -1,0 +1,90 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "More than twenty years of progressively responsible experience as a dynamic, resourceful and skilled Executive Chef with a proven success record in both fine dining and catering. Holds an Associate of Occupational Studies in Culinary Arts from The Culinary Institute of America. Supervised a staff of 40 to prepare as many as 5,000 meals per day. Highly organized; initiated and coordinated all pastry production for four restaurants and a catering company. Very professional; experienced in developing new food concepts and applications.",
+    "skills": [
+        "Budgets",
+        "Cooking",
+        "Costing",
+        "Inventory",
+        "Managing",
+        "Public Relations",
+        "Quality",
+        "Retail",
+        "Multi-operation hospitality management",
+        "High degree of drive and determination",
+        "Proven leadership skills",
+        "Special dietary needs expert",
+        "Adaptable",
+        "Staff development talent"
+    ],
+    "experience": [
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "11/2014",
+            "end_date": "Current",
+            "description": "Effectively plan and develop menus for the club considering factors such as product availability, food and service cost, marketing conditions and business volume. Ensure the correct preparation and presentation of a consistent level for all food items prepared through production and demonstration. Full accountability and responsibility for all Café/ Kitchen operational functions. Additional roles in Ordering, Receiving, Inventory and Loss Prevention. Developed Scratch Pastry Program to produce and distribute from Bristlecones's kitchen to sister clubs."
+        },
+        {
+            "title": "Premium Club Chef",
+            "company": "Company Name",
+            "start_date": "01/2014",
+            "end_date": "11/2014",
+            "description": "Directly responsible for food and labor costs, menu development, recipe creation and standardization of recipe production to ensure consistency. Promote positive public relations with guests. Oversaw three fine dining kitchen operations and all aspects of food production to ensure high quality food standards are met on a daily basis. Change menus daily for two outlets and pastry menu for each home stand. Responsible for all non-game day catered events and some game day events. Extensive travel to other DNC venues to aid in support in playoffs and championship games for baseball and football."
+        },
+        {
+            "title": "Executive Pastry Chef",
+            "company": "Company Name",
+            "start_date": "03/2013",
+            "end_date": "01/2014",
+            "description": "Ensure brand quality, consistency and adherence to standards. Developed scratch menu and implement new items for game stands. Ensure that all pastries are consistently prepared and served according to the restaurants', outlets', and banquet facility portioning, and serving standards. Extensive travel to other DNC venues to aid in support in playoffs and championship games for baseball and football."
+        },
+        {
+            "title": "Executive Pastry Chef",
+            "company": "Company Name",
+            "start_date": "06/2012",
+            "end_date": "03/2013",
+            "description": "Ordered and controlled inventory. Developed scratch menu and implement daily specials. Introduced new and modified existing recipes. Responsible for all pastry and savory baked goods food costing."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "10/2009",
+            "end_date": "09/2011",
+            "description": "In this organic vegetarian restaurant I have created seasonal menus with a heavy emphasis on vegan, gluten-free and living food items. Responsible for all pastry production for in-house and retail sale. Develop own methods and recipes to create tasty vegetarian/vegan cuisine. Supervised and evaluated staff, implemented budgets, forecasted trends and negotiated prices with vendors. Developed and held monthly cooking classes for the public."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "09/2001",
+            "end_date": "09/2003",
+            "description": "Created all menus, oversaw all savory and sweet food production and kitchen staff, ordered and controlled food inventory. Trained all kitchen staff and adhered to company budgets. Developed and held cooking, baking and candy making classes for the public."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "06/1998",
+            "end_date": "08/2001",
+            "description": "Ordered and controlled inventory. Developed weekly menus and implemented daily specials. Introduced new and modified existing recipes. Worked on all baked goods for retail sale, which included wedding cakes, candies, savory pastries and other baked goods."
+        },
+        {
+            "title": "Executive Pastry Chef",
+            "company": "Company Name",
+            "start_date": "04/1991",
+            "end_date": "05/1995",
+            "description": "Initially set up and coordinated all pastry department operations for the company managing four restaurants and a catering company on Pier 39. Supervised and evaluated staff, implemented budgets, forecasted trends and negotiated prices with vendors. Interacted with health inspectors and other regulators. Ordered and maintained inventory. Oversaw the distribution of product from central location."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Occupational Studies in Culinary Arts",
+            "school": "The Culinary Institute of America",
+            "year": "1991"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

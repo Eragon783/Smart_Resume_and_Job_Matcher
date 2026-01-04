@@ -1,0 +1,94 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Developer with experience in structuring, developing and implementing interactive websites, back-end programming, relational databases and performance testing.",
+    "skills": [
+        "servlets",
+        "JSP",
+        "J2EE",
+        "Hibernate 3.x",
+        "JPA",
+        "Spring 3.0",
+        "Struts 2.0",
+        "EJB",
+        "JMS",
+        "Design patterns",
+        "SQL",
+        "PL/SQL",
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "AngularJS",
+        "Jquery",
+        "Bootstrap",
+        "SOAP",
+        "RESTful web services",
+        "XML",
+        "JSON",
+        "C",
+        "C++",
+        "Unix system programming",
+        "CUDA",
+        "Perl",
+        "Data Structures",
+        "Operating system concepts",
+        "multicore and multi-threaded programming",
+        "SAN",
+        "UNIX Tools",
+        "Eclipse",
+        "IOmeter",
+        "Code Warrior",
+        "vi editor",
+        "Visual Studio",
+        "Arduino",
+        "Oracle 11g",
+        "Code Blocks",
+        "iSCSI initiator",
+        "NetApp internal tools",
+        "Navicat",
+        "JConsole",
+        "JMeter",
+        "Tomcat",
+        "JBoss",
+        "Git"
+    ],
+    "experience": [
+        {
+            "title": "Java intern",
+            "company": "Company Name, City, State",
+            "start_date": "2013-06",
+            "end_date": "Present",
+            "description": "Designing and implementing Leave Management System for internal use (Spring MVC). Receiving training in core java and J2EE technologies. Consuming and producing web services for a bank application. Creating Single Page Application in AngularJS."
+        },
+        {
+            "title": "Test contractor (Performance and Benchmarking team)",
+            "company": "Company Name, City, State",
+            "start_date": "2014-05",
+            "end_date": "2015-05",
+            "description": "Executed test cases and analyzed performance numbers against benchmarks. Conducted root-cause analysis for performance degradation in controller firmware builds by running continuous performance verification (PCV) tests daily. Participated in scrum meetings. Automated using Action Word Script (AWS), batch script, Java; member of automation team."
+        },
+        {
+            "title": "Graduate Research Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "2013-12",
+            "end_date": "2014-05",
+            "description": "Managed and maintained NIAR composites database. Created charts and updated the database. Wrote macros for doing data analysis."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Computer Science",
+            "school": "Wichita State University",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelor of Engineering in Computer Science",
+            "school": "BMSCE",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

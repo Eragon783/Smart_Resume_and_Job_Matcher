@@ -1,0 +1,137 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Creative problem solver with extensive mental health and I/DD experience; strong analytical, communication and interpersonal skills; 20+ years of management, program development and policy experience; HIV director/case manager background and commitment to proficiency and effectiveness in service delivery.",
+    "skills": [
+        "CPR-First Aid/Bloodborne - Certified",
+        "Notary Public",
+        "Project management",
+        "Strategic planning",
+        "Budgeting and finance",
+        "Recruitment and talent development",
+        "Process improvement",
+        "Visionary Microsoft Office Suite",
+        "Microsoft Office (Word, Excel, PowerPoint, Access)",
+        "Customer relations",
+        "Quality control",
+        "Personnel management",
+        "Accounts payable and receivable",
+        "Flexible thinker",
+        "Complex problem solving",
+        "Customer needs assessment",
+        "Willingness to learn"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2013-04",
+            "end_date": "Present",
+            "description": "Greeted customers, determined needs, recommended merchandise, maintained knowledge of sales promotions and payment/security policies; answered questions; liaised with other stores to check merchandise availability; engaged customers in a friendly manner; completed cleaning, stocking and organizing tasks; built relationships to increase repeat business; contributed to team sales goals."
+        },
+        {
+            "title": "Utilization Management Specialist",
+            "company": "Company Name",
+            "start_date": "2012-12",
+            "end_date": "Present",
+            "description": "Collected and analyzed program effectiveness data; developed and streamlined systems for monitoring and tracking; documented and investigated complaints and potentially fraudulent claims; demonstrated cultural and linguistic sensitivity; attended monthly staff trainings."
+        },
+        {
+            "title": "Case Manager",
+            "company": "Company Name",
+            "start_date": "2012-10",
+            "end_date": "2012-11",
+            "description": "Developed treatments and casework programs; provided crisis intervention and substance abuse services; interviewed and evaluated clients with safety and risk assessments; referred clients to social services; offered therapeutic services to emotionally disturbed children and adolescents; created strategies for mentally and physically disabled students; attended monthly trainings; documented complaints."
+        },
+        {
+            "title": "Qualified Professional (QMRP)",
+            "company": "Company Name",
+            "start_date": "2011-11",
+            "end_date": "2012-12",
+            "description": "Created strategies to meet the needs of mentally and physically disabled students; conducted safety and risk assessments; maintained regular client contact; investigated suspected cases of abuse; trained in working with Asperger's Syndrome and high functioning autism; supported patients and families coping with severe illness; conducted home visits."
+        },
+        {
+            "title": "Case Manager",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2012-09",
+            "description": "Developed treatments and casework programs; interviewed and evaluated clients; referred clients to social services; provided therapeutic services and crisis intervention; maintained regular contact with clients; wrote reports and case summaries; coordinated care from pre-admission to post-discharge; trained in working with patients with Asperger's Syndrome and high functioning Autism."
+        },
+        {
+            "title": "Office Manager",
+            "company": "Company Name",
+            "start_date": "2010-03",
+            "end_date": "Present",
+            "description": "Developed company personnel policies, standard operating procedures and employee handbooks; conducted new-hire orientations; employment verifications and investigations; built a comprehensive recruiting strategy; developed and enforced policy and procedures; facilitated criminal background checks; offered fair compensation benchmarking; conducted job analysis and evaluations; shadowed employees to accurately describe duties and skills."
+        },
+        {
+            "title": "Director/Office Manager",
+            "company": "Company Name",
+            "start_date": "2006-04",
+            "end_date": "2010-12",
+            "description": "Directed planning, budgeting, vendor selection and quality assurance; recommended process improvements; defined targets and communicated them to teams; monitored timelines; coordinated design meetings across two departments; collected and analyzed program data; conducted home visits; designed educational materials and client satisfaction surveys; coordinated outreach activities."
+        },
+        {
+            "title": "Qualified Professional/Supervisor",
+            "company": "Company Name",
+            "start_date": "2003-04",
+            "end_date": "2006-03",
+            "description": "Attended trainings; provided one-on-one attention to students; developed strategies to meet the needs of mentally and physically disabled students; coordinated patient care from pre-admission to post-discharge; trained in working with Asperger's Syndrome and high functioning Autism."
+        },
+        {
+            "title": "Residence Hall Director- Administrator II",
+            "company": "Company Name",
+            "start_date": "2001-08",
+            "end_date": "2003-03",
+            "description": "Polietely assisted customers; led project implementations; collaborated with departments and clients to achieve results; hired and trained staff."
+        },
+        {
+            "title": "TFN Project Coordinator",
+            "company": "Company Name",
+            "start_date": "2001-03",
+            "end_date": "2001-08",
+            "description": "Directed planning, budgeting and vendor selection; supervised five community agencies; defined targets and coordinated design meetings; implemented tracking processes; collaborated with outside agencies to achieve goals."
+        },
+        {
+            "title": "Case Manager",
+            "company": "Company Name",
+            "start_date": "1998-11",
+            "end_date": "2001-03",
+            "description": "Assessed and counseled clients; collected program data; educated clients about HIV and other STDs; developed a web-based data system for in-house staff and outside stakeholders; coordinated outreach; wrote summaries; managed confidentiality and client satisfaction surveys."
+        },
+        {
+            "title": "WIC/Medical Clerk",
+            "company": "Company Name",
+            "start_date": "1998-06",
+            "end_date": "1998-11",
+            "description": "Answered calls; greeted customers; described products; assisted customers in person and by phone; provided high-level customer experience; liaised between customers, management and sales; resolved inquiries and complaints; supported wide range of customer service tasks."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA: Business Administration",
+            "school": "Bellevue University",
+            "year": "Current"
+        },
+        {
+            "degree": "Master of Arts: Management",
+            "school": "Bellevue University",
+            "year": "2001"
+        },
+        {
+            "degree": "Bachelor of Science: Early Childhood",
+            "school": "North Carolina A&T State University",
+            "year": "1994"
+        }
+    ],
+    "certifications": [
+        "CPR-First Aid/Bloodborne - Certified",
+        "Notary Public",
+        "Train-the-Trainer",
+        "QMRP (Qualified Professional)",
+        "NC SNAP Certified"
+    ],
+    "languages": []
+}

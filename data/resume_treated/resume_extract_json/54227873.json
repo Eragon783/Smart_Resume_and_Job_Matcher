@@ -1,0 +1,61 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Charlottesville, VA",
+    "summary": "A Computer Science junior at Lynchburg College with the understanding and problem solving to work my way through any situation. Using the life skills I learned while I attained my Eagle Scout rank, the highest in boy scouts and only given to a very small percentage of scouts.",
+    "skills": [
+        "C++",
+        "Autodesk Inventor",
+        "AutoCAD",
+        "3Ds Max",
+        "Python",
+        "Linux",
+        "Xcode",
+        "Visual Basic",
+        "MS Word",
+        "MS PowerPoint",
+        "MS Excel"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Intern",
+            "company": "Company Name",
+            "start_date": "June 2015",
+            "end_date": "August 2015",
+            "description": "Designed and worked with building information modeling BIM in AutoCAD MEP throughout the entire work-cycle under extreme time crunches. Creating functional ethernet, pneumatic, and electronic controls for a confidential client. Assisted with installation of a pneumatic controls system for a large and confidential development outside of Charlottesville, VA. Worked in the field at Indian Head Military Base, MD collecting outfall locations for later analysis and reduction."
+        },
+        {
+            "title": "Engineering Intern",
+            "company": "Company Name",
+            "start_date": "June 2014",
+            "end_date": "August 2014",
+            "description": "Created and edited AutoCAD drawings for the US State Department, Arlington National Cemetery, and Jefferson Island, MD. Using Autodesk Inventor, recreated the company's patented Reverse Osmosis Multi Element Module ROMEM with a high level of detail, as well as rendering numerous images using Autodesk Showcase. Researched, Acquired, Built, and Configured an Enterprise Server to replace the firm's antiquated system. Specifications: Intel Xeon E5-2620 @ 2.0 GHz, Processor MSI X79A-GD45 Plus, Motherboard Windows Server 2012, OS 8x 8 Gb G.Skill Ripjaws Z series 240-pin DDR3, RAM 3x Seagate Barracuda 2 Tb SATA 6.0 Gb/s 3.5 inch, Internal hard drive Seagate Barracuda 3 Tb SATA 6.0 Gb/s 3.5 inch, Internal hard drive Cooler Master V8 GTS, CPU cooler Wiring and testing for VAV (Variable Air Velocity) boxes and installation of Intelligent Room Sensors for Sprint, Reston Va. Researched and acquired numerous technical items to help improve the company's efficiency. Assisted in acquiring and connecting an Industrial Wireless Network Bridge to connect the company headquarters network to a new remote office building network."
+        },
+        {
+            "title": "Insider",
+            "company": "Papa Johns",
+            "start_date": "July 2012",
+            "end_date": "January 2014",
+            "description": "Insider responsible for taking customers for orders and resolving problems they had experienced with Papa Johns. Tossed and made pizzas to the customer's specifications. Helped manage a small number of employees to create a friendly and efficient working environment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Computer Science",
+            "school": "Lynchburg College",
+            "year": 2017
+        },
+        {
+            "degree": "Diploma (Engineering/STEM Award)",
+            "school": "Oakton High School",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "BSA Eagle Scout (Boy Scouts of America)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

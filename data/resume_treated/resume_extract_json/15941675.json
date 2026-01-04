@@ -1,0 +1,109 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "California, USA",
+    "summary": "Process Engineering Technician with extensive experience in pharmaceutical process development, manufacturing, cGMP compliance, lean production, and project leadership; skilled in process improvement, data analysis, budgeting, and staff supervision.",
+    "skills": [
+        "biology",
+        "budget",
+        "charts",
+        "oral communication",
+        "cost analysis",
+        "data analysis",
+        "documentation",
+        "equipment operation",
+        "experiments",
+        "graphs",
+        "laser",
+        "materials",
+        "natural gas",
+        "oil",
+        "process qualification (PQ)",
+        "process development",
+        "process engineering",
+        "process improvement",
+        "product development",
+        "producing",
+        "protocols",
+        "quality assurance",
+        "research",
+        "staffing",
+        "supervisory",
+        "technical support",
+        "technician",
+        "time management",
+        "troubleshooting",
+        "validation",
+        "waste reduction"
+    ],
+    "experience": [
+        {
+            "title": "Process Engineering Technician III",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "Present",
+            "description": "Responsible for an engineering/supervisory position to provide technical support in a poultry production industry site, including staffing, equipment cost analysis, budget estimation, establishment of a computer-based archive, and lean production program."
+        },
+        {
+            "title": "Process Engineering Technician III",
+            "company": "Company Name",
+            "start_date": "2005-01",
+            "end_date": "2006-01",
+            "description": "Engineering technician in the process-engineering arm of the Oral Products R&D group at ALZA Corporation; hands-on experience in pharmaceutical unit operations (milling, blending, fluid bed granulation, coating, laser drilling, drying); participated in product development, scale-up experiments, and manufacturing of clinical and registration stability supplies; participated in early formulation development studies as well as late stage large scale pre-validation lots, participated in manufacturing clinical batches with strict cGMP compliance; performed related tasks including ordering materials, setting up equipment, and documentation; trained operators; in-process testing and other characterization testing; authored multiple protocols and reports; completed experimental and clinical batches in the commercial manufacturing facility at Vacaville as part of the satellite R&D group; assignments involved communication with QA, formulation, analytical and pilot plant manufacturing groups."
+        },
+        {
+            "title": "Process Engineer and Manufacturing Staff",
+            "company": "Company Name - City, State",
+            "start_date": "2001-01",
+            "end_date": "2005-01",
+            "description": "Assisted in process development and commercial manufacturing of transdermal products; utilized existing and modified equipment in mixing, coating/laminating and pouching; revised manufacturing documentation such as SOPs and WI."
+        },
+        {
+            "title": "Production Lead / Process Operator",
+            "company": "Company Name",
+            "start_date": "1999-06",
+            "end_date": "1999-10",
+            "description": "Supervised manufacturing group and operated various equipment for producing transdermal contraceptive products in compliance with cGMP; participated in process development and process excellence projects; operated multi-coater/dryer lamination machines; tasks included troubleshooting, training, and ensuring proper documentation; managed shift production planning and time management; participated in process improvement and waste reduction projects."
+        },
+        {
+            "title": "Oil and Natural Gas Research Institute – Drilling/Analysis",
+            "company": "Oil and Natural Gas Research Institute",
+            "start_date": "",
+            "end_date": "",
+            "description": "Worked on drilling and production platforms; analyzed sedimentary layers by shallow coring; prepared technical reports on laboratory results; involved in exploratory drilling site in northern Anatolia; analyzed wastewater and handled hazardous materials, producing graphs and related charts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Petrochemical and Natural Gas Engineering",
+            "school": "Istanbul Technical University",
+            "year": "1999"
+        },
+        {
+            "degree": "Off Shore Drilling and Production (Submersible Mobil platforms)",
+            "school": "Unknown",
+            "year": ""
+        },
+        {
+            "degree": "Various courses in biology and medical science (towards a degree in medicine)",
+            "school": "Bosphorus University",
+            "year": "1994"
+        }
+    ],
+    "certifications": [
+        "Pharmacy Exemptee Certificate (Skill Path)",
+        "Yellow Belt Process Excellence (ALZA Corp.)",
+        "Fundamentals of Pharmaceutical cGMPs (ALZA Corp.)",
+        "HAZMAT Industrial Technician Certificate (ALZA Corp.)",
+        "First Site Supervisor (Skill Path)",
+        "Supervising for Safety (ALZA Corp.)",
+        "Training the Trainer (ALZA Corp.)",
+        "How to Be a Better Communicator (Skill Path)",
+        "ISO 9001 (ALZA Corp.)",
+        "ISO 14001 (ALZA Corp.)",
+        "Excelling at Managing and Supervising (Skill Path)",
+        "ERT Membership (ALZA Corp.)"
+    ],
+    "languages": []
+}

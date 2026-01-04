@@ -1,0 +1,51 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Athletics have always been an integral part of my life in one way or another. After years of using my physical fitness to supplement the successes of my previous career choices, the decision to bring fitness to the forefront of my life is one that would satisfy my desire to not only continue to foster a personal healthy lifestyle but also to allow a greater platform for sharing my discoveries of healthiness with others.",
+    "skills": [
+        "Passionate about learning",
+        "Take pride in sharing accurate information",
+        "Reliable",
+        "Hard working",
+        "Physically fit",
+        "Excellent problem solver",
+        "Approachable"
+    ],
+    "experience": [
+        {
+            "title": "Video Director",
+            "company": "East Coast Video for Enterprise Brands",
+            "start_date": "Jan 2015",
+            "end_date": "Aug 2017",
+            "description": "Developed better interpersonal skills while directing highly accomplished business individuals."
+        },
+        {
+            "title": "Producer/Cinematographer/Lead Editor",
+            "company": "Company Name, City, State",
+            "start_date": "May 2009",
+            "end_date": "Apr 2015",
+            "description": "Demonstrated my drive, work ethic and ability to learn new skills quickly by establishing my own company while keeping it profitable for six years."
+        },
+        {
+            "title": "Manager of Fine Arts",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 2007",
+            "end_date": "May 2009",
+            "description": "Demonstrated ability to multitask and stay focused by managing multiple projects at a time and always finishing before deadlines."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts, Electric Bass",
+            "school": "Berklee College of Music",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        "CPT Certified with NASM",
+        "Adult and Pediatric CPR/AED"
+    ],
+    "languages": []
+}

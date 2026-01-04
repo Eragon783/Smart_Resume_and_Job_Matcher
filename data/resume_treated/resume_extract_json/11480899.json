@@ -1,0 +1,108 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "HR Manager with practical understanding of business needs; expertise in conflict management and employee training; HR Generalist promoting a team-oriented environment; experienced in training, orientation and incentive program creation; senior HR executive translating business strategies into HR actions to drive results; strong strategic planning and people-management skills.",
+    "skills": [
+        "Administrative",
+        "administrative support",
+        "advertising",
+        "benefits",
+        "business plan",
+        "clarify",
+        "Good communication skills",
+        "Interpersonal Skills",
+        "continuous improvement",
+        "decision making",
+        "English",
+        "Film",
+        "hiring",
+        "Human Resource",
+        "HR",
+        "law",
+        "legal compliance",
+        "Managerial",
+        "Managing",
+        "Exchange",
+        "organizational",
+        "payroll",
+        "performance appraisal",
+        "performance management",
+        "personnel",
+        "policies",
+        "processes",
+        "procurement",
+        "progress",
+        "promotion",
+        "speaking",
+        "purchase requisitions",
+        "Purchasing",
+        "Recruitment",
+        "recruiting",
+        "reporting",
+        "scheduling",
+        "strategic",
+        "strategic plans",
+        "Type",
+        "workflow"
+    ],
+    "experience": [
+        {
+            "title": "HR Manager",
+            "company": "Sunningdale Tech (Thailand) Co.,Ltd.",
+            "start_date": "2016-04",
+            "end_date": "Present",
+            "description": "HR Manager at Sunningdale Tech (Thailand) Co.,Ltd. (Tooling and Plastic Injection)."
+        },
+        {
+            "title": "HR & Admin. Manager",
+            "company": "Sekisui S-Lec (Thailand) Co., Ltd. ESIE, Rayong",
+            "start_date": "2013-09",
+            "end_date": "2015-04",
+            "description": "Transformed HR from administrative role to strategic business partner, including working with management level to drive key business and implement performance initiative, conducted extensive analysis of existing HR Organization and Development business plan to update all policies, procedures, services, programs and operations. Direct HR function including recruiting, hiring practices, benefits and compensation. Develop standardized organizational model to clarify authority and responsibilities. Learning and development by providing guidance on learning and development for managers and their teams, as well as setting up training systems, implementing and identifying areas that needed attention and improvement. Ensure legal compliance by monitoring and implementing applicable labor law requirements, conducting investigations, maintaining records, representing the organization at hearings. Manage complex disciplinary/grievance and HR issues with sound decision making. Oversee and manage all administrative activities of the company for efficiency."
+        },
+        {
+            "title": "General Administration Asst. Chief",
+            "company": "Sekisui S-Lec (Thailand) Co., Ltd. ESIE, Rayong",
+            "start_date": "2002-11",
+            "end_date": "2013-09",
+            "description": "Promoted to fulfill a broad range of HR functions, including Purchasing and General Administration to ensure the company's goals. Handled HR operations including recruitment and selection, training and development, compensation and benefits, and purchasing; managed orientation, training needs, performance appraisal data, budgeting, and purchasing. Supervised and managed HR function generalists and procurement, and oversaw general administration activities to maximize efficiency. Coordinated with internal and external requestors; established processes and schedules; resolved issues and ensured timely submissions."
+        },
+        {
+            "title": "General Manager and HR Director",
+            "company": null,
+            "start_date": null,
+            "end_date": null,
+            "description": "As the HR Manager, took responsibility for conceptualizing and spearheading new HR initiatives, development and management of an effective and responsive human resources function, as well as leading the HR team in the full spectrum of HR activities. Formulated and implemented HR policies and procedures aligned with business goals; managed compensation and staff benefits programs including leave management; developed and implemented performance appraisal and performance management systems; managed recruitment and selection; assessed training needs and directed training and development; oversaw payroll administration and statutory reporting; handled grievances and disciplinary matters; planned company events and exit interviews; oversaw administrative activities and optimized processes."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Public Administration",
+            "school": "National Institute of Development Administration (NIDA)",
+            "year": "2012"
+        },
+        {
+            "degree": "Comprehensive English Course under Cultural Exchange Program",
+            "school": "Cultural Exchange Program",
+            "year": "2007"
+        },
+        {
+            "degree": "Bachelor of Education",
+            "school": "Chulalongkorn University",
+            "year": "2002"
+        }
+    ],
+    "certifications": [
+        "PM and APM Certification Course",
+        "ISO/TS 16949",
+        "ISO 14001",
+        "8D Corrective and Preventive Action",
+        "Why Why Analysis Technique",
+        "Safety Supervisor Level"
+    ],
+    "languages": [
+        "English"
+    ]
+}

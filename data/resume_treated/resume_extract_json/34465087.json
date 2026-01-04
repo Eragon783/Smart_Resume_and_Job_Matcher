@@ -1,0 +1,43 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly enthusiastic customer service professional with 15 years client interface experience. Experienced in sales, account management and training. Proven office management and customer service expertise with a track record of driving client satisfaction and revenue.",
+    "skills": [
+        "Cash handling",
+        "Professional and friendly",
+        "Careful and active listener",
+        "Multi-tasking"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "02/2012",
+            "end_date": "Current",
+            "description": "Read stories to children and taught painting, drawing and crafts; used a variety of materials for learning and imaginative play; created infant, toddler, and preschool play areas; monitored children's activities; provided daily reports; incorporated music and art; escorted children on outings; upheld CPR and Georgia regulations; led reading classes; identified early signs of emotional/developmental issues and communicated with parents; maintained developmentally appropriate environment; implemented positive discipline; supervised circle time and activities; encouraged early literacy; managed housekeeping; built a stable, positive environment for 1-5 year olds; 13 years of childcare experience."
+        },
+        {
+            "title": "Office Manager/Teacher",
+            "company": "Company Name",
+            "start_date": "08/1995",
+            "end_date": "11/2008",
+            "description": "Managed a team of 20 professionals; reduced expenses by implementing QuickBooks; standardized employee training leading to higher customer satisfaction; managed customer engagement campaigns; increased sales by 50% through marketing campaigns; increased conversions; managed inbound and outbound marketing; oversaw in-house advertising; created toddler and preschool play areas; maintained daily activity records; billed and managed 100 client accounts per year; planned weekly menus for 50 children; operated a 9,000-square-foot childcare center; trained 25 employees; upheld CPR and Illinois regulated certifications."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "school": "Jones International University",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "CPR and Georgia regulated certifications",
+        "Illinois regulated certifications"
+    ],
+    "languages": [
+        "English"
+    ]
+}

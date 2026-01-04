@@ -1,0 +1,71 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Highly driven Recruiter who maintains a positive attitude under pressure and welcomes the challenge and responsibility of producing results quickly for clients.",
+    "skills": [
+        "Bullhorn",
+        "Boolean Searches",
+        "Google Resume Search",
+        "LinkedIn X-ray search",
+        "The Ladder",
+        "GitHub",
+        "Tech Fetch",
+        "Monster",
+        "Career Builder",
+        "LinkedIn",
+        "Indeed"
+    ],
+    "experience": [
+        {
+            "title": "HR Intern",
+            "company": "",
+            "start_date": "Feb 2016",
+            "end_date": "Current",
+            "description": "General recruitment with a focus on university recruitment: create job postings, and connect with students; conduct telephonic screening. Sourced the candidates through internal Applicant Tracking System. Track key dates and deadlines and maintained specific personnel lists. Posting positions through approved recruitment channels. Screen all applicants based on their qualifications and background. Hiring employees and initiated the new hire paperwork process. Researched and prepared a new termination of employment policy."
+        },
+        {
+            "title": "Human Resources Assistant",
+            "company": "",
+            "start_date": "Feb 2016",
+            "end_date": "Current",
+            "description": "Create job descriptions for new openings. Manage employee information systems. Gathered personnel records from all employees from each department. Conducted job analysis and job evaluations, resulting in quality job specifications."
+        },
+        {
+            "title": "Freelancer",
+            "company": "",
+            "start_date": "Jan 2015",
+            "end_date": "Jan 2016",
+            "description": "I moved to the US in 2015. I was waiting to obtain the necessary employment authorization and permanent residency. I am now a permanent resident of the United States of America."
+        },
+        {
+            "title": "Recruiter",
+            "company": "",
+            "start_date": "Jan 2011",
+            "end_date": "Mar 2013",
+            "description": "Managed end-to-end recruitment (sourcing, screening, reference checks, negotiation and offer generation). Sourced and updated candidates through Applicant Tracking System. Executed rapid talent acquisition strategies e.g., in a span of 6 months, I recruited 122 employees to grow an engineering team from 8 to 130 employees. Hired C-level candidates by engaging passive candidates. Managed relationships with staffing agencies. Researched new sources of recruitment and market intelligence. Led the creation of recruiting plans for all open positions. Developed salary proposals for new recruits. Partnered with local organizations and universities for engagement and interest in jobs offered in their community. Developed and facilitated job recruitment fairs. Promptly corresponded with all applicants and coordinated and conducted interviews. Networked with industry contacts, association memberships and associates."
+        },
+        {
+            "title": "Senior Recruiter",
+            "company": "",
+            "start_date": "Apr 2013",
+            "end_date": "Jan 2015",
+            "description": "Promoted from Recruiter to Senior Recruiter since 04/2013. Responsibilities included end-to-end recruitment (sourcing, screening, reference checks, negotiation and offer generation). Sourced and updated candidates through Applicant Tracking System. Executed rapid talent acquisition strategies; grew an engineering team from 8 to 130 employees. Hired C-level candidates by engaging passive candidates. Managed relationships with staffing agencies. Researched new sources of recruitment and market intelligence. Led the creation of recruiting plans for all open positions. Developed salary proposals for new recruits. Partnered with local organizations and universities for engagement and interest in jobs offered in their community. Developed and facilitated job recruitment fairs. Promptly corresponded with all applicants and coordinated and conducted interviews. Networked with industry contacts, association memberships and associates."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration (MBA), Human Resources",
+            "school": "University of Washington State",
+            "year": "2011"
+        },
+        {
+            "degree": "Bachelor of Science (B.Sc), Biotechnology",
+            "school": "Mount Carmel College, India",
+            "year": "2009"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

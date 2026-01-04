@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "HR SPECIALIST Summary An Human Resources Specialist with over 9 years in recruitment and federal employment processes. An energetic, innovative, out the box thinker who is a self-starter with excellent analytical, organizational and project management skills. As an HR Recruiter who communicates and collaborates effectively with all levels of personnel I rely on excellent interpersonal skills, outstanding customer service and a solid expertise in human resources management. I possess an extensive background in HR recruitment and staffing affairs, including experience in position management, HR Internship Program development and management, Pathways, Presidential Management Fellows, employee onboarding, orientation, HR policies, regulations and legal compliance. Demonstrated success in managing HR programs, developing teambuilding programs, and writing standard operating procedures, hiring authorities and policies, job descriptions and management reports.",
+    "skills": [
+        "HR Advisory Services",
+        "Strategic Recruitment Planning",
+        "HR Policies & Procedures",
+        "Staff Recruitment & Retention",
+        "HR Program/Project Management",
+        "Orientation & Onboarding",
+        "Performance Management",
+        "Delegated Examining",
+        "Classification and Position Management",
+        "Special Emphasis Programs",
+        "MS Office (Word, Excel, PowerPoint, Access, Outlook)",
+        "Excellent interpersonal and coaching skills",
+        "Recruiting and selection techniques",
+        "Proficient communicator",
+        "Talent assessments",
+        "Leadership Development",
+        "Social Media Management and Recruitment",
+        "Research and Development",
+        "Project Management",
+        "Training and Development",
+        "Shadow Day Program",
+        "Internship Programs",
+        "Pathways Programs",
+        "Recent Graduates",
+        "Presidential Management Fellows",
+        "Resume Writing",
+        "USAJOBS.gov",
+        "Interviewing skills",
+        "Marketing and Branding",
+        "Agency Branding"
+    ],
+    "experience": [
+        {
+            "title": "HR Specialist",
+            "company": "Company Name",
+            "start_date": "2016-12",
+            "end_date": "Present",
+            "description": "Provide HR advisory services within the Office of Inspector General to mid-level and senior level managers. Serve as subject matter expert within the Talent and Acquisitions team regarding hiring authorities and flexibilities within Merit Staffing Procedures and Delegated Examining. Consult with HR managers and hiring officials regarding the use of Pathways Programs such as internships, Recent Graduates and Presidential Management Fellows. Provide advisory services related to Staffing and Recruitment, Classifications, Position Management, Schedule A, Special Emphasis Programs and Selective Placement Programs. Lead onboarding programs for Supervisors, Training and Development, Leadership Development, Social Media Recruitment and New Employee Orientation. Develop agency-wide hiring guide compliant with OPM regulations and Merit Staffing Principles. Represent the agency at Executive Resource Committee meetings. Collaborate on process improvements. Lead presentations and briefings."
+        },
+        {
+            "title": "HR Specialist",
+            "company": "Company Name",
+            "start_date": "2013-09",
+            "end_date": "2016-12",
+            "description": "Marketing- Devised marketing and branding initiatives to increase agency advertisement and visibility among colleges and universities as 'The Employer of Choice' for internships and recent graduate programs. Facilitated information sessions on resume writing, internship programs, USAJobs.gov and interviewing skills. Devised recruitment strategies and tactical plans. Researched, developed and managed recruiting and internship programs. Attended recruitment events to market and brand the agency. Executed non-paid internship program FY-15; established a non-paid internship with onboarding of 20+ participants. Created and presented managers with briefings and presentations regarding internship program, Handbooks for Student Hires, Advertisements and other communications. Coordinated testing and reporting. Developed database to track marketing materials. Launched Shadow Day Program; expanded participation and received recognition."
+        },
+        {
+            "title": "HR Assistant",
+            "company": "Company Name",
+            "start_date": "2011-10",
+            "end_date": "2013-09",
+            "description": "Provide effective and timely customer and technical support in delegated examining and staffing processes. Drafted job analysis and job announcements for Wage Grade and General Schedule positions. Pre-audited delegated examining case files. Advised Senior HR Specialists and hiring managers on policies and flexibilities within delegated examining and CFR."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts (BA) in Broadcast and Print Journalism",
+            "school": "St. Augustine's University",
+            "year": "1998"
+        },
+        {
+            "degree": "Master of Business Administration (MBA) in Human Resources Management",
+            "school": "St. Leo University",
+            "year": "2016"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

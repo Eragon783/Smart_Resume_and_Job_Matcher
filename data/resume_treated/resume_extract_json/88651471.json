@@ -1,0 +1,101 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [
+        "Microsoft Office 2010",
+        "Microsoft Office 2013",
+        "Excel",
+        "PowerPoint",
+        "Word",
+        "Access",
+        "Outlook",
+        "SharePoint 2010",
+        "SharePoint 2013",
+        "SharePoint",
+        "Business Intelligence",
+        "Federal Acquisition Regulations (FAR)",
+        "Cost Accounting Standards (CAS)",
+        "Verbal communication",
+        "Written communication",
+        "Analytical thinking",
+        "Critical thinking",
+        "Problem solving",
+        "Team collaboration",
+        "Flexibility",
+        "Travel",
+        "Cost estimation",
+        "Schedule management",
+        "Basis of Estimates (BOE)",
+        "Forecasting",
+        "RFIs",
+        "USG negotiations",
+        "Proposal development",
+        "Audit readiness",
+        "Document control",
+        "Training",
+        "Process improvement",
+        "Reporting",
+        "Database management",
+        "Security rights",
+        "Oracle",
+        "Infomaker",
+        "PCM",
+        "Cost savings analysis",
+        "Pricing",
+        "Records management",
+        "Inventory management",
+        "Contract negotiation",
+        "PMO",
+        "Six Sigma"
+    ],
+    "experience": [
+        {
+            "title": "System Administrator (Oracle Database)",
+            "company": "Company Name",
+            "start_date": "January 2009",
+            "end_date": "Present",
+            "description": "Customization of database to fulfill project requirements; Ad hoc reporting using Infomaker 10.5 for various departments; Develop, implemented and maintained PCM user groups and security rights; Developed and implemented training process for new hires and database migration tailored to individual end user groups; Developed report designed to analyze and monitor day to day contractual directions from customer; Validated manufacturer specifications on equipment and materials; Utilized FedLog and WebFLIS for parts research; Performed pricing and cost savings analysis for each part record; Database and records management; Developed and implemented training plan for new employees"
+        },
+        {
+            "title": "Budget Analyst/Research Administrator",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "January 2009",
+            "description": "Active in project contract negotiation as well as management; Managed a $20M annual research budget; Analyzed required labor, material and equipment resources; Ability to prepare estimates for multiple research projects; Developed and maintained annual, capital & strategic long term budgets supporting 3 departments and 12 research teams; Developed SOPs for internal project tracking processes; Tracked status of 200+ research projects from proposal to completion; Streamlined monthly, quarterly and annual progress reports and milestones to Toyota Motor Company through database and secure blackboard system; Created database to produce monthly, quarterly and annual progress and budget reports and transmit directly to TMC through secure blackboard system; Developed databases for tool room inventory control and digital reference library"
+        },
+        {
+            "title": "Consultant",
+            "company": "Marketing & Finance",
+            "start_date": "January 2005",
+            "end_date": "January 2007",
+            "description": "Contracted to develop curricula for an education provider for participating primary and secondary schools nationwide; Developed a client tracking database for local architectural firm; Created and maintained financial software and client records for PM-Group, a financial services provider; Created marketing collateral for small businesses and independent consultants; Developed marketing and advertising campaign for graphics company; Provided marketing consultation for a clinical trials research organization"
+        },
+        {
+            "title": "Public Relations and Marketing Manager",
+            "company": "Company Name",
+            "start_date": "January 2002",
+            "end_date": "January 2005",
+            "description": "Compiled sales reports on a monthly, quarterly and annual basis; Designed marketing and sales business systems which resulted in a sales increase of 125%; Designed and administered sales and inventory database for product and sales analysis; Project lead for development of virtual training center for transportation safety; Created advertising collateral for publication"
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "school": "University of Phoenix",
+            "year": 2006
+        },
+        {
+            "degree": "BS in Business Management",
+            "school": "University of Phoenix",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "PMP",
+        "CAS"
+    ],
+    "languages": []
+}

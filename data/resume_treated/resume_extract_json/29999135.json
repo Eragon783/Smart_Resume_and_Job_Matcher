@@ -1,0 +1,54 @@
+{
+    "name": "Tam Bui",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Skilled accountant with experience in the manufacturing industry. Proficient in AR, AP, reconciliations, GL accounts, and month-end closing; familiar with accounting software such as DBA and Imaginary, Mainframe (AS400). Strong MS Word, Excel, and Outlook skills; able to multi-task in a high-paced, deadline-driven environment.",
+    "skills": [
+        "Self-motivated",
+        "Budgeting and finance",
+        "Strong verbal communication",
+        "Conflict resolution",
+        "Powerful negotiator",
+        "Extremely organized"
+    ],
+    "experience": [
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "Jan 2005",
+            "end_date": "Current",
+            "description": "Maintain general ledger; prepare journal entries; code invoices; accounts analysis and reconciliation; close books monthly; balance sheet and income statement reconciliations; AR and AP processes; file 1096 and 1099 forms; bank reconciliations; cash flow forecasting; prepare monthly financial reports; payroll timecards; maintain customers/vendors."
+        },
+        {
+            "title": "Sr. Accountant",
+            "company": "Company Name",
+            "start_date": "Jun 2017",
+            "end_date": "Current",
+            "description": "Validate and process Warranty/Royalty claim accounts; update inventory standard cost; reconcile travel expense reports; prepare month-end cutoff tests; interact with internal and external clients, vendors, partners; apply best practices in credit and collections; reconcile AR/inter-company sales; prepare journal entries for month end."
+        },
+        {
+            "title": "Sr. Accountant",
+            "company": "Company Name",
+            "start_date": "May 2005",
+            "end_date": "Jun 2017",
+            "description": "Maintain general ledger; AR/AP; reconcile accounts; file 1096/1099; bank reconciliations; cash flow forecasting; prepare monthly financial statements; payroll timecards; maintain customers/vendors."
+        },
+        {
+            "title": "Controller Assistant",
+            "company": "Company Name",
+            "start_date": "Jan 1999",
+            "end_date": "Jan 2004",
+            "description": "Worked with the controller to prepare monthly and yearly financial statements; assisted in Accounts Payable, Accounts Receivable, Prepaid accounts; bank reconciliation; cash collection."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration in Accounting",
+            "school": "Western Michigan University",
+            "year": "1999"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

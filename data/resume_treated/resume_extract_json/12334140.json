@@ -1,0 +1,94 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Conclude your application letter by thanking the employer for considering you for the position. Include information on how you will follow-up.",
+    "skills": [
+        "Accounting",
+        "administrative",
+        "agency",
+        "Basic Programming",
+        "Bookkeeping",
+        "Business Communication",
+        "hardware",
+        "Finance",
+        "fundraising",
+        "help desk support",
+        "help desk",
+        "IBM",
+        "IBM Software",
+        "inventory",
+        "letters",
+        "Lotus 2.1",
+        "Macros",
+        "Marketing",
+        "mail",
+        "Office",
+        "MS-DOS",
+        "Network",
+        "networking",
+        "Novell Netware",
+        "Novell Netware 4.11",
+        "page",
+        "Programming",
+        "express",
+        "Shorthand",
+        "technical training",
+        "telephone",
+        "troubleshooting",
+        "Typing",
+        "Word Processing",
+        "WordPerfect 5.1",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Production Associate",
+            "company": "Company Name",
+            "start_date": "2006-03",
+            "end_date": "Current",
+            "description": "Experience Production Associate responsibilities include evening operations in Student Center and other facilities, managing registration, solving customer problems, risk management and emergencies, enforcement of department policies. Includes hiring, training, and management of staff; coordinating statistics and inventory; supervision of student staff; strong interpersonal skills."
+        },
+        {
+            "title": "Information Technology Technician",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2002-10",
+            "description": "Provided computer help desk support via telephone communications with end-users. Performed diagnostics and troubleshooting of system issues, documented help desk tickets/resolutions, and maintained equipment inventory lists."
+        },
+        {
+            "title": "Information Technology Technician",
+            "company": "Company Name",
+            "start_date": "1996-02",
+            "end_date": "2000-01",
+            "description": "Provided computer help desk support and technical training on hardware/software to end users. Documented help desk tickets/resolutions, and provided overall assistance in daily administration of a Novell Netware 4.11 Network. Performed set-up, break-down, and transport of agency equipment on an as-needed basis."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S.B.A : Business Administration/Office Administration",
+            "school": "Shippensburg University of Pennsylvania",
+            "year": 1993
+        },
+        {
+            "degree": "A.A",
+            "school": "John L. Grove College of Business",
+            "year": 1991
+        },
+        {
+            "degree": "Academics/Business",
+            "school": "Harrisburg Area Community College",
+            "year": 1988
+        },
+        {
+            "degree": "Courses in Intranetware 4.11 Administration and 4.1a Advanced Administration",
+            "school": "KnowledgeSoft, Inc.",
+            "year": 1997
+        }
+    ],
+    "certifications": [
+        "NTSA defensive driving certification"
+    ],
+    "languages": []
+}

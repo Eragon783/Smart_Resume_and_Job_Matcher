@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [
+        "Microsoft Office Suite",
+        "Factset",
+        "Ipreo",
+        "CRM",
+        "database design",
+        "derivatives",
+        "equity valuation",
+        "Investment Strategy",
+        "coding",
+        "Programming",
+        "proposals",
+        "reporting",
+        "research",
+        "research reports",
+        "Sales",
+        "strategy",
+        "tax",
+        "valuation",
+        "verbal communication",
+        "written communication"
+    ],
+    "experience": [
+        {
+            "title": "Management Consultant",
+            "company": "Company Name, City, State",
+            "start_date": "07/2013",
+            "end_date": "12/2014",
+            "description": "Utilized management abilities and knowledge of coding to oversee a team of 10 software engineers tasked with designing a back office database for a multi-billion dollar client. Managed cross-functional teams in a high demand environment to complete a global strategy project under strenuous deadlines. Drafted proposals for client engagements highlighting the expectations of service, engagement pricing and associated costs. Evaluated CCAR vendor models and developed proprietary probability of default models for a multi-billion dollar mortgage portfolio. Created valuation models designed to value both public and private equity for tax reporting purposes."
+        },
+        {
+            "title": "Investment Banking Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "11/2010",
+            "end_date": "02/2011",
+            "description": "Assisted lead associate and vice president in facilitating merger and acquisition transactions in the life science industry by reviewing and analyzing pro forma financial statements and updating models accordingly. Created processes around the sales cycle to monitor and improve sales performance while keeping a more precise account of prior prospecting efforts. Maintained the CRM system and streamlined its use through extensive, voluntary training making the team more efficient and impactful."
+        },
+        {
+            "title": "Financial Advisor",
+            "company": "Company Name, City, State",
+            "start_date": "11/2008",
+            "end_date": "11/2010",
+            "description": "Evaluated the financial plans of current and prospective clients and provided recommendations that would reasonably ensure they meet their future financial goals. Assembled a team of estate planners, investment specialists and CPAs providing a comprehensive planning board for clientele."
+        },
+        {
+            "title": "Institutional Equity Sales",
+            "company": "Company Name, City, State",
+            "start_date": "12/2014",
+            "end_date": "Present",
+            "description": "Utilized strong written and verbal communication skills to distill complex financial topics into salient points for clientele. Evaluated research reports and valuation models to gain a holistic understanding of the research product. Developed an interactive, online database through R programming to hold 13F and trade data which eliminated redundancies in the desk's daily processes. Collaborated across multiple segments of the firm including research, syndicate, corporate access and derivatives personnel. Managed multiple client requests in a fast pace environment by staying organized and keeping detailed accounts of tasks."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "school": "Carnegie Mellon University, Tepper School of Business",
+            "year": 2013
+        },
+        {
+            "degree": "B.S. in Finance",
+            "school": "University of South Florida",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        "Chartered Financial Analyst",
+        "Series 7",
+        "Series 63"
+    ],
+    "languages": []
+}

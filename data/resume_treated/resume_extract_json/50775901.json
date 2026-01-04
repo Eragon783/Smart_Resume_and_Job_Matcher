@@ -1,0 +1,111 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Student with a B.S. in Interdisciplinary Social Science (minor in Conflict Analysis and Trauma Studies) from Kansas State University (2015). Over 8.5 years in the US Army with extensive experience in executive administrative duties, training and development, personnel information management, counseling and mentorship, conflict resolution, general office operations, and travel coordination. Proven ability to develop training modules and coordinate ceremonies; proficient in Microsoft Office; strong interpersonal and organizational skills.",
+    "skills": [
+        "Personnel Management",
+        "Personnel Information Management",
+        "Microsoft Outlook",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "PowerPoint",
+        "Employee Relations",
+        "General Office Operations",
+        "Orientations/Ceremonies Training and Development",
+        "Performance Management",
+        "Typing 45 wpm",
+        "Administrative",
+        "Army",
+        "Interpersonal Skills",
+        "Criminal Justice",
+        "Database",
+        "Detail-oriented",
+        "Instructor",
+        "Lesson Planning",
+        "Navigation",
+        "Excellent People Skills",
+        "Psychology",
+        "Research",
+        "Risk Management",
+        "Scanning",
+        "Switchboard",
+        "Telephone",
+        "Trauma",
+        "Travel Arrangements",
+        "Wiring"
+    ],
+    "experience": [
+        {
+            "title": "Student",
+            "company": "City , State",
+            "start_date": "June 2013",
+            "end_date": "Current",
+            "description": "Diligently maintained living environment for three individuals and two pets while completing a Bachelors of Science through distance learning; provided three nutritional meals daily; responsible for the care and well-being of one child."
+        },
+        {
+            "title": "Executive Administrative Assistant",
+            "company": "Company Name - City , State",
+            "start_date": "September 2012",
+            "end_date": "April 2013",
+            "description": "Essential member of the Army communications maintenance team; performed field and sustainment maintenance on avionic navigation flight control systems; maintained, tested and repaired communication equipment; installed and repaired circuits and wiring; calibrated and aligned equipment; tested and isolated faulty assemblies; replaced parts and interconnect components on a semiautomatic telephone switchboard."
+        },
+        {
+            "title": "Executive Administrative Assistant Senior Commander",
+            "company": "City , State",
+            "start_date": "September 2011",
+            "end_date": "September 2012",
+            "description": "Coordinated and scheduled training visits, briefings, appointments, correspondences and travel arrangements for the 1st Infantry Division Deputy Commanding General/Senior Commander. Demonstrated strong people skills and ability to multi-task in fast-paced environments; managed communications and scheduling."
+        },
+        {
+            "title": "S3 Operations Noncommissioned Officer",
+            "company": "Brigade / 1st Infantry Division",
+            "start_date": "September 2011",
+            "end_date": "September 2012",
+            "description": "Supervised, trained and led up to 5 soldiers daily; created and maintained brigade operation orders; delegated tasks to subordinate units; maintained flight logs and individual flight records."
+        },
+        {
+            "title": "Executive Administrative Assistant",
+            "company": "1st Infantry Division - Fort Riley, KS",
+            "start_date": "January 2011",
+            "end_date": "September 2011",
+            "description": "Executive Administrative Assistant to the Division Command Sergeant Major; facilitated flow of information to/from the Division Command Sergeant Major, subordinate Command Sergeants Major and Sergeants Major; coordinated and scheduled training visits, briefings, appointments, correspondences and travel arrangements; oversaw over 15 boards and 27 award ceremonies; provided oversight to evaluation reports, awards, and administrative matters; supervised and mentored 2 Soldiers."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name - City , State",
+            "start_date": "June 2010",
+            "end_date": "December 2010",
+            "description": "Administrative assistant for brigade command group; instructor for brigade junior leader course; mentored and developed 54 students; developed a risk management lesson adopted as brigade standard; coordinated over 25 air and ground travel arrangements for the Brigade Command Sergeant Major."
+        },
+        {
+            "title": "Orderly Room Clerk",
+            "company": "Company Name - City , State",
+            "start_date": "January 2009",
+            "end_date": "June 2010",
+            "description": "Developed and utilized a company database to efficiently maintain personnel records for 320 personnel and family readiness rosters; provided training, health, welfare, and technical guidance to personnel."
+        },
+        {
+            "title": "Cashier/Copy Center",
+            "company": "Company Name - City , State",
+            "start_date": "May 2003",
+            "end_date": "July 2004",
+            "description": "Maintained stock of resale items; operated pricing and electronic checkout systems; assisted customers; counted cash and prepared accountability reports; managed self-checkout registers and cash handling."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Interdisciplinary Social Science (Minor in Conflict Analysis and Trauma Studies)",
+            "school": "Kansas State University",
+            "year": 2015
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "North Garland High School",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

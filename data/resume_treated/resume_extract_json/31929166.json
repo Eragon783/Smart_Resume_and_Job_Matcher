@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Five years of experience in Communications & Social Media, with a strong visual sense and creativity, excellent writing skills, and the ability to organize and manage teams and projects. Familiar and skilled with MS Office and Adobe Creative Suite 6; able to learn new programs.",
+    "skills": [
+        "Adobe Creative Suite 6",
+        "Microsoft Office",
+        "Windows applications",
+        "Multimedia production",
+        "Public relations",
+        "Media relations",
+        "Social media managing",
+        "Exceptional listener",
+        "Analytical/Research skill",
+        "Computer/Technical literacy",
+        "Flexibility/Adaptability/Managing multiple priorities",
+        "Leadership/Management skills",
+        "Multicultural Sensitivity/Awareness",
+        "Problem-Solving",
+        "Reasoning",
+        "Creativity",
+        "Teamwork"
+    ],
+    "experience": [
+        {
+            "title": "Communications Specialist",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "2016-05",
+            "description": "Created and managed several different social media outlets; including Facebook, Flickr, Google Plus, Hootsuite, Instagram, Pinterest and Twitter. Successfully grew the company's online media presence by more than %600. Organized, presented, and initiated a PR plan for Kind 10K. Filmed, edited, and uploaded several videos. Led groups for food processing, composting, and packaging."
+        },
+        {
+            "title": "Multimedia Production Coordinator",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2016-01",
+            "description": "Multimedia production and slideshow utilizing Mac and Windows applications. Configure pictures/videos for proper slideshow presentation. In depth knowledge of Microsoft Office and Microsoft Office for Mac. Created several projects using PowerPoint and Excel applications. Design, built, maintain, and setup server with multi-operating system. Provide service and support to staff/students with computer issues during production events."
+        },
+        {
+            "title": "Graphics & Photojournalism",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2015-12",
+            "description": "Managed and worked with Adobe Creative Suite 6; including Adobe Bridge, Dreamweaver, Illustrator, InDesign, Photoshop, and Premiere Pro. Created several designs for Montreat College, as well as a portfolio of photojournalistic photos."
+        },
+        {
+            "title": "Digital Media Production & Film Production",
+            "company": "Company Name",
+            "start_date": "2013-08",
+            "end_date": "2016-01",
+            "description": "Filmed several short movies as well as how to correctly film shots. Learned how to storyboard, setup actors, scripts, and shot locations. Have an understanding of iMovie, Final Cut Pro, Windows Movie Maker. Created several recruitment videos for high school football players."
+        },
+        {
+            "title": "Editor of Whetstone (College Newspaper)",
+            "company": "Company Name",
+            "start_date": "2013-04",
+            "end_date": "2014-08",
+            "description": "Managed a team of 4 to 7 reporters, 2 to 3 copy editors, and layout designer. Worked closely with copy editors and layout designer to resolve layout issues, and grammatical errors. Planned, coordinated, and implemented meetings and due dates. Personally wrote several articles; including sports, business, and breaking news. Collaborated with the President of the college, SGA (Student Government Association), and other colleges. Setup and manage social media accounts; including WordPress, Twitter, Facebook, and Instagram."
+        },
+        {
+            "title": "Business Manager of Whetstone (College Newspaper)",
+            "company": "Company Name",
+            "start_date": "2012-08",
+            "end_date": "2014-12",
+            "description": "Achieved numerous advertisements for Whetstone. Money managed and took care of receipts and bills."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Communication Journalism",
+            "school": "Montreat College",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

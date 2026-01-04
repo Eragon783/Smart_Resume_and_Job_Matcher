@@ -1,0 +1,95 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Consultant/System Engineer with 6 years in HealthCare IT. Primary focus on Linux with recent emphasis on Regulatory Consulting and Transition of Care. Experienced in training and development of associates along with documentation creation and process automation.",
+    "skills": [
+        "AIX",
+        "automation",
+        "change management",
+        "Citrix",
+        "Consulting",
+        "client",
+        "clients",
+        "database",
+        "delivery",
+        "designing",
+        "documentation",
+        "FTP",
+        "HP-UX",
+        "HR",
+        "leadership",
+        "Linux",
+        "macros",
+        "managing",
+        "meetings",
+        "access",
+        "Microsoft Access",
+        "Works",
+        "PeopleSoft",
+        "policies",
+        "processes",
+        "quality assurance",
+        "SSH",
+        "Servers",
+        "scripts",
+        "spreadsheets",
+        "SQL",
+        "troubleshooting",
+        "VPN",
+        "VMS",
+        "Websphere",
+        "workflow",
+        "workshops"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2015-08",
+            "end_date": "Present",
+            "description": "Provides leadership and oversight to engagements to ensure timely results and client value. Allocates resources across the Consulting Organization, aligns projects with client expectations and Meaningful Use measures, conducts on-site workshops, and manages provider/hospital data using DiscernVisualDeveloper, HNAuser, and Bedrock. Built hundreds of rules and pools for Direct and Transition of Care, created build guides and training collateral, and collaborated with an internal automation team to streamline processes. Works with HIM staff to maintain systems during disengagement."
+        },
+        {
+            "title": "System Engineer",
+            "company": "Health Sentry",
+            "start_date": "2013-02",
+            "end_date": "2015-08",
+            "description": "Backend support on Linux production servers including data corruption investigation, SSH key creation, data extraction from client databases, disk space management, and troubleshooting. Front-end work maintaining OpsJobs, teaching ongoing maintenance to clients, and delivering status reports. Created QA macros/spreadsheets, ran numerous SQL queries, and managed FTP, PHINMS, and VPN connections. Used custom CCL scripts to modify HL7 message formats and produced workflow documentation. Adhered to client access, notification, and change-management policies; collaborated with other engineers to resolve data extraction issues."
+        },
+        {
+            "title": "System Engineer",
+            "company": "Company Name",
+            "start_date": "2012-06",
+            "end_date": "2013-02",
+            "description": "Assisted HR teams with designing and implementing solutions. Rebuilt a Microsoft Access tool for the Events Planning team. Documented implemented changes and assisted with PeopleSoft, Data Archive Manager, and Taleo resume parsing projects. Conducted fact-finding meetings and provided regular status updates with timelines."
+        },
+        {
+            "title": "System Engineer - Project Implementation",
+            "company": "CernerWorks",
+            "start_date": "2010-05",
+            "end_date": "2012-06",
+            "description": "Backend support for servers on Linux, AIX, HP-UX, and occasional VMS. Managed service pack installations, performance/reliability issue analysis, and domain replication/refreshes from production to non-production environments. Handled a queue of service requests, collaborated with internal architects on complex issues, and managed end-user access and server provisioning. Built servers (Websphere, RRD, Chart, Citrix), coordinated environment testing and service pack installs, and completed numerous service package installations for non-production clients and testing partners. Provided long-term support and daily issue resolution."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA: Information Systems",
+            "school": "Park University",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelors of Science: Business Administration/Management",
+            "school": "Park University",
+            "year": 2015
+        },
+        {
+            "degree": "Associates of Applied Science: Computer Networking",
+            "school": "ITT-Technical Institute",
+            "year": 2010
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

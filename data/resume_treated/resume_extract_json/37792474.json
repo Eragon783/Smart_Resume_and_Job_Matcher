@@ -1,0 +1,95 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "26 years of experience in the Engineering and Construction fields with 8 years of project management. Sustainable design experience from conceptualization to building occupancy. Diverse client profile including Medical, Research & Development, Commercial, Educational and Industrial. A competent Project Engineer with strong communication, organisation and co-ordination skills; proven track record of delivering projects on time and within budget while ensuring safety and quality throughout the life cycle.",
+    "skills": [
+        "budgets",
+        "C",
+        "CONVERSION",
+        "cost analysis",
+        "Council",
+        "client",
+        "Leadership",
+        "mechanical",
+        "office",
+        "personnel",
+        "Platinum",
+        "Project Management",
+        "Proposals",
+        "Proposal",
+        "Renovation",
+        "RFP",
+        "Sales"
+    ],
+    "experience": [
+        {
+            "title": "Sales Engineer",
+            "company": "Company Name",
+            "start_date": "Feb 2014",
+            "end_date": "Present",
+            "description": "Responsible for sales engineering including ensuring H&S compliance, resolving complex technical issues, assessing financial feasibility of budget items and alternatives; development of proposals and estimates for conceptual designs, project schedules and budgets; manage construction from mobilization to owner sign-off; conduct field observations, material/equipment acquisition and personnel allocation; ensure engineering work complies with specifications, laws and contractual requirements; oversee safety, operability and maintainability; manage projects from conception to completion; provide technical support to project teams; oversee contract review and execution; manage budgets and cost control; maintain post-completion documentation; produce test plans and reports; procure materials and services; evaluate tenders; liaise with clients to ensure design and manufacture to budgets and timeframes."
+        },
+        {
+            "title": "Project Manager/Construction Manager",
+            "company": "Company Name",
+            "start_date": "Jan 2009",
+            "end_date": "Jan 2014",
+            "description": "Led and organized client conceptual development of construction projects; developed project scope and specifications for mechanical system replacements; mentored staff and managed overall project execution; developed RFPs, schedules and budgets; oversaw installation to completion. Notable accomplishments: project value delivered on time; Enon Field Conversion & Water Damage Remediation; Grace Baptist Church Sanctuary A/C & Boiler Plant."
+        },
+        {
+            "title": "Project Manager/Project Engineer",
+            "company": "Company Name",
+            "start_date": "Jan 2002",
+            "end_date": "Jan 2009",
+            "description": "Developed and managed project scopes, schedules and budgets; mentored staff and managed overall project execution; conducted interdisciplinary coordination with architects, consultants and vendors; developed energy audits, master planning and designed mechanical systems including preliminary and working drawings and specifications for sustainable projects; responsible for work assignments and man-hour expenditures; primary interface with client, contractors, architects, and vendors."
+        },
+        {
+            "title": "Project Manager & Project Engineer",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": null,
+            "description": "Achieved LEED Platinum certification from the Green Building Council for an office renovation; performed energy cost analysis of geothermal system for the Friends Center Renovation Project."
+        },
+        {
+            "title": "Project Engineer",
+            "company": "Company Name",
+            "start_date": "Jan 2001",
+            "end_date": "Jan 2002",
+            "description": "Provided project engineering support including coordination with design teams, preparation of mechanical drawings and specifications for sustainable projects; contributed to energy audits and coordination with contractors and vendors."
+        },
+        {
+            "title": "Project Engineer",
+            "company": "Company Name",
+            "start_date": "Jan 1996",
+            "end_date": "Jan 2001",
+            "description": "Supported mechanical system design and coordination; contributed to energy audits, master planning and development of drawings and specifications; collaborated with architects and consultants to ensure project requirements."
+        },
+        {
+            "title": "Project Engineer",
+            "company": "Company Name",
+            "start_date": "Jan 1994",
+            "end_date": "Jan 1996",
+            "description": "Assisted in engineering project design and coordination; contributed to development of mechanical drawings and project documentation."
+        },
+        {
+            "title": "Project Designer/Shop Drawing Clerk",
+            "company": "Company Name",
+            "start_date": "Jan 1990",
+            "end_date": "Jan 1994",
+            "description": "Created shop drawings and supported project design activities; collaborated with engineering team to produce working drawings and specifications."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "school": "Lehigh University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "LEED Platinum (Leadership in Energy & Environmental Design)"
+    ],
+    "languages": []
+}

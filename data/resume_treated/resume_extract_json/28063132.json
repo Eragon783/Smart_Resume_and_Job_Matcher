@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Columbus, Ohio, USA",
+    "summary": "Customer service professional with a friendly, outgoing attitude and strong analytical skills. Adept at resolving complex issues quickly, delivering effective support, and consistently meeting performance standards.",
+    "skills": [
+        "Excellent analytical skills",
+        "Strong verbal communication",
+        "Computer proficient",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "Issue resolution",
+        "Attention to detail",
+        "Excellent written and verbal communication",
+        "Experience in a high-volume, high-stress work environment",
+        "Fluent in English and Twi",
+        "Energetic and organized",
+        "Salesforce.com",
+        "ServiceNow",
+        "Photoshop",
+        "Ticketing systems"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 2016",
+            "end_date": "Mar 2016",
+            "description": "Educate children, take care of children, maintain a healthy learning environment."
+        },
+        {
+            "title": "Nursing Aide",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2015",
+            "end_date": "Jan 2016",
+            "description": "Provide basic care for patient, accompany patient when leaving facility, maintain healthy living environment."
+        },
+        {
+            "title": "Front Desk Receptionist",
+            "company": "Company Name, City, State",
+            "start_date": "Jun 2015",
+            "end_date": "Sep 2015",
+            "description": "Answer phones, transfer support, refer difficult issues to upper management while maintaining positive rapport with customers. Assist customers with online billing and account issues; book appointments and enroll clients."
+        },
+        {
+            "title": "Cook",
+            "company": "Company Name, City, State",
+            "start_date": "Apr 2013",
+            "end_date": "Aug 2014",
+            "description": "Train new employees, take orders, pass orders to customers, prepare hot and cold food items, stock deliveries, maintain work area (cleaning)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in African American Studies",
+            "school": "The Ohio State University",
+            "year": "2017"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Twi"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Lead teacher/site director with 25 years in early childhood education. Patient, adaptable educator who collaborates effectively with children, families, and staff; experienced in curriculum development, technology integration, and program administration.",
+    "skills": [
+        "Classroom management",
+        "Creation of forms for data",
+        "Payroll",
+        "Schedule activities and field trips",
+        "Maintain tuition data and receipts",
+        "Knowledge of Excel/Word/PowerPoint",
+        "Work within a budget",
+        "Snack/Meal Planning",
+        "Team building",
+        "Data documentation and assessments (ISTAR-KR, GOLD)",
+        "Liaison between families and administration",
+        "Parent/family meetings"
+    ],
+    "experience": [
+        {
+            "title": "Lead Teacher",
+            "company": "Company Name - City , State",
+            "start_date": "10/1992",
+            "end_date": "Current",
+            "description": "Adopted technological advancements that engaged and empowered children. Motivated teaching staff to continually improve strategies and maximize student learning. Planned and prepared activities for preschool students. Provided an open and loving environment where children could express themselves and direct their own learning. Modified the general education curriculum for special-needs students based upon a variety of instructional techniques and technologies. Developed activities and integrated technology to diversify instruction. Planned, implemented, monitored, and assessed a classroom instructional program which was consistent with Paths to Quality and NAEYC Accreditation. Provided key support for Ivy Tech practicum students. Created new lesson plans based on course objectives. Met with families on a daily basis. Parent/family meetings offered/home visits scheduled to discuss student developmental progress or address issues. Liaison between families and administration. Completed documentation on individual children as well as administered assessments for each child and tracked results - ISTAR-KR, GOLD. Teaching Strategies Certified; CPR/First Aid instructor; Red Cross and ProTrainings. Present. Certified to teach/skill test CPR/First Aid to large and small groups."
+        },
+        {
+            "title": "Lead Teacher",
+            "company": "Company Name - City , State",
+            "start_date": "10/1992",
+            "end_date": "Current",
+            "description": "Completed documentation on individual children and teachers for recordkeeping - Gold Teaching Strategies. Administered assessments for each child and tracked results - ISTAR-KR. Adopted technological advancements that engaged and empowered children. Motivated teaching staff to continually improve strategies and maximize student learning. Planned and prepared activities for preschool students. Provided an open and loving environment where children could express themselves and direct their own learning. Modified the general education curriculum for special-needs students based upon a variety of instructional techniques and technologies. Developed activities and integrated technology to diversify instruction. Planned, implemented, monitored, and assessed a classroom instructional program which was consistent with Paths to Quality and NAEYC Accreditation. Provided key support for Ivy Tech practicum students. Created new lesson plans based on course objectives. Met with families on a daily basis. Parent/family meetings offered/home visits scheduled to discuss student developmental progress or address issues. Liaison between families and administration. Completed documentation on individual children as well as administered assessments for each child and tracked results - ISTAR-KR, GOLD. Teaching Strategies Certified; CPR First Aid instructor; Red Cross and ProTrainings. Present. Certified to teach/skill test CPR/First Aid to large and small groups."
+        },
+        {
+            "title": "Photographer/EMT/Cook",
+            "company": "Company Name - City , State",
+            "start_date": null,
+            "end_date": null,
+            "description": "Assist and back up paid personnel at medical, accident and fire scenes. Prepare and assist rehab/observation area for fire fighter recovery on scene. Plan and prepare meals for large groups. Plan, schedule and participate in PR events."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Early Childhood/Special Ed",
+            "school": "Ball State University",
+            "year": "2018"
+        },
+        {
+            "degree": "Associate of Science in Early Childhood Education",
+            "school": "Ivy Tech Community College",
+            "year": "2003"
+        },
+        {
+            "degree": "AA in Early Childhood Education",
+            "school": "Ivy Tech Evansville IN",
+            "year": null
+        },
+        {
+            "degree": "Certified EMT",
+            "school": "Onsite Hss",
+            "year": "2003"
+        }
+    ],
+    "certifications": [
+        "EMT",
+        "Red Cross/ProTrainings First Aid/CPR/AED Instructor and Skills Tester",
+        "CPR/First Aid/AED",
+        "Mind in the Making"
+    ],
+    "languages": []
+}

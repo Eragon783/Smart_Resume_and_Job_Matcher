@@ -1,0 +1,80 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Payroll Accountant with over 7 years of experience in fast-paced environments providing high-level support to senior management and departments. Experienced in administrative, accounting, payroll, HR, and clerical tasks. Strong multitasking, organizational, confidentiality, and attention to detail; proficient with ADP, payroll processes, and financial reporting.",
+    "skills": [
+        "QuickBooks",
+        "Pivot Tables",
+        "PeopleSoft",
+        "People Tools",
+        "Microsoft Office",
+        "CSC Point IN system",
+        "Pro Series",
+        "SAP",
+        "data entry",
+        "analytical",
+        "problem analysis",
+        "interpersonal",
+        "organizational",
+        "communication",
+        "multitasking",
+        "leadership",
+        "GAAP",
+        "ADP",
+        "payroll",
+        "bank reconciliation",
+        "general ledger",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "Word"
+    ],
+    "experience": [
+        {
+            "title": "Payroll Accountant",
+            "company": "Company Name",
+            "start_date": "April 2014",
+            "end_date": "Present",
+            "description": "Processed and managed payroll for over 500+ union and non-union employees on bi-weekly basis. Worked with CFO and Controller on month-end close projects, audits, and other special projects. Mentored and trained C-level, Managers, and Staff on ADP payroll processes. Maintained confidentiality and internal control policies with compliance to GAAP. Coordinated as well as trained HR and Finance teams with inputting new hires, terminations, benefits deductions, tax exemptions, accruals, payouts, union, PTO, and salary information in ADP. Main point of contact for payroll inquiries professionally via phone, emails, and in person. Monitored and kept track of employee wages, hours, PTO, deductions, accruals, taxes, and other data in ADP. Prepared daily, quarterly, monthly, and annual reports (Payroll Template, NYS45, 1095, W-2, Journal entries, Overtime, Hours, and Inventory report) for CFO, Controller, head of each clinic department analysis. Reconciled START 4 bank accounts, pensions, payroll summary, 403b, and garnishment deduction payments. Handled submitting Voya payments, garnishment check payments, sorting and distributing employees' paycheck. Implemented new payroll processes to reduce payroll discrepancies and cutting manual checks. Generated and provided various reports for upper management analysis upon request in ADP for each pay period."
+        },
+        {
+            "title": "Accounts Receivable",
+            "company": "Company Name",
+            "start_date": "November 2013",
+            "end_date": "April 2014",
+            "description": "Created payment entries and batches of over 800 invoices. Handled the checks and kept record of all the Cash received in Excel. Aided in creating and sending out Notice of Cancellation letters to companies with overdue accounts. Resolved in getting the company 100% caught up with cancellation letters to 1000+ past due accounts. Managed to get 80% of incoming profits from overdue accounts."
+        },
+        {
+            "title": "Accounting/Finance Intern",
+            "company": "Company Name",
+            "start_date": "July 2013",
+            "end_date": "August 2013",
+            "description": "Retrieved, posted, printed, and inputted journal entries. Assisted with bank reconciliation, and inserting data for company books. Attentive in handling daily cash sheets, weekly A/P outlays, and running A/R, A/P, and G/L queries in Excel."
+        },
+        {
+            "title": "Accounting Assistant",
+            "company": "Company Name",
+            "start_date": "September 2012",
+            "end_date": "February 2013",
+            "description": "Aided the A/R and A/P department with reconciliation of 100+ invoices per day using Excel. Matched, coded, and batched invoices received and given to me by supervisor. Created, prepared, and organized files and documents for easy retrieval for coworkers and supervisor."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "March 2008",
+            "end_date": "April 2011",
+            "description": "Prepared and sent over 100 registration papers making sure everyone received timely and complete information. Managed, filed, organized, and retrieved 1000+ students and staff files with respect to confidentiality. Successfully aided in helping 100+ students per week with inquiries regarding registration. Successfully organized over 200 files for easy access for my supervisor, coworkers and professors."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Accounting",
+            "school": "William Paterson University",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,119 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Accomplished accountant and highly skilled controller with 8 years of experience and a keen ability to influence processes integral to company growth, drive operational excellence and achieve objectives. Expertise in financial statement preparation and analysis, operational management, forecasting and cost control. Open and clear communicator with demonstrated vision and disciplined execution.",
+    "skills": [
+        "Financial reporting",
+        "Variance analysis",
+        "P&L management",
+        "Process improvement",
+        "Complex problem solving",
+        "Critical thinking",
+        "Analytical",
+        "Decisive",
+        "IFRS reporting",
+        "SAP",
+        "Avaloq",
+        "Sage",
+        "Hyperion",
+        "Essbase",
+        "Cognos",
+        "Excel",
+        "Accounting software"
+    ],
+    "experience": [
+        {
+            "title": "Financial Accountant",
+            "company": "Company Name",
+            "start_date": "01/2016",
+            "end_date": "Current",
+            "description": "Monitor the net capital of the bank using daily controls. Calculate monthly fees for the client's account maintenance on a monthly and quarterly basis. Provide various analyses (variance, intercompany, balance sheet, P&L) using SAP and Avaloq. Enhance the consolidation reporting in IFRS by optimising the flux of information. Collaborate with the Finance team to provide accurate and timely month end reporting by setting up and maintaining planning and task lists."
+        },
+        {
+            "title": "Business Analyst",
+            "company": "Company Name",
+            "start_date": "07/2015",
+            "end_date": "12/2016",
+            "description": "Provided accurate information for month end journal adjustments for provisions related to Lombard credits, non-performing loans, impairments, deposit accounts and taxes by analysing account activities during the period required. Management of transaction error accounts by collaborating with reconciliations cash department to improve the account clearing process."
+        },
+        {
+            "title": "Financial Accountant",
+            "company": "Company Name",
+            "start_date": "09/2014",
+            "end_date": "12/2014",
+            "description": "Provided reports on the monthly securities position reporting and breaks. Performed regulatory reporting for the group and management by analysing the short term liquidity ratio, minimal reserves, capital adequacy, comprehensive balance sheet, interest rate, retrocessions and expenses. Used the reconciliation process to analyse and clear the daily cash account, breaks, fees, interests, expenses and accruals. Prepared various financial reporting schedules (daily control, earning analysis, etc). Collaborated with IT team in group projects to update systems and other various projects."
+        },
+        {
+            "title": "Accountant Analyst",
+            "company": "Company Name",
+            "start_date": "06/2014",
+            "end_date": "09/2014",
+            "description": "Performed accounts analysis on the balance sheet and P&L to provide explanations for the variances, reconciliations, intercompany and accounting close related tasks."
+        },
+        {
+            "title": "Project Accountant & Administrator",
+            "company": "Company Name",
+            "start_date": "06/2013",
+            "end_date": "12/2013",
+            "description": "Participated in leading SAP B1 implementation by setting up the organisation structure, planning and creating the testing scenario."
+        },
+        {
+            "title": "Senior Financial Accountant",
+            "company": "Company Name",
+            "start_date": "06/2012",
+            "end_date": "05/2013",
+            "description": "Prepared financial and regulatory reports required by laws, regulations or board of directors in US GAAP. Tracked all intellectual property and royalty spending against approved requests and payments. Analysed costs and revenues related to logistics."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "12/2011",
+            "end_date": "05/2012",
+            "description": "Maintained full responsibility of monthly and quarterly financial statement preparation for two subsidiaries. Collaborated with Auditors, Banks, Tax returns & VAT IFRS reporting to provide accurate reports and analysis."
+        },
+        {
+            "title": "Cost Analyst",
+            "company": "Company Name",
+            "start_date": "06/2009",
+            "end_date": "12/2009",
+            "description": "Prepared payroll costs and headcount reporting. Prepared and booked the operating expenses accruals. Prepared cost centre reports for the local and head office. Prepared monthly and annual expense forecasts, including any necessary recommended action required to manage costs to achieve budget."
+        },
+        {
+            "title": "Financial Control Analyst",
+            "company": "Company Name",
+            "start_date": "06/2008",
+            "end_date": "11/2011",
+            "description": "Managed accounting operations, accounting close, account reporting and reconciliations for 3 entities."
+        },
+        {
+            "title": "Consultant in Finance / Administrative Support",
+            "company": "Company Name",
+            "start_date": "07/1996",
+            "end_date": "11/2007",
+            "description": "Roles in different industries: Food and beverages, IT, Financial services. Specialisation in implementation of new organisational structures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Accounting and Controlling",
+            "school": "ENS Cachan",
+            "year": "2008"
+        },
+        {
+            "degree": "Certificate: Business Accounting",
+            "school": "Chartered Institution of Management Accountant",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "Business Accounting Certificate - Chartered Institution of Management Accountant UK"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German"
+    ]
+}

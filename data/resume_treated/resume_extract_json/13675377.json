@@ -1,0 +1,96 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To obtain a position in patient care and research that will allow continual growth of personal knowledge, in a progressive environment that facilitates improvements in the physical health and well being of others, and my community.",
+    "skills": [
+        "Charting",
+        "Medical terminology",
+        "EMR / Electronic Health Records",
+        "Venipuncture",
+        "Laboratory procedures (microbiology, chemistry, anatomy)",
+        "Data base management",
+        "Blood draws / phlebotomy",
+        "Centrifuge use",
+        "X-ray imaging and developing",
+        "Wound dressing / suture removal",
+        "Interviews / vital signs",
+        "Scheduling / appointment management",
+        "Durable Medical Equipment (DME) coordination",
+        "Plasma Rich Platelet injections",
+        "Personal training",
+        "Exercise programming",
+        "Functional Movement Screening",
+        "Customer service",
+        "Sales",
+        "Employee training",
+        "Budgeting",
+        "Team leadership",
+        "EMT-B",
+        "IV & EKG",
+        "Personal Trainer Certification"
+    ],
+    "experience": [
+        {
+            "title": "Medical Scribe",
+            "company": "Company Name",
+            "start_date": "August 2014",
+            "end_date": "Present",
+            "description": "Assist in transition to electronic medical records, essentially acting as a personal assistant to the physician; performing documentation in the EHR, documenting information during the patient's visit, and partnering with the physician to deliver the pinnacle of efficient patient care. Completed and submitted clinical documentation in accordance with agency guidelines."
+        },
+        {
+            "title": "Personal Trainer",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "Present",
+            "description": "Provide personalized attention, professional instruction, and exercise programming to each client, in order to maximize their health, fitness, and wellness goals, post-injury rehabilitation."
+        },
+        {
+            "title": "Medical Assistant/Casting Technician",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "January 2014",
+            "description": "Assists in examination and treatment of patients under the direction of a physician. Interviews patients, measures vital signs, draws necessary blood samples and prepares specimens for laboratory analysis. Ensures appropriate appointments are made, schedules surgeries, and fits and applies all durable medical equipment. Removes and re-applies surgical and non-surgical casts and splints. This includes suture and stable removal and wound dressing. Requires a strong ability to multitask and communicate with a wide variety of audiences. Key Achievements: Maintained a consistent schedule of 100-140 patients per week. Developed and implemented office protocol for DME ordering. Assists in maintaining six physician schedules, averaging 110-150 patients per day. Lead office training and execution of Plasma Rich Platelet injections."
+        },
+        {
+            "title": "Level 2 Personal Trainer",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "January 2011",
+            "description": "Provided personalized attention, professional instruction, and exercise programming to each client, in order to maximize their health, fitness, and wellness goals while providing the highest level of customer service. Key Achievements: Built and consistently maintained a full client base of 82+ clients and $5,000+ in sales each month. Responsible for employee training on new equipment and training methodologies. Designed and implemented successful exercise and diet programs for clients, by utilizing Functional Movement Screening, specific biomechanics, body composition, VO2 max measurements, and client's own physical ability and understanding."
+        },
+        {
+            "title": "Chiropractic Assistant",
+            "company": "Company Name",
+            "start_date": "January 2009",
+            "end_date": "January 2010",
+            "description": "Responsible for the administration of patient treatments, as directed by the chiropractor. Obtained and recorded patient vital signs. Scheduled appointments and recorded patient treatments. Key Achievements: Initiated and developed in-office exercise and strengthening program for patients. Performed cold laser treatments, electrical stimulation, and X-ray imaging and developing, in order to improve patient's relief of symptoms."
+        },
+        {
+            "title": "Fitness Manager / Level 3 Trainer",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "January 2009",
+            "description": "Responsible for communicating and upholding company policies and procedures. Managed a clean, friendly and well-maintained club. Ensured that team members consistently executed the basics in punctuality, dress code compliance, friendliness and cleanliness. Hired, trained, and developed a strong team of Personal Trainers. Responsible for the successful attainment of department targets, including revenue and member retention. Acted as the point of reference for fitness expertise within the club. Key Achievements: Achieved club's monthly budget goal of $30,000.00 per month in training sales on a consistent basis. Hired and developed four successful full-time trainers that were able to continually grow their business month over month. Built and maintained my own client base of 120+ client sessions and $5000+ in sales per month."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in Integrative Physiology",
+            "school": "University of Colorado",
+            "year": null
+        },
+        {
+            "degree": "Continuing Education",
+            "school": "Metropolitan State University of Denver",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "EMT-B License",
+        "IV & EKG",
+        "Personal Trainer Certification - American College of Sports Medicine"
+    ],
+    "languages": []
+}

@@ -1,0 +1,97 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "HR Generalist with over a decade of progressive experience in strategic HR counseling, labor and employee relations, talent management, HRIS administration, benefits and compensation programs, recruiting and staffing, training and development, and compliance. Demonstrated ability to partner with management to improve safety, performance, and engagement while driving process improvements and cost reductions.",
+    "skills": [
+        "Administrative",
+        "Microsoft Office Suite",
+        "SAP",
+        "Kronos",
+        "IBM",
+        "ADP",
+        "ATS",
+        "MSS",
+        "HRSS",
+        "Oracle",
+        "Workbrain",
+        "HRIS",
+        "Labor Relations",
+        "Recruiting",
+        "Staffing",
+        "Benefits",
+        "Payroll Processing",
+        "Performance Management",
+        "Employee Development",
+        "Employee Relations",
+        "Training",
+        "Succession Planning",
+        "Policy Administration",
+        "Record Keeping",
+        "Data Entry",
+        "Filing",
+        "Forms",
+        "Reporting",
+        "Research",
+        "Safety",
+        "Legal Compliance",
+        "Auditing",
+        "Budget",
+        "Conferences",
+        "Client Relations",
+        "Customer Service",
+        "Scheduling",
+        "Administration",
+        "Inventory",
+        "Personnel",
+        "Processes",
+        "Recruitment"
+    ],
+    "experience": [
+        {
+            "title": "HR Generalist",
+            "company": "Company Name",
+            "start_date": "January 2015",
+            "end_date": "Current",
+            "description": "Provides strategic HR counsel by driving HR practices; evaluates current practices and recommends best-in-class solutions; partners with Plant HR Manager for disability processing, relocation coordination, HR requisition and PAF process, and maintains employee files and performance records; serves as Client Manager for Security and Cintas; conducts labor and employee relations activities to drive productivity; provides labor relations and grievance counsel; leads talent management processes including recruiting and staffing; collaborates with regional health and safety to improve safety performance and reduce workers' compensation costs; administers benefits and compensation programs; launched and manages a training database for performance tracking; acts as Super User for the HRIS; drives employee engagement initiatives."
+        },
+        {
+            "title": "Sr. Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "January 2012",
+            "end_date": "January 2015",
+            "description": "Built highly effective organizational and filing systems; performed extensive internet research on competitors and potential acquisitions; managed administrative functions including payroll processing, data entry, sick pay recording, budget support, and account verification; resolved operational matters through independent judgment; handled confidential correspondence; coordinated calendars, meetings, travel, and conferences; represented manager at meetings and events; developed a preventive maintenance program and shortened process times; improved information access and customer service indicators."
+        },
+        {
+            "title": "Human Resource Representative",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "January 2012",
+            "description": " Served as first point of contact for HR inquiries; managed escalations and critical service issues; tracked significant account issues; processed terminations, new hires, manual checks, benefits and LOA via multiple channels; maintained knowledge of legal and regulatory requirements; recognized for cost reductions in Benefits Program; earned multiple Employee of the Month recognitions; achieved 100% compliance in audits and regulatory adherence; promoted team concepts to support training and reduce rework."
+        },
+        {
+            "title": "Human Resources Administrator",
+            "company": "Company Name",
+            "start_date": "January 2005",
+            "end_date": "January 2010",
+            "description": "Ensured effective communication by responding to employee inquiries and interpreting policies; implemented an employee recognition program; developed and revised the employee records system; stayed current on HR regulations; managed onboarding tasks (applications, file setup, ID badges, employee numbers, status changes); processed employment verifications; handled benefits and HR questions; recruited and trained staff; coordinated cost-effective team events; improved turnover through enhanced orientation and development; recognized for employee satisfaction improvements."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "University of Phoenix",
+            "year": 2012
+        },
+        {
+            "degree": "B.S. in Public Administration",
+            "school": "Virginia State University",
+            "year": 2007
+        }
+    ],
+    "certifications": [
+        "CHRP Exam"
+    ],
+    "languages": []
+}

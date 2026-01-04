@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Committed and motivated Administrative Assistant with exceptional customer service and decision making skills. Strong work ethic, professional demeanor and great initiative. Experienced in front-desk reception, office administration, data entry, spreadsheet development, and MS Office proficiency. Adaptable and self-directed, capable of multi-tasking in high-volume environments.",
+    "skills": [
+        "Microsoft Office",
+        "Excel",
+        "PowerPoint",
+        "Outlook",
+        "Word",
+        "Internet Explorer",
+        "Faxing",
+        "Filing",
+        "General office duties",
+        "Mail management",
+        "Data entry",
+        "10-key",
+        "Time management",
+        "Customer service",
+        "Spreadsheets",
+        "Supply inventory",
+        "Database management",
+        "Reception",
+        "Interpersonal skills",
+        "File organization",
+        "Scanned documents",
+        "Team player",
+        "Professional demeanor"
+    ],
+    "experience": [
+        {
+            "title": "Administrative Assistant/Site Clerk",
+            "company": "Company Name",
+            "start_date": "Mar 2007",
+            "end_date": "Present",
+            "description": "Managed receptionist area; greeted visitors; answered telephone and in-person requests for information; entered work orders; maintained front desk; used MS Word/Excel/PowerPoint/Outlook; organized filing systems; created and maintained spreadsheets with advanced Excel functions; coordinated supply orders; kept up-to-date with health inspections and site monitoring reviews; prepared new-hire packets and employee communications."
+        },
+        {
+            "title": "Receptionist/Telephone Operator",
+            "company": "Company Name",
+            "start_date": "Aug 2008",
+            "end_date": "Jun 2010",
+            "description": "Answered phones and assisted with parental inquiries; performed general office duties; updated Powerschool and calendar; processed faxes and mail; supported attendance technician and nurse's office; managed daily office operations and receptionist duties."
+        },
+        {
+            "title": "Receptionist/Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "Apr 2006",
+            "end_date": "Nov 2006",
+            "description": "Answered phones, filed invoices, distributed mail; organized files, developed spreadsheets, and scanned documents; handled outgoing correspondence; supported general office duties and data entry."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Valley High School",
+            "year": "2000"
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "Orange Coast College",
+            "year": null
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "Santa Ana College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

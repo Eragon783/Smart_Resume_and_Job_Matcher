@@ -1,0 +1,110 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Ability to communicate effectively to customers, management and staff. Establish rapport with clients from diverse socio-economic and ethnic backgrounds. Ability to deal with crisis in a calm, professional manner.",
+    "skills": [
+        "advertising",
+        "benefits",
+        "Business Management",
+        "closing",
+        "Consultant",
+        "counseling",
+        "customer relations",
+        "customer satisfaction",
+        "documentation",
+        "Finance",
+        "floor plan",
+        "GMC",
+        "inventory management",
+        "inventory",
+        "Law",
+        "legal",
+        "Director",
+        "Meetings",
+        "personnel",
+        "problem solving",
+        "processes",
+        "purchasing",
+        "Selling",
+        "Sales",
+        "sales training",
+        "scheduling",
+        "seminars",
+        "phone skills",
+        "unique",
+        "Workshops"
+    ],
+    "experience": [
+        {
+            "title": "Finance Manager",
+            "company": "Lasco Ford",
+            "start_date": "2013-01",
+            "end_date": "2016-03",
+            "description": "As the lead finance manager, represented the dealership and adhered to legal and ethical guidelines. Presented all available products to 100% of customers, explained benefits unique to each product. Gathered documentation from lending institutions and ensured CITs funded within dealership guidelines. Built lasting relationships with buyers and organizational representatives. Trained in Menu Selling by Gerry Gould AAGI. Involved in Finance Showroom and New Car Sales."
+        },
+        {
+            "title": "Assistant Sales Manager/Sales",
+            "company": "LaFontaine Auto Group",
+            "start_date": "2007-01",
+            "end_date": "2009-01",
+            "description": "Assisted customers with purchase/lease of new or pre-owned vehicles; maintained product knowledge; supported New/Used Car Manager with daily activities including lot and inventory management, deal structure and closing. Held most certifications among the sales staff; completed Lead Management, Commercial Vehicle sales, Leaf Vehicle Sales Leader and product knowledge training."
+        },
+        {
+            "title": "New/Used Sales Consultant",
+            "company": "General RV",
+            "start_date": "",
+            "end_date": "",
+            "description": "Assisted customers with the purchase of Recreational Vehicles; extreme product knowledge required due to multi-line inventory and floor plan availability; consistently in the top 10 of the sales force with volume and gross production."
+        },
+        {
+            "title": "Assistant Used Car Manager/Sales",
+            "company": "Bill Fox Chevrolet",
+            "start_date": "2000-01",
+            "end_date": "2005-01",
+            "description": "Assisted customers with their vehicle purchase/lease. Provided counseling and product knowledge. Assisted the Used Car Manager with daily activities of the Used Car Department."
+        },
+        {
+            "title": "Used Car Manager",
+            "company": "Expressway Ford",
+            "start_date": "1998-01",
+            "end_date": "2000-01",
+            "description": "Managed used car inventory including appraisals, auction purchases and sales, wholesale, deal desking, ongoing sales training, and daily responsibilities of a Used Car Manager. Under management, gross per unit improved from less than $800 per copy to more than $2000 per copy. Recognized by Ford Motor Company's Regional Sales Director for the dealership's success."
+        },
+        {
+            "title": "General Sales Manager",
+            "company": "Company Name",
+            "start_date": "1996-01",
+            "end_date": "1998-01",
+            "description": "Responsible for inventory of two locations (~200 units); managed daily functions of the store including personnel scheduling, deal desking, finance submissions, advertising, floor plan management, and more. Helped owners open a second location; implemented policies and procedures to enhance performance."
+        },
+        {
+            "title": "Sales/Assistant Used Car Manager",
+            "company": "Albert Chevrolet",
+            "start_date": "1991-01",
+            "end_date": "1996-01",
+            "description": "Assisted customers with vehicle purchases/leases; provided counseling and knowledge of current rebates; assisted the Used Car Manager with daily department activities. Awarded 'The Legion of Leaders' by General Motors for volume sales and training."
+        },
+        {
+            "title": "Munitions Systems Specialist",
+            "company": "United States Air Force",
+            "start_date": "1985-01",
+            "end_date": "1988-01",
+            "description": "Assembled, disassembled and maintained non-nuclear tactical weaponry."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Medical Engineering / Business Management",
+            "school": "Baker College",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "AAGI Finance Management Course",
+        "Legion of Leaders",
+        "Nissan Certified"
+    ],
+    "languages": []
+}

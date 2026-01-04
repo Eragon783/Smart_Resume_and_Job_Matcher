@@ -1,0 +1,72 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "My goal is to become associated with a company where I can utilize my skills and gain further experience while enhancing the company's productivity and reputation.",
+    "skills": [
+        "Self-motivated",
+        "Dependable and reliable",
+        "Effective at multitasking",
+        "Works well independently and in groups",
+        "Excellent Computer skills",
+        "Organized",
+        "Fast learner",
+        "Creative",
+        "Personable",
+        "Internet Savvy",
+        "Customer assistance",
+        "Interpersonal communication"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "11/2018",
+            "end_date": "Present",
+            "description": "Analyze and properly process product returns. Maintain and organize merchandise to drive sales. Organize shelves to maintain store visual appeal. Engage customers and promote specific merchandise. Maintain records related to sales, returns, and inventory availability. Recommend merchandise to customers based on needs and preferences. Sell various products by demonstrating, explaining unique features, and educating customers on proper handling and care. Answer incoming telephone calls to provide information about products, services, store hours, policies and promotions."
+        },
+        {
+            "title": "Volunteer - Receptionist",
+            "company": "Company Name",
+            "start_date": "09/2018",
+            "end_date": "Present",
+            "description": "Meet incoming customers with professional approach and provide friendly, knowledgeable assistance. Keep reception area clean and organized to offer positive first impression to every visitor. Helped set up events. Greet customers, answer general questions, and direct to appropriate locations or personnel."
+        },
+        {
+            "title": "Stylist",
+            "company": "Company Name",
+            "start_date": "07/2018",
+            "end_date": "10/2018",
+            "description": "Initiated friendly conversation with each customer to determine level of assistance required. Maintained assigned area to store standards by setting up and monitoring accurate ad signage and correct merchandise placement. Handled price checks, merchandise transfers, and fitting room returns to keep store orderly. Greeted each customer and offered to assist them to provide excellent customer service. Followed all company policies, rules, and procedures to promote company goals and ensure safety. Helped customers by answering questions and locating merchandise. Sought opportunities to up-sell and add-on additional merchandise. Rang up sales at registers and bagged merchandise. Prevented store losses by utilizing awareness, attention to detail, and integrity."
+        },
+        {
+            "title": "Assembly Line Worker",
+            "company": "Company Name",
+            "start_date": "06/2016",
+            "end_date": "03/2018",
+            "description": "Built containers and pack parts in accordance with detailed packing specifications. Received and correctly processed both written and verbal instructions, prints and work orders. Observed all safety policies and procedures. Utilized established assembly instructions to complete jobs in an efficient and accurate manner. Assisted quality assurance by visually inspecting items and removing defect parts. Worked in a team-based environment to maintain line productivity."
+        },
+        {
+            "title": "Library Volunteer",
+            "company": "Company Name",
+            "start_date": "01/2017",
+            "end_date": "06/2017",
+            "description": "Checked in, checked out and renewed library materials. Located requested books on the shelves and in the library database. Sorted and shelved donated collections as needed. Cleaned and organized the shelves and display cases, including the checkout desk. Welcomed customers into the library and helped them locate items. Used time efficiently when not serving customers, including cleaning and updating library's website. Actively pursued personal learning and development opportunities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts and Science",
+            "school": "Wenatchee Valley College",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Eastmont Senior High School",
+            "year": "2017"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

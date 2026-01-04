@@ -1,0 +1,122 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "Rockville, Maryland, USA",
+    "summary": "A Global HR Professional with 10+ years' progressive experience across industries and geographies. A unique skillset combination of project management, HR business partnering, and building HR programs aligned with business strategy to drive successful results. Highlights Microsoft Word, Excel, Project, Visio, PowerPoint.",
+    "skills": [
+        "Adobe Acrobat",
+        "Analyst",
+        "Architect",
+        "balance",
+        "basic",
+        "benefits",
+        "budget management",
+        "calibration",
+        "charts",
+        "consulting",
+        "contracts",
+        "client",
+        "data analysis",
+        "database administration",
+        "Finance",
+        "focus",
+        "functional",
+        "German",
+        "hiring",
+        "HRIS",
+        "Human Resources",
+        "HR",
+        "Information Systems",
+        "labor relations",
+        "Latin",
+        "Leadership",
+        "Leadership Development",
+        "legal compliance",
+        "Director",
+        "management skills",
+        "Managing",
+        "Mandarin Chinese",
+        "Mentoring",
+        "Excel",
+        "Power Point",
+        "Microsoft Word",
+        "negotiations",
+        "next",
+        "organizational development",
+        "organizational",
+        "Performance Management",
+        "personnel",
+        "processes",
+        "recruiting",
+        "recruitment",
+        "Risk Analysis",
+        "sales",
+        "SAP",
+        "Spanish",
+        "staffing",
+        "strategy",
+        "strategic",
+        "Vaccines",
+        "Visio",
+        "annual reports"
+    ],
+    "experience": [
+        {
+            "title": "Global HR Manager",
+            "company": "Leading US R&D Center",
+            "start_date": "June 2012",
+            "end_date": "September 2015",
+            "description": "Led relocation project; managed Technical Leadership Program (TLP), a rotational leadership development program; partnered with senior leaders in manufacturing and HR Business Partners across US, Germany, Italy, UK, Switzerland, China, India, and Brazil. Designed and led cross-functional strategic HR projects for manufacturing (2,600+ employees): Flight Risk Analysis and Mitigation, Global Career Framework, and Global Job Family Architect. Facilitated 7 Global Engagement Survey debriefs with global function leaders and local HR partners biennially. Partnered with Director of Leadership Development to redesign M Compass, the first-time manager development program. Rolled out Mentoring Program for developing top 40 talents within manufacturing organization annually. Designed corporate and divisional learning nomination process to ensure fair allocation across manufacturing locations. Drove and rolled out divisional HR processes globally, ensuring timely completion, compliance and final submission to corporate: Performance Management Process, Organization Talent Review, and Stock Award Program Nominations. Led Talent Management and Development Process improvements at major sites; identified succession gaps during OTR Talking Talent Sessions for top 2 level 50 successors annually. Oversaw and was responsible for data analysis and project support of a team of 1 HR Analyst and 2 HR Interns."
+        },
+        {
+            "title": "Global HR Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "November 2010",
+            "end_date": "June 2012",
+            "description": "Developed and implemented staffing process for Global TLP Associates with distinct approaches in China, India, and Brazil. Provided online training support of technical knowledge, management skills, and language learnings for TLPs and top talents. Organized Global HR Monthly Leadership Meeting with local HR heads around all manufacturing sites. Facilitated performance calibration process and annual merit and incentive planning process for Manufacturing function."
+        },
+        {
+            "title": "HR Generalist",
+            "company": "Company Name, City, State",
+            "start_date": "May 2009",
+            "end_date": "August 2010",
+            "description": "Analyzed competency and knowledge gap and designed action plans for IT functional off-shoring project in India. Redesigned organizational structure & hiring strategies for 200 employees at a new manufacturing plant in Germany. Designed & created Global Engagement Survey analysis reports for US, Latin America, IT, Finance, and Communications."
+        },
+        {
+            "title": "HR Generalist",
+            "company": "Company Name, City, State",
+            "start_date": "July 2006",
+            "end_date": "June 2008",
+            "description": "Delivered strong management of diverse human resources functions for client base of over 300 employees at headquarters including staffing, training, organizational development, labor relations, and HR information systems administration. Designed recruitment strategy action plan and set challenging benchmarks to evaluate recruiting partners. Successfully staffed over 200 positions at headquarters and R&D laboratories in a timely and effective manner. Utilized SAP HRIS for personnel changes; designed automatic analysis reports. Collaborated with HRIS to improve data accuracy in SAP system and monthly, quarterly, and annual reports. Effectively handled labor relations cases in support of organizational restructuring efforts. Played a key role in the revision of labor contracts and employee handbook to achieve legal compliance. Contributed to Kraft's recognition as China's Top Employer in 2007 in a survey conducted by CRF, while partnering with teams in compensation & benefits and organizational development."
+        },
+        {
+            "title": "HR Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "August 2003",
+            "end_date": "July 2006",
+            "description": "Managed the implementation of HR practices and services among 2,200+ sales employees in 45 regional offices in China. Developed HR plan with responsibility for performance evaluations, salary negotiations, headcount budget management. Supervised Nestlé campus recruitment and interviewing process with Assessment Center tool among top universities in China. Consulted with personnel on important HRIS maintenance and database administration projects. Prepared monthly HR reports detailing turnover, headcount balance, staffing efficiency, organizational charts, and HR ROI's. Coordinated annual salary review and compensation analysis and processed employee incentive adjustments processes."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Industrial and Labor Relations: Human Resources and Organizations",
+            "school": "Cornell University, School of Industrial and Labor Relations",
+            "year": 2010
+        },
+        {
+            "degree": "BBA: Human Resource Management",
+            "school": "TIANJIN UNIVERSITY OF FINANCE & ECONOMICS",
+            "year": 2003
+        }
+    ],
+    "certifications": [
+        "Global Professional of Human Resources (GPHR)",
+        "Professional of Human Resources (PHR)"
+    ],
+    "languages": [
+        "Mandarin Chinese (native)",
+        "Spanish (basic)",
+        "German (basic)"
+    ]
+}

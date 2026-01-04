@@ -1,0 +1,59 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly ethical, dependable, and diligent expert in the Curriculum Development field. Specializes in curriculum development and assessment. Proficient with MS Office. Strong communicator. Skilled in instructional design, e-learning tools, and Learning Management Systems.",
+    "skills": [
+        "MS Office",
+        "Strong communicator",
+        "Instructional design",
+        "e-learning tools",
+        "Learning Management Systems",
+        "conflict resolution",
+        "course development",
+        "critical thinking",
+        "curriculum development",
+        "research",
+        "staff development",
+        "teaching",
+        "troubleshooting"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "June 2012",
+            "end_date": "Current",
+            "description": "Designed research-based curriculum for writing instruction using the Trivium approach. Achieved higher student scores as a result of the curriculum. Developed research-based curriculum for language arts lessons using the ADDIE method of instructional design. Analyzed state standards and school standards; developed grammatical lessons according to standards. Monitored student learning by creating effective critical thinking strategies such as sentence analysis using diagramming. Created and evaluated quality assessment tools to maximize student learning. Led staff development and communicated with principal and parents; positive feedback from parents increased yearly."
+        },
+        {
+            "title": "Lead Curriculum Developer / Project Manager",
+            "company": "Company Name",
+            "start_date": "November 2009",
+            "end_date": "June 2012",
+            "description": "Designed effective college courses by communicating regularly with faculty, directors, and staff in scheduled on-campus meetings. Facilitated troubleshooting, problem solving, decision making, and conflict resolution regarding course development. Designed and developed curriculum for multiple learning styles in traditional and online classrooms with Subject Matter Experts. Resolved curriculum/instruction problems in Learning Management Systems within 24-48 hours for Quality Assurance. Revised courses to meet deadlines by analyzing data to enhance university services and learning for GCU students; averaged 20 successful revisions per month. Designed courses for the College of Fine Arts, College of Arts & Sciences, and College of Christian Studies at Grand Canyon University using Understanding By Design and ADDIE methods, increasing student satisfaction from 65% to 85%. Evaluated pedagogical methods with instructional designers and faculty. Created digital visual aids with Academic Web Services and wrote scripts for e-learning tools."
+        },
+        {
+            "title": "Visual Arts Instructor",
+            "company": "Company Name",
+            "start_date": "September 2005",
+            "end_date": "September 2009",
+            "description": "Solved problems by designing curriculum for required college Fine Arts courses. Developed curriculum and instruction for the Perspective Drawing and Digital Painting courses by analyzing course competencies and student needs. Met course objectives by facilitating courses across a multi-presentation graphic design program and assessing student progress over four semesters. Addressed learning styles and adult learning theories to develop lesson plans using current software programs and tools. Managed and evaluated curriculum using portfolio assessment of 40 students. Met with students individually to resolve concerns, responded to inquiries, graded assignments, and entered data into the Learning Management System to meet grade report deadlines. Created rubrics for metacognition and assessment. Increased student motivation by incorporating critical thinking strategies in weekly lessons."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Education/Curriculum Instruction",
+            "school": "University of Phoenix",
+            "year": 2007
+        },
+        {
+            "degree": "Bachelor of Arts in Interdisciplinary Arts & Performance-Visual Arts",
+            "school": "Arizona State University",
+            "year": 2005
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

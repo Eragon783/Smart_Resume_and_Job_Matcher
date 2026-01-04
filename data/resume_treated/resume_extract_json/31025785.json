@@ -1,0 +1,92 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Manhattan, NY",
+    "summary": "Real estate strategy and finance professional with experience in feasibility analyses, underwriting, market analysis, and deal execution across residential and hotel development, leveraging advanced Excel modeling and cross-functional collaboration.",
+    "skills": [
+        "Microsoft Excel",
+        "Financial modeling",
+        "PowerPoint",
+        "Word",
+        "Office",
+        "Feasibility studies",
+        "Due diligence",
+        "Equity financing",
+        "Debt financing",
+        "Market analysis",
+        "Underwriting",
+        "Deal execution",
+        "Real estate development",
+        "Negotiation",
+        "Pricing",
+        "Contracts",
+        "Project management",
+        "Multilingual: Hindi, Tamil, Telugu, Kannada",
+        "German",
+        "Korean"
+    ],
+    "experience": [
+        {
+            "title": "Summer Analyst",
+            "company": "Soho Properties",
+            "start_date": null,
+            "end_date": null,
+            "description": "Performed feasibility analyses for potential residential and hotel development projects; evaluated terms of equity and debt partnership proposals; assisted in restructuring partnerships for a $300M Times Sq. hotel project; analyzed debt financing components (EB-5 vs mezzanine)."
+        },
+        {
+            "title": "Capital Services Intern",
+            "company": "Massey Knakal",
+            "start_date": null,
+            "end_date": null,
+            "description": "Worked with the Director of Capital Services on origination, underwriting and execution for acquisitions and refinancings; restructured a $33M cross-collateralized loan secured by a 7-building portfolio; performed market analyses and created offering memorandums for lenders."
+        },
+        {
+            "title": "Strategy Analyst",
+            "company": null,
+            "start_date": null,
+            "end_date": null,
+            "description": "Performed market analysis on the single-family second home market in Chennai; developed deal-by-deal analyses with development cost matrices and sales price sensitivity, concluding with IRR and ROE figures; assisted in executing a strategy shift toward single-family beach villas in the East Coast Road submarket."
+        },
+        {
+            "title": "Consultant",
+            "company": null,
+            "start_date": null,
+            "end_date": null,
+            "description": "Founded boutique real estate advisory and brokerage; conducted feasibility studies and due diligence for developers; collaborated with CEO of Australian company on establishing a new factory; appointed as primary real estate consultant for Korean Trade Center and sold residential properties worth over $22M."
+        },
+        {
+            "title": "Asset Manager",
+            "company": "Family Office",
+            "start_date": null,
+            "end_date": null,
+            "description": "Core real estate portfolio of $70M; determined pricing and strategy; produced quarterly operations reports; negotiated management contracts and renewed a high-profile lease with the German Consulate."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. Real Estate, Finance and Investments",
+            "school": "New York University, Stern School of Business",
+            "year": null
+        },
+        {
+            "degree": "B.A. Economics",
+            "school": "Hawaii Pacific University",
+            "year": null
+        },
+        {
+            "degree": "Tennis Academy",
+            "school": "IMG Nick Bollettieri Tennis Academy / Pendleton School",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "Kannada",
+        "German",
+        "Korean"
+    ]
+}

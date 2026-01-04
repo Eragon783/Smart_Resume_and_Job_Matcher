@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am an experienced, engaging and dynamic leader seeking an opportunity for growth within CCISD's Student Personnel Services Department. I consistently demonstrate effective communication, public relations, and interpersonal skills, with a focus on positive, customer-service-driven interactions with all students, parents, faculty/staff, and community stakeholders. I possess excellent organizational skills as well as the ability to maintain emotional control under stress and to work with frequent interruptions.",
+    "skills": [
+        "Project management",
+        "Conflict resolution",
+        "Process implementation",
+        "Self-motivated",
+        "Strong verbal communication",
+        "Extremely organized"
+    ],
+    "experience": [
+        {
+            "title": "Coordinator of Student Personnel Services",
+            "company": "CCISD",
+            "start_date": "July 2015",
+            "end_date": "Current",
+            "description": "Leads the campus counseling team and program development within CCISD's Student Personnel Services; coordinates campus registration events, program implementation and evaluation; provides crisis management; ensures timely access to community health and human services; oversees advising for academic and college/career planning; supervises staff and manages the department budget."
+        },
+        {
+            "title": "Lead Counselor/Director of College Counseling",
+            "company": "CCISD",
+            "start_date": "March 2010",
+            "end_date": "June 2015",
+            "description": "Led the campus counseling team to plan, implement, and evaluate programs; provided proactive personal and group counseling, crisis management, and guidance for high school and post-secondary planning; coordinated college and career information programs."
+        },
+        {
+            "title": "Counselor",
+            "company": "Friendswood High School",
+            "start_date": "August 2006",
+            "end_date": "March 2010",
+            "description": "Provided counseling services for Grades 9-12; supported student growth and post-secondary planning; collaborated with teachers, administrators, parents and community partners."
+        },
+        {
+            "title": "English Language Arts Teacher",
+            "company": "Webster/Westbrook Intermediate School",
+            "start_date": "August 2002",
+            "end_date": "June 2006",
+            "description": "Taught Grade 7 English Language Arts; served as 7th grade team lead; developed and facilitated lessons; evaluated assignments; accommodated or modified instruction for students with special services."
+        },
+        {
+            "title": "English Language Arts Teacher",
+            "company": "Ed White Memorial High School",
+            "start_date": "January 2002",
+            "end_date": "June 2002",
+            "description": "Taught Grades 9-12 ELA at an alternative high school; TAAS coordinator for February test dates; developed lessons and assessments; conferred with students and parents."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Clements Certified Consultants",
+            "start_date": "July 2001",
+            "end_date": "November 2001",
+            "description": "Office manager; provided customer service for clients; maintained correspondence with four law firms; filed legal documents; generated monthly billing statements; prepared various legal documents."
+        },
+        {
+            "title": "English Language Arts Teacher",
+            "company": "Traditional High School",
+            "start_date": "August 2000",
+            "end_date": "June 2001",
+            "description": "Taught ELA at a traditional high school; developed and facilitated lessons; evaluated assignments; accommodated or modified instruction; conferred with students and parents."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Counseling",
+            "school": "University of Houston-Clear Lake",
+            "year": 2006
+        },
+        {
+            "degree": "Bachelor of Arts in English and History",
+            "school": "Texas Tech University",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        "Certified in School Counseling (EC-12) by the Texas State Board for Educator Certification",
+        "Certified in English and History (6-12) by the Texas State Board for Educator Certification"
+    ],
+    "languages": [
+        "English"
+    ]
+}

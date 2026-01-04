@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Committed and motivated office professional with exceptional customer service and decision making skills. Strong work ethic, professional demeanor and great initiative.",
+    "skills": [
+        "Microsoft Office proficiency",
+        "Data organization",
+        "Training",
+        "Multitasking",
+        "Customer service",
+        "Problem resolution",
+        "Time management",
+        "Schedule management",
+        "Office administration",
+        "Attention to detail",
+        "Communication (telephone, email, front-desk)",
+        "Staff coaching and development",
+        "Branch operations",
+        "Teller operations",
+        "Sales support"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name City, State",
+            "start_date": "2014-06",
+            "end_date": "2015-01",
+            "description": "Coach, motivate and develop staff; prepare disciplinary notes and performance evaluations. Responsible for branch, vault, and ATM settlement daily and reconciling differences as needed. Greet members at the greeter desk, direct them to the appropriate area of the branch, and schedule appointments. Monitor and answer calls through the call center. Resolve customer issues in a timely manner. Back up staff; run teller drawer, open accounts, and process loans. Pull reports to track branch productivity and goals."
+        },
+        {
+            "title": "Head Teller & Training Assistant",
+            "company": "Company Name City, State",
+            "start_date": "2011-03",
+            "end_date": "2014-05",
+            "description": "Ensure policy and procedures are understood and followed by branch staff. Responsible for branch, vault, and ATM settlement daily and reconciling differences as needed. Ensure operational integrity of the branch by performing internal audits and following branch security and compliance requirements. Manage the main branch operations, handle and resolve customer issues and escalate when necessary. Contribute to branch sales goals by recognizing sales opportunities and coaching tellers to achieve goals. Coach, motivate and develop tellers; prepare disciplinary notes and performance evaluations. Test new policies, procedures, and computer updates prior to company-wide rollout. Train employees on new or revised policies, procedures, and computer updates. Develop process improvements to create a more efficient environment."
+        },
+        {
+            "title": "State Farm Agent Staff",
+            "company": "Company Name City, State",
+            "start_date": "2010-09",
+            "end_date": "2011-03",
+            "description": "Process quotes and applications for auto, home, and life insurance. Assist policyholders with policy changes and maintenance. Recognize and discuss insurance needs with policyholders. Manage receptionist area, greet visitors, and respond to information requests. Organize files, develop spreadsheets, fax reports, and scan documents."
+        },
+        {
+            "title": "Retail Banking Branch Operations Manager",
+            "company": "Company Name City, State",
+            "start_date": "2008-04",
+            "end_date": "2010-09",
+            "description": "Manage teller staff to ensure smooth teller line operation. Ensure all transactions processed accurately. Ensure policy and procedures are followed. Reconcile branch settlement differences. Maintain branch cash control limits. Balance vault, ATM, and EDC machine daily. Track and audit negotiable items. Ensure operational integrity via internal audits. Resolve customer issues promptly. Contribute to branch sales goals through coaching and recognizing opportunities. Create/manage teller schedules; counsel tellers; prepare disciplinary notes and performance evaluations."
+        },
+        {
+            "title": "Senior Personal Banking Representative",
+            "company": "Company Name City, State",
+            "start_date": "2003-08",
+            "end_date": "2008-04",
+            "description": "Actively sell Sovereign Bank products and services. Analyze and determine the financial needs of each customer. Meet and exceed personal sales goals. Open new accounts, process loan applications and close loans. Demonstrate knowledge of consumer products and services. Research and resolve customer issues in a timely manner."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Criminal Justice",
+            "school": "York College of Pennsylvania",
+            "year": 2003
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,109 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Freelance designer with experience leading product development, market research, and presenting product features; skilled in concept sketches, 3D computer models, and prototypes.",
+    "skills": [
+        "Product Designer",
+        "Marketing",
+        "Prototype",
+        "Prototypes",
+        "Clients",
+        "New Products",
+        "Business Development",
+        "Cases",
+        "Interior Design",
+        "Collections",
+        "Credit",
+        "Pacs",
+        "Product Development",
+        "Project Management",
+        "Testing",
+        "Transmissions",
+        "Voice",
+        "CCA",
+        "Magellan",
+        "Promotional",
+        "Adobe Photoshop",
+        "Illustrator",
+        "Illustration",
+        "MS Office",
+        "Photoshop",
+        "PowerPoint",
+        "Pro Engineer",
+        "Scanning",
+        "Word",
+        "Industrial Design",
+        "3D Modeling",
+        "Tech Packs",
+        "Garment/Apparel Design"
+    ],
+    "experience": [
+        {
+            "title": "Freelance Designer",
+            "company": "Company Name",
+            "start_date": "07/2014",
+            "end_date": "Current",
+            "description": "Completed projects for Dick's Sporting Goods, Walmart, Khol's, Cabela's, Magellan, Kryptek, Snap-On, CCA. Created winter beanies and gloves. Creating Tech Packs: Specific apparel information on placement, measurements and overall look of garment. Created women's hoodies, yoga pants and tee shirts. Created golf polo shirts. Created designs for promotional baseball caps to be sold at four major airports."
+        },
+        {
+            "title": "Freelance Designer",
+            "company": "Company Name",
+            "start_date": "05/2014",
+            "end_date": "06/2014",
+            "description": "Provided designs and sketches for two models of snow ski gloves. The designs were from initial concept through final design stages. The first model is a ski patroller glove where durability and value are paramount. The second model is at the upper end of the range of gloves for skiers and will be a higher performing glove."
+        },
+        {
+            "title": "Apparel Designer/Developer",
+            "company": "Company Name",
+            "start_date": "09/2012",
+            "end_date": "11/2013",
+            "description": "Managed designs and development of new apparel lines from initial concept through production confirmation. Emphasis was on delivering projects and related samples according to predetermined timelines. Learned and applied the full scope of product development including Project management, Timeline management, Costing analysis, Fit and Wear testing, Commercializing to production, Material knowledge, Created tech pacs, and Construction methods. Kept informed of and evaluated competitive developments with an eye towards improving the competitiveness of Rocky Brands apparel lines. Communicated daily with the overseas factories and team members on the proto-type and pre-production samples. Participated in Voice of Customer trips which included focus groups, talking with storeowners, working in their stores and talking with their customers. Attended several construction sites and hunting trips to observe experience and further understand the apparel requirements and needs for both workers and hunters. Key Achievements: * Effectively developed several apparel lines that will be introduced in the marketplace. * Worked with fabric suppliers/vendors to learn about materials and their usage. * Created Tech Packs: Specific apparel information on placement, measurements and overall look of garment. * Provided presentation materials and storyboards for new collections. * Created designs, sketches, material specifications, measurement templates, construction detail/ construction sketches, logo/label design trim detail, and color assortments."
+        },
+        {
+            "title": "Product Designer",
+            "company": "Company Name",
+            "start_date": "05/2010",
+            "end_date": "02/2012",
+            "description": "Managed multiple concurrent design projects for a leader in silicone-based technology and innovation, working closely with marketing and business development professionals, scientists, and engineering teams. Developed new products to meet market needs. Created concept sketches and 3D computer models and presented to clients. Provided guidance to and managed workloads for college interns. Key Achievements: * Successfully implemented key projects that resulted in building customer awareness of silicone uses. * Created architectural floor plans, developed interior design plans and designed product display cases for new Dow Corning Design Center. Consistently remained ahead of schedule."
+        },
+        {
+            "title": "Product Designer",
+            "company": "Company Name",
+            "start_date": "01/2007",
+            "end_date": "07/2009",
+            "description": "Researched design concepts and designed / updated consumer-based products, working in conjunction with marketing, engineering teams and other designers. Prepared concept sketches and 3D computer models; built model prototypes. Delivered presentations to management to present concepts, updates, and product models. Key Achievements: * Developed several products that were introduced in the marketplace."
+        },
+        {
+            "title": "Website Designer",
+            "company": "Company Name",
+            "start_date": "05/2006",
+            "end_date": "09/2006",
+            "description": "Completed website development for a local county Water Authority, including layout, content, and graphics."
+        },
+        {
+            "title": "Product Designer (contract)",
+            "company": "Company Name",
+            "start_date": "01/2006",
+            "end_date": "02/2006",
+            "description": "Worked with creative team to develop ideas and create concept sketches for new products. Clients included Binney & Smith (Crayola), Fisher Price, and Icuiti."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Fine Arts in Industrial Design",
+            "school": "College of Creative Studies",
+            "year": null
+        },
+        {
+            "degree": "Summer Courses",
+            "school": "Monroe Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "CCA"
+    ],
+    "languages": []
+}

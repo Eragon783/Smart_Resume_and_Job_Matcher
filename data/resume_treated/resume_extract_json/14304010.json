@@ -1,0 +1,102 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Summary Art Director with strong background in production management. Specializes in sales, fashion marketing and editorial film making. Well versed in team building and creative planning. Extensive high-profile brand knowledge.",
+    "skills": [
+        "Camera operating",
+        "Film directing",
+        "Art directing",
+        "Creative planning",
+        "Production management",
+        "Budgeting",
+        "Non-linear editing",
+        "Creative writing",
+        "Product advertising",
+        "Editorial",
+        "Advertising",
+        "Brand management",
+        "Interpersonal skills",
+        "Client contacts",
+        "Special events",
+        "Market research",
+        "Marketing strategies",
+        "Merchandising",
+        "Modeling",
+        "Selling",
+        "Trend awareness"
+    ],
+    "experience": [
+        {
+            "title": "Key Holder, Sales Planner",
+            "company": "Company Name",
+            "start_date": "2016-03",
+            "end_date": "2016-07",
+            "description": "Effectively controlled the release of proprietary and confidential information for general client lists. Created strategies to develop and expand existing customer sales, which resulted in a 6% increase in monthly sales. Maintained productive relationships with existing clients through exceptional personal follow-up after sales. Worked directly with GM, Senior Visual Directors and District Leaders in order to achieve company and sales goals each month."
+        },
+        {
+            "title": "Editorial Producer",
+            "company": "Company Name",
+            "start_date": "2015-10",
+            "end_date": "Present",
+            "description": "Worked in direct relation with designer during editorial production to create the look and feel of the brand. Shot and produced look books for Fall2015/Spring 2016 Directed all styling and outfitting for a production cast of more than 12 actors and actresses. Collaborated with modeling agencies, stylists, editors and designers to effectively elucidate the Altaf Maaneshia brand during production."
+        },
+        {
+            "title": "Editorial Director",
+            "company": "Company Name",
+            "start_date": "2015-09",
+            "end_date": "2016-01",
+            "description": "Carefully maintained over $15,000 worth of brand merchandise. Carefully maintained over $6,000 worth of production equipment. Managed campaign and advertising budgets up to $4200. Co-Produced, Directed and filmed editorial campaigns for FALL/WINTER 2015 merchandise. Collaborated with brand representatives to guarantee satisfaction with advertisements. Managed editorial content during post-production for distribution to editors Established and maintained cooperative relationships with representatives of community, consumer, employee and public interest groups in regards to product."
+        },
+        {
+            "title": "Mens Fashion Editor",
+            "company": "Company Name",
+            "start_date": "2015-08",
+            "end_date": "Present",
+            "description": "Wrote unique text for Fashion websites, including general and branded content. Produced and directed editorial campaigns in response to feedback from the creative director, account teams and clients. Liaised with production companies, photographers, typographers, designers and printers in order to produce content for publishing."
+        },
+        {
+            "title": "Sales Professional",
+            "company": "Company Name",
+            "start_date": "2015-07",
+            "end_date": "Present",
+            "description": "Maintained productive relationships with existing clients through exceptional follow-up after sales. Maintained up-to-date knowledge of client buying habits. Identified customer needs through market research and study. Evaluated competitors and performed market research. Monitored customer preferences to determine focus of sales efforts. Increased purchase totals by recommending additional items. Worked with management to identify trends and developments that might influence sales."
+        },
+        {
+            "title": "Stylist, Visual Artist and Sales",
+            "company": "Company Name",
+            "start_date": "2014-04",
+            "end_date": "2015-01",
+            "description": "Manages projects according to time-line and seasonal changes. Reorganized the sales floor to meepany demands. Designed displays to make the store experience interactive and engaging. Updates fashion accessories and samples with clientèle on a seasonal basis. Researched current and past business performance using online systems and available reports."
+        },
+        {
+            "title": "Intern, Creative Design Specialist",
+            "company": "Company Name",
+            "start_date": "2012-03",
+            "end_date": "2012-05",
+            "description": "Organized and maintained accessories and clothing in the shooting area. Displayed and presented clothing and merchandise for fashion shows. Planned and organized corporate media and other special events. Assisted imaging team members with product styling, prep and post production. Selected and set up motion picture or film cameras and accessories."
+        },
+        {
+            "title": "Production Manager, Director",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "Present",
+            "description": "Observe sets or locations for potential problems and to determine filming and lighting requirements. Supervise and coordinates the work of camera, lighting, design, and sound crew members. Communicate to actors the approach, characterization, and movement needed for each scene in such a way that rehearsals and takes are minimized."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Production Managment",
+            "school": "Hunter University",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Science: International Affairs",
+            "school": "University of Ballarat",
+            "year": 2014
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

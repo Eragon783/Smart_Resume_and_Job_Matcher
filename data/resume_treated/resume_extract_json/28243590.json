@@ -1,0 +1,66 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Over 20 years of experience working with IFC across oil and gas, mining, and renewable energy; portfolio management; risk and impairment analyses; development of loan loss reserve forecasting tools; extensive experience with IFC Portfolio Databases and investment reporting.",
+    "skills": [
+        "accounting system",
+        "Consulting",
+        "client",
+        "Database",
+        "equity",
+        "Senior Management",
+        "Finance",
+        "financial statements",
+        "forecasting",
+        "government",
+        "investments",
+        "migration",
+        "spreadsheet",
+        "word processing"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "1996-12",
+            "end_date": "Present",
+            "description": "Conducted risk and impairment analyses of IFC's portfolio of loan and equity investments and recommended specific loss reserves to cover impaired investments. Analyzed financial statements of client companies and coordinated with Investment Officers to validate information from IFC files. Participated in the development of a new loan loss reserve forecasting tool based on loan migration analysis. Took part in the preparation of the FY97 Loss Reserve Review Paper. Participated in discussions on the status of investee companies with the Investment Departments. Prepared project status reports to external auditors."
+        },
+        {
+            "title": "Policy Analyst",
+            "company": "Company Name",
+            "start_date": "1991-03",
+            "end_date": "1994-07",
+            "description": "Managed a team of seven professionals to establish and operate one of the Company's first joint ventures with the Austrian partner Berthold & Stempel. Worked on the introduction of leasing in the hotel and catering divisions of the company. Worked with Senior Management on the introduction of a new accounting system."
+        },
+        {
+            "title": "Lecturer",
+            "company": "Company Name",
+            "start_date": "1987-01",
+            "end_date": "1991-03",
+            "description": "Taught a course in Microeconomics. Participated in a number of projects on companies' restructuring and regional development issues with local enterprises and government agencies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Finance",
+            "school": "Georgetown University",
+            "year": 1996
+        },
+        {
+            "degree": "MS in Economics",
+            "school": "Varna University School of Economics",
+            "year": 1987
+        }
+    ],
+    "certifications": [
+        "Gold Medal from the Bulgarian Ministry of Education awarded for academic excellence."
+    ],
+    "languages": [
+        "Bulgarian",
+        "Russian (fluent)",
+        "German (working knowledge)"
+    ]
+}

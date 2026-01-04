@@ -1,0 +1,83 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Malvern, PA",
+    "summary": "Healthcare Analyst and Financial Expert with a focus on Revenue Cycle Management in Healthcare. Proven track record as a Systems Analyst delivering advisory and technology solutions to improve financial performance, revenue recognition, and customer satisfaction in enterprise healthcare organizations. Expert in Revenue Cycle Management, value-based reimbursement strategies, and leading cross-functional teams to develop sustainable solutions and long-lasting executive relationships.",
+    "skills": [
+        "accounting",
+        "Accounts Receivable",
+        "auditing",
+        "balance",
+        "billing",
+        "Business Communications",
+        "business plan",
+        "client",
+        "clients",
+        "client liaison",
+        "customer service",
+        "client support",
+        "Database",
+        "delivery",
+        "Financials",
+        "financial",
+        "financial consulting",
+        "Financial Management",
+        "focus",
+        "insurance",
+        "Intellectual Property",
+        "leadership",
+        "mentor",
+        "office",
+        "Networking",
+        "Operating Systems",
+        "processes",
+        "process improvement",
+        "coding",
+        "Programming",
+        "Project Management",
+        "proposal",
+        "Quality",
+        "report writing",
+        "reporting",
+        "revenue recognition",
+        "Siemens",
+        "Software Engineering",
+        "SQL",
+        "Technical Support"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Analyst",
+            "company": "Siemens Health Services / Cerner / Shared Medical Systems (via acquisitions)",
+            "start_date": "1997-01",
+            "end_date": "Present",
+            "description": "Provided operational and financial consulting for healthcare clients, serving as the primary liaison to executives. Synthesized client input into actionable proposals with cross-functional teams (SQL, Database, reporting, networking) and delivered solutions to improve Revenue Cycle Management, including accounts receivable and payer interactions. Guided clients through RAC and Medicare compliance, developed reports and abstracts to identify coding errors, and led data migration and regulatory-compliant data sharing projects. Created reusable templates to accelerate project delivery and provided technical leadership for engagements ranging from 6 days to 6 months."
+        },
+        {
+            "title": "Associate Systems Analyst",
+            "company": "Company Name",
+            "start_date": "1993-01",
+            "end_date": "1996-01",
+            "description": "Part of a team delivering over 100,000 files monthly for reporting and auditing; developed a business plan that migrated the delivery system online, resulting in cost savings. Organized transactions to install financial systems at Pennsylvania Hospital and Temple University Hospital. Built programs to update system data to meet deadlines."
+        },
+        {
+            "title": "Consultant/Analyst",
+            "company": "Company Name City, State",
+            "start_date": "1983-01",
+            "end_date": "Present",
+            "description": "Consultant/Analyst providing advisory and technical services across healthcare finance and IT domains. Responsibilities included stakeholder engagement, solution design, and delivery support in alignment with organizational goals and regulatory requirements."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Computer Information Systems",
+            "school": "University of Phoenix",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Certified Project Management Associate, International Project Management Association (IPMA, Level D), Number D15-122834"
+    ],
+    "languages": []
+}

@@ -1,0 +1,113 @@
+{
+    "name": "Edwin Combs",
+    "email": "",
+    "phone": "(618) 229-2955",
+    "location": "Scott Air Force Base, IL",
+    "summary": "Seasoned IT leader with over 20 years of experience in system administration, contingency planning, and logistics IT for aircraft and healthcare management information systems, as well as command and control systems. Proven ability to evaluate problems, develop strategies, and implement IT solutions across military and civilian sectors, with strong expertise in Lean Logistics and enterprise data integration.",
+    "skills": [
+        "Active Directory",
+        "Air Force",
+        "BI",
+        "business processes",
+        "Database Management",
+        "database",
+        "FSA",
+        "Functional",
+        "GUI",
+        "JAVA",
+        "Local Area Network",
+        "LAN",
+        "Logistics",
+        "Managing",
+        "materials",
+        "access",
+        "Microsoft Certified",
+        "MCSE",
+        "Windows",
+        "2000",
+        "enterprise",
+        "Network",
+        "Networks",
+        "organizational",
+        "policies",
+        "Program Management",
+        "Relational Databases",
+        "Risk Assessment",
+        "Standard Operation Procedure",
+        "SOP",
+        "Supervisor",
+        "Systems Analysis and Design",
+        "system integration",
+        "technician",
+        "telephones",
+        "troubleshooting",
+        "UNIX",
+        "Video",
+        "Vista",
+        "XML",
+        "Security+",
+        "MCSE (Microsoft Certified Systems Engineer)"
+    ],
+    "experience": [
+        {
+            "title": "System Administrator/Assistant Supervisor",
+            "company": "Company Name",
+            "start_date": "2001-10",
+            "end_date": "Present",
+            "description": "Assistant to the AMC/A4 IT Supervisor. Functional Systems Administrator (FSA) at Scott Air Force Base for AMC/A4 logistics systems. Integrates USTRANSCOM, AF MAF and AMC logistics, C2 and logistics management IT systems to ensure a seamless system that supports the Mobility Air Forces' global reach. Supports Lean Logistics and AF e-log 21 initiatives; works with XML, Java, interfaces, web services, BI data sharing, relational databases, data repositories, GUI tools, and wireless networks. Provides technical guidance for design, development and sustainment of management and C2 logistics systems. Coordinates training for VTC equipment and COMSEC procedures; serves as Primary Video Teleconference facilitator and COMSEC Responsible Officer for the command's VTC."
+        },
+        {
+            "title": "HealthCare Consultant",
+            "company": "Company Name",
+            "start_date": "2000-07",
+            "end_date": "2002-01",
+            "description": "Directed and implemented health screenings (blood pressure, cholesterol, diabetes) at Fortune 500 companies. Managed health risk assessments, analyzed data to provide metrics, and created educational materials for employees and physicians."
+        },
+        {
+            "title": "Clinical Research Associate",
+            "company": "Company Name",
+            "start_date": "1999-12",
+            "end_date": "2000-07",
+            "description": "Responsible for developing, documenting, advocating, and implementing integrated medical system concepts for the BMT division. Led data integration across four pharmaceutical companies and hospital clinical trials; maintained a patient records database; liaised with BMT staff."
+        },
+        {
+            "title": "Role not specified",
+            "company": "Company Name",
+            "start_date": "1997-12",
+            "end_date": "1999-12",
+            "description": "Developed, documented, and implemented integrated medical system concepts for the BMT division; led data integration; maintained records database; collaborated with staff and external stakeholders."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Information Management",
+            "school": "Webster University",
+            "year": "2004"
+        },
+        {
+            "degree": "Master of Arts: Computer Resource and Information Management",
+            "school": "Webster University",
+            "year": "2004"
+        },
+        {
+            "degree": "Bachelor of Science: Health Education",
+            "school": "Southern Illinois University",
+            "year": "1996"
+        },
+        {
+            "degree": "Bachelor of Arts: Community Health Education",
+            "school": "Southern Illinois University Edwardsville",
+            "year": "1993"
+        },
+        {
+            "degree": "Associate of Science",
+            "school": "Southwestern Illinois Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "MCSE (Microsoft Certified Systems Engineer)",
+        "Security+"
+    ],
+    "languages": []
+}

@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Ethical, team-oriented HR, AP and AR professional with experience in human resource administration, auditing, documentation, and property management. Proficient with ERP systems and SAP, strong MS Office skills, and a track record of delivering accurate financial processing and excellent customer service.",
+    "skills": [
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Customer Service",
+        "Microsoft Suite",
+        "SAP",
+        "Solomon",
+        "Knowledge of Quickbooks"
+    ],
+    "experience": [
+        {
+            "title": "HR Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "2015-04",
+            "end_date": "2015-06",
+            "description": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Made copies, sent faxes and handled all incoming and outgoing correspondence. Organized files, developed spreadsheets, faxed reports and scanned documents for inter-departmental use."
+        },
+        {
+            "title": "Accounts Payable Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "2014-02",
+            "end_date": "2014-03",
+            "description": "Receive and verify invoices and requirements and match purchase orders to invoices. Prepare batches of invoices for data entry by matching invoices to correct vendor numbers. Responsible for weekly check mailings and maintaining updated vendor files. Daily task included managing a customer service line for payments status and inquiries. Assisted with documentation for the Auditing Department."
+        },
+        {
+            "title": "Accounts Payable Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "2013-12",
+            "end_date": "2014-02",
+            "description": "Audited several months of Sprint bills to check for discrepancies in plan rates. Performed calculations, collected bills and analyzed charges. Developed a procedure for auditing Sprint bills."
+        },
+        {
+            "title": "AP/AR Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "2013-07",
+            "end_date": "2013-11",
+            "description": "Executed accounts receivable reporting enhancements and reconciliation procedures. Performed debit, credit and total accounts on computer spreadsheets/databases, using specialized accounting software. Received, recorded, and banked cash, checks, and vouchers and reconciled records of bank transactions. Coded the general ledger and processed vendor invoice payments. Deposited third party checks, as well as monthly reserve transfers. Coordinated approval processes of all accounts payable invoices. Balanced batch summary reports for verification and approval. Researched and resolved billing and invoice problems."
+        },
+        {
+            "title": "Accounts Receivable Specialist III",
+            "company": "Company Name, City, State",
+            "start_date": "2000-08",
+            "end_date": "2011-06",
+            "description": "Posted overhead invoices to general ledger accounts. Researched and resolved accounts payable discrepancies through invoice adjustments. Coded and entered at least 50 invoices each day. Managed a high-volume of inbound and outbound customer calls. Maintained accurate records to avoid late fees or service interruptions. Set up a credit card process to ensure on-time payment of utilities. Assisted with new vendor setup. Received multiple positive reviews acknowledging dedication to excellent customer service. Posted cash and completed journal entries. Implemented a scanning program to help with SOX compliance."
+        },
+        {
+            "title": "Apartment Manager/Leasing",
+            "company": "Tipton Management- Pine Lake Village Apartments, City, State",
+            "start_date": "1999-08",
+            "end_date": "2000-12",
+            "description": "Leased, managed and maintained 96% occupancy. Paid bills by allocated budget. Completed move-ins and move-outs. Procured painting and sign bids for property rehab. Served evictions and filed eviction papers. Sent renewal letters and offered renewal incentives."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSBA in Human Resource Management",
+            "school": "CTU Online",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

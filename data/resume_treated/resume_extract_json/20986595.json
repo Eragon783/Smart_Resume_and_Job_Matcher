@@ -1,0 +1,93 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Passionate person with two years of experience as a marketing coordinator. Strong adaptability to new working environment and willing to learn new skills and take on new challenges. Skilled in designing campaign materials and promotional items using InDesign and Illustrator. Seeking a position in marketing with a company on a long-term basis who is looking for a hardworking, goal-oriented team player.",
+    "skills": [
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Advertising",
+        "Audio production",
+        "Desktop Publishing",
+        "Budget planning",
+        "Mandarin Chinese",
+        "English",
+        "Google Analytics",
+        "MS Excel",
+        "MS Outlook",
+        "MS PowerPoint",
+        "MS Word",
+        "Windows 7",
+        "Mac",
+        "Leadership",
+        "Marketing analysis",
+        "Market research",
+        "Marketing strategies",
+        "Marketing Communication",
+        "Meetings",
+        "Posters",
+        "Public Relations",
+        "PR",
+        "Speaking",
+        "Radio",
+        "Real estate",
+        "Research",
+        "Strategy",
+        "Surveys",
+        "Television",
+        "Websites",
+        "Content",
+        "Consulting",
+        "Client management",
+        "Networking",
+        "New construction"
+    ],
+    "experience": [
+        {
+            "title": "Marketing Coordinator/Graphic Designer",
+            "company": "Company Name – City, State",
+            "start_date": "2013-01",
+            "end_date": "2013-12",
+            "description": "Managed campaigns and poster design; coursework and projects in Advertising and Public Relations; set advertising objectives; created advertising campaigns; measured advertising effectiveness; designed posters; conducted market research; established mission statements and core values; SWOT analysis; budget considerations; selected media; created all posters and designs."
+        },
+        {
+            "title": "Advertising Producer",
+            "company": "Company Name – City, State",
+            "start_date": "2012-02",
+            "end_date": "2012-12",
+            "description": "Dubbed, edited, and selected soundtracks using Adobe Audition; created and edited ads for products; radio and television delivery; hosted a radio show; edited news and audio production."
+        },
+        {
+            "title": "Account Executive Intern",
+            "company": "Company Name – City",
+            "start_date": "2011-05",
+            "end_date": "2011-08",
+            "description": "Initiated new projects; maintained contact with past and potential clients; conducted internal and external meetings; contributed to project progress."
+        },
+        {
+            "title": "Manager Assistant",
+            "company": "Company Name – City, State",
+            "start_date": "2014-02",
+            "end_date": "2014-06",
+            "description": "Assisted in providing consulting services to a Shenzhen investment company; evaluated portfolios and properties; identified valuations; built investor profiles; conducted comprehensive marketing analyses; developed strategy; identified shopping malls and potential investment projects; managed investor relationships."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Corporate Media",
+            "school": "Marietta College",
+            "year": "2011"
+        },
+        {
+            "degree": "Bachelor of Science in Accounting and Marketing",
+            "school": "Utah State University",
+            "year": "2010"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Mandarin Chinese",
+        "English"
+    ]
+}

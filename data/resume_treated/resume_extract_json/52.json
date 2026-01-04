@@ -1,0 +1,97 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Petah-Tikva, Hadera 1",
+    "summary": "Senior .Net developer with 10+ years experience in architecture analysis, software design and mentoring. Problem-solver with strong interpersonal and teamwork skills who is excited to work in agile and fast-paced team.",
+    "skills": [
+        ".Net (3.1-6.0)",
+        "ASP.NET",
+        "PostgreSQL",
+        "Linux (CentOS, Debian)",
+        "MVC",
+        "Http Web API",
+        "MS SQL",
+        "Docker",
+        "GRPC",
+        "Microservices",
+        "MongoDB",
+        "CI/CD (TFS, Azure)",
+        ".NET Classic (4.0-4.8)",
+        "Pipelines",
+        "Jenkins",
+        "Unit testing (NUnit)",
+        "EF",
+        "Linq2Db",
+        "Multithreading",
+        "UI",
+        "Cloud",
+        "Web UI (HTML, JS, CSS)",
+        "AWS (S3, EC2)",
+        "Asterisk",
+        "jQuery",
+        "Razor",
+        "Azure (Cloud Computing)",
+        "Apache Kafka",
+        "Windows Desktop",
+        "Service Bus",
+        "WinForms",
+        "WPF",
+        "Yandex cloud",
+        "MacOS",
+        "Xamarin",
+        "Cocoa",
+        "Mono"
+    ],
+    "experience": [
+        {
+            "title": "Senior Software Developer",
+            "company": "MTS",
+            "start_date": "MAR 2022",
+            "end_date": "PRESENT",
+            "description": "Developing voice-bot using Asterisk + .NET 6.0, microservices and Kafka. Implemented RTP voice traffic real-time high-frequency, low-latency transfer between Asterisk and microservices (GRPC, multithreading)."
+        },
+        {
+            "title": "Lead Software Developer",
+            "company": "Runcall.ru",
+            "start_date": "MAR 2019",
+            "end_date": "MAR 2022",
+            "description": "Developing & maintaining voice-bot (Postgres, .NET Core 3.1-5.0), Rest API, Razor & jQuery, Asterisk + .NET microservices, Kafka. Solo responsibility for architecture decisions and feature delivery; created own SIP-phone software server to reduce company costs by over 20%."
+        },
+        {
+            "title": "C# Developer",
+            "company": "Swordfish Security",
+            "start_date": "MAR 2018",
+            "end_date": "MAR 2019",
+            "description": "Developed & maintained TPP - Trust Protection Platform: cross-platform desktop app (WinForms & Xamarin Mac); web part (MsSql, .NET 4.6, Rest Api, jQuery, Backbone). Replaced shared files approach with .NET Standard for desktop app, reducing maintenance time by half."
+        },
+        {
+            "title": "Senior .Net Developer",
+            "company": "Brain Systems Ltd",
+            "start_date": "NOV 2015",
+            "end_date": "MAR 2018",
+            "description": "Developing & maintaining ERP system for Russian hospitals (WinForms, MSSQL, MVC Razor & jQuery, DevExpress tools). Full responsibility for short-term development & feature delivery, supervision of junior developers."
+        },
+        {
+            "title": "Middle .Net Developer (WPF)",
+            "company": "SevenTest",
+            "start_date": "OCT 2012",
+            "end_date": "SEP 2015",
+            "description": "Developing desktop WPF applications for utility purposes (.NET 4.5). Creating MSI packages (InstallShield, WIX)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Specialist",
+            "school": "Saint-Petersburg University of Engeneering & Economics",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "MS: Programming in C# (Microsoft), February 2016"
+    ],
+    "languages": [
+        "Russian (native)",
+        "English (fluent)"
+    ]
+}

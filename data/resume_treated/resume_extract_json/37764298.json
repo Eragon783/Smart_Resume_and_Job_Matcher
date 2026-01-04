@@ -1,0 +1,105 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "Microsoft Word",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Excel",
+        "Microsoft Access",
+        "CRM",
+        "Adobe Acrobat XI Professional",
+        "Snag-It",
+        "Hot Docs",
+        "Windows XP",
+        "Windows Vista",
+        "Windows 7",
+        "Windows 8",
+        "Windows Server 2000",
+        "Windows Server 2003",
+        "hardware repair",
+        "desktop support",
+        "laptop repair",
+        "server installation and configuration",
+        "network setup",
+        "network troubleshooting",
+        "printers",
+        "routers",
+        "data entry",
+        "Visual Basic",
+        "SQL",
+        "system administration",
+        "Notary Public",
+        "FERPA",
+        "Time Matters",
+        "UCAP"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Consultant",
+            "company": "Company Name",
+            "start_date": "12/2009",
+            "end_date": "02/2016",
+            "description": "Provided hardware and software IT support, including building, repairing and upgrading desktops and laptops; installed and configured servers, printers and routers; performed basic network setup and troubleshooting; installed software and printers; supported IT needs of individuals. Accomplishments: set up network for a small non-profit organization; created organizational spreadsheets for daily operations and marketing; upgraded SQL and Time Matters for Edward S. Clay, P.A."
+        },
+        {
+            "title": "Office Administrator/Billing Assistant",
+            "company": "Company Name",
+            "start_date": "08/2015",
+            "end_date": "01/2016",
+            "description": "Assisted with administrative duties in operations; created airtime spreadsheets and supported revenue reporting; data entry into internal billing system (UCAP); downloaded invoices and data files from airtime carriers; performed monthly airtime billing using UCAP; activated/deactivated SIMs/devices; ran usage and airtime reports; reconciled carrier charges to UCAP output; placed orders, received and shipped packages."
+        },
+        {
+            "title": "Funding & Settlement Coordinator/Office Manager",
+            "company": "Company Name",
+            "start_date": "08/2011",
+            "end_date": "08/2015",
+            "description": "Managed asset re-titling into trusts; entered client data into database and legal document generation software; built long-term relationships with trust maintenance clients; ordered office supplies and legal document supplies; answered phones; scheduled appointments; managed attorney's calendar; printed legal documents and prepared delivery binders; reviewed legal documents for formatting errors and missing information; witnessed clients' signatures on legal documents; notarized certain signatures; generated funding instructions for trust clients (Family Legacy and Documents Only); troubleshooted and maintained computer network and workstations; achieved growth in client base; managed probate processes and funding of assets; supervised the office and performed related tasks independently."
+        },
+        {
+            "title": "Student Operations Specialist",
+            "company": "Company Name",
+            "start_date": "01/2002",
+            "end_date": "12/2009",
+            "description": "Prepared student reports for state regulatory agencies and ACCET; answered phones; data entry of enrollments and materials; reported inventory and distribution of student classroom materials to CFO; developed complex Excel and Visual Basic spreadsheets; published and updated student policy catalog; protected student privacy under FERPA; managed course scheduling for 25 schools and all student records and transcripts; maintained records of complaints and collaborated on responses; contributed to cost savings of over $4 million by strengthening textbook inventory controls."
+        },
+        {
+            "title": "Information Technology Coordinator",
+            "company": "Company Name",
+            "start_date": "05/1996",
+            "end_date": "05/2001",
+            "description": "Installation and troubleshooting of Windows 2000 workstations; hardware, printers, peripherals and software; managed telecommunications system administration, programming and troubleshooting; trained brokers and new employees on system and applications; processed stock certificates and checks; supervised operations staff; maintained records for annual audits and SEC compliance; resolved trade errors; earned multiple fast-track promotions; primary technical troubleshooter for 93 work stations and 6 remote offices."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S in Business Finance",
+            "school": "Towson University",
+            "year": 1991
+        },
+        {
+            "degree": "Certificate of Completion, Microsoft Certified Systems Engineer Training",
+            "school": "ComputerTraining.Com",
+            "year": 2002
+        },
+        {
+            "degree": "Microsoft Certified Systems Engineer",
+            "school": "Microsoft",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified Systems Engineer (MSCE)",
+            "year": 2002
+        },
+        {
+            "name": "Notary Public",
+            "expiry": "2018-08-26"
+        }
+    ],
+    "languages": []
+}

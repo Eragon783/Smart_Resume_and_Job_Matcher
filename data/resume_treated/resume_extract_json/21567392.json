@@ -1,0 +1,59 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Not specified",
+    "summary": "Motivated Construction Manager with strong knowledge of civil engineering principles, experienced in leading teams on large-scale residential and commercial construction projects.",
+    "skills": [
+        "Excellent customer relations",
+        "Subcontractor management",
+        "Knowledgeable in construction safety",
+        "Fluent in Arabic",
+        "Fluent in English",
+        "Project Management",
+        "Project Planning",
+        "Quality",
+        "QA",
+        "Reporting",
+        "Risk Assessment",
+        "Safety",
+        "Piping and steel structure coordination",
+        "Fabrication and erection oversight",
+        "Resource and schedule coordination"
+    ],
+    "experience": [
+        {
+            "title": "Project Construction Manager",
+            "company": "Company Name – City",
+            "start_date": "2002-01",
+            "end_date": "Present",
+            "description": "Reviewed plans and specs during schematic design; coordinated utility service providers; led weekly production and operations contractor meetings; performed site observations; reported to VP of production; managed pre-installation conferences; archived progress photos and closeout documents; determined project schedule and sequence of activities; provided safety kits; prepared progress reports; offered technical assistance; guided third-party inspectors; ensured timely site inspections; supported emergency repair and restoration on oil and natural gas pipelines; scheduled contractors and material deliveries; trained onsite crew."
+        },
+        {
+            "title": "Project Construction Engineer",
+            "company": "Consolidated Contractors International Company (CCIC)",
+            "start_date": "1993-05",
+            "end_date": "2002-01",
+            "description": "Coordinated and directed site activities; enforced safety procedures; oversaw fabrication and erection works; coordinated with client representatives; managed multiple projects including onshore gas development, Ras Laffan LNG, and Khatiya degassing upgrades; ensured compliance with NPCC and client HSE standards."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Petroleum Engineering",
+            "school": "University of Miskolc",
+            "year": "1993"
+        },
+        {
+            "degree": "Building Construction Trades Certificate",
+            "school": "Unknown",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Professional Project Management Program (PMP) - Cambridge Educational Institute, Abu Dhabi, 2009"
+    ],
+    "languages": [
+        "Arabic",
+        "English"
+    ]
+}

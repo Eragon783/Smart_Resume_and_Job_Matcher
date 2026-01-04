@@ -1,0 +1,42 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State, United States",
+    "summary": "Certified Custom Framer with proven ability to multitask, meet deadlines, and provide excellent customer service. Strong problem solver with excellent communication skills.",
+    "skills": [
+        "Certified in custom framing",
+        "Customer service",
+        "Multitasking",
+        "Time management",
+        "Communication skills",
+        "Problem solving"
+    ],
+    "experience": [
+        {
+            "title": "Certified Custom Framer",
+            "company": "Company Name",
+            "start_date": "01/2015",
+            "end_date": "Current",
+            "description": "Providing great customer service in helping each customer pick design that best fits their needs. Managing time to meet deadlines. Helping out on the floor or at register when needed. Training new associates in the frame shop."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "09/2014",
+            "end_date": "11/2014",
+            "description": "Delivered excellent customer service by greeting and assisting each customer. Filled in positions when understaffed or a task needed to be completed. Assisted manager in closing down store and cash registers at the end of each night. Visual merchandising through setting planograms and detailed recovery. Stocked inventory when shipments were received. Learned how to work with a team to accomplish greater tasks."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Trinity High School",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        "Certified Custom Framer"
+    ],
+    "languages": []
+}

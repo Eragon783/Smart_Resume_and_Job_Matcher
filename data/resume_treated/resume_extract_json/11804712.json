@@ -1,0 +1,85 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Quality-focused aviation mechanic and manager with experience driving maintenance programs, projects, and operations to keep fleets of fixed- and rotor-wing aircraft at top performance. Recognized for technical, administrative, leadership, and communication skills; highly adept at motivating and directing teams to meet production schedules and goals in fast-tempo environments with shifting priorities and requirements. Current SECRET security clearance.",
+    "skills": [
+        "Aviation",
+        "Calibration",
+        "Documentation",
+        "Maintenance",
+        "Avionics",
+        "Blueprints",
+        "Budgets",
+        "Electrical Systems",
+        "Engines",
+        "Hazardous Waste",
+        "Hydraulics",
+        "Internal Controls",
+        "Quality Assurance",
+        "Scheduling",
+        "Schematics",
+        "Sequencing",
+        "Technical Publications",
+        "Training",
+        "Turbine",
+        "Aircraft Maintenance",
+        "Audits",
+        "Logistics",
+        "Quality Control",
+        "Testing",
+        "Excel",
+        "Microsoft Office",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "Security",
+        "OSHA 30",
+        "General Aviation"
+    ],
+    "experience": [
+        {
+            "title": "Aviation Mechanic",
+            "company": "Company Name",
+            "start_date": "August 2010",
+            "end_date": "Present",
+            "description": "Orchestrate aircraft maintenance across 12 work centers, supervising 200+ technicians in testing, troubleshooting, and upkeep of fixed- and rotor-wing aircraft and subsystems. Direct organizational- and intermediate-level maintenance programs; implement policies, improve processes, and provide technical supervision and management control. Drive production quality control and administrative audits; collect, analyze, and interpret test data to provide senior leadership with crucial guidance for improving operational efficiency and performance. Key contributions include establishing schedules, organizing workloads, and leading multi-functional teams to meet aggressive production timelines. Completed 2,200 maintenance actions to keep seven H-60R/S, three P-8A, and two E-2D aircraft at peak airworthiness and operational readiness. Supervised calibration, repair, and replacement of damaged or unserviceable parts, components, and assemblies; manufactured parts in-house when necessary. Coordinated logistics plans and documentation for P-8A programs; evaluated maintenance concepts, resources, and policies; addressed depot issues with viable solutions. Trained and mentored junior technicians; enforced FOD, hazardous waste, and tool-control programs; ensured quality standards."
+        },
+        {
+            "title": "Aviation Maintenance & Production Manager",
+            "company": "United States Navy",
+            "start_date": "August 2010",
+            "end_date": "Present",
+            "description": "Orchestrate aircraft maintenance activity across 12 work centers, supervising 200+ technicians in testing, troubleshooting, and upkeep of aircraft and engine subsystems on fixed and rotor-wing models. Direct organizational-level and intermediate-level maintenance programs; implement policies, improve processes, and provide technical supervision and management control of programs impacting aircraft maintenance activities. Drive production quality control and administrative audits; collect, analyze, and interpret test data to provide senior leadership with crucial guidance for improving operational efficiency and performance. Key contributions include establishing schedules, workload organization, and leading multi-functional teams to meet aggressive production timelines. Completed 2,200 maintenance actions to keep seven H-60R/S helicopters, three P-8A, and two E-2D aircraft at peak airworthiness and operational readiness. Supervised calibration, repair, and replacement of damaged or unserviceable parts, components, and assemblies; manufactured parts in-house when necessary. Steered development of logistics plans and documentation for implementing and sustaining P-8A logistics programs; evaluated maintenance concepts, resources, and policies; addressed depot issues with viable solutions."
+        },
+        {
+            "title": "Aviation Mechanic",
+            "company": "United States Navy",
+            "start_date": "June 1994",
+            "end_date": "August 2010",
+            "description": "Skillfully performed scheduled/un-scheduled and preventative maintenance across a variety of aircraft models; led troubleshooting, removal, repair, modification, calibration, assembly, and quality assurance of mechanical and electrical systems, subsystems, airframes, power plants, engines, hydraulics, avionics, and associated support equipment (SE). Coordinated with technicians from multiple shops to drive work sequencing, scheduling, and priority changes; adapted procedures and resources to resolve problems arising from equipment failures, material delays, and labor shortages. Trained employees and inspected finished work to ensure adherence with quality standards; documented maintenance activity and submitted reports on schedule. Key contributions: diagnosed, isolated, and corrected technical problems quickly to minimize aircraft downtime; interpreted maintenance manuals, blueprints, schematics, and technical publications; used test equipment including mechanical rpm test sets, engine, propeller, and turbine Vibration Analysis Test Set (VATS). Enforced FOD, hazardous waste, and tool-control programs; coached junior mechanics to meet qualifications."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Technical Management / Occupational Safety and Health",
+            "school": "Embry-Riddle Aeronautical University",
+            "year": "2014"
+        },
+        {
+            "degree": "Associate of Science in Aviation Technology",
+            "school": "Coastline Community College",
+            "year": ""
+        },
+        {
+            "degree": "Associate of Science in Health Technology",
+            "school": "Coastline Community College",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "OSHA 30-Hour General Industry Safety & Standards Certificate"
+    ],
+    "languages": []
+}

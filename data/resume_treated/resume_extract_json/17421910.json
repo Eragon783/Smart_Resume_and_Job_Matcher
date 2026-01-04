@@ -1,0 +1,54 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Business development/Marketing professional experienced in sales management, marketing, technical presentation creation and service training. Diligent and driven individual who has achieved success in a variety of roles with increasing levels of responsibility. An effective communicator and team-builder with strong analytical, management and organizational skills.",
+    "skills": [
+        "MS Office (Word, Excel, Powerpoint, Publisher, Outlook)",
+        "Constant Contact",
+        "ASA/400"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Executive",
+            "company": "Company Name",
+            "start_date": "06/2010",
+            "end_date": "Current",
+            "description": "Conducted informational and educational workshops at CUNY/SUNY College campuses benefit fairs that increased credit union membership and exposure. Implemented in house marketing design for brochures, posters, articles, flyers, newsletters, e-marketing, social media/web page content which saved over $10,000 annually. Generated and maintained social media calendar for Facebook, Twitter, Corporate bog, etc. to ensure member engagement and that all content is reflective of current media and new product/service campaigns. Identified issues with existing marketing material to drive process improvements. Collaborated with account executives to penetrate new accounts, identify potential customers and coordinate product demonstrations."
+        },
+        {
+            "title": "Loan Manager",
+            "company": "Company Name",
+            "start_date": "09/2001",
+            "end_date": "06/2010",
+            "description": "Analyzed applicants' debt to income ratio, credit report, financial and employment history to evaluate credit worthiness for personal, auto, educational, credit card and home equity loans. Communicated credit approvals and denials as well as facilitated other options such as Credit Counseling methods to improve member financial success and provided members with assistance regarding budget counseling, consolidations, payment methods and other areas relating to member's financial needs. Implemented software that streamlined collateral processing and tracking which led to an increase of operational efficiency and reduced exposure to fraud. Ensured Credit Union loan policies, procedures, documents, products and services were compliant with NCUA rules and regulations and effectively executed by staff Developed relationships with new and existing members to identify their financial needs, and assist in selection of appropriate financial products and services resulting in new loan growth by 15%. Accurately reported borrower performance to credit bureaus and responded to borrower disputes through E-Oscar."
+        },
+        {
+            "title": "Credit/Collections Analyst",
+            "company": "Company Name",
+            "start_date": "01/1998",
+            "end_date": "09/2001",
+            "description": "Implemented new credit card system. Resolved customer inquiries and potential disputes. Managed the Electronic Funds Transfer processes are scheduled and performed timely and accurately for member access. Ensured member compliance of credit policies and procedures are accurate and upheld. Monitored, reviewed, and processed all credit card transactions. Coordinated with senior management to evaluate bad debt situations and determine effective, appropriate course of action which resulted in a 25% decrease in delinquencies and charge-offs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Finance",
+            "school": "Zicklin School of Business, Baruch College",
+            "year": 2011
+        },
+        {
+            "degree": "BBA in Computer Information Systems",
+            "school": "Baruch College",
+            "year": 1997
+        },
+        {
+            "degree": "Associate of Applied Science in Marketing",
+            "school": "Bronx Community College",
+            "year": 1994
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

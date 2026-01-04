@@ -1,0 +1,49 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Atlanta, GA",
+    "summary": "Adaptable and ambitious administrative professional with 5+ years experience in accounting and finance, real estate, as well as customer service.",
+    "skills": [
+        "Excellent communication skills",
+        "Articulate and well-spoken",
+        "Accurate and detailed",
+        "Microsoft Office proficiency",
+        "Social media knowledge",
+        "Team building",
+        "Invoice processing",
+        "Strong client relations"
+    ],
+    "experience": [
+        {
+            "title": "Color Consultant",
+            "company": "Sephora",
+            "start_date": "November 2016",
+            "end_date": "Current",
+            "description": "Achieving the stores daily sales goal by assisting clients with their product purchases. Analyzing skin condition and make appropriate product recommendations. Working as a team with colleagues and participating in weekly competitions/games, themes, etc. Stocking shelves, supplies, and organizing displays. Developing positive customer relationships through friendly greetings and excellent service."
+        },
+        {
+            "title": "Office Manager",
+            "company": "McHugh CPA Group",
+            "start_date": "June 2012",
+            "end_date": "September 2016",
+            "description": "Microsoft proficency, meticulous attention to detail, strong problem solving, and customer service were required skills needed as an Office Manager. Daily responsibilities: Preperation of tax returns, E-filing, and POA's (Power of Attorney). Managed accounts payable/recievable. Oversaw inventory and office supply purchases. Helped distribute employee notices and mail around the office. Performed complex general accounting functions, including preperation of journal entries, account analysis, and balance sheet reconciliations. Screened applicant resumes and coordinated both phone and in-person interviews."
+        },
+        {
+            "title": "Receptionist",
+            "company": "RE/MAX",
+            "start_date": "March 2011",
+            "end_date": "July 2012",
+            "description": "Worked for RE/MAX as an entry level receptionist. Daily responsibilities included: Planned and coordinated logistics and materials for board meetings, committee meetings, and staff events. Managed office supplies, vendors, organization, and up keep. Coordinated, scheduled, and arranged meeting and travel calendars, including business and social events. Opened and properly distributed incoming mail. Directed guests and routed deliveries and courier services."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High school",
+            "school": "Norwich Free Academy",
+            "year": "2010"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

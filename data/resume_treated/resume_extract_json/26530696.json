@@ -1,0 +1,76 @@
+{
+    "name": "Tracy",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Highly enthusiastic customer service professional with 10 years client interface experience. Reliable Customer Service Representative with extensive track record in demanding sales and account management environments. Dedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company success.",
+    "skills": [
+        "Strong organizational skills",
+        "Active listening",
+        "Conflict resolution",
+        "Problem solving",
+        "Customer service",
+        "Telecommunication skills",
+        "Team player",
+        "Sales",
+        "Communication",
+        "MS Office",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Outlook",
+        "Access",
+        "SQL",
+        "Troubleshooting",
+        "Technical support",
+        "User Support",
+        "Call Center",
+        "Trainer",
+        "Relationship building",
+        "Selling",
+        "Sales Support",
+        "Documentation",
+        "Well organized"
+    ],
+    "experience": [
+        {
+            "title": "D2B Sales",
+            "company": "Company Name",
+            "start_date": "May 2015",
+            "end_date": "Present",
+            "description": "Developed highly empathetic client relationships and earned reputation for exceeding sales goals. Achieved high sales percentage with consultative, value-focused customer service approach."
+        },
+        {
+            "title": "Customer Service",
+            "company": "Company Name",
+            "start_date": "September 2013",
+            "end_date": "Present",
+            "description": "Maintained up-to-date knowledge of store policies regarding payments, returns and exchanges. Created new processes and systems for increasing customer service satisfaction."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "September 2013",
+            "end_date": "May 2015",
+            "description": "Prevented store losses using awareness, attention to detail and integrity. Maintained up-to-date knowledge of store policies regarding payments, returns and exchanges. Created new processes and systems for increasing customer service satisfaction. Developed highly empathetic client relationships and earned reputation for exceeding sales goals. Achieved high sales percentage with consultative, value-focused customer service approach. Managed quality communication, customer support and product representation for each client. Worked under strict deadlines and responded to service requests and emergency call-outs. Interacted with customers and retail buyers to follow-up on shipping statuses and expedited orders. Assisted customers with store and product complaints. Guaranteed positive customer experiences and resolved all customer complaints. Accurately logged all daily shipping and receiving orders. Kept abreast of rapidly evolving technology."
+        },
+        {
+            "title": "Trainer / New Hire Customer Service Specialist",
+            "company": "Company Name",
+            "start_date": "January 2000",
+            "end_date": "January 2006",
+            "description": "MS Office power-user with additional proficiencies in assorted databases. Provided telephone, online and face-to-face customer service/support within high-volume call centers. Trained 95 new employees quarterly; recognized for performance and top trainer capabilities."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science Degree, X-Ray Science",
+            "school": "High Tech Institute",
+            "year": 2003
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

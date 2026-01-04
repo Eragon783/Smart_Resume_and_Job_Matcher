@@ -1,0 +1,84 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "USE MY SKILLS TO MEET THE REQUIREMENTS OF THE COMPANY I WORK FOR IN ORDER TO COMPLETE THE COMPANIES GOALS.",
+    "skills": [
+        "Excel",
+        "Microsoft Office",
+        "Read Schematics",
+        "Blue Prints",
+        "Automotive",
+        "Consolidations",
+        "DC 8",
+        "Schematics",
+        "Telephone"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Had Classes for safety and handed out rule books to personnel. Set up programs on their computers help them keep current location of their inventory (Rail Cars). Set up a process for computer personnel to report information on movement of inventory to their Supervisors."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Asst. Bldg. Superintendent, Manager of the Demurrage and Switching Billing, Asst. To Clerical Director, Manager Crew"
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Manager Prevention of Inter-modal equipment. Retired"
+        },
+        {
+            "title": "Assembler",
+            "company": "Chrysler Automotive",
+            "start_date": "",
+            "end_date": "",
+            "description": "Assembled on DC-8 Aircraft"
+        },
+        {
+            "title": "Assembler",
+            "company": "McDonald Aircraft Co.",
+            "start_date": "",
+            "end_date": "",
+            "description": "Assembler on DC 8 Aircraft"
+        },
+        {
+            "title": "Central Office Computers Technician",
+            "company": "General Telephone Co.",
+            "start_date": "",
+            "end_date": "",
+            "description": "Central Office Computers Tech."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma",
+            "school": "Tuloso-Midway High School",
+            "year": "",
+            "location": "Corpus Christi, Texas"
+        },
+        {
+            "degree": "60 Semester Hours",
+            "school": "San Jacinto College",
+            "year": "",
+            "location": "Pasadena, Texas"
+        },
+        {
+            "degree": "4 company schools",
+            "school": "General Telephone",
+            "year": "",
+            "location": "Long Beach, California"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

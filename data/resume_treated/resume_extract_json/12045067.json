@@ -1,0 +1,109 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "(520) 459-3174",
+    "location": "Sierra Vista, Arizona",
+    "summary": "Accomplished IT Specialist with over a decade of experience in project management, systems integration, and IT infrastructure for DoD/US Army environments, including C4I/IT systems, BRAC relocations, and large-scale network deployments.",
+    "skills": [
+        "Administrative",
+        "Analyst",
+        "Army",
+        "Agency",
+        "cable",
+        "cabling",
+        "Cat5",
+        "documentation",
+        "Engineer",
+        "engineering support",
+        "financial",
+        "Functional",
+        "Government",
+        "IMS",
+        "Information Systems",
+        "Information Technology",
+        "local area networks",
+        "Local Area Network",
+        "LANs",
+        "LAN",
+        "law",
+        "Materials",
+        "meetings",
+        "Office",
+        "Network",
+        "networks",
+        "personnel",
+        "procurement",
+        "project leader",
+        "project coordination",
+        "QA",
+        "quick",
+        "Radio",
+        "routing",
+        "SAT",
+        "scheduling",
+        "Supervisor",
+        "surveys",
+        "Switch",
+        "System Design",
+        "Systems Integration",
+        "telecommunications",
+        "Telephone",
+        "Theatre",
+        "UHF",
+        "Ultra High Frequency",
+        "upgrades",
+        "upgrade",
+        "validation",
+        "Vista",
+        "voice and data"
+    ],
+    "experience": [
+        {
+            "title": "Project Engineer",
+            "company": "U.S. Army Information Systems Engineering Command (USAISEC)",
+            "start_date": "December 2009",
+            "end_date": "January 2012",
+            "description": "Directed and managed IT infrastructure projects as a Project Engineer, with a focus on large and complex data networks and VIS/IT infrastructure. Led a five-person Integrated Product Team (IPT) to implement a $25 million IT infrastructure for the new C4 facility for the Joint Special Operations Command (JSOC) at Fort Bragg, NC. Coordinated IT requirements, system design plans, contract documents, and design drawings; reviewed construction drawings; justified design changes; provided technical oversight ensuring compliance with security standards and customer requirements. Created the Integrated Master Schedule (IMS), supported BRAC-related ARCENT relocation, prepared Statements of Work (SOWs), ARP, and procured/monitored contractor performance. Managed financial and resource planning, including manpower and TDYs; performed SAT oversight and ensured system reliability and maintainability."
+        },
+        {
+            "title": "IT Specialist",
+            "company": "U.S. Army Information Systems Engineering Command (USAISEC)",
+            "start_date": "January 2012",
+            "end_date": "Present",
+            "description": "As IT Specialist, continued leadership in IT infrastructure projects and system integration. Maintained project coordination responsibilities, managed requirements development, system design plans, and contractor oversight. Represented JSOC and ISEC in meetings with USACE and stakeholders, managed IMS for ongoing IT and VIS subsystem integration, and provided ongoing support for BRAC-related relocations and large-scale network deployments."
+        },
+        {
+            "title": "Systems Integration Analyst",
+            "company": "Company Name",
+            "start_date": "July 2009",
+            "end_date": "December 2009",
+            "description": "Developed Facility Design Criteria (FDC), System Design Plans (SDPs), Engineering Installation Packages (EIPs), List of Materials (LOMs) and other acquisition documentation for complex IT projects. Worked with Government and sub-contractor personnel to guide and validate project documentation for BRAC relocations (FORSCOM and USARC). Provided engineering, procurement, installation, cutover and testing requirements for HF/UHF radio systems and antennas in support of C4I/IT systems projects. Ensured contract deliverables were complete and delivered on time per ARP."
+        },
+        {
+            "title": "Communications Engineer",
+            "company": "Company Name",
+            "start_date": "April 2001",
+            "end_date": "September 2009",
+            "description": "Provided IT engineering services for EFIT at multiple C2 facilities; performed QA/QC checks and Acceptance Testing on C2 facility upgrades and HQ relocations. Supported SOUTHCOM HQ relocation, developed FDC, SDP, LOMs, cost estimates, and test plans for radio and satellite systems, copper and fiber cabling, and associated infrastructure. Provided on-site engineering for voice, data, and VIS systems; designed and installed Briefing and Display Facilities (BDF), conference rooms, and Command Center areas. Conducted QA/QC, supported GCCS, DR SN, NIPRNET, SIPRNET, SCI LAN, and telecom systems; supervised fiber optic and Cat5 cabling and related equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science (BS) in Information Technology",
+            "school": "University of Phoenix",
+            "year": 2005
+        },
+        {
+            "degree": "Associate of Applied Science (AAS) in Electronic Technology",
+            "school": "Cochise College",
+            "year": 2003
+        },
+        {
+            "degree": "Associate in General Studies",
+            "school": "Cochise College",
+            "year": 2001
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

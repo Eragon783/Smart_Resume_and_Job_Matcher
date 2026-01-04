@@ -1,0 +1,101 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To obtain a position within an organization that utilizes my skill set to continuously add value and achieve best-in-class results.",
+    "skills": [
+        "data analysis",
+        "administrative",
+        "customer service",
+        "account maintenance",
+        "problem-solving",
+        "thoroughness",
+        "attention to detail",
+        "self-motivation",
+        "prioritizing",
+        "multitasking",
+        "meeting deadlines",
+        "independent",
+        "teamwork",
+        "Microsoft Office",
+        "OpenWells",
+        "Spotfire",
+        "SAP",
+        "Concur",
+        "QuickBooks",
+        "Adobe",
+        "training",
+        "motivate",
+        "supervise",
+        "delegate",
+        "learn quickly",
+        "data presentation",
+        "coordinating",
+        "event planning",
+        "logistics coordinating",
+        "correspondences",
+        "credit",
+        "data entry",
+        "dispatching",
+        "drivers",
+        "forms",
+        "inventory",
+        "Excel",
+        "Outlook",
+        "Publisher",
+        "Word",
+        "sales",
+        "scheduling",
+        "phone",
+        "time management",
+        "transportation",
+        "websites"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Technologist",
+            "company": "Company Name",
+            "start_date": "2016-12",
+            "end_date": "Present",
+            "description": "Engineering Technologist with data analysis and administrative responsibilities; coordination and problem-solving."
+        },
+        {
+            "title": "Sr Administrative Assistant/Technologist",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "2016-12",
+            "description": "Administrative and Technologist duties, support office operations and cross-team coordination."
+        },
+        {
+            "title": "Assistant Office Manager",
+            "company": "Company Name",
+            "start_date": "2010-03",
+            "end_date": "2010-12",
+            "description": "Managed Sales team and Dispatch Team; trained, supervised, scheduled, and delegated tasks; built relationships with customers and carriers."
+        },
+        {
+            "title": "Dispatch Assistant",
+            "company": "Company Name",
+            "start_date": "2007-09",
+            "end_date": "2010-01",
+            "description": "Data entry, scheduling, dispatching, updating websites; effective communication with colleagues, customers and drivers; used Outlook, Word, Excel, Publisher, PeopleNet and FreightLink."
+        },
+        {
+            "title": "Bartender",
+            "company": "Company Name",
+            "start_date": "2006-03",
+            "end_date": "2009-10",
+            "description": "Customer service-focused bartending; cash and card sales, inventory management, bar upkeep, and creating a positive atmosphere."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Sociology and Business Management",
+            "school": "Purdue University",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

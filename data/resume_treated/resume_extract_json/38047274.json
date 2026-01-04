@@ -1,0 +1,63 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly motivated planner/scheduler with Navy maintenance and aviation experience. Strong communicator, problem solver, attention to detail, and time management. Certified Nurse Assistant; Lean Six Sigma Green Belt; CPR certified; proficient in Microsoft Office. Pursuing a transition into the health field.",
+    "skills": [
+        "Certified Nurse Assistant",
+        "Strong verbal communication",
+        "Strong written skills",
+        "Lean Six Sigma Green Belt",
+        "CPR certified",
+        "Microsoft Office Suite",
+        "Strong attention to detail",
+        "Time management"
+    ],
+    "experience": [
+        {
+            "title": "Planner/Scheduler",
+            "company": "Company Name - City, State",
+            "start_date": "Nov 2011",
+            "end_date": "Jan 2015",
+            "description": "Determine schedules, sequences, and assignments for work activities; monitor employees' work levels and performance; monitor tool and part inventories and the condition and maintenance of shops to ensure adequate working conditions; investigate accidents or injuries and prepare reports; compile operational or personnel records; develop, implement, or evaluate maintenance policies and procedures; conduct training; inspect and monitor work areas, examine tools and equipment, and provide employee safety training; requisition materials and supplies; participate in budget preparation and administration; meet with vendors to discuss products used in repair work; compute estimates and actual costs; coordinate with management, engineering, quality control, customer, or union representatives; develop or implement electronic maintenance programs."
+        },
+        {
+            "title": "Maintenance Head Operator",
+            "company": "Company Name - City, State",
+            "start_date": "Oct 2010",
+            "end_date": "Nov 2011",
+            "description": "Use tools ranging from common hand and power tools to precision measuring instruments; perform routine preventive maintenance; inspect, diagnose, repair machinery; diagnose mechanical problems and determine corrective actions; inspect drives, motors, belts, and replace components; record maintenance actions and costs; train and manage maintenance personnel and subcontractors; develop and evaluate maintenance policies; inspect and monitor work areas for safety; requisition materials and supplies; plan and establish work schedules and production sequences."
+        },
+        {
+            "title": "Aviation Machinist Mechanic",
+            "company": "Company Name - City, State",
+            "start_date": "Dec 1990",
+            "end_date": "Dec 2006",
+            "description": "Implement airfield safety procedures; monitor aircraft arrivals, parking, refueling, loading, and departures; read and interpret maintenance manuals and service bulletins; inspect and certify maintenance; examine aircraft components; replace or repair worn parts; measure parts with precision instruments; test engine and systems; obtain and check fuel/oil samples; reassemble and reinstall engines; coordinate with supervisors and other workers; plan and establish work schedules; train operations staff; maintain production and cost records."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "South Albany High School",
+            "year": 1989
+        },
+        {
+            "degree": "Certified Nurse Assistant",
+            "school": "Westhills College",
+            "year": null
+        },
+        {
+            "degree": "BSN (Pursuing)",
+            "school": "Fresno State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "State Certified Nurse Assistant",
+        "Lean Six Sigma Green Belt",
+        "CPR Certification"
+    ],
+    "languages": []
+}

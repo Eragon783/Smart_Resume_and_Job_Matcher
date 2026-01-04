@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced WMS consultant with expertise in warehouse management and end-to-end warehouse processes. Proficient in Manhattan Associates WMOS, inbound, inventory and outbound operations, and test planning/execution. Proven ability to design and run test cases, analyze data, and deliver projects on time. Strong analytical and problem-solving skills with hands-on experience in QA, SQL, and hardware troubleshooting.",
+    "skills": [
+        "supply chain principles",
+        "warehouse management",
+        "Manhattan Associates WMOS",
+        "inbound",
+        "inventory",
+        "outbound",
+        "warehouse systems",
+        "SDLC",
+        "analysis",
+        "testing",
+        "test planning",
+        "test execution",
+        "deadline-driven",
+        "project delivery",
+        "analytical skills",
+        "problem solving",
+        "troubleshooting hardware peripherals",
+        "Java",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "PHP",
+        "JQuery",
+        "Eclipse",
+        "Microsoft Visual Studio 2012",
+        "MATLAB",
+        "Microsoft SQL Server R2",
+        "Oracle 9i",
+        "Oracle 10g",
+        "Oracle 11g",
+        "Microsoft Test Manager",
+        "Manhattan Associates SCOPE",
+        "Oracle PeopleSoft SCM"
+    ],
+    "experience": [
+        {
+            "title": "WMS Consultant",
+            "company": "Li&Fung",
+            "start_date": "2015-05",
+            "end_date": "Present",
+            "description": "Created Test Cases for inbound receiving and put-away fields; Verified ASNs after parsing multiple ASNs using XML format; Created Inbound and Outbound License Plate Numbers (iLPN/oLPN); Configured and Tested System directed and manual put-away; Configured the inventory to move an item from one active location to another; one active location to a reserve; Configured Wave Management, Task Management, Locations, Wave Process Types and Inventory Need Types; Tested partial shipment and RF receive menu; Tested the PIX transaction to keep track of Inventory Movement; Worked on back-end testing of the databases by writing SQL Queries to join the tables, verify the data, etc."
+        },
+        {
+            "title": "Quality Assurance Engineer",
+            "company": "Company Name",
+            "start_date": "2014-11",
+            "end_date": "2015-05",
+            "description": "Performed necessary software and hardware evaluations as per the client's requirements. Designed and modified user interfaces to accommodate new verticals. Assisted engineers by troubleshooting and configuring LANs, switches, routers and firewalls. Modified and tested prototype using working models for computer simulation. Documented and reported bugs to the developers. Ensured that the data from the production server is valid and not redundant. Worked with other engineering disciplines to evaluate interface between hardware and software and analyze the operational and performance requirements of overall systems. Worked towards customer satisfaction and overall sales by analyzing and correcting internal software and other customer problems. Performed site surveys, commissioned and installed hardware equipment at the client's site."
+        },
+        {
+            "title": "Junior PeopleSoft Developer",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "2014-11",
+            "description": "Implemented web based applications using Oracle's PeopleSoft technology for internal projects in the company. Worked on Oracle's PeopleSoft SCM to implement customer order, inventory and fulfillment management. Used PeopleTools to develop an order management portal and implemented business logics for the order management system. Worked on relational databases by querying relevant data and optimizing performance through normalization. Worked on the eight steps of PeopleSoft application development with emphasis on design and creating page definitions. Involved in various aspects of software development and generated reports using PeopleSoft's Structured Query Report (SQR). Environment : Oracle PeopleTools 8.46, Oracle Database Express 11g."
+        },
+        {
+            "title": "Senior Technology Consultant",
+            "company": "University of Florida",
+            "start_date": "2012-01",
+            "end_date": "2014-05",
+            "description": "Assisted users with hardware and software issues using the university's Lab resources. Monitored and managed computer labs at the University of Florida. Assisted Professors in setting up the lab for exams, practical experiments. Organized and maintained online classroom reservation system. Enforced lab policies and procedures. Promoted as a senior technology consultant during the period of work. Certified as a Technology Consultant by the Academic Technology Labs, University of Florida."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Computer Engineering",
+            "school": "University of Florida",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Technology in Information Technology",
+            "school": "Anna University",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "Certified Technology Consultant by the Academic Technology Labs, University of Florida"
+    ],
+    "languages": []
+}

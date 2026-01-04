@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Recent graduate student with a bachelor's in Economics and a minor in Finance from Central Connecticut State University, seeking to gain work experience by applying my education and experience.",
+    "skills": [
+        "Cash handling",
+        "Enthusiastic people person",
+        "Advanced problem-solving",
+        "Great organizational skills",
+        "Microsoft Word",
+        "Excel",
+        "SPSS",
+        "PowerPoint",
+        "Volleyball",
+        "Track and field"
+    ],
+    "experience": [
+        {
+            "title": "Banking Boot Camp Participant",
+            "company": "Company Name",
+            "start_date": "05/2017",
+            "end_date": "05/2017",
+            "description": "Banking Boot Camp participant."
+        },
+        {
+            "title": "Sandwich Artist/Cashier",
+            "company": "Company Name",
+            "start_date": "02/2017",
+            "end_date": "Current",
+            "description": "Took necessary steps to meet customer needs and effectively resolve food or service issues. Recorded customer orders and repeated them back in a clear, understandable manner. Correctly received orders, processed payments and responded appropriately to guest concerns."
+        },
+        {
+            "title": "Student worker",
+            "company": "Company Name",
+            "start_date": "01/2014",
+            "end_date": "01/2016",
+            "description": "My job description included: filling out paper workers, making copies, informing students about upcoming events, answering the phone, schedule advising and organizing speak sessions."
+        },
+        {
+            "title": "Front End Supervisor",
+            "company": "Company Name",
+            "start_date": "06/2014",
+            "end_date": "02/2017",
+            "description": "Front End Supervisor at Company Name."
+        },
+        {
+            "title": "Sandwich Maker",
+            "company": "Company Name",
+            "start_date": "10/2017",
+            "end_date": "Current",
+            "description": "Sandwich Maker at Company Name."
+        },
+        {
+            "title": "Sandwich Maker",
+            "company": "Company Name",
+            "start_date": "02/2017",
+            "end_date": "Current",
+            "description": "Sandwich Maker at Company Name."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Economics and Finance",
+            "school": "Central Connecticut State University",
+            "year": 2017
+        }
+    ],
+    "certifications": [
+        "CPR",
+        "Western Union Certified"
+    ],
+    "languages": []
+}

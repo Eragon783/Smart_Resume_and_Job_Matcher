@@ -1,0 +1,63 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Sales Manager with over a decade of experience leading sales teams in financial services and retail, driving growth through staff development, training programs, and performance management. Known for improving customer experience, achieving sales targets (exceeding goals by ~20% monthly), and developing talent into management roles. Strong in recruiting, onboarding, and cross-functional collaboration.",
+    "skills": [
+        "MS Office",
+        "Microsoft Outlook",
+        "Lotus Notes",
+        "Excel",
+        "PowerPoint",
+        "Word",
+        "Team leadership",
+        "Coaching",
+        "Training and development",
+        "Hiring",
+        "Onboarding",
+        "Sales",
+        "Telemarketing",
+        "Customer service",
+        "Financial analysis",
+        "Credit",
+        "Real estate",
+        "Networking",
+        "Management",
+        "Leadership",
+        "Performance management",
+        "Selling"
+    ],
+    "experience": [
+        {
+            "title": "Sales Manager",
+            "company": "Company Name",
+            "start_date": "May 2011",
+            "end_date": "Present",
+            "description": "Led a commissioned sales team (10+ direct reports, 50+ indirect reports) to achieve sales targets and FY focus areas. Developed skills and product knowledge of Sales Consultants through training, evaluation, and role play; mentored two Sales Manager In Training candidates through the Manager Assessment Program (MAP). Recruited, hired and retained retail talent; analyzed and tracked sales performance against budgets, conversions, and staffing targets; oversaw day-to-day operations and resolved issues. Built customer confidence through active listening and constructive feedback; motivated team members; maintained relationships with peers and upper management; established sales team training and development programs."
+        },
+        {
+            "title": "Branch Sales Manager",
+            "company": "Company Name",
+            "start_date": "Mar 2006",
+            "end_date": "May 2011",
+            "description": "Managed branch staff including hiring, training and development, and performance management. Coached staff to achieve sales excellence in sales production, product knowledge, customer service, and branch operations. Demonstrated leadership in sales, service, operations and management; consistently met or exceeded branch sales performance standards. Led telemarketing, cross-selling, and promotional campaigns; supported onboarding; built professional networks and referral bases; managed loan turnaround times and customer profiles; represented the bank in the community."
+        },
+        {
+            "title": "Mortgage Consultant",
+            "company": "Company Name",
+            "start_date": "Mar 2004",
+            "end_date": "Mar 2006",
+            "description": "Utilized referrals and leads to sell financial services including unsecured personal loans, credit cards, and real estate loans. Worked with clients during credit application and approval process; performed financial analysis and implemented debt restructuring to reduce debt ratio. Led initiatives to sell Life, Accident & Health, Involuntary Unemployment Insurance, and Home and Auto insurance; self-sourced leads and built profitable referral partnerships."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration (BBA) in Computer Information Systems and General Business",
+            "school": "Western Michigan University",
+            "year": "2001"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

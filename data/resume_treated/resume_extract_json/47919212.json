@@ -1,0 +1,102 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Successful and motivated IT Escalation Manager possessing extensive knowledge of leading a team of high performance Tier 3 engineers solving complex IT issues and providing excellent service for Fortune 1000 customers.",
+    "skills": [
+        "Premier",
+        "Back-up",
+        "balance",
+        "cable",
+        "coaching",
+        "Council",
+        "CSS",
+        "databases",
+        "Hiring",
+        "Internet usage",
+        "leadership training",
+        "meetings",
+        "mentor",
+        "Exchange",
+        "Exchange Server",
+        "MOM",
+        "Outlook",
+        "Windows",
+        "2000",
+        "network",
+        "networking",
+        "Novell servers",
+        "performance reviews",
+        "performance management",
+        "Recruiting",
+        "Routing",
+        "Systems Management Server",
+        "speech",
+        "Staffing"
+    ],
+    "experience": [
+        {
+            "title": "Support Engineering Manager",
+            "company": "Company Name",
+            "start_date": "2007-06",
+            "end_date": "Present",
+            "description": "Managed a number of teams with team size of up to 26 engineers at a time in Windows Platforms and System Center, including Setup, Cluster, Performance, SCOM, and Virtualization. Performed all performance management activities with my direct reports including performance reviews, Connects, promotions, coaching, career development, and terminations. Lead management role for Platforms Core, responsible for leading all Core teams to ensure staffing coverage and to reach and exceed target metrics. Led weekly meetings with other Core managers to reach target metrics. Participated in HIPO program for 1 year, obtaining extra leadership training. Helped on-board and mentor new managers in Windows. Hiring Manager cross site for all of Windows Platforms Cluster, and hired over 70 people cross site in 1 year. Helped plan Career Fair with Recruiting. Participated in College recruiting, as well as recruiting trips to attract minorities. Participated in MACH hiring days. Assisted with volunteer efforts such as Angel Tree, Digi Girlz, and Day of Caring. On-boarded Intune product into System Center MSD Cluster, including all project work with PG, Routing, global peers, and management. Worked with Product Group PMs and Beta to develop support plan for System Center Scenarios for System Center 2012 SP1 and above. Led and Managed engineers supporting Windows, Cluster, Performance, App-V, VMM, Operations Manager, Orchestrator, and Service Manager. Collaborated with Azure team to develop support model for MSD private cloud products working in Azure cloud. Achieved excellent MSPoll results year over year. Active in Toastmasters clubs; achieved Distinguished Toast Master; Club President; Toastmasters Area Governor, won several speech contests. Participated in MSD LEAN initiative to drive down Days to Close and raise CPE. FY15 member of CSS Americas Manager Advisory Council representing Windows and MSD. Improved work life balance for North America engineers while ensuring weekend and evening coverage for Premier customers. Led Peace on Earth collaboration project with WFM Staffing, Duty Managers, NA Managers and India Managers to ensure staffing during business hours. Current MSPoll Lead for new CIS Organization. Back-up Know-Me Manager CPE Initiative with Phillips 66."
+        },
+        {
+            "title": "Support Engineer",
+            "company": "Company Name",
+            "start_date": "1997-12",
+            "end_date": "2007-06",
+            "description": "Supported a number of products including Outlook, Exchange Server, Microsoft Operations Manager, and Systems Management Server. Wrote training for Exchange 2000 server while in readiness role for Beta; developed and delivered training for Exchange Management pack for MOM, Global SME for Exchange Management pack for MOM; Advisory team to help customers deploy Exchange 2000 including all phases of planning and deployment."
+        },
+        {
+            "title": "Network Administrator",
+            "company": "Company Name",
+            "start_date": "1997-03",
+            "end_date": "1997-12",
+            "description": "Head of county school network, responsible for Novell servers in 22 schools across county. Responsible for network connectivity for Lincoln County School system. Maintained computers in technology-specialized Lincoln County School of Technology. Led community-wide effort during which about 50 people built approximately 75 computers in a day to donate to the school system."
+        },
+        {
+            "title": "Network Technician",
+            "company": "Company Name",
+            "start_date": "1993-01",
+            "end_date": "1997-03",
+            "description": "Responsible for training faculty regarding using the Internet, developed a series of 4 classes on Internet usage and trained CPCC faculty over 6 month period. Responsible for networking and Internet in campus Library. Maintained electronic databases; repaired computers, pulled fiber cable; and performed maintenance on Novell servers on campus."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science: Mechanical Engineering Technology",
+            "school": "Central Piedmont Community College",
+            "year": 1993
+        },
+        {
+            "degree": "Associate of Science: Manufacturing Engineering Technology",
+            "school": "Central Piedmont Community College",
+            "year": 1993
+        },
+        {
+            "degree": "Bachelor's Degree: Business Administration",
+            "school": "Montreat College",
+            "year": 2011
+        },
+        {
+            "degree": "Master's Degree: Business Administration",
+            "school": "Montreat College",
+            "year": 2017
+        },
+        {
+            "degree": "Doctorate of Business Administration degree",
+            "school": "Capella University",
+            "year": 2017
+        }
+    ],
+    "certifications": [
+        "Distinguished Toastmaster",
+        "GPGP"
+    ],
+    "languages": [
+        "English"
+    ]
+}

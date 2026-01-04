@@ -1,0 +1,63 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Seeking a middle grades math or science teaching position where I can contribute my creativity, classroom management, and instructional skills.",
+    "skills": [
+        "Time Management",
+        "Creativity",
+        "Effective Communication",
+        "Patience",
+        "Multi-Tasking",
+        "Organizational/Planning",
+        "Critical Thinking",
+        "Teaching"
+    ],
+    "experience": [
+        {
+            "title": "Pre-Service Teacher",
+            "company": "Company Name",
+            "start_date": "2017-03",
+            "end_date": "2017-04",
+            "description": "Independently taught a 7th grade science study hall class; constructed lesson plans, observed, and taught 7th and 8th grade Biology; implemented technology and hands-on learning activities; made modifications and accommodations for ESL learners; helped instructors construct lessons aligning with 21st Century Science Education."
+        },
+        {
+            "title": "Pre-Service Teacher",
+            "company": "Company Name",
+            "start_date": "2017-01",
+            "end_date": "2017-03",
+            "description": "Observed, assisted, and taught in a 7th grade science classroom; planned and prepared daily lessons a week in advance; modified instruction and assessments to fit learners' needs; attended 7th grade team meetings, staff professional development, and parent conferences."
+        },
+        {
+            "title": "Sports Supervisor",
+            "company": "Company Name",
+            "start_date": "2016-02",
+            "end_date": "2017-03",
+            "description": "Checked in officials and participants, set up fields/facilities before games; cleaned facilities; provided First Aid; CPR certification available if needed."
+        },
+        {
+            "title": "Clothing Specialist/Cashier",
+            "company": "Company Name",
+            "start_date": "2013-07",
+            "end_date": "2014-08",
+            "description": "Provided customer service; maintained a tidy workspace; ensured correct currency in tills; stocked, blocked, and set up shelves/displays."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Middle Grades Education (Science Concentration)",
+            "school": "North Carolina State University",
+            "year": "2017"
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "Caldwell Community College and Technical Institute",
+            "year": "2014"
+        }
+    ],
+    "certifications": [
+        "CPR & First Aid"
+    ],
+    "languages": []
+}

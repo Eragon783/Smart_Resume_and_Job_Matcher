@@ -1,0 +1,108 @@
+{
+    "name": "Unknown",
+    "email": "",
+    "phone": "",
+    "location": "Illinois, USA",
+    "summary": "Seasoned RN with leadership roles including Assistant Director of Nursing, Practice Leader, and Director of Care Delivery; extensive experience in long-term care, home health, infusion therapy, oncology, and staff development; seeking part-time RN roles, tutoring, online triage, or case management including oncology/hospice.",
+    "skills": [
+        "care planning",
+        "Case Management",
+        "Home Health",
+        "Hospice",
+        "Infection control",
+        "injections",
+        "Nurse Manager",
+        "Oncology",
+        "scheduling",
+        "staff development",
+        "Trauma",
+        "triage",
+        "tutoring",
+        "Urology",
+        "PICC Line management",
+        "Computer scheduling",
+        "Payroll"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Director of Nursing (ADON)",
+            "company": "Not specified",
+            "start_date": "09/2010",
+            "end_date": "12/2011",
+            "description": "Hired as ADON for an 85-90 bed long-term care facility for mentally and physically disabled individuals; responsibilities included staffing of all nurses, organizing transportation for outside MD visits, monitoring 3 nursing units, on-call duties, twice-monthly Manager on Duty (MOD), conducting in-services, responding to critical changes, and assisting with hospital transfers."
+        },
+        {
+            "title": "Home Health Nurse",
+            "company": "ResCare",
+            "start_date": "2015",
+            "end_date": "2015",
+            "description": "Secured a Home Health position in Oak Park, IL; performed home visits, basic assessments, documented changes, contacted physicians as needed, administered injections/infusions, and participated in one clinical trial."
+        },
+        {
+            "title": "Registered Nurse",
+            "company": "Best Home Health",
+            "start_date": "07/2016",
+            "end_date": "2016",
+            "description": "Part-time home visits; position limited and duties reduced; left roster when other opportunities arose."
+        },
+        {
+            "title": "Infusion Nurse",
+            "company": "Maxim Home Health",
+            "start_date": "Fall 2016",
+            "end_date": "2016",
+            "description": "Worked part-time on infusion cases; travel requirements were challenging; remained on roster but rarely called."
+        },
+        {
+            "title": "Director of Care Delivery (DCD)",
+            "company": "Company Name",
+            "start_date": "06/2009",
+            "end_date": "07/2010",
+            "description": "Promoted from Supervisor to DCD; managed a 40-bed locked dementia unit and later a 60-bed long-term care unit; duties included leading nursing unit, setting priorities, staff development, upholding corporate standards, infection control, QA, interdisciplinary meetings, falls and skin injury investigations, new admissions care planning, monthly staff meetings, and involvement in hiring and disciplinary actions."
+        },
+        {
+            "title": "RN / Asst. Head Nurse Practice Leader",
+            "company": "Advocate Illinois Masonic Medical Center",
+            "start_date": "01/1977",
+            "end_date": "01/2009",
+            "description": "Responsible for 24-hour unit management including staffing, scheduling, and payroll; supervised RNs, NCTs, and unit clerks; assisted with interviews, disciplinary actions, and mandatory education; organized in-services; supported computerization and scheduling; involved in PICC line program and training; promoted to Practice Leader; managed diverse surgical populations and isolation protocols; monitored patient satisfaction and staff performance."
+        },
+        {
+            "title": "Staff Nurse, Surgical / 23-hour Observation Unit",
+            "company": "Illinois Masonic Medical Center",
+            "start_date": "1999",
+            "end_date": "2003",
+            "description": "Staff RN in Surgical / 23-hour Observation Unit; later promoted to Practice Leader; responsibilities included patient care, charting, and coordination with interdisciplinary teams."
+        },
+        {
+            "title": "Practice Leader",
+            "company": "Illinois Masonic Medical Center",
+            "start_date": "2003",
+            "end_date": "2009",
+            "description": "Promoted to Practice Leader (equivalent to Assistant Head Nurse); oversaw unit operations, computer implementation, scheduling and payroll duties; led PICC Line program records and ensured competency; maintained certifications."
+        }
+    ],
+    "education": [
+        {
+            "degree": "RN Diploma",
+            "school": "Illinois Masonic School of Nursing",
+            "year": 1976
+        },
+        {
+            "degree": "Bachelor's degree",
+            "school": "Northeastern Illinois University",
+            "year": 1974
+        },
+        {
+            "degree": "Bachelor's degree",
+            "school": "Western Illinois University",
+            "year": 1973
+        }
+    ],
+    "certifications": [
+        "OCN (Oncology Certified Nurse)",
+        "Medical-Surgical Nursing Certification"
+    ],
+    "languages": [
+        "English"
+    ]
+}

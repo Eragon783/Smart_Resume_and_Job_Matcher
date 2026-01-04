@@ -1,0 +1,80 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Accountant with more than 8 years accounting experience with profit making, non for profit and non-governmental organizations (NGOs). Possess solid knowledge of GAAP, GASB and IFRS. Proficient in automated systems: such as QuickBooks, Sun system and Peachtree Accounting.",
+    "skills": [
+        "General Ledger Accounting",
+        "Balance sheet account reconciliation",
+        "Bank & Office Account reconciliation",
+        "Financial data analysis",
+        "Financial Statements & Audit Support",
+        "Report generation",
+        "Adjusting entries and period closing",
+        "Review and monitoring of accounting events",
+        "Financial Planning, Budgeting & Reporting",
+        "Grants Management",
+        "Contractual agreements and modification",
+        "Donor reporting",
+        "Sub-grantee management",
+        "Fund release management",
+        "System improvement and recommendations",
+        "External/Internal reporting",
+        "Project closing",
+        "Sage Accounting",
+        "QuickBooks",
+        "Sun system",
+        "Peachtree Accounting",
+        "Most",
+        "Microsoft PowerPoint",
+        "Advanced Excel (pivot tables, Lookups, references, consolidation)",
+        "Microsoft Access",
+        "Microsoft Outlook",
+        "Lotus Notes"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "",
+            "start_date": "Feb 2015",
+            "end_date": "",
+            "description": "Responsible for account coding accuracy; record and reconcile Accounts Payables monthly; review and reconcile online corporate credit card transactions; assist in budgeting and reporting; prepare invoices for state and federal grant funders; bank reconciliation; assist with budgets; provide status of financial condition by collecting, interpreting and reporting financial data; journal entries and General Ledger analysis; AP/AR functions; train staff."
+        },
+        {
+            "title": "Delegated Finance and Admin Manager and Finance Officer",
+            "company": "Company Name",
+            "start_date": "Jan 2010",
+            "end_date": "Aug 2014",
+            "description": "Prepared standardized monthly, quarterly, biannual and annual finances; reviewed financial reports; oversaw Organization Finance and Administration; documented NGO grant processes; assisted grantees in developing work plans, monitoring progress, tracking expenses, preparing reports; conducted field visits to monitor grantees; led sub-grantee payments and reporting; led modification of sub-agreements; maintained grants & contract documents; ensured compliance with donor terms and organizational policies; managed fixed asset inventory; prepared for audits."
+        },
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name",
+            "start_date": "Oct 2008",
+            "end_date": "Dec 2009",
+            "description": "Produced periodic financial reports for internal and external use; interpreted and analyzed reports against budgets; managed grant projects and fund release from donors; ensured procurement policies compliance; conducted bank reconciliations; reviewed payroll and taxes; managed staff benefits; asset inventory and audits support."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "Feb 2007",
+            "end_date": "Sep 2008",
+            "description": "Ensured financial transactions were recorded per COA; followed up on annual budgets/cash flows; disbursement control; procurements per policy; payroll; bank reconciliation; fixed assets and inventory; prepared documents for internal and external audits."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA Degree, Business Administration",
+            "school": "Foundation for Academic Excellence, Ethiopia",
+            "year": ""
+        },
+        {
+            "degree": "B.A., Accounting",
+            "school": "Haramaya University, Ethiopia",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

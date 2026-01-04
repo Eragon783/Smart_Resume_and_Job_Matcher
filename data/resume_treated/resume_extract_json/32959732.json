@@ -1,0 +1,78 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior Director of Information Technology with expertise spanning network design and management, ERP implementation and management, cloud technologies, and internet technologies. Proven ability to implement standards, processes and procedures to improve business functionality. Strong leadership, client relationship building, cross-functional collaboration, and track record of delivering cost savings and successful system implementations.",
+    "skills": [
+        "Small business development",
+        "Project management",
+        "Leadership/communication skills",
+        "Business operations organization",
+        "Client account management",
+        "Negotiations expert",
+        "Budgeting expertise",
+        "Employee relations",
+        "Self-motivated",
+        "Collaborative",
+        "Decisive",
+        "Enterprise platforms",
+        "Forecasting specialist",
+        "Knowledge of Product Lifecycle Management (PLM)",
+        "Hardware and software upgrade planning",
+        "Product requirements documentation",
+        "Self-directed",
+        "Scrum methodology",
+        "Performance criteria tracking",
+        "Cloud technologies",
+        "Visualization tools",
+        "Tableau",
+        "DOMO",
+        "Office 365",
+        "SIS / ERP / CRM systems"
+    ],
+    "experience": [
+        {
+            "title": "Senior Director, Information Technology",
+            "company": "Weston Educational Group Inc",
+            "start_date": "2015-02",
+            "end_date": "2016-11",
+            "description": "Oversaw day-to-day IT operations across Weston Educational Group; managed Student Information System and portals for students and faculty; migrated phone system to the cloud achieving 99.999% uptime; restructured the department to 6 IT professionals; reduced payroll expense by 60%; led the integration of Missouri College after acquisition; implemented cloud enterprise applications; used DOMO for trend visualization and training materials; deployed a web-based ticketing system; migrated staff to Office 365; enabled access to latest Microsoft services."
+        },
+        {
+            "title": "Senior Manager, Student Information System",
+            "company": "American Career College and West Coast University",
+            "start_date": "2009-07",
+            "end_date": "2015-02",
+            "description": "Oversaw the Student Information System for two brands with student and faculty portals; managed a team of Business Analysts and support engineers; defined SLAs; directed offshore development in India; managed vendor relationships; facilitated campus expansions and HR onboarding; implemented SharePoint-based automation within SIS; moved to cloud and Office 365; drove ROI from day one and improved ticketing and data validation processes."
+        },
+        {
+            "title": "President",
+            "company": "Aldreteem Inc",
+            "start_date": "2005-01",
+            "end_date": "2009-08",
+            "description": "Established Aldreteem Inc to deliver ERP solutions for small to mid-sized organizations; created new revenue streams by partnering with ERP vendors; signed national ERP service agreements with a leading hospitality client; led ERP deployments across Sage, SAP, Great Plains, and Epicor; drove profitability and project delivery."
+        },
+        {
+            "title": "Director, Client Services",
+            "company": "BatchMaster Software Inc",
+            "start_date": "2001-03",
+            "end_date": "2004-12",
+            "description": "Created the Client Services department to drive revenue through services and reseller partnerships; increased revenue by 60%; developed rapid implementation processes reducing deployment time from months to 4 weeks; led offshore support team for post-implementation assistance; cultivated SAP relationship; implemented customer satisfaction survey leading to higher renewal rates."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Administration",
+            "school": "Walden University",
+            "year": "2010"
+        },
+        {
+            "degree": "Bachelor of Science: Information and Business Systems Technology",
+            "school": "University of Essex",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

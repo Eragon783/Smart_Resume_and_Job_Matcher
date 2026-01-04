@@ -1,0 +1,71 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Vietnam; New Mexico, USA",
+    "summary": "Seeking a position in a research institution or a university.",
+    "skills": [
+        "Managerial Accounting",
+        "Legal Environment of Business",
+        "Financial Management",
+        "Operations Management",
+        "Business Information Systems",
+        "Managerial Economics",
+        "Organizational Behavior and Management Processes",
+        "Quantitative Analysis for Business Decisions",
+        "Financial Statement Analysis",
+        "Marketing Management",
+        "Strategic Management",
+        "Professional Paper and Presentation",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Microsoft Project",
+        "Microsoft Access",
+        "Microsoft Outlook"
+    ],
+    "experience": [
+        {
+            "title": "Research Assistant",
+            "company": "College of Business Administration and Economics, New Mexico State University, NM",
+            "start_date": "2005-02",
+            "end_date": "2005-05",
+            "description": "Do market research, prepare and write business and marketing plans for start-up companies. Work under the supervision of Dr. Kevin Boberg, Associate Dean."
+        },
+        {
+            "title": "Officer",
+            "company": "Industrial and Commercial Bank of Vietnam",
+            "start_date": "2002-01",
+            "end_date": "2003-01",
+            "description": "Translated banking documents in English to Vietnamese. Acted as an interpreter when needed. Developed and maintained the correspondent banking relationship with Russian banks. Kept track of loans borrowed from foreign banks. Worked on the Returnee project between Vietnam and the German Reconstruction Bank. Did other administrative and clerical work."
+        },
+        {
+            "title": "Liaison Officer / Certificate of Liaison Officer",
+            "company": "Ministry of Trade, Vietnam",
+            "start_date": "1999-02",
+            "end_date": "2001-02",
+            "description": "Certificate of Liaison Officer by the Ministry of Trade, Vietnam. Group Prize) in the National Students' Scientific Research Competition organized by the Ministry of Education and Training. Innovative Medal for the Youth."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "New Mexico State University",
+            "year": 2005
+        },
+        {
+            "degree": "Bachelor of Economics",
+            "school": "Foreign Trade University, City Vietnam",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        "Certificate of Liaison Officer by the Ministry of Trade, Vietnam",
+        "Glen Yoquelet Scholarship (2004-2005)",
+        "Innovative Medal for the Youth"
+    ],
+    "languages": [
+        "Vietnamese",
+        "English"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Dedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company success. Experienced in conflict resolution, active listening, and cross-functional collaboration with a track record of exceeding sales goals and delivering high-quality customer support.",
+    "skills": [
+        "Strong organizational skills",
+        "Conflict resolution",
+        "Active listening",
+        "Energetic work attitude",
+        "Telephone inquiries",
+        "Customer service",
+        "Adaptive team player",
+        "Visual merchandising",
+        "Fashion knowledge",
+        "Opening/closing procedures",
+        "Telecommunication skills",
+        "Invoice processing",
+        "Cash handling",
+        "Shipping and receiving",
+        "Careful and active listener",
+        "Multi-tasking",
+        "Professional and friendly"
+    ],
+    "experience": [
+        {
+            "title": "Consumer Services Advocate",
+            "company": "Company Name, City, State",
+            "start_date": "2014-06",
+            "end_date": "2015-01",
+            "description": "Answered phones, sent emails, placed orders, spoke with customers, and trained new hires. Helped grow the company into a multi-branded organization. Cross-trained and provided back-up for other customer service representatives. Computed accurate sales prices for purchase transactions. Developed empathetic client relationships and exceeded sales goals. Generated sales and inventory reports in Excel from multiple sources with 100% accuracy. Prepared and sold customized merchandise to individuals and commercial accounts. Guaranteed positive customer experiences and resolved customer complaints."
+        },
+        {
+            "title": "Account Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2014-01",
+            "end_date": "2014-06",
+            "description": "Answered phones, made payments, spoke with customers, and contacted mortgage and insurance companies. Assisted agent in surpassing sales goals. Responded to inquiries via mail, email and fax. Guaranteed positive customer experiences and resolved complaints. Developed new prospects or referrals. Executed outbound calls to existing customer base and generated leads for new sales through telephone and email."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name, City, State",
+            "start_date": "2013-04",
+            "end_date": "2013-12",
+            "description": "Answered phones, scheduled appointments, and troubleshooted issues; communicated with warranty and insurance providers. Reported merchandise needs or issues to appropriate supervisors. Logged daily shipping and receiving orders. Guaranteed positive customer experiences and resolved complaints. Assisted customers with store and product concerns. Responded to inquiries via mail, email, and fax. Met deadlines and responded to service requests and emergencies. Built empathetic client relationships and consistently exceeded sales goals. Managed client communications and product representation."
+        },
+        {
+            "title": "Shipping and Receiving",
+            "company": "Company Name, City, State",
+            "start_date": "2012-08",
+            "end_date": "2013-04",
+            "description": "Answered the phone, shipped out and received all packages and car parts, and worked the front counter. Met strict deadlines and responded to service requests and emergencies. Coordinated with customers and retail buyers on shipping statuses and expedited orders. Responded to inquiries via mail, email, and fax. Expedited orders, assisted customers with product issues, and maintained high level of customer service. Researched stock availability and prospects; logged all shipping and receiving orders; stocked and rotated inventory."
+        },
+        {
+            "title": "Hostess and Server",
+            "company": "Company Name, City, State",
+            "start_date": "2011-06",
+            "end_date": "2012-08",
+            "description": "Greeted customers and seated them; placed and served orders accurately and on time. Assisted customers with store and product concerns. Worked as a team member performing cashier duties, product assistance, and cleaning. Prevented losses through attentiveness and integrity. Replenished shelves and contributed to opening duties, including cash handling."
+        },
+        {
+            "title": "Seaman Recruit",
+            "company": "Company Name, City, State",
+            "start_date": "2010-05",
+            "end_date": "2011-06",
+            "description": "Fulfilled duties as Seaman Recruit in US Navy basic training; selected to lay watch over division and served as Guidon."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science in Computer Science",
+            "school": "Southern University",
+            "year": ""
+        },
+        {
+            "degree": "High School Diploma: Dance",
+            "school": "Alabama State University",
+            "year": ""
+        },
+        {
+            "degree": "High School Diploma: Dance",
+            "school": "Alabama School of Fine Arts",
+            "year": "2008"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

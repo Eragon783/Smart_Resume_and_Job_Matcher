@@ -1,0 +1,88 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced customer service professional with extensive skills in growing and exceeding sales in a multi- million dollar business operation in the food and beverage industries, financial services, and heath care industries. Adaptable and results orientated, with a focus on bottom line results, and has a proven track record of achieving and exceeding the standards of performance set out for any sales project. Skilled in utilizing technology as a tool to improve organizational efficiency.",
+    "skills": [
+        "Administrative functions",
+        "Budgeting",
+        "Business Development",
+        "Competitive",
+        "Contracts",
+        "Contract Negotiation",
+        "Client",
+        "Clients",
+        "Documentation",
+        "Senior Management",
+        "Expense Reporting",
+        "Focus",
+        "Forecasting",
+        "Insurance",
+        "Inventory",
+        "Team Building",
+        "Leadership",
+        "Access",
+        "Microsoft Office Suite",
+        "Microsoft Project",
+        "Negotiating",
+        "Networks",
+        "Physical Therapy",
+        "Primary Care",
+        "Quality",
+        "QuickBooks",
+        "Reporting",
+        "Safety",
+        "Selling",
+        "Sales",
+        "Strategic",
+        "Strategic Planning",
+        "Supply Chain Management",
+        "Transportation",
+        "Trend"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Representative",
+            "company": "Company Name",
+            "start_date": "March 2010",
+            "end_date": "Present",
+            "description": "Achieved customer service objectives by contributing customer service information and recommendations to strategic plans and reviews. Preparing and completing action plans for customer-service standards. Resolving problems, completing audits, identifying customer service trends and determining system improvements. Determined customer service requirements by maintaining contact with customers, visiting operational environments, conducting surveys, forming focus groups and analyzing information. Increased product awareness levels and grew profit margins through negotiations with store managers and regional managers through the implementation of in-store merchandise displays, product assortments, pricing structures, sales allowances, rebates, and monthly promotions. Managed sales team and assisted them with navigating their retail accounts to align needed resources and support to ensure specific client and/or customer initiative success. Successfully raised capital to assist with growth."
+        },
+        {
+            "title": "Licensed Healthcare Representative",
+            "company": "Company Name",
+            "start_date": "December 2008",
+            "end_date": "March 2010",
+            "description": "Managed high volume call activity from healthcare providers and Cigna clients. Utilized my health insurance expertise to advise our clients on the best insurance choice to meet there needs. Maintained networks/partnerships with internal and external partners to expedite client processing. Effectively assessed patient needs and resolved client conflicts. Utilized technology to expedite client verification, documentation, & service."
+        },
+        {
+            "title": "Outside Sales Manager",
+            "company": "Company Name",
+            "start_date": "March 2005",
+            "end_date": "December 2008",
+            "description": "Responsible for the overall development of the North Miami territory selling occupational and physical therapy solutions with a focus on primary care , specialists, and hospital based physicians. Effectively leveraged resources within a fixed budget to increase sales and add value to a difficult to access, high volume, urban customer base. Managed administrative functions including daily synchronization of call activity, expense reporting,performance trend analysis and sales tracking. Successfully collaborated with territory partners and contribute to team success. Developed and maintained networks/partnerships with external community advocacy groups, pharmacies."
+        },
+        {
+            "title": "Manager Trainee",
+            "company": "Company Name",
+            "start_date": "May 2004",
+            "end_date": "March 2005",
+            "description": "Responsible for overseeing the day-to-day operations of the rental location. Increased business through forecasting, counter sales and rate management in order to remain competitive in the marketplace while utilizing fleet at a profitable level. Managed team members job performance including counter sales Responsible for team member development."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Business Administration",
+            "school": "University of Phoenix",
+            "year": 2009
+        },
+        {
+            "degree": "BS in Psychology",
+            "school": "Florida State University",
+            "year": 2002
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

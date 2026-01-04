@@ -1,0 +1,84 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am a motivated individual with exceptional customer service skills looking for professional growth. My experience in various settings has developed my understanding in working with a broad spectrum of customers.",
+    "skills": [
+        "Creative problem solver",
+        "MS Windows proficient",
+        "Excellent communication skills",
+        "Trusted key holder",
+        "Strong client relations",
+        "Mediation capability",
+        "Strategic sales knowledge",
+        "Proficient in cash management",
+        "Quick learner",
+        "Floor set design",
+        "Attention to detail",
+        "Closing",
+        "Customer service",
+        "Focus",
+        "Promotion",
+        "Purchasing",
+        "Quality",
+        "Selling",
+        "Sales",
+        "Seminars",
+        "Set design",
+        "Skin care"
+    ],
+    "experience": [
+        {
+            "title": "Customer Care Advocate",
+            "company": "Company Name",
+            "start_date": "2019-04",
+            "end_date": "Present",
+            "description": "Respond to phone calls and correspondence including appeals, corrected claims, timely filing, and claims projects. Responding to high call volumes of incoming calls and customer inquiries from current and prospective members, providers as well as internal and external business partners and seeing those calls to completion. Maintaining current knowledge of BMCHP and Wellsense Health Plan benefits, provider network development and contact issues, Mass and New Hampshire Medicaid regulations, as well as industry standards for claims adjudication and other party liability issues. Meeting performance goals established for the position in the areas of productivity, call quality and customer satisfaction. Adhere to HIPAA guidelines. Perform other duties when assigned."
+        },
+        {
+            "title": "Customer Care Representative",
+            "company": "Company Name",
+            "start_date": "2017-03",
+            "end_date": "2019-04",
+            "description": "Resolving customer inquiries and problems through effective interaction with both internal and external staff, particularly in the areas of marketing, enrollment, provider relations, Customer Care Center and claims. Responding to a high volume of incoming calls and customer inquiries from current and prospective members, providers and both internal and external staff and utilizes appropriate resource materials to effectively interpret, respond and resolve customer inquiries and sees those calls through to completion. Utilizing appropriate resource materials to effectively and accurately interpret, respond and resolve customer inquiries and problems. Maintaining knowledge of the plan contracts and effectively interpreting information related to the plan's benefits. Employs strong interpersonal skills in order to handle difficult calls courteously and professionally. Document calls in accordance with departmental policies. Work with peers to solve problems and promotes teamwork."
+        },
+        {
+            "title": "Makeup Artist",
+            "company": "Company Name",
+            "start_date": "2013-03",
+            "end_date": "2014-07",
+            "description": "Educated clients about products and performed full service makeup applications. Participated in focus days and promotional events to build client loyalty and to attract new clientele. Achieved sales goals in accordance with productivity objectives. Recorded clients purchasing information to communicate and ensure future business."
+        },
+        {
+            "title": "Server/Waitress",
+            "company": "Company Name",
+            "start_date": "2009-08",
+            "end_date": "2014-05",
+            "description": "Presented and explained menus to customers; answered queries regarding restaurant items and informed them of daily specials. Provided excellent customer service: Worked closely with restaurant staff to ensure that orders were served in an efficient manner. Orders were assembled properly in the kitchen and delivered to customers in a timely manner. Dedicated and meticulous - high level of accurateness and attention to detail. Earned management trust by serving as key holder, responsibly opening and closing Establishment."
+        },
+        {
+            "title": "Skincare Specialist",
+            "company": "Company Name",
+            "start_date": "2006-07",
+            "end_date": "2009-06",
+            "description": "Developed and maintained quality relationships with clients through follow-up practices and event invitations. Exceeded sales goals and expectations on various skin care brands by using up-selling. Produced weekly brand reports in order to identify which products needed additional assistance for meeting monthly sales goals. Calculated a daily sales goal to help consultants stay on track. Attended training and education courses to train peers in various skincare brands."
+        },
+        {
+            "title": "Beauty Advisor Manager",
+            "company": "Company Name",
+            "start_date": "2005-03",
+            "end_date": "2006-05",
+            "description": "Welcomed each guest while offering a superior customer experience. Supervised Beauty department; hired and developed staff, managed performance and oversaw all departmental functions. Responsible for proper promotion of products to all clients through professional tutorials and the introduction of new techniques to fully maximize use of products. Attend periodic vendor training seminars and achieve the highest level of product knowledge."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "West Roxbury High School",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

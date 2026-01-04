@@ -1,0 +1,62 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am looking for a career position with a company that I can be rewarded by my desire to succeed. I am a self starter and motivated to do my best. I am comfortable doing what it takes to create new business and have an excellent history of retaining current business.",
+    "skills": [
+        "Self Starter",
+        "Motivated",
+        "Client Relations",
+        "Success Driven"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "12/2015",
+            "end_date": "Current",
+            "description": "Sales of phones, plans, home security and satellite in a retail environment. Meet quotas monthly for add-on orders and upselling. Cross selling customers to switch to our company for other services that they did not come in store for. Assist customers with determining the best products and plan for their needs in fast paced work environment. Maintain customer satisfaction by providing great customer service."
+        },
+        {
+            "title": "Insurance Sales",
+            "company": "Company Name",
+            "start_date": "03/2015",
+            "end_date": "12/2015",
+            "description": "Insurance sales. Contacted customers to set up in home appointment to offer mortgage, life and final expense protection. Interviewed customers to see determine which Company, plan and amount best fit their needs. Cold call customers that responded to ads."
+        },
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "01/2011",
+            "end_date": "03/2015",
+            "description": "Provided sales support to retail customers. Increased sales with knowledge of merchandise and sales techniques. Created additional revenue with add on sales of other merchandise. Advanced to management with opening and closing duties and training of new employees."
+        },
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "04/2013",
+            "end_date": "06/2015",
+            "description": "Roofing sales position. Obtained customers who needed new roofs by cold calling. Created additional sales by asking for referrals."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Edmond North High School",
+            "year": "2010"
+        },
+        {
+            "degree": "Business/Marketing",
+            "school": "Oklahoma Christian University",
+            "year": "2012"
+        },
+        {
+            "degree": "Business/Marketing",
+            "school": "Harding University",
+            "year": "2011"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

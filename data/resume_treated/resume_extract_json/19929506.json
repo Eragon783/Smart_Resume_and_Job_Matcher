@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Marketing and public relations professional with over five years' experience in campaign management, strategic media communications, social media management and event planning, seeking position as Marketing Coordinator with milk + honey. Excellent verbal and written communication skills Sound knowledge of marketing principles Market project management-motivated, confident, multi-tasks, creative, innovative and energetic Social media savvy Highlights Excellent verbal and written communication skills Sound knowledge of marketing principals Market project management-motivated, confident, multi-tasks, creative, energetic Social media savvy Accomplishments Conceptualized and launched the [Campaign name] marketing campaign, which led to a [Number]% increase in sales. Initiated groundbreaking PR campaign for a television company, which secured [Number]% additional public interest compared against earlier efforts. Ran communications and public relations efforts on [Number] [Project type] projects with budgets totaling $[Amount]. Served as [Products] product line expert.",
+    "skills": [
+        "Gorkana",
+        "Factiva",
+        "Cision",
+        "Illustrator",
+        "Photoshop",
+        "Microsoft Office Suite",
+        "Google Docs",
+        "Facebook",
+        "Twitter",
+        "Pinterest",
+        "YouTube",
+        "Instagram"
+    ],
+    "experience": [
+        {
+            "title": "Special Events Coordinator",
+            "company": "Company Name",
+            "start_date": "June 2014",
+            "end_date": "Present",
+            "description": "Established and maintained cooperative relationships with representatives of community, consumer, employee and public interest groups. Cultivated positive relationships with the community through public relations campaigns. Estimated project costs and monitored budgets. Developed corporate communications strategies and programs, including project timelines. Managed official company page on Facebook to facilitate interaction with supporters. Coordinated monthly and quarterly marketing and community events, such as [Example]."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "August 2012",
+            "end_date": "June 2014",
+            "description": "Researched, negotiated, implemented and tracked advertising and public relations activities. Evaluated and managed new strategic business opportunities. Planned and organized corporate media and other special events. Established long-range objectives and developed innovative strategies to help achieve them. Planned and negotiated media buys, including TV, radio, print and digital. Managed the complete redesign and launch of the company's website in [Number] months. Created an official company page on Facebook to facilitate interaction with customers. Managed all social media programs, including Internet forums, blogs, social networking applications and message boards. Presented on current promotions to the public at events and tradeshows. Established long-range objectives and developed innovative strategies to help achieve them. Estimated project costs and monitored budgets. Edited and distributed press releases and pitches to local and national media outlets, securing positive coverage in multiple publications. Tracked negative communication about the organization on websites and blogs and developed strategies for addressing it."
+        },
+        {
+            "title": "Public Relations Intern",
+            "company": "Company Name",
+            "start_date": "March 2012",
+            "end_date": "July 2012",
+            "description": "Researched, negotiated, implemented and tracked advertising and public relations activities. Wrote and developed media kits for [Initiative name] and [Project name]. Evaluated and managed new strategic business opportunities. Edited and distributed press releases and pitches to local and national media outlets, securing positive coverage in multiple publications."
+        },
+        {
+            "title": "Social Media Intern",
+            "company": "Company Name",
+            "start_date": "May 2011",
+            "end_date": "September 2011",
+            "description": "Created an official company page on Facebook to facilitate interaction with customers. Created an official company page on Facebook to facilitate interaction with customers. Conceptualized and wrote project briefs to jump start the work of outside vendors and internal stakeholders."
+        },
+        {
+            "title": "Marketing and Public Relations Intern",
+            "company": "Company Name",
+            "start_date": "September 2010",
+            "end_date": "May 2011",
+            "description": "Created an official company page on Facebook to facilitate interaction with customers. Managed both inbound and outbound marketingcampaigns to generate new business and to support partner and sales teams. Wrote newsletter marketing copy and presentation materials for special projects. Planned and publicized events, including negotiating vendor contracts and designing promotional materials."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Marketing",
+            "school": "Montana State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

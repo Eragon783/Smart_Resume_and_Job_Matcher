@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Industrial and Systems Engineering graduate, certified Base SAS Programmer and a Lean Six Sigma Green Belt with strong background in statistics, mathematics and logical problem solving looking for a dynamic opportunity in data driven fields of analytics and statistical modeling.",
+    "skills": [
+        "R",
+        "Base SAS",
+        "Python (NumPy, Pandas, Matplotlib, Scikit-learn)",
+        "SPSS",
+        "Minitab",
+        "MATLAB",
+        "Apache Spark",
+        "SQL",
+        "Microsoft Excel",
+        "Microsoft Visio",
+        "Tableau",
+        "MySQL",
+        "Oracle Database",
+        "Microsoft Access",
+        "Data Extraction",
+        "Data Wrangling",
+        "Data Analysis",
+        "Data Visualization",
+        "Regression Analysis (Linear, Logistic and Multinomial)",
+        "Time Series Analysis",
+        "Association Rule Mining",
+        "Monte Carlo Simulation",
+        "Optimization",
+        "Random Forests",
+        "Six Sigma",
+        "AutoCAD",
+        "Leadership",
+        "Project Management"
+    ],
+    "experience": [
+        {
+            "title": "Data Analyst",
+            "company": "Company Name",
+            "start_date": "2016-07",
+            "end_date": "Present",
+            "description": ""
+        },
+        {
+            "title": "Student Manager",
+            "company": "Company Name",
+            "start_date": "2015-09",
+            "end_date": "2016-05",
+            "description": "Undertook a leadership and advisory role in training newcomers to hone their culinary and behavioral skills."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2013-07",
+            "description": "Identified the areas in the assembly line of a light commercial vehicle where more operations could be housed. Developed a detailed model of improved layout to accommodate more operations using AutoCAD to improve the space utilization by 300%. consultant a self-storage company to classify the customers as 'worthy' and 'not worthy' based on their activity on the company website using the Random Forest algorithm. Built the model in R and model deployment using Python. Currently building a reservation model for Public Storage to forecast if the customer would reserve the storage or not."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Industrial and Systems Engineering",
+            "school": "Binghamton University, State University of New York",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Engineering in Mechanical Engineering",
+            "school": "Osmania University",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        "Base SAS Programmer",
+        "Lean Six Sigma Green Belt"
+    ],
+    "languages": []
+}

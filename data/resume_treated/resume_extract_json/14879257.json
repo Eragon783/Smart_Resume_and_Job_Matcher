@@ -1,0 +1,93 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Dedicated and enthusiastic professional with over four years' experience in education. Proven expertise in establishing rapport and building trust among students, parents, administrators and community members. Possess strong communication skills and ability to partner across departments within and outside of an organization to meet the needs of students. Motivating students School improvement committee Interactive teaching/learning Interdisciplinary teaching Innovative lesson planning Effectively work with parents",
+    "skills": [
+        "arts",
+        "English",
+        "instruction",
+        "Latin",
+        "letters",
+        "Logic",
+        "materials",
+        "math",
+        "presentations",
+        "progress",
+        "promotion",
+        "Read",
+        "research",
+        "Spanish",
+        "Spanish language",
+        "strategy",
+        "supervisor",
+        "teacher",
+        "tutoring",
+        "VISTA",
+        "workshops"
+    ],
+    "experience": [
+        {
+            "title": "Bilingual Language Arts Sixth Grade Teacher",
+            "company": "Company Name",
+            "start_date": "2014-08",
+            "end_date": "Present",
+            "description": "Developed and implemented interesting and interactive learning mediums to increase student understanding of course materials and build community within the classroom. Participate in the development of intervention plans for students within the classroom setting, during MVP time (tutoring hour) as well as after school tutoring. Oversee Read 180 program participants and monitor their progress as part of their intervention strategy. Implementation of newer educational technology programs in order to teach students new techniques to use within their presentations to showcase their knowledge some examples include: Prezi, Storyboard That, Edmodo, Thinglink, and others. Participate in district Community Ambassador program and campus improvement committee."
+        },
+        {
+            "title": "Bilingual Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2014-05",
+            "description": "Worked in elementary schools and substitute several classroom programs inclusive of: Early Childhood-6 mainstream, Spanish Immersion, Bilingual (Spanish) Early Childhood-6, and Special Education. Provided key support for teachers on leave."
+        },
+        {
+            "title": "Bilingual 4th Grade Teacher",
+            "company": "Company Name",
+            "start_date": "2013-07",
+            "end_date": "2014-01",
+            "description": "Developed and implemented plans inclusive of: following Independent Education Plans (Special Education), Gifted and Talented curriculum, and mainstream English/Spanish language arts, writing and history. Analyze data to plan and implement appropriate instruction to reflect accommodations for individual students. Cooperate with other members of the staff in planning and implementing instructional goals and objectives. Establish and maintain open lines of communication with students and their parents. Participate in a wide range of district and campus professional development to include: Gifted and Talented coursework, wide range of education technology applications, as well as Love and Logic training."
+        },
+        {
+            "title": "Student Development Assistant",
+            "company": "Company Name",
+            "start_date": "2011-04",
+            "end_date": "2012-07",
+            "description": "Coordinated community tours for prospective students, families and community visitors. Created data intensive reports based on TAKS/STAAR test results for local feeder schools for supervisor to present to upper administration. Collaborated with the FWISD Vital Link program to create a summer college exploration/ internship program for local middle school students."
+        },
+        {
+            "title": "Academic Advisor/ Spanish Instructor",
+            "company": "Company Name",
+            "start_date": "2010-06",
+            "end_date": "2010-07",
+            "description": "Assisted students one-on-one with college preparation assignments such as: career exploration, school selection, resume writing, and letters of recommendation. Taught students hybrid course: Introduction to Spanish and Hispanic/Latin American Studies."
+        },
+        {
+            "title": "Program Coordinator",
+            "company": "Company Name",
+            "start_date": "2009-07",
+            "end_date": "2010-07",
+            "description": "Oversaw the development of a start-up organization. Managed a $200,000 federal Gear up grant. Utilized research based best practices to create community workshops for parents and students as well as developed staff and advisor manuals. Developed community partnerships and presented NACRC to organizations. Received promotion from AmeriCorps VISTA position."
+        },
+        {
+            "title": "Math Teacher",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2009-05",
+            "description": "Taught beginner English grammar and literature, World History and TOEFL Prep to international students. Tutored Algebra and was promoted to remedial math teacher position. Advised international students and tutored Spanish."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in International Studies",
+            "school": "Northern Arizona University",
+            "year": "2009"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

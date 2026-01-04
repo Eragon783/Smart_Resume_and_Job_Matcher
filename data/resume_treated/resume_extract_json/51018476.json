@@ -1,0 +1,97 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Virus and spyware removal highlights. Highly motivated, resourceful, organized. Excellent communication techniques. Attention to detail. Fast learner.",
+    "skills": [
+        "IMan/TeamCenter",
+        "Unigraphics NX 7.5",
+        "Unigraphics NX 8.0",
+        "Unigraphics NX 8.5",
+        "MS Excel",
+        "MS Word",
+        "MS Access",
+        "MS PowerPoint",
+        "MS Windows 7"
+    ],
+    "experience": [
+        {
+            "title": "NX (Unigraphics) Designer",
+            "company": "Company Name, City, State",
+            "start_date": "Mar 2013",
+            "end_date": "Aug 2014",
+            "description": "Design and modify Chrysler and GM shipping racks for prototype or production. Used NX 7.5, NX 8.0 or NX 8.5."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2012",
+            "end_date": "Mar 2013",
+            "description": "Operate cash register, authorize gas pumps, sell lotto tickets, stock shelves and other areas and clean store."
+        },
+        {
+            "title": "Cashier/Bakery",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2010",
+            "end_date": "Aug 2012",
+            "description": "Operated cash register, cleaned cashier lanes, bagged groceries as needed. Stocked shelves with baked goods, prepped frozen bread and roll dough for the bakers, cleaned doughnut case."
+        },
+        {
+            "title": "Unigraphics Designer, CAD",
+            "company": "Company Name, City, State",
+            "start_date": "Jun 2004",
+            "end_date": "Jan 2009",
+            "description": "Designed and detailed parts for intermediate shafts and steering columns for GM steering columns using UG NX and UG NX2. Produced and maintained accurate design documentation. Supplied production data to engineers and supervisors."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name, City, State",
+            "start_date": "Feb 2004",
+            "end_date": "Jun 2004",
+            "description": "Operated cash register, authorized gas pumps, sold lotto tickets, stocked shelves and other areas and cleaned store."
+        },
+        {
+            "title": "Designer, Unigraphics Operator",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 1999",
+            "end_date": "Feb 2003",
+            "description": "Maintained design changes on Front End Sheet Metal parts, Rear End Closure parts and their assembly files using Iman and Unigraphics. Produced and maintained math part files, drawing files and assembly files. Used Unigraphics versions 15, 16 and 18."
+        },
+        {
+            "title": "Detailer",
+            "company": "Company Name, City, State",
+            "start_date": "Oct 1997",
+            "end_date": "Aug 1999",
+            "description": "In SurfSeg: checked surfaces of parts, interference and gap checks between parts from UG and CGS part files. Created photo quality pictures for presentations. As a file checker, checked files to make sure they followed specific file guidelines using a file check sheet, EdsNet, CGS and file checker in CGS. Updated details in mlref (math reference) files for some body panels that reside in UG for CGS. Also, completed detail changes on mldes (math data file) and drawing format files."
+        },
+        {
+            "title": "Detailer",
+            "company": "Company Name, City, State",
+            "start_date": "Jul 1996",
+            "end_date": "Dec 1996",
+            "description": "Changed or added details to CAD drawings. Created control and assembly drawings for rear end car parts as specified in work orders, using CGS."
+        },
+        {
+            "title": "Detailer",
+            "company": "Company Name, City, State",
+            "start_date": "Jul 1995",
+            "end_date": "Dec 1995",
+            "description": "Maintained assembly drawings. Maintained detail changes on drawings for Rear End car parts, using CGS."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science, Computer Networking Technology - Microsoft Option",
+            "school": "Baker College of Owosso",
+            "year": "2012"
+        },
+        {
+            "degree": "Associate of Applied Science, Drafting & Design Technology",
+            "school": "Baker College of Owosso",
+            "year": "1997"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,55 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Innovative and energetic Accountant proficient in extracting financial data from various reporting systems and suggesting key operational changes to establish budgetary stability. Has a strong background in school fund accounting with an emphasis on general ledger reconciliation and budget analysis.",
+    "skills": [
+        "School fund accounting",
+        "Account reconciliation",
+        "Cash flow projections",
+        "Budget analysis/forecasting",
+        "General ledger accounting",
+        "Accounts payable/receivable",
+        "Governmental reporting",
+        "School bond experience",
+        "Creative problem solving",
+        "Advanced computer skills",
+        "Works great with others",
+        "Continuous initiative for process improvement"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "July 2014",
+            "end_date": "Present",
+            "description": "Perform all general ledger duties for district. Reconcile multiple bank accounts monthly. Record and project cash flows. Perform Accounts Payable/Receivable duties. Simplified the governmental reporting process. Analyze budgets and amend as necessary. Assist auditors with yearly financial statements. Supply school board members with financial data. Create Purchase Orders and supply to vendors. Reconcile student lunch account purchases. Prepare calendar year-end tax documents. Assisted and trained staff with various accounting software tasks such as purchase order entry and budget report generating."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "November 2010",
+            "end_date": "July 2014",
+            "description": "Performed Accounts Payable duties for three local area public school districts. Processed Purchase Orders and supplied to vendors. Prepared and processed 1099's at calendar year-end. Prepared various reports on a weekly basis and supplied local districts with valuable information. Streamlined document attachment process within accounting software."
+        },
+        {
+            "title": "Package Handler",
+            "company": "Company Name",
+            "start_date": "August 2007",
+            "end_date": "September 2010",
+            "description": "Earned Employee of the Month on multiple occasions for customer focus and taking initiative."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA, Accountancy",
+            "school": "Western Michigan University, Haworth College of Business",
+            "year": "2010"
+        }
+    ],
+    "certifications": [
+        "CFO certification (Michigan School Business Officials)"
+    ],
+    "languages": []
+}

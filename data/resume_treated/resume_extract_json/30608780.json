@@ -1,0 +1,92 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Professional, results-driven sales leader with 29 years in sales and customer service, deep understanding of the sales cycle, proven track record of top performance and awards, and strong staff training and leadership abilities.",
+    "skills": [
+        "advertising",
+        "approach",
+        "army",
+        "automotive",
+        "closing",
+        "credit",
+        "client",
+        "clients",
+        "customer service experience",
+        "customer service",
+        "databases",
+        "staff training",
+        "expense reports",
+        "finance",
+        "inspection",
+        "inventory",
+        "inventory control",
+        "leadership skills",
+        "marketing strategies",
+        "market trends",
+        "marketing",
+        "meetings",
+        "merchandising",
+        "exchange",
+        "navy",
+        "negotiator",
+        "newspapers",
+        "packaging",
+        "excellent people skills",
+        "presentations",
+        "public speaker",
+        "public speaking",
+        "relationship building",
+        "retail sales",
+        "sales",
+        "sales manager",
+        "sales training",
+        "seminars",
+        "phone",
+        "time management",
+        "transportation",
+        "view",
+        "websites"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name, City, State",
+            "start_date": "2011-05",
+            "end_date": "2013-09",
+            "description": "Top of sales board; monitored multiple databases to track inventory; transported clients to other company locations to view and select right vehicle; increased sales monthly by expanding existing customer base; maintained high aftermarket and finance percentages through keeping clients informed and recommending products prior to turnover; assisted sales managers with walk-around and product presentation training; assisted with vehicle appraisals; helped other sales people learn relationship-building and closing skills; Chrysler SRT VIPER Certified; participated in civic activities; maintained company vehicle; locked door at night when necessary."
+        },
+        {
+            "title": "Corporate Buyer / Wholesale Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2004-05",
+            "end_date": "2011-05",
+            "description": "Assigned multiple franchise locations as Wholesale Manager; attended weekly corporate meetings; followed up with GM's and Used Car managers to discuss recommended purchases and corporate recommendations; participated in weekly conference calls with Regional GMs, GMs, and Sales managers for updates and training; purchased and appraised used vehicles; tracked inventory using multiple databases; controlled overage inventory and arranged internal transfers or external packaging; established relationships with local wholesalers and other franchise dealers to purchase and dispose of vehicles; traveled weekly to auto auctions nationwide; purchased vehicles online; followed up with post-sale inspections; prepared monthly expense reports."
+        },
+        {
+            "title": "Sales Person / Sales Manager",
+            "company": "Company Name, City, State",
+            "start_date": "1989-09",
+            "end_date": "2004-03",
+            "description": "Senior sales executive / Wholesale Buyer; tracked clients through personal and company databases; set milestones and achieved them; delivered consultative, value-focused customer service; handled fleet bids for municipalities, counties and state; negotiated prices, terms of sales and service agreements; prepared correspondence and followed up with clients; executed outbound calls to existing customer base resulting in referrals and increased sales; assisted management with walk-around and product presentations for training; promoted to Used Car Manager and led hiring, training, and supervision of sales staff; managed inventory and coordinated local advertising."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Wingo High School",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Dale Carnegie (Public speaking and relationship building)",
+        "Grant Cardone (Sales and Objections)",
+        "Ford Motor Company product and sales training (previously certified)",
+        "Chrysler Corporation product and sales training (previously certified)",
+        "SRT Viper training certification (invited by previous employer)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

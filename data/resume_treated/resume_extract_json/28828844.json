@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dependable and responsible Human Resources Generalist with over fourteen years experience in a fast-paced environment. Solid team player with great positive attitude and exceptional people skills. Experience in many areas of HR including benefits, compensation, employee relations, recruiting, payroll and processing of new hires and terminations. Strong customer service and detail oriented. Core Qualifications Conflict resolution & creative problem solver Able to adapt and implement change Excellent communication skills Quick learner Training and development Accomplishments ADP, Benefits, coaching, excellent communication, conflict resolution, consultation, customer satisfaction, employee relations, interpretation of policies, leadership, Excel, PowerPoint, Word, Payroll, People Soft, performance reviews, performance management, personnel files, implementing policies & procedures,recruiting",
+    "skills": [
+        "Conflict resolution",
+        "Creative problem solving",
+        "Change management",
+        "Communication",
+        "Adaptability",
+        "Training and development",
+        "Leadership",
+        "Coaching",
+        "Employee relations",
+        "Recruiting / talent acquisition",
+        "Payroll",
+        "Benefits administration",
+        "ADP",
+        "PeopleSoft",
+        "Performance management",
+        "Performance reviews",
+        "Policy implementation",
+        "HR policies",
+        "Compliance",
+        "Onboarding",
+        "I-9 verification",
+        "Visa / relocation management",
+        "Leave of absence management (FMLA, STD, WC)",
+        "Headcount reporting",
+        "Exit interviews",
+        "Safety procedures",
+        "Policy interpretation",
+        "Employee engagement",
+        "Open enrollment",
+        "Background checks",
+        "Drug tests",
+        "MS Office (Word, Excel, PowerPoint)"
+    ],
+    "experience": [
+        {
+            "title": "HR Generalist",
+            "company": "Company Name",
+            "start_date": "2013-02",
+            "end_date": "2015-06",
+            "description": "Process improvement; implemented biometric clock and attendance policy for hourly employees; advised managers on discipline policy; created vacation calendar; coordinated employee engagement; applied safety procedures; provided HR support across talent acquisition, employee relations, performance and compensation planning, learning & development, and leadership practices; managed employee relations investigations and policy enforcement; oversaw merit increases and performance reviews; assisted benefits management (open enrollment, new hire orientations); managed Reduction in Force (outplacement); managed recruiting including offer letters and pre-employment checks; processed weekly payroll via ADP and reviewed time cards; collaborated with Payroll & Benefits teams; managed leaves (FMLA, WC) and actions via PeopleSoft; maintained personnel files and I-9s; conducted exit interviews; facilitated year-end talent reviews; coordinated EAP seminars; ran queries/reports in ADP/PeopleSoft."
+        },
+        {
+            "title": "HR Generalist",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2011-06",
+            "description": "Provided consultation, guidance, and coaching to managers in areas such as employee relations and conflict resolution; managed visa and relocation processes; assisted with Voice of the Employee Survey; supported talent planning and performance reviews; assisted delivering and documenting performance management; partnered with compensation, benefits, legal and compliance to resolve issues; ensured consistent interpretation and application of employment policies; handled inquiries regarding benefits and policies; processed new hires, transfers, leaves of absence and terminations; managed leaves (including Short Term Disabilities and FMLA); prepared monthly headcount reports and year-end bonuses; processed visas for relocating employees; focused on delivering superior employee experience and resolving concerns."
+        },
+        {
+            "title": "HR Representative",
+            "company": "Company Name",
+            "start_date": "2000-04",
+            "end_date": "2008-01",
+            "description": "Answered benefits and HR policy questions; investigated and resolved inquiries and complaints; processed all new hires, transfers, leaves of absence and terminations; produced monthly headcount reports and processed merit increases and bonuses."
+        },
+        {
+            "title": "Human Resources Assistant / Payroll Coordinator",
+            "company": "Company Name",
+            "start_date": "1997-01",
+            "end_date": "2000-01",
+            "description": "Provided general administrative support to HR Director, Generalist and Staffing team; delivered new hire orientation of benefits and payroll procedures; processed payroll functions including new hires, terminations and leaves of absence."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "school": "Hunter College",
+            "year": "2003"
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "Borough of Manhattan Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

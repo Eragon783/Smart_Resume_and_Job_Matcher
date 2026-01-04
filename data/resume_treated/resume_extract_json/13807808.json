@@ -1,0 +1,68 @@
+{
+    "name": "Michelle Hong",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Associate Manager of Design with extensive experience in CAD-driven product development, merchandising, and cross-functional project management. Led high-profile collections (e.g., Chriselle Lim) and drove collaboration with retailers including Nordstrom, Bloomingdale's, and Shopbop. Skilled in mood boards, fabrications sourcing, budgeting, and timelines.",
+    "skills": [
+        "Computer-Aided Design (CAD)",
+        "Product development",
+        "Sales and marketing",
+        "Project management",
+        "Motivated team player",
+        "Excellent work ethic"
+    ],
+    "experience": [
+        {
+            "title": "Associate Manager Of Design",
+            "company": "Company Name",
+            "start_date": "03/2019",
+            "end_date": "Current",
+            "description": "Private label CAD illustrations for a manufacturer who produces for Stitch Fix; 19-piece FW'19 sweater collection for La Mamba Apparel (vendor sells to Urban Outfitters and Dillard's); 3-month term (~120 pieces) completing light sweaters, outerwear, tops, dresses, jumpsuits, and bottom designs for Spring/Summer 2020 (Cozy Co Apparel — domestic manufacturer); 25-piece in-house loungewear CAD artist for a manufacturer catering towards Anthropologie."
+        },
+        {
+            "title": "Associate Manager Of Design",
+            "company": "Company Name",
+            "start_date": "02/2018",
+            "end_date": "01/2019",
+            "description": "Coordinate partnership between J.O.A and DBA (marketing agency) to help create the last collection for influencer Chriselle Lim. Lead designer of the Chriselle Lim Collection for Spring 2019 and responsible for merchandising and presentation. Identified plans and resources required to meet project goals and objectives by setting realistic timelines and checkpoints. Worked closely with the Creative Director to ensure top quality product and cater design towards client's demands. Established relations with the Director of Sales to discuss project feasibility and budget costs. Managed all aspects of project coordination, including creation of mood boards, sourcing fabrications, and actively involved in fitting sessions with technical team. Successfully led project scheduling and budgeting to be exclusively sold to Nordstrom, Bloomingdale's, and Shopbop."
+        },
+        {
+            "title": "Import Designer",
+            "company": "Company Name",
+            "start_date": "02/2017",
+            "end_date": "01/2019",
+            "description": ""
+        },
+        {
+            "title": "Associate Designer",
+            "company": "Company Name",
+            "start_date": "08/2015",
+            "end_date": "11/2017",
+            "description": ""
+        },
+        {
+            "title": "Assistant Designer",
+            "company": "Company Name",
+            "start_date": "06/2014",
+            "end_date": "08/2015",
+            "description": ""
+        },
+        {
+            "title": "Assistant Graphic Designer",
+            "company": "Company Name",
+            "start_date": "07/2013",
+            "end_date": "06/2014",
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Fashion Design",
+            "school": "FIDM / Fashion Institute Of Design & Merchandising",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

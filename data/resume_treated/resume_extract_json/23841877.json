@@ -1,0 +1,129 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "A result-oriented client service professional with over 28 years of experience in client relations, skilled in customer relations, bookkeeping and accounting, inventory control, scheduling of personnel, problem solving, strategic planning, and strong oral communications.",
+    "skills": [
+        "Customer and Client relations",
+        "Bookkeeping and Accounting",
+        "Inventory control",
+        "Scheduling of Personnel",
+        "Problem solving",
+        "Strategic Planning",
+        "Strong oral Communications",
+        "Windows NT",
+        "Windows 95",
+        "Vista",
+        "Windows 7",
+        "Windows 8",
+        "Microsoft Office",
+        "Microsoft Word",
+        "Excel",
+        "Word Perfect",
+        "Power Point",
+        "Outlook 2013",
+        "Android",
+        "RBMS",
+        "AS400",
+        "SMS800"
+    ],
+    "experience": [
+        {
+            "title": "Bistro Chef",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Responsibilities include taking customer orders, addressing customer inquiries, opening and closing of establishment, preparing food, inventory control, problem solving, and cash register operation."
+        },
+        {
+            "title": "Customer Service Rep",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2013-01",
+            "description": "Responded to customer inquiries at a fast pace call center. Maintained records, processing payments to include set up of payment arrangements. Assisted customers by explaining detailed billing formats, and troubleshooting customer's equipment. Reported outages in affected areas and re-laid information to customers."
+        },
+        {
+            "title": "Kitchen Manager",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2011-01",
+            "description": "Responsible for customer orders as well as customer inquiries, opening and closing of establishment, Maintaining records and placing inventory orders. Food handling, preparation, safety and storage. Filling Online, fax orders, and processing of promotional complementary orders."
+        },
+        {
+            "title": "DSP",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2010-01",
+            "description": "Responsible for working with Mentally and Physically disabled people, in a home based setting. Duties: Assisting individuals with their daily needs, administering of medications, maintaining staff logs, and reports, scheduling Dr. appointments for patient care, and safeguarded consumers well-being."
+        },
+        {
+            "title": "Store Manager",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2009-01",
+            "description": "Daily procedures included opening and closing of establishment. Preparing reports for corporate HQ, updated and maintained file records, ordered supplies, handled customers phone inquiries in a timely manner. Processed loans through verifying customers credit report with the utmost regard to their privacy. This included placing calls to payroll and HR departments to verify employment, bankruptcy reports, and bank account information. To include accountable for large sums of monies, blank checks, handled armored car pick-ups, and deposited funds into bank accounts."
+        },
+        {
+            "title": "Internal Auditor",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2008-01",
+            "description": "Maintained and updated records on a daily basis, recalculated figures and insured that formulas were entered correctly. Audited all Electronic Activity entered by Pre-Bill, URT and Start Up department inputted into the RBMS Retail Business Management System for management verification."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2002-01",
+            "description": "Assisting customer inquiries in fast pace environment. Maintained records by entering or tracing orders in progress. Assisted customers with extensive product knowledge, Handled shipping and receiving orders. Conducted training of newly hired employees, operating of register for customer checkout, conducted inventory control which included pulling and processing of orders, pricing of items, and stocking the store shelves."
+        },
+        {
+            "title": "Specialist/Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "1997-01",
+            "end_date": "2000-01",
+            "description": "Professionally assisted all client inquiries at a fast pace call center. Maintained records, entered and traced orders in progress, assisted technicians with T1 and T3 equipment problems. Explained details to customers on existing orders. Conducted training for newly hired personnel. Tracked nationwide outages and re-laid information to clients, technicians, and management."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "1993-01",
+            "end_date": "1996-01",
+            "description": "Responsible for customer and employee relations. Opening and closing of establishment, preparing food, hiring and firing of personnel, bookkeeping and accounting, inventory control, scheduling of personnel, problem solving and accountability of finances."
+        },
+        {
+            "title": "Counter Manager for Ulima 2 Cosmetics",
+            "company": "Company Name",
+            "start_date": "1992-01",
+            "end_date": "1993-01",
+            "description": "Answered customer questions and concerns, advised clientele of products with extensive product knowledge. Solved problems, maintained record of customer's product orders, handled inventory control, and register operations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma in Cosmetology and Photography",
+            "school": "SZ Delfter Str., City, State, Germany",
+            "year": "1990"
+        },
+        {
+            "degree": "Diploma in Biology, Mythology, Computer Science",
+            "school": "SZ Hermannsburg, City, State, Germany",
+            "year": "1987"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "SZ Hermannsburg, City, State, Germany",
+            "year": "1986"
+        },
+        {
+            "degree": "Associate of Arts: Arts, Archaeology",
+            "school": "KCTCS, United States of America",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

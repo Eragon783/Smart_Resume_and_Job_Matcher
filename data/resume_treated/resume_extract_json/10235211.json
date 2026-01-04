@@ -1,0 +1,80 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Senior Associate in Business Development with a military background (U.S. Marine Corps and U.S. Army). Proven leadership, relationship-building, and negotiation skills in real estate funding, investor relations, and contract development. Experienced in prospecting, client follow-up, and closing deals with private lenders, brokers, and funding partners; adept at managing multiple projects under pressure and collaborating with diverse teams.",
+    "skills": [
+        "Negotiation",
+        "Contract negotiation",
+        "Real estate funding",
+        "Investor relations",
+        "Cold calling",
+        "Microsoft Office",
+        "Salesforce",
+        "Team leadership",
+        "Multitasking",
+        "Public relations",
+        "Communication (oral and written)",
+        "Problem solving",
+        "Analytical skills",
+        "Quantitative skills",
+        "Client relationship management",
+        "Business development",
+        "Networking",
+        "Negotiation tactics",
+        "Bid/contract drafting",
+        "Relationship building"
+    ],
+    "experience": [
+        {
+            "title": "Senior Associate Business Development",
+            "company": "Company Name",
+            "start_date": "January 2015",
+            "end_date": "Current",
+            "description": "Working with private hard money lender as a negotiator for real estate contracts, and business development. Working with brokers and clients to secure funding for real estate projects both commercial and residential, business acquisitions. Build and maintain financial relationships with investors' brokers and funding partners."
+        },
+        {
+            "title": "CEO",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "Current",
+            "description": "Re-established brokering business after the real estate meltdown as an LLC in the state of Nevada. Owner operator in good standing with secretary of state. Duties to include but not limited to successfully negotiating large contracts valued in excess of 23 million dollars for clients with investors and/or other funding sources. Responding to investor and client leads timely, answering questions, providing information and ideally setting an appointment for meetings and three way calls. Following-up with leads to assist them as needed through their funding phase until ready for a financial decision and purchase."
+        },
+        {
+            "title": "CEO",
+            "company": "Company Name",
+            "start_date": "January 2001",
+            "end_date": "January 2005",
+            "description": "Infantry soldier, Iraq war veteran. Oct, 2008 structured The Lane Organization, LLC under records of the Nevada Secretary of State as a Limited Liability Corporation. Main function was brokering real estate notes, annuities, and structured settlements. Main skill was to contact high profile investors to spark interests in client offerings using investor databases and points of contact. Negotiating fees and price offerings between investors, clients and other interested parties."
+        },
+        {
+            "title": "Field Radio Operator / Communications Specialist",
+            "company": "Company Name",
+            "start_date": "January 1983",
+            "end_date": "January 1987",
+            "description": "Infantry soldier and communications specialist with service during the Iraq war era; responsible for field communications and related security."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts: Golf Management",
+            "school": "PGCC Professional Golfers Career College",
+            "year": "2011"
+        },
+        {
+            "degree": "Associate Degree: Sport Psychology",
+            "school": "National University",
+            "year": "2012"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Midfield High School",
+            "year": "1983"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

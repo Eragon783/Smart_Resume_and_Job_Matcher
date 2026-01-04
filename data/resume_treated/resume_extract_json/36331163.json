@@ -1,0 +1,68 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Construction/Masonry professional with extensive experience in heavy equipment operation. Able and willing to learn new skills; dependable, hardworking, and detail-oriented with more than 5 years in the construction industry. Skilled in residential construction, leadership, problem solving, and accurate measurements and estimates; proficient in plumbing, carpentry, painting, plastering, and machine servicing.",
+    "skills": [
+        "Construction",
+        "Masonry",
+        "Heavy equipment operation",
+        "Leadership",
+        "Tiling",
+        "Plumbing",
+        "Carpentry",
+        "Painting",
+        "Plastering",
+        "Machine servicing and installation",
+        "Tile cutting",
+        "Concrete work",
+        "Residential construction",
+        "Pre-cast concrete",
+        "Safety compliance",
+        "Measurements and estimates",
+        "Documentation",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Reading blueprints",
+        "Driving (26ft flatbed trucks)",
+        "Communication",
+        "Detail-oriented",
+        "Problem solving"
+    ],
+    "experience": [
+        {
+            "title": "Construction Manager",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "Present",
+            "description": "Extensively trained in plumbing, carpentry, painting, plastering, machine servicing and installation. Installed, repaired and rebuilt tile, brick and stone surfaces. Documented daily equipment inspections and submitted daily inspection forms to supervisor. Performed daily maintenance to the machines. Operated equipment safely and efficiently. Loaded proper materials while abiding by safety and legal standards. Assisted skilled workers with construction projects in all phases of rough and finish carpentry. Cleaned construction areas to avoid hazards. Mixed and laid concrete to raise top of manhole to the street level. Completed indoor and outdoor residential and commercial construction projects. Arranged and stored materials, machines, tools and equipment. Cut materials to specified sizes for installation using power saws and tile cutters."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2011-01",
+            "description": "Transported materials, tools and machines to installation sites. Loaded proper weight requirements before leaving the pit. Operated equipment safely and efficiently. Serviced and maintained vehicles and heavy equipment. Transported materials, tools and machines to installation sites. Cut materials to specified sizes for installation using power saws and tile cutters."
+        },
+        {
+            "title": "Warehouse Manager / Steel Tier",
+            "company": "Company Name",
+            "start_date": "2005-01",
+            "end_date": "2008-01",
+            "description": "Tested machinery, equipment and parts to identify any defects. Assembled and installed wiring, electrical and electronic components. Assembled and maintained physical structures using hand and power tools. Briefed new team members on procedures and project goals. Ordered supplies, tools and equipment. Read manufacturer manuals, diagrams and specifications prior to repairing equipment. Coordinated schedules with various construction departments in plumbing works for new and existing buildings. Cleaned drains and plumbing fixtures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma",
+            "school": "North Rockland High School",
+            "year": "2004"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

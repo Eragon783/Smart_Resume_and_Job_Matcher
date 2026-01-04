@@ -1,0 +1,56 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City , State",
+    "summary": "7+ yrs of Management, customer service, extensive sales, service and repairs knowledge.",
+    "skills": [
+        "Quickbook Retail IQ",
+        "ISC",
+        "Snap",
+        "Fdt",
+        "E-ticket",
+        "Microsoft Powerpoint",
+        "Outlook",
+        "Works",
+        "Word",
+        "Watson"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "2014-10",
+            "end_date": "2014-12",
+            "description": "Target new customer to open new and upgrade account , maintain account , help customer with any issues,. ."
+        },
+        {
+            "title": "Personal Banking Representative",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2013-09",
+            "description": "Daily bank deposit , weekly inventory , monthly meeting. Accomplishes sales and organization mission by completing related results as needed. Responsibilities. Increased bank revenue by acquiring at least 5 checking accounts per quarter for nine consecutive quarters * Grew customer satisfaction by mastering program benefits, account history, interest rates and service fee knowledge and quickly answering customer questions Pioneered customer satisfaction study by gathering customer feedback on a daily basis and presenting to bank managers quarterly."
+        },
+        {
+            "title": "Store Manager",
+            "company": "Company Name",
+            "start_date": "2007-09",
+            "end_date": "2013-06",
+            "description": "Accomplishes regional sales human resource objectives by recruiting, selecting, orienting, training, assigning, scheduling, coaching, counseling, and disciplining employees in assigned districts; communicating job expectations; planning, monitoring, appraising, and reviewing job contributions; planning and reviewing compensation actions; enforcing policies and procedures. Keeping the store clean and organized Ensuring that merchandise is fully stocked Assisting with returns, exchanges, etc. Performing inventory counts Managing the cash drawer Preparing bank deposits lead a sales force that discovers customers' needs and delivers solutions to build loyalty, support team helps maintain customers' trust in Sprint and its products, business team brings the experience to business customers Achieves regional sales operational objectives by contributing regional sales information and recommendations to strategic plans and reviews; preparing and completing action plans; implementing production, productivity, quality, and customer-service standards; resolving problems; completing audits; identifying trends; determining regional sales system improvements; implementing change. Meets regional sales financial objectives by forecasting requirements; preparing an annual budget; scheduling expenditures; analyzing variances; initiating corrective actions. Establishes sales objectives by creating a sales plan and quota for districts in support of national objectives."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate: Liberal Arts",
+            "school": "Kingsborough College",
+            "year": 1994
+        },
+        {
+            "degree": "Liberal Arts Diploma",
+            "school": "Lafayette HS",
+            "year": 1990
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I have grown up with a maintenance background having always worked on my own vehicles and equipment. I started my professional career in automotive as a lube technician, I quickly was moved into a technician role and was factory trained on Mitsubishi automobiles. Once completing the Aviation Maintenance Technician Airframe and Powerplant licenses, I started working for SkyWest Airlines and was trained on maintaining commuter aircraft. At this time I completed an Associates of applied science in aviation technology. I have always been interested in working professionally on helicopters and got the opportunity to work on EMS helicopters for Air Methods. Air Methods provided me with factory training on Bell Helicopters and Airbus Helicopters among other training opportunities.",
+    "skills": [
+        "Aviation systems troubleshooting",
+        "Electrical troubleshooting",
+        "Computer and IT systems repair capable",
+        "Automotive diagnosis and repair"
+    ],
+    "experience": [
+        {
+            "title": "Aviation Technician",
+            "company": "Company Name",
+            "start_date": "2007-10",
+            "end_date": "Present",
+            "description": "Perform aircraft maintenance, preventative maintenance, repairs, and alterations. Research schedule inspections, and parts on BK117-C2, Bell 206, Bell 407, Bell 430, and Pilatus PC-12. Base mechanic and single mechanic on BK117-C2 at the main receiving facility"
+        },
+        {
+            "title": "Aviation Technician",
+            "company": "Company Name",
+            "start_date": "2006-08",
+            "end_date": "2007-01",
+            "description": "Performed aircraft maintenance, aircraft alterations, and aircraft repairs. Gained training on all systems for Embraer Brasilia, Bombardier CRJ-200 series, CRJ-700 series, and CRJ-900 series aircraft. Worked in maintenance teams. Performed line maintenance at the gate"
+        },
+        {
+            "title": "Automotive Technician",
+            "company": "Company Name",
+            "start_date": "2004-09",
+            "end_date": "2006-01",
+            "description": "Automotive diagnosis and repair on Mitsubishi and Other brands of new and used cars. Auto computer reprogramming and computer scanning."
+        },
+        {
+            "title": "Automotive Technician",
+            "company": "Company Name",
+            "start_date": "2003-06",
+            "end_date": "2004-01",
+            "description": "Automotive diagnosis and repair on Mitsubishi and Other brands of new and used cars."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science in Aviation Technology",
+            "school": "Salt Lake Community College",
+            "year": "2007"
+        },
+        {
+            "degree": "High School Diploma (General Studies)",
+            "school": "Woods Cross High School",
+            "year": "2003"
+        }
+    ],
+    "certifications": [
+        "Turbomeca Arriel 1 Line 1 and 2 maintenance course (2013)",
+        "Model EC145 (BK117 C2) Airframe Field Maintenance (2012)",
+        "Bell model 407 Electrical Maintenance Training (2011)",
+        "Rolls-Royce model 250 series IV FADEC training (2010)",
+        "Human factors in maintenance (2010)",
+        "Bell model 407 Field Maintenance Training Course (2007)",
+        "Level 1 Dye Penetrate Inspection (2006)",
+        "Mitsubishi MUT II scan tool training",
+        "Mitsubishi MUT III scan tool training",
+        "Mitsubishi New Model training",
+        "Mitsubishi MEDIC scan tool Training"
+    ],
+    "languages": []
+}

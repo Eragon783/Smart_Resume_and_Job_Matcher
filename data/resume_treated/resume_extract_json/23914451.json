@@ -1,0 +1,92 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Human Resource Manager adding value by contributing to company growth and profitability. Trusted adviser and strategic business partner. Efficient in developing and implementing HR plans and procedures. Promotes team-oriented, open-door environments conducive to successful workforce. Highly motivated to achieve company goals.",
+    "skills": [
+        "Associate Relations",
+        "Audits",
+        "Asset Protection",
+        "Coaching",
+        "EEOC Responses",
+        "Succession Planning",
+        "Terminations",
+        "Customer Service",
+        "Retail Sales",
+        "Cash Controls",
+        "Bookkeeping",
+        "Time Management",
+        "Budgets",
+        "Lotus Notes",
+        "Bakery",
+        "Merchandising",
+        "Ordering",
+        "Sales",
+        "Sanitation",
+        "Scheduling",
+        "Budget Preparation",
+        "Conflict Management",
+        "Employment Law",
+        "Expense Control",
+        "Internal Investigations",
+        "On-line Learning",
+        "Problem Solving",
+        "Project Management",
+        "Quick Books",
+        "Recruiting",
+        "Retail Marketing",
+        "Self Motivated",
+        "Strategic Planning",
+        "Team Building",
+        "Training"
+    ],
+    "experience": [
+        {
+            "title": "HR Generalist",
+            "company": "Company Name",
+            "start_date": "May 2015",
+            "end_date": "Present",
+            "description": "Addressed inquiries from employees and management regarding new-hire activity and ongoing employee relation issues. Advised top management on appropriate employee corrective actions. Facilitated regular meetings to develop strategies that positively influence workplace relationships. Recruited and interviewed applicants daily. Implemented an employee recognition and incentive program. Generated employee tracking reports each week. Worked with senior-level management to create fair and consistent HR policies and procedures."
+        },
+        {
+            "title": "Human Resource Manager",
+            "company": "Company Name",
+            "start_date": "June 2004",
+            "end_date": "May 2015",
+            "description": "Multi-unit HR business partner upholding Company mission, vision and values system. Supported 12 units with over 1000 employees at all levels, including executive leadership. Analyzed staffing needs and developed strategies to recruit, train, retain quality talent. Created and utilized job descriptions within all departments. Facilitated meetings to develop strategies that positively influence workplace relationships. Managed new hire and other HR related paperwork compliance. Advised management. Worked with operations to establish consistent hiring practices including succession planning. Worked with senior-level management to create fair and consistent HR policies and procedures. Reviewed federal and state laws to confirm and enforce company compliance. Advised management on appropriate employee corrective actions. Guided operations on how to conduct background checks and verify references. Managed employee performance evaluation process and merit program. Addressed inquiries from employees and management regarding employee relation issues. Prepared EEOC responses. Conducted respectful workplace investigations. Monitored compliance of company policy. Coordinated performance reviews, assessments, and individual development plans. Processed salary changes resulting from merit increases, promotions, bonuses and pay adjustments. Partnered with asset protection to train and maintain compliance. Promoted quality customer service."
+        },
+        {
+            "title": "Front End Supervisor",
+            "company": "Company Name",
+            "start_date": "February 2001",
+            "end_date": "March 2004",
+            "description": "Coordinated activities of team members in multiple locations. Recruited, trained and developed customer service representatives. Created training manuals. Monitored daily activities of customer support teams. Monitored program compliance to maximize customer satisfaction and manage associates. Provided departmental reports and updates to senior management. Resolved customer questions, issues and complaints."
+        },
+        {
+            "title": "Customer Service Technical Trainer",
+            "company": "Company Name",
+            "start_date": "June 1997",
+            "end_date": "February 2001",
+            "description": "Developed documentation for common processes. Trained employees company protocols clearly and efficiently. Researched issues to resolve complaints and answer inquiries. Provided technical support. Built and maintained successful relationships with associates, vendors and customers. Mentored associates and managers. Troubleshot issues and worked with associates to accomplish goals."
+        },
+        {
+            "title": "Bakery Manager",
+            "company": "Company Name",
+            "start_date": "June 1996",
+            "end_date": "June 1997",
+            "description": "Met customer needs by effectively resolving food or service issues. Followed procedures for safe food preparation, handling and presentation to ensure customer satisfaction. Maintained sanitation, health and safety standards in work area. Performed monthly inventory control and weekly stock ordering."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Wildlife and Fisheries Science",
+            "school": "Pennsylvania State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Senior Professional in Human Resources (SPHR)"
+    ],
+    "languages": []
+}

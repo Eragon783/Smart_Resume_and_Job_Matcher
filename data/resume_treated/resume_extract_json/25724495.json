@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "San Francisco Bay Area",
+    "summary": "Holistic HR Professional with 5 years 7 months experience in Human Resources vertical in areas of recruitment, employee relations and performance management after completing 2 years of full time Experience",
+    "skills": [
+        "Staffing and recruitment",
+        "Microsoft Office Suite",
+        "Interviewing",
+        "HRIS",
+        "Onboarding",
+        "Offboarding",
+        "Report Writing",
+        "Employee relations",
+        "New employee orientations",
+        "Performance Management",
+        "Recruitment",
+        "Payroll",
+        "PeopleSoft",
+        "Training programs",
+        "Leadership",
+        "Legal",
+        "Negotiation",
+        "MIS",
+        "PowerPoint",
+        "MS Office",
+        "Excel"
+    ],
+    "experience": [
+        {
+            "title": "Regional HR Manager",
+            "company": "Company Name, City",
+            "start_date": "Aug 2015",
+            "end_date": "Dec 2016",
+            "description": "Regional HR Manager responsible for entire HR function for Andhra Pradesh/Telangana states for Assets & Liabilities vertical. Led a team of two HR Executives. Handled end-to-end recruitment including sourcing, interviews, offers and onboarding; ensured payroll for new joiners; maintained new joiner, induction and offered applicants trackers; prepared recruitment MIS and reports; conducted branch visits and escalations; analyzed attrition and forecasting; maintained updated HRIS for the region; addressed employee queries; closed PMS for the financial year; issued PIP and termination letters; prepared investigation reports and acted as HR Presenter in RCU investigations; identified training needs and coordinated training; ensured goal sheet adoption and timely PMS completion."
+        },
+        {
+            "title": "Employee Relationship Manager",
+            "company": "Company Name, City, State",
+            "start_date": "May 2013",
+            "end_date": "Jun 2015",
+            "description": "Conducted regular branch visits, prepared branch visit reports and maintained tracker. Handled employee grievances and queries related to policies, transfers, salaries and leaves. Managed HRIS for the region, conducted induction sessions, and handled PMS escalations. Managed performance management cycle from goal sheet updates to 360-degree feedback, normalization, and final rating in PeopleSoft. Conducted Talent Panels and ensured timely feedback."
+        },
+        {
+            "title": "Recruitment Manager",
+            "company": "Company Name, City, State",
+            "start_date": "May 2011",
+            "end_date": "Apr 2013",
+            "description": "Handled recruitment for Rajasthan RBG, RIBG and GOG. End-to-end recruitment lifecycle: sourcing, interviewing, negotiating and offers till onboarding; ensured payroll inclusion for new joiners; prepared monthly recruitment reports and annual attrition/recruitment forecast; used Hirecraft for interview and candidate management; served as Center Head for mass recruitment drives and campus recruitment."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name, City, State",
+            "start_date": "Mar 2010",
+            "end_date": "Jun 2010",
+            "description": "Gathered requirements from clients, sourced applicants using mass mailing and job postings, screened and lined up for interviews; coordinated salary negotiations and joining; followed up with HR departments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Human Resource",
+            "school": "ICFAI Business School",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelor of Science in Electrical Engineering",
+            "school": "Bharati Vidyapeeth College Of Engineering",
+            "year": 2009
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

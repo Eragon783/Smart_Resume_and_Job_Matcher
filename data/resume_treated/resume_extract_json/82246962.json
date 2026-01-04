@@ -1,0 +1,102 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "I am seeking the challenging position with a technology company that will allow me to apply and enhance my skills of being Test Engineer to their fullest potential. Possessing over 10 years of experience in the electronics manufacturing and test engineering environment can bring high level of responsibility and technical role in your company. In addition, I am eager to contribute my creativity and hard work towards the success of your company and to the growth of the fast developing field.",
+    "skills": [
+        "Digital/Analog and RF circuit design",
+        "Troubleshooting",
+        "Agilent E5061B-3L5 LF-RF Network Analyzer",
+        "Soldering (circuit boards and microscope)",
+        "Schematic reading for AC/DC circuits",
+        "CAD Design software",
+        "TEXMAC Flying Probe 9000 series",
+        "Agilent 83480A Digital Communication Analyzer",
+        "Python scripting for test automation",
+        "Solaris 10 OS",
+        "Linux (Mandrake, Red Hat)",
+        "UNIX shell scripting",
+        "SQL Server configuration",
+        "Networking Essentials",
+        "Networking cabling (Cat5e, Cat6) and Fiber Optic",
+        "TCP/IP and OSI layers",
+        "Windows XP/7",
+        "Mac OS X Leopard",
+        "PC hardware installation",
+        "PC troubleshooting",
+        "PC software installation",
+        "Routers and switches",
+        "Cable modems",
+        "Network subnetting and routing",
+        "Six Sigma / Lean manufacturing",
+        "DFT and NPI processes",
+        "Test procedure development",
+        "MES routing and process verification"
+    ],
+    "experience": [
+        {
+            "title": "Test Engineering",
+            "company": "Company Name",
+            "start_date": "Feb 2006",
+            "end_date": "Present",
+            "description": "Perform component debugging on the complex android mobile technology products with Android Debug commands. Bring up ongoing reliability lab for the android device compliance testing that includes tumble test, drop test, button cycling test, thermal testing and humidity environment testing. Troubleshoot and perform final root cause failure analysis on the component level for Riverbed Steelhead, Sturgeons, and Interceptors WAN optimization hardware appliances. Responsible to perform functional test and system level validation, Report directly to the customer's quality engineering department with final failure analysis data results on RMA/FA systems. Manage RMA returns and process orders. Perform incoming quality check on the RMA systems. Upgrade firmware or software if required. Use test equipment tools Digital/Analog meters, Signal Generators, Oscilloscope Tektronix TDS 3052, Fluke 26III True RMS MM meter to find root cause on the electrical circuits. TestExpert CAD for signal view. Directly work with customer's engineers to resolve all test related issues and act as primary technical customer interface. Prepare and develop test process procedures and disseminate test-engineering standards for developed test systems. Measure and control test debug WIP. Stay abreast of technology trends. Design, develop, maintain test procedures, and tester software for electronic circuit board production. Support junior technicians with failure analysis, tester debugging, reduction of intermittent failures. Review test equipment designs, data and RMA issues with customers regularly. Support backend production floor with BOM breakdown for Intel X-86 server platform, Created Visual Aids. work instructions for assemblies from frontend to backend. Properly implement ECO, ECN, Deviations, SPIs and ETN rework on the production floor. Design barcode labels with loftware design software for assemblies and subassemblies. Create MES routes for the assemblies and controlled process verification in the MES system. Bronze Six Sigma certified. Participate in Lean manufacturing eg. The 5S's, Kaizen Blitz or Events, QRQC, Workflow Analysis, Layouts & workcell design, Kanban, Simulated continuous flow, De- bottlenecking, Takt Time and other process related improvements, FPY reports for test matrix, Test Debug WIP reports. Applied Lean Six Sigma methodologies to improve production process. Work with Test and Manufacturing engineering departments for DFT and developed test programs. Extensive experience in NPI environment and NPI process improvements, customer's NPI projects portfolio includes McAfee, Riverbed, HP, Silverspring networks, NEC, Cisco, Pocketfinder, Sunpower & Sable networks. Traveled domestic and overseas to coach diagnostic technicians for new customers and existing customer product lines."
+        },
+        {
+            "title": "Integration System Engineer",
+            "company": "Company Name",
+            "start_date": "Jul 2005",
+            "end_date": "Feb 2006",
+            "description": "Responsible to create proposals, design Security Access Control, CCTV Surveillance System and Alarm Systems for Government, Commercial, and Residential customers. Provided Technical Support to Field Technicians and customers. Install GPS tracking devices on fleet vehicles."
+        },
+        {
+            "title": "Lab Technician",
+            "company": "Company Name",
+            "start_date": "Apr 2003",
+            "end_date": "Jul 2005",
+            "description": "Work directly with the company's Vice President of engineering on the development of alarm verification VIT system. Support development of new production and R&D engineering department overseas with BOM breakdown, Visual Aids, Schematics improvements and US FCC compliance requirements. Daily job duties included test and Troubleshoot CCTV Security products. Performed electrical conformance testing with Agilent 83480A Digital Communication Analyzer. Introduce new product lines to the customer and marketing department. Provided Technical Support on all company products on phone and via email."
+        },
+        {
+            "title": "Test Technician III",
+            "company": "Company Name",
+            "start_date": "Jan 2002",
+            "end_date": "Mar 2003",
+            "description": "Test and troubleshoot flat touch screens and report daily test reports to engineering department. Trained new employees to perform task on assembly lines."
+        },
+        {
+            "title": "Production Test Technician II",
+            "company": "Company Name",
+            "start_date": "Oct 2000",
+            "end_date": "Nov 2001",
+            "description": "Certified WWOPS Final Analysis Manufactured Training. Ability to Test and Debugged all SUNFIRE mid and high series servers. Generate daily work report on failed CPU boards and other components. Experience in Assembly line, Kitting and pack out. Assisted Manufacturing Engineers to installed and tested new features on a servers. Interpret and very familiar with SUN Microsystems technical docs on Netscape interanet."
+        },
+        {
+            "title": "Test Technician I",
+            "company": "Company Name",
+            "start_date": "Mar 1999",
+            "end_date": "Sep 2000",
+            "description": "Directly work with Engineers on new customer products for Telecommunication Servers. Performed test and repaired bad main boards, worked on SMT machines on a production."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSEE",
+            "school": "Northwestern Polyphonic University",
+            "year": 2016
+        },
+        {
+            "degree": "Associate Degree",
+            "school": "D.A.V. College Jalandhar",
+            "year": 2001
+        },
+        {
+            "degree": "AAS Degree in Electronics Technology",
+            "school": "Heald College School of Technology",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Bronze Six Sigma"
+    ],
+    "languages": []
+}

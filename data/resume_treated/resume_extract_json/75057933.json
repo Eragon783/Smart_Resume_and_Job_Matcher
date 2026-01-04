@@ -1,0 +1,89 @@
+{
+    "name": "Virgil Joiner",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Affiliations Creative problem solver & computer literate with experience in domestic violence advocacy, conflict resolution, trauma counseling and community referrals. Strong communication, organizational and information gathering skills; ability to provide crisis services including suicide prevention. Expertise in counseling (including in-home) and group facilitation; skilled in developing, implementing and monitoring projects; knowledge of techniques used in Mental Health & Substance Abuse services.",
+    "skills": [
+        "streamline",
+        "agency",
+        "Case management",
+        "Counselor",
+        "Counseling",
+        "crisis intervention",
+        "client",
+        "data entry",
+        "diagnosis",
+        "financial",
+        "insurance",
+        "meetings",
+        "Mental Health",
+        "Psychiatrist",
+        "quality",
+        "report writing",
+        "Supervisor",
+        "Tax",
+        "therapy",
+        "trainer",
+        "Trauma",
+        "Treatment Plans"
+    ],
+    "experience": [
+        {
+            "title": "Family and Community Advocate",
+            "company": "Company Name – City , State",
+            "start_date": "2015-03",
+            "end_date": "2017-09",
+            "description": "Completion of or update of applications leading to financial assistance toward home heating or cooling bills; as well as assistance towards rent or mortgage payments to at-risk low income, elderly and disabled households. Referrals to community resources as needed. Completion of applications for Home Weatherization program and agency Head Start Facilities. Compiled and monitored case files. Coordinator of VITA Tax program. Community Outreach 4x's yearly. Utilized technology solutions for data entry. Community Outreach resulted in 15% increase in financial assistance."
+        },
+        {
+            "title": "Substance Abuse Counselor",
+            "company": "Company Name – City , State",
+            "start_date": "2009-01",
+            "end_date": "2011-01",
+            "description": "Completed Psychosocial Assessments and Treatment Plans to determine the eligibility and provisional needs of persons suffering from Opiate Addiction. Monitored progress through weekly individual and group sessions, team staff meetings, and random Urine Surveillance. Completed authorization for T-19 reimbursements. Collaborated with on-site medical team for maximum services. Compiled and monitored case files. Provided community referrals as needed. Group leader."
+        },
+        {
+            "title": "Case Manager",
+            "company": "Company Name – City , State",
+            "start_date": "2008-01",
+            "end_date": "2009-01",
+            "description": "Completed Psychosocial Assessments and Treatment Plans. Compiled and monitored case files. Utilized technology solutions to streamline data entry and report writing. Collaborated with in-house and community staff to maximize services. Provided community referrals as needed. Monitored daily living activities to assess quality of life status. Completed monthly stats. On clients seen and services rendered. On-site case management resulted in 45% reduction in crisis situations."
+        },
+        {
+            "title": "Lead Case Manager",
+            "company": "Company Name – City , State",
+            "start_date": "2004-01",
+            "end_date": "2008-01",
+            "description": "Completed Psychosocial Assessments and Treatment Plans within the Prison setting to determine provisional needs for discharging inmates in the area of personal and family adjustments, finances, employment, food and clothing, housing, and physical and mental impairments. Developed and implemented program curriculum. Compiled and monitored case files and utilized technology solutions to streamline management tasks and report submission. Supervisor and trainer of Masters and Bachelor Interns. Provided employment services including resume writing, job leads, job retention. Case management resulted in 50% recidivism reduction in a 4 year project."
+        },
+        {
+            "title": "Therapist",
+            "company": "Company Name – City , State",
+            "start_date": "2000-01",
+            "end_date": "2004-01",
+            "description": "Completed Psychosocial Assessment and Treatment Plans to determine diagnosis and provisional needs of clients with wide range. of Mental Health Disorders including AODA. Assisted clients in modifying negative attitudes and behaviors through weekly individual and group session and Urine Surveillance. Compiled and monitored case files. Provided in-home therapy. In-home services resulted in 60% increase in client retention."
+        },
+        {
+            "title": "Psychotherapist",
+            "company": "Company Name – City , State",
+            "start_date": "1998-01",
+            "end_date": "2001-01",
+            "description": "Completed Psychosocial Assessments and Treatment Plans on clients diagnosed with a wide range of Mental Health Disorders. Directed clients in modifying attitudes and patterns of negative behavior through weekly individual sessions. Compiled and monitored case files. Completed authorizations for insurance reimbursement. Collaborated with Psychologist and Psychiatrist regarding diagnosis and medication monitoring. Conducted in-home services including crisis intervention. Provided community resources as needed. In-home services resulted in 35% increase in client retention."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MSW",
+            "school": "University of Milwaukee",
+            "year": "1995"
+        },
+        {
+            "degree": "BSW",
+            "school": "Concordia University Wisconsin",
+            "year": "1993"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}
