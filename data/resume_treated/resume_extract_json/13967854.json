@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Social worker with more than five years of experience as Multicultural Victim Advocate and exceptional people skills. Versed in advocacy and case management. Desires a challenging role as HR Generalist. Strategic planning and client relationship management expert. Experience in counseling individuals of various ethnic and socio-economic backgrounds, including Latinos and immigrants from various countries. Bilingual translation and interpretation (Spanish and English). Public speaking and strong interpersonal skills.",
+    "skills": [
+        "Case management",
+        "Interpersonal skill",
+        "Crisis intervention",
+        "Client relations",
+        "Databases",
+        "Decision making",
+        "Adaptable",
+        "Self motivated",
+        "Creative problem solving",
+        "Bilingual Translation and Interpretation (Spanish and English)",
+        "Legal navigation",
+        "Public speaking",
+        "Team player",
+        "Computer proficient",
+        "File/records maintenance",
+        "Organizational skills"
+    ],
+    "experience": [
+        {
+            "title": "Victim Advocate",
+            "company": "Company Name",
+            "start_date": "February 2015",
+            "end_date": "March 2017",
+            "description": "Conducted a support group for victims of domestic violence. Trained other professionals in multiculturalism, immigration and how to better served the Latino community. Connected clients with community service and resource agencies. Provided comprehensive case management services, including creating personalized safety plans, assistance with Court filings, crisis intervention, education on victim's rights, victim's compensation, navigation of the justice system, accompaniment to court and connecting victim's families with appropriate resources in the community. Interpretation and translation in court."
+        },
+        {
+            "title": "Multicultural Advocate",
+            "company": "Company Name",
+            "start_date": "April 2014",
+            "end_date": "March 2015",
+            "description": "Trained other professionals in multiculturalism, immigration and how to better served the Latino community. Connected clients with community service and resource agencies. Provided comprehensive case management services, including creating personalized safety plans, assistance with Court filings, crisis intervention, education on victim's rights, victim's compensation, navigation of the justice system, accompaniment to court and connecting victim's families with appropriate resources in the community."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "June 2013",
+            "end_date": "February 2014",
+            "description": "Entered numerical data into databases in a timely and accurate manner. Developed a community group targeting immigrant youth: empowerment, cultural diversity and healthy behavior. Assisted clients with legal interpretation. Provided referral and advocacy services."
+        },
+        {
+            "title": "Interpreter/Translator",
+            "company": "Company Name",
+            "start_date": "August 2012",
+            "end_date": "May 2013",
+            "description": "Displayed sensitivity to the cultural and linguistic needs of the clients and families served. Performed a variety of modes of interpreting such as: simultaneous, consecutive, whispered. Convert concepts in the source language to equivalent concepts in the target language. Render spoken messages accurately, quickly, and clearly."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in International Organizational Leadership",
+            "school": "Pellissippi State Community College",
+            "year": "2014"
+        },
+        {
+            "degree": "CCAHT Human Trafficking Training",
+            "school": "Middle Tennessee State University",
+            "year": "2016"
+        }
+    ],
+    "certifications": [
+        "Understanding the Role of Experts in Immigration Proceedings Involving Victims of Battering",
+        "U-VISA Department of Homeland Security",
+        "Trauma Informed Advocacy",
+        "Bridges Out of Poverty",
+        "The ABC's of Advocacy",
+        "Expert Advice for Judges",
+        "International Conference on Sexual Assault, Domestic Violence and Campus Responses",
+        "Criminal Injuries Compensation Workshop",
+        "U-VISA and VAWA",
+        "CCR- Safety Audit training",
+        "Human Trafficking Summit",
+        "DACA",
+        "Immigrant Victims of Intimate Partner Violence",
+        "Criminal Injuries Compensation Tennessee Department of Treasury"
+    ],
+    "languages": [
+        "Spanish",
+        "English"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Executive Assistant/Office Manager with experience managing employees, improving productivity and reducing costs; proficient in calendar management, travel planning, vendor negotiations, and cross-functional coordination.",
+    "skills": [
+        "Word",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "Adobe",
+        "ProDoc",
+        "Quickbooks",
+        "E2 System",
+        "Accounts Payable",
+        "ACT!",
+        "administrative skills",
+        "advertising",
+        "analytical skills",
+        "scheduling appointments",
+        "attention to detail",
+        "budget",
+        "coaching",
+        "conferences",
+        "consulting",
+        "CPR",
+        "credit",
+        "clientele",
+        "database",
+        "documentation",
+        "expense reports",
+        "filing",
+        "first aid",
+        "legal documents",
+        "marketing",
+        "meetings",
+        "multi-tasking",
+        "research",
+        "safety",
+        "sales",
+        "travel arrangements",
+        "written",
+        "ProDoc",
+        "E-Filing"
+    ],
+    "experience": [
+        {
+            "title": "Executive Assistant/Office Manager",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Manage calendars for multiple executives; maintain daily communication with President, VP, CFO, COO and Director; research and schedule international/domestic travel; prepare and distribute revenue reports; review and enter accounts payable invoices; manage vendor/meeting logistics; oversee corporate credit card and cellular accounts; coordinate Engineering drawings; prepare meeting agendas and minutes; oversee major projects (e.g., Louisiana building expansion); analyze Master Service Agreements/NDAs; prepare expense reports; travel to Louisiana for major meetings; plan holiday events."
+        },
+        {
+            "title": "Certified Fitness Trainer",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "Present",
+            "description": "Enhance monthly revenue through client referrals and satisfaction; implement marketing strategies to attract clients; initiate and manage appointments and training sessions; provide attentive, client-focused service; ensure timely action and follow-up; build trust through consistent client interactions; coordinate and track weight-loss statistics to tailor programs."
+        },
+        {
+            "title": "Demo Representative",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "2014-01",
+            "description": "Increased revenue at Expositions and Demonstrations with top sales for two consecutive years; improved productivity by developing sampling techniques; engage customers in diverse settings; perform live sampling; enhance product knowledge; manage travel schedules and client meetings; document impact of demonstrations; build and maintain internal/external relationships; manage monthly budgets."
+        },
+        {
+            "title": "Legal Assistant/Office Manager",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2014-01",
+            "description": "Improve monthly invoices by enforcing credit terms; review, proofread, and format invoices and income/expense reports; research and interpret legal documents under deadlines; oversee mediations, depositions, and meetings; coordinate procedures for new clients to increase court filing efficiency; perform communications with public/private/government agencies; manage advertising, marketing, scheduling, and collections; train and supervise seasonal staff; organize physical and electronic client files; oversee main schedule and time management; maintain high attention to detail and administrative efficiency."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Education in Counseling",
+            "school": "University of Houston",
+            "year": "2018"
+        },
+        {
+            "degree": "Bachelor of Science in Psychology & English",
+            "school": "University of Houston",
+            "year": "2014"
+        },
+        {
+            "degree": "Associate of Arts in English Language",
+            "school": "Lone Star College",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "AHA First Aid, CPR, AED Training Certification",
+        "Oxygen Usage & Safety Awareness Training Certification",
+        "Bloodbourne Pathogen OSHA Standard 29 CFR 1910.1030(g)(2)(i) Training Certification",
+        "Excel Continuing Education",
+        "Power Point Continuing Education",
+        "ACT! Database",
+        "ProDoc E-Filing Webinar"
+    ],
+    "languages": [
+        "English"
+    ]
+}

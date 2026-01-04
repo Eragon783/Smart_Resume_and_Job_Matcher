@@ -1,0 +1,92 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Detail-oriented, enthusiastic educator with over 12 years experience in Higher Education, skilled in designing curriculum for various faculty members with an aim of integrating technology in meaningful ways. Seeking a position as an Instructional Design professional where I can organize, plan, and implement effective educational practices. Exceptional ability to manage multiple projects in a deadline-driven, dynamic environment; Enthusiastic about new ideas and experiences.",
+    "skills": [
+        "ADA",
+        "Canvas",
+        "Creative Writing",
+        "Critical thinking",
+        "documentation",
+        "drafting",
+        "English 9",
+        "English",
+        "essays",
+        "Fiction",
+        "focus",
+        "funds",
+        "instruction",
+        "instructional design",
+        "letters",
+        "mentor",
+        "organizing",
+        "persuasion",
+        "poetry",
+        "progress",
+        "recruiting",
+        "Research",
+        "shell",
+        "short stories",
+        "Speech",
+        "Teaching",
+        "time management",
+        "workshops",
+        "writing skills",
+        "Composition"
+    ],
+    "experience": [
+        {
+            "title": "Special Instructor of Composition Administration",
+            "company": "Company Name, City, State",
+            "start_date": "June 2008",
+            "end_date": "Present",
+            "description": "Design first-year Composition curriculum, which assists at least 25 faculty instructors of Composition each semester. Using the Learning Management System Canvas, created a common College Composition course shell template. This involved collaboration with IT in order to design and deliver the most effective course. This is available to any user of Canvas for immediate use. Currently it is being used by 25 faculty members. Modified all documents within the common College Composition curriculum to be accessible and meet ADA regulations. Train, supervise, and mentor new instructors of College Composition, providing them with curriculum which they are to deliver. Implement professional development opportunities and workshops, many of which focus upon effective use of technology within the classroom, including using various Learning Management systems in helpful ways. Serve as a liaison between the English Department and the Center for Advising and Student Achievement as well as the Division of Student Affairs to implement an early intervention and retention program called Early Performance. This entails recruiting participants and creating documents to train faculty how to participate. Plan, implement, monitor, and assess various courses which are consistent with Colorado State University objectives. Design and test instructional methods that utilize technology in the classroom in meaningful ways. Collaborate with a team of Composition faculty to write and organize anthologies to be used in Composition classrooms across the campus (some of which are used across the nation). Supervise, manage, and train new Composition instructors, including planning, organizing, and facilitating a week-long Orientation once a year. Assess and ensure that instructors meet the objectives and goals of their courses."
+        },
+        {
+            "title": "English Instructor",
+            "company": "Company Name, City, State",
+            "start_date": "January 2007",
+            "end_date": "May 2008",
+            "description": "Planned, implemented, and assessed various Composition courses, maintaining University objectives and goals. Planned and facilitated First Year Experience recitations, helping Freshmen understand the culture of UNC and how to be successful in a University environment. Designed and presented a variety of professional development opportunities, including workshops about matching teaching strategies to various learning styles. Improved student writing skills as a tutor in the University Writing Lab."
+        },
+        {
+            "title": "Graduate Teaching Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "January 2005",
+            "end_date": "December 2006",
+            "description": "Taught College Research, four sections; Taught Freshmen Composition, four sections; Taught 20th Century British Literature (English 356) with Dr. Sharon Wilson, one section. Designed, implemented, and assessed lessons and assignments for composition and literature classes. Collaborated with other instructors about curriculum needs and best practices."
+        },
+        {
+            "title": "Language Arts Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "August 2002",
+            "end_date": "July 2004",
+            "description": "Taught English 9, English 10, Creative Writing, Argumentation and Debate, Mythology and Science Fiction. Designed, implemented, and assessed lessons focused on a variety of writing assignments including personal narrative, literary analysis, poetry, short stories, creative writing, business letters, persuasion, argumentation, and research essays using MLA documentation. Provided assistance throughout the drafting process for the development of writing samples. Maintained strong connections with parents, colleagues, and administration relating to the progress and success of student performance as well as various programs. Sponsored the Forensics Speech and Debate Team throughout the 2003-2004 school year including practices and tournaments. Led several successful individuals to triumph in various categories. Critiqued individual performances and judged at numerous tournaments. Directed a winter drama production of A Christmas Carol, resulting in additional funds for the Drama program."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts: English",
+            "school": "University of Northern Colorado",
+            "year": "2006"
+        },
+        {
+            "degree": "Bachelor of Arts: English Education",
+            "school": "Colorado State University",
+            "year": "2001"
+        },
+        {
+            "degree": "Certificate for Teaching with Technology and Distance Learning",
+            "school": "Colorado State University Online Plus",
+            "year": "2009"
+        }
+    ],
+    "certifications": [
+        "Certificate for Teaching with Technology and Distance Learning (Colorado State University Online Plus, 2009)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

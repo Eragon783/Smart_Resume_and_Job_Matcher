@@ -1,0 +1,61 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Customer care representative position where my customer relations experience can be fully utilized to improve customer satisfaction and enhance the company brand name.",
+    "skills": [
+        "Telecommunications knowledge",
+        "Strong problem solving ability",
+        "High customer service standards",
+        "Active listening skills",
+        "Customer service expert",
+        "Telecommunication skills",
+        "Reatail and Corporate",
+        "Microsoft Office proficiency",
+        "Time management",
+        "Excellent communication skills",
+        "Strong problem solver",
+        "HIPAA compliance",
+        "Type 60 WPM"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "Oct 2011",
+            "end_date": "Present",
+            "description": "Handle inbound calls from customers with inquiries regarding their health insurance, wellness programs, prescription plans and help provide the best solutions for the customers' health and financial well-being. Assist in program development with new products and/or services. Process one-time checking and credit card by phone payments. Evaluate information and options and select the alternative that best meet the requirement of the issue(s) presented."
+        },
+        {
+            "title": "Custodian",
+            "company": "Company Name",
+            "start_date": "May 2010",
+            "end_date": "Dec 2011",
+            "description": "Ensured spaces were prepared for the next day by taking out trash, tidying furniture and dusting surfaces. Swept and mopped floors and vacuumed carpets. Washed and sanitized toilets, sinks and showers and restocked disposables. Secured facilities after operating hours by locking doors, closing windows and setting up the alarm."
+        },
+        {
+            "title": "Customer Service Manager",
+            "company": "Company Name",
+            "start_date": "May 2004",
+            "end_date": "May 2011",
+            "description": "Analyzed statistics and compiled accurate reports. Recruited, mentored, and developed customer service agents and nurtured an environment where they can excel through encouragement and empowerment. Kept accurate records and documented customer service actions and discussions. Provided services to customers by cashing checks, issuing money orders, assisting with refunds, and sending and receiving money grams. Supervised 20+ employees at a time, enforced company regulations and delegated daily assignments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma: General Educational",
+            "school": "Rowan-Cabarrus Community College",
+            "year": null
+        },
+        {
+            "degree": "General Educational Training and Onboarding: Healthcare Customer Service",
+            "school": "OPTUM",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "OPTUM certification for training new hires as they enter customer service roles"
+    ],
+    "languages": []
+}

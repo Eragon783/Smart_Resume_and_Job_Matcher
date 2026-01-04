@@ -1,0 +1,68 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Motivated teaching professional with over 25 years' experience addressing student needs and ensuring proper student social/emotional development. Core Qualifications School improvement committee Positive atmosphere promotion Active participation in Truancy Committee Administrative management Experience working special needs students Effectively work with parents Differentiated instruction Behavior modification Instructional best practices Goal setting and implementation",
+    "skills": [
+        "academic",
+        "Interpersonal skills",
+        "economics",
+        "English",
+        "Functional",
+        "instructional design",
+        "lesson plans",
+        "managing 3",
+        "materials",
+        "math",
+        "Teacher",
+        "team-work"
+    ],
+    "experience": [
+        {
+            "title": "BI Teacher",
+            "company": "Company Name",
+            "start_date": "08/2005",
+            "end_date": "Current",
+            "description": "Modified the general education curriculum for special-needs students based upon a variety of instructional techniques and technologies. Wrote Functional Behavior Assessment, and Behavior Intervention Plans to improve academic success in the classroom. Created a desirable and safe environment for behaviorally challenged students. Met with parents to resolve conflicting educational priorities and issues. Taught all four core subjects and social skills. Developed a Student Success Plan that has kept the suspension of my 'At-Risk Students' to 5%."
+        },
+        {
+            "title": "Middle School Resource Teacher",
+            "company": "Company Name",
+            "start_date": "08/2000",
+            "end_date": "06/2005",
+            "description": "Taught English and math to 9th-12th graders: Implementing the use of technology, such as the internet to create lessons when materials were lacking. Developed program to work with students and increase interest in higher learning. Collaborated with a team of faculty to develop a tutorial program for students in need of extra help. Fostered meaningful relationships among students through student field-trip retreats and team-work community service projects."
+        },
+        {
+            "title": "Resource and Self-contained Teacher",
+            "company": "Company Name",
+            "start_date": "08/1988",
+            "end_date": "05/1999",
+            "description": "Taught in a gang-affiliated school, managing 3-4 gangs in a class setting. Constantly adjusting to students entering and exiting my program. Successfully improved student participation in the classroom by creating a safe and conducive to learning environment. Modified the general education curriculum for special-needs students based upon a variety of instructional techniques and technologies. Planned, implemented, monitored, and assessed a classroom instructional program that was consistent with Albuquerque School District regulations. Developed and taught lessons on relevant children's social economics and themes to promote student interest. Met with parents to resolve conflicting educational priorities and issues. Created an after-school sports program for an alternative to gang life."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts: Education Administration",
+            "school": "Whitworth University",
+            "year": "2017"
+        },
+        {
+            "degree": "Master of Arts: Elementary Education/Technology",
+            "school": "University of New Mexico",
+            "year": "1995"
+        },
+        {
+            "degree": "Bachelor of Science: Special and Elementary Education",
+            "school": "New Mexico State University",
+            "year": "1988"
+        },
+        {
+            "degree": "Associate of Arts: Education",
+            "school": "Clarendon College",
+            "year": "1983"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

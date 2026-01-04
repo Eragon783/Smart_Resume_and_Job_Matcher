@@ -1,0 +1,95 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "High-energy, results-driven manager with 26 years of honorable military service. Experienced in operations management, policy development, mentoring, and coordinating cross-functional projects in demanding environments. Skilled in training, budget optimization, logistics, and healthcare administration, with strong abilities in leadership, customer service, and program oversight. Proficient in Microsoft Office (Windows and Mac) and Adobe Acrobat, with a background in equal opportunity programs and coalition-force training.",
+    "skills": [
+        "Operations management",
+        "Leadership and mentoring",
+        "Policy development and implementation",
+        "Budgeting and cost reduction",
+        "Training and Equal Opportunity programs",
+        "Contract analysis and procurement oversight",
+        "Project management",
+        "Logistics and transportation",
+        "Medical equipment and clinic management",
+        "Customer service and sales",
+        "Microsoft Office (Windows and Mac)",
+        "Adobe Acrobat / PDF editing",
+        "Inventory and stock management",
+        "Communication and briefings"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate/Golf Sales Associate",
+            "company": "Company Name",
+            "start_date": "April 2006",
+            "end_date": "Present",
+            "description": "Provide customer service by analyzing and recommending proper equipment and setup for golf enthusiasts; support apparel and footwear sales."
+        },
+        {
+            "title": "Equal Opportunity Advisor/Trainer",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "January 2014",
+            "description": "Principal advisor on the Special Staff and Personal Staff to the Commanding General of AMEDDC&S; delivered briefings on sensitive issues and provided recommendations. Briefed the Chief of Staff of AMEDDC&S. Supervised 65 EO Leaders and one EO Advisor within the 32nd Medical Brigade. Managed the EO program budget ($45,000) and oversaw $1.6M in medical equipment and 8 medical evacuation vehicles, plus a $20,000 operating budget for medical supplies and equipment. Approximately two years of Military Medical Adviser/Trainer experience on a Military Transition Team in Iraq and Afghanistan; planned and coordinated training with US Coalition forces at Camp Taji, Iraq and Wardak Province."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Bed Bath and Beyond (Davenport, IA)",
+            "start_date": "January 2011",
+            "end_date": "January 2012",
+            "description": "Provided customer support and assisted customers in product selection; cashier duties during peak periods; merchandising; packaging and shipping to other stores; assisted with balancing and closing registers."
+        },
+        {
+            "title": "Manager (Military Manager of Health Clinic)",
+            "company": "Rock Island Arsenal Health Clinic",
+            "start_date": "January 2008",
+            "end_date": "January 2010",
+            "description": "Managed daily clinic operations with oversight of 9 government civilian employees and 2 contract staff. Managed annual clinical budget of $500 and equipment/facilities valued at $3.8M. Oversaw contracts for services such as regulated medical waste removal, radiological equipment services, oxygen delivery systems, and custodial services."
+        },
+        {
+            "title": "Sales Associate/Forklift Driver",
+            "company": "Hechinger's Home Improvement Centers",
+            "start_date": "January 2007",
+            "end_date": "January 2007",
+            "description": "Assisted customers in Lawn/Garden and Hardware/Tools departments; merchandising, restocking, receiving and inventorying shipments; forklift operation. Part-time role (1989-1991 noted in CV)."
+        },
+        {
+            "title": "Cashier",
+            "company": "Bed Bath and Beyond (San Antonio, TX)",
+            "start_date": "January 2006",
+            "end_date": "January 2007",
+            "description": "Cashier duties, balance and close registers; customer support and assistance with product decisions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Human Resources",
+            "school": "Defense Equal Opportunity Institute",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelor of Business Administration: International Business",
+            "school": "University of The Incarnate Word",
+            "year": 2015
+        },
+        {
+            "degree": "Master Resiliency Trainers Course, Level I",
+            "school": "University of Pennsylvania",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        "Basic Life Support (BLS) Instructor (CPR)",
+        "DOD Certified Alternative Dispute Resolution Mediator",
+        "DOD Certified Sexual Assault Advocate: #PK-6343-3623, Level I",
+        "Emergency Medical Technician - Basic (Lic: E1843597)"
+    ],
+    "languages": [
+        "English (fluent)",
+        "Spanish (fluent)",
+        "Italian (some speaking)"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Tank Platoon Sergeant with twenty-four years of U.S. Army service; two years' experience as a trainer and instructor at the U.S. Army Armor School; experienced in leading diverse groups, program orientations, mentoring, data analysis, report writing, and cross-functional collaboration. Recently earned a Bachelors' Degree in Social Work; strong skills in team building, management, training, needs assessment, curriculum development, and instructional design.",
+    "skills": [
+        "Training",
+        "Operations",
+        "Instructor",
+        "Simulation",
+        "Liaison",
+        "Training Programs",
+        "Case Management",
+        "Armor",
+        "Instructional Training",
+        "Testing",
+        "Excel",
+        "Inventory",
+        "Mentoring",
+        "Microsoft Word",
+        "PowerPoint",
+        "Needs Assessment",
+        "Personnel Management",
+        "Risk Management",
+        "Team Building",
+        "Time Management",
+        "Curriculum Development",
+        "Organization/Communication",
+        "Research/Analysis",
+        "Word"
+    ],
+    "experience": [
+        {
+            "title": "Instructor/Writer",
+            "company": "AOBC",
+            "start_date": "2009-01",
+            "end_date": "2011-01",
+            "description": "Primary instructor with an Army Training Program for the Active Component (AC) and Reserve Component (RC) on virtual simulations for convoy operations, anti-ambush procedures, and additional training scenarios. Trained and evaluated organizational effectiveness of units using virtual or constructive simulations. Planned and conducted training exercises for Army National Guard and Reserve Component units preparing for overseas movement. Made recommendations for training support package development changes based on new guidance and policy. Designed, developed, proofed and implemented constructive simulation training exercises. Advised managers, supervisors and instructors on training methodologies; developed performance evaluations and remedial instruction. Coordinated and supervised daily activities of five staff members and a personnel holding organization of over 120 personnel. Prepared and edited training plans and training programs; directed on-the-job training. Delivered training to over 260 junior level managers (Armor and Cavalry officers); ensured training materials and equipment were current and ready."
+        },
+        {
+            "title": "Full Time Student/Intern",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2015-01",
+            "description": "Completed 560 hours of Social Work Practicum Internship with the Fort Knox Warrior Transition Center; earned Bachelor of Social Work (BSW) Cum Laude with GPA 3.69 from the University of Louisville (2015)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSW, Social Work",
+            "school": "University of Louisville",
+            "year": 2015
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "Central Texas College",
+            "year": 2012
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

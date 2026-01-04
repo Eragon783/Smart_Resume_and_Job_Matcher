@@ -1,0 +1,101 @@
+{
+    "name": "Veronica Gancov",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Results-oriented digital marketing professional with a background in project management and digital advertising. Experienced with email platforms (Salesforce Marketing Cloud, Adobe Campaign) dedicated to driving customer satisfaction through highly-customized email software implementations. Works closely with internal project teams and external client teams; leads client calls, writes and presents requirements documentation, configures software configurations, and trains clients to enable Salesforce Marketing Cloud and its components.",
+    "skills": [
+        "InDesign",
+        "Quark XPress",
+        "Acrobat",
+        "Photoshop",
+        "Illustrator",
+        "Freehand",
+        "Pagemaker",
+        "Microsoft Word",
+        "Publisher",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "HTML",
+        "CSS",
+        "WordPress",
+        "Dot Net Nuke",
+        "Salesforce Marketing Cloud",
+        "Email Studio",
+        "Marketing Cloud Connect",
+        "Journey Builder",
+        "Contact Builder",
+        "Advertising Studio",
+        "Social Studio",
+        "Salesforce.com basics",
+        "Data segmentation",
+        "Automation",
+        "Project management",
+        "Documentation",
+        "Testing",
+        "Quality Assurance",
+        "Training",
+        "Leadership",
+        "Web development",
+        "Adobe Campaign",
+        "Print on Demand",
+        "POD",
+        "Digital marketing",
+        "Email marketing",
+        "Campaign management"
+    ],
+    "experience": [
+        {
+            "title": "Implementation Consultant",
+            "company": "Company Name",
+            "start_date": "11/2013",
+            "end_date": "Present",
+            "description": "Certified trainer in Salesforce Marketing Cloud, training external client teams on Salesforce Marketing Cloud components (Email Studio, Marketing Cloud Connect, MobileConnect, Journey Builder, Contact Builder, Advertising and Social Studio). Writes requirements documentation, crafts technical solutions, and designs flow diagrams. Configures and presents software configurations to clients and trains them to enable Salesforce Marketing Cloud. Develops test plans for UAT and provides go-live support. Proficient in HTML, CSS and SQL; familiar with WordPress and Dot Net Nuke; strong documentation and client-facing communication. Leads client calls to define requirements, manage scope, and meet SOW objectives."
+        },
+        {
+            "title": "Digital Media Program Manager",
+            "company": "Indico",
+            "start_date": "July 2012",
+            "end_date": "November 2013",
+            "description": "Promoted to Digital Media Program Manager for Indico, planning, executing, and finalizing projects for NACS Media Solutions and indiCo. Coordinated internal and third-party resources to deliver programs on time and within budget. Defined objectives, success metrics, and oversaw quality control; managed Grow Custom initiative; co-created marketing, messaging, and sponsorship package; contributed to writing, layout, and content of the Guide to Custom (sold >2,000 copies). Sold sponsorships and ads, ensured timely delivery of content and ads; maintained POD and digital interface tools; updated company websites using Dot Net Nuke, HTML and CSS."
+        },
+        {
+            "title": "Digital Media Specialist",
+            "company": "NACS Media Solutions",
+            "start_date": "01/2011",
+            "end_date": "06/2012",
+            "description": "Managed the Print on Demand project and implemented technical processes for POD and digital files. Contributed to the development of digital and print-on-demand interface tools and workflows. Preflighted and corrected book files for optimal print quality. Worked with outside vendors to build a POD network; defined network requirements and managed the contract lifecycle to completion."
+        },
+        {
+            "title": "Digital Support Specialist",
+            "company": "The Plain Dealer",
+            "start_date": "01/1998",
+            "end_date": "12/2008",
+            "description": "Responsible for processing, preflighting, color correcting, image enhancing and ensuring ads printed correctly. Managed file transmission of various inserts, gang prints, spadeas, Comics and other direct mail pieces to printers; worked under high-pressure deadlines."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Web Design/Development Certifications",
+            "school": "Polaris Online",
+            "year": 2010
+        },
+        {
+            "degree": "Bachelor of Arts in English",
+            "school": "The University of Akron",
+            "year": 1992
+        },
+        {
+            "degree": "Bachelor of Arts in Political Science",
+            "school": "The University of Akron",
+            "year": 1992
+        }
+    ],
+    "certifications": [
+        "Salesforce Marketing Cloud Consultant Certification (License 5672023) — completed March 31, 2016"
+    ],
+    "languages": [
+        "English"
+    ]
+}

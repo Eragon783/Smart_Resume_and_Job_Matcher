@@ -1,0 +1,61 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior operations executive with extensive experience leading multi-site medical practices and commercial banks. Expertise in strategic planning, financial analysis, cost containment, revenue growth, cross-functional leadership, and complex negotiations.",
+    "skills": [
+        "Strategic Planning/Management",
+        "Communication",
+        "Credit/Financial Analysis",
+        "Team Building",
+        "Leadership",
+        "Sales Management",
+        "Negotiation",
+        "Project Management",
+        "Cross-functional Leadership",
+        "Banking",
+        "Budgeting",
+        "Business Development",
+        "Commercial Lending",
+        "Due Diligence",
+        "Marketing",
+        "Pricing",
+        "Oncology",
+        "Urology",
+        "Healthcare Management",
+        "Mentoring"
+    ],
+    "experience": [
+        {
+            "title": "Chief Operating Officer",
+            "company": "Company Name",
+            "start_date": "June 2008",
+            "end_date": "January 2010",
+            "description": "Oversaw all aspects of a 5-clinic radiation oncology medical practice. Achievements included revenue growth, opening new clinics, expansion of services, and cost savings from vendor negotiations and loan refinancings. Implemented board meeting improvements and led strategic capital projects; contributed to expansion of services (Urology, mobile Brachytherapy) and increased annual revenue."
+        },
+        {
+            "title": "Vice President and Commercial Banker",
+            "company": "Columbia Bank (COLB)",
+            "start_date": "May 1998",
+            "end_date": "May 2008",
+            "description": "Joined as VP and Commercial Banker with no loan portfolio; grew portfolio to over $30M in outstandings and $50M in commitments within three years. Subsequent promotions to SVP and SWWA Commercial Banking Manager; managed 8 lenders; expanded geographic coverage from Auburn to Longview; contributed to deposit growth, fee income exceeding $1.2M annually, and served on the Loan Committee with due diligence for potential bank acquisitions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Chemistry",
+            "school": "Pacific Lutheran University",
+            "year": ""
+        },
+        {
+            "degree": "Certificate, Pacific Coast Banking School",
+            "school": "University of Washington",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Pacific Coast Banking School"
+    ],
+    "languages": []
+}

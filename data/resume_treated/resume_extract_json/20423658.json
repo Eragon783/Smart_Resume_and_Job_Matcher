@@ -1,0 +1,61 @@
+{
+    "name": "James Sauders",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Seasoned sales professional with 8+ years of retail and management experience, including AT&T, focused on customer service, sales targets, and leading high-performing teams. Known for initiative, reliability, problem-solving, and willingness to travel/work late to meet customer needs.",
+    "skills": [
+        "Sales management",
+        "Retail sales",
+        "Customer service",
+        "Team leadership",
+        "Training and mentoring",
+        "Time management / scheduling",
+        "Target attainment",
+        "Product knowledge",
+        "Extended warranties sales",
+        "Installation services",
+        "Linguistic skills (Arabic, Russian)",
+        "Problem solving"
+    ],
+    "experience": [
+        {
+            "title": "Sales Representative; Sales Management",
+            "company": "Company Name",
+            "start_date": "October 2009",
+            "end_date": "Present",
+            "description": "Responsible for hitting various sales targets; ranked number one in store for the single year as a sales rep. Led wired sales, feature & accessory sales, and customer service scores. Won awards for exceeding customer service goals. Assisted in training new sales reps within three months of hire."
+        },
+        {
+            "title": "Airman/Cryptologic Linguist",
+            "company": "Company Name",
+            "start_date": "May 2007",
+            "end_date": "March 2008",
+            "description": "Selected to run time scheduling/management/instruction over entry control procedures; dorm leader; handled sensitive data transfers; trained in Arabic and Russian; honorably/medically discharged."
+        },
+        {
+            "title": "Technology Sales Rep / Technology Sales Lead / Technology Sales Manager",
+            "company": "Company Name",
+            "start_date": "June 2004",
+            "end_date": "May 2007",
+            "description": "Progressed from entry-level sales rep to tech sales lead and tech manager at Circuit City; consistently led in sales targets, customer service results, and extended warranty sales; trained and motivated sales reps; contributed to more than 14 months in the top ten company-wide for customer service results; multiple Sales Associate of the Month awards."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Political Science and History",
+            "school": "University of Louisville",
+            "year": "2005"
+        },
+        {
+            "degree": "Organizational Leadership & Learning (in progress; plan to MBA/HR)",
+            "school": "University of Louisville",
+            "year": "Ongoing"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Arabic",
+        "Russian"
+    ]
+}

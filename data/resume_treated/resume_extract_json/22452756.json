@@ -1,0 +1,86 @@
+{
+    "name": "Anand.C",
+    "email": null,
+    "phone": "+234-8123177630",
+    "location": "Bangalore, India",
+    "summary": "Seeking a challenging and exciting job in a growth oriented industry where my potential for hard work and skills will be fully utilized.",
+    "skills": [
+        "Agency",
+        "Consultation",
+        "Clients",
+        "Data Entry",
+        "Engineer",
+        "English",
+        "Hindi",
+        "Lathe",
+        "Repairs",
+        "Sales",
+        "Supervision",
+        "Television",
+        "Wiring"
+    ],
+    "experience": [
+        {
+            "title": "Services Engineer",
+            "company": "Electrical items, for Legrand, Havells, Indo Asian",
+            "start_date": "January 2007",
+            "end_date": "January 2010",
+            "description": "Performed service and maintenance of electrical items for Legrand, Havells and Indo Asian."
+        },
+        {
+            "title": "Head General Goods",
+            "company": "COSCHARIS Group",
+            "start_date": "2010",
+            "end_date": "March 2013",
+            "description": "Head of General Goods Division responsible for importation, sales, distribution, servicing & repairs of motorcycles, air conditioners, and televisions. Oversaw bike preparation, job cards, workshop supervision, repairs, spare parts, wiring, lathe work, vulcanizing, and certification of workshop work; estimated repair costs and spares; planned annual spare parts requirements; conducted regular free services as per TVS Motors Co. norms."
+        },
+        {
+            "title": "Service Centre Manager",
+            "company": "COSCHARIS Group",
+            "start_date": "March 2013",
+            "end_date": "Present",
+            "description": "In charge of the workshop; regular check-ups of brand new bikes before delivery; handle customer repairs; oversee repairs, spare parts, testing and certification of work; cost estimation for repairs and spares; plan annual spare parts requirements and free services as per TVS Motors Co. norms."
+        },
+        {
+            "title": "Service Centre Manager",
+            "company": "NIRMA INTERNATIONAL (U) LTD",
+            "start_date": "January 1994",
+            "end_date": "January 2007",
+            "description": "Authorized TVS motorbikes dealer; managed the service centre; supervised workshop operations including repairs, spares, lathe, vulcanizing, electrical and wiring work; prepared job-cards, certified work, estimated costs for repairs and spare parts; organized annual spare part requirements and free services per company norms."
+        },
+        {
+            "title": "Service Engineer",
+            "company": "Zen Motors",
+            "start_date": "January 1990",
+            "end_date": "January 1994",
+            "description": "Service Engineer in the TVS motorbikes service department; handled after-sales services, sales and spare parts; ensured customer satisfaction."
+        },
+        {
+            "title": "Customer Relations Officer",
+            "company": "Bharath Automobile Agency",
+            "start_date": null,
+            "end_date": null,
+            "description": "Looked after sales & services of TVS motorcycles; managed customer communications and complaints; in charge of client bikes before and after sales."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Data Entry - Six Month Course",
+            "school": "KARNATAKA INFOTEK",
+            "year": "1995"
+        },
+        {
+            "degree": "Diploma in Computer Applications (PUC 2nd year)",
+            "school": "F. B. INTERNATIONAL Computer School",
+            "year": "2002"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hindi",
+        "Kannada",
+        "Tamil",
+        "Luganda"
+    ]
+}

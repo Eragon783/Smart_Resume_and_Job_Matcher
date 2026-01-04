@@ -1,0 +1,116 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "United States",
+    "summary": "Healthcare Consultant with leadership and military experience. Former military leader, certified instructor, designated Subject Matter Expert in two medical fields, experienced public speaker. Proven track record in program development, training, logistics, and mass casualty management.",
+    "skills": [
+        "Microsoft Office",
+        "Smarttech SMART Board",
+        "Public Speaking",
+        "Public Relations",
+        "Marketing",
+        "Sales",
+        "Instructor/Writer",
+        "Combat Medic Advanced Individual Training",
+        "NREMT curriculum",
+        "CPR",
+        "First Aid",
+        "TCCC",
+        "Mass casualty management",
+        "Leadership development",
+        "Logistics",
+        "Supply Chain Management",
+        "Emergency Management Systems",
+        "Network Administration",
+        "Adobe Acrobat",
+        "Adobe Photoshop",
+        "Solidworks",
+        "Classroom Instruction",
+        "Phlebotomy",
+        "Immunization",
+        "Medical equipment management",
+        "Project management",
+        "Documentation / Record management"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Consultant",
+            "company": "Company Name",
+            "start_date": "May 2016",
+            "end_date": "October 2016",
+            "description": "Introduced patients to training programs, explained EEG monitoring benefits, set up Brainmaster Discovery 24E, Pocket Neurobics U-Wiz, and electrodes. Ensured Bioera PNwiz tracking and proper parameter loads. Troubleshot equipment/software. Explained cognitive testing procedures and coached individuals through initial and follow-up brain mapping. Led training sessions and monitored progress."
+        },
+        {
+            "title": "Healthcare Consultant",
+            "company": "Company Name",
+            "start_date": "February 2016",
+            "end_date": "May 2016",
+            "description": "Provided full-spectrum detoxification and lifestyle planning at an international medical center; monitored multiple individuals and delivered education on toxins, heavy metal contamination, and treatment options. Delivered initial results analysis and part of a multi-country team at a China facility; involved in proprietary MAI therapy and medical investments for high net worth clients (investments ranging from $60,000 to $300,000 daily; overall performance up to $25 million over four months)."
+        },
+        {
+            "title": "English Teacher",
+            "company": "City Best Learning English",
+            "start_date": "October 2015",
+            "end_date": "January 2016",
+            "description": "Taught English to children ages 2+; developed lesson plans for Pre-K to Grade 6 using McGraw Hill curriculum; edited and republished training plans; accommodated multiple learning styles; conducted demonstration lessons and marketing events; improved public relations with local clients; served as cultural integration liaison for foreign teachers; provided feedback to parents."
+        },
+        {
+            "title": "Instructor/Writer - Combat Medic Advanced Individual Training",
+            "company": "108th Training Command",
+            "start_date": "November 2014",
+            "end_date": "October 2015",
+            "description": "Train, lead, and mentor healthcare specialists; read, revise/edit, publish and teach course material for healthcare programs; manage training program tasks; supervise logistics for monthly meetings; teach NREMT curriculum, evaluate EMT/NREMT practical skills; teach CPR/BLS; teach TCCC core curriculum and advanced skills; cover topics such as mass casualty management, patient administration, disaster management, critical thinking, leadership development, convoy operations, and supply chain management."
+        },
+        {
+            "title": "Instructor/Writer - Infantry Battlefield First Aid",
+            "company": "Alpha Company, 2nd Infantry Battalion, 29th Infantry Regiment",
+            "start_date": "November 2012",
+            "end_date": "November 2014",
+            "description": "Teach TCCC core curriculum and First Aid to classes of up to 220 Infantrymen. Instruct additional skills such as mass casualty management, medical evacuation logistics, and other life-saving capabilities. Supervise records management of instructor credentials, supply orders, equipment maintenance, and building/site maintenance."
+        },
+        {
+            "title": "Emergency Care Sergeant, Squad Leader",
+            "company": "Echo Company, 2nd Infantry Battalion, 29th Infantry Regiment",
+            "start_date": "April 2011",
+            "end_date": "November 2012",
+            "description": "Supervised 2 noncommissioned officers and 10 soldiers; assigned to 5 ambulance teams; managed duties and personal issues to maintain effectiveness as leaders and medics. Responsible for medical equipment sets valued at over $100,000; designated IT point of contact and led transition to paperless office management, improving communications."
+        },
+        {
+            "title": "Emergency Care Specialist",
+            "company": "Headquarters and Headquarters Company / Bravo Company, 1-41 Infantry Battalion, 3rd Brigade, 1st Armor Division",
+            "start_date": "June 2009",
+            "end_date": "June 2011",
+            "description": "Clinical patient care across hospital and pre-hospital environments; austere/remote medical care; supported Live Fire exercises and medical support; training in individual and crew-served weapons; contributed to infantry SOPs and medical readiness."
+        },
+        {
+            "title": "Emergency Care Specialist",
+            "company": "Charlie Company, 302nd Brigade Support Battalion, 1st Heavy Brigade Combat Team",
+            "start_date": "June 2007",
+            "end_date": "June 2009",
+            "description": "Cross-trained RoK Army medical personnel in U.S. tactics; cross-trained with ROKA Combat Engineers in breaching and explosive demolition; project manager for Medical Communications for Combat Casualty Care (MC4) system; managed convoy planning for ambulances and field medical operations; led Noncombatant Evacuation Operations Senior Supervisor (evacuation of 27 families during Operation Courageous Channel)."
+        },
+        {
+            "title": "Emergency Care Specialist Training Support",
+            "company": "Company, 32nd Medical Brigade",
+            "start_date": "May 2005",
+            "end_date": "June 2007",
+            "description": "Coached, mentored, and credentialed medical personnel; provided medical support for 50,000+ personnel; supervised pharmaceutical supply chain; awarded for DoD paperless office mandate implementation; managed medical logistics for a refugee-relief ICU during Katrina-related operations in San Antonio; led project management for transport, staffing, and equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Winter Park High School",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        "Active DoD Secret security clearance",
+        "Certified Instructor"
+    ],
+    "languages": [
+        "English",
+        "Chinese"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly enthusiastic customer service professional with 7 years of client interface experience. Dedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company success. Strong organizational skills, Customer service expert, Active listening skills, Adaptive team player, Courteous demeanor, also seasoned in conflict resolution with an energetic work attitude.",
+    "skills": [
+        "Creative problem solving",
+        "Typing 45 wpm",
+        "Call Center",
+        "Reliable",
+        "Excellent communication skills",
+        "Friendly",
+        "Approachable",
+        "Exceptional customer service",
+        "Inbound and outbound call center",
+        "Excellent customer service assistance",
+        "Fax",
+        "Filing",
+        "Answering phones",
+        "Typing 50 wpm",
+        "Microsoft Word",
+        "Microsoft Excel"
+    ],
+    "experience": [
+        {
+            "title": "Banking Relationship Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "Jul 2005",
+            "end_date": "Sep 2011",
+            "description": "Worked with company systems such as Live Support and diligently completed all assigned tasks, working overtime as needed. Provided customer service, performed inbound call center tasks, transferred calls when necessary, researched and rapidly resolved client conflicts to prevent loss of key accounts. Computed data reports and provided required weekly, monthly and quarterly reports listing sales figures and client track records. Greeted customers upon entrance and handled cash and credit transactions. Opened and closed personal and business checking, savings, and CD accounts; processed safe deposit box transactions; created cashier's checks; entered customer data into ChexSystems; processed FedEx shipments; filing; answering phones; sending faxes; responsible for making executive decisions regarding new customer relationships. Completed daily incoming and outgoing banking reports."
+        },
+        {
+            "title": "Merchant Teller",
+            "company": "Company Name, City, State",
+            "start_date": "Dec 2004",
+            "end_date": "Jul 2005",
+            "description": "Processed large deposits for merchant customers; assisted with incoming and outgoing courier transactions. Responsible for balancing accurately on a daily basis. Assisted Operations Manager with teller line, answered phones, filing, and all other duties associated with the position of a Merchant Teller."
+        },
+        {
+            "title": "Teller",
+            "company": "Company Name, City, State",
+            "start_date": "Jun 2004",
+            "end_date": "Dec 2004",
+            "description": "Cashed checks for new and existing customers, processed incoming daily reports, completed mail deposits in dual control. Processed cashiers checks and money orders, processed credit card payments, and all other responsibilities associated with the position of a Teller."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science, Inter Social Behavioral Sciences",
+            "school": "Los Angeles Southwest College",
+            "year": "2016"
+        }
+    ],
+    "certifications": [
+        "Fingerprinting certificate"
+    ],
+    "languages": []
+}

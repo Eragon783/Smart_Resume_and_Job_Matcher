@@ -1,0 +1,174 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Seasoned MDM Architect with 11+ years in IT, experienced in MDM solutions architecture, leading projects, data quality and de-duplication, and end-to-end delivery across financial services, retail, healthcare and telecom domains. Proficient in TIBCO MDM, CIM, EMS, BW/Business Events, data modeling, and Java/J2EE development; strong communication and leadership skills.",
+    "skills": [
+        "Master Data Management",
+        "MDM Solutions Architecture",
+        "TIBCO MDM",
+        "TIBCO CIM",
+        "TIBCO EMS",
+        "TIBCO Business Events",
+        "TIBCO Patterns",
+        "Data De-Duplication",
+        "Data Quality",
+        "J2EE",
+        "Struts",
+        "XML",
+        "JMS",
+        "Core Java",
+        "JavaScript",
+        "HTML",
+        "XSL",
+        "XSLT",
+        "CSS",
+        "Oracle",
+        "PL/SQL",
+        "SQL Loader",
+        "SQL Navigator",
+        "SQL Server",
+        "Oracle 11g",
+        "WebLogic",
+        "JBoss",
+        "Apache Tomcat",
+        "Rational Rose",
+        "Magic Draw",
+        "MS Visio",
+        "Eclipse",
+        "TOAD",
+        "Remedy",
+        "ANT",
+        "UNIX",
+        "Windows",
+        "Data Modeling",
+        "System Integration",
+        "Project Management",
+        "Configuration Management",
+        "MDM Data Quality",
+        "Data Migration",
+        "Informatica PowerCenter"
+    ],
+    "experience": [
+        {
+            "title": "Senior Architect - MDM",
+            "company": "SunGard",
+            "start_date": "May 2014",
+            "end_date": "Present",
+            "description": "MDM implementation landscape; Technical/Functional Design for MDM with Data Quality and de-duplication; Architecture for Vendor and Customer MDM; End-to-end MDM development and delivery; Daily status/scrum; Stakeholder management."
+        },
+        {
+            "title": "Senior Architect - MDM",
+            "company": "JetBlue Airways Corporation",
+            "start_date": "November 2013",
+            "end_date": null,
+            "description": "MDM architecture overview; Design workflows for MDM with Data Quality; TIBCO MDM installation overview."
+        },
+        {
+            "title": "Senior Architect - MDM",
+            "company": "M&T Bank Corporation",
+            "start_date": "July 2013",
+            "end_date": "March 2014",
+            "description": "Lead MDM team (10 members); Architect and engineer complex MDM workflows and AML data requirements; Design workflows and business rules; MDM infrastructure sizing, installation planning and implementation."
+        },
+        {
+            "title": "Senior Architect - MDM",
+            "company": "Covance Inc.",
+            "start_date": "December 2013",
+            "end_date": "January 2014",
+            "description": "MDM architecture overview; Design and showcase MDM workflow for Parameterized Data Quality; Design parameterized Data Quality workflows in TIBCO MDM."
+        },
+        {
+            "title": "MDM Architect",
+            "company": "Kohl's Corporation",
+            "start_date": "April 2012",
+            "end_date": "May 2013",
+            "description": "Architect/lead the MDM efforts; Manage/Lead MDM team; Develop complex MDM workflows and rulebases; TIBCO MDM installation planning and implementation."
+        },
+        {
+            "title": "Senior Architect - MDM",
+            "company": "RAC",
+            "start_date": "August 2011",
+            "end_date": "March 2012",
+            "description": "Single View of membership project; Data migration from legacy systems to SVoM; Data de-duplication using TIBCO Matching Engine; CIM MDM repositories; Lead CIM MDM team."
+        },
+        {
+            "title": "Architect - MDM",
+            "company": "Nielsen",
+            "start_date": "December 2009",
+            "end_date": "July 2011",
+            "description": "Architectural design for TIBCO MDM integration with TIBCO BW; Performance tuning; Rule bases and workflows; NSOS CIM/TIBCO EMS integration; Administration; Documentation and knowledge transfer; Production support."
+        },
+        {
+            "title": "Operations Engineer and Lead",
+            "company": "Merck",
+            "start_date": "April 2008",
+            "end_date": "November 2009",
+            "description": "BSBA style responsibilities: mapping documents; Integrated Smart Mapper with TIBCO CIM; Performance tuning; Rule bases and workflows; EMS configuration; CIM administration; Data synchronization; Test cases; Oracle configuration; Production support."
+        },
+        {
+            "title": "Senior System Analyst",
+            "company": "Wachovia Corporate Investment Banking",
+            "start_date": "August 2006",
+            "end_date": "March 2008",
+            "description": "Analysis and design of TIBCO CIM workflows for data feeds; Testing and defect resolution; Top-down architecture for importing client data; EAI using TIBCO BW."
+        },
+        {
+            "title": "System Analyst",
+            "company": "The Owner Hub & Notes (TiGR project)",
+            "start_date": "January 2006",
+            "end_date": "July 2006",
+            "description": "Developed Struts-based application; WebLogic configuration; Implemented Classification Module; Deployment in QA; Test case development."
+        },
+        {
+            "title": "System Analyst",
+            "company": "Healthcare ECM / Millennium",
+            "start_date": "October 2005",
+            "end_date": "December 2005",
+            "description": "Analyze/Design for Customer data repository; HCP master data; Sales alignment features; Developed classification modules; UAT support."
+        },
+        {
+            "title": "System Analyst",
+            "company": "Enterprise Customer Master (ECM)",
+            "start_date": "April 2005",
+            "end_date": "October 2005",
+            "description": "Design and documentation of process flows; Multitier architecture; Struts-based development; Server configuration; Deployment across environments; Configuration management; Test plans."
+        },
+        {
+            "title": "System Analyst",
+            "company": "WEX-ONLINE",
+            "start_date": "November 2004",
+            "end_date": "March 2005",
+            "description": "Transformed business process specs to technical specs; MVC web app design with Struts; JDBC connectivity; EJBs; Data processing."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "UshaComm India Pvt Limited",
+            "start_date": "October 2003",
+            "end_date": "September 2009",
+            "description": ""
+        },
+        {
+            "title": "Associate - Senior Architect",
+            "company": "Cognizant Technology Solutions US Corp",
+            "start_date": "October 2004",
+            "end_date": "November 2009",
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Computer Applications",
+            "school": "Visva Bharati University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "school": "Ranchi University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

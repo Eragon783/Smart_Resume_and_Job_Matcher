@@ -1,0 +1,81 @@
+{
+    "name": "Kailie Marie Mahea'lani Graciidis",
+    "email": null,
+    "phone": null,
+    "location": "Bellevue, WA",
+    "summary": "Engineering Assistant and part-time student at Bellevue College, seeking opportunities in ocean-related work and online business management. Strong problem-solving, teamwork, attention to detail, and quick learning with excellent communication and organizational skills.",
+    "skills": [
+        "decision making",
+        "problem solving",
+        "teamwork",
+        "attention to detail",
+        "computer proficiency",
+        "dependable",
+        "determined",
+        "fast learner",
+        "flexible",
+        "friendly",
+        "hardworking",
+        "honest",
+        "issue resolution",
+        "interpersonal skills",
+        "communication",
+        "time management",
+        "organized",
+        "energetic",
+        "critical thinking"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Assistant",
+            "company": "Stanbury Electrical Engineering",
+            "start_date": "2012-06",
+            "end_date": "2013-06",
+            "description": "Typed and organized binders describing chargers; assembled and labeled charger-related stickers; prepared and aligned components; rendered technical drawings and electrical system specifications; monitored manufacturing processes for safety and quality; wrote protocols, qualification documents, test plans and test reports; continually improved methods and procedures."
+        },
+        {
+            "title": "Receptionist",
+            "company": "Company Name – City, State",
+            "start_date": "2013-08",
+            "end_date": "2013-11",
+            "description": "Took calls, scheduled appointments; performed cleaning tasks; organized makeup/hair display; acted as spa test-dummy for related activities."
+        },
+        {
+            "title": "Receptionist",
+            "company": "Company Name – City, State",
+            "start_date": "2014-06",
+            "end_date": "2014-10",
+            "description": "Took calls, recorded appointments; cleaned floors, glass, windows, machinery; organized makeup/hair display; spa-related activities (facials/nails) test-dummy."
+        },
+        {
+            "title": "Barista",
+            "company": "BigFoot Java",
+            "start_date": null,
+            "end_date": null,
+            "description": "Worked as both standard Barista and Graveyard Barista; handled high-volume shifts, prepared high-quality beverages, rang up sales, stocked merchandise, and managed window display; provided customer service and trained new staff; assisted with shift coverage."
+        },
+        {
+            "title": "Nanny",
+            "company": "Company Name – City, State",
+            "start_date": "2015-01",
+            "end_date": "2015-06",
+            "description": "Daytime and date-night nanny for two boys; established daily routines, prepared meals, engaged in activities, traveled to parks, and cared for household."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Mount Si High School",
+            "year": "2014"
+        },
+        {
+            "degree": "Freshman",
+            "school": "Bellevue College - Eastgate",
+            "year": "Current"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

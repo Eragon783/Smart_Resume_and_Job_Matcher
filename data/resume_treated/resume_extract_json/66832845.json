@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "IT Specialist with extensive experience in server administration, Active Directory, Exchange, virtualization (Hyper-V, vSphere), network security, Help Desk, scripting (PowerShell, VBScript), SANs, GIS (ArcGIS), System Center Operations Manager, and desktop support.",
+    "skills": [
+        "account management",
+        "cabling",
+        "Help Desk",
+        "Linux",
+        "Windows Server",
+        "Active Directory",
+        "group policy",
+        "SCOM",
+        "SCCM",
+        "PowerShell",
+        "VBScript",
+        "Visual Basic Programming",
+        "Exchange Server (Exchange 2010)",
+        "Lync 2013",
+        "SharePoint",
+        "ArcGIS",
+        "VMware vSphere",
+        "Hyper-V",
+        "SANs",
+        "Proofpoint spam filter",
+        "iBoss web filter",
+        "Operations Manager",
+        "EMC Networker",
+        "Ghost imaging",
+        "Office",
+        "Windows XP/7/10",
+        "GIS"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Specialist I",
+            "company": "Company Name",
+            "start_date": "2008-07",
+            "end_date": "Present",
+            "location": "City, State",
+            "description": "Lan Administrator; installed and maintained over 100 servers; administered a 9-node Hyper-V cluster; managed Exchange 2010, Lync 2013; Active Directory 2012 including user accounts & group policy; Microsoft System Center and Operations Manager 2012; Proofpoint spam filter and iBoss web filter; ArcGIS; AD replication troubleshooting; new employee technology orientations; wrote/modified PowerShell and VBScript; administered VMware vSphere; managed 3 SANs (Nimble, Dell EqualLogic, StorSimple); implemented Alertus desktop alerting; provided high-level technical support and issue resolution."
+        },
+        {
+            "title": "Technology Specialist III",
+            "company": "Company Name",
+            "start_date": "2001-06",
+            "end_date": "2008-07",
+            "location": "City, State",
+            "description": "Installed and configured HP network switches; programmed switch ports and VLANs; connected and terminated network cables; troubleshoot network port issues; used TCP/IP utilities (ping, tracert, ipconfig) for diagnostics; installed and maintained WhatsUp Gold for network monitoring; managed Blackberry Enterprise Server for Exchange; operated Fedora Core Linux with MRTG; managed two Windows Server 2003 domain controllers and associated education software; oversaw Xiotech SAN and TNT network security appliance; wrote automation scripts (DOS/VBScript) to create ~5,000 student accounts and home folders with appropriate permissions; utilized Group Policy to secure workstations and deploy software; implemented ArcGIS GIS; installed and supported antivirus, Office, Fortress desktop security, Rosetta Stone, Escape Financial System and other education software; used Ghost to image computers; performed LAN administration, Hyper-V server management, and SAN administration; administered Exchange 2010, Proofpoint spam filter, iBoss web filter; System Center Operations Manager; EMC Networker backup; AD and group policy management; analyzed technical issues to improve functionality."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Science coursework (non-degree)",
+            "school": "Various colleges",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "EMC Networker week-long course",
+        "ArcGIS week-long course",
+        "Windows Server 2012 - PowerShell week-long course",
+        "Exchange week-long course"
+    ],
+    "languages": [
+        "English"
+    ]
+}

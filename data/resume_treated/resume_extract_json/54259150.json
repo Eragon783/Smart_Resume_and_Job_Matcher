@@ -1,0 +1,104 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced, passionate and highly motivated fitness professional focused on creating dynamic and positive experiences for fitness members. Well organized and reliable with excellent leadership and teamwork skills.",
+    "skills": [
+        "Group Fitness Instruction",
+        "Choreography",
+        "Spinning (Johnny G)",
+        "Aquatics",
+        "Les Mills Programs (Body Conditioning, Spinning, Aquatics, Combat, Body Pump, CXWORX)",
+        "CPR/AED",
+        "Public Speaking",
+        "Leadership",
+        "People Management",
+        "Communication",
+        "Interpersonal Skills",
+        "Sales",
+        "Marketing",
+        "Public Relations",
+        "Training and Teaching",
+        "Customer Service",
+        "Safety",
+        "Teamwork",
+        "Event Planning",
+        "Product Management"
+    ],
+    "experience": [
+        {
+            "title": "Group Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "July 2007",
+            "end_date": "Present",
+            "description": "Teach fitness classes for all levels; provide modifications; observe and model proper body mechanics; communicate with members to improve exercise knowledge, safety and form; motivate members to stay consistent and reach goals. Accomplishments: Group Fitness Instructor of the Year Award (2010); CanDo Stars Award."
+        },
+        {
+            "title": "Group Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "November 2005",
+            "end_date": "May 2007",
+            "description": "Led fitness classes; provided safe and effective workouts; observed and modeled proper body mechanics; motivated participants to stay fit and active."
+        },
+        {
+            "title": "Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "March 2005",
+            "end_date": "September 2006",
+            "description": "Led fitness classes for moms and babies in strollers; used body weight and resistance equipment to provide safe and effective workouts; observed and modeled good body mechanics; acted as role model for moms."
+        },
+        {
+            "title": "Group Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "August 2003",
+            "end_date": "November 2005",
+            "description": "Group Fitness Instructor duties and classes delivered for various participants."
+        },
+        {
+            "title": "Pharmaceutical Sales Representative",
+            "company": "Company Name",
+            "start_date": "June 1999",
+            "end_date": "February 2004",
+            "description": "Managed NY territory; marketed and sold a portfolio of arthritis, asthma and osteoporosis products to doctors, surgeons and pharmacists. Conducted territory analysis to identify opportunities and threats. Served as District Champion for Singulair; communicated new bulletins and initiatives. Built strong customer relationships and consistently achieved top market shares across the NJ region. Mentored two new representatives and led health education programs for colleagues and physicians."
+        },
+        {
+            "title": "Product Marketing Specialist",
+            "company": "Company Name",
+            "start_date": "June 1997",
+            "end_date": "June 1999",
+            "description": "Product management of Canon's Office Products Line; launched new products for major accounts; acted as Staples' Key Account Representative coordinating trainings and public events; conducted national trainings for sales personnel and Canon subsidiaries; developed marketing materials and analyzed sales data to inform strategy."
+        },
+        {
+            "title": "Public Relations Representative",
+            "company": "Company Name",
+            "start_date": "August 1993",
+            "end_date": "June 1995",
+            "description": "Promoted computer learning school to educators across a large territory; led motivational presentations for high school classes; recruited new students; increased territory penetration and organized educational events; recognized as top performer."
+        },
+        {
+            "title": "Trainer/Coach",
+            "company": "Company Name",
+            "start_date": "November 2013",
+            "end_date": "Present",
+            "description": "Coaches small group training sessions using equipment such as dumbbells, TRX suspension straps, Bosu balls, ab dollys, water rowers and treadmills. Provides safe and effective exercise modifications as needed. Motivates members to exceed expectations in a professional and engaging manner."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Communications and Spanish",
+            "school": "Ithaca College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "ACE Certified Group Fitness Instructor",
+        "Experience in developing choreography and Johnny G Certified Spinning Instructor",
+        "AEA certified Aquatics Instructor: Ball, Resistance/Strength, bootcamp, core",
+        "Certified in three Les Mills Programs (Body Conditioning, Spinning, Aquatics, and Les Mills Combat, Body Pump, CXWORX)",
+        "CPR and AED certified"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Diligent and driven Financial Technician with a track record of increasing responsibility. Effective communicator and team-builder with strong analytical, management, and organizational skills. Experienced in accounting operations, budgeting, and safety-focused leadership.",
+    "skills": [
+        "Accounting",
+        "accounting systems",
+        "ADP",
+        "Basic",
+        "Budget",
+        "Business Management",
+        "Conversion",
+        "Creativity",
+        "Customer Service",
+        "Data Base",
+        "Database",
+        "delivery",
+        "ERP",
+        "financial",
+        "Financial Management",
+        "forklift operator",
+        "preparing forms",
+        "obligating funds",
+        "Government",
+        "Innovation",
+        "inventory management",
+        "inventory",
+        "Inventory Control",
+        "Team Building",
+        "Leadership Development",
+        "listening",
+        "Logistics",
+        "managerial",
+        "materials",
+        "Weapons",
+        "Navy",
+        "Naval",
+        "NEC",
+        "Personnel",
+        "policies",
+        "processes",
+        "Procurement",
+        "public speaking",
+        "publications",
+        "purchasing",
+        "quality",
+        "quality control",
+        "receiving",
+        "requirement",
+        "research",
+        "safety",
+        "shipping",
+        "Strategic",
+        "Supervisor",
+        "Supervision",
+        "Technician",
+        "transportation",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Financial Technician",
+            "company": "Company Name",
+            "start_date": "05/2010",
+            "end_date": "Present",
+            "description": "Verified and reconciled budget accounts for 8 various class submarines totaling over $20 million annually. Reviewed and updated daily and monthly BOR (Budget Operating Report) and OPTAR (Operating Target Report). Performed weekly safety training and maintained a safe working environment for 8 personnel. Ensured all obligated expenditures are in agreement with the monthly financial, and unfilled order listings. Utilized Navy accounting systems such as Standard Account Systems, Fleet (STARS FL), Submarine and Logistics Data Base (SLDB), One-touch, WEB LIPS, VLIPS, ERP."
+        },
+        {
+            "title": "Material Handler",
+            "company": "Company Name",
+            "start_date": "10/2006",
+            "end_date": "05/2010",
+            "description": "Performed duties involving analytical or managerial work for receiving, handling, maintaining and controlling material. Controlled the combination to the walk-in vault for Classified Material. Handled Level 1/Sub-Safe Material, Naval Reactor Plant components, Strategic Weapons Systems material, TRIPER, and DLR. Trained new employees on safe use of MHE while offloading trailers and trucks."
+        },
+        {
+            "title": "Storekeeper First Class",
+            "company": "Company Name",
+            "start_date": "02/2003",
+            "end_date": "10/2006",
+            "description": "Reviewed management reports and computer files for error correction; liaised with Inventory Control Point, DoD agencies, and the global submarine community. Performed requisitions, tracked status, interpreted regulations, and managed Submarine Logistic Database (SLDB) information. Supported submarine refit and maintenance logistics; ensured proper material management and disposition."
+        },
+        {
+            "title": "Database Administrator, Aviation Storekeeper Second Class",
+            "company": "Company Name",
+            "start_date": "03/1999",
+            "end_date": "03/2003",
+            "description": "Database Administrator for NALCOMIS aboard USS Kearsarge (LHD-3); expedited material ordering with Fed Log, ICP, AMMRL, IMRL. Managed storeroom inventories totaling $18.2 million; procurement accounts and purchasing; supervised stores handling; ensured security of materials."
+        },
+        {
+            "title": "Aviation Storekeeper Second Class",
+            "company": "Company Name",
+            "start_date": "12/1995",
+            "end_date": "12/1998",
+            "description": "Issued material to squadrons; conducted warehouse inventories; provided logistic support for 8 aircraft tenant commands; liaised with military and vendors; managed material requirements and expedited high-priority items."
+        },
+        {
+            "title": "Aviation Storekeeper Third Class",
+            "company": "Company Name",
+            "start_date": "09/1993",
+            "end_date": "12/1995",
+            "description": "Processed ~300 requisitions per month; managed accounting operations, close, reporting and reconciliations; supported safety procedures, aircraft inspections, and travel/hotel voucher issuance; organized filing systems to accelerate paperwork processing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Adult Workforce Education",
+            "school": "Valdosta State University",
+            "year": 2015
+        }
+    ],
+    "certifications": [
+        "HAZMAT training"
+    ],
+    "languages": [
+        "English"
+    ]
+}

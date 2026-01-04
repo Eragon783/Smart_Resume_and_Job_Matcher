@@ -1,0 +1,67 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Kiryat Bialik",
+    "summary": "Outstanding leadership skills and well-developed organizational ability. Analytical thinking, fast learner, able to find and use information effectively. Objective: to gain experience in hi-tech roles as Java Developer and System Software Developer, with the goal of reaching seniority.",
+    "skills": [
+        "Java",
+        "JavaScript",
+        "C (basic knowledge)",
+        "IntelliJ IDEA",
+        "Eclipse",
+        "Spring Framework (Spring Security, Spring Data, Spring Web)",
+        "Hibernate",
+        "Maven",
+        "JPA",
+        "Stream API",
+        "MySQL",
+        "MongoDB",
+        "HTML/CSS basics",
+        "JavaScript + Angular"
+    ],
+    "experience": [
+        {
+            "title": "Java Developer student",
+            "company": "Tel-Ran Educational Center",
+            "start_date": "2018",
+            "end_date": null,
+            "description": "Design and development of Java/J2EE/JS applications using popular frameworks and design patterns. Server side and Frontend development."
+        },
+        {
+            "title": "Production Manager",
+            "company": "Flexitech AVIA Israel",
+            "start_date": "2018",
+            "end_date": null,
+            "description": "Production manager. Company profile: Development and manufacturing of heating elements and PCBs using Thick Film technology, for a wide range of applications."
+        },
+        {
+            "title": "Car dealership director",
+            "company": "Subaru Russia -> IVECO Russia",
+            "start_date": "2009",
+            "end_date": "2016",
+            "description": "Achievements: Significantly increasing sales of new and used equipment, increasing number of returning customers, winning large government tenders for the supply of automotive equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Software Engineering",
+            "school": "Tel-Ran Educational center",
+            "year": "2018-2019"
+        },
+        {
+            "degree": "MA in Radiophysics and electronics",
+            "school": "Voronezh State University (Russia)",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "JMeter",
+        "JUnit"
+    ],
+    "languages": [
+        "English (intermediate)",
+        "Hebrew (intermediate)",
+        "Russian(native)"
+    ]
+}

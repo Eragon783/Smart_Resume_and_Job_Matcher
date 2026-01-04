@@ -1,0 +1,129 @@
+{
+    "name": "LISA POLOTCKAIA",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Detail- and process-oriented Data Analyst with Python and SQL proficiency. Have startup experience, a history of project presenting, strong research & analytical skills. Hold M.A. in Translation, finished 1 year of Computer Science study and 9-month Data Analyst Yandex100 Program",
+    "skills": [
+        "Python",
+        "SQL",
+        "Microsoft Excel",
+        "Tableau",
+        "Apache Spark",
+        "GitHub",
+        "Google Data Studio",
+        "Google Analytics",
+        "Adobe Photoshop",
+        "DBeaver",
+        "Data Preprocessing",
+        "EDA",
+        "Statistical Data Analysis",
+        "Statistical Hypothesis",
+        "Quantitative Research Methods",
+        "Data Visualization",
+        "Web Mining",
+        "Business Analytics",
+        "KPI analytics",
+        "cohort analytics",
+        "A/B testing",
+        "product funnels",
+        "Machine learning"
+    ],
+    "experience": [
+        {
+            "title": "Outsourcing data analyst",
+            "company": "Pinsteps",
+            "start_date": "2020-11",
+            "end_date": "present",
+            "description": "Conducted projects on cohort analysis, conversion evaluation. Assessed user activity and retention rates. Created user engagement reports that helped to establish app development direction."
+        },
+        {
+            "title": "Interviewer",
+            "company": "Israel Way",
+            "start_date": "2018-09",
+            "end_date": "2020-02",
+            "description": "Conducted surveys of MASA participants and highlighted issues to be modified due to participants experience. Created reports, presentations using Google Workspace tools."
+        },
+        {
+            "title": "Video algorithm specialist",
+            "company": "Minute.ly",
+            "start_date": "2019-11",
+            "end_date": "2020-01",
+            "description": "Trained AI Algorithm for selecting highlights of video materials representing content of customer’s websites."
+        },
+        {
+            "title": "Program coordinator",
+            "company": "Israel StartUp Tour",
+            "start_date": "2018-09",
+            "end_date": "2020-02",
+            "description": "Developed and organized tours on Israeli startups for foreign entrepreneurs that were focused on startup networking and led to successful business corporations."
+        },
+        {
+            "title": "KPI analytics and marketing expansions optimization",
+            "company": "Projects",
+            "start_date": null,
+            "end_date": null,
+            "description": "Examined user behavior, conducted cohort analyze establishing cohorts' KPI and thus indicated the most profitable advertising sources, which helped to develop further advertisement strategy."
+        },
+        {
+            "title": "A/B testing",
+            "company": "Projects",
+            "start_date": null,
+            "end_date": null,
+            "description": "Verified A/B test conduction correctness and used its results to define more user engaging website version. Used user conversion funnels & statistical hypotheses tests to confirm the conclusions."
+        },
+        {
+            "title": "Churn forecasting (machine learning)",
+            "company": "Projects",
+            "start_date": null,
+            "end_date": null,
+            "description": "Preprocessed and explored the data, indicated inner patterns and correlation and used LogisticRegression, RandomForest and K-Means to successfully identify clients prone to churn."
+        },
+        {
+            "title": "Identifying inefficient mobile operators",
+            "company": "Projects",
+            "start_date": null,
+            "end_date": null,
+            "description": "Created a method to evaluate operators effectiveness. Successfully implemented it, identified ineffective operators and proved conclusions with statistical tests."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer science",
+            "school": "The Ural Federal University",
+            "year": "2013-2014"
+        },
+        {
+            "degree": "Data Analysis",
+            "school": "Practicum by Yandex",
+            "year": "2020"
+        },
+        {
+            "degree": "SQL Certificate",
+            "school": "HackerRank",
+            "year": "2021"
+        },
+        {
+            "degree": "Basic Statistics",
+            "school": "Stepik",
+            "year": "2021"
+        },
+        {
+            "degree": "Apache Spark (TM) SQL for Data Analysts",
+            "school": "Coursera",
+            "year": "2021"
+        },
+        {
+            "degree": "M.A. in Literary Translation",
+            "school": "Maxim Gorky Institute of Literature and Creative Writing",
+            "year": "2012-2017"
+        }
+    ],
+    "certifications": [
+        "Practicum by Yandex: Data Analysis (2020)",
+        "HackerRank: SQL Certificate (2021)",
+        "Stepik: Basic Statistics (2021)",
+        "Coursera: Apache Spark (TM) SQL for Data Analysts (2021)"
+    ],
+    "languages": []
+}

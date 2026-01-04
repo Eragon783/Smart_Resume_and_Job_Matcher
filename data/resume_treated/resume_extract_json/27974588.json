@@ -1,0 +1,109 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Wilmington, North Carolina",
+    "summary": "My passion is to inspire class members to get fit & stay fit. I believe that Yoga is a key element of fitness along with strength & cardio training that leads to a long & happy fulfilled life. My classes are fun, yet challenging and engaging that encourage all participants to feel good about themselves and come back for more.",
+    "skills": [
+        "AFAA Group Exercise Boot Camp Training",
+        "Running 101",
+        "AFAA - Step Certification",
+        "AFAA - Kickboxing Certification",
+        "YogaFit Certified - Level 1",
+        "Les Mills - Body Pump 42",
+        "BTS - Group Power",
+        "Les Mills - Body Attack 51",
+        "Les Mills - Body Attack 55",
+        "IFTA - Group Fitness",
+        "IFTA - Personal Trainer AIM I",
+        "AIM I - Body Attack 75",
+        "AIM II - Body Attack 77",
+        "Les Mills - CX Worx 12",
+        "AIM II - Body Attack 78",
+        "Les Mills - Body Attack 82",
+        "Les Mills - RPM 60",
+        "Les Mills - CPR - New Zealand (2 wks)",
+        "AIM I - Body Pump 94",
+        "Les Mills - GRIT 13"
+    ],
+    "experience": [
+        {
+            "title": "Group Fitness Instructor",
+            "company": "Company Name - City, State",
+            "start_date": "2016-01",
+            "end_date": "2016-03",
+            "description": "Introduced & launched Body Attack in Jan, 2016; Yoga & Group Fitness Instructor"
+        },
+        {
+            "title": "Yoga & Group Fitness Instructor",
+            "company": "Company Name - City, State",
+            "start_date": "2014-09",
+            "end_date": "2016-03",
+            "description": "Substitute teach Yoga as requested; Introduced & launched Body Attack in May, 2015"
+        },
+        {
+            "title": "Yoga & Group Fitness Instructor",
+            "company": "Company Name - City, State",
+            "start_date": "2012-02",
+            "end_date": "2014-06",
+            "description": "Taught Yoga at New Hanover Gym on regular schedule; Introduced & launched Body Attack at Mayfair Gym in Jan, 2013"
+        },
+        {
+            "title": "Group Fitness Instructor",
+            "company": "Company Name - City, State",
+            "start_date": "1998-09",
+            "end_date": "2000-05",
+            "description": "Introduced & Taught Body Pump to all ladies gym"
+        },
+        {
+            "title": "Yoga & Group Fitness Instructor",
+            "company": "Company Name - City, State",
+            "start_date": "1998-06",
+            "end_date": "2012-05",
+            "description": "Taught at 6 different Locations for Golds gym over a 14 year period; Helped to launch both Body Pump in 2002 & Body Attack in 2006; Taught Yoga Saturdays am in Porters Neck location & Yoga Sunday am at Racine"
+        },
+        {
+            "title": "Group Fitness Instructor",
+            "company": "Company Name - City, State",
+            "start_date": "1998-06",
+            "end_date": "2000-04",
+            "description": "Taught general group fitness (weights & cardio)"
+        },
+        {
+            "title": "Group Fitness Instructor",
+            "company": "Company Name - City, State",
+            "start_date": "1994-07",
+            "end_date": "1998-08",
+            "description": "Taught General group fitness including Boot camp, Step, Hi-Lo, Running & Weights"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science, Animal Science",
+            "school": "The Ohio State University",
+            "year": 1973
+        }
+    ],
+    "certifications": [
+        "AFAA Group Exercise Boot Camp Training",
+        "AFAA Step Certification",
+        "AFAA Kickboxing Certification",
+        "YogaFit Certified - Level 1",
+        "Les Mills - Body Pump 42",
+        "BTS - Group Power",
+        "Les Mills - Body Attack 51",
+        "Les Mills - Body Attack 55",
+        "IFTA - Group Fitness",
+        "IFTA - Personal Trainer AIM I",
+        "AIM I - Body Attack 75",
+        "AIM II - Body Attack 77",
+        "Les Mills CX Worx 12",
+        "AIM II - Body Attack 78",
+        "Les Mills - Body Attack 82",
+        "Les Mills - RPM 60",
+        "Les Mills - New Zealand CPR (2 weeks)",
+        "AIM I - Body Pump 94",
+        "Les Mills - GRIT 13"
+    ],
+    "languages": []
+}

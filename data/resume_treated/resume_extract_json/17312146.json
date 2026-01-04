@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Maryland, USA",
+    "summary": "To build a career in the local community and improve skills in the Biological Science field.",
+    "skills": [
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Geographic Information Systems (GIS)",
+        "ArcGIS",
+        "Carpentry",
+        "Plumbing",
+        "Masonry",
+        "Heavy equipment operation",
+        "General mechanic",
+        "Wood cutting",
+        "Electrical",
+        "Hand tools",
+        "Power tools",
+        "Data collection",
+        "Editing",
+        "Equipment operation",
+        "Team building",
+        "Management",
+        "Multi-tasking",
+        "Customer service",
+        "Retail",
+        "Cashier",
+        "Scheduling",
+        "Research",
+        "Presentations",
+        "Information Systems"
+    ],
+    "experience": [
+        {
+            "title": "Conservation Technician/Maintenance",
+            "company": "Company Name",
+            "start_date": "2017-03",
+            "end_date": "2017-10",
+            "description": "Responsible for openings and closing procedures of the park; regular upkeep of park buildings, structures, roadways, picnic and camping areas. The role required knowledge in carpentry, plumbing, masonry, heavy equipment operation, and general mechanical tasks."
+        },
+        {
+            "title": "Conservation Technician/Maintenance",
+            "company": "Company Name",
+            "start_date": "2016-05",
+            "end_date": "2016-10",
+            "description": "Opened and closed park procedures; maintained/updated park buildings and structures; assisted staff on summer programs and park visitor events; exposed to severe weather; operated heavy equipment and a state vehicle; knowledgeable in plumbing, electrical work, hand/power tools, wood cutting; regularly maintained and serviced equipment."
+        },
+        {
+            "title": "Field Technician and Larvicider",
+            "company": "Company Name",
+            "start_date": "2015-05",
+            "end_date": "2015-10",
+            "description": "Recorded site survey assessments and performed quality checks of biological control agents before and after applications. Collected, recorded, and processed data on the environment and pesticide concentration, including targeted and non-targeted species indigenous to each treatment area. Responsible for safe use of a state department motor vehicle on public roadways."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "Shepherd University",
+            "year": 2014
+        },
+        {
+            "degree": "Associate of Science",
+            "school": "Hagerstown Community College",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        "Eagle Scout Award"
+    ],
+    "languages": []
+}

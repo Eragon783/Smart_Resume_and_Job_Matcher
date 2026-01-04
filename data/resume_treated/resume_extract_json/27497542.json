@@ -1,0 +1,52 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Eager to work in a fast-paced customer focused environment driven to expand sales volume by utilizing developing technology. Proficient at understanding client needs and collaborating on a creative vision to exceed expectations and deliver results conducive to cultivating relationships and growing business.",
+    "skills": [
+        "Microsoft Office",
+        "Word",
+        "PowerPoint",
+        "Excel"
+    ],
+    "experience": [
+        {
+            "title": "Personal Stylist- Women's Designer",
+            "company": "Company Name",
+            "start_date": "05/2014",
+            "end_date": "02/2017",
+            "description": "Leverages knowledge of design and brands to create a personalized experience to individual clients based on dressing concerns. Nurtures relationships by creating impactful appointments accompanied by planned follow-ups. Effectively time manages consultations with future clients while servicing those within the store. Utilizes internal digital application wardrobing clients on their terms. Implements communication templates via text and email regarding selling campaigns and customer rewards incentive programs. Integrates tools to improve customer retention and achieve significant level of designer selling volume."
+        },
+        {
+            "title": "Sales Associate- via C department",
+            "company": "Company Name",
+            "start_date": "02/2010",
+            "end_date": "05/2014",
+            "description": "Relocated personal clientele to a competitive top volume door. Profited in business development in an elevated women's designer department. Effectively time managed customer service to create a personalized experience while maximizing sales volume. Regularly attended product knowledge seminars allowing delivery of service at the highest level. Initiated conversations with management when unexpected problems arose to ensure future success amongst the team and client relationships."
+        },
+        {
+            "title": "Sales Associate, Savvy department",
+            "company": "Company Name",
+            "start_date": "06/2006",
+            "end_date": "02/2010",
+            "description": "Successfully assisted customers in choosing outfits that were consistent with needs and budget. Developed relationships to offer value to the customer experience. Increased sales volume by suggesting additional items at point of service. Advanced visual presentation of merchandise on the selling floor. Adapted numeracy skills when conducting transactions with customers."
+        },
+        {
+            "title": "Team Member",
+            "company": "Company Name",
+            "start_date": "08/2004",
+            "end_date": "06/2006",
+            "description": "Delivered friendly and prompt service to customers. Managed stock levels to prevent shortage of items. Contributed to maintaining company integrity during each transaction. Performed as a training mentor and shift lead during critical times."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Business Administration (Marketing)",
+            "school": "California State University Fullerton",
+            "year": "2008"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

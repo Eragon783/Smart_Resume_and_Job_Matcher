@@ -1,0 +1,103 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Focused Operations Manager and AFSCME Union President with success in contract negotiation and process improvement. Calm under pressure, with deep knowledge of industry trends to identify growth opportunities. Experienced in staff development, policy/program development, cross-functional team management, training, negotiations, and labor relations. Proficient in workflow optimization, data analysis, meeting planning and minutes, and office policy development. Led leadership as vice president of AFSCME District Council 90 eboard; improved union office organization, filing, and grievance database protocols; planned trainings, meetings, and events for 10-100+ employees; authored the first union president manual outlining procedures and policies.",
+    "skills": [
+        "Staff development",
+        "Policy/program development",
+        "Cross-functional team management",
+        "Staff training",
+        "Skilled negotiator",
+        "Sound judgment",
+        "Computer-savvy",
+        "Complex problem solving",
+        "Calm under pressure",
+        "Operations management",
+        "Inventory control",
+        "Excel spreadsheets",
+        "Meticulous attention to detail",
+        "Time management",
+        "Professional and mature",
+        "Strong problem solver",
+        "Labor relations",
+        "Meeting planning",
+        "Schedule management",
+        "Detailed meeting minutes",
+        "Leadership"
+    ],
+    "experience": [
+        {
+            "title": "AFSCME Union President",
+            "company": "Company Name, City, State",
+            "start_date": "11/2004",
+            "end_date": "Present",
+            "description": "Oversee Local 2534 Union office; serve as Local Union Training Instructor (LUTI); Vice President on AFSCME District Council 90 board; supervise a 12-member board and indirectly supervise 3 trustees; coordinate training and ensure timely completion of notifications, documents and grievances; ensure Master Agreement compliance and policies; act as union expert and spokesperson at trainings and meetings; plan, direct and administer steward, officer and treasurer trainings; implement improved filing system and grievance database protocols; plan trainings, meetings and special events for 10–100+ employees; authored the first union president manual outlining procedures and policies; led office organization improvements."
+        },
+        {
+            "title": "Licensing Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "06/2003",
+            "end_date": "11/2004",
+            "description": "Provided operational support to the Section Aviation Manager; planned, directed and controlled licensing activities for airports/heliports to ensure compliance with state regulations; made licensing decisions (initial license, renew, change status, suspend, remove); scheduled inspections and flight requests; reviewed initial applications for clarity; conducted public contact work; maintained control systems (Excel, Access, Airspace); created letters via mail merge; coordinated public hearings for proposed airports."
+        },
+        {
+            "title": "Grants Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "06/2002",
+            "end_date": "06/2003",
+            "description": "Supported Policy and Planning Division with accounting and administrative duties within the grants and revolving loan program; processed time-sensitive grant amendments; prepared letters to congressmen, state senators and representatives; maintained cash flow spreadsheets; implemented accounts payable invoices; managed computer systems (FMIS, AIMS, Multi-modal Project Management System)."
+        },
+        {
+            "title": "Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "12/1999",
+            "end_date": "06/2002",
+            "description": "Assisted day-to-day operations of the inspection sticker counter; maintained inventory levels; provided quality customer service; distributed inspection stickers to Pennsylvania auto dealerships and messenger services; entered quantity of stickers and ensured account accuracy."
+        },
+        {
+            "title": "Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "07/1999",
+            "end_date": "12/1999",
+            "description": "Assisted day-to-day operations of the Temporary Plates counter; managed temporary tags inventory; provided customer service; distributed temporary tags; verified accuracy of tag issuance and accounts."
+        },
+        {
+            "title": "Clerk 2, Vehicle Registration",
+            "company": "Company Name, City, State",
+            "start_date": "07/1994",
+            "end_date": "03/1998",
+            "description": "Provided day-to-day operations support for the Department of Transportation's Riverside Office Center mailroom; coordinated mailing equipment; knowledge of UPS machinery and First Class mail rates; maintained inventory and weighed letters for cost; operated Pitney-Bowes system; ensured proper distribution."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Labor Studies",
+            "school": "Penn State Leadership Institute",
+            "year": "2005"
+        },
+        {
+            "degree": "Computer Science",
+            "school": "Thompson Institute",
+            "year": "2001"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Harrisburg High School",
+            "year": "1974"
+        },
+        {
+            "degree": "AFSCME LUTI Leadership Institute Graduate",
+            "school": "AFSCME Council 13 Leadership Institute",
+            "year": "2013"
+        }
+    ],
+    "certifications": [
+        "AFSCME Local Union Training Instructor (LUTI) Certification",
+        "AFSCME Council 13 Leadership Institute - Leadership Certification"
+    ],
+    "languages": [
+        "English"
+    ]
+}

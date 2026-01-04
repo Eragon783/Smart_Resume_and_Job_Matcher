@@ -1,0 +1,64 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Seasoned sushi chef with extensive hospitality background, strong customer service and interpersonal skills, adept at food safety, inventory management, and high-volume kitchen operations. Proven ability to work under pressure, lead teams as a second chef, and continuously improve skills.",
+    "skills": [
+        "ServSafe Certification",
+        "Food safety",
+        "Inventory management",
+        "Sushi preparation (nigiri, rolls, sashimi)",
+        "Rice preparation",
+        "Knife skills",
+        "Customer service",
+        "Kitchen cleanliness and sanitation",
+        "Quality control",
+        "Time management",
+        "Team collaboration"
+    ],
+    "experience": [
+        {
+            "title": "Sushi Chef",
+            "company": "Wasabi's Downtown",
+            "start_date": "10/2014",
+            "end_date": "Current",
+            "description": "Second chef at Wasabi's Downtown; performs sushi preparation similarly to prior role at Sushi Time; oversees quality, maintains cleanliness, and supports kitchen operations; involved in inventory oversight and supplier coordination."
+        },
+        {
+            "title": "Dishwasher / Line Cook",
+            "company": "The 5 Spot",
+            "start_date": "04/2014",
+            "end_date": "10/2014",
+            "description": "Gained conventional kitchen and line cook experience; started in dishwashing; worked in a fast-paced environment requiring strong knife skills; left due to management changes and an opportunity to work with a prior supervisor."
+        },
+        {
+            "title": "Host, Server, Dishwasher, Cook",
+            "company": "Sushi Time",
+            "start_date": "03/2008",
+            "end_date": "03/2014",
+            "description": "Progressed from dish pit to host/server; assisted customers at the sushi bar; performed prep and cooking tasks; received ServSafe managerial training; managed inventory and supplier relations; long hours with a strong work ethic and passion for sushi."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science in Electrical-Computer Engineering",
+            "school": "Savannah Technical College",
+            "year": "2012"
+        },
+        {
+            "degree": "GED",
+            "school": "Wayne County High School",
+            "year": null
+        },
+        {
+            "degree": "GED",
+            "school": "Glynn Adult Literacy program",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "ServSafe Certification"
+    ],
+    "languages": []
+}

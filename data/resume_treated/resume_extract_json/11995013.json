@@ -1,0 +1,97 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Results-oriented Supervisor with diverse background in management and customer service. Dedicated to providing excellent customer service and making operational and procedural improvements.",
+    "skills": [
+        "Team player",
+        "Excellent multi-tasker",
+        "Strong communication skills",
+        "Cash handling accuracy",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Leadership skills",
+        "CPR/First Aid Certification",
+        "OSHA Certificate",
+        "Store opening and closing procedures",
+        "Customer Service",
+        "Receptionist",
+        "Retail Sales",
+        "Cash",
+        "Sales",
+        "Inventory",
+        "Reconciling",
+        "Security Practices",
+        "Telephone",
+        "Medical Assistant",
+        "Fulfillment",
+        "Material Flow",
+        "Quality Assurance",
+        "Cash Register",
+        "CPR",
+        "FDA",
+        "General Office",
+        "General Office Duties",
+        "Laboratory",
+        "Medical Records",
+        "Statistics",
+        "Testing",
+        "Pricing",
+        "Shipping",
+        "Credit",
+        "Promote Sales",
+        "Sales Associate",
+        "Answering",
+        "Dictation"
+    ],
+    "experience": [
+        {
+            "title": "Line Attendant",
+            "company": "Company Name, City, State",
+            "start_date": "Nov 2009",
+            "end_date": "Sep 2014",
+            "description": "Directed and supervised employees engaged in sales, inventory-taking and reconciling cash receipts; provided exceptional customer service; assigned duties and scheduled breaks; monitored sales activities; assisted customers in finding merchandise; greeted customers; answered inquiries; unloaded, picked, staged and loaded products; replenished floor stock; maintained stock levels and pricing; supervised material flow and global order fulfillment; worked at a rapid pace to meet deadlines."
+        },
+        {
+            "title": "Crew Leader",
+            "company": "Company Name, City, State",
+            "start_date": "Apr 2009",
+            "end_date": "Feb 2010",
+            "description": "Cooked and prepared food; used electronic thermometer; packaged food; ensured FDA guidelines; directed storage, preparation and serving of refreshments; called out and verified food orders; cleaned work area and equipment."
+        },
+        {
+            "title": "Medical Assistant Externship",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2008",
+            "end_date": "Sep 2008",
+            "description": "Performed general office duties; showed patients to examination rooms; prepared for physician; cleaned and sterilized instruments; interviewed patients; measured vital signs, weight and height; recorded medical history and test results; collected blood, tissue and other laboratory specimens and prepared them for testing."
+        },
+        {
+            "title": "Seasonal Culinary Arts Café Hostess",
+            "company": "Company Name, City, State",
+            "start_date": "Apr 2008",
+            "end_date": "Oct 2008",
+            "description": "Sold and served refreshments; recorded sales; delivered orders to kitchens; brewed coffee and tea; cleaned counters and equipment."
+        },
+        {
+            "title": "Seasonal Sales Associate",
+            "company": "Company Name, City, State",
+            "start_date": "Oct 2007",
+            "end_date": "Jan 2008",
+            "description": "Described merchandise; explained use and care; assisted customers; cleaned shelves; greeted customers; arranged and displayed merchandise; computed sales prices and processed cash and credit payments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Medical Assistant Diploma",
+            "school": "Sanford-Brown Institute, Trevose, PA",
+            "year": "2007-2008"
+        }
+    ],
+    "certifications": [
+        "CPR/First Aid Certification",
+        "OSHA Certificate"
+    ],
+    "languages": []
+}

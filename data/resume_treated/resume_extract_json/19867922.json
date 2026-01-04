@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "HR Generalist with extensive experience in HR operations, onboarding, payroll, background checks, benefits administration, employee relations, and confidentiality. Proven ability to manage HRIS data, reporting, and compliance while supporting senior leadership and driving employee engagement.",
+    "skills": [
+        "administrative duties",
+        "administrative support",
+        "ADP",
+        "HRIS",
+        "Human Resources",
+        "HR",
+        "calendar maintenance",
+        "call center",
+        "copying",
+        "data analysis",
+        "databases",
+        "documentation",
+        "email",
+        "employee relations",
+        "expense reports",
+        "faxing",
+        "filing",
+        "forms",
+        "benefits",
+        "posters",
+        "presentations",
+        "reporting",
+        "scheduling",
+        "Siebel",
+        "strategic",
+        "supervisor",
+        "telephone",
+        "typing",
+        "Microsoft Office Suite",
+        "Office",
+        "multi-tasking",
+        "organizational"
+    ],
+    "experience": [
+        {
+            "title": "HR Generalist",
+            "company": null,
+            "start_date": "2015-04",
+            "end_date": "Current",
+            "description": "Provide general administrative support such as preparing correspondence, forms, and reports; scheduling and coordinating staff meetings, maintaining meeting minutes and notes; generate confidential ad hoc statistical reporting data and documentation regarding turnover, new hires, birthdays, anniversaries, benefits, and other relevant HR metrics; collect onboarding documentation to ensure benefit enrollment in a timely manner and follow up with employees to ensure their electronic enrollment has been processed in the HRIS portal; source documentation to process new hire setups in HR systems, process changes in pay rate, status, and initial/qualifying life event benefit changes; establish, maintain and audit employee data and files; manually process background checks entries, employment verifications, and other full-cycle HR related items for onboarding and departures; assist with maintenance updates to the organizational chart; facilitate and assist in new hire orientation presentations; maintain highest level of confidentiality and data security to protect employee privacy related to employee relations issues, organizational changes, planning with a strict adherence to privacy and confidentiality per company policy; respond to various inquiries from internal and external stakeholders, employees, management, and senior leadership team; participate on several committees to enhance employee engagement, manager training, and creating strategic HR initiatives."
+        },
+        {
+            "title": "HR Generalist",
+            "company": "Company Name",
+            "start_date": "2012-09",
+            "end_date": "2014-06",
+            "description": "Processed background checks and drug screens on potential candidates. Schedule interviews for Managers and candidates; Meet and greet potential candidates that come for onsite interviews; Run Bi-weekly reports for the VP of Human Resources; Ensure all Empire markets stay in compliance with state and federal posters. Audit new hire files for 99 different markets; Maintain all employee files and ensure confidentiality; Maintain different databases such as ADP, Payforce and Siebel; Conduct new hire orientation weekly; Manage WOTC Program for all markets; Inform all Office managers, HR Generalist, and HR managers about various procedures to increase job efficiency; Answer phone and email inquiries regarding Company policies and procedures; Work with Recruiters on job descriptions to find qualified candidates for open positions; Schedule employees for Sexual Harassment and EEO Basic Supervisor training courses; Assist with various projects and meet multiple deadlines; Perform general administrative duties such as filing, faxing, copying, and ordering office supplies; Assist Corporate Recruiters with scheduling and setting up interviews; Assist benefits manager with enrollment for new and current employees; Process verification of employment for current and terminated employees."
+        },
+        {
+            "title": "HR Staffing Coordinator",
+            "company": "Company Name",
+            "start_date": "2008-08",
+            "end_date": "2015-04",
+            "description": "Processed background checks and drug screens on potential candidates. Schedule interviews for Managers and candidates. Meet and greet potential candidates that come for onsite interviews. Run Bi-weekly reports for the VP of Human Resources. Ensure all Empire markets stay in compliance with state and federal posters. Audit new hire files for 99 different markets. Maintain all employee files and ensure confidentiality. Maintain different databases such as ADP, Payforce and Siebel. Conduct new hire orientation weekly. Manage WOTC Program for all markets. Inform all Office managers, HR Generalist, and HR managers about various procedures to increase job efficiency. Answer phone and email inquiries regarding Company policies and procedures. Work with Recruiters on job descriptions to find qualified candidates for open positions. Schedule employees for Sexual Harassment and EEO Basic Supervisor training courses. Assist with various projects and meet multiple deadlines. Perform general administrative duties such as filing, faxing, copying, and ordering office supplies. Assist Corporate Recruiters with scheduling and setting up interviews. Assist benefits manager with enrollment for new and current employees. Process verification of employment for current and terminated employees."
+        },
+        {
+            "title": "Executive Technical Associate",
+            "company": "Company Name",
+            "start_date": "2008-08",
+            "end_date": "2015-04",
+            "description": "Assist Directors, Executives, and Senior Managers with scheduling meetings and calendar maintenance, monitoring voicemail and email, typing correspondence, and expense reports. Travel between offices to assist managers with various matters. Maintain weekly and monthly utilization reports for department staff. Maintain weekly scheduling and training database within a call center environment for over 100 Customer Advocates. Facilitate office-wide access to various systems. Assign and reset passwords and handle monthly database updates. Schedule contractual and appointment time via IEX/Totalview, and monitor IEX to ensure office-wide adherence, conformance and service level results are received. Perform complex and specialized work related to the preparation, processing, and maintenance of payroll. Generate weekly schedules in Totalview and make available for viewing in Agent Webstation. Facilitate departmental moves and arrange new telephone extensions, cubicles, and location of office space. Perform general administrative duties such as filing, faxing, copying, and ordering office supplies. Strengths: Familiarity with various HRIS Systems; Proficient with Microsoft Office Suite; Attention to detail; Multi-tasking; data analysis; research."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Business Administration",
+            "school": "Benedictine University",
+            "year": "2016"
+        },
+        {
+            "degree": "Bachelor of Arts in Business Administration",
+            "school": "Benedictine University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

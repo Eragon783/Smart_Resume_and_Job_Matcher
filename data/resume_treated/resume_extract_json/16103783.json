@@ -1,0 +1,96 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "OFFICE ADMINISTRATOR Professional Profile Skilled and highly organized professional, leveraging operational and interpersonal abilities developed during education and experience to excel in administrative operations. Operational Support: Track record of contributing effectively to productive operations, supporting goals and assisting management in daily functions, event planning, and marketing efforts. Strong organizational skills and eye for detail; able to accurately manage records and files, as well as proofreading documents. Communication Strengths: Proven ability to develop positive relationships with both customers and team members. Able to provide customer service by phone and in person, clearly presenting information and answering questions, as well as promptly resolving issues. Consistent success collaborating with team members on daily operations and special projects. Computer Proficiencies: Microsoft Office (Word, Excel, Access, PowerPoint) and Web Expression, Constant Contact, and Internet research and applications. Current education in Technology Management and computer skills certificates; adept in spreadsheet, database, and presentation development. Key Strengths: Demonstrated commitment to high performance and exceeding expectations, as well as identifying and recommending potential improvements. Able to quickly learn and excel in new responsibilities, as well as adapting skills to changing needs. Proven success in fast-paced, deadline-driven environments, multitasking to manage competing priorities.",
+    "skills": [
+        "Microsoft Office",
+        "Word",
+        "Excel",
+        "Access",
+        "PowerPoint",
+        "Web Expression",
+        "Constant Contact",
+        "Internet research",
+        "Administrative",
+        "Client",
+        "Customer satisfaction",
+        "Customer service",
+        "Database",
+        "Delivery",
+        "E-mail",
+        "Equipment maintenance",
+        "Graphs",
+        "Inspecting",
+        "Manufacturing process",
+        "Marketing",
+        "Mail",
+        "Office Administration",
+        "Office Skills",
+        "Organizing",
+        "Payroll",
+        "Personnel",
+        "Pick",
+        "Presentation development",
+        "Presenting",
+        "Presentations",
+        "Quality",
+        "Express",
+        "Reception",
+        "Maintain documentation",
+        "Research",
+        "Safety",
+        "Shipping",
+        "Spreadsheet",
+        "Supervision",
+        "Phone",
+        "Answer phones",
+        "Transportation",
+        "Web design"
+    ],
+    "experience": [
+        {
+            "title": "Office Administrator",
+            "company": "Company Name",
+            "start_date": "01/2011",
+            "end_date": "01/2014",
+            "description": "Support Senior Managers and other staff in administrative procedures. Answer phones and transfer calls, facilitating communication between customers, contractors, Warehouse Clerks, and Pick-up and Delivery Managers. Assist in resolving issues, including incorrectly delivered packages and incorrect addresses. Collaborate with customer service to successfully address problems and ensure customer satisfaction. Maintain documentation, including invoices, facility work orders, purchase orders, and personnel records, as well as processing electronic payroll entries. Submit terminal invoices to Senior Manager and corporate office. Prepare reports, graphs, and presentations. Distribute incoming mail and documents for office. Stamp and meter outgoing mail, as well as coordinating express shipping for customer COD checks. Coordinate with vendors on facility and equipment maintenance. Organize interviews for potential employees. Effectively multitasked to manage time-sensitive priorities in high-volume environment. Strategically managed warehouse supply ordering for terminal to maintain within $10,000."
+        },
+        {
+            "title": "Student",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "02/2011",
+            "description": "Develop skill in key office technology applications, including spreadsheet, database, and presentation development, as well as Web design. Research company information and prepare reports and presentations. Collaborate in group projects. Conducted extensive research on company history, products, and services, presenting results in class. Collaborated successfully with team members on brand analysis project."
+        },
+        {
+            "title": "Public Relations Intern",
+            "company": "Company Name",
+            "start_date": "08/2009",
+            "end_date": "05/2010",
+            "description": "Supported Chamber President and office staff. Managed front desk reception, communicating with customers by phone and in person to provide information on welcome center and local hotels, transportation, and activities. Assisted in planning events and coordinating marketing operations. Filed and organized operational documents and customer correspondence. Maintained and updated client directory. Proofread e-mail communications. Assisted in organizing auction event, raising more than $25,000 dollars. Consistently evaluated office operations to recommend potential improvements. Created volunteer application form."
+        },
+        {
+            "title": "Production Team Member",
+            "company": "Company Name",
+            "start_date": "01/1996",
+            "end_date": "01/2007",
+            "description": "Directed assembly of automobile seat components, as well as testing and inspecting seats. Ensured compliance with operational description to maintain safety. Collaborated with team members to ensure efficient manufacturing process. Trained new employees and answered questions. Successfully completed tasks ahead of schedule while maintaining quality in high-pressure environment. Consistently demonstrated willingness to adapt to new operational tasks and assist team members. continued."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Technology Management",
+            "school": "Eastern Michigan University",
+            "year": 2010
+        },
+        {
+            "degree": "Office Administration coursework",
+            "school": "Henry Ford Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

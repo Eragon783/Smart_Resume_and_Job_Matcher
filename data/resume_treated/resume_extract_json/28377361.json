@@ -1,0 +1,65 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City , State",
+    "summary": "SALES ASSOCIATE Professional Summary Food service worker with fast food, retail and customer service experience. Trained in food safety and handling. Highlights Neat, clean and professional appearance Delivers exceptional customer service Reliable team worker",
+    "skills": [
+        "cash register",
+        "closing",
+        "coaching",
+        "oral communication",
+        "Excellent communication",
+        "credit",
+        "Inventory control",
+        "Listening",
+        "MS Office",
+        "organizer",
+        "policies",
+        "POS",
+        "quality",
+        "safety",
+        "sales",
+        "tops",
+        "Written"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name – City , State",
+            "start_date": "08/2013",
+            "end_date": "01/2014",
+            "description": "Computed sales prices, total purchases and processed payments. Described merchandise and explain operation of merchandise to customers. Maintained knowledge of current promotions, policies regarding payment and exchanges, and security practices. Placed special orders and called other stores to find desired items. Operated a cash register to process cash, check and credit card transactions. Guided customers in choosing items that reflected personal style and shape. Administered all point of sale opening and closing procedures. Explained information about the quality, value and style of products to influence customer buying decisions. Replenished floor stock and processed shipments to ensure product availability for customers."
+        },
+        {
+            "title": "Barista",
+            "company": "Company Name – City , State",
+            "start_date": "02/2013",
+            "end_date": "07/2013",
+            "description": "Took necessary steps to meet customer needs and effectively resolve food or service issues. Correctly received orders, processed payments and responded appropriately to guest concerns. Served fresh, hot food with a smile in a timely manner. Communicated clearly and positively with co-workers and management. Cut and chopped food items and cooked on a grill or in fryers. Packaged menu items into bags or trays and placed drink orders into carriers. Accurately measured ingredients required for specific food items. Prepared and served beverages such as coffee, tea and fountain drinks. Mastered Point of Sale (POS) computer system for automated order taking. Carefully maintained sanitation, health and safety standards in all work areas. Frequently washed and sanitized hands, food areas and food preparation tools. Performed general maintenance duties, including mopping floors, washing dishes, wiping counter tops and emptying grease traps. Followed all established restaurant practices and procedures. Worked well with teammates and openly invited coaching from the management team. Took initiative to find extra tasks when scheduled duties were completed. Quickly unloaded product shipments and stocked freezers. Assisted management with monthly inventory control and weekly stock ordering. Prepared items according to written or verbal orders, working on several different orders simultaneously."
+        },
+        {
+            "title": "Crew Member",
+            "company": "Company Name – City , State",
+            "start_date": "08/2014",
+            "end_date": "11/2014",
+            "description": "Demonstrated integrity and honesty while interacting with guests, team members and managers. Operated the drive-through window and sales register quickly and efficiently. Greeted customers and provided excellent customer service. Maintained high standards of customer service during high-volume, fast-paced operations. Prepared fountain drinks and ice cream items. Prepared all food orders within a 2-3 minute time frame. Assembled food orders while maintaining appropriate portion control. Prepared specialty foods such as pizzas and sandwiches, following specific methods that required quick prep time. Prepared a variety of foods according to customers' orders or supervisors' instructions, following approved procedures. Handled currency and credit transactions quickly and accurately. Placed food trays over food warmers for immediate service or stored them in refrigerated storage cabinets. Stored food in designated containers and storage areas to prevent spoilage or cross-contamination. Maintained clean and safe environment, including in the kitchen, bathrooms, building exterior, parking lot, dumpster and sidewalk. Reported to all shifts wearing a neat, clean and unwrinkled uniform. Reported to each shift on time and ready to work. Diligently restocked work stations and display cases. Cooked and packaged large batches of food that were prepared to order or kept hot until needed. Prepped items for later use to save staff time during busy hours."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name – City , State",
+            "start_date": "12/2012",
+            "end_date": "01/2013",
+            "description": "Greeted customers in a timely fashion while quickly determining their needs. Greeted customers in a timely fashion while quickly determining their needs. Recommended merchandise to customers based on their needs and preferences. Responded to customer questions and requests in a prompt and efficient manner. Completed all cleaning, stocking and organizing tasks in assigned sales area. Organized racks and shelves to maintain the visual appeal of the store. Stocked shelves and supplies and organized displays. Check out purchases"
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Washtenaw Technical Middle College - City , State",
+            "year": "Current"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Nathan Talovsky",
+    "email": null,
+    "phone": "(217) 097-5477",
+    "location": "Clarksville, Tennessee",
+    "summary": "Reliable HR Field Associate with a Master's of science in Human Resource management emphasis as a Generalist. Passionate and motivated with a drive for excellence. Handles tasks with accuracy and efficiency.",
+    "skills": [
+        "Verbal and written communication skills",
+        "Time management and organization skills",
+        "Powerpoint presentations",
+        "Flexible",
+        "Recruiting",
+        "Investigation training",
+        "Employee engagement",
+        "Ability to develop and execute recruitment strategies",
+        "Analyze data and recommend opportunities for improvement",
+        "Experience in preparing for audits",
+        "Assisted in the hiring process by screening resumes-Select interview process certified via FedEx Ground",
+        "Demonstrated ability to interact effectively with employees.",
+        "Ability to anticipate and identify problems and use sound judgment and fact based analysis to develop effective and efficient solutions.",
+        "Software skills, including use of Microsoft Office software and web-based applications.",
+        "Ability to work day, evening and overnight hours as business needs dictate."
+    ],
+    "experience": [
+        {
+            "title": "Field HR Associate",
+            "company": "Company Name",
+            "start_date": "January 2015",
+            "end_date": "Present",
+            "description": "Ensures compliance with all employment laws, regulations, and FedEx Ground policies, procedures, and processes. Identifies employee relations issues and resolves as appropriate. Provides HR advice to management and responds to employee inquiries. Conducts investigations in a timely and appropriate manner. Identifies the issues and parties involved and provides a thorough investigative report with appropriate recommendation(s). Maintains an HR presence in assigned facilities by engaging all levels of employees through activities to include, but not limited to, dock walks, engagement meetings, and/or special events. Leads the development and execution of the recruitment strategies while managing costs to budget. This includes, but is not limited to, recruitment activities, peak planning, and participating in outreach events. Builds and maintains effective relationships with schools and community-based organizations. Analyzes data and provides recommendations to management for improvement initiatives. Prepares, audits, and monitors Affirmative Action Plans. Screens resumes of internal and external candidates for non package handler positions, participates in the panel interview process, and makes recommendations to the hiring manager regarding final selection decisions. Properly and timely dispositions applicants and jobs by effectively utilizing applicant tracking system. Assists management with development of job offers, which includes gaining appropriate approvals. Ensures all new employees are on-boarded effectively. Manages participation in all government-sponsored tax credit programs. Facilitates and conducts training. Participates in hub and station assessments and assists with strategic planning solutions. Participates in Operations' staff meetings."
+        },
+        {
+            "title": "Financial Aid Counselor",
+            "company": "Company Name",
+            "start_date": "May 2013",
+            "end_date": "November 2013",
+            "description": "Analyze applicants' financial status, credit, and property evaluations to determine feasibility of granting loans. Interview applicants and request specified information for loan applications. Establish payment priorities according to credit terms and interest rates to reduce clients' overall costs. Contact applicants or creditors to resolve questions about applications or to assist with completion of paperwork. Inform individuals and groups about the financial assistance available to college or university students. Maintain current knowledge of credit regulations. Match students' needs and eligibility with available financial aid programs to provide informed recommendations. Counsel clients on personal and family financial problems, such as excessive spending or borrowing of funds. Review billing for accuracy. Assist in selection of financial award candidates using electronic databases to certify loan eligibility. Compare data on student aid applications with eligibility requirements of assistance programs. Counsel clients on personal and family financial problems, such as excessive spending or borrowing of funds."
+        },
+        {
+            "title": "Financial Aid Advisor",
+            "company": "Company Name",
+            "start_date": "June 2010",
+            "end_date": "May 2012",
+            "description": "Check loan agreements to ensure that they are complete and accurate, according to policies. Analyze applicants' financial status, credit, and property evaluations to determine feasibility of granting loans. Interview applicants and request specified information for loan applications. Contact applicants or creditors to resolve questions about applications or to assist with completion of paperwork. Inform individuals and groups about the financial assistance available to college or university students. Maintain current knowledge of credit regulations. Match students' needs and eligibility with available financial aid programs to provide informed recommendations. Assist in selection of financial award candidates using electronic databases to certify loan eligibility. Maintain and review account records, updating and categorizing them according to status changes. Compare data on student aid applications with eligibility requirements of assistance programs. Counsel clients on personal and family financial problems, such as excessive spending or borrowing of funds. Review accounts to determine write-offs for collection agencies."
+        },
+        {
+            "title": "Human Resource Coordinator",
+            "company": "Company Name",
+            "start_date": "November 2007",
+            "end_date": "March 2010",
+            "description": "Administered employee benefit plans including new hire orientation program, open enrollment process and wellness program. Prepared, presented and distributed employee communications, publications and announcements. General Human Resources Functions: Administered policies and programs relating to all phases of human resources activity including HR planning, recruitment, training and development, employee performance evaluation and appraisals, firing processes, etc. Along with these, maintained knowledge of legal requirements and government reporting regulations affecting human resources. Administration of Employee Relocation: Worked independently with candidates to manage the relocation process and coordinated all arrangements to include: house hunting trip, travel, temporary housing arrangements and movers. Key Accomplishments Developed and maintained various HRIS systems to improve management of tracking of employee relations issues, leaves, corrective actions and unemployment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Human Resource Management",
+            "school": "Strayer University",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Arts: Human Resource Management",
+            "school": "Strayer University",
+            "year": 2011
+        },
+        {
+            "degree": "B.B.A: Human Resource Management",
+            "school": "University of Clifton",
+            "year": 2005
+        }
+    ],
+    "certifications": [
+        "PHR certification - HR Certification Institute",
+        "HRCI certification - 2006"
+    ],
+    "languages": []
+}

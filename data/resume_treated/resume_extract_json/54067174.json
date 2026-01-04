@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Customer service professional with extensive call center experience, strong training and development skills, and a focus on customer satisfaction. Demonstrated ability to manage teams, handle inquiries, resolve problems, and maintain accurate records in fast-paced environments.",
+    "skills": [
+        "Customer service",
+        "Customer-focused",
+        "Strong organizational skills",
+        "Skilled multi-tasked",
+        "Creative problem solver",
+        "Deadline-oriented",
+        "Active listening",
+        "Scheduling",
+        "Quick learner",
+        "Bilingual",
+        "Training development aptitude",
+        "Dentrix/Open Dental Training",
+        "Credit card processing"
+    ],
+    "experience": [
+        {
+            "title": "Patient Advocate",
+            "company": "Company Name",
+            "start_date": "May 2015",
+            "end_date": "June 2017",
+            "description": "Maintained patient records; observed and documented patient status; reported complaints to the case manager; managed calls in a fast-paced call center; set up patient appointments; kept conversation records; achieved appointment goals; answered questions about insurance and treatments."
+        },
+        {
+            "title": "Insurance Agent",
+            "company": "Company Name",
+            "start_date": "December 2014",
+            "end_date": "May 2015",
+            "description": "Promoted agency products; calculated premiums and payment methods; interviewed clients to assess financial needs and existing coverage; processed applications, payments, endorsements and cancellations; met with walk-in policyholders; contacted warm leads; maintained activity and production logs."
+        },
+        {
+            "title": "Debt Collector",
+            "company": "Company Name",
+            "start_date": "April 2014",
+            "end_date": "December 2014",
+            "description": "Handled inbound and outbound calls for past-due accounts; set up payment plans; managed high call volumes (up to 20 calls per minute); pursued daily monetary goals."
+        },
+        {
+            "title": "CNA",
+            "company": "Company Name",
+            "start_date": "August 2013",
+            "end_date": "March 2014",
+            "description": "Assisted with patient care, documented medical history and vital signs, and supported mobility and daily living activities; provided transportation and companionship; assisted with transfers and ambulation; maintained cleanliness of living areas."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Winfree Academy Charter School",
+            "year": 2013
+        },
+        {
+            "degree": "CNA Certificate",
+            "school": null,
+            "year": 2012
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

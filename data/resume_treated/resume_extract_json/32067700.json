@@ -1,0 +1,91 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Detail-oriented teacher with experience. Demonstrated success in personal and professional settings providing range of document and text translation services.",
+    "skills": [
+        "English",
+        "Math",
+        "MS Office",
+        "Neat Packaging",
+        "Rapport",
+        "Safety",
+        "Sales",
+        "Selling",
+        "Teaching",
+        "Phone",
+        "Turkish",
+        "Interpersonal Communication",
+        "Planning and Coordination",
+        "Basic Interpersonal",
+        "Customer relations",
+        "Customer satisfaction"
+    ],
+    "experience": [
+        {
+            "title": "Unknown",
+            "company": "Company Name",
+            "start_date": "06/2020",
+            "end_date": "Present",
+            "description": "Put final products together and efficiently organized items and packaging for shipment. Kept work areas organized, clean and free of hazards, promoting consistent productivity. Increased productivity by 15%. Maintained clean and neat work area to maximize productivity and prevent errors."
+        },
+        {
+            "title": "Preschool Teacher",
+            "company": "Indiana Math and Science Academy",
+            "start_date": "08/2019",
+            "end_date": "Present",
+            "description": "Educating children younger than 5 to help prepare them for school by teaching basic learning concepts, such as numbers, colors, and shapes as well as to develop their social, motor, and language skills. Identified children in need of extra support for emotional, health-related, or developmental concerns and conceived improvement strategies. Implemented hands-on, play-based strategies such as games and crafts for experiential learning."
+        },
+        {
+            "title": "Welcome Desk Representative and Gate Attendant",
+            "company": "Company Name",
+            "start_date": "01/2019",
+            "end_date": "12/2020",
+            "description": "Provided follow-through on all calls with confirmations and dissemination of requested information. Suggested various packages and amenities to guests, helping each find perfect accommodations to fit personal needs. Answered incoming phone calls and developed friendly rapport with callers while answering questions, making recommendations, and leading conversations to bookings. Managed over 50 customer calls per day."
+        },
+        {
+            "title": "Hospitality Desk Representative II",
+            "company": "Company Name",
+            "start_date": "01/2017",
+            "end_date": "12/2020",
+            "description": "Developed and maintained positive customer relations and coordinated with team members to properly handle requests and questions. Coached sales associates in product specifications, sales incentives, and selling techniques, significantly increasing customer satisfaction ratings. Managed over 50 customers per day."
+        },
+        {
+            "title": "Safe Sitter Instructor",
+            "company": "Company Name",
+            "start_date": "12/2016",
+            "end_date": "12/2020",
+            "description": "Providing informative class to young teenagers to teach how to safely maintain a safe environment for babysitting, handling tough situations as well as learning how to manage behavior. Increased positive performance from students in order to graduate the program. Managed 12 students per class."
+        },
+        {
+            "title": "Child Care Aide and Kids Night Out Aid",
+            "company": "Company Name",
+            "start_date": "09/2013",
+            "end_date": "12/2020",
+            "description": "Encouraged child involvement in classroom experiences and group interaction. Modeled appropriate activities and positive behavior management. Performed as a positive role model, promoting healthy interpersonal behaviors. Managed 20 students per room with another aide."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in English and Psychology",
+            "school": "Indiana University – Purdue University",
+            "year": "2021"
+        },
+        {
+            "degree": "Latino Studies",
+            "school": "Indiana University – Purdue University",
+            "year": "2021"
+        },
+        {
+            "degree": "Associate of Science in Liberal Arts",
+            "school": "Ivy Tech Community College of Indiana",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Turkish",
+        "English"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State, United States",
+    "summary": "Experienced in data collection and analysis using statistical methods with familiarity in R and SAS programming; strong in experimental design, sampling techniques, and documents management; good communication, teamwork, and planning skills.",
+    "skills": [
+        "SAS",
+        "R",
+        "SPSS",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "statistical analysis",
+        "experimental design",
+        "data analysis",
+        "team leadership",
+        "organizational planning",
+        "communication",
+        "customer orientation",
+        "document management"
+    ],
+    "experience": [
+        {
+            "title": "Internship - Stock Prices Analyst",
+            "company": "Company Name",
+            "start_date": "May 2014",
+            "end_date": "August 2014",
+            "description": "Collect, enter and analyze stock prices; use R programming to analyze data; predict the future trend of different stocks using time series methods; write summary reports; perform customer service at the front desk; design questionnaires and solicit feedback."
+        },
+        {
+            "title": "Internship",
+            "company": "Company Name",
+            "start_date": "May 2013",
+            "end_date": "August 2013",
+            "description": "Data collection and entry: collect financial data and classify them into correct tables and items; write summary reports with R; provide customer service; inventory control; arrange business trips (hotel booking, daily schedules) and monitor trip budgets."
+        },
+        {
+            "title": "Internship",
+            "company": "Company Name",
+            "start_date": "November 2012",
+            "end_date": "March 2013",
+            "description": "Data collection and entering; write summary reports using statistics; provide customer service; meeting preparation; prepare documents for meetings, ensure participation, prepare PowerPoint slides and meeting room; introduce financial products to customers and persuade them to buy."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Statistics",
+            "school": "University of Missouri",
+            "year": "2015"
+        }
+    ],
+    "certifications": [
+        "SAS Advanced License"
+    ],
+    "languages": []
+}

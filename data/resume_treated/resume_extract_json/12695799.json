@@ -1,0 +1,77 @@
+{
+    "name": "Lisa Phinney",
+    "email": null,
+    "phone": null,
+    "location": "Park City, Utah",
+    "summary": "Operations professional with over 10 years of experience in administration, project coordination, event planning, and communications. Proficient in MS Office, Google Suite, CRM/PM tools (Asana, Basecamp), social media management, website updates, budgeting, vendor relations, and executive support.",
+    "skills": [
+        "MS Office",
+        "Excel",
+        "Spreadsheet creation",
+        "Word",
+        "Memos",
+        "Minutes",
+        "Invoices",
+        "PowerPoint",
+        "Outlook",
+        "Asana",
+        "Basecamp",
+        "Project Management",
+        "Website design",
+        "Website updating",
+        "Social Media management",
+        "Photoshop",
+        "Elements",
+        "Video conferencing",
+        "Google G-Suite",
+        "Kronos",
+        "Event planning",
+        "Budget management",
+        "Vendor management",
+        "Travel planning",
+        "Conference attendance",
+        "Speaking prep",
+        "Audience engagement"
+    ],
+    "experience": [
+        {
+            "title": "Operations Associate",
+            "company": "HeartSpace (retreat center) / Plenty Consulting",
+            "start_date": "2016-10",
+            "end_date": "Present",
+            "description": "Responsible for administrative and operational tasks; coordinating projects; leadership liaison; vendor relationships; travel planning for a team of eight; budgeting; social media management; website updates; scheduling meetings via Zoom and GoToMeeting; event planning and execution; and providing executive support to co-leaders of Plenty Consulting."
+        },
+        {
+            "title": "Assistant to the Executive Director",
+            "company": "Historic Park City Alliance (HPCA)",
+            "start_date": "2015-08",
+            "end_date": "Present",
+            "description": "Assist the Executive Director with administrative management; communicate with Historic Park City merchants; coordinate events with City staff; maintain Main Street directory map and kiosks; write minutes; promote HPCA website; grant reconciliation and budget management."
+        },
+        {
+            "title": "Marketing Coordinator",
+            "company": "Meisha Lawson Marketing",
+            "start_date": "2015-08",
+            "end_date": "Present",
+            "description": "Maintain HPCA website calendar/events; blog updates; social media marketing; advertising campaigns; event planning and execution (Autumn Aloft, Halloween on Main, The Electric Parade)."
+        },
+        {
+            "title": "Fieldhouse Manager & Zumba Fitness Instructor",
+            "company": "The Fieldhouse",
+            "start_date": "2009-09",
+            "end_date": "2014-10",
+            "description": "Provided administrative support and excellent customer service; planned and executed annual events (Kids Carnival, Monster Ball, Color Run, Christmas); developed Zumba fitness program and built a community of students."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Multidisciplinary Studies/Environmental Science",
+            "school": "University of Massachusetts - City",
+            "year": "1994"
+        }
+    ],
+    "certifications": [
+        "Licensed Notary"
+    ],
+    "languages": []
+}

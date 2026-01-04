@@ -1,0 +1,109 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior P&L manufacturing/engineering and supply chain executive with a proven track record in leading manufacturing and distribution businesses, implementing lean methodologies, executing strategic plans, and driving value creation and turnarounds. Demonstrated ability to improve profitability, reduce costs and inventories, and deliver on-time performance while leading large, diverse teams across multiple plants and functions. Certifications include QS 9001 and ISO/TS 16949, with SOX compliance.",
+    "skills": [
+        "accounting",
+        "approach",
+        "automotive",
+        "BAAN",
+        "balance sheet",
+        "cash flow",
+        "coaching",
+        "continuous improvement",
+        "Cost Accounting",
+        "direction",
+        "driving",
+        "ERP",
+        "senior management",
+        "human resources",
+        "inventory",
+        "JD Edwards",
+        "leadership",
+        "TEAM BUILDING",
+        "Lean Manufacturing",
+        "Logistics",
+        "machinery",
+        "marketing",
+        "market",
+        "mentoring",
+        "Excel",
+        "MS Office",
+        "MS Outlook",
+        "PowerPoint",
+        "MS Project",
+        "MS Windows XP",
+        "Word",
+        "MRP",
+        "packaging",
+        "personnel",
+        "piano",
+        "problem solving",
+        "processes",
+        "process improvement",
+        "profit and loss",
+        "protocols",
+        "purchasing",
+        "quality",
+        "scheduling",
+        "strategic",
+        "strategic sourcing",
+        "Supply Chain Management",
+        "Visio"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "January 2002",
+            "end_date": "Present",
+            "description": "Setting and implementing goals with the CEO and delivering positive results; hands-on lean manufacturing leadership; conducted assessments and implementation engagements using Lean tools (Toyota Production System: JIT, Kaizen, Kanban, 5S, Takt time, Poka-Yoke, SMED, Heijunka; Eight D, 5Y, DMAIC; Value Stream Mapping; Work Cell; Demand Flow; Synchronous Manufacturing). Achieved significant value additions including increased company value, reduced inventories and cycle costs, and improved on-time delivery. Managed both union and non-union staff across large teams; established targets with accountability and constraint analysis to resolve issues."
+        },
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "January 2000",
+            "end_date": "January 2002",
+            "description": "Lean Manufacturing consulting."
+        },
+        {
+            "title": "Manufacturing Executive",
+            "company": "The Wurlitzer Company",
+            "start_date": "January 1987",
+            "end_date": "January 2000",
+            "description": "Led corporate manufacturing operations, engineering, maintenance, purchasing, scheduling, inventory and all supply chain functions; developed strategies to achieve P&L and balance sheet objectives; direct reports across manufacturing and quality; achieved EPS growth (+$1.25 YoY), significant cost savings (e.g., $13.5M) and material cost reductions; reduced scrap costs by 80% through lean initiatives; increased production and efficiency via focused factory/cell concepts; reduced unfavorable variances by 91%."
+        },
+        {
+            "title": "President & CEO",
+            "company": "Company Name",
+            "start_date": "January 1984",
+            "end_date": "January 1987",
+            "description": "Full P&L responsibility for multi-plant manufacturing operations (US plants, Canadian subsidiary, UK JV); led strategic acquisitions and organizational restructuring; set goals and KPIs to reverse declining market share and improve cash flow; EBIT up 325% and revenues up 285%."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "school": "Fairleigh Dickinson University",
+            "year": null
+        },
+        {
+            "degree": "BS",
+            "school": "University of Richmond",
+            "year": null
+        },
+        {
+            "degree": "AA",
+            "school": "Valley Forge Military Academy",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "QS 9001",
+        "ISO/TS 16949",
+        "SOX compliant"
+    ],
+    "languages": []
+}

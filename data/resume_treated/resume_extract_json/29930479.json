@@ -1,0 +1,74 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Dedicated Teacher adept at challenging students to reach their full potential. Ensures that every student is progressing and is held to high expectations.",
+    "skills": [
+        "Computer proficiency in Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Lesson planning",
+        "Tutoring experience",
+        "Standardized testing",
+        "IEP familiarity"
+    ],
+    "experience": [
+        {
+            "title": "Science Teacher",
+            "company": "Company Name",
+            "start_date": "09/2005",
+            "end_date": "Current",
+            "description": "7th and 8th Grade. Implemented 8th grade curriculum through various methods and techniques that reflect the CCSS. Created a learning environment that enabled students to take risks and comfortably express their ideas. Explored and implemented various forms of differentiated instruction. Included Smart board elements, PowerPoint presentations, and various media in every lesson, in order to model technology driven instruction."
+        },
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "09/2004",
+            "end_date": "09/2005",
+            "description": "Implemented curriculum for children following teachers plans. Assigned lessons and corrected homework. Encouraged students to be understanding with others."
+        },
+        {
+            "title": "Teacher Assistant",
+            "company": "Company Name",
+            "start_date": "09/2003",
+            "end_date": "11/2003",
+            "description": "Implemented group literacy lessons. Assisted students in their deficient areas."
+        },
+        {
+            "title": "Special Education Teacher",
+            "company": "Company Name",
+            "start_date": "09/1996",
+            "end_date": "01/2003",
+            "description": "Assisted head teacher in planning Curriculum. Developed individualized lesson plans to meet Students with IEP goals. Maintained daily records regarding children's developmental progress."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Education & Special Education",
+            "school": "Touro College",
+            "year": ""
+        },
+        {
+            "degree": "Master of Science in Education & Special Education",
+            "school": "Touro College",
+            "year": "June 2006"
+        },
+        {
+            "degree": "Bachelor of Science: Early Childhood Education",
+            "school": "City College",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Science in Early Childhood Education",
+            "school": "City College, New York",
+            "year": "September 2003"
+        }
+    ],
+    "certifications": [
+        "New York State Permanent Teacher Certification N-6",
+        "New York City Permanent Certificate in Teaching N-6",
+        "Certified Mentor – 2014-Present"
+    ],
+    "languages": []
+}

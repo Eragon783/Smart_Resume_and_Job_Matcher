@@ -1,0 +1,54 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A current sophomore majoring in sociology whom enjoys working and interacting with people. Technologically savvy, a quick learner, and a strong work ethic ensures great leadership as well as a great team member. Always willing to put best effort into work to accomplish goals with a friendly and positive attitude that contributes to a pleasant work environment.",
+    "skills": [
+        "Critical Thinking",
+        "Goal Setting and Implementation",
+        "Teamwork",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint"
+    ],
+    "experience": [
+        {
+            "title": "Sales Consultant",
+            "company": "Company Name",
+            "start_date": "2017-07",
+            "end_date": "2017-08",
+            "description": "Processed customer payments with an uplifting and friendly attitude. Addressed and eliminated customer issues as well as ensured a welcoming and clean environment. Assisted customers with purchases to fulfill targeted company goals."
+        },
+        {
+            "title": "Facilitator",
+            "company": "Company Name",
+            "start_date": "2017-07",
+            "end_date": null,
+            "description": "Facilitated conversations about Native American history and identity. Served as a college mentor and advisor for Native American high school students. Interacted and built relationships with students in week-long programs at various reservations."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "2015-06",
+            "end_date": "2015-12",
+            "description": "Educated several native communities on healthcare benefits. Cooperated with fellow interns at community-based events to create and execute company goals. Approached and interacted with individuals to discuss healthcare options."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Tse' Yi' Gai High School",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor's degree candidate in Sociology",
+            "school": "Columbia University",
+            "year": 2020
+        }
+    ],
+    "certifications": [
+        "Valedictorian"
+    ],
+    "languages": []
+}

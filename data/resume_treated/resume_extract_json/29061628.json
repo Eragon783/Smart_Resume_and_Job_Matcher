@@ -1,0 +1,68 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Customer Service Representative with extensive experience assisting customers with purchases and returns, training new employees, coordinating schedules, and applying policy and procedures; background in construction QA, materials testing, and geologic lab management.",
+    "skills": [
+        "customer service",
+        "customer satisfaction",
+        "training",
+        "team coordination",
+        "policy and procedures",
+        "inspections",
+        "QA",
+        "materials testing",
+        "field testing",
+        "geology",
+        "lab management",
+        "office",
+        "communication"
+    ],
+    "experience": [
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name, City, State",
+            "start_date": "",
+            "end_date": "Present",
+            "description": "Extensive experience assisting customers with purchases and returns, constructing displays, and training new employees; involved in policy and procedures; awarded customer satisfaction card; served as alternate customer service supervisor."
+        },
+        {
+            "title": "Construction Materials Technician",
+            "company": "Company Name, City, State",
+            "start_date": "",
+            "end_date": "",
+            "description": "Handled highway construction plans, construction inspection procedures and specifications; materials testing procedures; used personal computers and applicable software. Coordinated construction schedules with necessary parties and ensured work conformed to approved plans, standards, and specifications. Travel for out-of-town projects was common."
+        },
+        {
+            "title": "Construction Quality Assurance Inspector",
+            "company": "Company Name, City, State",
+            "start_date": "",
+            "end_date": "",
+            "description": "Provided relocation assistance as a Special Ministry counselor; identified client problems, presented solutions, and worked in a team setting. Informed clients of prerequisites for assistance, assessed information, and collaborated with team on recommended decisions. Collaborated with private contractors, the public, and State management to ensure compliance with approved plans, standards, and specifications. Prepared and submitted field task reports of materials sampled and field tests to State district head office, with QA calculations; classified as a Level II State inspector after first assignment."
+        },
+        {
+            "title": "Geologist/Assistant Lab Manager",
+            "company": "Company Name, City, State",
+            "start_date": "",
+            "end_date": "",
+            "description": "Supervised geologic and geophysical activities involving various analyses, data interpretation, and preparation of geologic report findings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Political Science",
+            "school": "Morehead State University",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "ACI Concrete Field Testing Grade 1 Cert.01029787",
+        "OSHA 40-hour Hazmat training",
+        "OSHA 8-hour Refresher",
+        "Troxler Nuclear Gauge Safety Training, Class #0110486",
+        "Life and Health Insurance certificate (DOI#642125)",
+        "Building Performance Institute, Analyst Professional"
+    ],
+    "languages": []
+}

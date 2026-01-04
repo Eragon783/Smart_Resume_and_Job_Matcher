@@ -1,0 +1,64 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am an aspiring programming professional with experience in concessions management, customer service, and team leadership.",
+    "skills": [
+        "C++",
+        "Java",
+        "Ruby",
+        "MatLab",
+        "Linux/Unix Command Line",
+        "LaTex",
+        "Microsoft Office",
+        "Data-Structure Construction and Management",
+        "Advanced Calculus",
+        "Discrete Mathematics",
+        "Linear Algebra"
+    ],
+    "experience": [
+        {
+            "title": "Game Design Intern",
+            "company": "Company Name",
+            "start_date": "November 2016",
+            "end_date": "Present",
+            "description": "Oversight of documentation and file organization. Level Designer, including enemy, items, and basic layout. Co-Designer for general game mechanics."
+        },
+        {
+            "title": "Concessions Supervisor",
+            "company": "Company Name",
+            "start_date": "June 2016",
+            "end_date": "Present",
+            "description": "Served as mentor to junior team members. Filled out daily paperwork; inventory logs, staff time logs, etc. Oversight of multiple concession stands serving a variety of items."
+        },
+        {
+            "title": "Food Service Clerk",
+            "company": "Company Name",
+            "start_date": "September 2014",
+            "end_date": "July 2015",
+            "description": "Prepared food items and cooked on a grill or in fryers. Carefully maintained sanitation, health and safety standards in all work areas. Performed general maintenance duties. Took initiative to find extra tasks when scheduled duties were completed. Took necessary steps to meet customer needs and effectively resolve food or service issues."
+        },
+        {
+            "title": "Customer Service Representative / Cook",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "August 2014",
+            "description": "Prepared items according to written or verbal orders while performing extensive multitasking. Cleaned food preparation areas, cooking surfaces, and utensils. Closely followed standard protocols for safe food preparation, assembly, and presentation to ensure customer satisfaction. Up-sold additional menu items, beverages and desserts to increase restaurant profits. Took necessary steps to meet customer needs and effectively resolve food or service issues. Assisted manager in ensuring smooth operation of store in all aspects."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "New Tech High @ Coppell",
+            "year": "2015"
+        },
+        {
+            "degree": "Bachelor of Science",
+            "school": "Texas A&M University",
+            "year": "2019"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

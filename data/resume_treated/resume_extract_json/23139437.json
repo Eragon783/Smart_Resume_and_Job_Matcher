@@ -1,0 +1,65 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Edison, New Jersey",
+    "summary": "Veterinarian Assistant certificate holder with Pet First Aid certification, volunteer experience at a local animal shelter, and background in customer service. Interested in veterinary medicine; hardworking, organized, friendly, and good with people and animals.",
+    "skills": [
+        "Pet first aid",
+        "Veterinary nursing",
+        "Pharmacology",
+        "Customer service",
+        "People skills",
+        "Organization",
+        "Patience",
+        "Hardworking",
+        "Friendliness"
+    ],
+    "experience": [
+        {
+            "title": "Summer Camp Counselor",
+            "company": "Company Name, City, State",
+            "start_date": "June 2012",
+            "end_date": "August 2013",
+            "description": "Summer camp counselor for kids ages 3 and 4. Involved in arts and crafts and outdoor activities."
+        },
+        {
+            "title": "Sales Associate / Cashier",
+            "company": "Company Name, City, State",
+            "start_date": "November 2012",
+            "end_date": "October 2015",
+            "description": "Sales associate, helping customers and taking care of shipments."
+        },
+        {
+            "title": "Usher",
+            "company": "Company Name, City, State",
+            "start_date": "June 2014",
+            "end_date": "September 2014",
+            "description": "Directed people to their seats and scanned tickets."
+        },
+        {
+            "title": "Sales Associate / Cashier",
+            "company": "Company Name, City, State",
+            "start_date": "June 2013",
+            "end_date": "Current",
+            "description": "Cashier and help customers with whatever they need."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Veterinarian Assistant Certificate",
+            "school": "Middlesex County College",
+            "year": 2015
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Sayreville War Memorial High School",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "Veterinarian Assistant Certificate",
+        "Pet First Aid Certificate"
+    ],
+    "languages": []
+}

@@ -1,0 +1,63 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Friendly and enthusiastic with over six years of specialization in hospitality. Able to learn new tasks quickly and proficient in growing key customer relationships. Represent establishment with friendly, professional demeanor at all times. Able to work in a fast paced establishment and passionate about exceeding expectations.",
+    "skills": [
+        "advertising",
+        "balance sheets",
+        "calculators",
+        "cash receipts",
+        "cash registers",
+        "catalog",
+        "commodities",
+        "credit",
+        "Critical Thinking",
+        "Resolve customer complaints",
+        "Decision Making",
+        "Electronics",
+        "special events",
+        "features",
+        "focus",
+        "Inspect",
+        "Issue receipts",
+        "mark",
+        "marketing",
+        "money",
+        "policies",
+        "Reading",
+        "Read",
+        "real estate",
+        "Sales",
+        "scanners",
+        "staffing",
+        "tables",
+        "telephone"
+    ],
+    "experience": [
+        {
+            "title": "Sales Manager",
+            "company": "Company Name, City, State",
+            "start_date": "01/2015",
+            "end_date": "07/2015",
+            "description": "Active Learning, Social Perceptiveness, Reading Comprehension, Computers and Electronics. Picker Amazon. Obtain merchandise from bins or shelves. Resolve customer complaints regarding sales and service."
+        },
+        {
+            "title": "Cashier",
+            "company": "Zaxbys",
+            "start_date": "09/2014",
+            "end_date": "01/2015",
+            "description": "Receive payment by cash, check, credit cards, vouchers, or automatic debits. Maintain clean and orderly checkout areas and complete other general cleaning duties, such as mopping floors and emptying trash cans. Monitor customer preferences to determine focus of sales efforts. Plan parties or other special events and services. Perform marketing and advertising services. Assist customers by providing information and resolving their complaints. Establish or identify prices of goods, services or admission, and tabulate bills using calculators, cash registers, or optical price scanners. Greet customers entering establishments. Answer customers' questions, and provide information on procedures or policies. Sell tickets and other items to customers. Process merchandise returns and exchanges. Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and that there is adequate change. Calculate total payments received during a time period, and reconcile this with total sales."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Ringgold High School",
+            "year": "2012"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

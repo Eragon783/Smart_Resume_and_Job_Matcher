@@ -1,0 +1,71 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I taught 5th, 2nd, and 3rd grade for the last fifteen years. I typically worked with general education students, collaboratively teaching with special educations teachers as well. Enthusiastic teacher effective at providing high quality instruction and fostering a positive learning environment for all students. Superb leadership, organization, and communication skills. Easily cultivates trusting and productive relationships with students, parents, teachers and administration. Mature and professional who adapts to new situations and technologies with ease.",
+    "skills": [
+        "Virginia postgraduate professional license",
+        "Critical thinker",
+        "Calm under pressure",
+        "Decisive",
+        "Mediation and advocacy talent",
+        "Curriculum development and long term planning",
+        "highly organized",
+        "excellent work ethic",
+        "Proficiency with Promethean Board",
+        "Computer literacy",
+        "Interpersonal skills and communication"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "08/2002",
+            "end_date": null,
+            "description": "Established positive relationships with students, parents, fellow teachers and school administrators. Created lesson plans in accordance with state curriculum and school-wide curriculum standards. Strengthened parent-teacher and parent-child communication by holding regular parent-teacher conferences. Named Teacher of the Year by peers in 2015."
+        },
+        {
+            "title": "Assistant Teacher",
+            "company": "Company Name",
+            "start_date": "02/2001",
+            "end_date": "02/2002",
+            "description": "Responsible for twenty students ages five to eight years old in a before and after school childcare setting. Summer camp session full time care for ages five to eleven and includes chaperoning weekly field trips, providing transportation on passenger buses, and knowledge of first aid procedures."
+        },
+        {
+            "title": "Senior Support Representative",
+            "company": "Company Name",
+            "start_date": "02/1998",
+            "end_date": "02/2001",
+            "description": "Resource for customer service and technical problems for eight on-line support technicians for this E-classified ad service."
+        },
+        {
+            "title": "Customer Service / Administrator",
+            "company": "Company Name",
+            "start_date": "02/1996",
+            "end_date": "02/1998",
+            "description": "Created and maintained Customer Service Training manual for online classifieds company. Provided internal and external customer service via e-mail and system troubleshooting."
+        }
+    ],
+    "education": [
+        {
+            "degree": "AA in Child Development",
+            "school": "DE ANZA College",
+            "year": 1998
+        },
+        {
+            "degree": "BS in Psychology",
+            "school": "Virginia Commonwealth University",
+            "year": 2002
+        },
+        {
+            "degree": "Masters in Teaching",
+            "school": "Virginia Commonwealth University",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        "Virginia postgraduate professional license"
+    ],
+    "languages": []
+}

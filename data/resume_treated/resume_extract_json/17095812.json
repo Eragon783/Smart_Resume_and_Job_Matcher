@@ -1,0 +1,82 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Los Angeles, California",
+    "summary": "Dedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company success. Automotive/Motor Vehicle, Healthcare – Pharmacy Technician. Highly enthusiastic customer service professional with 20 years client interface experience, including 15 years in the automotive industry. Qualified Customer Service Manager offering a track record of successful job performance, problem-solving ability, and experience developing and implementing innovative solutions. Experienced in call centers, customer support in high-volume environments, and proficiency with data collection, reporting, and executive management support.",
+    "skills": [
+        "Customer Service Expert",
+        "Adaptive Team Player",
+        "Excellent Telephone Etiquette",
+        "Creative Problem Solving",
+        "Critical Thinking",
+        "Data Collection",
+        "Data Entry",
+        "Documentation",
+        "Email",
+        "Executive Management Support",
+        "Filing",
+        "Grammar",
+        "Strong Organizational Skills",
+        "Public Relations",
+        "Enthusiastic People Person",
+        "Advanced Problem-Solving",
+        "Active Listening",
+        "Professional and Friendly",
+        "Multitasking",
+        "Client Relations",
+        "Computer Proficiency",
+        "Great Telephone Skills"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Manager",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2011-01",
+            "description": "Problem Solver, Energetic Work Attitude. Accomplishments included customer assistance, market research through client interviews to identify product issues and customer needs, resolving client conflicts to prevent loss of key accounts, and providing required weekly, monthly and quarterly reports listing sales figures and client track records."
+        },
+        {
+            "title": "Customer Service Call Center",
+            "company": "Airport Marina Ford",
+            "start_date": "2011-05",
+            "end_date": "2012-07",
+            "description": "Organized weekly sales reports for the sales department to track product success. Guaranteed positive customer experiences and resolved all customer complaints. Demonstrated mastery of customer service call script within specified time frames. Collected customer feedback and made process changes to exceed customer satisfaction goals. Addressed customer service inquiries in a timely and accurate manner. Maintained up-to-date records. Developed effective relationships with all call center departments and worked with upper management to implement improvements. Built customer loyalty by following up with customers who reported product issues. Directed inbound calls to improve call flow and generated additional service and sales leads."
+        },
+        {
+            "title": "Customer Representative",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2009-01",
+            "description": "Developed new customer prospects or referrals. Managed outbound and inbound phone calls, invited customers to dealership promotions. Followed leads and scheduled appointments for service department. Supervised department activities to ensure team performance. Contacted customers to discuss product needs. Generated new sales opportunities through direct selling and emails. Organized weekly sales reports and created new processes to improve customer service satisfaction. Achieved high sales percentages with a consultative, value-focused approach. Interacted with customers and retail buyers to track shipping statuses and expedite orders. Responded to inquiries and assisted with store and product complaints."
+        },
+        {
+            "title": "Business Development Center - Customer Representative",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": null,
+            "description": "California-based duties included making outbound calls to invite customers to the dealership for new promotions, following leads, scheduling service appointments, assisting customers with store and product complaints, compiling weekly monetary reports, and generating new sales and service leads via telephone and email."
+        },
+        {
+            "title": "Customer Relations",
+            "company": "Company Name",
+            "start_date": "2000-03",
+            "end_date": "2005-07",
+            "description": "Assisted customers with store and product complaints. Compiled weekly monetary reports and records for store managers. Organized weekly sales reports for the sales department to track product success. Created new processes and systems for increasing customer service satisfaction. Developed empathetic client relationships and earned a reputation for exceeding sales goals. Managed communication, customer support, and product representation. Responded to service requests and expedited orders; ensured positive customer experiences."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Pharmacy",
+            "school": "Carree College of America",
+            "year": "2002"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Thomas Jefferson High School",
+            "year": "1994"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

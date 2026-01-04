@@ -1,0 +1,95 @@
+{
+    "name": "Tom P. Patnaik",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior business development manager with 20+ years of experience in sales management, marketing and applications engineering of filtration and drying systems for bio-pharmaceuticals, fine chemicals, agro-chemicals and other industries. Demonstrated ability to drive high-value revenue growth, develop strategic roadmaps, lead cross-functional teams, and expand sales channels through consultative selling and solution-focused approaches.",
+    "skills": [
+        "Sales",
+        "Marketing",
+        "Consultative Sales",
+        "Direct Sales",
+        "Product Management",
+        "Product Positioning",
+        "Product Lifecycle Management",
+        "Strategic Planning",
+        "Business Development",
+        "Internet Marketing",
+        "Search Engine Optimization",
+        "Filtration",
+        "Chromatography",
+        "Mixing",
+        "Engineering",
+        "Asset Management",
+        "Operations",
+        "Training",
+        "Prototyping",
+        "Sales Channels",
+        "Auditing",
+        "Business Analysis",
+        "Financial Operations"
+    ],
+    "experience": [
+        {
+            "title": "Senior Business Development Manager",
+            "company": "Company Name - City, State",
+            "start_date": "May 2014",
+            "end_date": "March 2015",
+            "description": "Growing engineering services to major Food & Beverage and Chemical clients through strategic alliances, creating new service solutions such as product lifecycle management, asset management, enterprise mobility and Internet of Things; familiar with onsite-offshore engagement models. Actively scoped and proposed near-shore engineering center; worked with Coca Cola, DuPont, BASF among others."
+        },
+        {
+            "title": "Director, Sales & Marketing",
+            "company": "Company Name - City, State",
+            "start_date": "April 2011",
+            "end_date": "May 2014",
+            "description": "Turned around the sales and profitability of a European manufacturer of centrifuges, filters, dryers and ball valves for bio-pharmaceuticals, specialty chemicals, agro-chemicals and other industries through strategic direction and direct selling/rep channels; more than doubled sales in 2 years and built a robust sales funnel."
+        },
+        {
+            "title": "Sales/Application Engineer",
+            "company": "Company Name - City, State",
+            "start_date": "June 2007",
+            "end_date": "April 2011",
+            "description": "Provided direct sales and application engineering expertise to users of size-reduction, classifying, mixing and drying equipment as well as down-flow/laminar flow booths and active/passive isolation systems to the specialty chemicals, minerals and other industries; leveraged consultative sales to generate annual bookings."
+        },
+        {
+            "title": "Consultant",
+            "company": "Company Name - City, State",
+            "start_date": "January 2003",
+            "end_date": "January 2007",
+            "description": "Provided sales, marketing, process and application engineering expertise to users of process equipment in life-science, chemical, mining and other industries for a specialized centrifuge consulting firm."
+        },
+        {
+            "title": "Manager, Sales and Marketing",
+            "company": "Company Name - City, State",
+            "start_date": "December 1997",
+            "end_date": "January 2002",
+            "description": "Led sales and marketing management to launch several filtering centrifuge products to pharmaceutical, fine chemical, biotech customers worldwide through strategic planning, sales channel setup, marketing communications planning and event management; established design office and overseas manufacturing partner."
+        },
+        {
+            "title": "Product Manager",
+            "company": "Company Name - City, State",
+            "start_date": "April 1993",
+            "end_date": "November 1997",
+            "description": "Responsible for filtration equipment sales/marketing to bio-pharmaceuticals, chemicals, and other customers; liaised with Swiss partner to launch high-dollar filter in the US for chromatography resin filtration; frontline sales/training, marketing collateral, pricing strategy, product positioning, trade-show participation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Marketing",
+            "school": null,
+            "year": null
+        },
+        {
+            "degree": "BS in Mechanical Engineering",
+            "school": null,
+            "year": null
+        },
+        {
+            "degree": "MS in Mechanical Engineering",
+            "school": null,
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

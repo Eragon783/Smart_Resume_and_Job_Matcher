@@ -1,0 +1,124 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Summary Personable, patient and adaptable Math tutor with 3 years of experience tutoring K-12 and college students in Mathematics. Highly reliable and approachable person with 8 years of professional experience in people management, leadership, documentation, multi-tasking, innovation and creativity, gained through the corporate world of Silicon Valley.",
+    "skills": [
+        "Tutoring",
+        "teaching",
+        "mathematics",
+        "algebra",
+        "geometry",
+        "English",
+        "content management",
+        "documentation",
+        "middle school & high school math",
+        "college math",
+        "presentation",
+        "analysis",
+        "grading and evaluation",
+        "problem solving",
+        "ESL students",
+        "technology integration",
+        "classroom monitoring",
+        "student assistance",
+        "Account management",
+        "customer care and satisfaction",
+        "data analysis",
+        "forecasting",
+        "inventory",
+        "quantitative analysis",
+        "leadership",
+        "operations management",
+        "procurement",
+        "project management",
+        "optimization",
+        "C",
+        "C++",
+        "MS Office Suite",
+        "Google Docs",
+        "SQL"
+    ],
+    "experience": [
+        {
+            "title": "Operational Excellence Lead",
+            "company": "Google Express",
+            "start_date": "2004-11",
+            "end_date": "2005-04",
+            "description": "Analyzed data using statistical analysis tools such as correlation and multiple regression analysis. Reviewed results and provided recommendations on system improvements, courier performance efficiency and capacity planning using various optimization and data analysis techniques. Identified operational areas that needed process and speed improvement to deliver orders faster."
+        },
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2014-02",
+            "description": "Supported the 77Looks application from pre-launch to current in marketing, content management, quality testing areas. Application won SF Fashion Tech Pitch Competition in June 2013 and company has reached approximately 1M active users."
+        },
+        {
+            "title": "Operations Manager",
+            "company": "Company Name",
+            "start_date": "2011-10",
+            "end_date": "2013-01",
+            "description": "Supervised a team of logistics analysts and warehouse staff in global warehouses. Defined the scope of key performance indicator (KPI) reports and analytical tools needed which helped decrease operational errors by more than 80%. Turned large data sets into actionable items in the form of order forecast reports, optimization tools and inventory reconciliation reports."
+        },
+        {
+            "title": "Senior Analyst",
+            "company": "Company Name",
+            "start_date": "2010-10",
+            "end_date": "2011-10",
+            "description": "Supported global operations by ensuring warehouse productivity, inventory accuracy, timeliness of order fulfillment and shipments. Documented standard operating procedure(SOPs) and work flow processes for the use of operations and customer support teams."
+        },
+        {
+            "title": "Account Manager and Logistics Analyst",
+            "company": "Company Name",
+            "start_date": "2007-07",
+            "end_date": "2010-10",
+            "description": "Managed customer accounts in different industries to ensure on time delivery of shipments for import and export operations. Supervised and trained new users for procurement and warehouse management system."
+        },
+        {
+            "title": "Volunteer Math Tutor",
+            "company": "Company Name",
+            "start_date": "2015-09",
+            "end_date": "Current",
+            "description": "Tutored students in Algebra, Geometry, Statistics Attended Algebra classes to provide special assistance to English language learners ( ELLs) and help them understand the content and express their grasp of mathematical concepts both orally and in writing."
+        },
+        {
+            "title": "Volunteer Math Tutor",
+            "company": "Company Name",
+            "start_date": "2015-04",
+            "end_date": "2015-05",
+            "description": "Assisted students in Algebra I and II by providing volunteer teaching during flex time hours which is a class period when students visit a chosen class to seek help with struggles or expand on their interests."
+        },
+        {
+            "title": "Teaching Assistant",
+            "company": "Company Name",
+            "start_date": "2005-09",
+            "end_date": "2007-05",
+            "description": "Edited several business forecasting and operations management thesis papers for journal publications. Graded exam papers and evaluated operations management and total quality systems class assignments. Assisted in operations analysis, statistics and mathematics related work as assigned."
+        },
+        {
+            "title": "Mathematics and Statistics Tutor",
+            "company": "Company Name",
+            "start_date": "2005-09",
+            "end_date": "2006-09",
+            "description": "Tutored students in mathematics, statistics and probability, estimation, hypothesis tests, regression analysis, and correlation, quantitative analysis of production management and control with related computer applications and optimization techniques, inventory control, demand forecasting."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration : Decision Sciences",
+            "school": "San Francisco State University",
+            "year": 2007
+        },
+        {
+            "degree": "Bachelor of Science : Mathematical Engineering",
+            "school": "Yildiz Technical University",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

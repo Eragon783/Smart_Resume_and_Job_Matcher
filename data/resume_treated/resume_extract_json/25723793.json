@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Sales professional with extensive experience in account management, business development, and marketing across education and digital media sectors. Proven track record of growing pipelines, managing cross-functional teams, and exceeding sales targets through strong relationships and strategic planning.",
+    "skills": [
+        "SAAS",
+        "Microsoft Access",
+        "Excel",
+        "Word",
+        "Power Point",
+        "InDesign",
+        "Adobe Photoshop",
+        "Salesforce",
+        "Quicken",
+        "accounting",
+        "ad",
+        "advertising",
+        "analyst",
+        "broadcast",
+        "budget",
+        "bi",
+        "Coach",
+        "com",
+        "competitive",
+        "conversion",
+        "client",
+        "clients",
+        "educational programs",
+        "Forecasting",
+        "inventory",
+        "marketing analysis",
+        "marketing",
+        "market",
+        "marketing materials",
+        "new construction",
+        "POs",
+        "pricing",
+        "relationship management",
+        "selling",
+        "sales",
+        "shipping",
+        "Strategic",
+        "supply chain",
+        "teacher",
+        "transportation",
+        "unique"
+    ],
+    "experience": [
+        {
+            "title": "Sales Representative",
+            "company": "Company Name, City, State",
+            "start_date": "03/2014",
+            "end_date": "Current",
+            "description": "Responsible for day-to-day relationship management of over 40 clients regarding planning, production, marketing, sales and distribution of Josten's yearbook program; maintained account volume over 700k, led the lifecycle of customer programs from idea generation to marketing campaigns, and used Salesforce to log communications and update the new business pipeline; built partnerships with school administration and staff; contributed to YoY growth and achieving 50% to goal for 2017 new business."
+        },
+        {
+            "title": "Digital Media Sales Representative",
+            "company": "Company Name, City, State",
+            "start_date": "08/2012",
+            "end_date": "03/2014",
+            "description": "Managed online advertising for over 60 dealer partners; sold Cars.com ad packages and ancillary products; advised on allocation of advertising budgets using SEO/paid search/traditional media analyses; coached dealerships on best practices; conducted monthly marketing reviews; negotiated a largest sale to date in Philadelphia (May 2013); Presidents Club - Exceeded 2013 sales goal by 228%; Awarded Top Digital Media Representative for new volume growth (2013); Awarded Top Cars 360 net unit sales certificate of Achievement (2013)."
+        },
+        {
+            "title": "Senior Sales Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "08/2011",
+            "end_date": "08/2012",
+            "description": "Managed daily communication between supply chain, account managers, transportation, accounting, and compliance departments solving a wide variety of ad-hoc requests; appointed to handle 'Strategic National Accounts' - the largest and most profitable Braskem accounts; analyzed customer purchase orders and forecasting; developed a bi-monthly account analysis model adopted companywide; led prospecting survey for Braskem at National Plastics Exposition 2012."
+        },
+        {
+            "title": "Sales and Marketing Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "06/2010",
+            "end_date": "08/2011",
+            "description": "Created marketing materials for home sales and assisted with open houses; prepared comparative marketing analyses to obtain new clients; increased client base by developing relationships with current clients through online media; staffed new construction sites and assisted in marketing for new homes."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Marketing International Business",
+            "school": "Pennsylvania State University, Smeal College of Business",
+            "year": "2010"
+        }
+    ],
+    "certifications": [
+        "Presidents Club - Exceeded 2013 sales goal by 228%",
+        "Awarded Top Digital Media Representative for new volume growth (2013)",
+        "Awarded Top Cars 360 net unit sales certificate of Achievement (2013)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

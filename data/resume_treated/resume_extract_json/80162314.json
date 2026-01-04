@@ -1,0 +1,64 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Minneapolis, MN",
+    "summary": "Dependable Self-motivated and assertive Human Resources Professional with innovative solutions and personal accountability who incorporates quality decision making to facilitate success and who promotes a team-oriented and open-door environment that is conducive to a successful staff.",
+    "skills": [
+        "Staff Recruitment & Retention",
+        "Employee Relations",
+        "Retirement Payroll",
+        "Health and Welfare",
+        "HR Program/Project Management",
+        "Orientation & On-boarding",
+        "Training & Development",
+        "Performance Management",
+        "Leave of Absence and Ethics",
+        "HR Policies & Procedures",
+        "Organizational Development"
+    ],
+    "experience": [
+        {
+            "title": "HR Professional",
+            "company": "Company Name City, State",
+            "start_date": "2013-04",
+            "end_date": "2014-06",
+            "description": "Respond to and resolve issues or questions raised by employees or leaders regarding benefits, payroll, HR policies/procedures, general transactions or other HR-related activities. Utilizes in-bound phone queue, e-mail, and face to face to receive inquiries as well as provide resolution. Provide accurate information and counsel to employees and/or people leaders on their questions and issues, escalating when appropriate. Act as the first point of contact for employee/manager questions - Confirmation of employments with various external agencies and liaise with third party callers. Trainer for new employees and new procedures. Handles highly sensitive and confidential information on a daily basis, and acts as a liaison between customer and 2nd level support. Assist employees with all matters regarding leaves, including short-term disability and long term disability, and assist employees with questions and concerns regarding, work environment, problems with management, leave of absence, resignations etc. Thoroughly document and record all inquiries and resolutions within the information tracking database to ensure the recording of complete information for future reference and archival purposes. Document escalation issues including party to whom matter was escalated. Begin applying troubleshooting techniques to issues that are more complex in nature; determine when escalation to a team leader or specialist is appropriate to the situation. Process HR and/or payroll transactions in the HR Management System (HRMS) Validate accuracy of all transactions, particularly those affecting employee levels, pay or benefits. Receive and make telephone calls to respond to, and resolve customer inquiries and concerns."
+        },
+        {
+            "title": "HR Assistant",
+            "company": "Liyanage & Co, City, State",
+            "start_date": "2011-07",
+            "end_date": "2013-05",
+            "description": "Trained under and worked with senior management to create HR policies and procedures; recruit employees; create group benefits databases; and develop orientation, training and incentive programs. Manage leave-of-absence programs and personnel records; administer benefits enrollment and programs; administer HR budget; and handle HR assistant workplace issues. Employee recruiting strategy Developed and enforced company policy and procedures Developed company personnel policies Facilitated the criminal background check Managed the employee rewards programs, Surveys and research. Updated key human resource metrics, including turnover and terminations, using reporting tools on the HRMS database"
+        },
+        {
+            "title": "Client/Advisor Professional",
+            "company": "Ameripise Financial, Minneapolis MN",
+            "start_date": "2011-11",
+            "end_date": "2012-07",
+            "description": "A leading company in financial planning Assist advisor and clients in processing and maintain financial products and services offerings. Provide guidance and assistance on updating consumer lending products and other financial products. Interacting with intra-company teams and providing assistance in completing customer cases and product offerings. Guide advisors and clients through estate settlement, ownership changes, marital status changes and beneficiary changes."
+        },
+        {
+            "title": "Personal Banker",
+            "company": "Wells Fargo Bank, Minneapolis MN",
+            "start_date": "2008-09",
+            "end_date": "2011-09",
+            "description": "Customer assistance for personal/business/consumer lending products Working with Wells Fargo partners in privet banking, insurance, mortgage, investment and retirement to increase solutions and profits. Coaching and working with tellers and customer representatives in maximizing service and sales solutions. Helping to bring branch customer satisfaction scores up and striving to meet optimum customer satisfaction resulting in successful survey outcomes for branch. Working as a loan office, originator, opening and maintaining consumer loans"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts in Human Resources Management",
+            "school": "Concordia University",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Arts in Art (HR &amp; Communication)",
+            "school": "University of Colombo",
+            "year": 2007
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

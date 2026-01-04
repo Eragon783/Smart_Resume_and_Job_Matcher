@@ -1,0 +1,102 @@
+{
+    "name": "",
+    "email": "",
+    "phone": null,
+    "location": "Netanya, Israel",
+    "summary": "2 years of frontend development experience (React/Redux) with a strong foundation in JavaScript, Python, Java, C# and .NET. Proficient in React, Redux, Redux Toolkit, Styled-components, and React Hook Form; HTML5, CSS3, SCSS, Bootstrap, jQuery, and Google Maps API. Familiar with Node.js, JSX, JSON, XML, NPM, YARN, AJAX, and UML. Proficient with VS Code, WebStorm, IntelliJ IDEA, and Eclipse; experience with REST APIs, Postman, and QA tooling. Databases include MySQL, MongoDB, and T-SQL. Comfortable working in Windows and Linux environments and collaborating in Agile teams.",
+    "skills": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "C#",
+        ".NET",
+        "React",
+        "Redux",
+        "Redux Toolkit",
+        "Styled-components",
+        "React Hook Form",
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "Bootstrap",
+        "jQuery",
+        "Google Map API",
+        "Node.js",
+        "JSX",
+        "JSON",
+        "XML",
+        "NPM",
+        "YARN",
+        "AJAX",
+        "UML",
+        "Microsoft Visual Studio Code",
+        "WebStorm",
+        "IntelliJ IDEA",
+        "Eclipse",
+        "iRidium Mobile",
+        "Extron Global Configurator",
+        "Crestron SW-SIMPL",
+        "GitHub",
+        "Heroku",
+        "Firebase",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Figma",
+        "Jira",
+        "Slack",
+        "REST API",
+        "Postman",
+        "React Profiler",
+        "Redux DevTools",
+        "MySQL",
+        "MongoDB",
+        "T-SQL",
+        "Windows",
+        "Linux"
+    ],
+    "experience": [
+        {
+            "title": "Frontend Developer",
+            "company": "Unknown (Rehovot, Israel)",
+            "start_date": "2021",
+            "end_date": "Present",
+            "description": "Main project: platform for finding employees for companies. Participated in project development. Created platform visuals according to template file. Created users with access role definitions. Code refactoring. Created forms to send data to database and authorization forms. Sorting algorithms based on user-selected options. Rendering UI using React Router DOM. Integrated new technologies and replaced outdated. Represented team interests to supervisors. Participated in all stages of product life cycle. Extensively used GitHub for version control in an agile environment. Technologies used: HTML, CSS, JavaScript, React, React Router DOM, React Hook Form, Redux."
+        },
+        {
+            "title": "MES Architect, UI Developer",
+            "company": "St.Petersburg, Russia",
+            "start_date": "2019",
+            "end_date": "2021",
+            "description": "Main project: MES system for ALROSA mines. Designed UI for MES Systems, data-flow diagrams, and all logic for MES System. Support for C# applications. Wonderware System Platform project testing, maintenance and deployment. Arrangement of reservation, stage-by-stage updating of the system at the facility. Communication with technical support, installation of fixes. Participated in the development of the BI service on Vanilla JavaScript."
+        },
+        {
+            "title": "Control System Programmer",
+            "company": "St.Petersburg, Russia",
+            "start_date": "2015",
+            "end_date": "2019",
+            "description": "Main project: School of Engineering and Technology. Development of a management system. Development of control interfaces for smart equipment. Designed UI interface for Desktop App, Designed UI interface for Mobile (Tablet). Writing utilities in C# for integrating various equipment with control systems. Used: JavaScript, C#, Python, Adobe Illustrator, Extron Global Configurator, iRidium Mobile."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor in Informatics",
+            "school": "Polytechnic University (SPbPU), Faculty of Technical Cybernetics, St.Petersburg, Russia",
+            "year": "2014"
+        },
+        {
+            "degree": "T-SQL for beginners",
+            "school": "Udemy (Online course)",
+            "year": "2019"
+        },
+        {
+            "degree": "Web Development for Developers",
+            "school": "Scrimba (Online course)",
+            "year": "2020"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Russian"
+    ]
+}

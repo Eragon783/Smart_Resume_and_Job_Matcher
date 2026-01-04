@@ -1,0 +1,93 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "",
+    "skills": [
+        "Accounting",
+        "Accountant",
+        "Accounts Payable",
+        "balance sheet",
+        "Budget Planning",
+        "CMS",
+        "Controller",
+        "credit",
+        "data mining",
+        "senior management",
+        "Finance",
+        "financial",
+        "Financial Analyst",
+        "financial statements",
+        "fixed assets",
+        "hard drive",
+        "inventory",
+        "leadership",
+        "macros",
+        "Microsoft Access",
+        "Microsoft Excel",
+        "Excel",
+        "office",
+        "Monarch",
+        "month end close process",
+        "month end close",
+        "next",
+        "PeopleSoft",
+        "coding",
+        "reporting",
+        "sales",
+        "spreadsheet",
+        "Supervisor",
+        "Tax",
+        "phones"
+    ],
+    "experience": [
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "August 2013",
+            "end_date": "Present",
+            "description": "Experience in close processes, journal entries, balance sheet reconciliations, and system implementations. Lead person for close activities, prepared and entered 30 journal entries and 35 balance sheet reconciliations. Developed new and easier ways of doing journal entries for month end, reducing keying time by a day and a half. Revamped cost reporting and 990 templates using Excel to simplify data entry for colleagues. Cut down lead and processing time for submissions for senior leadership. Served as point person to install and run PeopleSoft Finance at St. Mary's Hospital, including staff training and development of financial statements. Assisted hospital directors with AOP planning for the next fiscal year and contributed to a $5 million EBIDA turnaround in fiscal year 2015. Maintained and tracked $75 million in hospital fixed assets. Developed FTE position control productivity report using complex queries in Microsoft Access."
+        },
+        {
+            "title": "Staff Accountant/ IT",
+            "company": "Company Name",
+            "start_date": "June 2006",
+            "end_date": "August 2013",
+            "description": "Assisted in financial month end close with over 20 journal entries and 25 balance sheet reconciliations. Developed various reports (sales, TGP, and contribution margin) using Microsoft Access and Excel. Led division in creating projects to extract data from reports into Excel using Monarch. Developed over 30 models, created Excel macros to simplify month end entries, and rolled out automated reporting to sales force and senior management. Led IT department activities and maintained division IT infrastructure. Created IT asset tracking reports and a disaster recovery checklist. Built a sales performance report in Excel showing individual sales, TGP, and cases with name-based filtering."
+        },
+        {
+            "title": "Accounts Payable/ IT",
+            "company": "Company Name",
+            "start_date": "December 2003",
+            "end_date": "June 2006",
+            "description": "Managed Accounts Payable invoicing, obtained management signatures, followed up on discrepancies, and assisted in obtaining purchase orders. Developed a fuel expense tracking spreadsheet for operations. Assisted in month end close and took over sales tax and beverage tax journal entries for the division. Responsible for 5 balance sheet reconciliations and created trackers for customer credits and reimbursements. Developed reports on purchase order shortages by vendor and warehouse ID."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "March 2001",
+            "end_date": "December 2001",
+            "description": "Reported to Assistant Controller. Managed inventory for 15 Sprint stores, led month end inventory counts, and reconciled results with purchase orders and sales. Managed processes for stolen, warranty, and damaged phones to ensure correct credits from Sprint."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Western Illinois University",
+            "year": 2000
+        },
+        {
+            "degree": "Accounting Associates Degree",
+            "school": "Black Hawk College",
+            "year": 1997
+        }
+    ],
+    "certifications": [
+        "IRS 990 Tax Reporting & Submission",
+        "CMS Cost Reporting Submission",
+        "Property Tax Exemption Submission",
+        "AOP Budget Planning"
+    ],
+    "languages": []
+}

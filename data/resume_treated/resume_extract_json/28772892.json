@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "EXCEPTIONAL SPECIAL EDUCATION PROFESSIONAL SEEKING DIRECTOR POSITION Passionate educator who strongly believes that all students can achieve excellence. Goal oriented scholar with excellent communication skills and proven ability in making connections and building rapport with school personnel, students, parents, interagency teams, and community organizations. Strive to support and enhance the lives of the visually impaired community who is currently underserved. Areas of Excellence: business/human resource management * special education laws * data analysis interviewing & staffing * RTI/MSDI * school-wide PBS instruction & planning * employee development * IDEA compliance budgeting * instructional coaching * progress monitoring scheduling * PD Facilitator * documentation",
+    "skills": [
+        "Special education",
+        "Data analysis",
+        "RTI/MSDI",
+        "PBIS (School-wide)",
+        "IDEA compliance",
+        "Budgeting",
+        "Instructional coaching",
+        "Progress monitoring",
+        "Professional development facilitation",
+        "Documentation",
+        "Vision rehabilitation services",
+        "Pre-employment transition services"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "2017-08",
+            "end_date": "Present",
+            "description": "Collaborate with professional staff to create comprehensive youth team goals and advocate for the needs of students with visual impairments. Work with a team of low-vision specialists in organizing extracurricular youth activities and providing vision rehabilitation services. Adapt teaching methods and materials to meet students' varying needs and interests. Active participant of IEP teams to set and implement goals, monitor progress, set next steps, and maintain accurate and complete service records. Encourage students with special academic and extracurricular interests to fully pursue passions. Diligently completing coursework to add-on certification for Teacher of the Visually Impaired (TVI), and pursue professional development continually by attending educational conferences and teacher training workshops. Instructed Pre-Employment Transition Services classes to high school students with exceptionalities in work based readiness and learning, job exploration counseling, self-advocacy, and post-secondary educational opportunities."
+        },
+        {
+            "title": "Special Education Coordinator",
+            "company": "Company Name",
+            "start_date": "2016-07",
+            "end_date": "2016-12",
+            "description": "Supported teacher case managers by driving compliance under the guidelines of IDEA, guiding case analysis, and coaching special education staff to promote optimal, specialized instruction and planning. Served as liaison with State Officials and related community based organizations. Met with parents and related personnel to resolve conflicts and concerns. Facilitated professional development sessions to address front-line issues with both special education and general education teachers. Propelled inclusive best practices through partnership with school leadership teams and by providing expert knowledge to improve overall student programs and services. Maintained special education resources and schedules to target the needs of all students with disabilities. Created and chaired the Special Education/Behavior Intervention Committee that collaboratively brainstormed and monitored behavior plans, enhanced school-wide positive behavior supports, tracked behavior incidents and truancy patterns, and conducted Manifestation Determination Review (MDR) procedures. Interviewed and staffed a fully functioning special education team of teachers and paraprofessionals. Initiated and developed a much needed traditional resource classroom to provide the lowest performing students an avenue to achieve academic growth, which in turn decreased behavior incidences across the board."
+        },
+        {
+            "title": "Mentor Teacher",
+            "company": "Company Name",
+            "start_date": "2004-08",
+            "end_date": "2016-06",
+            "description": "Observed, evaluated, and coached many first year special education teachers on best practices of effective classroom management, instruction, and planning. Taught new teachers many ways to differentiate instruction such as implementing student centers and shared learning activities, forming literacy circles, incorporating technology, and using assessment to guide instruction. Assisted them in executing an effective behavioral model suited for their particular classroom and numerous ways to organize their physical space. Notable Achievements: Chosen by LAE to be a Trainer of New Teachers in their facilitator program; Completed the Aspiring Leaders Program with the School Leadership Center of Greater New Orleans; Coached teachers on de-escalation and restorative practices thus changing mindsets on behavior management."
+        },
+        {
+            "title": "Special Education Teacher",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2016-01",
+            "description": "Resource and Inclusion Teacher. Created a rigorous, specialized academic setting for students with various exceptionalities in both the special education resource room and mainstream classroom settings utilizing data driven teaching methods. Improved each student's functional needs, knowledge and behavior to meet the goals of their IEP and conducted mini-workshops for all students who needed supplementary instruction. Collaboratively taught entire regular and special education classes with multiple co-teachers. Maintained documentation, data, and progress monitoring. Notable Achievements: Prepared students for standardized state tests with passing rates of 95 - 100% consecutively for a decade; Maintained one of the most revered classroom cultures that has continuously proven to turn-around the most challenging of behaviors; Scored 'Highly Effective' yearly on Compass Metrics every year of teaching; Earned a solid reputation for being one of the highest performing educators in the parish in student growth."
+        },
+        {
+            "title": "Educational Strategist, RTI Coordinator",
+            "company": "City",
+            "start_date": "2011-01",
+            "end_date": "2012-01",
+            "description": "Served on the Special Education Leadership Team in the central office and supervised school-based interventionist. Coordinated federal/state mandated Response to Intervention process for the entire parish. Conducted district-wide universal screenings and tracked student progress. Scheduled and facilitated meetings with school-based interventionists to ensure consistency of District RTI procedures. Coached district personnel on how to intervene appropriately with at-risk students and advised on ways to integrate data-proven techniques and how to analyze data to drive instruction and improve student achievement."
+        },
+        {
+            "title": "General Education Teacher",
+            "company": "Company Name",
+            "start_date": "2003-01",
+            "end_date": "2004-01",
+            "description": "Taught in an isolated, minority, urban community and delivered instructional activities that encouraged active learning experiences while effectively managing behavior and classroom organization."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Administration and Supervision",
+            "school": "Our Lady of Holy Cross College",
+            "year": "2008"
+        },
+        {
+            "degree": "Bachelor of Science in Human Resource Management",
+            "school": "Florida State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Teacher of the Visually Impaired (TVI) - in progress",
+        "Trainer of New Teachers - LAE facilitator program",
+        "Aspiring Leaders Program - School Leadership Center of Greater New Orleans"
+    ],
+    "languages": [
+        "English"
+    ]
+}

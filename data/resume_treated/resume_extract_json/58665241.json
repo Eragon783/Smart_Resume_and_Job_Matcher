@@ -1,0 +1,82 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am an imaginative teacher committed to staying current with the latest teaching theories and trends, as well as with behavioral studies. My strong subject areas include 7-12 English (ELA) (ESL) and psychology.",
+    "skills": [
+        "Teaching",
+        "ESL",
+        "ELA",
+        "Psychology",
+        "Connecticut teaching certification",
+        "Curriculum development",
+        "IEP modification",
+        "Technology integration",
+        "Common Core alignment",
+        "Classroom management",
+        "TESOL",
+        "Drama club coordination",
+        "After-school writing clubs",
+        "Literacy instruction",
+        "Assessment and standardized testing"
+    ],
+    "experience": [
+        {
+            "title": "English Teacher",
+            "company": "Company Name",
+            "start_date": "Oct 2014",
+            "end_date": "Jun 2015",
+            "description": "Helped students develop and improve study methods and habits; Worked cooperatively with special education and ESL teachers to modify curricula for special education and ESL students according to Individual Education Plans (IEPs); Continued to develop knowledge of my content area ELA through continued education courses; Established and enforced rules for behavior among students; Alerted administrators to any concerns about student performance and progress; Set and enforced clear deadlines for student work and integrated technology into the curriculum to develop students' word processing and research skills; Incorporated engaging texts to enhance literacy skills and foster a fun and engaging learning environment; Assessed student progress weekly, monthly and quarterly; Kept accurate records of student performance, maintaining the confidentiality of student records and information at all times; Participated in regular training courses to keep up-to-date with new teaching methods and developments in the field; Implemented remedial programs for students requiring extra help; Encouraged discussion of class material to promote critical thinking; Established positive relationships with students, parents, colleagues and administrators."
+        },
+        {
+            "title": "Professor of English",
+            "company": "Company Name",
+            "start_date": "Jan 2002",
+            "end_date": "May 2014",
+            "description": "Taught computerized reading and writing.. as well as general reading and writing in lecture/listen/discuss style. Presented all class material and policies accurately and clearly for 2 classes each semester; Used a variety of teaching methods such as lectures, discussions and demonstrations and technology; Encouraged discussion of class material to promote critical thinking among students; Participated in regular training courses to keep up-to-date with new teaching methods and developments in the field; Kept accurate records of student performance, maintaining the confidentiality of student records and information at all times;."
+        },
+        {
+            "title": "English Teacher",
+            "company": "Company Name",
+            "start_date": "Aug 2001",
+            "end_date": "Dec 2011",
+            "description": "Used a variety of teaching methods such as lectures, discussions and demonstrations-created oral feedback and critiques for writing assignments with each student having a chance to speak; Participated in data training and data teams/created forms for team and stats; Revised curricula to align with Common Core skills; Enforced both classroom and administration policies and rules at all times in my classroom and halls; Instituted SAT vocabulary technique in classwork;."
+        },
+        {
+            "title": "English Teacher",
+            "company": "Company Name",
+            "start_date": "Aug 1998",
+            "end_date": "Jun 2001",
+            "description": "Presented all class material and policies accurately and clearly for 5 classes each marking period; Implemented new strategies for classroom management; Used a variety of teaching methods such as lectures, discussions and demonstrations/technology; Met with parent/guardians to discuss students' progress at least once per MP; Enforced both classroom and administration policies and rules at all times; Created after school writing program; Revised curricula for ELA content area;."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. in Counseling Psychology",
+            "school": "Walden University",
+            "year": 2012
+        },
+        {
+            "degree": "Master of Science in English",
+            "school": "Southern CT State University",
+            "year": 1999
+        },
+        {
+            "degree": "Bachelor of Science in Education/English",
+            "school": "Southern CT State University",
+            "year": 1993
+        }
+    ],
+    "certifications": [
+        "Valid and Current Teaching Certification in Connecticut",
+        "Psi Chi International Honor Society",
+        "National Council of Teachers of English (NCTE)",
+        "American Psychological Association (APA)",
+        "Graduate Certificate in Women's Studies",
+        "National Institute of Health/ For Human Participants Approved"
+    ],
+    "languages": [
+        "English"
+    ]
+}

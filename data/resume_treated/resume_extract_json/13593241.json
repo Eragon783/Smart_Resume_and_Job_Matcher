@@ -1,0 +1,74 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "Orcas Island, WA",
+    "summary": "Experienced youth development professional focused on school success, leadership development, and community engagement. Bilingual in Spanish with extensive experience in program coordination, mentoring, tutoring, and family-school liaison work.",
+    "skills": [
+        "Academic support",
+        "Administrative tasks",
+        "Bilingual communication",
+        "Mentoring",
+        "Tutoring",
+        "Leadership development",
+        "Youth program coordination",
+        "Community engagement",
+        "Workshop facilitation",
+        "Family liaison",
+        "Student advocacy",
+        "Event planning",
+        "Data management",
+        "Spanish",
+        "Recruitment",
+        "Public speaking",
+        "Collaboration"
+    ],
+    "experience": [
+        {
+            "title": "Adventure Team Facilitator",
+            "company": "YMCA Camp Orkila",
+            "start_date": "2011",
+            "end_date": "2011",
+            "description": "Facilitated low and high challenge course elements, group initiatives, rock climbing wall, and BMX course; planned activities to encourage personal growth; led training in team building; facilitated reflection activities to promote learning from experience; contributed to multicultural leadership initiatives and camp coordination."
+        },
+        {
+            "title": "School Success Advocate",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "Present",
+            "description": "Facilitated an extended-day program for 15 high school freshmen, providing academic support and development of social and school success skills. Acted as a bilingual liaison between school and families, partnered with teachers and counselors, developed after-school programming, tutored core subjects, and provided mentoring. Maintained student records and organized meetings; contributed to positive outcomes in recruitment, retention, and academic performance."
+        },
+        {
+            "title": "Latino Mentor Program Coordinator",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2015-01",
+            "description": "Coordinated LAMP:ARA (Latinos Adelante Mentor Program: Apoyo y Recursos Académicos); provided advocacy and intervention; supported leadership development and mentor sessions; communicated with families in Spanish; connected youth with resources; organized events, service days, college visits; managed program administration and confidentiality. Accomplishments include Arts-in-Schools grant funding and collaboration with partner organizations; chaperoned attendance at leadership conferences."
+        },
+        {
+            "title": "Civic Engagement Intern",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2014-01",
+            "description": "Organized and managed Causa's volunteer engagement and voter registration; coordinated meetings with allied organizations; facilitated voter registration at naturalization ceremonies; canvassed for campaigns; maintained volunteer database and tracked engagement."
+        },
+        {
+            "title": "Bilingual Writing Tutor",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2014-01",
+            "description": "Provided one-on-one tutoring in a safe space to support writing; used inquiry-based learning to develop curiosity and critical thinking; helped students structure theses, topic sentences, paragraphs, and essays; edited syntax and grammar; managed registration records."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in Environmental Humanities and Politics",
+            "school": "Whitman College",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

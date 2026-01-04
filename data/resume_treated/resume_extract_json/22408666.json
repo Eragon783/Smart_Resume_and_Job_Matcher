@@ -1,0 +1,80 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Bakersfield, CA",
+    "summary": "Kind and compassionate Elementary School Teacher dedicated to creating an atmosphere that is stimulating and encouraging to all students. Enjoys using modern technology in the classroom.",
+    "skills": [
+        "Increase",
+        "Training",
+        "Coaching",
+        "Teaching",
+        "Clerical",
+        "Filing",
+        "Class",
+        "Comprehensive Large Array Data Stewardship System",
+        "Liaison",
+        "Translate",
+        "Mathematics",
+        "Writing Test",
+        "42 Wpm",
+        "CPR",
+        "CPR and First Aid",
+        "Typing"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "August 2012",
+            "end_date": "Present",
+            "description": "Consistently praised by management and staff for dedication, reliability, organization and effectiveness as one of the school district's most in-demand substitutes. Filled in for permanent teachers at a moment's notice; closely adhered to lesson plans; kept students motivated, engaged and focused. Showed resourcefulness and teaching effectiveness in meeting the needs of students with limited English language proficiency as well as learning disabilities. Voluntarily stepped in to run after-school programs (e.g., girls' volleyball coaching, cheerleading coaching and after-school tutoring) when permanent teachers were unable to fill these roles. Repeatedly asked to sub at the same schools due to effectiveness and classroom management skills."
+        },
+        {
+            "title": "After School Education and Safety Program Coordinator (1st-6th grades)",
+            "company": "Company Name",
+            "start_date": "August 2006",
+            "end_date": "June 2011",
+            "description": "After School Program Coordinator: Facilitates school effort to promote academic, physical, and social success of students by coordinating variety of after-school programs designed to increase academic achievement and improve overall educational experience. Assists in developing, organizing and implementing activities to increase student participation; maintains current knowledge of related State and District standards; maintains communication with school staff; enables students to reach their full potential; Mange and supervise a staff of seven paraprofessional educators. Key Contributions & Educational Outcomes: Consistently praised for dedication, reliability, organization and effectiveness of establishing and maintaining a successful After School Program. Promoted a high level of participation by closely adhered to lesson plans; and kept students motivated, engaged and focused. Voluntarily incooperated several after-school programs sports teams flag football, basketball and cheerleading. Incorporated technology into students' learning activities for varied academic disciplines. Efforts proved so successful in enhancing student understanding of material that students were able to design and create their own web pages"
+        },
+        {
+            "title": "Outreach Liaison",
+            "company": "Company Name",
+            "start_date": "January 2009",
+            "end_date": "January 2011",
+            "description": "Attends various community meetings in order to disseminate information pertaining to school's specially funded programs in general and parent involvement in particular. Assists staff in reducing poor attendance working with Probation Department, Deputy District Attorney. Refers students and Families to Student Attendance Review Board. Refer students and families in need to community programs for needed resources. Ensure school meets and maintains attendance goals to meet grant requirements. Translate documents and meetings as needed. Assisted teachers, specialists, counselors and other staff in reinforcing instructional program and guiding students in development of desirable academic and social skills and habits. Worked with small groups of children under the direction of certificated staff. Assisted with checking, care, preparation and arrangement of instructional materials and students' work. Assisted with yard duty, first aid and home contacts. Assisted with recordkeeping, filing, and other clerical duties as needed."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Child, Adolescent, and Family Studies with Sociology minor",
+            "school": "California State University Bakersfield",
+            "year": "2010"
+        },
+        {
+            "degree": "Bachelor of Arts in Child, Adolescent, and Family Studies",
+            "school": "California State University Bakersfield",
+            "year": "2010"
+        },
+        {
+            "degree": "Coursework",
+            "school": "Bakersfield College",
+            "year": "2010"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Cuyama Valley High School",
+            "year": "2002"
+        }
+    ],
+    "certifications": [
+        "Certificate of Clearance",
+        "CPR and First Aid",
+        "Typing Certificate 42 wpm",
+        "30 Day Substitute Permit"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

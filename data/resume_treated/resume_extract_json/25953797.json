@@ -1,0 +1,51 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Culinary professional with 4+ years of experience seeking employment in a professional kitchen to utilize education and contribute as a member of the culinary staff.",
+    "skills": [
+        "Menu development",
+        "Inventory management",
+        "Kitchen scheduling",
+        "Purchasing / ordering",
+        "Food safety / sanitation",
+        "ServSafe certification",
+        "Beer pairing",
+        "Culinary arts"
+    ],
+    "experience": [
+        {
+            "title": "Head Chef",
+            "company": "Company Name",
+            "start_date": "September 2014",
+            "end_date": "January 2016",
+            "description": "Developed menus, took monthly inventory, made weekly kitchen schedule, responsible for all ordering."
+        },
+        {
+            "title": "Line Cook",
+            "company": "Company Name",
+            "start_date": "May 2011",
+            "end_date": "September 2014",
+            "description": "Worked as line cook."
+        },
+        {
+            "title": "Intern",
+            "company": "Reputable restaurant",
+            "start_date": "February 2011",
+            "end_date": "April 2011",
+            "description": "Worked as part of a team preparing ingredients and dishes to be served at a reputable restaurant."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science in Culinary Arts",
+            "school": "Robert Morris University – Illinois",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "ServSafe Certification"
+    ],
+    "languages": []
+}

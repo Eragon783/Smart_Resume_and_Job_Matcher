@@ -1,0 +1,63 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Skilled accountant with extensive experience in financial statement analysis, account reconciliation, general ledger accounting, payroll and benefits administration, and process improvement. Proven ability to manage multiple projects and meet deadlines under pressure with strong attention to detail and organizational skills.",
+    "skills": [
+        "Financial statement analysis",
+        "Account reconciliation",
+        "General ledger accounting",
+        "Time management",
+        "Organizational skills",
+        "Flexible team player",
+        "Microsoft Office (Word, Excel, PowerPoint, Outlook)",
+        "Abila MIP Fund Accounting Software",
+        "QuickBooks",
+        "QuickBooks Pro",
+        "Quicken",
+        "ADP",
+        "Paychex",
+        "Payroll Experts",
+        "QuickBooks Payroll Systems"
+    ],
+    "experience": [
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "08/2012",
+            "end_date": "Present",
+            "description": "Process Receivables (donations) for 7 church locations with over 20,000 attendees and approx $45M annual revenue; process Retail Sales Revenue for multiple entities (Bookstore, Café, Coffee Shop); provide monthly financial statements and budget analysis; monthly bank reconciliations; prepare monthly Use Tax returns; General Ledger review; streamline procedures and write procedure manual; assist with Accounts Payable as needed."
+        },
+        {
+            "title": "Independent Accounting Consultant",
+            "company": "Company Name",
+            "start_date": "08/2008",
+            "end_date": "08/2012",
+            "description": "Provide weekly, monthly, quarterly, and annual accounting/full charge accounting services to different clients in multiple industries (including but not limited to engineering, marketing, construction contractors, subcontracting, commercial leasing companies, manufacturing, retail). Work with CPA to provide information for year-end tax preparation. Provide set-up and ongoing consulting services to users of QuickBooks, QuickBooks Pro, and Quicken. Assist clients in Worker's Compensation Audits. Assist clients in start-ups. Assist clients with establishing employee policies and writing company policies. Full knowledge of all Payroll functions; Sales Tax Reporting; Financial Statement Preparation; Bank Statement Reconciliations."
+        },
+        {
+            "title": "Accounting Manager/Human Resources",
+            "company": "Company Name",
+            "start_date": "02/2007",
+            "end_date": "06/2010",
+            "description": "Report to CFO; Work directly with Directors of Marketing Agency. Manage Accounts Receivable and perform monthly billing. Verify all Accounts Payable transactions. Process payroll using online payroll processing services. Manage new employee paperwork and benefits including health, dental, 401K, and flexible spending accounts, as well as all COBRA documentation. Handle all accounting duties for 2 separate smaller commercial leasing companies."
+        },
+        {
+            "title": "Accounting and Human Resources Manager",
+            "company": "Company Name",
+            "start_date": "05/2002",
+            "end_date": "02/2007",
+            "description": "Report directly to President of two corporations and manage office of two separate corporations simultaneously. Manage all aspects of Accounting Department and produce all necessary financial statements. Process weekly payroll and payroll taxes as well as quarterly and annual payroll tax reports. Researched and implemented new industry specific software to improve overall performance of business. Researched, implemented, and maintained employee benefits program that includes 401K, Health and Dental Benefits. Recruit new employees and manage all personnel files. Assist with employee performance evaluations and act as liaison between employees and supervisors. Perform other duties including sales, international business development, purchasing, inventory, and customer service."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Business Management",
+            "school": "Arizona State University",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

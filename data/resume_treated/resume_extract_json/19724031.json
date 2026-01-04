@@ -1,0 +1,74 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "I am a student with passion for making difference in the world. I believe that the world is always changing and moving forward and requires motivated people to help lead the way. I enjoy investing my time into amazing opportunities that helps me to grow as a professional and as a person while helping to create opportunities and benefits for others. I believe that it is important to invest in the resources you have as well as to invest your time in an organization even if that meant not benefiting from it at all.",
+    "skills": [
+        "Political Communication",
+        "Microsoft Office",
+        "Leadership",
+        "Public Speaking",
+        "Management",
+        "Customer Service",
+        "Fundraising",
+        "Community Outreach",
+        "Teamwork",
+        "CPR Certified",
+        "Time Management"
+    ],
+    "experience": [
+        {
+            "title": "Volunteer EMT",
+            "company": "Company Name, City, State",
+            "start_date": "July 2010",
+            "end_date": "Present",
+            "description": "Certified as Emergency Medical Technician (EMT-B); CPR by American Heart Association Healthcare Provider level; First Aid and other EMT-B protocol per state/squad; ambulance checks; ensure supplies; assist in patient care at scene, enroute, and hospital until transfer; write call sheet; maintain coverage; operate electronic charting system; completed EMT class, CEVO course, and ICS-100/200/700; provide medical transport as dispatched; able to lift >50 lbs; ensure ambulance is stocked; training with Captain; incident reports; patient assessments; emergency transport decisions; notify dispatch for lights/sirens; timely transports; retrieve paperwork; track times and mileage; shift start/end radio and transport sheet handling."
+        },
+        {
+            "title": "Volunteer EMT",
+            "company": "Company Name, City, State",
+            "start_date": "May 2013",
+            "end_date": "July 2014",
+            "description": "Providing medical transport for patient as requested by dispatch; lift >50 lbs; ambulance stock checks; training with Captain; incident reporting; patient assessments during pick-up, transport, and arrival; emergency transport decisions; notify dispatch of situation for lights/sirens; timely transports; paperwork and transport sheet management."
+        },
+        {
+            "title": "Retail Sales Associate",
+            "company": "Company Name, City, State",
+            "start_date": "April 2012",
+            "end_date": "April 2013",
+            "description": "Providing excellent customer service; understanding department products; meeting daily sales goals; maintaining the sales floor; opening Macy's Star Rewards Credit Card for customers; meeting department managers' expectations; attending scheduled training classes."
+        },
+        {
+            "title": "Assistant Martial Arts Instructor",
+            "company": "Company Name, City, State",
+            "start_date": "October 2008",
+            "end_date": "May 2009",
+            "description": "Assisting the instructor in managing classes; guiding students; managing classes of different belt levels, ages, and sizes; reported to Head Instructor/Master/Instructor; assisting in setup, management, and cleanup of student promotion exams."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Jonathan Dayton High School",
+            "year": 2011
+        },
+        {
+            "degree": "Political Science",
+            "school": "Rutgers University Newark",
+            "year": null
+        },
+        {
+            "degree": "",
+            "school": "Union County College Cranford",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Emergency Medical Technician - Basic (New Jersey Department of Health & Senior Services), ID 595771, Expiration: 12/31/2016",
+        "Cardiopulmonary Resuscitation (CPR) Healthcare Provider Level, American Heart Association"
+    ],
+    "languages": [
+        "English"
+    ]
+}

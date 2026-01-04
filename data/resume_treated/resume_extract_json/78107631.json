@@ -1,0 +1,78 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Oakland, California, USA",
+    "summary": "Seasoned executive and educator with extensive leadership in arts education, non-profit management, and youth development. Experienced in directing programs, managing staff, and building community partnerships.",
+    "skills": [
+        "academic",
+        "Arts",
+        "Enterprise",
+        "Teaching"
+    ],
+    "experience": [
+        {
+            "title": "Executive Director",
+            "company": "Media Enterprise Alliance",
+            "start_date": "January 2009",
+            "end_date": "Current",
+            "description": "Executive leadership of the organization."
+        },
+        {
+            "title": "Instructor",
+            "company": "Head-Royce School",
+            "start_date": "January 1974",
+            "end_date": "January 2010",
+            "description": "Taught at Head-Royce School, contributing to Fine Arts Department (visual, music, drama, and dance)."
+        },
+        {
+            "title": "Chairman, Fine Arts Department",
+            "company": "Head-Royce School",
+            "start_date": "January 2005",
+            "end_date": "January 2010",
+            "description": "Led the Fine Arts Department with 11 members across visual, music, drama and dance."
+        },
+        {
+            "title": "Director, Summer Program",
+            "company": "Head-Royce School (in partnership with Oakland Unified School District)",
+            "start_date": "January 2003",
+            "end_date": "January 2009",
+            "description": "Directed summer program for disadvantaged middle school students; six-week session with full scholarship; mentorship throughout the year."
+        },
+        {
+            "title": "Project Coordinator",
+            "company": "EOBA/Smart Moves",
+            "start_date": "2006",
+            "end_date": "2008",
+            "description": "Renovation project coordination; collaboration with East Bay Community Fund, Rebuilding Together Oakland, Temple Sinai, Pulte Construction, Head-Royce School; oversaw ~50 children daily for tutoring and non-violence training."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in Communications and Public Policy",
+            "school": "University of California, Berkeley",
+            "year": "1969"
+        },
+        {
+            "degree": "B.F.A. in Fine Arts",
+            "school": "University of California, Berkeley",
+            "year": "1970"
+        },
+        {
+            "degree": "M.F.A. in Fine Arts",
+            "school": "San Francisco Art Institute",
+            "year": "1972"
+        },
+        {
+            "degree": "Secondary Teaching Credential program",
+            "school": "University of California, Berkeley",
+            "year": "1973"
+        }
+    ],
+    "certifications": [
+        "Finnie Fellowship (2006-2008)",
+        "Fund for Teachers Fellowship (2005)",
+        "Cyberart Fellowship (1995)"
+    ],
+    "languages": []
+}

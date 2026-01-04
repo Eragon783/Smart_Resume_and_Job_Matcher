@@ -1,0 +1,54 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Tel Aviv",
+    "summary": "For more than 5 years I develop software with an urge to help people solve their problems. I develop product rather than close issues. Proactivity, empathy, focusing on the product result, end-user experience, and runtime stability these are the qualities I value most both in colleagues and myself. Do we match?",
+    "skills": [
+        "Python",
+        "Django",
+        "asyncio",
+        "PyTest",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes",
+        "Elasticsearch",
+        "Mentoring",
+        "Team leading"
+    ],
+    "experience": [
+        {
+            "title": "Senior backend dev",
+            "company": "BestDoctor",
+            "start_date": "2021",
+            "end_date": "2021",
+            "description": "Senior backend developer in the medical insurance sphere. Python/Django/PyTest, Docker; Implemented multiple features in a large Django Admin with some JavaScript; solved a problem by a paid service rather than a month of coding from scratch."
+        },
+        {
+            "title": "Tech lead and backend dev",
+            "company": "Domclick (Sberbank)",
+            "start_date": "2020",
+            "end_date": "2021",
+            "description": "Tech lead and backend developer designing and building a new buildings storefront. Python/asyncio/FastAPI/PyTest, Docker, Kubernetes, PostgreSQL, Elasticsearch; Improved stability, performance, test coverage and architecture of several micro-services. Introduced SRE practices (monitorings, safe migrations) and processes; improved work processes; collaborated closely with the product manager to design principal implementations and fit features to sprints."
+        },
+        {
+            "title": "Backend developer",
+            "company": "Yandex",
+            "start_date": "2018",
+            "end_date": "2020",
+            "description": "Backend development in the intranet department. Python/Django/Celery/PyTest, Docker, PostgreSQL/YQL; Worked on 10+ projects, mainly an internal hiring system; Increased employee hiring rate and decreased leaving rate by developing reference giving system and employee rotation system; Launched a negotiation service with a state machine for creating a new negotiation; Led migration to a new PaaS. Mentored in Yandex Backend Development school."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Computer Science",
+            "school": "Moscow State University, Department of Computational Mathematics and Cybernetics",
+            "year": "2014-2018"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Russian"
+    ]
+}

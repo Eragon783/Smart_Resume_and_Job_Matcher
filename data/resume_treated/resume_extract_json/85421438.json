@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Be in a position involving and utilizing my marketing and management skills and knowledge gained throughout my education and on the job experience.",
+    "skills": [
+        "ads",
+        "advertising",
+        "book",
+        "Brochure",
+        "cash register",
+        "content",
+        "credit",
+        "client",
+        "clients",
+        "customer service experience",
+        "direction",
+        "Email",
+        "event planning",
+        "Google Analytics",
+        "LEADERSHIP",
+        "managing",
+        "marketing plans",
+        "marketing strategy",
+        "marketing",
+        "networking",
+        "organizing",
+        "print advertising",
+        "Project Leader",
+        "reading",
+        "Real Estate",
+        "reporting",
+        "retail",
+        "selling",
+        "sales",
+        "Video",
+        "website"
+    ],
+    "experience": [
+        {
+            "title": "Real Estate Marketing/Account Manager",
+            "company": "Pa Media Group",
+            "start_date": "04/2015",
+            "end_date": "Present",
+            "description": "Responsible for maintaining and growing the Real Estate category; helps clients understand and utilize digital marketing platforms (audience targeting, SEM, SEO, SMO, email, Pinterest, video, rich media, content marketing); creates monthly reporting decks; analyzes Google Analytics; manages one of the company's largest digital campaigns."
+        },
+        {
+            "title": "Healthcare Account Executive",
+            "company": "Pa Media Group",
+            "start_date": "03/2014",
+            "end_date": "03/2015",
+            "description": "Grow and retain healthcare-related businesses; manage and maintain a large digital accounts; deep understanding of Audience Targeting, SEM, SEO, SMO, Email Blasts, Pinterest, Video ads, Rich Media, Content Marketing; tie campaigns to Google Analytics; translate analytics for clients."
+        },
+        {
+            "title": "Real Estate/Executive Marketing Media Consultant",
+            "company": "Company Name",
+            "start_date": "07/2012",
+            "end_date": "03/2014",
+            "description": "Learn, understand, and sell all products of the media kit; manage own book of business; create marketing solution packages; campaign management using Google Analytics to optimize campaigns; involved in marketing committees; hit monthly sales goals; manage large local accounts."
+        },
+        {
+            "title": "Marketing Intern",
+            "company": "The Conference Center at Shippensburg University",
+            "start_date": "2011",
+            "end_date": "2011",
+            "description": "Worked with customers, prepared documents, helped coordinate and set up events, sent e-blasts, trained with vizergy, helped design the Shippensburg Brochure; coordinated a networking event for 600 guests."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "05/2011",
+            "end_date": "02/2012",
+            "description": "Greeted customers, assisted with choices, solved problems, processed sales and payments, built displays, unloaded and organized shipments, trained new hires."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Marketing and General Management",
+            "school": "Shippensburg University, John L Grove College of Business",
+            "year": "2012"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

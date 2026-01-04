@@ -1,0 +1,90 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "I intend to practice general endocrinology; however I am pursuing additional training in the area of obesity medicine and hope to bring this expertise to the practice I join. My background in nutrition science and exercise, as well as my clinical experience in weight management and bariatric clinics, and research endeavors in clinical weight loss trials will enable me to develop the skills I need to supervise and direct patients in their weight loss efforts. I am open to working in both the inpatient and outpatient setting as my fellowship training has equipped me to manage inpatient diabetes and endocrine consults.",
+    "skills": [
+        "Endocrinology",
+        "Obesity medicine",
+        "Weight management",
+        "Bariatric care",
+        "Nutrition science",
+        "Exercise and fitness",
+        "Clinical research",
+        "Weight loss trials",
+        "Inpatient diabetes management",
+        "Endocrine consults",
+        "Fellowship training",
+        "Clinical supervision"
+    ],
+    "experience": [
+        {
+            "title": "Emergency Department Physician",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Emergency Department physician; provides patient care and is prepared to manage inpatient diabetes and endocrine consults as part of fellowship training."
+        },
+        {
+            "title": "Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2010-12",
+            "description": "Delivered fitness instruction and related wellness guidance."
+        },
+        {
+            "title": "Medical Clinic Assistant",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2007-12",
+            "description": "Assisted clinic operations; supported physicians Richard Field, MD and Naveeda T. Ahmed, MD."
+        },
+        {
+            "title": "Research Lab Assistant",
+            "company": "Company Name",
+            "start_date": "2005-09",
+            "end_date": "2006-05",
+            "description": "Worked in a medical research lab; contributed to health services and obesity-related research projects."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Endocrinology Clinical and Research Fellowship",
+            "school": "Duke University Medical Center",
+            "year": "2016"
+        },
+        {
+            "degree": "Master of Science, Clinical Research",
+            "school": "Duke University",
+            "year": "2016"
+        },
+        {
+            "degree": "Internal Medicine Residency",
+            "school": "Virginia Commonwealth University",
+            "year": "2013"
+        },
+        {
+            "degree": "Medical Doctorate",
+            "school": "Medical College of Georgia",
+            "year": "2010"
+        },
+        {
+            "degree": "Bachelor of Science, Biology",
+            "school": "University of Georgia",
+            "year": "2006"
+        },
+        {
+            "degree": "Bachelor of Science, Family and Consumer Sciences, Nutrition Science",
+            "school": "University of Georgia",
+            "year": "2006"
+        }
+    ],
+    "certifications": [
+        "ABIM Board Certified in Internal Medicine, 2014",
+        "North Carolina State Medical License, active, July 2013 to present",
+        "Pending: Endocrinology Board Certification (exam November, 2015)",
+        "ECNU Certification"
+    ],
+    "languages": []
+}

@@ -1,0 +1,89 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Self-motivated individual with over 10 years' experience in prioritizing and completing tasks in a timely manner, yet flexible to multitask when necessary. Customer focused with diverse industry experience including insurance, non-profit and retail.",
+    "skills": [
+        "Microsoft Office Suite",
+        "Word",
+        "PowerPoint",
+        "Excel",
+        "PeopleSoft",
+        "ADP Payroll",
+        "infection control",
+        "Insurance",
+        "mental health",
+        "scheduling",
+        "supervision",
+        "surgery",
+        "academic",
+        "financial",
+        "policies",
+        "safety"
+    ],
+    "experience": [
+        {
+            "title": "Admin Operating Room Administrative Coordinator",
+            "company": "Company Name",
+            "start_date": "11/2007",
+            "end_date": "Current",
+            "description": "Schedule and maintain the main operating room and surgical day care schedules for physicians. Interact with all levels of the organization and public. Able to make decisions independently and quickly with minimal escalations. Adjust to stressful conditions. Train new hires to efficiently perform assigned tasks without supervision. Multi-task from scheduling surgical cases to the Dynamic Schedule and ordering specimens. Maintain compliance with departmental policies and procedures (JCAHO) and HIPAA."
+        },
+        {
+            "title": "Mental Health Counselor - Intern",
+            "company": "Company Name",
+            "start_date": "09/2015",
+            "end_date": "05/2016",
+            "description": "Managed 10-15 clients with diverse ethnic, religious, and socioeconomic groups; assisted clients with living and working in their community. Assisted clients with severe mental illnesses and their families in accessing community services, maintaining housing, and being active in their recovery. Taught and educated clients on social skill building, stress and anxiety management, independence, and empowered clients to use autonomy in mental health recovery. Acted as client advocate and coordinated required services and resolved crises. Maintained 90% productivity of billable services on a daily basis."
+        },
+        {
+            "title": "Healthcare Worker Assistant - Intern",
+            "company": "Company Name",
+            "start_date": "01/2013",
+            "end_date": "05/2013",
+            "description": "Conducted intake and assessment of families and determined the appropriate services needed. Counseled individuals in personal, academic, financial and career concerns. Provided direct care services to families eligible for Emergency Assistance and supported them as they worked towards a goal of self-sufficiency. Made appropriate referrals for ongoing services (DCF, DPH for Families, DMH, DTA, etc.). Actively participated and engaged families in Activities of Daily Living (ADL)."
+        },
+        {
+            "title": "Operating Room Surgical Scheduler",
+            "company": "Company Name",
+            "start_date": "05/2010",
+            "end_date": "04/2015",
+            "description": "Reviewed insurance and financial information with patients. Ensured timely and accurate distribution of daily surgery schedules. Schedule patients' surgical appointments and maintain up-to-date confidential patient files. Trained and mentored new employees. Maintained high levels of departmental policies and procedures, JCAHO and the Health Insurance Portability and Accountability Act (HIPAA)."
+        },
+        {
+            "title": "Dietary Assistant",
+            "company": "Company Name",
+            "start_date": "07/2002",
+            "end_date": "07/2010",
+            "description": "Maintained established standards of sanitation, safety and food preparation. Supervised a staff of 7; assigned duties and adherence to company policies, procedures and guidelines. Ensured temperature goals are met prior to steam table transfer and maintained throughout meal service. Followed infection control guidelines for sanitizing equipment and cleaning the preparation room. Ensured equipment and work area are sanitized and maintained."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Mental Health Counseling & Crime Justice",
+            "school": "Suffolk University",
+            "year": "2016"
+        },
+        {
+            "degree": "Bachelor of Science in Psychology",
+            "school": "Suffolk University",
+            "year": "2013"
+        },
+        {
+            "degree": "Bachelor of Arts in Sociology Health Medicine and Body",
+            "school": "Suffolk University",
+            "year": "2013"
+        },
+        {
+            "degree": "Associate of Arts and Science Degree in Criminal Justice & Psychology",
+            "school": "Bunker Hill Community College",
+            "year": "2009"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "French",
+        "Creole"
+    ]
+}

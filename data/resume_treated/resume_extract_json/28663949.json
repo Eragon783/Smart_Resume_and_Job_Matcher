@@ -1,0 +1,68 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Experienced Interior Designer with a diverse knowledge base of design styles and techniques after living and working in different parts of the world. Proven skills in sales and project management. Successful at listening to the needs of the client and collaborating on a creative vision. Drafting in CAD, produce 3D renderings and monitor installations as part of my everyday work. A team player who is an expert at multitasking and able to work under pressure to meet deadlines. Open for a position in the field of Interior Architecture and Design.",
+    "skills": [
+        "ArchiCAD",
+        "Cabinet Vision",
+        "3D Studio Max",
+        "Adobe Photoshop",
+        "MS Office",
+        "Adobe InDesign",
+        "Conceptual Design",
+        "Space Planning",
+        "Construction Documents",
+        "Drafting",
+        "Cost Management",
+        "FFE",
+        "3D Rendering",
+        "CAD",
+        "Sales",
+        "Project Finance",
+        "Project Management",
+        "Multitasking",
+        "Team player",
+        "NCIDQ certified (soon)",
+        "Golf (beginner)",
+        "Skiing (expert)"
+    ],
+    "experience": [
+        {
+            "title": "Senior Interior Designer",
+            "company": "Company Name",
+            "start_date": "2015-09",
+            "end_date": "Current",
+            "description": "Conferring with clients to determine their specific needs. Create design concepts and space planning depending on client's needs and budget. Drafting and create shop drawings in CAD. Monitor installation process and service. Expert at multitasking, handling several projects simultaneously."
+        },
+        {
+            "title": "Owner / Freelance Designer",
+            "company": "Company Name",
+            "start_date": "2012-08",
+            "end_date": "2014-08",
+            "description": "Worked as a freelance designer drafting in ArchiCAD and producing 3D renderings to designers and clients."
+        },
+        {
+            "title": "Owner / Freelance Designer",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2011-07",
+            "description": "Worked as a freelance designer focusing on space planning and FFE serving the Expat community in Shanghai. Furniture Design and sourcing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Fine Art: Interior Architecture and Design",
+            "school": "Academy of Art",
+            "year": "2014"
+        }
+    ],
+    "certifications": [
+        "NCIDQ certified (soon)"
+    ],
+    "languages": [
+        "English",
+        "Swedish"
+    ]
+}

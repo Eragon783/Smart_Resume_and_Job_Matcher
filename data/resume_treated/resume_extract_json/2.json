@@ -1,0 +1,97 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Rehovot, Israel",
+    "summary": "Full-stack / Back-End Java developer with 4 years of experience (80% Java back-end, 20% JavaScript front-end). Proficient in Java, Spring Boot (Security, Data, JPA, Config), microservices, Docker, Kafka, REST, and databases (PostgreSQL, MySQL, MongoDB, Redis, HSQLDB). Experienced in building multi-service applications, logging/monitoring, notification workflows, and testing (JUnit5, Mockito). Front-end basics in HTML5/CSS3/React. Languages: English, Hebrew, Russian.",
+    "skills": [
+        "JAVA",
+        "JavaScript",
+        "microservices",
+        "Maven",
+        "Spring Boot",
+        "Spring Security",
+        "Spring Mail",
+        "Spring Data",
+        "Spring JPA",
+        "Spring Config",
+        "Netflix Eureka",
+        "Validation",
+        "Docker",
+        "Kafka",
+        "JSON",
+        "JUnit5",
+        "Hamcrest",
+        "Mockito",
+        "Google Maps API (geocoding)",
+        "Swagger",
+        "Lombok",
+        "REST API",
+        "HTML5",
+        "CSS3",
+        "GitHub",
+        "Jira",
+        "Postman",
+        "Eclipse",
+        "IntelliJ IDEA",
+        "WebStorm",
+        "Visual Studio Code",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "HSQLDB",
+        "Windows",
+        "Mac OS",
+        "Linux"
+    ],
+    "experience": [
+        {
+            "title": "JAVA BACK-END developer",
+            "company": "Elpisor LTD",
+            "start_date": "2020-07",
+            "end_date": "Present",
+            "description": "Developed multiple microservices for several projects: (1) a system to prevent brute-force login attempts by blocking bad IPs across 14 microservices with log ingestion, analysis, DB storage, and email notifications; (2) a municipal solution for analyzing illegal parking using messages from cameras and Google Maps API geocoding across 15 microservices; (3) a logs and bugs analytics/reporting platform across 17 microservices with REST API, DB storage, email alerts, and search/filter functionality. Implemented with Spring Boot, Lombok, Spring Config Server, and related Spring technologies."
+        },
+        {
+            "title": "Full-Stack Developer",
+            "company": "Cetera Labs",
+            "start_date": "2017",
+            "end_date": "2020",
+            "description": "Developed business websites for cosmetics brand and Hi-Tech news; built corporate portal for dental-clinic equipment supplier. Front-end: WordPress, custom CMS, HTML5, CSS3, JavaScript, React. Back-end: Spring Boot, REST API, JUnit5/Mockito; created REST APIs, unit tests, bug fixes, and API documentation with Postman/Swagger; used Javax validation and GitHub for version control."
+        },
+        {
+            "title": "Data Scientist",
+            "company": "ConsultantPlus",
+            "start_date": "2015",
+            "end_date": "2017",
+            "description": "Data analysis and development of computer reference legal systems; placement of legal documents in internal databases; formation of tables of contents and hyperlinks; HTML."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master’s degree in Computer reference legal systems",
+            "school": "Omsk Government Academy, Russia",
+            "year": "2005"
+        },
+        {
+            "degree": "Java Developer",
+            "school": "Geekbrains",
+            "year": "2017-2018"
+        },
+        {
+            "degree": "Adaptation program for software developers according to Israel IT technologies",
+            "school": "Israel IT Technologies",
+            "year": "2020"
+        }
+    ],
+    "certifications": [
+        "Java Developer – Geekbrains (2017-2018)",
+        "Adaptation program for software developers according to Israel IT technologies (2020)"
+    ],
+    "languages": [
+        "English",
+        "Hebrew",
+        "Russian"
+    ]
+}

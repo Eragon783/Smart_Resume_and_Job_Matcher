@@ -1,0 +1,92 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Compassionate and professional Crisis Specialist who believes excellent people skills and open communication are essential functions of successful client advocacy.",
+    "skills": [
+        "Exceptional organizational skills",
+        "Mediation",
+        "State government background",
+        "Proficient in NIMS and ICS",
+        "Creative problem solver",
+        "Empathetic",
+        "Emergency response training",
+        "Natural leader",
+        "Excellent interpersonal skills",
+        "Public Relations",
+        "Case Management",
+        "Client Advocacy",
+        "Disaster Responder",
+        "Child Advocate"
+    ],
+    "experience": [
+        {
+            "title": "Patient Advocate",
+            "company": "Company Name",
+            "start_date": "November 2015",
+            "end_date": "Current",
+            "description": "Created and maintained all patient accounts in Mpower and updated the hospital on any progression in obtaining Medicaid coverage. Educated patients about the different types of Medicaid; Advocated for the patients on their behalf when working with the county to get Medicaid coverage. Managed a caseload up to 50-60 patients. Maintained patient privacy and confidential patient information."
+        },
+        {
+            "title": "Case Assistant/Job and Life Skills Coach",
+            "company": "Company Name",
+            "start_date": "July 2013",
+            "end_date": "November 2015",
+            "description": "Reported and documented relevant information as it pertained to the clients' behaviors and their well being to the Job Developer and DVR. Conducted comprehensive initial in-home and in-office vocational assessments prior to first wraparound meetings. Documented all clients' information including service plans, vocational reports and progress notes. Conducted outreach, advocacy and rehabilitative services for vocational cases and crisis intervention if needed. Taught clients anger management techniques, relaxation skills, impulse control, social skills, emotional coping skills and functional living skills for successful community employment and life skills. Created, \"Job Coaching 101\" and presented to new and existing job coaches."
+        },
+        {
+            "title": "Office Administration Specialist Senior",
+            "company": "Company Name",
+            "start_date": "January 2012",
+            "end_date": "February 2013",
+            "description": "Promoted to Office Administrator in 2012 in the OPH prison education department. Supervised offenders within the education department and kept track of their discipline/payroll. Proficient in the MARCS and Crystal Reports databases. Drafted memos and letterheads for the Education Director using Microsoft Office. Administered TABE testing for offenders obtaining their GED/HSED. Coordinated the Reading is Fundamental Book Fair for institution offenders as well as the offender graduation. Successfully learned the OPH Offender Education Channel media software, designing a custom schedule for televised education lessons within the institution."
+        },
+        {
+            "title": "Correctional Officer",
+            "company": "Company Name",
+            "start_date": "July 2005",
+            "end_date": "January 2012",
+            "description": "Enforced resident behavior management system and wrote incident reports for infractions following ICS protocol. Employed de-escalation techniques, verbal commands and used physical and mechanical restraints to address unruly inmates. Implemented defensive tactics and physical restraints to maintain the safety and security of personnel and the general public. Served as a new officer mentor, member of the Conflict Resolution Committee and a Diversity Instructor. Created the training module, \"Generations in the Workplace\" using Power Point while a Diversity Instructor. Promoted into two Work out of Class opportunities (Corrections Manufacturing Specialist and Office Administration Senior) during my time as an officer."
+        },
+        {
+            "title": "Point of Sale Supervisor",
+            "company": "Company Name",
+            "start_date": "March 2002",
+            "end_date": "August 2004",
+            "description": "Supervised up to 20 teammates per shift. Analyzed sales transactions and reported them to Sales Manager. Received recognition from the Shopko CEO for providing excellent customer service."
+        },
+        {
+            "title": "Child Advocate",
+            "company": "Turning Point Domestic Abuse Shelter",
+            "start_date": "March 2005",
+            "end_date": "June 2005",
+            "description": "Worked with children of domestic abuse situations. Led circle groups for children 5 to 10 years old."
+        },
+        {
+            "title": "Disaster Responder",
+            "company": "American Red Cross - Altoona, WI (Northwestern Region)",
+            "start_date": "January 2016",
+            "end_date": "Present",
+            "description": "Currently training via online for Disaster Relief certification."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Sociology Leadership Studies",
+            "school": "Fort Hays State University",
+            "year": "Present"
+        },
+        {
+            "degree": "A.A.S: Criminal Justice",
+            "school": "Rasmussen College",
+            "year": "2005"
+        }
+    ],
+    "certifications": [
+        "FEMA IS-00019.15 Supervisor EEO Course Certification (October 2015)",
+        "ICS 100 for Hospitals (October 2015)",
+        "Learning to Lead Certificate (Part one of the department's supervisory course) – Minnesota Department of Corrections (January 2012)"
+    ],
+    "languages": []
+}

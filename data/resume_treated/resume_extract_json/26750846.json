@@ -1,0 +1,101 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To acquire a position that will grant me the opportunity to contribute to the efficient operation of a firm and earn advancement through my job performance.",
+    "skills": [
+        "Payroll",
+        "State Tax",
+        "Accounts Payable",
+        "Bank Reconciliation",
+        "General Ledger",
+        "Posting",
+        "Reconciliation",
+        "Accountant",
+        "Account Receivable",
+        "Account Reconciliation",
+        "Accounting",
+        "Billing Audit",
+        "Basis",
+        "Budget",
+        "Budgets",
+        "Compensation",
+        "Contracts",
+        "Disability",
+        "Government Contracts",
+        "Leave Of Absence",
+        "Payroll Account",
+        "Payroll Account Reconciliation",
+        "Finance",
+        "Excel",
+        "Microsoft Windows XP",
+        "MS Excel",
+        "MS Word",
+        "Outlook",
+        "QuickBooks",
+        "QuickBooks Pro",
+        "FUND EZ",
+        "Paychex",
+        "ADP",
+        "Medical Invoicing"
+    ],
+    "experience": [
+        {
+            "title": "Finance Coordinator",
+            "company": "Company Name",
+            "start_date": "06/2010",
+            "end_date": "Current",
+            "description": "Responsible for the preparation of bi-weekly payroll including retirement plans, termination, union dues as well as resolving insurance issues and deductions for 30+ employees using the Paychex system. Maintained and entered time-keeping data for collected bi-weekly timesheets into Paychex Time and Labor system with focus on processing exempt & non-exempt hours, personal, vacation & sick leave. Applied knowledge of applicable laws related to payroll including garnishment regulations, and state tax regulations. Reviewed payroll reports for accuracy prior to distribution of pay checks. Maintained an accounts payable turnover rate of 30 days or less. General ledger posting. Prepared bank reconciliation. State and City Funding Monthly Expense Reports."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "09/2007",
+            "end_date": "03/2010",
+            "description": "Responsible for the preparation of bi-weekly payroll including retirement plans, termination, as well as resolving insurance issues and deductions for 175 employees using the ADP TotalSource and ADP PC. Maintain and enter time-keeping data for collected bi-weekly timesheets into ADP EZ Labor Management system with particular focus on processing exempt & non-exempt hours, personal, vacation & sick leave. Apply knowledge of applicable laws as related to the payroll process, including garnishment regulations, and state tax regulations. Review payroll reports for accuracy prior to distribution of pay checks."
+        },
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name",
+            "start_date": "04/1994",
+            "end_date": "10/2006",
+            "description": "Responsible for the preparation of bi-weekly payroll including retirement plans, termination, union dues as well as resolving insurance issues and deductions for 550+ employees using the ADP system. Maintained and entered time-keeping data for collected bi-weekly timesheets into ADP system with particular focus on processing exempt & non-exempt hours, personal, vacation & sick leave. Applied knowledge of applicable laws as related to the payroll process, including garnishment regulations, and state tax regulations. Reviewed payroll reports for accuracy prior to distribution of pay checks. Interacted with employees and management on payroll related projects and inquiries including reporting of employee leave of absence, unemployment, fund allocations, payroll account reconciliation, disability and worker's compensation on a monthly and quarterly basis. Maintained and monitored all government contracts, grants and restricted contributions to ensure all reporting requirements are met on a timely basis and review on-going budgetary discrepancies with program directors. Prepared annual audit schedules, budgets and various financial analyses as needed. Maintained an accounts payable turnover rate of 30 days or less. General ledger posting. Prepared bank reconciliation. Successfully managed over ten state and city contracts, including preparing monthly expenditure reports, budget modifications, and year end closeouts. Maintained account receivable analysis reports."
+        }
+    ],
+    "education": [
+        {
+            "degree": "GED",
+            "school": "HS for Humanities",
+            "year": "2008"
+        },
+        {
+            "degree": "Principles of Accounting",
+            "school": "Lehman College",
+            "year": ""
+        },
+        {
+            "degree": "Computer Leadership and Vocational Educational Program",
+            "school": "Lehman College",
+            "year": ""
+        },
+        {
+            "degree": "Medical Billing and Coding",
+            "school": "Alianza Dominicana Inc.",
+            "year": ""
+        },
+        {
+            "degree": "Medical Billing",
+            "school": "Netcom Information Technology Certifications",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Netcom Information Technology Certifications",
+        "Medical Billing"
+    ],
+    "languages": [
+        "Spanish",
+        "English"
+    ]
+}

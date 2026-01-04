@@ -1,0 +1,98 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "HR MANAGER Summary To obtain a position that offers many opportunities for growth and development that will enhance my existing knowledge in Management and Leadership. In return, I will give my very best to the company so it can achieve its goals and aspirations to continue future success. Highlights Leadership skills Providing focus and direction to subordinates Motivating employees to do better Accuracy and attention to detail Ability to work as part of a team Possess effective communication and influencing skills Strong analytical and problem solving skills Possess a strong work ethic and a high level of professionalism Excellent interpersonal, planning and organizational skills A team player who handles multiple projects simultaneously in a fast paced environment Proficient in a variety of computer software programs: Microsoft Word, Microsoft Excel, Microsoft Access, Microsoft PowerPoint, Microsoft Publisher, Microsoft Outlook, Microsoft Visio, Lotus Notes",
+    "skills": [
+        "Management",
+        "Administrative Support",
+        "Coach",
+        "Excellent communication skills",
+        "Customer service",
+        "French",
+        "Human resources",
+        "Leadership",
+        "Team Lead",
+        "Mentor",
+        "Effective communicator",
+        "Project Management",
+        "Project Lead",
+        "Researching",
+        "Spanish",
+        "Supervision"
+    ],
+    "experience": [
+        {
+            "title": "HR Manager",
+            "company": "Company Name, City, State",
+            "start_date": "04/2015",
+            "end_date": "Current",
+            "description": "Supervises, coaches, and counsels staff. Guides employees through the various employment processes such as corrective action and documentation. Ensures consistency and fairness, resolving complex policy related issues, conducting investigations, and make appropriate recommendations as needed. Provides guidance in developing employees for transfer and promotion. Manages the annual talent review, performance goal setting, performance review, development planning and compensation planning processes. Designs, implements, and facilitates new employee assimilation, orientation, coaching sessions, teambuilding, and interventions to increase team effectiveness. Mentors less experienced staff. Participates in special projects or completes other duties as assigned."
+        },
+        {
+            "title": "Office Operations Manager",
+            "company": "Company Name, City, State",
+            "start_date": "04/2013",
+            "end_date": "03/2015",
+            "description": "Provide first point of contact and daily functional administrative support to leadership/executive staff/work unit. Implement quality improvement ideas and Monthly audit of security policies, ensuring the company is in compliance with the guidelines. Communicate and report directly to Vice President regarding team performance and attendance. Plan, manage and communicate special projects and events; e.g., employee recognition programs, community activities, etc. Prepare customer correspondence. Serve as liaison between support staff and other divisions/department. Assist with the administration of the day-to-day operations of the human resources functions and duties, such as employee orientation, development, and recordkeeping."
+        },
+        {
+            "title": "Customer Support Manager",
+            "company": "Company Name, City, State",
+            "start_date": "10/2012",
+            "end_date": "03/2013",
+            "description": "Manage an email support team of ten members, who provided information to customers concerning their order status and accounts by researching online. Train all new incoming employees on all systems and customers handling skills. Project Lead on multiple projects and responsible for planning, executing, and keeping the projects on time. Handle all escalated customer related issues."
+        },
+        {
+            "title": "Teller",
+            "company": "Company Name, City, State",
+            "start_date": "02/2010",
+            "end_date": "08/2011",
+            "description": "Processing transactions for customers to help them manage their finances. Record all transactions promptly, accurately and in compliance with bank procedures. Ensure compliance with all internal controls and established policies and procedures. Explain, advise on and promote bank products and services to customers."
+        },
+        {
+            "title": "Retail Support",
+            "company": "Home Shopping Network",
+            "start_date": "02/2008",
+            "end_date": "01/2010",
+            "description": "Retail Support at Home Shopping Network. Supervision / Training and Instructions / Team Lead. Train new hires and junior staff on work procedures, systems and processes. Peer coach to others through support and encouragement. Act as a mentor to new hires. Provide retail customer service and sales via telephone and email."
+        },
+        {
+            "title": "Administration / Customer Services / Mentor",
+            "company": "Company Name, City, State",
+            "start_date": "02/2007",
+            "end_date": "01/2008",
+            "description": "Keep records of customer interactions and transactions, recording details of inquiries, complaints, and comments, as well as actions taken. Prepare correspondence and maintain files and records. Provide assistance to the public by answering a wide variety of questions by interviewing the individual, investigating the situation and resolving the problem."
+        },
+        {
+            "title": "Flight Attendant/Purser",
+            "company": "Company Name, City, State",
+            "start_date": "11/1998",
+            "end_date": "01/2007",
+            "description": "Act as Purser and prepare reports showing places of departure and destination, passenger ticket numbers, meal and beverage inventories, the conditions of cabin equipment, and any problems encountered by passengers. Keep records of customer interactions and transactions, recording details of inquiries, complaints, and comments, as well as actions taken. Act as primary liaison between the pilot and the passengers. Supervised junior flight attendants. Responsible for 400+ passengers. Conduct staff briefings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BAS in Management & Organizational Leadership",
+            "school": "St. Petersburg College",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "St. Petersburg College",
+            "year": 2010
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "Arthur Community College",
+            "year": 1996
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish",
+        "French"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To obtain a sales position utilizing my sales, leadership, consultative, and strategic thinking strengths.",
+    "skills": [
+        "acquisitions",
+        "closing",
+        "contracts",
+        "credit analysis",
+        "clients",
+        "due diligence",
+        "equity",
+        "financing",
+        "financial",
+        "financial statements",
+        "funds",
+        "government",
+        "Investment Banking",
+        "marketing",
+        "mergers",
+        "Outside sales",
+        "proposal",
+        "Real Estate",
+        "reporting",
+        "research",
+        "Sales",
+        "strategic"
+    ],
+    "experience": [
+        {
+            "title": "Senior Investment Banking Sales Analyst",
+            "company": "Company Name",
+            "start_date": "May 2013",
+            "end_date": "Current",
+            "description": "Quota Attainment - 195%; Outside sales of Investment Banking solutions including financing, mergers, and acquisitions. Closed over $70 Million in strategic Investment Banking solutions to the renewable energy vertical. Strategically partnered with investors, developers, businesses, and municipalities to close and accelerate deals. Project managed entire sales cycle from finding and qualifying the opportunity to securing financing and government incentives, to reviewing due diligence and closing the deal. Collaborated with internal execution team to accelerate sales by working on deal structuring and transaction cost management."
+        },
+        {
+            "title": "Investment Banking Sales Analyst",
+            "company": "Company Name",
+            "start_date": "February 2012",
+            "end_date": "May 2013",
+            "description": "Quota Attainment - 167%; Outside sales of Investment Banking solutions including financing, mergers, and acquisitions. Closed over $40 Million in strategic Investment Banking solutions to the renewable energy vertical. Strategically partnered with investors, developers, businesses, and municipalities to close and accelerate deals. Project managed entire sales cycle from finding and qualifying the opportunity, to securing financing and government incentives, to reviewing due diligence and closing the deal. Collaborated with internal execution team to accelerate sales by working on deal structuring and transaction cost management."
+        },
+        {
+            "title": "Investment Sales Analyst",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "February 2012",
+            "description": "Quota Attainment - 240%; Responsible for building, maintaining, and sales related to a $10 Million Managed REIT Hedge Fund. Conduct quarterly credit analysis and reviews for company and investors to build successful long term partnerships. Created detailed reporting and compliance reporting including financial statements and fund performance. Implemented Global Investment Sales and Performance Standards across the firm."
+        },
+        {
+            "title": "Registered Investment Representative",
+            "company": "Company Name",
+            "start_date": "March 2009",
+            "end_date": "January 2011",
+            "description": "Quota Attainment - 180%; Responsible for assisting in sales and research for multiple hedge funds. Created weekly portfolio attribution reports based on asset type and REIT operating sector to assist with securing new clients. Enforced compliance of internal code of ethics. Supported portfolio manager's investment thesis by analyzing and concluding that REIT preferred shares outperformed common shares directly after equity offerings in the beginning of the second quarter 2009. Surveyed over 330 properties and projected revenues for future performance."
+        },
+        {
+            "title": "Outside Sales Representative",
+            "company": "Company Name",
+            "start_date": "June 2008",
+            "end_date": "April 2009",
+            "description": "Responsible for booking over $100K in revenue. Full-service tour operator specializing in trips to Mexico as well as College Football game day trips. Arranged travel for over 100 clients and successfully negotiated multiple sales and marketing contracts. Door Knocked and walked up to people to drive sales."
+        },
+        {
+            "title": "Financial Analyst",
+            "company": "Company Name",
+            "start_date": "December 2008",
+            "end_date": "January 2009",
+            "description": "Created $3.4 million Real Estate Development proposal for a multi-family residential community in San Antonio. Created an asset-level pro-forma and financial model to achieve target IRR's of 18% or better. Competed and defended proposal in the National NAHB Competition in Las Vegas."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Finance",
+            "school": "Arizona State University, W.P. Carey School of Business",
+            "year": 2009
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

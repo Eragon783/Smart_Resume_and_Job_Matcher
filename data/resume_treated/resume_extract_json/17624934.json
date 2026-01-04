@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Seasoned healthcare leader and clinician with deep operations experience spanning multiple markets and health care delivery systems. Demonstrated ability to lead complex projects to successful completion, working with multi-disciplinary teams – Executive Leadership teams, physicians, management and staff/clinicians. 18+ years serving leading healthcare organizations across the country, including Mayo Clinic, UMHS and Cedars-Sinai as a Senior Leader with Deloitte Consulting LLP. Seeking opportunities to work with innovative, cutting edge organizations targeting healthcare transformations.",
+    "skills": [
+        "Identifying/Building New Service Offerings",
+        "Creative Problem Solver/Innovator",
+        "Process Transformation with Change Management",
+        "Healthcare Informatics (merging technical with operations)",
+        "Budget management (>$100M)",
+        "Growing and Developing High Performing Teams",
+        "Strategic Planning and Execution",
+        "Executive Communication (board/C-suite)",
+        "Multi-year / multi-region program management"
+    ],
+    "experience": [
+        {
+            "title": "Senior Manager/Specialist Leader, Healthcare",
+            "company": "Deloitte Consulting LLP",
+            "start_date": "May 1999",
+            "end_date": "March 2017",
+            "description": "Practiced as a Practice Leader in Deloitte's Healthcare Strategy and Operations Practice. Provided advisory services to enable clients to manage the changing healthcare landscape. Provided leadership and project management for large, complex multi-year technical and operational transformations. Clients served included Mayo Clinic, Kaiser Permanente, Cedars-Sinai, Sutter Health, University of Michigan Health System, CHI, and Children's Hospital of Wisconsin. Authored/contributed to whitepapers and published content on healthcare delivery and improvement."
+        },
+        {
+            "title": "Director of Home Care Services",
+            "company": "Unknown",
+            "start_date": "May 1996",
+            "end_date": "May 1999",
+            "description": "Directed homecare operations for a hospital-based agency serving a 10-county area (rural and urban). Participated in merger and acquisition planning. Re-engineered operations to increase efficiency and responsiveness, achieving ~40% cost/revenue improvements over one year. New program development included Infusion Services, Pediatrics, OB, Mental Health, and Private Duty."
+        },
+        {
+            "title": "Executive Director/Owner",
+            "company": "Unknown",
+            "start_date": "February 1993",
+            "end_date": "May 1996",
+            "description": "Developed, planned and implemented a cost-effective healthcare delivery system recognized as a model for children with special needs. Center provided nursing care as well as PT, OT, ST and educational services to medically fragile children and their families. First of its kind to receive JCAHO certification. Lobbied the State of Ohio Medicaid Waiver program to reimburse services provided at a freestanding facility. Contracted with third-party payors and insurers for reimbursement."
+        },
+        {
+            "title": "Nurse Manager/RN",
+            "company": "Rainbow Babies and Children's Hospital",
+            "start_date": "January 1984",
+            "end_date": "January 1993",
+            "description": "Managed a 35-bed Bone Marrow Transplant/Oncology unit. Daily operations management accountability. Participated as a design team member for facilities planning, workflow design, and patient care experience for a new 300-bed pediatric hospital."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Nursing",
+            "school": "Ursuline College",
+            "year": null
+        },
+        {
+            "degree": "Executive Healthcare Management Certification",
+            "school": "Case Western Reserve University Weatherhead School of Management",
+            "year": null
+        },
+        {
+            "degree": "MBA, Healthcare Management",
+            "school": "Cleveland State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "JCAHO certification",
+        "Executive Healthcare Management Certification"
+    ],
+    "languages": []
+}

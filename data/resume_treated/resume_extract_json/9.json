@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Tel-Aviv Area, Israel",
+    "summary": "Frontend developer with experience in React and ES6+. Proficient in HTML5/CSS3, Redux, Bootstrap, Material UI, and modern tooling (webpack, Babel, NPM). Familiar with Java, C#, and C/C++. Experienced in Agile environments, code reviews, and collaborative tools (GitHub, Trello, Slack, MS Teams). Proficient with design tools such as Figma and Adobe Photoshop; comfortable with UX-focused UI development.",
+    "skills": [
+        "JavaScript ES6+",
+        "Java",
+        "C#",
+        "C/C++",
+        "HTML5",
+        "CSS3",
+        "NPM",
+        "webpack",
+        "Babel",
+        "Bootstrap",
+        "Material UI",
+        "React",
+        "LESS",
+        "JSON",
+        "AJAX",
+        "WebStorm",
+        "Eclipse",
+        "IntelliJ IDEA",
+        "Android Studio",
+        "Visual Studio",
+        "Visual Studio Code",
+        "GitHub",
+        "Agile",
+        "UML",
+        "Adobe Photoshop",
+        "Figma",
+        "Slack",
+        "MS Teams",
+        "Trello"
+    ],
+    "experience": [
+        {
+            "title": "Customer Care Associate",
+            "company": "CGS",
+            "start_date": "2020",
+            "end_date": "2022",
+            "description": "Customer care for Dell in CIS; support Dell customers and service providers in the CIS region."
+        },
+        {
+            "title": "Frontend React developer",
+            "company": "Inetex Ltd",
+            "start_date": "2019",
+            "end_date": "2020",
+            "description": "Developed a single-page web application for ticket service: administrator/moderator control panel; user interface for booking and purchasing tickets through PayPal. Responsibilities included developing responsive UI, maintaining code, code reviews, adding features, fixing problems, and code deployment. Technologies used: ES6+, HTML5, CSS3, LESS, React, React Router, React DayPicker, Redux, Bootstrap, Material UI, MomentJS, JSON, NPM, Jest, ESLint, AJAX, webpack, Babel; Git, Scrum, pair-programming, Trello."
+        },
+        {
+            "title": "User Support and Information Security IT Specialist",
+            "company": "Bayer KAZ LLP",
+            "start_date": "2017",
+            "end_date": "2019",
+            "description": "Developing and supporting corporate website on SharePoint; user support; physical infrastructure monitoring; IT security issues monitoring."
+        },
+        {
+            "title": "Junior Web Developer",
+            "company": "STEAM & M",
+            "start_date": "2016",
+            "end_date": "2017",
+            "description": "Projects include an enterprise management system and road display system. Responsibilities: building and maintaining code, code reviews, adding and testing features, fixing problems. Technologies: Node.js, Asp.net, ES6+, HTML5, CSS3, Bootstrap, JSON, NPM, ESLint, AJAX, webpack, Babel. Tools: git, GitHub, Discord, VSTS."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Software Development",
+            "school": "STEP Computer Academy",
+            "year": "2017-2018"
+        },
+        {
+            "degree": "B.Sc. in Telematics",
+            "school": "Kazakh-German University",
+            "year": "2011-2015"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hebrew",
+        "Russian",
+        "German",
+        "Kazakh"
+    ]
+}

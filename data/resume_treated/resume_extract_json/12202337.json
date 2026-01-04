@@ -1,0 +1,71 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Accomplished and results-oriented investment professional with strong leadership and interpersonal skills who adds energy and value to organizational excellence.",
+    "skills": [
+        "MS Word",
+        "MS PowerPoint",
+        "MS Excel",
+        "Pivot Tables",
+        "Spreadsheets",
+        "Macros",
+        "Business Objects",
+        "Lombardi",
+        "Eagle Accounting System",
+        "PEGA",
+        "DRAS",
+        "Workbench",
+        "Reconciliations",
+        "Variance Analysis",
+        "Financial Analysis",
+        "Budgeting and Forecasting",
+        "Cash Forecasting",
+        "Analytical Thinking",
+        "Leadership",
+        "Training"
+    ],
+    "experience": [
+        {
+            "title": "Investment Accountant",
+            "company": "Company Name",
+            "start_date": "2012-10",
+            "end_date": "2015-11",
+            "description": "Reconciled mutual fund accounts with custody; identified and resolved differences in cash, currency and positions using Eagle, IAX, Business Objects, Lombardi and Workbench; communicated with and supported other areas in the firm; conducted weekly client meetings; trained and supervised offshore staff in Pune; assisted platform migration testing; ran daily fund accounting reports using Business Objects and MS Database; received special achievement awards in December 2013 and December 2014."
+        },
+        {
+            "title": "AML Compliance Officer",
+            "company": "Company Name",
+            "start_date": "2011-11",
+            "end_date": "2012-03",
+            "description": "Audited customers' bank accounts in the company's system; performed quality assurance reviews on customer information; reconciled QA results on spreadsheets; performed background searches on clients using World-Check and Google."
+        },
+        {
+            "title": "Medical Technologist",
+            "company": "Company Name",
+            "start_date": "2008-07",
+            "end_date": "2012-03",
+            "description": "Clinical Microbiology: ordering, processing, plating and culturing patients' specimens; rapid tests such as Rapid Flu and C. Difficile quick check and confirmatory tests; reading Gram stain slides; daily maintenance and quality control on instruments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration - Finance",
+            "school": "University of Delaware",
+            "year": "2011"
+        },
+        {
+            "degree": "Bachelor of Science - Medical Technology",
+            "school": "University of Delaware",
+            "year": "2008"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Marathi",
+        "Hindi",
+        "Gujarati"
+    ]
+}

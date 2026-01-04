@@ -1,0 +1,76 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Innovative and artistic fashion design professional with 20+ years in the industry. Skilled in product development, materials development, trend research, pricing negotiations and cross-functional collaboration. Strong attention to detail and ability to manage the full product creation lifecycle from concept to retail; experienced in fabric knowledge, vendor relations and quality assurance.",
+    "skills": [
+        "Creative direction",
+        "Competitive research and market trends",
+        "Price negotiating",
+        "Materials development",
+        "Merchandising",
+        "Product design and development",
+        "Quality assurance testing"
+    ],
+    "experience": [
+        {
+            "title": "Creative Design Consultant",
+            "company": "Company Name",
+            "start_date": "June 2015",
+            "end_date": "Current",
+            "description": "Consultant on women's design, styling and fabric quality and trim selections. Merchandise seasonal collections. Work on seasonal color palette. Research seasonal inspirations for patterns. Planning seasonal style count and color assortment."
+        },
+        {
+            "title": "Associate Manager - Materials Developer",
+            "company": "Company Name",
+            "start_date": "July 2012",
+            "end_date": "October 2014",
+            "description": "Researching, develop and sourcing of fabrics/trims that meet design vision, merchant requirements and company financial plans. Provide fabric/trim trend research to design in support of the product development process. Work directly with mills during the materials development process. Manage fabric/trim deadlines and tracking to meet seasonal TACT. Requesting and coordinating proto sample yardages/trims from the mills to the appropriate vendors. Work with Product Development and Quality Assurance to review fabric/trim qualities to ensure they meet Eddie Bauer standards and uphold the authenticity and personality of the brand. Fabric/Trim price negotiating to achieve the best price and IMU. Partner with Design and PLMs to ensure that appropriate materials are selected for the product."
+        },
+        {
+            "title": "Sr Designer - Freelance",
+            "company": "Company Name",
+            "start_date": "March 2010",
+            "end_date": "December 2011",
+            "description": "Designed and developed product concepts, managed design projects and collaborated with team members to ensure deadlines. Proposed color palettes and participated in color process, including defining lab dip needs and color-way development on a style-by-style basis. Worked as part of a team to identify general color direction on a seasonal basis. Developed fabrics, created pattern work and trims with domestic and international vendors."
+        },
+        {
+            "title": "Men's Sportswear Designer",
+            "company": "Company Name",
+            "start_date": "July 2005",
+            "end_date": "November 2009",
+            "description": "Initiated and interpreted new product concepts to meet customer needs, driving sales and growth. Managed design projects and coordinated with team members to meet deadlines. Proposed color palettes for assigned categories and participated in color processes, including defining lab dip needs and color-way development on a style-by-style basis. Developed fabrics, pattern work and trims with domestic and international vendors."
+        },
+        {
+            "title": "Men's Bottoms & Outerwear Designer",
+            "company": "Company Name",
+            "start_date": "September 2004",
+            "end_date": "June 2005",
+            "description": "Designed and managed the TB Men's Collection pants and shorts as well as the outerwear program each season. Developed and created technical sketches for garment styling and construction specifications. Daily communications with Hong Kong vendors on development and production issues. Knowledge in fitting garments. International travel to Hong Kong to work with liaison office and fabric/trim vendors."
+        },
+        {
+            "title": "Apparel Product Designer II",
+            "company": "Company Name",
+            "start_date": "March 2001",
+            "end_date": "September 2004",
+            "description": "Designed seasonal collections for the Men's and Boy's Sport Athletic Groups (Classic, Retro, Basketball, ILE, Training and Headwear/Accessories) as well as the Two 3 Men's Street Casual Line (Knits, Sweaters, Woven, Denim, Outerwear and Headwear/Accessories). Domestic and international travel for trend, trim and fabric research. Involved in merchandising the seasonal line through styling and color. Ensured that product was consistent with market trends as well as business strategy. Interacted closely with merchandising teams to execute seasonal lines according to style counts, gross margin requirements, and retail/catalog merchandising strategies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate Degree: Fashion Design",
+            "school": "Art Institute of Seattle",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Fine Arts: Fiber & Textiles",
+            "school": "University of Washington",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Best Product Wins 2013 - Award for Materials Development (Eddie Bauer)"
+    ],
+    "languages": []
+}

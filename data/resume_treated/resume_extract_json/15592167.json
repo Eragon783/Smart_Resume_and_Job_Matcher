@@ -1,0 +1,83 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "CPA Financial Accountant specializing in financial reporting and analysis. Experienced in managing licensing and royalty reporting for international brands (Disney, Warner Bros. and LEGO). Over 5 years in financial reporting and management accounting. Multicultural, bilingual (English & Chinese). Proficient in ERP/accounting systems and Microsoft Excel. Holds Master of Business: Accounting and CPA Australia license. Led development of an Excel tool to monitor minimum guarantees across 150+ licensing contracts.",
+    "skills": [
+        "Financial reporting",
+        "Royalty reporting",
+        "IFRS / AUS-IFRS",
+        "ERP systems",
+        "MYOB",
+        "RMS",
+        "Concur-SAP",
+        "Microsoft Excel",
+        "Microsoft Office",
+        "Cash flow management",
+        "Foreign currency management",
+        "Accounts payable",
+        "Accounts receivable",
+        "Payroll",
+        "Tax withholding",
+        "Financial analysis",
+        "Management accounting",
+        "Budgets and forecasting"
+    ],
+    "experience": [
+        {
+            "title": "Financial Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "2012-05",
+            "end_date": "2015-05",
+            "description": "Financial Reporting: Provide accurate, timely financial reports (B/S, P/L, Cash Flow) for management and external parties; apply AUS-IFRS accounting standards and company policy. Royalty Reporting: Manage 150+ royalty reports, monthly or quarterly, for Warner Bros, Mattel, Disney and LEGO; verify sales reports against licensing contracts, royalty rates and other funds; oversee royalty payments and withholding tax."
+        },
+        {
+            "title": "Assistant Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "2011-09",
+            "end_date": "2012-05",
+            "description": "Cash flow / Foreign currency management; manage banking and daily reconciliations; staff expense management via Concur-SAP; AP, AR and payroll; oversee payroll and financial controls; coordinate with International logistics."
+        },
+        {
+            "title": "Assistant Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "2008-08",
+            "end_date": "2011-09",
+            "description": "Ensure transactions comply with financial policies; prepare, verify and process invoices; code payments; maintain general ledger and formal banking/invoicing using MYOB and RMS; manage accounts receivable and payable."
+        },
+        {
+            "title": "Front Office Officer",
+            "company": "Company Name, City, State",
+            "start_date": "2007-07",
+            "end_date": "2008-08",
+            "description": "Take bookings; cash/payment handling; promote and sell products/services; online customer service; client care; assist with office/administrative tasks."
+        },
+        {
+            "title": "Internship - Credit Officer",
+            "company": "Company Name, City, State",
+            "start_date": "2007-01",
+            "end_date": "2007-04",
+            "description": "Administrative support; handle credit card inquiries from corporate clients; assess credit applications; gain knowledge of commercial banking regulations and credit products; liaise with managers and maintain client relationships."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business: Accounting",
+            "school": "Monash University",
+            "year": 2010
+        },
+        {
+            "degree": "Bachelor of Commerce: Accounting & Finance",
+            "school": "Victoria University",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        "CPA Australia"
+    ],
+    "languages": [
+        "English",
+        "Mandarin Chinese"
+    ]
+}

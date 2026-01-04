@@ -1,0 +1,59 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Currently pursuing a BA in Psychology to work with elementary youth in a classroom setting. Aimed to diversify educational experience to become a proficient Educator/Administrator/Behavioural Specialist.",
+    "skills": [
+        "Peer Council with Youth",
+        "Reading level assignment / leveled reading",
+        "Support for Students with Special Needs",
+        "Positive language and engagement",
+        "Instructed Personalized Lesson Plans",
+        "Critiqued student projects rather than simply correcting them",
+        "Addressed challenging student behavior",
+        "Strong problem-solving skills",
+        "Classroom support",
+        "Data / database management"
+    ],
+    "experience": [
+        {
+            "title": "Teacher Assistant",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2016-06",
+            "description": "Worked in cohorts with a team of T.A to provide classroom support with Tier I and Tier II who were not at reading and writing criteria according to common core standards, to help them undergo reclassification."
+        },
+        {
+            "title": "Executive Director Assistant",
+            "company": "Company Name",
+            "start_date": "2013-07",
+            "end_date": "2016-07",
+            "description": "Managed entire private school database and met weekly with administrators to obtain updated requirements for testing new potential EL Learner. Provided logistical support for Department Director on day-to-day office operations. Attended classroom audits in classroom observations performed by EL Specialist."
+        },
+        {
+            "title": "EXL Tutor & ELA Academic Tutor",
+            "company": "Company Name",
+            "start_date": "2017-08",
+            "end_date": "Present",
+            "description": "Provided an enriched classroom environment to a class of 20 1st grade students during afterschool. Supported students through homework, mathematics, reading, and enrichment activity tied to common core standards."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts: Psychology",
+            "school": "California State University, Los Angeles",
+            "year": "2019"
+        },
+        {
+            "degree": "Associate of Arts: Liberal Arts",
+            "school": "Los Angeles Technical College",
+            "year": "2015"
+        }
+    ],
+    "certifications": [
+        "CPR Certification (American Heart Association)",
+        "Mandated Reporting Certification"
+    ],
+    "languages": []
+}

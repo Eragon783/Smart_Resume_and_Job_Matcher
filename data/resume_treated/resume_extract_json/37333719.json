@@ -1,0 +1,69 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Social Worker with experience as Sexual Assault Crisis Counselor / Victim Advocate, crisis counseling, advocacy, community outreach, and supervision. Holds a Master of Social Work from Fordham University.",
+    "skills": [
+        "Active Listening",
+        "Curriculum Development",
+        "Group Facilitation",
+        "Crisis Counseling"
+    ],
+    "experience": [
+        {
+            "title": "Sexual Assault Crisis Counselor / Victim Advocate",
+            "company": "Company Name",
+            "start_date": "02/2013",
+            "end_date": "Present",
+            "description": "One on one trauma-informed crisis counseling to clients with an emphasis on empowerment. Provide advocacy and accompaniment for clients at the hospital, police and court level. Provide support and counseling to family members and friends of victims. Community Outreach. Facilitates multiple support groups to men and women at various community agencies. Legislative Advocacy Committee Liaison. Attend multiple community meetings, roundtables, committees, teams."
+        },
+        {
+            "title": "Clinical Social Work Intern",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "01/2012",
+            "description": "Visited clients in their homes, nursing facilities and hospital setting. Maintained a caseload of 20 - 30 clients. Provided Psych-Social initial and updated assessments. Developed care plans for clients and their families. Coordinated community services for clients and their families."
+        },
+        {
+            "title": "Community Educator Intern",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "",
+            "description": "Facilitated educational training in the community on domestic violence and sexual assault."
+        },
+        {
+            "title": "Supervisor",
+            "company": "Company Name",
+            "start_date": "02/2005",
+            "end_date": "06/2016",
+            "description": "Train and Supervise 153 employees and new supervisors."
+        },
+        {
+            "title": "Social Work Intern",
+            "company": "Company Name",
+            "start_date": "01/2001",
+            "end_date": "",
+            "description": "Developed and implemented curriculum on issues of domestic violence, sexual assault and self-esteem for male and female support groups."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Social Work",
+            "school": "Fordham University",
+            "year": "2012"
+        },
+        {
+            "degree": "Bachelor of Arts: Social Services",
+            "school": "Quinnipiac University",
+            "year": "2009"
+        },
+        {
+            "degree": "Associate of Science: Human Services",
+            "school": "Naugatuck Valley CC",
+            "year": "2006"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

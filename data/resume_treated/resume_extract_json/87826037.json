@@ -1,0 +1,68 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly motivated and results-oriented individual seeking an internship as an Aerospace Engineer at Northrop Grumman. Special interests include Unmanned Aerial Vehicles, Aeronautical Development and Design, Structural Analysis, and in related areas inside a competitive environment where I will use my experience to best serve the needs of the company.",
+    "skills": [
+        "MATLAB",
+        "AVL",
+        "C Programming",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "simulation",
+        "Conversational Spanish",
+        "Technical Writing",
+        "Teaching",
+        "Team Leader"
+    ],
+    "experience": [
+        {
+            "title": "UAV Simulations Team Member",
+            "company": "",
+            "start_date": "October 2013",
+            "end_date": "Present",
+            "description": "Collaborated with others to meet mission requirements and accomplish objectives for Northrop Grumman. Part of the UAV Simulations Team constructing models of the UAVs to obtain aerodynamic properties for flight test simulations. Worked directly with UAVs to take measurements to model them. Designed aerodynamic models using AVL; modeled lifting surfaces, control surfaces, and fuselage. Created data and run files of mass properties. Executed run files to obtain full linearization of the aerodynamic model about a flight state with specified mass properties. Extracted stability-axis derivatives to be imported into FlightGear to mirror flight characteristics."
+        },
+        {
+            "title": "Aero Design West Project Team Member",
+            "company": "",
+            "start_date": "October 2013",
+            "end_date": "Present",
+            "description": "Collaborated with a team to design and construct an aircraft for SAE Aero Design West. Sanded the balsa wood wings smooth for carbon fiber wrapping. Prepared the epoxy resin mixture for application. Wrapped the leading edge, wing spars, fuselage molds, and fuselage walls with carbon fiber. Sawed and drilled fuselage components."
+        },
+        {
+            "title": "Aeronautics F-22 Project Team Leader",
+            "company": "",
+            "start_date": "Winter 2014",
+            "end_date": "Winter 2014",
+            "description": "Performed as Team Leader for a team of four for the experimentation and analysis of flight dynamics and parameters of Lockheed Martin's F-22 Raptor. Implemented low-speed wind and water tunnel testing using test models to obtain and investigate flight dynamics and performance characteristics. Analyzed the flow vortices over the wing at varying velocities at increasing angles of attack. Calculated and observed the relationship and importance of Reynolds numbers on aerodynamic coefficients. Compiled a technical report detailing the results of the calculations and observations, and compared the accuracy of wind/water tunnel testing to theoretical F-22 characteristics."
+        },
+        {
+            "title": "Aviation Camp Assistant",
+            "company": "",
+            "start_date": "May 2013",
+            "end_date": "Present",
+            "description": "Assist children in building and flying model aircraft, launch rockets, complete flight simulation missions, and conduct flight-related science experiments. Assist in teaching course lessons based on aviation, air, and space topics. Organize and prepare lesson materials and work directly with instructors during hands-on projects and activities. Supervise elementary school-aged campers during sign-in, sign-out, and break times. Supervised field trips to aviation-related locations. Work with a team comprised of diverse instructors, assistants, and volunteers to provide children an educational and unforgettable experience."
+        },
+        {
+            "title": "Guest Experiences Specialist",
+            "company": "The Tech Museum",
+            "start_date": "August 2012",
+            "end_date": "January 2013",
+            "description": "Offer superior service to potential and actual guests to the museum according to established procedures. Handle a large volume of in-person questions about The Tech Museum's exhibits, programs, films, special events as well as the downtown San Jose area. Be knowledgeable about The Tech Museum's mission, programs and exhibits and stay current with the functioning of the entire institution. Greet school groups by meeting teachers at buses outside the Group entrance, giving chaperone and student instructions to large groups. Work collaboratively with other Guest Experiences staff, other museum staff and volunteers to provide an efficient and seamless experience for guests."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Aerospace Engineering",
+            "school": "California State Polytechnic University",
+            "year": "2016"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Conversational Spanish"
+    ]
+}

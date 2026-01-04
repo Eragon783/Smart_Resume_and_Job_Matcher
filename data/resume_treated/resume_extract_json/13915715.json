@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Ampang, Selangor, Malaysia",
+    "summary": "Reliable Legal Secretary with experience maintaining docket systems, tracking deadlines, coordinating depositions, and preparing legal documents such as briefs, motions and subpoenas. Proficient in Microsoft Office suite.",
+    "skills": [
+        "Interpersonal Skills",
+        "Managing",
+        "Access",
+        "Excel",
+        "Microsoft Office",
+        "Power Point",
+        "Publisher",
+        "MS Words",
+        "PUBLIC RELATIONS",
+        "PUBLICATION",
+        "SPSS",
+        "Supervisor",
+        "SYMPHONY"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Company Secretary",
+            "company": "Company Name",
+            "start_date": "2016-04",
+            "end_date": "Present",
+            "description": "Maintains docket systems, tracks deadlines, coordinates depositions; prepares legal documents such as briefs, motions and subpoenas."
+        },
+        {
+            "title": "Executive Secretarial",
+            "company": "Company Name",
+            "start_date": "2014-08",
+            "end_date": "2015-07",
+            "description": "Provided executive secretarial support; managed high-priority tasks and calendar coordination at Symphony House, Petaling Jaya."
+        },
+        {
+            "title": "Assistant Company Secretary",
+            "company": "Company Name",
+            "start_date": "2012-10",
+            "end_date": "2013-06",
+            "description": "Assisted Company Secretary with statutory secretarial duties; supported corporate administration at Shah Alam office."
+        },
+        {
+            "title": "Practical Student",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "2012-03",
+            "description": "Completed practical student training; engaged in courses and seminars related to corporate administration."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MAICSA Professional Level",
+            "school": "Malaysia Institute of Chartered Secretaries (MAICSA)",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor in Corporate Administration",
+            "school": "Universiti Teknologi MARA",
+            "year": "2012"
+        },
+        {
+            "degree": "Diploma in Public Administration",
+            "school": "Universiti Teknologi MARA",
+            "year": "2010"
+        }
+    ],
+    "certifications": [
+        "MAICSA Professional Level"
+    ],
+    "languages": [
+        "Malay (Speaking and Writing)",
+        "English (Speaking and Writing)",
+        "Arabic (Basic)"
+    ]
+}

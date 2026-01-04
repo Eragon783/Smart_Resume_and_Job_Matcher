@@ -1,0 +1,98 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "High-energy Manager, Analyst, and Executive Assistant. Successful in building and motivating dynamic teams. Cultivates a company culture in which staff members feel comfortable voicing questions and concerns, as well as contributing new ideas that drive company growth. I am naturally compelled to streamline costs, boost company morale and revenue through innovative management techniques, including all forms of social media. Organized and diligent, with excellent written, oral, and interpersonal communication skills.",
+    "skills": [
+        "Operations management",
+        "Staff development",
+        "Policy/Program development",
+        "HR experience",
+        "Supervision and training",
+        "Cross-functional team management",
+        "Coding/Multi-media knowledge",
+        "Complex problem solving",
+        "Calm under pressure",
+        "Sound judgment",
+        "Organizational Restructure/Change",
+        "Root cause analysis",
+        "MS Project",
+        "MS Office",
+        "Windows OS",
+        "Mac OS",
+        "Visio",
+        "Advanced coding in fbml, css, html",
+        "Database design (LBMMC- OBStat, WARS and NEC - PreLoad DB)",
+        "Reorganization",
+        "Procedural Evaluations",
+        "Ability to collect/analyze/report data",
+        "Teamwork and independent work",
+        "Cost reduction and efficiency improvement"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Administrator/Operational and Staff Reorg",
+            "company": "Company Name, City, State",
+            "start_date": "Oct 2006",
+            "end_date": "Apr 2007",
+            "description": "Responsible for all staff, which consisted of 6 office clerks, 4 surgeons, 3 remote transcriptionists, 3 part-time students, 2 medical assistants, 1 in-house biller, and 1 in-house transcriptionist. Negotiated all terms of a new contract to carve out 95% of in-house billing to an off-site medical billing company. Liaison between SDHS and 47 vendors (IT specialists, hospitals, medical supply vendors, OSHA Reps, etc.). Created comprehensive project plan for total relocation of the practice, beginning with construction and ending 2 months after the move. Cut costs substantially by eliminating unreliable staff and bringing in more motivated, efficient workers. Issued 2 promotions and 3 raises. Implemented employee reviews to improve communication and advancement. Implemented controls to adhere to compliance laws related to OSHA. Created project plans for staff accountability and taught timelines in Outlook. Implemented mandatory weekly staff and doctors meetings. Created templates for agendas/minutes and maintained task lists. Attended monthly off-site meetings for SHARP, SCRIPPS, etc. Bookkeeper for the entire corporation, plus 2 personal corps. Introduced Quickbooks to replace outdated accounting software. Reported payroll to Paychex. Operated in MS Office, MS Project, and Quickbooks daily."
+        },
+        {
+            "title": "Project Manager/Project Analyst/Executive Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "Oct 2004",
+            "end_date": "Oct 2006",
+            "description": "Responsible for complex projects for the VP of Risk Solutions and SVP of National Consumer Lending. Remote employee in office with the SVP and 3 other Project Managers. Traveled 35% of the time. Served as Project Manager on 3 large compliance-related controls regarding a new database developed for Risk Solutions Team. Created reports on data requirements, conducted gap analyses, defined project scopes, identified best practices, and created swimlanes and timelines in MS Project. Facilitated conference calls, created process flows, and analyzed information from meetings. Reconciled general ledger lines to create monthly variance reports for the SVP. Assisted compliance questions from fulfillment field reps. Monitored monthly budget and established new procedures, controls, and tools. Provided research and analytical support for project design, development, and implementation. Developed timelines, problems, and concerns, analyzed project requests, determined requirements and feasibility, and recommended improvements. Built solid relationships with all teams and operated in MS Office, MS Project, PowerPoint, and Visio daily."
+        },
+        {
+            "title": "Healthcare Administrator/Operations and Office Reorg",
+            "company": "Company Name, City, State",
+            "start_date": "Jun 2003",
+            "end_date": "Jan 2004",
+            "description": "Supervised a staff of 6 medical clerks, 3 doctors, and 1 psychologist. Managed payroll systems and implemented new accounting controls. Led initiatives that increased monthly revenue by optimizing operations and reducing waste. Maintained doctor files, recredentialing, CME hours, and hospital affiliations. Prepared weekly spreadsheets/reports in Excel and Access to ensure accurate statistics for income sources. Implemented cost-reduction measures and streamlined physical paper flow by introducing email for staff communications."
+        },
+        {
+            "title": "Healthcare Administrator/Business Office Reorg",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 2003",
+            "end_date": "Mar 2003",
+            "description": "Supervised a staff of 25 collectors and 25 administrative assistants. Investigated delinquent accounts and provided solutions for collections efficiency. Created and maintained daily cost-efficiency reports. Managed costs for supplies, doctors, and personnel, achieving a 25% reduction. Responsible for HR and personnel restructurings during the reorg."
+        },
+        {
+            "title": "Logistics Supervisor",
+            "company": "Company Name, City, State",
+            "start_date": "Mar 2002",
+            "end_date": "Dec 2002",
+            "description": "Contracted to supervise a special account with J.Crew Clothiers, managing a staff of 18. Created/maintained reports, manifests, and bills of lading manually via Excel. Designed a FoxPro database linked to Excel to produce a master list of items en route to the warehouse. Tracked freight from overseas to the warehouse and created reports. Implemented controls to ensure loading within legal parameters. Participated in problem solving and troubleshooting."
+        },
+        {
+            "title": "Junior Healthcare Administrator/Statistics Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "Mar 2000",
+            "end_date": "Jan 2002",
+            "description": "Identified opportunities to lower costs and increase efficiency to maintain federal grants. Worked with Decision Support, Medical Records, and other departments to analyze data and reimbursement patterns. Trained staff in data organization and database operations. Gathered and verified statistics via OBStat Database and ACCESS bridge. Maintained backup databases and scheduling programs (ANSOS) to streamline nurse scheduling. Departed due to corporate restructuring."
+        },
+        {
+            "title": "Statistics Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "Jul 1999",
+            "end_date": "Mar 2000",
+            "description": "Created and implemented the WARS database for the Pharmacy Administration Accounts Receivable Department. Archived figures for the Accounting Department and collaborated with Data Management. Produced daily reports in Excel for balances across on-site and remote sites. Managed payments/invoices and postings to A/R reps. Created spreadsheets for special projects and managed off-site storage archives. Electronically released medicines for billing and collection reps. Worked with multiple software systems (PDX, DESKTOP 7000, SCS, ANSOS, PC Anywhere). Transferred to the Newborn Careline Department when the position was created for me."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Psychology",
+            "school": "University of Southern California",
+            "year": null
+        },
+        {
+            "degree": "Associate of Arts in Social Sciences",
+            "school": "Long Beach City College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

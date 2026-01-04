@@ -1,0 +1,94 @@
+{
+    "name": "Chu-Hsiang Wu",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "",
+    "skills": [
+        "C++",
+        "Python",
+        "MATLAB",
+        "Git",
+        "Bash",
+        "R",
+        "SQL (basic)",
+        "Linux/Unix",
+        "Scikit-learn",
+        "Pandas",
+        "Seaborn",
+        "matplotlib",
+        "TensorFlow (basic)",
+        "CFD-DEM",
+        "OpenFOAM",
+        "CFD-ACE+",
+        "Fluent",
+        "COMSOL",
+        "LAMMPS",
+        "LIGGGHTS",
+        "CMG",
+        "FracPro",
+        "Saphir",
+        "SEM",
+        "AFM",
+        "Confocal Microscopy",
+        "Regression analysis",
+        "Statistical process control",
+        "Design of experiments"
+    ],
+    "experience": [
+        {
+            "title": "ENGINEERING INTERN",
+            "company": "Company Name, State",
+            "start_date": "2016-08",
+            "end_date": "2016-12",
+            "description": "Developed a cavings transport model for optimizing hole-cleaning operations. Developed a solids transport model for predicting bed height during hole-cleaning operations. A novel numerical model enables results within minutes, enabling timely optimization of well circulation schedule. Investigated the competitive landscape and designed the commercialization plan for the numerical model. Leveraged experiences from internal drilling experts and aligned with all stakeholders."
+        },
+        {
+            "title": "ENGINEERING INTERN",
+            "company": "Company Name, City, State",
+            "start_date": "2016-05",
+            "end_date": "2016-08",
+            "description": "Built a simulator to model proppant, diverter, and slurry distribution in a plug-and-perf hydraulic fracturing operation. Derived a simple proxy model to substitute CFD-DEM simulations for predicting diverter transport through perforation clusters. Simulation time dropped from 48+ hours to less than 1 sec. Provided recommendations for pumping schedule design in a fracturing treatment."
+        },
+        {
+            "title": "PROCESS ENGINEER",
+            "company": "Company Name, City",
+            "start_date": "2012-04",
+            "end_date": "2013-05",
+            "description": "Improve display yield through statistical modeling, process control, and tool modifications. Won Qualstar award in Nov. 2012 by completing two specific yield improvement tasks in merely two months, first time for QMT-TW to award its engineers after establishment. Optimized sealing process of interferometric modulator (iMoD) display that led to 52% pre-functional yield increase. Increased the uptime of panel encapsulation station from 73% to 92% by leading two tool-modification projects involving a group of 5 equipment engineers and 2 external support engineers from Japan."
+        },
+        {
+            "title": "PROPPANT/DIVERTER TRANSPORT in HORIZONTAL WELLS",
+            "company": "UT Austin",
+            "start_date": "2014-08",
+            "end_date": "present",
+            "description": "Evaluate the efficiency of proppant/diverter transport in perforated horizontal wells under different slurry flow conditions using a combined CFD-DEM approach. Developed a multivariate statistical model to substitute traditional CFD model for predicting proppant transport through perforations at various flow conditions. The computational cost dropped 5 orders of magnitude. Accurately predicted DAS-measured proppant distribution in a field case with less than 10% error."
+        },
+        {
+            "title": "DESIGN and SELECTION of GRAVEL PACK and SAND CONTROL SCREENS",
+            "company": "UT Austin",
+            "start_date": "2013-06",
+            "end_date": "present",
+            "description": "Develop analytical, DEM, and Monte Carlo models for predicting sand production through gravel packs and sand control screens. Accurately predicted 6 sand production lab-test results obtained from operators with less than 15% error using the developed model. Invented a DEM-based approach for extracting pore throat size distribution of complex packings. Results show that the pore throat sizes within gravel packs are usually between 1/5 to 1/9 of the effective gravel size. The findings correspond remarkably well with previous field observations and enable further optimization of gravel pack designs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D in Petroleum Engineering - Scientific Computation",
+            "school": "UT Austin",
+            "year": 2018
+        },
+        {
+            "degree": "M.S in Mechanical Engineering",
+            "school": "National Taiwan University",
+            "year": 2010
+        },
+        {
+            "degree": "B.S in Power Mechanical Engineering",
+            "school": "National Tsing Hua University",
+            "year": 2008
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

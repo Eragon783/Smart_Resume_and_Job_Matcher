@@ -1,0 +1,83 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Human Resources Business Partner with extensive experience aligning HR strategy with business strategy for assigned business groups. Expertise includes employee relations, coaching/mentoring, talent acquisition, salary planning, organizational design, workforce planning, talent management, succession planning, change management, and development. Proficient in HRIS (Workday, PeopleSoft, Oracle, HR Workways/Taleo) with excellent written and verbal communication, high confidentiality, and strong organizational skills.",
+    "skills": [
+        "Architect",
+        "Benefits",
+        "billings",
+        "calibration",
+        "Change Management",
+        "coaching",
+        "client",
+        "detail oriented",
+        "direction",
+        "Employee Relations",
+        "fast",
+        "Finance",
+        "hiring",
+        "HRIS",
+        "HR",
+        "human resources",
+        "insurance",
+        "Leadership",
+        "Legal",
+        "Marketing",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "MS Word",
+        "Oracle",
+        "organizational",
+        "PeopleSoft",
+        "performance management",
+        "processes",
+        "recruiting",
+        "recruitment",
+        "reporting",
+        "Self-motivated",
+        "Staffing",
+        "strategy",
+        "Strategic",
+        "strategy and planning",
+        "vendor relations",
+        "Verbal Communication Skills",
+        "Excellent Written"
+    ],
+    "experience": [
+        {
+            "title": "HR Manager/Business Partner",
+            "company": "Company Name - City, State",
+            "start_date": "January 2000",
+            "end_date": "January 2014",
+            "description": "Talent management; Employee relations coaching; Talent acquisition; Workforce planning. Point of contact for multiple business groups (400+ employees) including Finance, Legal, IT, Manufacturing, Marketing, and Service. Strategic Business Partner—collaborated with Vice Presidents and Directors on workforce planning, talent management, change management, and building organizational capability. Managed employee relations, partnering with legal counsel as needed. Facilitated talent management activities (performance management, training, development, calibration, salary planning, and talent reviews). Led workforce planning with Talent Acquisition; reviewed requisitions, analyzed trends, and implemented retention initiatives. Designed and executed HR plans, collaborating with HRIS, T&OD, and other HR functions to deliver value-added services. Change Management: led reorganizations, leadership changes, and reductions in force. Compliance: ensured legal compliance across HR disciplines."
+        },
+        {
+            "title": "Senior Human Resources Generalist",
+            "company": "Company Name - City, State",
+            "start_date": "January 1997",
+            "end_date": "January 2000",
+            "description": "Point of contact for a client group of 400+ employees in a fast-paced manufacturing environment. Strategic business partner with Vice Presidents and Directors. Talent Acquisition: managed 50+ open requisitions. Employee Relations: handled issues related to performance, harassment, investigations, mediations, terminations, and day-to-day inquiries. Benefits administration and compensation tracking; Workers' Compensation filings and OSHA reporting."
+        },
+        {
+            "title": "Associate Human Resources Representative",
+            "company": "Company Name - City, State",
+            "start_date": "January 1992",
+            "end_date": "January 1997",
+            "description": "Administered benefits programs for 800 employees (Flexible Benefits, 401(k), COBRA); maintained vendor relations; prepared monthly insurance billings. Employee relations for a client group of 100 employees. New hire orientation, coordinated employee events and awards, developed and managed Wellness Program. Processed Workers' Compensation claims, OSHA reporting, and leaves of absence. Supported recruiting functions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Business Administration",
+            "school": "California State University, City",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "SPHR Certification (HR Certification Institute) – 2010-present"
+    ],
+    "languages": []
+}

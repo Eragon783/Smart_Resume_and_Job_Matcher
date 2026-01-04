@@ -1,0 +1,85 @@
+{
+    "name": "Diana Dimas",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "English",
+        "Spanish",
+        "Instructor",
+        "Speaker",
+        "Safety",
+        "Supervising",
+        "Reading",
+        "Basic"
+    ],
+    "experience": [
+        {
+            "title": "Fitness Supervisor",
+            "company": "Galter LifeCenter",
+            "start_date": "2010",
+            "end_date": "Current",
+            "description": "Responsible for supervising and/or performing the day-to-day functions of the Fitness Specialists, Fitness Coaches, Interns, Fitness Consults and overall safety on the fitness floor. Hire, train, and evaluate fitness specialists and interns, compile and report outcome metrics, and monitor quality in all fitness testing aspects."
+        },
+        {
+            "title": "Personal Trainer",
+            "company": "Galter LifeCenter",
+            "start_date": "January 2011",
+            "end_date": "Current",
+            "description": "Provide personal training services to clients."
+        },
+        {
+            "title": "Fundamental Fitness Instructor",
+            "company": "Galter LifeCenter",
+            "start_date": "Unknown",
+            "end_date": "Current",
+            "description": "Teach the fundamentals of exercise and fitness to beginner exercisers and adults with chronic diseases."
+        },
+        {
+            "title": "Guest Lecturer",
+            "company": "Strength and Conditioning / Galter LifeCenter",
+            "start_date": "2013",
+            "end_date": "2014",
+            "description": "Guest lecturer on fitness topics; Personal Health (2014); Guest Speaker: Introduction to Sports Management."
+        },
+        {
+            "title": "Group Exercise Instructor",
+            "company": "Galter LifeCenter",
+            "start_date": "2011",
+            "end_date": "Current",
+            "description": "Led group exercise sessions; certifications include BOSU, Schwinn Cycling, Group Power, Group Step, Group Active, Group Core, Group Ride, R30, Group Groove, Shockwave, Arthritis Chair, Matter of Balance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.A. in Physical Education",
+            "school": "North Park University",
+            "year": "2011"
+        },
+        {
+            "degree": "B.A. in Psychology and Sports Medicine Fitness Management",
+            "school": "North Park University",
+            "year": "2003"
+        }
+    ],
+    "certifications": [
+        "ACE Certified Personal Trainer since 2005",
+        "BOSU",
+        "Schwinn Cycling",
+        "Group Power",
+        "Group Step",
+        "Group Active",
+        "Group Core",
+        "Group Ride",
+        "R30",
+        "Group Groove",
+        "Shockwave",
+        "Arthritis Chair",
+        "Matter of Balance"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

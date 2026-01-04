@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Rishon Lezion, Israel",
+    "summary": "Frontend developer with extensive experience designing, developing, implementing, and maintaining software used in sales, rental apartments, e-commerce, and human resources. Strong knowledge of frontend technologies and JS frameworks. Experienced in server-side development and database management systems administration. Passionate, driven, and an effective team player.",
+    "skills": [
+        "React",
+        "Redux",
+        "Material-UI",
+        "Cypress",
+        "Vue.js",
+        "Backbone.js",
+        "Marionette.js",
+        "jQuery",
+        "Sass",
+        "Django",
+        "PostgreSQL",
+        "Docker",
+        "Vagrant",
+        "HTML",
+        "CSS",
+        "Bitbucket",
+        "Python"
+    ],
+    "experience": [
+        {
+            "title": "Frontend developer",
+            "company": "Noviopus",
+            "start_date": "2020",
+            "end_date": "Present",
+            "description": "I manage and responsible for the development of two front-end applications of an intelligent recruitment system. Extended functionality of the existing application, refactored existing code base and prepared the application release. Developed the application from scratch based on React, designed the architecture of the application, implemented the core modules of the application. Stack: React, Redux, Material-UI, Cypress."
+        },
+        {
+            "title": "Frontend/Full Stack Developer",
+            "company": "Noviopus",
+            "start_date": "2018",
+            "end_date": "2018",
+            "description": "Designed, developed, and deployed frontend applications from scratch and implemented new features of existing projects. Used stack: React, Redux, Vue.js, Backbone.js, Marionette.js, jQuery, Sass. Developed the API endpoints for the distributed sales management system. Used stack: Django Framework, PostgreSQL, Docker, Vagrant. Optimized system performance by monitoring and rewriting SQL queries (PostgreSQL). Collaborated with technical support and assistance team in resolving customer technical issues."
+        },
+        {
+            "title": "Full Stack Developer",
+            "company": "kvartirka.com",
+            "start_date": "2017",
+            "end_date": "2018",
+            "description": "Migrated a Backbone.js codebase into React. Developed the API endpoints (Django framework) code coverage with unit tests (pytest)."
+        },
+        {
+            "title": "Developer",
+            "company": "Unknown",
+            "start_date": "2015",
+            "end_date": "2015",
+            "description": "Build custom e-commerce shops, commercial and corporate websites based on existing solutions and development from scratch. (Django, HTML, CSS, Bitbucket). Design, implementation and operation of database (MySQL)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Engineer’s Degree - Urban Construction and Management",
+            "school": "South Ural State University (SUSU), Chelyabinsk, Russia",
+            "year": "2004"
+        },
+        {
+            "degree": "Course: HTML/CSS, JavaScript, Python, Django",
+            "school": "GeekBrains - MAIL.RU group",
+            "year": "2016"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hebrew",
+        "Russian"
+    ]
+}

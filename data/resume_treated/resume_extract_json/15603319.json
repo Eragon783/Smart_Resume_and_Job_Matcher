@@ -1,0 +1,56 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Dedicated entomology professional with 10 years of experience in agricultural research and development, specializing in biological control. Skilled in data analysis, experimental design, area-wide surveys, data presentation, and integrated pest management.",
+    "skills": [
+        "Data collection",
+        "Inventory management",
+        "Statistical analysis",
+        "Sample preparation",
+        "Microsoft Office"
+    ],
+    "experience": [
+        {
+            "title": "Graduate Research Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "2013-01",
+            "end_date": "2016-04",
+            "description": "Assist with various research projects in the Center of Biological Control lab. Develop a potential biological control for Croton Scales (Phalacrococcus howertoni). Maintain culture of Croton scales and Thalassa montezumae under greenhouse and laboratory conditions."
+        },
+        {
+            "title": "Plant Protection Officer - Entomology",
+            "company": "Company Name, City, State",
+            "start_date": "2011-10",
+            "end_date": "2012-12",
+            "description": "Rear parasitoid wasp (Anagyrus kamali) and release in areas affected by the Pink Hibiscus Mealy Bug (Maconellicoccus hirsutus) with 95% success rate; determine parasitism levels at each site. Record data. Maintain cultures of Pink Hibiscus Mealy Bug and Anagyrus kamali at rearing facility. Develop solutions for pest problems in yam (Dioscorea spp.) in Jamaica. Establish and conduct field evaluations with treatments against yam nematodes. Develop Citrus Greening Management Programme in Jamaica in collaboration with FAO and Government of Jamaica. Assist in the island-wide survey for incidence of citrus greening and parasitism levels of Tamarixia radiate. Assist the monitoring programme for Area-wide Integrated Management Systems (AIMS) for Citrus greening in citrus orchards. Develop management program for the Beet Army Worm (Spodoptera exigua) and monitoring of farms in affected parishes. Establish & maintain Beet Army Worm culture in the laboratory. Conduct insecticide efficacy trial. Implement Integrated Pest Management of major pests of crops under Protective Cultivation in Jamaica. Data generated on temperature, humidity and pest status in greenhouse crops."
+        },
+        {
+            "title": "Field and Lab Research Assistant",
+            "company": "Company Name, City",
+            "start_date": "2002-12",
+            "end_date": "2011-10",
+            "description": "Receive diagnostic samples from extension officers and farmers. Prepare samples for diagnostics. Rear and preserve specimens as necessary. Establish experimental plots. Visit field for prescribed observations and data collection as per proposals. Monitor on- and off-station experimental plots for infestations. Maintain inventory of materials and lab space. Work on all research projects in the unit. Assist in Crop and Plant Protection Unit Integrated Pest Management Systems; develop threshold-based pesticides for several crops. Population dynamics study on Red Palm Mites and Broad Mites."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Entomology (Qualifying)",
+            "school": "Florida Agricultural & Mechanical University",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Science in Environmental Science",
+            "school": "Knox Community College",
+            "year": 2011
+        },
+        {
+            "degree": "Associate of Science in General Agriculture",
+            "school": "College of Agriculture Science and Education",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

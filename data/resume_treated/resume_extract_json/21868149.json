@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Zimbabwe",
+    "summary": "I aspire for a challenging position in a professional organization where I can enhance my skills and strengthen them in conjunction with the organization's goals. I am a multi-talented, respectful, assertive and willing-to-learn young lady whose primary vision is to improve and positively impact the world in its social, economic and political environments. This is a multi-dimensional vision in which any aspect branching thereof I am willing to zoom into. I enjoy being part of any team which shares my vision or that which will be a stable stepping stone in helping me achieve this vision.",
+    "skills": [
+        "Administrative management",
+        "Project Management",
+        "Report writing",
+        "Communication",
+        "Data collection",
+        "Data management",
+        "Monitoring and Evaluation",
+        "Grant writing",
+        "Proposal writing",
+        "Knowledge development",
+        "Documentation",
+        "Team building",
+        "Public relations",
+        "Workshop facilitation",
+        "Time management",
+        "Organizing",
+        "Financial budgeting",
+        "Data analysis",
+        "Computer literacy",
+        "English"
+    ],
+    "experience": [
+        {
+            "title": "Project Assistant",
+            "company": "Netherlands Development Organisation (SNV)",
+            "start_date": "2014-12",
+            "end_date": "2015-12-31",
+            "description": "Project Assistant for Rural Agriculture Revitalisation Programme - Commercialisation of Smallholder Farming. Responsibilities included monitoring and evaluation, timely reporting, feedback processes, coaching and evaluation of results, proposing corrective measures and lessons learnt, documentation and knowledge sharing, assisting in training workshops and report writing, coordinating stakeholder field visits, arranging meetings and travel, drafting proposals, and supporting project reporting and planning with Local Capacity Builders."
+        },
+        {
+            "title": "Agriculture Sector Intern",
+            "company": "Netherlands Development Organisation (SNV)",
+            "start_date": "2014-06",
+            "end_date": "2014-08",
+            "description": "Three-month internship assisting a FAO-funded project aimed at sustaining and improving livelihoods of vulnerable and emerging rural farming households. Built capacity of farmer groups to provide production, marketing and business development services; supported project administration and monitoring & evaluation; contributed to data collection and reporting; supported field visits and stakeholder coordination."
+        },
+        {
+            "title": "Attaché",
+            "company": "Netherlands Development Organisation (SNV)",
+            "start_date": "2013-05",
+            "end_date": "2014-02",
+            "description": "Attaché under the RARP-CSF programme in the Agriculture sector. Duties included strengthening documentation processes, data collection and analysis, development of case studies and related articles, contributing to data management systems, payments compliance and processing, regular field visits, coordinating stakeholder field visits, preparing requests for funds, maintaining inventory of project assets/resources, organizing venues and invitations, taking minutes, and contributing to monitoring & evaluation tools and reporting."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Development Studies",
+            "school": "Midlands State University",
+            "year": "2014"
+        },
+        {
+            "degree": "High School Diploma: Monitoring & Evaluation",
+            "school": "University of Zimbabwe",
+            "year": "2015"
+        },
+        {
+            "degree": "Executive Certificate in Project Management, Monitoring & Evaluation",
+            "school": "University of Zimbabwe",
+            "year": "2014"
+        },
+        {
+            "degree": "Advanced Level",
+            "school": "Denmark Training Services",
+            "year": "2009-2010"
+        },
+        {
+            "degree": "Ordinary Level",
+            "school": "Roosevelt Girls' High",
+            "year": "2004-2008"
+        }
+    ],
+    "certifications": [
+        "Certificate in Post-Harvest Management and Grading of Cereals, Pulses and Oil Seeds",
+        "Certificate in Fish Farming as a Business (Aquaculture)",
+        "Executive Certificate in Project Management, Monitoring & Evaluation"
+    ],
+    "languages": [
+        "English",
+        "Shona"
+    ]
+}

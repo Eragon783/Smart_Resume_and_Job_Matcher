@@ -1,0 +1,78 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Superior, Pennsylvania, USA",
+    "summary": "Dynamic, resourceful Chef Instructor Professor with extensive experience as a teacher, instructor, business owner and chef. Proven leader in strategic planning, risk management, service quality improvement, staff training and retention, team building, and operations. Experienced in college-level culinary instruction, program development, and fostering high standards and customer satisfaction.",
+    "skills": [
+        "Influential",
+        "Problem Solver",
+        "Strategic Planning",
+        "Risk Management",
+        "Service Quality Improvement",
+        "Staff Training",
+        "Staff-Retention Programs",
+        "Team Building",
+        "Team Leadership",
+        "Decision Making",
+        "Motivator",
+        "Problem Resolution",
+        "Employee Scheduling",
+        "Event Management",
+        "Promotion",
+        "Expense Control",
+        "High level of work standards",
+        "Prioritization",
+        "Environmental Stewardship",
+        "ServSafe Manager",
+        "Culinary Science",
+        "Lecture",
+        "Quality control",
+        "Safety",
+        "Sanitation",
+        "Maintenance",
+        "Hiring and training",
+        "HACCP",
+        "Food flow"
+    ],
+    "experience": [
+        {
+            "title": "Chef Instructor Professor",
+            "company": "Company Name",
+            "start_date": "2006-10",
+            "end_date": "2015-08",
+            "description": "Taught and supervised culinary science, food service, safety and sanitation topics at college level. Instructed students in volume food preparation for breakfast, lunch, or dinner service in cafeteria and professional industrial kitchen. Lectured on related topics including food preparation, proper tools, sanitation, and kitchen operations. Managed ordering, analyzed food costs, portion control, menu planning, merchandising, kitchen sanitation and maintenance. Engaged a diverse student body and emphasized building positive relationships and trust within a team environment. Wrote and implemented a culinary team to feed the homeless on Charleston's streets. Demonstrated high work ethics and standards for self, staff, and students."
+        },
+        {
+            "title": "Pastry Chef/Manager",
+            "company": "Company Name",
+            "start_date": "1995-01",
+            "end_date": "1997-01",
+            "description": "Patissier and Boulangar (baking and pastry chef), promoted to Garde Manger, with responsibilities including cold foods, salads, pates, and other charcuterie items. Quickly promoted to Chef De Cuisine. Coexisting moved to mother property Heritage Inn, Sun City, Arizona. Roles included Assistant Director of Kitchen/Dining Room Manager for a long-term care and skilled nursing facility; quality control of all foods and beverages, safety, sanitation and maintenance programs; hiring and training of personnel; accountability for line expectations, plating presentations, and menu planning/implementation; execution of resident and facility specialty functions."
+        },
+        {
+            "title": "Assistant Director of Kitchen/Dining Room Manager",
+            "company": "Long Term Care and Skilled Nursing Facility",
+            "start_date": null,
+            "end_date": null,
+            "description": "Directed quality control of all foods and beverages served to residents, guests and employees; led safety, sanitation and maintenance programs for staff; oversaw hiring and training of personnel for front and back of house; ensured accountability for all line expectations, plating presentations, and menu/function execution for resident and facility events."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Business Management",
+            "school": "The Art Institute of Pittsburgh",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Applied Science: Culinary Arts",
+            "school": "The Art Institute of Phoenix",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        "ServSafe Manager",
+        "HACCP"
+    ],
+    "languages": []
+}

@@ -1,0 +1,97 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Senior business development professional with experience in financial analysis, fundraising, and operations, delivering data-driven insights, leading revenue generation, and managing cross-functional teams in high-tech and hospitality settings.",
+    "skills": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Adobe",
+        "Java",
+        "Oracle JD Edwards Enterprise",
+        "Epitome/WinAl",
+        "Data Collection",
+        "Internet",
+        "Social Media",
+        "accounting",
+        "budgeting",
+        "coaching",
+        "contracts",
+        "client relations",
+        "senior management",
+        "financial analysis",
+        "financial reporting",
+        "forecasting",
+        "fundraising",
+        "leadership",
+        "logistics",
+        "marketing",
+        "negotiations",
+        "sales",
+        "program development",
+        "recruitment",
+        "researching"
+    ],
+    "experience": [
+        {
+            "title": "Director of Business Development",
+            "company": "Company Name",
+            "start_date": "July 2012",
+            "end_date": null,
+            "description": "Optimized financial operations by performing complex analyses on enterprise-wide negotiations, projections, time-of-business reviews, and guest port services distribution channels, claims/utilization costs. Determined the effectiveness of territory by analyzing and targeting specific sales reports. Provided data from multiple sources for monthly, quarterly, annual, and ad hoc reports for various departments and senior management; ensured data accuracy by identifying and resolving errors. Reviewed, analyzed, and resolved claims; initiated quarterly productivity analyses. Participated in tasks related to financial reporting, budgeting, forecasting, asset and liability reconciliation, working capital, and cash control."
+        },
+        {
+            "title": "Director of Business Development",
+            "company": "Company Name",
+            "start_date": "May 2014",
+            "end_date": "Present",
+            "description": "Work alongside the management team to investigate needs and propose routes for the business to achieve its goals. Implement agreed actions and achieve specific business objectives (managing a test marketing program or a promotional campaign, or introducing new systems), then managing hand-over and support if needed to sustain progress. Coordinate and lead the sales pursuit process. Develop the new business from new customers, and expand existing client relationships. Manage the sales strategies/plans to align with the company's long-range strategic objectives. Lead maintenance operations in a high-tech industry, releasing 20-30% capacity. Lead Customer Experience transformation, including diagnostic and design phases."
+        },
+        {
+            "title": "Fundraiser Director",
+            "company": "Company Name",
+            "start_date": "September 2012",
+            "end_date": "March 2014",
+            "description": "Provide collaborative leadership and coordinate submission of interdisciplinary proposals to support capital and needs to advance the needs and interests by researching and identifying sources of support or revenue generation. Develop fundraising strategies for specific projects and review them regularly; seek new and expanded opportunities to generate proposals based on mission and goals. Advise and assist the Executive Director in devising fundraising strategies and take the lead in developing new fundraising sources."
+        },
+        {
+            "title": "Coach and Camp Director / Private Coach",
+            "company": "Bolletieri Tennis Academy / Tennis Programs",
+            "start_date": "May 2001",
+            "end_date": "January 2012",
+            "description": "Provided coaching to promising junior players; ran tennis camps (2002-2004). Worked at Flamingo Park, Miami Beach, as an instructor; directed Miami Shores Country Club summer tennis camp for kids (2004). Negotiated contracts with Nike, Wilson, and Luxilon; supported recruitment and development of players to Brown University."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "school": "Miami Dade College",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelor of Science in Hospitality and Tourism Management Finance",
+            "school": "Florida International University",
+            "year": 2012
+        },
+        {
+            "degree": "CFA Level I",
+            "school": "CFA Institute",
+            "year": 2013
+        },
+        {
+            "degree": "Unknown Program",
+            "school": "Zagreb School of Economics & Management",
+            "year": 2001
+        }
+    ],
+    "certifications": [
+        "CFA Level I (December 2013)"
+    ],
+    "languages": [
+        "English",
+        "Croatian",
+        "Cyrillic"
+    ]
+}

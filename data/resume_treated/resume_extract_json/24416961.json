@@ -1,0 +1,119 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior Project and Product Manager with 17+ years of experience in leading and directing new product development and technology refresh projects from inception to launch. Proven ability to develop project initiatives, direct project plans, and achieve measurable performance targets.",
+    "skills": [
+        "Microsoft Project",
+        "Project Server",
+        "SharePoint",
+        "Office",
+        "Team Foundation Server",
+        "Project Planning",
+        "PMI",
+        "CMMI",
+        "Agile",
+        "Iterative",
+        "Rational",
+        "Waterfall",
+        "Risk Management",
+        "Requirements Management",
+        "Vendor Selection",
+        "Vendor Management",
+        "Portfolio Management",
+        "PMO",
+        "Higher Education",
+        "Computer Manufacturing",
+        "Software Development",
+        "Pharmaceuticals",
+        "Federal Government",
+        "Technology Consulting",
+        "Professional Services",
+        "Staffing and Recruiting",
+        "Testing and Certification Services",
+        "Systems Integration",
+        "Telecommunications"
+    ],
+    "experience": [
+        {
+            "title": "Technology Project and Product Manager",
+            "company": "Company Name",
+            "start_date": "2011-02",
+            "end_date": "Present",
+            "description": "Led technology project and product management initiatives including global launches, PMO integration, risk assessment procedures, portal-based project management solutions, and process ownership leading to CMMI Level 2 certification; also managed a $10M regional practice and started a project management service business."
+        },
+        {
+            "title": "Project Management Consultant (contract)",
+            "company": "Company Name",
+            "start_date": "2010-02",
+            "end_date": "2011-01",
+            "description": "Consulted with USDA staff on initiatives aimed at improving cooperation and communication between U.S. farmers and the USDA. Services were delivered towards standardization of project management, electronic calendaring, electronic bulletin boards, and SharePoint governance."
+        },
+        {
+            "title": "Practice Leader and Project Management Consultant",
+            "company": "Company Name",
+            "start_date": "2007-02",
+            "end_date": "2010-01",
+            "description": "Led the development of the company's SharePoint Services Practice with responsibility for $1MM in revenue generation as well as practice staffing and delivery. Engaged as Professional Project Manager for several clients to successfully implement large cross-functional initiatives; digitization of student records for a higher education client and automated workflow reducing processing time from weeks to days within the first 3 months. Managed two full-time and 3 contract resources."
+        },
+        {
+            "title": "Integrated Scheduling Consultant (contract)",
+            "company": "Company Name",
+            "start_date": "2006-09",
+            "end_date": "2007-01",
+            "description": "Developed the integrated master schedule in support of the engineering and launch of a new generation rocket launch vehicle; schedule components included analysis, engineering design, product assembly, testing, procurement, and NASA launch activities."
+        },
+        {
+            "title": "Founder and Principal",
+            "company": "Company Name",
+            "start_date": "2001-09",
+            "end_date": "2006-08",
+            "description": "Startup delivering professional project management consulting services and software-as-a-service project management portals developed on Microsoft Project Server and SharePoint Services. Clients included Procter & Gamble, Microsoft, Allegis Group, and Verizon."
+        },
+        {
+            "title": "PMO Director",
+            "company": "Company Name",
+            "start_date": "1999-01",
+            "end_date": "2001-06",
+            "description": "Directed the startup of the company's PMO in support of the company's $10 million service business, including project and program management practice standards, strategic business planning, and new business risk assessment. Designed and implemented the company's solution delivery methodology, combining Microsoft Solutions Framework, PMBOK, and Rational Unified Process (RUP)."
+        },
+        {
+            "title": "Project Leader (contract)",
+            "company": "Company Name",
+            "start_date": "1997-01",
+            "end_date": "1999-01",
+            "description": "Responsible for delivering project and program management consulting services to Procter & Gamble Pharmaceuticals Research & Development Division. Accomplishments included concurrent submission of new drug applications to six countries; Corporate Practice Deployment Lead."
+        },
+        {
+            "title": "Regional Manager, Professional Services Delivery",
+            "company": "Company Name",
+            "start_date": "1987-05",
+            "end_date": "1994-02",
+            "description": "Responsible for the development and deployment of project management standards and best practices for the U.S. Professional Services Organization, including development of new service deliverables and participation in global standardization initiatives. Managed a regional professional services project management practice covering a four state area, including a staff of 15 and a $5 million revenue responsibility."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters Certificate: Technology Project Management",
+            "school": "George Washington University",
+            "year": 1997
+        },
+        {
+            "degree": "MBA",
+            "school": "Loyola University",
+            "year": 1987
+        },
+        {
+            "degree": "Bachelor of Science: Business Administration",
+            "school": "Towson University",
+            "year": 1983
+        }
+    ],
+    "certifications": [
+        "PMI certification",
+        "CMMI certification",
+        "Certified Microsoft Professional: Enterprise Project Management and SharePoint Portals"
+    ],
+    "languages": []
+}

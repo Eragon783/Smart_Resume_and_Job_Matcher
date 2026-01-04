@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Creative and highly-motivated Communications and Marketing professional with experience creating engaging and interesting work that achieves results. Highlights Adobe Photoshop, InDesign, Illustrator, Experience with mobile applications, Microsoft Office Suite Constant Contact and Mailchimp Etapestry",
+    "skills": [
+        "Adobe Photoshop",
+        "Illustrator",
+        "InDesign",
+        "Cvent",
+        "CrowdCompass' mobile application software",
+        "Microsoft Office",
+        "Constant Contact",
+        "Mailchimp"
+    ],
+    "experience": [
+        {
+            "title": "Communications Coordinator",
+            "company": "Company Name",
+            "start_date": "2014-10",
+            "end_date": "Present",
+            "description": "Authored articles on featured topics, current events and human interest stories to stimulate readership; increased circulation by more than 2,000. Managed content and designed the layout and look of the company's conference mobile app. Created webpage copy for newly designed website. Ran the company's Facebook and Twitter Accounts."
+        },
+        {
+            "title": "Communications and Editorial Assistant",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "2014-09",
+            "description": "Created event listings, media lists and press releases for the magazine. Promoted and helped execute fundraising benefit/auction and concert; raised over $9,000. Customer relations on phone and in the office."
+        },
+        {
+            "title": "Communications Intern",
+            "company": "Company Name",
+            "start_date": "2013-05",
+            "end_date": "2013-08",
+            "description": "Created various forms of communication pieces including a survey, press release, newsletter articles, event invitation, spreadsheets of competing organizations, etc. Created several web pages for company and improved the layout and organization of company's website."
+        },
+        {
+            "title": "Server and Host",
+            "company": "Company Name",
+            "start_date": "2011-02",
+            "end_date": "2011-08",
+            "description": "Strengthened customer base and close relationships with patrons of restaurant. Provided prompt service while taking orders, serving food and closing the check. Helped clean and organize kitchen and restaurant. Helped set up and serve parties and events of more than 100 people. Experience and knowledge in fine dining."
+        },
+        {
+            "title": "Public Relations Volunteer",
+            "company": "Company Name",
+            "start_date": "2012-09",
+            "end_date": "2012-12",
+            "description": "Met with client throughout the semester to discuss their needs for strategic communications. Created various forms of public relations writing assignments for client including pitch letters, news releases, fliers, fact sheets, feature stories, media lists, and created script for public service announcement."
+        },
+        {
+            "title": "Public Relations Volunteer",
+            "company": "Company Name",
+            "start_date": "2012-09",
+            "end_date": "2012-12",
+            "description": "Met with head of Elon University Health and Human Performance department to create strategic communications for client. Created focus group questions, survey, and completed focus group with Elon students to measure students' beliefs and opinions about the department of Health/Human Performance. Created report of the research and presented findings of research to Department of Health/Human Performance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Strategic Communications",
+            "school": "Elon University",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I have been working as a graphic designer for Vanderbilt University for twenty years. Additionally since 2013, I have been supervising/advising a team of anywhere from ten to 17 student designers who perform work for Vanderbilt students and student groups.",
+    "skills": [
+        "InDesign",
+        "Photoshop",
+        "Illustrator",
+        "Quark",
+        "Microsoft Word",
+        "Acrobat",
+        "Photo manipulation",
+        "Retouching",
+        "Illustration",
+        "Wordmark design",
+        "Graphic design",
+        "Brochures",
+        "Posters",
+        "Logos",
+        "Promotional materials",
+        "Printing",
+        "News releases",
+        "Public relations",
+        "Design"
+    ],
+    "experience": [
+        {
+            "title": "Sr. Graphics Designer",
+            "company": "Company Name, City, State",
+            "start_date": "2007-02",
+            "end_date": "2017-04",
+            "description": "Graphic design work for all offices within the office of the Dean of Students including brochures, postcards, ads, posters, fliers, table tents, invitations, T-shirts, logos, banners, et.al. This involves work for any or all of the following departments: Active Citizenship & Service; Arts & Campus Events; Assessment and Special Projects; Black Cultural Center; Center for Student Wellbeing; Chaplain & Religious Life; Office of University Central Administration; Conferences Office; Greek Life; Housing and Residential Education; Inclusion Initiatives and Cultural Competence; International Student & Scholar Services; LGBTQI Life; Project Safe Center; Reservations & Events; Student Accountability, Community Standards, & Academic Integrity; Student Centers; Student Leadership Development; Student Organizations; Transition Programs; Margaret Cuninggim Women's Center; and sometimes projects outside of DOS when specially requested by the Dean of Students. Conduct research and collect information for all design projects. Assist with the development and implementation of marketing and public relations plans and strategies; write brochures, news releases and other promotional materials; handle details of production. Supervise, train, and assign work to ACE student workers. Compile data for preparation of budget. Contact printer and orchestrate final outcome of design products. Contact vendors and other professionals in preparation for design and marketing projects. Attend marketing and/or related seminars related to programs in Dean of Students."
+        },
+        {
+            "title": "Marketing/PR Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "1996-01",
+            "end_date": "2007-01",
+            "description": "Graphic design work for Student Campus Events and more within the Office of the Dean of Students including brochures, postcards, ads, posters, fliers, table tents, invitations, T-shirts, logos, et.al. Areas include Great Performances at Vanderbilt, Greek Life, Vanderbilt Dance Group, Sarratt Gallery at Vanderbilt, Sarratt Studio Arts, Vanderbilt Homecoming, International Lens, and more. Conduct research and collect information for all design projects. Assist with the development and implementation of marketing and public relations plans and strategies; write brochures, news releases and other promotional materials; handle details of production. Supervise, train, and assign work two student workers. Compile data for preparation of budget. Contact printer and orchestrate final outcome of design products. Contact vendors and other professionals in preparation for design and marketing projects. Compose press releases and edit text. Coordinate, update and maintain all mailing lists. Attend marketing and/or related seminars related to programs in Sarratt."
+        },
+        {
+            "title": "Secretary III",
+            "company": "Company Name, City, State",
+            "start_date": "1994-01",
+            "end_date": "1996-01",
+            "description": "Update and maintain mailings for all functions relating to the Student Center. Prepare mailings for distribution. Coordinate, update and maintain all mailing lists. Compose press releases and edit text. Track history for all performances presented by Sarratt. Prepare time sheets for employees. Answer phones, file and substitute for cashier."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name, City, State",
+            "start_date": "1988-01",
+            "end_date": "1992-01",
+            "description": "Oversee all gallery operations. Prepare for openings, i.e., publicity and related mailings. Sell works of art and follow up with payment to artists. Write press releases and follow up on contacts. Create and maintain database for tracking all works of art. Prepare bulk mailings for promotional purposes. Create filing system, prepare payroll and sale tax forms. Maintain office and building supplies. Collect rent and handle all tenant related problems. Oversee custodial services."
+        },
+        {
+            "title": "Secretary III",
+            "company": "Company Name, City, State",
+            "start_date": "1977-01",
+            "end_date": "1988-01",
+            "description": "Support for Director of Management Information Systems & User Support Services. Compose and prepare memos, letters, reports etc. Set up and maintain departmental files. Handle confidential material such as personnel files, employee turnover reports. Reconcile monthly departmental budget variances. Handle travel arrangements and coordinate business calendar. Maintain assignment and personal computer logs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in English",
+            "school": "Indiana University of Pennsylvania",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

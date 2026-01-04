@@ -1,0 +1,78 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am a human resources & business administrator with over 10 years of progressive experience; augmented by a strong post-graduate background in human resources, conflict resolution, and international relations. I have experience in HR policy and organizational design, job analysis, employee management, recruitment/selection process, benefits/compensation, contract negotiations, performance management, training/development, and strategic planning. I have a sound knowledge of labor relations, occupational health & safety, pay equity and other related labor laws locally and internationally. I've proven ability to implement successful human resources management strategies to support corporate mandate.",
+    "skills": [
+        "Microsoft Office (Word, Excel, PowerPoint)",
+        "Data Track Time and Attendance Software",
+        "Electronic Data Interchange (EDI) Software",
+        "Press releases",
+        "Publicity",
+        "Spreadsheet",
+        "Training programs"
+    ],
+    "experience": [
+        {
+            "title": "Human Resources Supervisor",
+            "company": "Company Name",
+            "start_date": "2011-08",
+            "end_date": "2015-08",
+            "description": "Developed job profiles and sourced candidates from major job boards; selected, interviewed, and recruited for positions. Administered employee benefit plans to ensure compliance with FLSA and other applicable statutes/regulations. Handled employee terminations, grievance, and other difficult situations in a sensitive, fair, and respectful manner, working closely with legal counsel, supervisors and management. Coached managers on evaluating employees, setting goals, conducting objective performance reviews, and recognizing and awarding performance to improve productivity. Planned and developed on-the-job training programs for line employees and career development programs for managers with a focus on retaining existing talent and reducing employee turnover. Identified talent and aspirations of individual employees and provided coaching aimed at motivating them to advance their careers within the company. Established and maintained proper structures and processes to track time and attendance, vacations, and other activities resulting in efficiency gains of 35%. Implemented Payroll and HR policies (reduce overtime rate) resulting in annual cost savings of 100,000."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "2009-10",
+            "end_date": "2011-05",
+            "description": "Established an open channel of communication, enabling employees quick and easy access to information such as benefits, training and development, and opportunities for career advancement. Designed and implemented a holistic HR strategy to meet short term & long-term business challenges with focus on the following key areas such as talent & leadership, culture & values, engagement & connect, supervisory capability, productivity & cost. Created a training program to develop employees to meet both core and job competency gaps. Worked directly with the HR manager to redesign the company's compensation and benefits. Prepared PowerPoint presentations, created Excel spreadsheet reports, gathered/distributed confidential reports. Executed comprehensive learning calendar to meet individual / organizational needs; ensured use of standards, processes and tools developed by the Global learning organization."
+        },
+        {
+            "title": "Field Researcher",
+            "company": "Company Name",
+            "start_date": "2006-12",
+            "end_date": "2009-05",
+            "description": "Travels to field sites to collect and record data and/or samples as appropriate to the specific objectives of the study. As appropriate to the specified position, codes and verifies data in accordance with specified research protocol and coding procedures, and enters data into a computer database and/or spreadsheet application for subsequent analysis. Develops or assists in the development of interview schedules; contacts potential subjects to introduce and explain study objectives and protocol, and to arrange interviews, either in person or by telephone. Identifies and compiles lists of potential research subjects in accordance with study objectives and parameters, as appropriate to the individual position. Conducts and records face-to-face and/or telephone interviews with subjects, in accordance with predetermined interview protocol, data collection procedures, and documentation standards. Reviews and edits data to ensure completeness and accuracy of information; follows up with subjects to resolve problems or clarify data collected."
+        },
+        {
+            "title": "Public Relations Officer",
+            "company": "Company Name",
+            "start_date": "2002-07",
+            "end_date": "2005-12",
+            "description": "Planned publicity strategies and campaigns. Wrote and produced presentations and press releases. Dealt with enquiries from the public, the press and related organizations. Organized promotional events such as press conferences, open days, exhibitions, tours and visits. Spoke publicly at interviews, press conferences, and presentations. Provided clients with information about promotional opportunities and current PR campaigns. Responsible for company relationship with other companies and government bureaus. Assisted in developing and implementing the company's communication strategies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration: Human Resource Management",
+            "school": "University of the Southwest",
+            "year": "2017"
+        },
+        {
+            "degree": "Master of Arts: Conflict Transformation and Peacebuilding",
+            "school": "Eastern Mennonite University",
+            "year": "2014"
+        },
+        {
+            "degree": "Master of Science: International Relations",
+            "school": "University of Khartoum",
+            "year": "2008"
+        },
+        {
+            "degree": "Post-Graduate Diploma: International Relations",
+            "school": "University of Khartoum",
+            "year": "2005"
+        },
+        {
+            "degree": "Bachelor of Arts: English Language",
+            "school": "University of Khartoum",
+            "year": "2002"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Arabic"
+    ]
+}

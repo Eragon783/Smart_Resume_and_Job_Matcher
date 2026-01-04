@@ -1,0 +1,72 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Master teacher looking for new role and Industry. I'm looking to leverage the valuable skills, knowledge, and experiences as a teacher to advance a new client or organization in an executive or leadership position.",
+    "skills": [
+        "Instructional Design",
+        "Teaching",
+        "Progress Monitoring",
+        "Course Development",
+        "Evernote",
+        "Slack",
+        "Social Media",
+        "Excel",
+        "Outlook",
+        "Adobe Photoshop",
+        "Management",
+        "Staff",
+        "Projects",
+        "Daily Scheduling",
+        "Financial Analysis",
+        "Security Trading",
+        "Portfolio Management",
+        "Liability Structuring",
+        "Research",
+        "Analysis",
+        "Planning"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name – City, State",
+            "start_date": "08/2014",
+            "end_date": "Current",
+            "description": "Teaches classes in accordance with requirements of approved courses of study and monitors student progress; plans using information about students' strengths and needs; designs activities aligned to standards to promote high levels of learning; maintains a safe, supportive classroom environment; initiates and participates in IEP meetings; uses behavior modification techniques to implement IEP goals; communicates with families; fosters collaboration through group projects; evaluates performance of subordinate personnel."
+        },
+        {
+            "title": "Robotics and Design Instructor",
+            "company": "Company Name – City, State",
+            "start_date": "08/2012",
+            "end_date": "09/2014",
+            "description": "Provided lectures on Robotics kits, programming, and theory; enhanced design knowledge through instructor-oriented workshops; modified lessons to accommodate diverse learners using peer-assisted learning and group work."
+        },
+        {
+            "title": "Executive Advisor",
+            "company": "Company Name – City, State",
+            "start_date": "08/2015",
+            "end_date": "Current",
+            "description": "Portfolio management realizing 20-25% annually over 5 year period; conducted research and analytics; provided relocation services for clients and families; guided clients through Time and Asset Restructuring System; developed anti-fragile contingency and recovery strategies for Black Swan events; planned and launched large-scale events increasing revenue; implemented process improvements to automate office operations; improved office efficiency and internal communications; drafted work contracts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.Ed. in Teaching",
+            "school": "University of California, Los Angeles",
+            "year": "2016"
+        },
+        {
+            "degree": "Bachelor of Arts in Psychology",
+            "school": "The University of New Mexico",
+            "year": "2003"
+        },
+        {
+            "degree": "Studio Arts",
+            "school": "Santa Monica College",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

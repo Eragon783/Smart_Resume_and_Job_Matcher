@@ -1,0 +1,63 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "CONSTRUCTION MANAGER Professional Summary Motivated Construction Manager highly effective at finding the best methods possible to complete exceptional construction projects. Strong knowledge of building construction and civil engineering principles and concepts. I collaborate successfully with staff and contractors to complete multi-million dollar projects.",
+    "skills": [
+        "OSHA Certified",
+        "Excellent customer relations",
+        "Subcontractor management",
+        "Knowledgeable in construction safety",
+        "Best building practices",
+        "Interior and exterior renovation",
+        "Scaffolding",
+        "Commercial construction",
+        "Fall Protection Plan (FPP)",
+        "Strong interpersonal skills",
+        "Design experience",
+        "Project scheduling",
+        "Building systems and services",
+        "State Certified Erosion and Sedimentation Control Inspector",
+        "Designed and built custom homes",
+        "Subject Matter Expert in all construction trades",
+        "State Certifications in Concrete Field",
+        "Asphalt Field",
+        "Soils and Aggregate"
+    ],
+    "experience": [
+        {
+            "title": "Construction Manager",
+            "company": "Company Name – City, State",
+            "start_date": "2011-06",
+            "end_date": "2014-02",
+            "description": "Project scheduling; State Certified as an Erosion and Sedimentation Control Inspector. Held and recertified in Field Concrete Testing, Soils and Aggregate Compaction, Nuclear Gauge Safety and Hot Mix Asphalt field. Panned, Designed and built Custom Homes. Subject Matter Expert in all construction trades. Performed construction management and inspection duties involving erection of new structures; installation of equipment and systems; or alteration or major repair of existing structures; accomplished studies and design work of complex, conventional nature; provided technical expertise and guidance to the Contracting/Engineering team during negotiations of individual delivery orders. Served as Construction Manager at multiple sites, overseeing design and construction of projects involving large-scale state facilities and infrastructures with tight budgets and schedules. Observed and investigated construction at all stages to identify problems in contractor performance and materials; completed contractor performance evaluations. Conducted reviews and coordination activities; prepared progress reports and ensured timely permits and approvals. Coordinated utility services; conducted weekly contractor meetings; prepared punch lists; and guided third-party inspectors through project construction, commissioning and closeout."
+        },
+        {
+            "title": "Construction Manager",
+            "company": "Company Name – City, State",
+            "start_date": "2003-04",
+            "end_date": "2011-06",
+            "description": "Reviewed plans and specs during pre-construction; coordinated utility service providers; conducted weekly contractor meetings; performed site observations; conducted pre-installation conferences; archived project photographs; prepared punch lists; oversaw building turnover; assisted operations with warranty repairs; provided safety kits and guidance to landscaping projects; performed quality audits and supported third-party inspectors through project closeout; managed project timelines and budgets."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate of Completion",
+            "school": "Transportation Construction Management Institute",
+            "year": "2012"
+        },
+        {
+            "degree": "Coursework in Project Scheduling and Budget; Continuing Education in Construction Management",
+            "school": "Virginia Tech",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "State Certifications in Concrete Field",
+        "State Certifications in Asphalt Field",
+        "State Certifications in Soils and Aggregate",
+        "OSHA Certified"
+    ],
+    "languages": []
+}

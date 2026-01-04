@@ -1,0 +1,90 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Resourceful and extroverted safety professional with five plus years of hands on experience in safety coordination. Expert in occupational safety and emergency management. Well versed in handling employee compensation claims and supervising risk analysis.",
+    "skills": [
+        "Facility monitoring",
+        "OSHA safety guidelines",
+        "Risk analysis",
+        "Employee claims handling",
+        "Insurance underwriting",
+        "Claim processing",
+        "Industrial hygiene standards",
+        "OSHA regulatory authorities",
+        "Designing and implementing precautionary programs based on risk analysis",
+        "Establishment and promotion of state-approved occupational policies and guidelines",
+        "Safety reporting and documentation",
+        "Safety inspections and incident investigations",
+        "Safety training and awareness",
+        "OH&S targets achievement",
+        "Safety policy development",
+        "Safety management",
+        "Emergency management"
+    ],
+    "experience": [
+        {
+            "title": "Construction Safety Officer",
+            "company": "Company Name, City, State",
+            "start_date": "Sep 2010",
+            "end_date": "Jul 2014",
+            "description": "Responsible for doing regular work site inspections and bringing any safety issues up to field management. Responsible for filing regular local state and federal safety reports for each project. Responsible for creating a monthly safety briefing for project managers and executives working out of the main office."
+        },
+        {
+            "title": "Safety Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "Nov 2008",
+            "end_date": "Current",
+            "description": "Conduct risk analysis and issue safe work method statements regularly. Monitor and supervise standard operation procedures at the premises. Conduct monthly employee safety audits, issue audit reports and make necessary changes in the standard procedures. Carry out safety inspections and incident investigations. Conceived and implemented a unique weekly risk analysis mechanism that reduced accident rate by 10%. Trained 25 employees regarding implementation of OSHA regulatory authority guidelines. Led the company in achieving monthly OH&S targets consistently via ensuring implementation of best employee safety practices."
+        },
+        {
+            "title": "Safety Intern",
+            "company": "Company Name, City, State",
+            "start_date": "Jul 2008",
+            "end_date": "",
+            "description": "Provided safety guidance for operations and personnel at the resort. Forwarded and processed employee claims. Anticipated safety hazards via extensive surveying and took precautionary measures accordingly. Supervised safety management at the environmental laboratory department."
+        },
+        {
+            "title": "Construction Safety Officer",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2005",
+            "end_date": "Sep 2010",
+            "description": "Responsible for weekly work site safety audits that were distributed to field and office management. Worked closely with field management to maintain all local state and federal safety standards. Responsible for developing safety policies for each project and updating policies for ongoing projects."
+        },
+        {
+            "title": "Construction Safety Officer",
+            "company": "Company Name, City, State",
+            "start_date": "Jun 1998",
+            "end_date": "Aug 2005",
+            "description": "Responsible for weekly safety reports that were presented field and office management. Responsible for quarterly safety audits for the local state and federal safety agencies. Responsible for developing and updating all safety policies on all work sites."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate degree, Risk Management",
+            "school": "Barrington College",
+            "year": 2008
+        },
+        {
+            "degree": "Associate's Degree, Construction Administration",
+            "school": "Ullman Community College",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        "Construction Safety",
+        "Employee Claim Processing",
+        "Certified Fire Fighter and CPR Trained",
+        "Forklift Certified",
+        "TWIC",
+        "OSHA 500 Authorized Construction Trainer",
+        "OSHA Authorized Disaster Site Trainer",
+        "HAZMAT Certified",
+        "National Safety Council CP NSC First Aid Instructor Certification",
+        "ITT Baton Rouge training: Basic Pipefitting, Basic Operations, Instrumentation",
+        "Louisiana Building & Construction Trades Council Safety Council Course",
+        "Firefighting Skills"
+    ],
+    "languages": []
+}

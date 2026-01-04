@@ -1,0 +1,64 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Motivated customer service professional with retail leadership experience, strong communication and merchandising skills. Proven ability to coach staff, manage operations, handle cash, and deliver excellent customer experiences under pressure.",
+    "skills": [
+        "Attentive Listener",
+        "Excellent multi-tasker",
+        "Strong communication and interpersonal skills",
+        "Visual merchandising",
+        "Attention to detail",
+        "Bilingual",
+        "Usage of presentation software",
+        "Cash handling accuracy",
+        "Time management",
+        "Ability to work under pressure and to tight deadlines",
+        "Result driven"
+    ],
+    "experience": [
+        {
+            "title": "Acting Grade 4 Customer/Brand",
+            "company": "Company Name – City, State",
+            "start_date": "Oct 2015",
+            "end_date": "Jan 2016",
+            "description": "Coached and developed staff; ensured store operations were fulfilled; maintained open communication with management; trained and coached associates; monitored floor coverage and workloads; maintained positive work environment; performed tasks assigned by on-duty leader; managed Gapcards, Media Ambassador duties, and weekly safety audits; oversaw shipments, merchandising, and timely refreshers; kept stockroom organized and visuals up to date."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name – City, State",
+            "start_date": "May 2015",
+            "end_date": "Oct 2015",
+            "description": "Delivered excellent customer service; advised customers on styles, fits, and products; stayed informed about promotions and sister store; maintained store standards; executed operational processes; promoted Gapcards and benefits of cardholder programs."
+        },
+        {
+            "title": "Nights and Weekend Manager",
+            "company": "Company Name – City, State",
+            "start_date": "Feb 2014",
+            "end_date": "Mar 2015",
+            "description": "Opened/closed the store; counted cash drawers and made bank deposits; built and maintained relationships with peers and management; directed and coached team members; held staff accountable for performance goals; attended monthly meetings; informed customers about products and services; led marketing initiatives to maximize sales; maintained structured and peaceful workplace."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name – City, State",
+            "start_date": "Jun 2011",
+            "end_date": "Feb 2014",
+            "description": "Provided exceptional service throughout the shopping experience; balanced multiple customers in a fast-paced environment; kept store clean and stock organized; advised customers on suitable products and services; selected as product demo and party host; processed sales transactions accurately and promptly."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High school diploma",
+            "school": "Leuzinger High School",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Science in Psychology and Communication",
+            "school": "California State University Channel Islands",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

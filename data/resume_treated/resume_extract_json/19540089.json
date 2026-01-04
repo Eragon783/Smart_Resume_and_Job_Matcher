@@ -1,0 +1,89 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Ten years experience with high-volume manufacturers, demonstrating leadership and strong project management execution skills. Instrumental in reducing labor and overhead $2.5 million and contributing to operational goals and business profit. Strengths include financial reporting, forecasting, budgeting process and internal control.",
+    "skills": [
+        "Budgeting",
+        "Forecasting",
+        "Financial Analysis",
+        "Financial Reporting",
+        "Cost Accounting",
+        "Variance Analysis",
+        "Cost Reduction",
+        "Standard and Actual Costing",
+        "GAAP",
+        "Hyperion",
+        "Continuous Improvement",
+        "Inventory Control",
+        "Six Sigma",
+        "Certified Public Accountant",
+        "Results-Oriented Mindset",
+        "Working under pressure",
+        "accountability",
+        "adaptability",
+        "team player",
+        "energized and motivated",
+        "interpersonal and communication skills"
+    ],
+    "experience": [
+        {
+            "title": "Finance Manager / Plant Controller",
+            "company": "Company Name",
+            "start_date": "Nov 2013",
+            "end_date": "Present",
+            "description": "Replaced prior CFO prior to Regal acquisition. Led key initiatives and re-established the credibility of finance team, and played a key role in the management team. Improved margin accuracy, and drove gross margin 3.6% year-over-year increase (COGS reduction); Led obsolete inventory review and drove significant reduction; also assisted sourcing team improved DIO reduction. Provided reliable and timely project by project expense, capitalization, amortization and spending data for all departments. Prepared monthly and quarterly forecast, as well as annual operations planning, including top line sales, capital expenditure, variable cost projects (4-6% year over year reduction), SG&A and business three year long range planning. Improved finance closing process and shortened closing duration by 1-2 days and closed 7 gaps and added 5 control procedures to ensure monthly financial reporting accuracy. Provided accurate and timely reports to mechanical finance group. Expanded roles and provided support in IT, supply chain functions."
+        },
+        {
+            "title": "Plant Controller",
+            "company": "Company Name",
+            "start_date": "Jan 2011",
+            "end_date": "Dec 2013",
+            "description": "Manage financial and accounting functions for the manufacturing plant generating annual external sales $65M and internal sales $35M. Accountability extends to financial reporting, products profit and operating expense analysis, capital project planning, and inventory control. Lead HVAC operation finance team to create standard operating procedures (SOP) and job instruction breakdown (JIBs) on annual budgeting process. Selected Contributions: Communicated opportunities and threats from forecast and assisted management in decisions to achieve $7.8M operating margin, 3% higher than plan. Led one shift platform, driving $2.5M annual savings. Lead annual physical inventory, identified discrepancies, decreased finished goods inventory cycle count by over 50%. Ensure internal controls at plant level compliant with US GAAP."
+        },
+        {
+            "title": "Senior Financial Analyst",
+            "company": "Company Name",
+            "start_date": "Jan 2007",
+            "end_date": "Jan 2011",
+            "description": "Tracked and provided North America inventory reports for all plants and logistics centers. Assisted the plant controller with $100M operational budget planning, including labor, variable overhead and fixed overhead. Led cost allocation project for annual standard cost roll up. Ensured implementation of company cycle count policy with monthly meetings with operations on adjustments, audits of counts quarterly, and quarterly audit of finished goods inventory. Selected Contributions: Closed, maintained and reconciled the plant general ledger; analyzed variances on a monthly basis; coordinated fixed assets audits; conducted post-audit reviews on capital spending projects; oversaw the monthly closing process and reported plant performance with cost-saving opportunities."
+        },
+        {
+            "title": "Marketing Manager",
+            "company": "Company Name",
+            "start_date": "Jan 1998",
+            "end_date": "Jan 2000",
+            "description": "Attained sales of 1.3 million USD in 1999; developed strategic marketing planning, created new markets and expanded customer base. Led projects from initiating relationships with customers through IT-enabled project completion."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Accountancy",
+            "school": "Missouri State University",
+            "year": "2011"
+        },
+        {
+            "degree": "B.S. in Accounting",
+            "school": "Missouri State University",
+            "year": ""
+        },
+        {
+            "degree": "International Finance and Accounting",
+            "school": "Amsterdam Business School",
+            "year": ""
+        },
+        {
+            "degree": "B.S. in English",
+            "school": "Shanghai International Studies University",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Certified Public Accountant",
+        "Lean Six Sigma Green Belt (2011)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "913.710.7339",
+    "location": "Kansas City metro area (KCMO/KS); Overland Park, KS",
+    "summary": "IT professional with extensive experience in system administration, virtualization (VMware ESXi, Microsoft Hyper-V), data-center migrations, cloud adoption (Azure, AWS), backup/DR, and network security. Proven ability to design, implement, and manage complex infrastructure, move production environments to the cloud with minimal downtime, and coordinate across vendors and ISPs. Skilled in SAN/storage ( EMC VNX/VNXe ), monitoring (SolarWinds), and security devices (Cisco ASA, WatchGuard, F5 BigIP).",
+    "skills": [
+        "Cisco UCS",
+        "Cisco ASA",
+        "F5 BigIP LTM/ASM",
+        "Brocade SSL Load Balancer",
+        "WatchGuard",
+        "SonicWall",
+        "VMware ESXi (3.5-5.5, 4.1-5.5, HA/DFS/vMotion)",
+        "Microsoft Hyper-V",
+        "Windows Server 2003-2012",
+        "Exchange Server 2003/2010/2013",
+        "IIS",
+        "SQL Server",
+        "AppAssure",
+        "Orion SolarWinds",
+        "EMC VNX 5300",
+        "VNXe 3200",
+        "Unisphere/Navisphere",
+        "VEEAM",
+        "Trilead VMX",
+        "Unitrends",
+        "EMC Navisphere",
+        "Dell switches/servers",
+        "Cisco UCS Blade Server",
+        "SAN / Fibre Channel",
+        "10Gb Fabric",
+        "iSCSI",
+        "TCP/IP / DNS / DHCP",
+        "Azure",
+        "AWS",
+        "Pertino",
+        "Backup/DR",
+        "P2V",
+        "PBX/VoIP (Grandstream)",
+        "Data Center relocation / migration",
+        "Networking"
+    ],
+    "experience": [
+        {
+            "title": "Systems Administrator",
+            "company": "Sprint ISP Management to the Vendor",
+            "start_date": "May 2014",
+            "end_date": "Present",
+            "description": "Performed system administration for clients in KCMO/KS; moved critical servers to data center without interruption; migrated production servers to Azure and AWS; conducted cost analyses for cloud transition; moved office, designed network infrastructure; setup wireless infrastructure; installed PBX Grandstream; migrated from analog to fiber with DID for PBX; restructured backup with Dell AppAssure (backup of 22 Windows VMs including 2 SQL and 2 Exchange); completed P2V using ESXi 5.5; converted 22 servers; configured Orion SolarWinds to monitor and report on network devices; coordinated cutover of 21 remote locations; technologies included SonicWall/Cisco ASA Firewall, Windows Server 2003-2012, ESXi 4.1-5.5; Exchange 2007/2013; IIS; Dell switches/servers; AppAssure; Azure/AWS; Pertino; EMC VNX 5300/VNXe 3200."
+        },
+        {
+            "title": "Systems Engineer",
+            "company": "Company Name, City, State",
+            "start_date": "January 2013",
+            "end_date": "May 2014",
+            "description": "Relocated company production network from MainMark DataCenter to Layered Tech ATC after company sold; built new infrastructure using Cisco UCS B200 Blade Server and VMware ESXi 5.1 Enterprise; EMC VNX 5300 SAN/Fibre Channel; migrated SSL certificates from Brocade Load Balancers to F5 BigIP LTM; configured Orion SolarWinds monitoring; redesigned ESXi 5.1 installation to HA/DFS/vMotion with Fibre Channel to SAN."
+        },
+        {
+            "title": "IT Director",
+            "company": "Company Name, City, State",
+            "start_date": "September 2007",
+            "end_date": "January 2013",
+            "description": "Performed hardware, software and network upgrades; installed Windows Server 2003 Enterprise and upgraded to 2008 R2; maintained system security for 32 servers and 90 end-users; implemented ESXi virtualization expanding from 4 to 32 servers; analyzed infrastructure to plan layout; technologies included Watchguard, Cisco switches, Dell/HP servers and switches, Windows Server 2003/2008, ESXi 3.5-5.1, Exchange 2003/2010 DAG, IIS, Trilead VMX, VEEAM, Unitrends."
+        },
+        {
+            "title": "Kansas State Government contractor",
+            "company": "State Government Contractor, Kansas (City 66062)",
+            "start_date": "January 2001",
+            "end_date": "January 2007",
+            "description": "Provided IT support for state government contracts, including workstation/server deployment, network maintenance, security best practices and troubleshooting; experience with Windows NT/2000/2003 environments and related networking technologies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Business Management",
+            "school": "Ottawa University, Overland Park Campus",
+            "year": null
+        },
+        {
+            "degree": "BS in IT",
+            "school": "Ottawa University, Overland Park, KS",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "CCNA",
+        "CCDA",
+        "MSCE",
+        "VMware ESXi"
+    ],
+    "languages": [
+        "English"
+    ]
+}

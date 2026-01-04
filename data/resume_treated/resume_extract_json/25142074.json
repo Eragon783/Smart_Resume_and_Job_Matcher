@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Administrative assistant with stylist background, informed by art history and design. Dedicated to clear and fruitful communication through delivery of unmatched customer experiences. Interdisciplinary studies in art provide a contextualized perspective and ingenuity.",
+    "skills": [
+        "Graphic design",
+        "composition & illustration",
+        "Writing",
+        "Proficient Typist",
+        "Microsoft Office Suite",
+        "Instagram",
+        "Twitter",
+        "Facebook",
+        "Painting",
+        "drawing",
+        "sculpture",
+        "weaving",
+        "Yoga",
+        "meditation",
+        "Certified Yoga Teacher"
+    ],
+    "experience": [
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name – City , State",
+            "start_date": "04/2020",
+            "end_date": "02/2021",
+            "description": "Remotely managed customer service, client scheduling, inventory and monthly profit of product sales."
+        },
+        {
+            "title": "Personal Assistant to Lead Stylist",
+            "company": "Company Name – City , State",
+            "start_date": "10/2018",
+            "end_date": "03/2020",
+            "description": "Personal Assistant to a 2 million dollar book, which we grew to 3 million within a year. Personally managed the stylists business; coordinating client appointments, carrying out pre-appointment pulls, executing special orders, managing internal/external communications, and overseeing issue resolution. Curated stylist's personal online boutique, Salesfloor, as well as the presentation of product within the stylists personal appointment room. Designed etagere, jewelry display and the stylist's personally requested stock (on Memo pieces). Processed all sales, allowing the stylist to give undivided attention to clients. Independently led styling appointments as needed. Coordinated tailoring and personal styling during the alterations process. Styled full bridal parties, including celebrity clients and a Vogue feature. Styled “Saks Limitless Clients” for travels to New York and Milan Fashion week, where they attended runway events. As well as styling for galas and benefits such as the Oscar de la Renta Lake Tahoe Benefit. Assisted and facilitated private country club MTM Armani Event. Consistently monitored Stylist's Sales Performance, followed up with strategies to improve performance and successfully maintain a trajectory to meet sales goals. Organized and styled quarterly fashion events to present latest product arrivals and seasonal trends to Saks management, executives, and stylists."
+        },
+        {
+            "title": "Front Desk Receptionist, Stylist Assistant",
+            "company": "Company Name – City , State",
+            "start_date": null,
+            "end_date": null,
+            "description": "Client and administrative responsibilities. Balancing cash drawer & end of day batch processing. Personal Assistant to salon owner."
+        },
+        {
+            "title": "Key Holder",
+            "company": "Company Name – City , State",
+            "start_date": null,
+            "end_date": null,
+            "description": null
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name – City , State",
+            "start_date": null,
+            "end_date": null,
+            "description": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Fine Arts",
+            "school": "School of The Museum of Fine Arts - Boston",
+            "year": 2017
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Brookline High School",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "200 Hour Yoga Teacher Certification – Kripalu Center for Yoga and Health, Stockbridge, MA (2016)"
+    ],
+    "languages": []
+}

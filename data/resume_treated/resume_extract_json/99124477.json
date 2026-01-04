@@ -1,0 +1,94 @@
+{
+    "name": "Swapanali Dhend",
+    "email": null,
+    "phone": null,
+    "location": "Pune, India",
+    "summary": "7+ years of experience in analysis, design, coding, testing, database administration and production support of mainframe applications. Banking and financial services domain with legacy systems. Proficient in IBM mainframe development using COBOL II, CICS, JCL, DB2, VSAM on MVS/ZOS/UNIX. Experienced with BRIO reporting, debugging tools (XPEDITOR, IBM DEBUGER), DB2 utilities (QMF, SPUFI, FILE-AID), and CM tools ENDEVOR and SCLM. Skilled in SRS/HLD/LLD, OPC scheduling, problem resolution and production support.",
+    "skills": [
+        "MVS",
+        "Z/OS",
+        "OS/390",
+        "Windows",
+        "UNIX",
+        "COBOL II",
+        "COBOL",
+        "CICS",
+        "JCL",
+        "DB2",
+        "VSAM",
+        "BRIO",
+        "QMF",
+        "FILE-AID",
+        "SPUFI",
+        "ENDEVOR",
+        "SCLM",
+        "OPC",
+        "RACF",
+        "TSO/ISPF",
+        "ABEND-AID",
+        "SDSF",
+        "DCLGEN",
+        "ICETOOL",
+        "BMS",
+        "IBM SORT",
+        "REXX",
+        "PL/I",
+        "SQL",
+        "HTML",
+        "XML",
+        "JavaScript",
+        "Java",
+        "MS-Office",
+        "BRIO Reports",
+        "RMDS",
+        "MQ"
+    ],
+    "experience": [
+        {
+            "title": "Associate Consultant",
+            "company": "HSBC Core Banking",
+            "start_date": "2010-10",
+            "end_date": "2014-07",
+            "description": "Developer/Team Member/Team Lead responsible for core banking modules. Activities included design proposals, development of new programs, creating CICS maps and service programs, release coordination, and production support. Prepared high level design and technical specifications, performed performance tuning, testing and defect resolution, and maintained project documentation. Led daily status reporting, knowledge sharing, and mentorship to team members to ensure timely and quality delivery."
+        },
+        {
+            "title": "System Engineer",
+            "company": "IBM India Pvt Ltd, Pune",
+            "start_date": "2007-03",
+            "end_date": "2010-10",
+            "description": "DBA/Developer for Marketplace Information Warehouse (MIW) and Legacy Data projects on Z/OS. Responsible for DBA activities (loading/unloading data, authorization, utilities), change request management, production support (L3), and development of BRIO/QMF/Spufi reports. Involved in application design, OPC scheduling, and delivering reports across LDW ESW and LDS projects using PL/I/JCL/VSAM/DB2 in a MVS/DB2 environment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Finance",
+            "school": "Symbiosis University",
+            "year": 2011
+        },
+        {
+            "degree": "BE Computer",
+            "school": "Pune University",
+            "year": 2005
+        }
+    ],
+    "certifications": [
+        "IBM Certified z/OS Database Administrator",
+        "DB2 Application Developer",
+        "DB2 UDB V8 Fundamentals"
+    ],
+    "languages": [
+        "COBOL",
+        "JCL",
+        "CICS",
+        "VSAM",
+        "SQL",
+        "HTML",
+        "XML",
+        "JavaScript",
+        "Java",
+        "REXX",
+        "PL/I",
+        "English",
+        "Hindi"
+    ]
+}

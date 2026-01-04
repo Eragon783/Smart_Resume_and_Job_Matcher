@@ -1,0 +1,82 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Technology support professional with experience in workstation and application support, end-user support via phone in a service desk environment. Experienced in installing, troubleshooting, maintaining computer systems, software and peripherals. Highlights include network traces, technical standards, critical thinking, telecommunications field service, network security, network protocols, internet technologies, Windows, MS Office, data management, Cisco routers and switches, IP telephony, Visio, and problem solving.",
+    "skills": [
+        "Knowledge of Telecom industry",
+        "Experience in 2-way radio systems",
+        "Satellite systems",
+        "FCC/FAA knowledge",
+        "802.11 wireless",
+        "Wireless VOIP protocols and Wireless Mobility",
+        "Network Protocols: TCP/IP, SIP, MGCP, SCCP, MPLS",
+        "Windows 7",
+        "Windows 10",
+        "Active Directory",
+        "TCP/IP networking",
+        "Tablet Technologies",
+        "Smartphone technologies",
+        "Microsoft Office proficiency",
+        "Messaging technologies (Exchange, SMTP)",
+        "Wireless technologies",
+        "VPN technologies",
+        "PC Security",
+        "Telecommunications",
+        "Web Technologies",
+        "Video Conferencing",
+        "Internet Technologies",
+        "Cisco routers and switches",
+        "IP Telephony",
+        "Visio",
+        "Analysis and problem solving",
+        "Network traces",
+        "Technical standards and deliverables",
+        "Critical thinker"
+    ],
+    "experience": [
+        {
+            "title": "Field Support Specilist",
+            "company": "Company Name",
+            "start_date": "2017-06",
+            "end_date": "Present",
+            "description": "Download radio and alarm panel programming information into new/existing accounts in response to telephone requests. Provide real-time installation quotes to field technicians and limited technical support to customers. Enter order information into the system for technician upsells and process payments as applicable. Troubleshoot system functionality related to radio registrations and panel programming in response to failed confirmation requests. Process data changes received via mail, fax, phone or internal ticket on Informix and MasterMind. Supports reps with CPQ and Matrix; schedules new installations and add-on equipment (Order Entry); supports system and device upgrades. Verifies customer contract/billing accuracy. Captures, maintains and verifies customer information with painstaking attention to detail. Utilizes contingency plans during system outages to continue to support our internal customers. Provides site redundancy for Home Heath Provisioning and Technical Assistance Groups."
+        },
+        {
+            "title": "Technical Support Representative",
+            "company": "Company Name",
+            "start_date": "2017-01",
+            "end_date": "2017-01",
+            "description": "Customer service role providing technical & customer service support via phone & video chat, to customers who require assistance navigating or trouble shooting issues they may experience within Intuit and Turbo Tax Products. Resolved customer complaints and concerns with strong verbal and negotiation skills. Provided thorough support and problem resolution for customers. Managed IT setup and service requests for Intuit and Turbo Tax."
+        },
+        {
+            "title": "8th Grade Reading/ Language Arts Teacher",
+            "company": "Company Name",
+            "start_date": "2005-01",
+            "end_date": "Present",
+            "description": "Prepares lessons reflecting accommodations for differences in student learning styles. Provide a variety of planned learning experiences integrating different learning methods in order to motivate and inspire students. Develop lessons with district mission in mind, aligned to district and state instructional goals and objectives and subject area. Maintain a classroom environment that promote safe, effective learning. Continuously engage with students, parents, and community members to advance student outcomes. Establish and implement effective classroom management procedures. Create systems to monitor and assess student learning. Collaborate with professional staff to identify and address student needs regarding health and learning styles. Be available for counseling with students and parents before and after school. Keep accurate records of student information; compile, maintain, and file all reports, records, and other documents required by the school and district. Present subject matter according to guidelines established by Texas Education Agency, Board of Trustee policies, and administrative regulations."
+        },
+        {
+            "title": "Customer Service",
+            "company": "Company Name",
+            "start_date": "2000-06",
+            "end_date": "2003-08",
+            "description": "Collected customer feedback and made process changes to exceed customer satisfaction goals. Provided accurate and appropriate information in response to customer inquiries. Demonstrated mastery of customer service call script within specified timeframes. Addressed customer service inquiries in a timely and accurate fashion."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Network Communications Management",
+            "school": "Keller Graduate School of Management",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Science in Interdisciplinary Studies with a concentration in Mathematics",
+            "school": "Texas Southern University",
+            "year": 2003
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

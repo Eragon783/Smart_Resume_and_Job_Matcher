@@ -1,0 +1,71 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Expressive arts program leader and mentor with experience designing curricula, supervising large teams, and delivering trauma-informed interventions for youth; skilled in CBT/DBT, mindfulness, and developmental psychology.",
+    "skills": [
+        "academic",
+        "Arts",
+        "critical thinking",
+        "forms",
+        "International Business",
+        "Latin",
+        "meetings",
+        "Mentor",
+        "Mentoring",
+        "Psychology",
+        "Teaching",
+        "therapeutic interventions",
+        "unique"
+    ],
+    "experience": [
+        {
+            "title": "EXPRESSIVE ARTS PROGRAM LEADER",
+            "company": null,
+            "start_date": "09/2014",
+            "end_date": "06/2015",
+            "description": "Formulated, proposed, and was authorized to implement \"The Arts Project,\" a weekly therapeutic, expressive arts program for 10+ \"at- risk\" CPS middle school students residing in a low-income urban neighborhood. The Arts Project incorporates methods from evidence-informed therapeutic interventions to enhance social/emotional skills, self-esteem, grit, self-control & regulation, and to reduce stereotype threat."
+        },
+        {
+            "title": "Curriculum Designer / Program Facilitator",
+            "company": "Company Name",
+            "start_date": "09/2012",
+            "end_date": "06/2014",
+            "description": "Designed & delivered curriculum for weekly coping skills sessions with groups of 20-50 early adolescents & their mentors; tailored sessions to address unique risk factors faced by our youth (e.g. community violence, chronic poverty, school dropout); integrated therapeutic approaches from various evidence-based practices (DBT, CBT, Mindfulness-based Stress Reduction); produced & administered usability, feasibility, and satisfaction forms; evaluated and amended curriculum based on feedback."
+        },
+        {
+            "title": "MENTOR SUPERVISION TEAM LEADER & SUPERVISOR",
+            "company": "Company Name",
+            "start_date": "09/2012",
+            "end_date": "06/2014",
+            "description": "Developed measures and organized platforms for more than 50 mentors to report contact with mentee; conducted thorough interviews with potential mentors, youth participants, and parents of youth in the mentoring intervention to arrange meaningful and lasting youth-mentor relationships; supervised up to 8 mentor-mentee pairs at a time; coordinated with teachers and parents to assess needs and establish protective resources; organized weekly meetings with each supervisee to problem-solve and address conflicts."
+        },
+        {
+            "title": "TEACHING ASSISTANT",
+            "company": "Company Name",
+            "start_date": "09/2012",
+            "end_date": "06/2014",
+            "description": "Over the course of 6 academic terms, promoted engaging discussions, critical thinking, and a warm learning environment for groups of 50-60 undergraduate students enrolled in PSY-305; selected as Head Teaching Assistant of the course for 2013-14."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in General Psychology (Clinical Child)",
+            "school": "DePaul University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts in General Psychology and Human Development",
+            "school": "DePaul University",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        "Mentor Training Certificate - Mentoring Central",
+        "Safe Zone Allies Training & BUILD Diversity Certification - DePaul University",
+        "TF-CBT & CTG adaptation Certificate (childhood traumatic grief) (Web)",
+        "Collaborative Institutional Training Initiative (CITI): Human Subjects"
+    ],
+    "languages": []
+}

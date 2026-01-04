@@ -1,0 +1,152 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Public Relations Consultant knowledgeable about planning, creating and implementing campaign strategies and media relations placement.",
+    "skills": [
+        "Administrative",
+        "Adobe Photoshop",
+        "Artist",
+        "Book",
+        "budgets",
+        "conferences",
+        "contracts",
+        "Creative Problem Solving",
+        "client",
+        "Clients",
+        "Customer Service",
+        "event production",
+        "event planning",
+        "Fashion",
+        "Fax",
+        "image",
+        "invoicing",
+        "notebooks",
+        "Law",
+        "Legal",
+        "managing",
+        "marketing plan",
+        "marketing",
+        "materials",
+        "meetings",
+        "Microsoft Office Suite",
+        "Office",
+        "Works",
+        "negotiations",
+        "Office equipment",
+        "presentations",
+        "Press",
+        "press releases",
+        "progress",
+        "Public speaking",
+        "quality",
+        "reporting",
+        "Research",
+        "sales",
+        "Scanner",
+        "scheduling",
+        "Self-Motivated",
+        "scripts",
+        "speeches",
+        "Team Player",
+        "phone",
+        "travel arrangements",
+        "video",
+        "Writer"
+    ],
+    "experience": [
+        {
+            "title": "Marketing, Communications, & Public Relations Specialist",
+            "company": "Company Name",
+            "start_date": "January 2001",
+            "end_date": "Present",
+            "description": "Cultivate and maintain close and productive relationships with journalists, bloggers and opinion leaders. Create print and Web-based communications materials including story pitches, press releases, Q-and-A interviews, presentations, video scripts and speeches aligned with the client's image and message. Public speaking; Correspondence with press on behalf of clients; Press preparation for conferences, media interviews and speeches on behalf of clients."
+        },
+        {
+            "title": "Marketing Intern",
+            "company": "Company Name",
+            "start_date": "August 2010",
+            "end_date": "July 2014",
+            "description": "Social media outreach and event planning responsibilities; supported marketing initiatives and coordinated logistics for events."
+        },
+        {
+            "title": "Legal, Royalties Intern to the Regional Director of Urban Music",
+            "company": "Company Name",
+            "start_date": "June 2013",
+            "end_date": "September 2013",
+            "description": "Gathered and analyzed research data regarding statutes, decisions, legal articles and codes. Drafted meeting agendas, supplied advance materials and executed follow-up for meetings and team conferences. Created PowerPoint presentations used for business development. Managed receptionist area, greeting visitors and responding to inquiries; organized and handled correspondence."
+        },
+        {
+            "title": "Admissions Representative",
+            "company": "Company Name",
+            "start_date": "March 2013",
+            "end_date": "September 2013",
+            "description": "Computed, recorded, and proofread data; researched, negotiated, implemented and tracked advertising and public relations activities. Defined project and company vision, strategies and tactics. Identified customer needs through market research and analysis. Managed editorial content, design and distribution of the external company newsletter. Cultivated positive relationships with the community through public relations campaigns."
+        },
+        {
+            "title": "School Board - Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "September 2006",
+            "end_date": "May 2010",
+            "description": "Applied progressive teaching principles to a class of 29 students, improving standardized tests scores by 17% in six-month period. Conducted small group and individual classroom activities based on differentiated learning needs. Communicated effectively with educators from various grade levels. Taught English Literature to grades 10-12 and Creative Writing; developed, administered and corrected tests and quizzes; designed age-appropriate lesson plans."
+        },
+        {
+            "title": "Human Resources Assistant",
+            "company": "Company Name",
+            "start_date": "May 2003",
+            "end_date": "May 2005",
+            "description": "Developed training manual for new staff; communicated with team members; collected, monitored and evaluated customer requirements; generated and distributed daily reports; served as a liaison between management and employees; directed personnel, training and labor relations activities; advised managers on policy matters; reviewed federal and state laws; created organizational flow charts and career path reports; ran the bi-weekly payroll process; supported open enrollment and benefit updates."
+        },
+        {
+            "title": "Def Jam Records Marketing Assistant",
+            "company": "Def Jam Records",
+            "start_date": "January 2003",
+            "end_date": "January 2005",
+            "description": "Marketing assistant supporting campaigns, promotions, and branding efforts; coordinated client communications and assisted with event production and marketing activities."
+        },
+        {
+            "title": "Marketing Assistant",
+            "company": "Company Name",
+            "start_date": "March 2002",
+            "end_date": "March 2003",
+            "description": "Assisted with development of annual marketing plan; conducted market research for plan development; established reporting system and ensured communication between marketing and sales teams; organized department meetings and program reviews."
+        },
+        {
+            "title": "Marketing, Promotions, & Branding Assistant",
+            "company": "Company Name",
+            "start_date": "January 1998",
+            "end_date": "September 2001",
+            "description": "Communicated with Marketing Department to ensure planning strategies and structures; assisted with development of annual marketing plan; conducted research for plan development; established a reporting system; organized department meetings to review progress."
+        },
+        {
+            "title": "Legal Assistant Intern",
+            "company": "Company Name",
+            "start_date": "May 1999",
+            "end_date": "September 1999",
+            "description": "Completed case research via LexisNexis and Westlaw; monitored legal volumes; collected data to prepare and draft settlement packages; drafted routine letters; analyzed statutes, decisions, and codes; organized legal memoranda and client correspondence."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Juris Doctorate (Law)",
+            "school": "Southern University Law Center",
+            "year": "2014"
+        },
+        {
+            "degree": "B.S. in Mass Communications",
+            "school": "Tennessee State University",
+            "year": "2001"
+        },
+        {
+            "degree": "Mass Communications & Sociology",
+            "school": "Tennessee Technical Center",
+            "year": "2008"
+        }
+    ],
+    "certifications": [
+        "Licensed Cosmetologist",
+        "Certified Makeup Artist"
+    ],
+    "languages": []
+}

@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly focused and results-oriented professional who works with a sense of urgency to anticipate the needs of senior-level executives. Thrives in a fast paced, dynamic environment while supporting confidential, complex, and deadline-driven operations. Customer-oriented and computer-savvy.",
+    "skills": [
+        "Microsoft Office",
+        "Excel",
+        "PowerPoint",
+        "Publisher",
+        "Word",
+        "Desktop Publishing",
+        "Photoshop",
+        "Problem solving",
+        "Customer service",
+        "Attention to detail",
+        "Meeting planning",
+        "Travel administration",
+        "Professionalism"
+    ],
+    "experience": [
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "1996-01",
+            "end_date": "1997-10",
+            "description": "Administrative Assistant to the President/CEO of statewide mental health organization. Collaborated with doctors, therapists, and administrators to originate monthly billing and reports involving corporate accounts such as nursing facilities and state-funded mental health facilities. Responsible for accounts payable/accounts receivable including medical billing/processing for the President/CEO's private patients and the month end financial closing process. Responsible for all medical transcription for approximately 10 doctors and therapists."
+        },
+        {
+            "title": "Multi-Media/Graphic Arts Secretary",
+            "company": "Company Name, City, State",
+            "start_date": "1997-10",
+            "end_date": "2008-05",
+            "description": "Assist the Senior Pastor in developing marketing programs; increased attendance by 6%. Responsibilities included designing/creating/printing promotional work, in-house and direct mailings, weekly church program materials, PowerPoint presentations; website development and web management; logo creation; articles; e-marketing; special events; and staff email management and church correspondence."
+        },
+        {
+            "title": "Point of Sale Manager",
+            "company": "Company Name, City, State",
+            "start_date": "1989-01",
+            "end_date": "1995-12",
+            "description": "Reported directly to store owner; provided retail pricing and in-house promotional work for entire store. Direct Store Delivery invoicing, annual profit reports, and collaboration with account representatives from various food companies."
+        },
+        {
+            "title": "Senior Secretary",
+            "company": "Company Name, City, State",
+            "start_date": "2008-06",
+            "end_date": "2009-12",
+            "description": "Provide secretarial and administrative support to members of the Retail Leadership Team and their support staff in an efficient and effective manner. Responsible for document preparation and creating presentations and Excel spreadsheets in an organized and timely manner, SAP reports, daily financial reports, and necessary materials for meetings. Support various Category Management initiatives and marketing activities including tire book, in-stock reports, invoice processing, advertising proofing, and intranet data management. Assist with annual DMR Conference planning and host coordination for 75+ attendees."
+        },
+        {
+            "title": "Executive Secretary",
+            "company": "Company Name, City, State",
+            "start_date": "2009-12",
+            "end_date": "2013-01",
+            "description": "Provide administrative and professional support to the Vice President & CIO and HR Director, Global Finance & IT along with 10+ members of the Global Leadership Team. Coordinate and maintain schedules, meetings, travel arrangements, expense reports, and quarterly global leadership meetings. Back-up support to the Vice President & Controller and support staff. Support HR initiatives such as succession planning, interview processes, onboarding, and attendance tracking; develop and execute IT Intern and Development Program; manage three websites for Steering Committee, Interns, and Hiring Managers; support Global Infrastructure Services and daily project tracking."
+        },
+        {
+            "title": "Executive Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "2013-01",
+            "end_date": "Current",
+            "description": "Team with Chief Human Resources Officer and the Senior Vice President, Global Sales and Marketing; provide administrative and professional support to ensure efficient operations for the office of the Senior Vice President of Human Resources and the office of Global Sales and Marketing. Provide HR generalist support for key processes, including executive compensation, succession planning, union relations, executive search, etc. Administrative support includes coordinating and maintaining schedules, meetings, travel arrangements, expense reports, and quarterly leadership meetings. Back-up support to the Senior Vice President, Global Communications."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science, Organizational Management - Human Resources",
+            "school": "Colorado Christian University",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,136 @@
+{
+    "name": "Mikal Ali",
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Executive Profile: Insightful, UX/UI Designer with experience in both Agile and Waterfall environments. Adept at distilling abstract concepts into solid, elegant, defined web and mobile applications. Seeking position with the chance to develop a company's creative direction. Review of my work can be found on http://www.krop.com/mikal-ali/",
+    "skills": [
+        "Adobe Creative Suite",
+        "Target Process",
+        "HTML/CSS",
+        "Leadership/communication",
+        "Product development",
+        "Self-motivated",
+        "User-centered design",
+        "Design",
+        "layout and typography",
+        "Wire-framing",
+        "Axure",
+        "Sketch",
+        "Fireworks",
+        "Illustrator",
+        "Small business development",
+        "Project management",
+        "Interactive prototypes",
+        "Heuristic evaluation",
+        "Style Guide Creation",
+        "Adobe",
+        "ads",
+        "branding",
+        "Business operations",
+        "business solutions",
+        "Concept",
+        "Consulting",
+        "Creative Direction",
+        "Creative Director",
+        "Entrepreneur",
+        "Graphic",
+        "UX",
+        "lab testing",
+        "Logo",
+        "marketing",
+        "multimedia",
+        "Product Management",
+        "prototyping",
+        "quality",
+        "search engine optimization",
+        "sketching",
+        "strategy",
+        "strategy planning",
+        "usability testing",
+        "user interface",
+        "website design",
+        "website development",
+        "web sites",
+        "advanced problem-solving"
+    ],
+    "experience": [
+        {
+            "title": "Lead UX/UI Designer",
+            "company": "Diligent",
+            "start_date": "2014-09",
+            "end_date": "2016-06",
+            "description": "Led two web applications: Client Provisioning Portal and Client Management Portal. Designed setup for client companies with unique settings, permissions and bulk licensing procurement. Admin functionality for client companies including user onboarding, license management, auditing, and login methods for local and Active Directory users. Worked in an Agile environment with two-week sprints; managed stories in Target Process; collaborated with Designers, Scrum Master, BA, DEV, QA and PO across two products. Maintained brand via comps and style guides. Initiated weekly sketch sessions to incorporate diverse perspectives. Created features and site prototypes using Axure, XD, Photoshop and Illustrator; Axure used for navigation prototypes and flow charts."
+        },
+        {
+            "title": "Senior UX/UI Designer",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "2014-09",
+            "description": "Redesign objective at LPL: redesign antiquated stock brokerage software; extensive research and collaboration with product experts for the redesign of an application that connects brokers and SCC compliance with the ability to communicate with clients online."
+        },
+        {
+            "title": "Senior UX/UI Designer",
+            "company": "Company Name",
+            "start_date": "2012-09",
+            "end_date": "2014-05",
+            "description": "Redesigned General Motors Protection Plan (GMPP) website with visual-interactive design and site-wide styles and functionality according to brand and business requirements. Led Ally Insurance lines of business projects, including interactive sketch sessions, final design assets, responsive site redesign for desktop to tablet/phone, and style guide updates."
+        },
+        {
+            "title": "Owner/Executive Director",
+            "company": "Company Name",
+            "start_date": "1999-07",
+            "end_date": "2012-07",
+            "description": "Creative director overseeing in-house quality standards and client satisfaction; UX/UI consulting, logo/brand design, interactive website development, banner creation, and social media integration. Managed full lifecycle projects, gathered requirements, translated into user-centered design, created wireframes, prototypes, and UI designs; led usability testing; managed teams and ensured cross-functional collaboration; focused on branding and marketing alignment."
+        },
+        {
+            "title": "Interactive Designer/Consultant",
+            "company": "Company Name",
+            "start_date": "1998-07",
+            "end_date": "1999-07",
+            "description": "Designed and built in-house multimedia/interactive website design portal; developed interactive ads and UI; trained a team; worked with HTML and Fireworks; conducted focus group testing."
+        },
+        {
+            "title": "Creative Director",
+            "company": "Company Name",
+            "start_date": "1996-01",
+            "end_date": "1998-08",
+            "description": "Hands-on interactive design, brand and usability of websites; requirements gathering and translation into user-centered design; created and supported UX screens; projects included The Sauce and Flyinthesoup; managed in-house developers and DBAs."
+        },
+        {
+            "title": "Creative Director",
+            "company": "Company Name",
+            "start_date": "1993-01",
+            "end_date": "1996-01",
+            "description": "Co-founded Sidestreet Greetings; developed and licensed designs; built product lines; engaged with Hallmark licensing and InterArt acquisition; led brand creation and business strategy; directed creative direction and product management."
+        },
+        {
+            "title": "Designer 3 / Illustrator",
+            "company": "Company Name",
+            "start_date": "1983-05",
+            "end_date": "1993-01",
+            "description": "Created illustrations for posters, tickets, spot illustrations, and presentations for clients including Sonics, Blockbuster, Sprint, McDonald's, and others."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates Degree",
+            "school": "Colorado Institute of Art",
+            "year": "In Progress"
+        },
+        {
+            "degree": "Advertising Design/Communication Media",
+            "school": "Denver University",
+            "year": "In Progress"
+        },
+        {
+            "degree": "Advertising Design/Communication Media",
+            "school": "Kansas University",
+            "year": "In Progress"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

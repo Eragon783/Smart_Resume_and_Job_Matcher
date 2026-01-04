@@ -1,0 +1,83 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Outgoing Sales Manager offering superb customer service proficiency and passion for exceeding sales goals. Results-oriented professional, specializing in the sale of Automobiles while providing the necessary financing packages to potential customers. Strong customer skills and the ability to handle task with accuracy and efficiency with a unique ability to relate to diverse clients and close high-dollar sales. Knowledgeable and innovative finance, sales and marketing professional whose success is based on integrity, exceptional customer service, efficiency and ambition. Results-focused management professional offering 20 years of progressive leadership experience. Transforms high-potential staff into outstanding leaders who demonstrate the creativity and savvy that is critical to financial and operational success.",
+    "skills": [
+        "Automobile Financing",
+        "Negotiating",
+        "Goal Setting",
+        "Customer Service",
+        "Creative Problem Solving",
+        "Sales Training",
+        "Selling",
+        "Closing",
+        "Developing and Implementing Processes",
+        "Charts",
+        "Credit",
+        "Finance",
+        "Financing",
+        "Financial",
+        "Profit",
+        "Sales",
+        "Sales and Management",
+        "Seminars",
+        "Strategic",
+        "Time Management",
+        "Employee Training",
+        "Life Insurance License (Louisiana)",
+        "Accident and Health Insurance License (Louisiana)",
+        "Property and Casualty Insurance License (Louisiana)"
+    ],
+    "experience": [
+        {
+            "title": "Finance Manager",
+            "company": "Company Name",
+            "start_date": "2013-12",
+            "end_date": "2014-03",
+            "description": "As the Finance manager I submitted loan applications to banks to obtain financing for customers along with completing all the necessary bank and state documents necessary for the purchase of automobiles. I was responsible for the sale of Warranty and maintenance products to customers that made their purchase and ownership of new and used cars worry free and cost effective while adding to my department's bottom line. My responsibilities also consisted of creating good customer relationships designed to grow future business. Monitored customer preferences to determine focus of sales efforts. Trained in negotiations and time management."
+        },
+        {
+            "title": "Finance Manager",
+            "company": "Company Name",
+            "start_date": "2012-11",
+            "end_date": "2013-12",
+            "description": "My responsibilities consisted of securing bank loans for the purchase of new and used automobiles. Completing all necessary documents required by the lending institutions along with all state required paperwork for the purchase of automobiles. The sales of aftermarket warranty and maintenance products that added to the bottom line of my department. Initiated programs that standardized employee training and led to an increase in customer satisfaction. Managed team of up to 18 professionals."
+        },
+        {
+            "title": "Finance Manager",
+            "company": "Company Name",
+            "start_date": "2010-03",
+            "end_date": "2012-11",
+            "description": "Responsibilities included securing loans for the purchase of new and used automobiles, along with completing all necessary state and bank documents necessary for the purchase of automobiles. I was responsible for the sale of aftermarket warranty and maintenance products to dealership customers, which generated additional income to my department's bottom line. Educated customers on the variety of loan products and available credit options. Managed team of 10 professionals. Directed strategic initiatives to achieve monthly increases in income for my department. Initiated program that standardized employee training and led to increase in customer satisfaction by 15%."
+        },
+        {
+            "title": "Sales Manager",
+            "company": "Company Name",
+            "start_date": "2009-03",
+            "end_date": "2012-08",
+            "description": "Managed team of 10 professionals. Directed strategic initiatives to achieve dealership sales objectives. Increased profits by developing, initiating, and implementing training designed to grow and develop a knowledgeable and competent sales team. Initiated programs that standardized employee training and led to an increase in customer satisfaction and increased sales performance. Hired and trained all sales staff for new store location. Monitored customer preferences to determine focus of sales efforts. Maintained friendly and professional customer interactions."
+        },
+        {
+            "title": "Business Manager",
+            "company": "Company Name",
+            "start_date": "2003-03",
+            "end_date": "2009-03",
+            "description": "My responsibilities consisted of submitting loan applications to lending institutions to secure financing for the purchase of new and used automobiles. The sale of aftermarket warranties and maintenance products to dealership customers. Generate additional profit from securing financing for customers and from the sale of aftermarket products to dealership customers. Created and directed sales team training and development programs. Maintained friendly and professional customer interactions. Received superior customer service satisfaction scores for 12 consecutive quarters. Created charts and graphs to illustrate daily, monthly and annual financial reports. Developed promotional programs to optimize revenue levels."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Music",
+            "school": "Southern University",
+            "year": 1977
+        }
+    ],
+    "certifications": [
+        "Life Insurance License (Louisiana)",
+        "Accident and Health Insurance License (Louisiana)",
+        "Property and Casualty Insurance License (Louisiana)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,61 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Engineering Technician with quality control focus and strong data-driven approach. Experienced in product testing, safety, and problem solving; skilled in maintenance, basic plumbing and electrical work; customer service oriented with ability to manage multiple priorities and promote cost-effective solutions.",
+    "skills": [
+        "Installation",
+        "Leadership",
+        "Customer service",
+        "Cash handling",
+        "Self starter",
+        "Excellent communication skills",
+        "Power and hand tools",
+        "Willing to learn",
+        "Repair Work",
+        "Planning",
+        "Groundskeeping and Landscaping",
+        "Handheld Computers",
+        "Pressure Washing",
+        "Safety Monitoring and Compliance",
+        "Mechanical Repair",
+        "Critical Thinking",
+        "Facilities",
+        "Painting and Repair",
+        "Heavy Object Lifting",
+        "Troubleshooting and Diagnostics"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Technician",
+            "company": "Company Name, City, State",
+            "start_date": "2018-01",
+            "end_date": "2020-12",
+            "description": "Read and interpreted blueprints, technical drawings, schematics and computer-generated reports. Followed verbal instructions and hand sketches to adapt and modify tooling. Applied engineering principles to develop and operate electrical, mechanical and data processing systems. Performed work according to project schedules and high quality standards. Collaborated with engineers in new product introduction phases to develop and verify design changes. Tracked hours and expenses for each project, detailing each action and charge. Improved product quality by customizing tools and eliminating variability."
+        },
+        {
+            "title": "Warehouse Worker",
+            "company": "Company Name, City, State",
+            "start_date": "2016-01",
+            "end_date": "2019-11",
+            "description": "Operated pallet jacks and material moving equipment to receive and transport items from various warehouse locations. Alternated goods in inventory by observing first-in and first-out approach to keep shelves organized and properly stocked. Used hand-held devices and computers to record and monitor inventory levels and completed audits to uncover and address inaccuracies. Acknowledged safety issues and contacted shift supervisor regarding concerns and for quick resolution. Loaded, unloaded and moved material to and from storage and production areas. Completed over [Number] customer orders each day in warehouse setting. Operated RF scanners to track merchandise and verify contents of containers. Moved products of all sizes using overhead cranes, forklifts and other equipment, consistently meeting challenging performance goals. Kept documentation and records accurate and up-to-date with latest data to prevent errors in processing or delivery. Maintained strong vendor connections by arranging pricing and delivery structures and managing specific shipment or paperwork concerns."
+        },
+        {
+            "title": "Customer Service Associate",
+            "company": "Company Name, City, State",
+            "start_date": "2014-06",
+            "end_date": "2016-07",
+            "description": "Developed and actualized customer service initiatives to decrease wait times. Maintained customer satisfaction with forward-thinking strategies focused on addressing customer needs and resolving concerns. Provided primary customer support to internal and external customers. Developed community reputation through commitment to customer satisfaction and strong client relationships. Maintained accurate and current customer account data with manual forms processing and digital information updates. Collected customer feedback and made process changes to exceed customer satisfaction goals. Resolved concerns with products or services to help with retention and drive sales."
+        }
+    ],
+    "education": [
+        {
+            "degree": "GED",
+            "school": "Schenck Civilian Conservation Center, City, State",
+            "year": "2017"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

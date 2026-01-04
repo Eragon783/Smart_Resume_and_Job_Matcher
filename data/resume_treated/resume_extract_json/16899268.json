@@ -1,0 +1,54 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Innovative and solution focused web development manager/analyst with extensive experience in Program and Project Management. Detail-oriented and skilled in identifying technology needs, creating a plan for solving them, and leading multiple teams to implement the solutions. Self motivated, strong leader, and team player that works hard developing staff. Experienced in working in industry and academia.",
+    "skills": [
+        "Project management",
+        "Program management",
+        "Process improvement",
+        "Requirements gathering",
+        "Team leader",
+        "Strategic planning"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Manager/Analyst",
+            "company": "Company Name",
+            "start_date": "2006-07",
+            "end_date": "Present",
+            "description": "Analyze the technology needs of the Graduate College, to develop short term and long term goals and to meet and implement the solutions to those needs by working with internal, external or mixed teams tech or non-tech teams. Oversee the management of multiple websites running various software. Supervise and manage the composition of the Graduate College information technology team focusing on balancing technology skills based on short and long term goals. Develop staff skills through training as needed. Collect and report data to various groups across campus as well as to national agencies such as National Science Foundation, National Institutes of Health, and Council of Graduate Schools. Results-oriented Effective multi-tasker Data analysis Team player Team building Extensive technology experience Led the Graduate College IT team for over eight years Implemented Software Development Lifecycle Methodology Appointed to Iowa State University's Paperless Task force to represent the Graduate College Elected to the Professional and Scientific Council to represent P&S employees Led strategic initiates for the Graduate College for past three years Communication leader between faculty, staff, and central IT Proficient in the use and implementation of industry IT standards Regularly translate detailed program requirements into technical specifications."
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name",
+            "start_date": "2003-06",
+            "end_date": "2006-06",
+            "description": "Assisted with the running of the Des Moines Store (Largest in district). Managed 25 employees. Trained employees to complete their position duties. Handled cash daily and reconciled accounts."
+        },
+        {
+            "title": "Web Communications Manager",
+            "company": "Company Name",
+            "start_date": "1999-01",
+            "end_date": "2003-01",
+            "description": "Developed and managed websites and web software related projects while staying within the $2 million budget of the Web Communications department. Directed various development teams of project managers and programmers focusing on internal and external users. Created project plans and worked with marketing and executive leadership to gain approval for projects. Regularly worked by phone or email to complete projects. Led project teams to roll out first company wide intranet, while delivering 1 month faster than original timeline. Developed new corporate website from scratch, and then led teams to roll out new website. Developed, trained, and implemented Corporate Web Design Standards across the company."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Graduate Certificate in Family Financial Planning",
+            "school": "Iowa State University",
+            "year": 1998
+        },
+        {
+            "degree": "B.S. in Marketing",
+            "school": "Iowa State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Microsoft Front Page Certified"
+    ],
+    "languages": []
+}

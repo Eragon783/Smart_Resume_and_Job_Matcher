@@ -1,0 +1,114 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior software engineering leader with 20+ years in software product development for broadcast media, video servers, editing, and large-scale 24/7 services. Experienced in building and leading distributed engineering teams, SCRUM/Agile, API/REST/SOA, MPEG-DASH, C++, C#, and web technologies; proven track record in architecture, performance, and cross-functional collaboration.",
+    "skills": [
+        "API",
+        "Approach",
+        "ATL",
+        "Audio",
+        "backup",
+        "bridges",
+        "broadcast",
+        "C++",
+        "CLI",
+        "COM",
+        "CA",
+        "Hardware",
+        "concept",
+        "Content",
+        "CSS",
+        "documentation",
+        "editing",
+        "XML",
+        "FTP",
+        "drawing",
+        "GUI",
+        "hiring",
+        "HTML5",
+        "HTTP",
+        "HR",
+        "IDs",
+        "explorer",
+        "JavaScript",
+        "json",
+        "LAN",
+        "team building",
+        "MB",
+        "memory",
+        "mentoring",
+        "C#",
+        "MFC",
+        "office",
+        "Windows",
+        "Window",
+        "2000",
+        "migration",
+        "NAS",
+        "OOP",
+        "page",
+        "performance reviews",
+        "personnel",
+        "Proxy",
+        "rendering",
+        "SAN",
+        "Scrum",
+        "servers",
+        "software development",
+        "team management",
+        "threads",
+        "Video",
+        "Video Editing",
+        "Visual C++",
+        "workflow",
+        "writer"
+    ],
+    "experience": [
+        {
+            "title": "Software Engineering Manager",
+            "company": "Imagine Communications",
+            "start_date": "September 2009",
+            "end_date": "Present",
+            "description": "Led Nexio video servers and applications development, built and managed distributed teams (Northridge, Naperville, Beijing), implemented Scrum since 2014, migrated tooling to Mercurial/Jenkins, and steered SOA initiatives delivering web and JSON services; contributed to Nexio Software Suite 6.x–8.x and Global Proxy Suite 2.x–3.x."
+        },
+        {
+            "title": "Software Engineering Manager",
+            "company": "Imagine Communications",
+            "start_date": "November 2005",
+            "end_date": "August 2009",
+            "description": "Directed Nexio editing applications, established software development processes and crash dump analysis procedures, mentored teams in Naperville and Beijing, and delivered Video Editing Suite 2.5 along with server integration modules."
+        },
+        {
+            "title": "Principal Software Engineer",
+            "company": "Harris Corporation (Leitch integration)",
+            "start_date": "August 1994",
+            "end_date": "October 2005",
+            "description": "Contributed to major video editing suite projects, including interactive playback, media readers/writers, scalable decoders/encoders, rendering and hardware integration; led 64-bit and Unicode migration across 4+ million lines of code."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Star Media",
+            "start_date": "August 1994",
+            "end_date": "July 1997",
+            "description": "Developed project media management tools, Render Bank, and video effects; Star Media later acquired by DPS, followed by Leitch."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. Computer Science",
+            "school": "Illinois Institute of Technology",
+            "year": null
+        },
+        {
+            "degree": "B.E. Electronics and Communication Engineering",
+            "school": "National Institute of Technology (India)",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Certified ScrumMaster (Scrum Alliance) – Dec 2014 to Dec 2016"
+    ],
+    "languages": []
+}

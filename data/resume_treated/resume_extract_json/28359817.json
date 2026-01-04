@@ -1,0 +1,101 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To obtain a challenging and rewarding accounting position that will permit the use of my skills, knowledge and education to maximize my full potential while developing additional knowledge and abilities",
+    "skills": [
+        "Accounting",
+        "Accounts Payable",
+        "accruals",
+        "AP",
+        "AS400",
+        "automotive",
+        "trial balance",
+        "balance sheets",
+        "Bank Reconciliations",
+        "benefits",
+        "budget",
+        "counseling",
+        "credit",
+        "documentation",
+        "Finance",
+        "financial",
+        "Fixed Assets",
+        "forms",
+        "government",
+        "instructor",
+        "inventory control",
+        "JDE",
+        "Managing",
+        "materials",
+        "meetings",
+        "Microsoft Office Suite",
+        "policies",
+        "Coding",
+        "Purchasing",
+        "reconciling",
+        "repairs",
+        "reporting",
+        "retail",
+        "Sales",
+        "SAP",
+        "Scheduling",
+        "spreadsheet",
+        "strategy",
+        "Tax",
+        "taxes",
+        "year end"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "01/2013",
+            "end_date": "03/2014",
+            "description": "Approved and set up new capital jobs in JDE. Entered all new assets in JDE and CAMS upon completion. Monitored spending to ensure budget compliance. Maintained CIP files and ensured proper documentation after job completion. Finance tag: worked with admin managers to stay within budget; acted as a go-to person for questions and new policies. Purchasing cards: conducted monthly audits of VISA purchasing cards; ensured policy compliance; recorded use tax entries when necessary on outside purchases. Other duties: entered monthly journal entries and accruals; reconciled balance sheets for LLC, Cargill Inc., and GP; completed government reporting and compliance forms."
+        },
+        {
+            "title": "Campus Accountant",
+            "company": "Company Name",
+            "start_date": "06/2012",
+            "end_date": "12/2012",
+            "description": "Managing Student Accounts: processed payments including self-payments, financial aid, military benefits and loans; monitored aged trial balance and sent statements for past due accounts; counseled students on tuition balances and repayment options; charged correct tuition and fees and communicated balances. Inventory Control: ordered books, uniforms and tool kits; maintained inventory using just-in-time method; requested instructor materials; set up new accounts and inventory for new automotive program. Accounts Payable: coded invoices; processed manual check requests; created purchase orders for new orders. Various Other Accounting Duties: scheduled routine services; deposited monies in the company bank account; performed end-of-month duties."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "12/2010",
+            "end_date": "05/2012",
+            "description": "Sales and Use Tax KS/MO/OK: developed and implemented new strategy for collecting/reporting monthly taxes; trained associates on tax procedures; amended returns; worked with auditors during sales tax audits; monitored invoices and work orders to ensure proper codes; accrued use tax liability; closed tax accounts for month/year. Fixed Assets: managed rental side of the company including journal entries, inter-company transactions, depreciation, estimates, warranties and reconciliations; worked with other entities to ensure proper inventory control; closed fixed asset accounts for month/year."
+        },
+        {
+            "title": "Senior Finance Associate",
+            "company": "Company Name",
+            "start_date": "10/2008",
+            "end_date": "11/2010",
+            "description": "Invoice Processing: processed vendor invoices; prepared vendor statements; assisted with foreign vendors and monitored currency rates; monitored outstanding checks. Warranties and Returns: ensured warranties and returns were properly processed; included matching the costs of repairs with authorizations; made adjusting entries and reconciled accounts. AP Policy: helped convert vendors to ACH payments; assisted vendors with new payment procedures; provided feedback to supervisors and helped improve the policy."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "06/2006",
+            "end_date": "09/2008",
+            "description": "Oversaw accounting for 21 Beauty First retail salons; monitored inventory control procedures; worked with store staff during yearly audits and reconciled accounts; monitored open purchase orders and provided feedback on issues; trained new accounting assistants; reconciled cost of goods for the end of each month; closed accounts for end of month/year. Bank Reconciliations: monitored deposits and verified to bank accounts; ensured credit cards balanced and processed related fees; helped develop a spreadsheet to track bank deposits; reconciled bank accounts for month/year end. Sales Tax: calculated sales tax for all markets and issued payments; monitored product used in the salon; accrued use tax as necessary; reconciled tax accounts for the accounting manager at month/year end."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA in Accounting",
+            "school": "Friends University",
+            "year": 2009
+        },
+        {
+            "degree": "Business Administration",
+            "school": "Baker University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

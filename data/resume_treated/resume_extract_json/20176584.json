@@ -1,0 +1,134 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Accomplished high-energy Executive Manager with 25+ years of experience in manufacturing engineering, turnaround leadership, team building, training, strategic planning, P&L oversight and revenue enhancement. Proven results in operational excellence, Lean and Six Sigma implementations, supplier and customer relationships, and driving continuous improvement across multiple manufacturing sectors.",
+    "skills": [
+        "Strategic Planning",
+        "Training and Development",
+        "Revenue Enhancement",
+        "Infrastructure Development",
+        "Total Quality Management",
+        "Risk and Liability Management",
+        "Project Management",
+        "Performance/Metrics Management",
+        "Supplier Management",
+        "HACCP and GMP Certification",
+        "Lean Manufacturing",
+        "Six-Sigma Champion",
+        "Manufacturing Engineering",
+        "Quality Systems Design",
+        "GFSI SQF Practitioner",
+        "Business Process Reengineering",
+        "HACCP Certified",
+        "Lean Manufacturing Certified",
+        "Six Sigma Certified",
+        "Champion Better Process Control Certified"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "02/2014",
+            "end_date": "Present",
+            "description": "Perform private consulting services in Operational Management for food and non-food manufacturing companies."
+        },
+        {
+            "title": "Director of Operations/Director of Quality Assurance",
+            "company": "Company Name",
+            "start_date": "08/2013",
+            "end_date": "12/2013",
+            "description": "Directed, led and managed all facets of the Plant Operations with P&L oversight including Manufacturing, Production Scheduling, MRP/ERP (SAGE – MAS200), Inventory Control, Materials Management, Procurement/Purchasing, Supply Chain Management, Traffic/Logistics, Warehouse Order Fulfillment, Human Resources, Quality Assurance, Shipping/Receiving, Project Management, Research and Development, Plant Engineering, Maintenance, Operations Administration, Safety, HACCP Team, Global Food Safety Initiative SQF Level II and Employee Training."
+        },
+        {
+            "title": "Plant Manager/Director of Quality Assurance",
+            "company": "Company Name",
+            "start_date": "01/2012",
+            "end_date": "08/2013",
+            "description": "Directed, led and managed all facets of the Plant Operations with P&L oversight including Manufacturing, Production Scheduling, MRP/ERP (SAGE) and Warehouse Management System (WMS) Implementation, Inventory Control, Materials Management, Procurement, Traffic/Logistics, Warehouse Order Fulfillment, Quality Assurance, Shipping/Receiving, Project Management, Research and Development, Engineering, Maintenance, Operations Administration, Safety, HACCP Team, Global Food Safety Initiative and Employee Training."
+        },
+        {
+            "title": "Director of Operations",
+            "company": "Company Name",
+            "start_date": "11/2010",
+            "end_date": "11/2011",
+            "description": "Directed, led and managed all facets of the Operations Team with P&L oversight including Production Scheduling, MRP/ERP (MAS 200) and Warehouse Management System (WMS) Implementation, Inventory Control, Materials Management, Procurement, Traffic/Logistics, Warehouse Order Fulfillment, Quality Assurance, Shipping/Receiving, Project Management, Research and Development, Engineering, Operations Administration, Safety, HACCP Team, Global Food Safety Initiative and Employee Training."
+        },
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "03/2010",
+            "description": "Hired as a consultant to install a new high speed packaging machine line and robotic packing system and perform an assessment of the company and prepare a report to assist with future growth."
+        },
+        {
+            "title": "Vice President and General Manager/Director of Quality Assurance",
+            "company": "Company Name",
+            "start_date": "01/2004",
+            "end_date": "10/2009",
+            "description": "Directed, managed and led all functions and departments of the business with complete P&L ownership. Responsible for Manufacturing, Quality Assurance, Sales and Marketing activities, Project Management, Research and Development, Engineering, Strategic Planning, Policy and Procedure establishment, Mergers and Acquisitions, Forecasting, New Product Introduction (NPI), New Product Development (NPD), and Strategic Planning."
+        },
+        {
+            "title": "Executive Director of Operations",
+            "company": "Company Name",
+            "start_date": "07/2002",
+            "end_date": "10/2003",
+            "description": "Directed, led, managed all facets of Manufacturing Operations with P&L oversight including Production Control, Materials Management, Procurement, Traffic/Logistics, Quality Assurance, Shipping/Receiving, IT, Project Management, Human Resources, Engineering, Administration and Training."
+        },
+        {
+            "title": "Operations Manager",
+            "company": "Company Name",
+            "start_date": "04/2000",
+            "end_date": "05/2002",
+            "description": "Managed, led and directed all facets of Production, Materials, Administration, Maintenance, Training, Quality Assurance, ISO, Project Management, Shipping/Receiving, Sales, Customer Service, Marketing and Third Party DOT Representative Inspection."
+        },
+        {
+            "title": "Director of Manufacturing/Plant Manager/Manufacturing Engineer",
+            "company": "Company Name",
+            "start_date": "08/1997",
+            "end_date": "01/2000",
+            "description": "Directed, managed and led all manufacturing operations including, Production, Warehouse/Distribution, Receiving, Purchasing, Training, Maintenance, Machinists, Project Management, Manufacturing Engineering, Research and Development, Planning/Scheduling and Production Control."
+        },
+        {
+            "title": "Plant Manager/Manufacturing Engineer/Quality Manager",
+            "company": "Company Name",
+            "start_date": "04/1993",
+            "end_date": "07/1997",
+            "description": "Directed, managed and led all manufacturing operations with P&L responsibility including Production, Engineering, HR, R&D, Maintenance, Sales, Customer Service, Project Management, Purchasing, Marketing, Logistics and Quality Assurance."
+        },
+        {
+            "title": "Aircraft Mechanic/Technician",
+            "company": "Company Name",
+            "start_date": "01/1990",
+            "end_date": "04/1993",
+            "description": "Performed commercial aircraft (MD 80, MD 11) jet engine installations, testing and inspection."
+        },
+        {
+            "title": "Technical Sergeant - E6",
+            "company": "Company Name",
+            "start_date": "06/1978",
+            "end_date": "11/1989",
+            "description": "Performed specialized Technical Maintenance for the Titan II and the Peacekeeper - MX Missile Systems. Top Secret Clearance-Inactive."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Industrial Technology",
+            "school": "Southern Illinois University",
+            "year": "1992"
+        },
+        {
+            "degree": "Associate of Science: Fuel Systems Maintenance",
+            "school": "Community College of the US Air Force",
+            "year": "1989"
+        }
+    ],
+    "certifications": [
+        "HACCP Certified",
+        "Lean Manufacturing Certified",
+        "Six Sigma Certified",
+        "Better Process Control Certified"
+    ],
+    "languages": []
+}

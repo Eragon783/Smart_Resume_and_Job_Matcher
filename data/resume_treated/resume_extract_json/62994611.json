@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Enthusiastic computer engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Technical professional with complete understanding of entire software development life cycle. Respectful self-motivator gifted at finding reliable solutions for software issues. Experienced in c#, python, HTML, SQL, node.js/javascript and working knowledge of Restful API design & implementations. Fluent in English and Turkish and accustomed to working with cross-cultural, global teams.",
+    "skills": [
+        "C#",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL",
+        "Python",
+        "MatLab",
+        "MongoDB",
+        "Tableau",
+        "Node.js",
+        ".NET",
+        "Devexpress",
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "Pandas",
+        "NLTK",
+        "Search Engine Optimization",
+        "API design",
+        "Image processing",
+        "Leadership",
+        "Marketing",
+        "Office",
+        "Windows",
+        "Project management",
+        "Speaker",
+        "Sales",
+        "Spanish",
+        "Turkish",
+        "User Interface",
+        "Web site",
+        "Writing"
+    ],
+    "experience": [
+        {
+            "title": "Software Developer",
+            "company": "Company Name",
+            "start_date": "12/2015",
+            "end_date": "Present",
+            "description": "Project was tasked to design an Internal Marketing System using C#, SQL, HTML, .NET, DevExpress. Integrated APIs from Amazon, Walmart, eBay and Shopify. The system records end-to-end processes with a scalable architecture to support high-availability Internet site with various internal applications. Responsibilities included integration of marketplace APIs, coordinating database development timelines and project scope, updating legacy code, and implementing fixes for future releases. The successful launch contributed to 30% company growth."
+        },
+        {
+            "title": "Computer Engineer Intern",
+            "company": "Company Name",
+            "start_date": "06/2013",
+            "end_date": "09/2013",
+            "description": "Tested the User Interface for the website, provided feedback to increase user satisfaction, reduced reaction time and improved site mappings. Executed performance testing on internal applications, documented results and maintained logs."
+        },
+        {
+            "title": "Computer Engineer Intern",
+            "company": "Company Name",
+            "start_date": "06/2012",
+            "end_date": "09/2012",
+            "description": "Developed an application for the Turkish Patent and Trademark Office using MATLAB, C#, SQL and HTML. Responsibilities included developing the FAQ and support part of the website, researching studies and recommending image processing algorithms to improve accuracy and speed, testing and documenting prototypes and standard products, and maintaining positive work relationships with colleagues and management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Engineering",
+            "school": "Rowan University",
+            "year": "2015"
+        },
+        {
+            "degree": "Master of Science",
+            "school": "Selcuk University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "English for Science, Technology, Engineering, and Mathematics (University of Virginia Darden School of Business)",
+        "Getting Started: Agile Meets Design Thinking (University of Pennsylvania)",
+        "Biology Meets Programming: Bioinformatics for Beginners (Coursera)"
+    ],
+    "languages": [
+        "English",
+        "Spanish (B1)",
+        "Turkish (Native)"
+    ]
+}

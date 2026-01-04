@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": "502-868-6764",
+    "location": "Georgetown, KY",
+    "summary": "Childcare professional and educator with extensive experience in daycare and preschool settings. Skilled at remaining calm under pressure, addressing behavioral and educational issues, and implementing developmentally appropriate curricula for infants, toddlers, and preschoolers. Strong classroom management, parent communication, and ability to create a safe, loving learning environment.",
+    "skills": [
+        "CPR certified",
+        "Organizational skills",
+        "Communication skills",
+        "Teaching skills",
+        "Head Start program knowledge",
+        "Early childhood education certification",
+        "Infant, toddler and preschool curricula",
+        "Classroom management",
+        "Childcare management software programs",
+        "Food handling training",
+        "Clerical skills",
+        "Creative arts"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Creation Kingdom",
+            "start_date": "June 2002",
+            "end_date": "December 2014",
+            "description": "Read stories to the children and taught them painting, drawing and crafts. Employed a variety of materials for children to explore and manipulate in learning activities and imaginative play. Disciplined children and recommended other measures to correct behavior. Created an infant area, toddler area and preschool area of play within the daycare. Offered detailed daily reports that outlined each child's activities. Incorporated music and art activities to encourage creativity and expression. Maintained daily records of activities, behaviors, meals and naps. Carefully identified warning signs of emotional and developmental problems in children. Routinely picked children up from school and activities."
+        },
+        {
+            "title": "Preschool Teacher",
+            "company": "Creation Kingdom",
+            "start_date": "April 2013",
+            "end_date": "June 2014",
+            "description": "Incorporated music and art activities to encourage creativity and expression. Offered detailed daily reports that outlined each child's activities. Carefully monitored children's play activities. Carefully identified warning signs of emotional and developmental problems in children. Maintained daily records of activities, behaviors, meals and naps. Created and implemented a developmentally appropriate curriculum. Offered stimulating curriculum that accommodated all learning styles. Sparked creativity and imagination by helping children discover new things each day. Identified early signs of emotional and developmental problems in children and brought them to the parents' attention."
+        },
+        {
+            "title": "Toddler Teacher",
+            "company": "Creation Kingdom",
+            "start_date": "April 2012",
+            "end_date": "April 2013",
+            "description": "Making lesson plans, implementing lesson plans, anecdotes, caring for the children and their safety, tracking sheet. Reason for leaving - father passing. Sparked creativity and imagination by helping children discover new things each day. Read stories to the children and taught them painting, drawing and crafts. Employed a variety of materials for children to explore and manipulate in learning activities and imaginative play. Disciplined children and recommended other measures to correct behavior. Created an infant area, toddler area and preschool area of play within the daycare. Incorporated music and art activities to encourage creativity and expression. Offered detailed daily reports that outlined each child's activities. Maintained daily records of activities, behaviors, meals and naps."
+        },
+        {
+            "title": "Preschool teacher",
+            "company": "Creation Kingdom",
+            "start_date": "October 2010",
+            "end_date": "March 2012",
+            "description": "Making lesson plans, implementing lesson plans, anecdotes, caring for children and their safety and tracking sheet. Disciplined children and recommended other measures to correct behavior. Created an infant area, toddler area and preschool area of play within the daycare. Carefully monitored children's play activities. Offered detailed daily reports that outlined each child's activities. Incorporated music and art activities to encourage creativity and expression. Maintained daily records of activities, behaviors, meals and naps. Carefully identified warning signs of emotional and developmental problems in children. Routinely picked children up from school and activities. Created and implemented a developmentally appropriate curriculum."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts: IECE - Early Childhood Education",
+            "school": "Maysville Community Technical College",
+            "year": "present"
+        },
+        {
+            "degree": "Associate degree in Early Childhood Education",
+            "school": "Morehead State University",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Infant/Toddler CDA",
+        "Preschool CDA",
+        "Head Start training",
+        "CPR and First Aid",
+        "Food Handlers Permit",
+        "Orientation 1 and 2",
+        "Director's Credential",
+        "Up-to-date Physical",
+        "Teacher Strategies GOLD",
+        "Head trauma training"
+    ],
+    "languages": []
+}

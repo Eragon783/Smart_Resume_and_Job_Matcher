@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Reliable and punctual Sales Associate with more than fifteen years in retail. Experienced in inventory, cash management, and delivering exceptional customer service. Adept at multi-tasking, with a strong work ethic and a track record of consistently exceeding sales targets.",
+    "skills": [
+        "Cash handling accuracy",
+        "Strong communication skills",
+        "Organized",
+        "Superb sales professional",
+        "Time management",
+        "Flexible schedule",
+        "Detail-oriented",
+        "Excellent multi-tasker"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "08/2018",
+            "end_date": "03/2019",
+            "description": "Consulted with long-term, new and prospective customers to understand needs and propose ideal merchandise. Accurately prepared cash deposits up to $6000 with zero discrepancies. Assisted in managing day-to-day business operations, including selling various retail products by explaining unique features and educating customers on proper application of products."
+        },
+        {
+            "title": "Warehouse Associate",
+            "company": "Company Name",
+            "start_date": "05/2018",
+            "end_date": "07/2018",
+            "description": "Duties included transferring packages and boxes to transport vehicles. Sort packages according to designated areas."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "08/2017",
+            "end_date": "05/2018",
+            "description": "As a cashier my duties included assisting customers with final purchases and operate cash registers and credit/debit card transactions."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "06/2017",
+            "end_date": "11/2017",
+            "description": "As a Cashier my duties included cash handling, credit/debit card payments, assist customers by providing information, ensure a clean and orderly checkout area."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "07/2016",
+            "end_date": "11/2016",
+            "description": "Answered customers' questions and addressed problems and complaints in person and via phone. Opened and closed the store, which included counting cash drawers and making bank deposits. Helped customers select products that best fit their personal needs. Educated customers on product and service offerings. Offered exceptional customer service to differentiate and promote the company brand. Kept the showroom clean and maintained neat, orderly product displays. Built customer confidence by actively listening to their concerns and giving appropriate feedback. Balanced the needs of multiple customers simultaneously in a fast-paced retail environment. Processed all sales transactions accurately and in a timely fashion."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "02/2014",
+            "end_date": "07/2016",
+            "description": "Processed all sales transactions accurately and in a timely fashion. Built and maintained effective relationships with peers and upper management. Held each team member accountable for achieving brand and performance goals. Offered direction and gave constructive feedback to motivate team members. Communicated store policy violations to the leadership team in a timely manner. Communicated information to customers about product quality, value and style."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "10/2009",
+            "end_date": "02/2014",
+            "description": "Kept current on market and product trends to effectively answer customer questions. Completed floor replenishment to guarantee size availability and promote customer satisfaction. Built customer confidence by actively listening to their concerns and giving appropriate feedback. Collaborated with customer service team members to give exceptional service throughout the entire shopping and purchasing experience. Opened and closed the store, which included counting cash drawers and making bank deposits. Kept the showroom clean and maintained neat, orderly product displays."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Community Health",
+            "school": "Oregon State University",
+            "year": 1982
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

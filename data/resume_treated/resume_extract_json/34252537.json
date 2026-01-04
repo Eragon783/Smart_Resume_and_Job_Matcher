@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Outgoing Executive Chef with extensive knowledge of hospitality etiquette, food preparation and superior customer service. Skilled in high-end ingredients, food and wine pairings, and managing both FOH and BOH operations in high-volume settings. Experienced in staff training, menu development, and delivering first-class dining experiences.",
+    "skills": [
+        "ABC",
+        "budgets",
+        "budget",
+        "closing",
+        "Computer literate",
+        "Consulting",
+        "contracts",
+        "clients",
+        "customer service",
+        "customer service skills",
+        "E-Commerce",
+        "special events",
+        "facility maintenance",
+        "General Manager",
+        "government regulations",
+        "health and safety standards",
+        "inventory control",
+        "leadership",
+        "managing",
+        "marketing",
+        "merchandising",
+        "Excel spreadsheets",
+        "MS Office Suite",
+        "Outlook",
+        "Windows 7",
+        "negotiating",
+        "POS",
+        "quality",
+        "receiving",
+        "restaurant operations",
+        "safety",
+        "sales",
+        "scheduling",
+        "food preparation",
+        "Food handling",
+        "Food safety understanding",
+        "HACCP knowledge",
+        "Culinary management"
+    ],
+    "experience": [
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2016-02",
+            "description": "Executive Chef responsible for high-volume culinary operations and catering, including events for Walt Disney Company, Universal, CBS, ABC Studios, The Huntington Library and Gardens, Nestle USA, Wolfgang Puck and Valencia Country Club. Served as Consulting Chef for food e-commerce ventures (Jewel City Bowl, The Waffle, Saddle Ranch, Waffle Fusion). Oversaw recipe development, production scheduling, inventory control, vendor negotiations, and BOH/FOH alignment; maintained food safety and OSHA compliance; led staff hiring, training, and performance management; contributed to opening new restaurants and managing food costs."
+        },
+        {
+            "title": "Executive Kitchen Manager",
+            "company": "BJ's Chicago Brewery Restaurant",
+            "start_date": "2000-01",
+            "end_date": "2007-01",
+            "description": "Collaborated with General Manager to oversee restaurant operations, supervised BOH staff, and managed scheduling, food and labor costs. Implemented standardized product rotation and inventory controls, administered vendor contracts, and supported the opening of new stores. Trained staff and ensured health code compliance to deliver high-quality dining experiences and effective event catering."
+        },
+        {
+            "title": "Executive Kitchen Manager",
+            "company": "Company Name",
+            "start_date": "1983-01",
+            "end_date": "1999-01",
+            "description": "Led BOH operations: hired, trained and supervised kitchen staff; managed budgets and vendor contracts; prepared food to quality standards; supervised 38 employees; developed daily production sheets and station stocking; assisted in Grand Openings of eight new restaurants; ensured compliance with health and safety regulations and maintained productive, safe kitchen environments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor Degree in Marketing",
+            "school": "Georgia Institute of Technology",
+            "year": "1984"
+        },
+        {
+            "degree": "Culinary Certification",
+            "school": "Atlanta Culinary Technical School",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Certified Food Handler",
+        "State Food Handler Card",
+        "HACCP Regulations knowledge"
+    ],
+    "languages": []
+}

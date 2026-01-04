@@ -1,0 +1,50 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Versatile Self Sustaining Engineering Fabrication Technician adept at managing projects and resolving issues as well as hardware troubleshooting. Highly effective at working independently and as part of a team. Recently worked in Diffusion Furnace while making 300mm Wafers. Previously worked in Wet Etch and Plasma Asher while making 200mm and transitioning into the 300mm Wafers. I have an impressive blend of technical expertise and people skills. Committed to providing quality and consistent technical support.",
+    "skills": [
+        "Excellent communication",
+        "inspecting",
+        "Team Lead",
+        "modems",
+        "processes",
+        "Scheduling",
+        "Technician",
+        "Trainer",
+        "Troubleshooting"
+    ],
+    "experience": [
+        {
+            "title": "Self-Sustaining Engineering Technician",
+            "company": "Company Name, City, State",
+            "start_date": "10/2000",
+            "end_date": "Current",
+            "description": "Diffusion Fabrication Technician currently making 300mm wafers. Lead Operation Trainer. Run operational tests on systems and equipment to reinforce proper processes and remedy malfunctions. Rotating Area Coordinator responsible for distributing work schedules to technicians. Performed Plasma Asher and Wet Etch fabrication for 200mm and 300mm wafers. Lead Level 3 Maintenance Technician and Level 2 Process Technician. Helped create Level 3 Maintenance training classes. Former member of the Fab Emergency Response Team."
+        },
+        {
+            "title": "Production Technician",
+            "company": "Company Name, City, State",
+            "start_date": "08/1999",
+            "end_date": "09/1999",
+            "description": "Built and tested Ultrasonic Bio microscope and other eye care products from start to finish by inspecting and testing circuit boards and building the product. Involved in improving and implementing test procedures for all circuit boards to ensure they run properly."
+        },
+        {
+            "title": "Electronic Technician",
+            "company": "Company Name, City, State",
+            "start_date": "08/1998",
+            "end_date": "08/1999",
+            "description": "Troubleshooting and repair of 100 modems per night on average. Helped run other areas of the fabrication line when needed."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Electronic Engineering",
+            "school": "ITT Technical Institute",
+            "year": "2000"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

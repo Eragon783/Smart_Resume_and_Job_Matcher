@@ -1,0 +1,102 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Twinsburg, OH 44087",
+    "summary": "Outbound sales professional with extensive experience in call center environments, customer support, and product promotion. Strong communication, problem-solving, and high-volume call handling. Proficient in Microsoft Outlook, Word and Excel; experienced in customer service procedures and building lasting customer relationships.",
+    "skills": [
+        "Pricing",
+        "Sales",
+        "Inbound And Outbound",
+        "Audit",
+        "Documentation",
+        "Filing",
+        "Inspections",
+        "Maintenance",
+        "Medical Records",
+        "Basis",
+        "Receptionist",
+        "Customer Inquiries",
+        "Of Sales",
+        "Sales And",
+        "Telephone",
+        "Benefits",
+        "Claims",
+        "Coding",
+        "Cpt",
+        "Icd",
+        "Icd-9",
+        "Icd9 Coding",
+        "Icd-9 Coding",
+        "Multi-line",
+        "Multi-line Phone",
+        "Multi-line Phone System",
+        "Phone System",
+        "Customer Service",
+        "Retail Sales",
+        "Award",
+        "Call Center Representative",
+        "Customer Support",
+        "Etiquette",
+        "Excel",
+        "Microsoft Outlook",
+        "Operations",
+        "Outlook",
+        "Word",
+        "Paralegal"
+    ],
+    "experience": [
+        {
+            "title": "Outbound Sales",
+            "company": "Company Name",
+            "start_date": "June 2009",
+            "end_date": "June 2011",
+            "description": "Answered an average of 80 calls per day by addressing customer inquiries, solving problems and providing new product information. Described product to customers and accurately explained details and care of merchandise. Politely assisted customers via telephone. Answered product questions with up-to-date knowledge of sales and store promotions. Ensured superior customer experience by addressing customer concerns, demonstrating empathy and resolving problems on the spot. Built long-term customer relationships and advised customers on purchases and promotions. Routinely answered customer questions regarding merchandise and pricing. Effectively managed a high-volume of inbound and outbound customer calls. Evaluated consumer reports on a monthly basis. Managed customer calls effectively and efficiently in a complex, fast-paced and challenging call center environment. Resolved service, pricing and technical problems for customers by asking clear and specific questions."
+        },
+        {
+            "title": "Receptionist",
+            "company": "Company Name",
+            "start_date": "March 2002",
+            "end_date": "December 2003",
+            "description": "Scheduled appointments, registered patients and distributed sample pharmaceuticals as prescribed. Professionally and courteously verified appointment times with patients. Adeptly managed a multi-line phone system and pleasantly greeted all patients. Verified patients' eligibility and claims status with insurance agencies. Prepared patient charts accurately and neatly for the clinic. Diligently filed and followed up on third party claims. Coordinated luncheons with Pharmaceutical Representatives. Researched CPT and ICD-9 coding discrepancies for compliance and reimbursement accuracy. Resourcefully used various coding books, procedure manuals and on-line encoders. Precisely evaluated and verified benefits and eligibility. Updated patient financial information to guarantee accuracy. Treated all patients, their families, visitors, peers, staff and providers in a pleasant and courteous manner."
+        },
+        {
+            "title": "Provider Rep",
+            "company": "Company Name",
+            "start_date": "May 2003",
+            "end_date": "March 2008",
+            "description": "Assisted in the maintenance of medical charts and/or electronic medical record (filing, Op Reports, test results, home care forms). Meticulously identified and rectified inconsistencies, deficiencies and discrepancies in medical documentation. Prepared patient charts accurately and neatly for the clinic. Prepared patient charts, pre-admissions and consent forms as necessary. Researched questions and concerns from providers and provided detailed responses. Updated patient financial information to guarantee accuracy. Organized the department in accordance with administrative guidelines in order to provide specified nursing services to meet the legal, organizational and medical staff guidelines. Participated in facility surveys and inspections made by authorized governmental agencies. Confirmed accurate completion of forms/reports for the admission, transfer and/or discharge of each resident. Initiated audit process to evaluate thoroughness of documentation and maintenance of facility standards."
+        },
+        {
+            "title": "Customer Service / Call Center Representative",
+            "company": "Cole Manage Vision",
+            "start_date": null,
+            "end_date": null,
+            "description": "Effectively managed a high-volume of inbound and outbound customer calls. Accurately documented, researched and resolved customer service issues. Managed customer calls effectively and efficiently in a complex, fast-paced and challenging call center environment. Managed high call volume with tact and professionalism."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "North Marion High School",
+            "year": 1985
+        },
+        {
+            "degree": "Diploma: Paralegal",
+            "school": "Webster College",
+            "year": 1992
+        },
+        {
+            "degree": "Office Technology",
+            "school": "Webster College",
+            "year": 1994
+        },
+        {
+            "degree": "Diploma: Medical Office",
+            "school": "Brown Mackie College",
+            "year": 2007
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

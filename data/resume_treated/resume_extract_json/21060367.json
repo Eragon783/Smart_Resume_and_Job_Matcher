@@ -1,0 +1,118 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "CULINARY ARTS INSTRUCTOR Executive Profile: I am seeking a responsible and challenging position that offers opportunities for personal and professional growth in a culinary environment such as fine dining to high-end hotel, catering or education. I prefer a position in Education or Management. So that I can utilize my skills gained during the past 16 years as a Teacher, Supervisor, Trainer, Team Player and Problem-Solver.",
+    "skills": [
+        "administrative",
+        "advertising",
+        "arts",
+        "budgeting",
+        "coaching",
+        "customer service",
+        "training employees",
+        "special events",
+        "financial",
+        "food safety",
+        "hiring",
+        "instruction",
+        "Inventory",
+        "inventory control",
+        "leadership skills",
+        "lesson plans",
+        "marketing",
+        "materials",
+        "Microsoft Office",
+        "presentations",
+        "progress",
+        "purchasing",
+        "quality",
+        "Quality control",
+        "receiving",
+        "safety",
+        "sales",
+        "SAP",
+        "shipping",
+        "supervisor",
+        "teacher",
+        "teaching"
+    ],
+    "experience": [
+        {
+            "title": "Culinary Arts Instructor",
+            "company": "Company Name",
+            "start_date": "January 2015",
+            "end_date": "Current",
+            "description": "Prepare lesson plans for classroom instruction for credited technical/occupational courses. Develops programs curriculum, syllabi, goals and objectives; evaluates students' progress in attaining goals and objectives. Taught culinary arts courses in a classroom/lab/field environment that closely simulates the environment of the industry while maintaining knowledge of current trends and development in the field. Provides instruction in the theory and practical application of culinary arts; establishes, measures and evaluates program. Prepare and maintains all required documentations and administrative reports."
+        },
+        {
+            "title": "Director of Dining Services",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "Current",
+            "description": "Oversee and manage the day to day operation of all Dining Services operations. Maintain and uphold corporate standards and meet the financial expectations of departments. To ensure exceptional customer service, hospitality and a quality dining experience for our residents. Create special meals for special diets, special needs. Prepare for special events (grand opening, family night, community activity, and resident private parties). Responsible for purchasing all food and non-food items."
+        },
+        {
+            "title": "Teacher Intern",
+            "company": "Company Name",
+            "start_date": "April 2010",
+            "end_date": "May 2010",
+            "description": "Demonstrated/Shopped/Organized/Planned for Food and Production Labs. Implemented safety, sanitation, and knife skills in the labs. Developed creative lesson plans that focused on differentiated instruction. Kept students involved and engaged in the lessons."
+        },
+        {
+            "title": "Teacher Intern",
+            "company": "Company Name",
+            "start_date": "February 2010",
+            "end_date": "March 2010",
+            "description": "Service Learning Project with 7th grade: made pillows for Haiti. Developed creative lesson plans that focused on differentiated instruction. Implemented safety and sanitation to the labs. Implemented culture and diversity to the class. Mastered classroom management and kept students involved and engaged in the lessons."
+        },
+        {
+            "title": "Paraprofessional/Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "October 2006",
+            "end_date": "January 2013",
+            "description": "Motivated students to stay on task by completing work given by the teacher. Monitored the halls throughout the building. Worked effectively with administration, faculty, and staff. Participated in Challenge Day."
+        },
+        {
+            "title": "Baking/Pastry Chef",
+            "company": "Company Name",
+            "start_date": "January 2006",
+            "end_date": "January 2013",
+            "description": "Prepared and made desserts, cakes, gelato, pastries, and dessert sauces. Mastered at making ethnic artisan gelato's and sorbet's. Plated and presented desserts; designed different desserts for the season. Managed 6-8 food preparation employees."
+        },
+        {
+            "title": "Banquet Chef",
+            "company": "Company Name",
+            "start_date": "January 2005",
+            "end_date": "January 2006",
+            "description": "Maintained Carver/Sauté station for events. Assisted in plate presentations for sit down weddings, parties and special events. Food preparation for events. Set up and break down for event. Served food depending on stations (hot or cold foods, desserts)."
+        },
+        {
+            "title": "Owner/Manager",
+            "company": "Company Name",
+            "start_date": "January 2002",
+            "end_date": "January 2004",
+            "description": "Increased sales from 25% to 50%. Effectively managed food cost, budgeting, production, sales, inventory, marketing and advertising. Supervised 8-10 employees. Responsible for hiring and terminating. Initiated proper training for customer service. Monitored food safety and sanitation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Family and Consumer Science",
+            "school": "Queens College CUNY",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Science in Culinary Arts",
+            "school": "Le Cordon Bleu College",
+            "year": 2007
+        },
+        {
+            "degree": "Bachelor of Science in Marketing/Management",
+            "school": "Southampton College of Long Island University",
+            "year": 1995
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

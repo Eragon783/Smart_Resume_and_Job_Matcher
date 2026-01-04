@@ -1,0 +1,60 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "I am passionate about teaching and caring for students holistically. I believe it is crucial for students to develop critical thinking skills as they develop their sense of self and their worldview. I prioritize teacher collaboration to develop a community among educators and to develop best practices. I pursue professional development opportunities to better serve all of my students with an emphasis on equity, differentiation and inquiry-based learning. I have recently completed my National Board Certification pending results in January of 2019.",
+    "skills": [
+        "Educational Leadership",
+        "Classroom Management",
+        "Variety of Teaching Strategies",
+        "Multimedia Teaching and Learning",
+        "Inquiry-Based Learning"
+    ],
+    "experience": [
+        {
+            "title": "English Language Arts Teacher",
+            "company": "Lakes High School, Clover Park School District",
+            "start_date": "10/2013",
+            "end_date": "06/2017",
+            "description": "Taught 9th, 11th and 12th grade English as well as AP Literature and AP Language; developed curricula across grade levels to meet diverse student needs."
+        },
+        {
+            "title": "Head Of English Department",
+            "company": "Lakes High School, Clover Park School District",
+            "start_date": "06/2016",
+            "end_date": "06/2017",
+            "description": "Planned and scheduled monthly departmental meetings, allocated department funds, participated in the District Literacy Committee, and facilitated information flow between administration and English teachers; initiated monthly meetings with the Principal and invited teachers to contribute items for professional development."
+        },
+        {
+            "title": "ASB Advisor",
+            "company": "Lakes High School, Clover Park School District",
+            "start_date": "07/2016",
+            "end_date": "06/2017",
+            "description": "Prioritized student leadership, facilitated leadership development content and project management; advised on student initiatives and emphasized Knowledge, Courage and Compassion to develop student leaders."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master in Teaching: Secondary Education; English Language Learner Endorsement",
+            "school": "University of Washington",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Arts: English; Minor in Education, Learning and Society",
+            "school": "University of Washington",
+            "year": 2011
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "Tacoma Community College",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        "National Board Certification (pending results in January 2019)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

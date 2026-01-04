@@ -1,0 +1,61 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Patient and professional excellence oriented Pharmacist with Doctor of Pharmacy and Master in Science degrees. Nine years of retail experience providing outstanding pharmacy services in a high-volume setting. Strong background in science and clinical pharmacology and excellent interpersonal skills with a track record of establishing positive relationships with customers, co-workers, medical professionals, and insurance providers. Enthusiastic about acquiring new clinical knowledge and experience in a hospital setting. Committed to providing highest quality pharmaceutical services and personal patient care as an essential link in disease management. Dedicated to deliver peak performance as well as fast and accurate medication dispensing. Capable and able to demonstrate versatility in adapting to every- increasing complexity in the healthcare industry.",
+    "skills": [
+        "Prescription Dispensing and Compounding",
+        "Drug Interaction Assessment",
+        "Clinical Interventions",
+        "Product Safety and Quality Assurance",
+        "Exceptional Patient Care",
+        "Proficient with Microsoft Office (Word, Excel, PowerPoint, Access)",
+        "Ability to Identify and Solve Potential Problems",
+        "High Personal and Professional Ethics",
+        "Creative Cognitive Skills",
+        "Pharmaceutical Research and Data Analysis",
+        "Efficient and Accurate",
+        "Attention to Detail",
+        "Excellent Telephone Etiquette",
+        "Communication Skills (Oral and Written)",
+        "Organizational Skills",
+        "Customer and Coworker Relationship Management",
+        "Inventory Management",
+        "Russian language communication (translation for customers)"
+    ],
+    "experience": [
+        {
+            "title": "Staff Pharmacist",
+            "company": "Company Name",
+            "start_date": "12/2002",
+            "end_date": "04/2009",
+            "description": "Managed ancillary staff in fulfilling more than 1,500 prescriptions weekly. Consulted with physicians and patients regarding medication dosage, drug interactions, medical equipment, disease management and potential side effects of prescription and OTC medications. Dispensed and compounded prescriptions, and maintained accurate patient records, dosing information and directions for use. Interacted with HMOs and other insurance providers concerning billing/reimbursement issues. Kept abreast of new developments within the pharmaceutical industry. Proficiently processed and dispensed written, oral and electronic prescriptions. Conducted drug utilization reviews, drug interventions and therapy management. Provided critical information and advice to customers regarding possible drug interactions, side effects, dosage and proper medication storage. Maintained confidentiality and proper storage and security conditions for all drugs. Mastered SOPs. Maintained updated records such as pharmacy files, patient profiles, charge system files, inventories and poison or controlled drug registries. Calculated, weighed, measured and mixed ingredients with precision. Advised customers on the selection of over-the-counter products and supplements. Oversaw pharmacy technicians' drug preparation and distribution activities. Followed state and federal record-keeping guidelines for legend drugs and controlled substances. Resolved customer issues and questions."
+        },
+        {
+            "title": "Pharmacy Intern",
+            "company": "Company Name",
+            "start_date": "01/1998",
+            "end_date": "11/2002",
+            "description": "Assisted pharmacists in daily operations including prescription processing, medication dispensing, compounding, inventory management, and patient counseling under supervision. Supported drug utilization reviews, patient records maintenance, and compliance with regulatory requirements."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Doctor of Pharmacy",
+            "school": "Massachusetts College of Pharmacy and Health Science",
+            "year": 2002
+        },
+        {
+            "degree": "Master of Science in Hardware Engineering",
+            "school": "University of Information Technology, Mechanics and Optics",
+            "year": 1992
+        }
+    ],
+    "certifications": [
+        "In good standing with the Massachusetts Board of Pharmacy"
+    ],
+    "languages": [
+        "Russian"
+    ]
+}

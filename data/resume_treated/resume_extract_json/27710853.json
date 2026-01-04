@@ -1,0 +1,93 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior operations and service delivery leader with 15+ years of experience across BPO/outsourcing, strategy planning, bid management, transition, and P&L management. Proven ability to drive revenue growth, optimize processes, and manage multi-location delivery with strong client relationships and leadership across diverse engagements.",
+    "skills": [
+        "Program Management",
+        "Service Management",
+        "Client Relationship Management",
+        "Sales and Solutioning",
+        "Transition Management",
+        "Performance Management",
+        "Managing P&L"
+    ],
+    "experience": [
+        {
+            "title": "Business Account Lead",
+            "company": "Company Name",
+            "start_date": "2014-02",
+            "end_date": "Present",
+            "description": "Managed client relationships and delivery for an outsourcing contract, including P&L ownership, team leadership, and implementation of standard processes and tools to drive operational efficiencies. Participated in RFI/RFP responses and business case development; negotiated changes and ensured contractual compliance; collaborated with sales for opportunities; validated delivery capability and SLAs; led transition and service delivery, with a focus on minimizing escalations and maximizing profitability."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "2011-03",
+            "end_date": "2014-01",
+            "description": "Program management of two engagements in F&A and Legal BPO for Nordic and US clients. End-to-end service delivery leadership for two engagements with up to 250 billable agents across multiple towers; single point of contact for client relationships and contract delivery; identified optimization opportunities; managed risks; ensured retention and stakeholder alignment; partnered with HR, capability development, and sales to sustain growth."
+        },
+        {
+            "title": "Operations Lead",
+            "company": "Company Name",
+            "start_date": "2010-03",
+            "end_date": "2011-02",
+            "description": "Managed Global Biostatistics and Programming and Document Technology towers for a US-based Pharma client, as well as Data Entry and Safety Review towers. Responsibilities included service delivery, SLA compliance, capacity planning, hiring forecasting, quarterly/monthly target setting, trainings, and client liaison; led process improvements, performance metrics, and incident management; ensured client satisfaction and productivity gains."
+        },
+        {
+            "title": "Assistant Manager/ Manager",
+            "company": "Company Name",
+            "start_date": "2006-08",
+            "end_date": "2008-10",
+            "description": "Led teams for B2B Order to Cash and Credit Balance projects; ensured SLA targets and month-on-month cash reductions; managed petty cash write-offs; introduced quality rigor, set up performance metrics, training, and HR coordination; achieved recognition for performance and process improvements."
+        },
+        {
+            "title": "Team Leader",
+            "company": "Company Name",
+            "start_date": "2002-12",
+            "end_date": "2006-07",
+            "description": "Supervised inbound/outbound collections calls; ensured SLAs; conducted training and recruitment; transitioned processes; provided performance evaluations and rewards; prepared monthly invoicing discussions; COPC-aligned process improvements."
+        },
+        {
+            "title": "Senior Technician",
+            "company": "Company Name",
+            "start_date": "2002-02",
+            "end_date": "2002-12",
+            "description": "Provided technical support for a major ISP and software solutions provider; delivered training to new hires, coached agents, maintained dashboards, and monitored calls; achieved high CSAT scores and awards for top performance."
+        },
+        {
+            "title": "Process Developer",
+            "company": "Company Name",
+            "start_date": "2000-07",
+            "end_date": "2001-09",
+            "description": "Made outbound collection calls; handled escalated calls; mentored and trained new hires; updated dashboards and shared best practices; received recognition for performance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA: Finance",
+            "school": "Mahatma Gandhi University",
+            "year": "2015"
+        },
+        {
+            "degree": "Gold Certification: Operations Management",
+            "school": "ISB & Accenture Joint Program",
+            "year": "2013"
+        },
+        {
+            "degree": "Diploma: Hotel Management",
+            "school": "Institute of Hotel Management",
+            "year": "2000"
+        },
+        {
+            "degree": "High School",
+            "school": "Bharatiya Vidya Mandir",
+            "year": "1997"
+        }
+    ],
+    "certifications": [
+        "Gold Certification: Operations Management (ISB & Accenture Joint Program)"
+    ],
+    "languages": []
+}

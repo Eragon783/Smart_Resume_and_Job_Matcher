@@ -1,0 +1,80 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Fort Lauderdale, FL",
+    "summary": "Substitute teacher with healthcare administration background, skilled in administrative support, scheduling, records management, HIPAA compliance, and customer service. Motivated, detail-oriented, and proficient with Microsoft Office; seeking opportunities in healthcare administration and hospital operations.",
+    "skills": [
+        "administrative support",
+        "scheduling appointments",
+        "attention to detail",
+        "billing",
+        "communication skills",
+        "customer service",
+        "dependable",
+        "diagnosis",
+        "inventory",
+        "listening",
+        "merchandising",
+        "Microsoft Office",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "multi-tasking",
+        "providing treatment",
+        "problem solving skills",
+        "receiving",
+        "reception",
+        "retail",
+        "sales",
+        "structured",
+        "teacher",
+        "phone",
+        "written communication skills"
+    ],
+    "experience": [
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "10/2015",
+            "end_date": "Current",
+            "description": "Substitute teacher in Fort Lauderdale, FL, continuing experience in Broward County education after relocating. Managed classroom environments, facilitated instruction, and supported student learning as part of a district-wide substitute program."
+        },
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name",
+            "start_date": "08/2014",
+            "end_date": "09/2015",
+            "description": "Full-time substitute teacher for 51 public schools in Escambia County, Florida (Grades K-12). Promoted an encouraging classroom environment, demonstrated dedication and passion, and maintained strong communication with students and staff. Recognized for reliability and trustworthiness; repeatedly invited to return to Blue Angels Elementary in Pensacola."
+        },
+        {
+            "title": "Veterinary Technician and Receptionist",
+            "company": "Company Name",
+            "start_date": "03/2014",
+            "end_date": "08/2014",
+            "description": "Assisted doctors with diagnosis and care in a veterinary hospital serving multiple counties. Handled reception/front desk duties including scheduling, billing, check-in, and phone inquiries. Provided high-quality customer service and supported animal health care decisions."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "01/2012",
+            "end_date": "01/2013",
+            "description": "Clothing retail associate in a national chain. Managed merchandise inventory, delivered customer-focused service, and contributed to top sales performance and positive feedback from customers and colleagues."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Applied Science: Healthcare Administration",
+            "school": "Pensacola State College",
+            "year": "Present"
+        },
+        {
+            "degree": "Associates of Arts: General Education",
+            "school": "Gulf Coast State College",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

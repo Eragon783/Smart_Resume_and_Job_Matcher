@@ -1,0 +1,81 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Public Relations Manager with extensive experience in equity and index options, regulatory inquiries and examinations, retail and professional trading practices, and back-office functions, plus a background in business development and strategic partnerships. A results-driven professional with strong communication, leadership, analytical and organizational skills, adept at negotiating and guiding companies toward growth.",
+    "skills": [
+        "Relationship management",
+        "Customer service",
+        "Sales",
+        "Cold calling",
+        "Prospecting",
+        "Strategic account development",
+        "Interpersonal skills",
+        "Communication",
+        "Negotiation",
+        "Team leadership",
+        "Financial analysis",
+        "Financial reporting",
+        "Detail-oriented",
+        "Analytical",
+        "Strategic positioning",
+        "Critical thinking",
+        "Conflict resolution",
+        "Time management",
+        "Strong organizational skills",
+        "Active listening",
+        "Workflow planning",
+        "Process improvement",
+        "Market insight",
+        "Business development",
+        "Selling",
+        "Relationship selling",
+        "Marketing"
+    ],
+    "experience": [
+        {
+            "title": "Public Relations Manager",
+            "company": "Company Name",
+            "start_date": "September 2015",
+            "end_date": "May 2016",
+            "description": "Organized the company into a formal structure, defined roles and responsibilities for each position, planned the company's growth, and introduced Leassy as an extended enterprise. Analyzed data to define characteristics of potential customers and future strategic allies to ensure the effectiveness of the marketing campaigns and corporate approach. Worked with the founders to identify geographical areas to launch, testing different cities and controlled markets. Assisted with events and coordinated meetings with investors and clubs' representatives to pitch and promote the idea, gaining recognition from potential users and prospective investors."
+        },
+        {
+            "title": "Special Projects Manager",
+            "company": "Company Name",
+            "start_date": "August 2013",
+            "end_date": "April 2015",
+            "description": "Designed and implemented a project to increase acquisition of specialized tools, and provided technical training to repair technicians. Three months post-implementation, customer complaints related to general repairs and time of response were reduced by 50%. Synchronized the different teams of the company to work towards shared goals with General Motors Venezolana, classifying the car dealership as one of the top tier in Venezuela and becoming a member of the exclusive Club del Presidente de GM. Worked as communications liaison between the company's individual contributors and senior leadership. Utilized the voice of the workforce to boost engagement and satisfaction levels amongst the employees. Spearheaded the planning, design and execution of a new quick oil and filter change shop, aiming to increase the sales capacity by 30% to cover an important unattended market on the central part of the city."
+        },
+        {
+            "title": "Relationship Manager Assistant",
+            "company": "Company Name",
+            "start_date": "February 2011",
+            "end_date": "July 2013",
+            "description": "Performed processes of Know Your Customer (KYC) and Anti Money Laundering (AML), complying with regulators and the corporation's policies. Maximized the value of CitiBank as a Correspondent Bank by contacting clients frequently to identify new business opportunities, monitor transactional activity, and evaluate the usage/efficiency of credit facilities. Worked with the senior management team to add new public and private institutions as clients after performing market research and defining the wanted key players. Decreased customer complaints related to time of response and quality of the customer service by 50% in Q2 2011 and by 100% by year-end through attentive relationship management. Developed and enhanced more than 70 client relationships, increasing revenues of the division from $1.7 Million to $7.2 Million in less than two years by cross-selling Citi's full range of products and services."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "BABSON COLLEGE, F.W. OLIN GRADUATE SCHOOL OF BUSINESS",
+            "year": "2016"
+        },
+        {
+            "degree": "Bachelor of Science: Business Administration Management",
+            "school": "UNIVERSIDAD METROPOLITANA",
+            "year": "2010"
+        },
+        {
+            "degree": "Financial Engineering Certificate",
+            "school": "UNIVERSIDAD METROPOLITANA",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish",
+        "English"
+    ]
+}

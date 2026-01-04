@@ -1,0 +1,67 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Highly dependable Teradata Database Engineer successful at troubleshooting and debugging. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.",
+    "skills": [
+        "Data Warehouse knowledge",
+        "Database design",
+        "Oracle SQL",
+        "SDLC",
+        "Teradata",
+        "SQL Testing",
+        "Unit Testing",
+        "Business Requirements Gathering",
+        "Change Management planning",
+        "Configuration Management planning",
+        "Data Analysis",
+        "Data Mart Development",
+        "Code Deployment",
+        "Feasibility Analysis",
+        "Integration Testing",
+        "Application Maintenance",
+        "Meta data Analysis",
+        "Teradata PL/SQL",
+        "Teradata BTEQ",
+        "Teradata Fastload",
+        "Requirements Gathering",
+        "Semantic database design",
+        "Technical Design",
+        "Technical Specifications documents",
+        "UAT",
+        "Basic UNIX"
+    ],
+    "experience": [
+        {
+            "title": "Teradata Senior Associate Consultant",
+            "company": "Company Name",
+            "start_date": "2014-12",
+            "end_date": "Present",
+            "description": "iOS Mobile Application for Business Analytics Reporting. Responsibilities included data analysis and gathering columns metadata, optimizing Teradata and Oracle views and SQL for performance, implementing code changes via change management tools, coordinating offshore development from onsite to code delivery and sign-off, preparing low-level technical design documents, providing capacity forecasts, and supporting system tests, product integration testing, and deployment. Liaised between different implementation groups and documented technical specifications."
+        },
+        {
+            "title": "Senior Associate Consultant",
+            "company": "Company Name",
+            "start_date": "2012-03",
+            "end_date": "2014-12",
+            "description": "Development and maintenance of semantic/downstream layer in a data warehouse for business user reporting. Built and maintained a data mart on Enterprise Data Warehouse to improve reporting efficiency and decision making. Responsibilities included data analysis and metadata gathering, optimizing Teradata views and SQL, implementing changes via change management tools, coordinating offshore/onshore development, preparing design documents, participating in SDLC, and supporting testing and deployment."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2012-03",
+            "description": "Data Warehousing Services (DWS). Involved in end-to-end SDLC for data warehouse platforms; prepared high-level design documents; developed and reviewed BTEQ scripts, Fast Load, Fast Export, Multi-Load and JCLs; loaded data from Oracle to Teradata; assisted with quality procedures, code reviews, testing and deployments; collaborated with business users and analysts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Technology in Computer Science Engineering",
+            "school": "JNTU",
+            "year": "Unknown"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

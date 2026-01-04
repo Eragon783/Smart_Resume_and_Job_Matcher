@@ -1,0 +1,83 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Media relations professional and executive with a track record of high-impact publicity, media placement, and strategic marketing communications for global clients. Proven ability to generate top-tier media coverage in outlets such as The Wall Street Journal, Forbes, People, Sports Illustrated, USA Today, Time and Newsweek; secure appearances on national programs; and manage large-scale international events. Bi-cultural strategist with experience in the MENA region and Central America, delivering branding, multi-cultural marketing, and integrated PR campaigns across diverse industries.",
+    "skills": [
+        "Marketing Communications Strategy",
+        "Corporate Communications",
+        "Brand Development & Auditing",
+        "Brand Message & Image Development",
+        "Multi-Cultural Marketing",
+        "Special Events & Launches",
+        "Project & Team Management",
+        "Idea Generation",
+        "Public Relations Campaigns",
+        "Regional, National & Global PR",
+        "Publicist & Company Spokesperson",
+        "Press Conferences & Media Tours",
+        "Media Training & Development",
+        "Collateral Writing & Development",
+        "Website Content",
+        "Social Media Strategy & Content"
+    ],
+    "experience": [
+        {
+            "title": "President",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "Present",
+            "description": "Independent marketing & PR practice helping SMEs meet their business needs. Conduct brand audits and develop results-driven business strategies to help clients define, manage and reach their business goals. Develop and execute integrated marketing communications programs, special events and PR campaigns for multiple clients in various industries. Provide creative oversight and development of key messaging, brand image, Web site content, and marketing collateral to effectively position clients among the media and their target audiences."
+        },
+        {
+            "title": "Vice President",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2012-01",
+            "description": "Startup company formed to capitalize on a constitutional amendment in Honduras that allowed the creation of new cities with semi-independent governance systems. Developed strategic marketing communications campaign and multi-cultural messaging for key audiences and international media to facilitate cross-national communication and ensure global awareness of the project. Created innovative community relations program and bi-lingual presentation to engage and nurture relationships with Honduran president and government officials, business leaders, and select media in Tegucigalpa."
+        },
+        {
+            "title": "Director of Brand",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2007-01",
+            "description": "A full service marketing agency, offering public relations, advertising, and design. Developed brand strategy and award-winning PR campaigns for the agency and its clients in healthcare, financial services, sports marketing and business-to-business services. Managed the PR staff and budget, and worked closely with company president to position and launch their sports marketing division. Improved company's market position by successfully introducing and managing the market planning and RFP processes for agency clients."
+        },
+        {
+            "title": "Director of Public Relations & Agency Associate",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2004-01",
+            "description": "Worked with president and chairman of an international chamber of commerce to enhance economic exchange and cultural understanding between public and private sectors in the US and MENA. Led brand audits, positioning refresh, and development of profit centers; led worldwide media relations efforts for The US-Arab Economic Forum's flagship event, resulting in nearly 40 million media impressions. Built relationships with foreign ministries, government officials, and Fortune 500 executives; contributed to campaigns and events including the Ford Field opening."
+        },
+        {
+            "title": "Publicist & Director of Marketing",
+            "company": "Company Name",
+            "start_date": "1996-01",
+            "end_date": "2000-01",
+            "description": "Private agent and lawyer representing the careers of select professional athletes. Served as primary media contact, publicist and image strategist to shape and protect brand images of top athletes. Managed media appearances, book tours, photo shoots, press conferences, and commercials; developed all marketing collateral, videos, media kits, scripts and speeches. Pitched to People magazine and Sports Illustrated."
+        },
+        {
+            "title": "Director of Public Relations",
+            "company": "Company Name",
+            "start_date": "1992-01",
+            "end_date": "1996-01",
+            "description": "Special events company producing Michigan's two largest civic events: America's Thanksgiving Parade and the International Freedom Festival & Fireworks, each attracting well over a million attendees. Led public relations campaigns and coordinated large volunteer-based operations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Administration, Marketing",
+            "school": "Central Michigan University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Applied Arts in Journalism & Public Relations, Broadcasting",
+            "school": "Central Michigan University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

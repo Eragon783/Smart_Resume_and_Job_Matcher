@@ -1,0 +1,89 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced kitchen/bath designer and sales professional with broad exposure to architectural and interior design across commercial and residential sectors. Skilled in space planning, cabinetry, window treatments, site planning, landscape design, and coordination with architects, contractors, and clients. Proficient with CAD programs, building codes, and construction documentation; adept at budgeting, product specification, and managing design projects from concept to install.",
+    "skills": [
+        "architectural design",
+        "interior design",
+        "kitchen and bath design",
+        "space planning",
+        "window treatments",
+        "cabinetry specification",
+        "site planning",
+        "landscape design",
+        "CAD programs",
+        "building codes",
+        "construction documents",
+        "project management",
+        "client consultation",
+        "budgets and cost considerations",
+        "sales"
+    ],
+    "experience": [
+        {
+            "title": "Kichen/Bath Designer & Sales",
+            "company": "Company Name",
+            "start_date": "1998-06",
+            "end_date": "2000-04",
+            "description": "Began in client cabinet, countertop & appliance sales, including on-site measuring, space-planning design, style & finish selection, ordering and installation oversight. Consulted with clients to determine architectural preferences to meet overall design goals. Assisted clients with budget considerations and materials. Resolved complex technical design issues."
+        },
+        {
+            "title": "Showroom/Home Show Designer",
+            "company": "Company Name",
+            "start_date": "2000-04",
+            "end_date": "2000-06",
+            "description": "Maintained showroom vignettes at multiple locations; updated with newest cabinet styles, countertops and materials. Designed and decorated interchangeable exhibit vignettes for home shows around the state; assisted with setup at show sites. Position created for me by General Manager; later eliminated due to management change."
+        },
+        {
+            "title": "Assistant Store Manager",
+            "company": "Company Name",
+            "start_date": "1996-10",
+            "end_date": "1997-08",
+            "description": "Opened and closed retail store; assisted customers with wallpaper and window treatment selections; scheduled and managed in-home measure/selection appointments; processed orders and coordinated installation; collaborated with clients to meet design goals and budget considerations."
+        },
+        {
+            "title": "Owner/Manager",
+            "company": "Company Name",
+            "start_date": "1991-06",
+            "end_date": "1994-09",
+            "description": "Converted 7500 square feet of commercial space into 24 individual offices with cubicles, conference rooms, reception and lounges. Rented offices and provided secretarial and other tenant services. Managed operations until sale/lease termination; built and maintained client relationships."
+        },
+        {
+            "title": "Current Principal",
+            "company": "Company Name",
+            "start_date": null,
+            "end_date": "Present",
+            "description": "Consulted with clients to determine architectural preference; originated and developed creative design concepts; assisted with budget considerations; interfaced with architects, contractors, subcontractors, consultants, fabricators, and regulatory agencies. Specified products, prepared construction documents and details, and managed project execution."
+        },
+        {
+            "title": "Transitional Vocation – Property Manager / Project Manager",
+            "company": "Various projects",
+            "start_date": "1981",
+            "end_date": "1983",
+            "description": "In 1981, managed a 160-unit apartment project (rehabilitation and occupancy). In 1983, served as Project Manager during construction and Start-Up Manager of a 360-unit apartment complex; revised floor plans to address market objections and achieved rapid occupancy. Earned Residential Property Management Certificate during this period."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts: Architectural/Interior Design",
+            "school": "New York School of Interior Design",
+            "year": "1970"
+        },
+        {
+            "degree": "Associate of Arts: Business Principles and Skills",
+            "school": "Lansing Business University (Davenport Business College)",
+            "year": "1967"
+        },
+        {
+            "degree": "Residential Property Management Certificate",
+            "school": null,
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Residential Property Management Certificate"
+    ],
+    "languages": []
+}

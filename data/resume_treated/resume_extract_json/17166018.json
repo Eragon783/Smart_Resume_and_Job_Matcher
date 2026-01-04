@@ -1,0 +1,65 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Enthusiastic, driven individual with experience motivating students to achieve both academic and athletic goals.",
+    "skills": [
+        "Administrative Management",
+        "Creative Lesson Planning",
+        "Curriculum Development",
+        "Goal Setting and Implementation",
+        "Athletic Program Development and Management"
+    ],
+    "experience": [
+        {
+            "title": "Athletic Director, Coach, PE Teacher",
+            "company": "Company Name",
+            "start_date": "08/2015",
+            "end_date": "Current",
+            "description": "Successfully manage athletic teams and plan sporting events and lead sports programs to foster teamwork and develop students' self-esteem. Develop and implement physical education and health lesson plans and curriculum for kindergarten through seventh grades. Administer tests and other evaluations and analyze student performance. Develop strong relationships with students' parents to encourage collaboration between faculty and families to achieve student success. Motivate self, staff, and team members to reach short and long term performance goals."
+        },
+        {
+            "title": "ESL Teacher",
+            "company": "Company Name",
+            "start_date": "01/2018",
+            "end_date": "Current",
+            "description": "Teach children in China ages 4-12 to speak, read, and write English using an interactive PowerPoint on an online platform. Provide feedback to parents and collaborate with other educators to ensure the best output from each student. Assess and monitor students' progress."
+        },
+        {
+            "title": "Wellness Coordinator, PowerPlay Instructor",
+            "company": "Company Name",
+            "start_date": "03/2012",
+            "end_date": "07/2015",
+            "description": "Planned and instructed physical activity classes for the Pre-K and Mother's Day Out programs that are content specific and developmentally appropriate and that support the diverse group of learners. Assisted in the Pre-K and Mother's Day Out classrooms as needed. Created, implemented, and managed wellness events for members and served as a liaison between the club and outside health/wellness organizations."
+        },
+        {
+            "title": "Youth Fitness Coordinator, Fitness Coach",
+            "company": "Company Name",
+            "start_date": "06/2011",
+            "end_date": "01/2012",
+            "description": "Planned and implemented games and activities for children that taught the importance of physical activity and healthy nutrition habits while helping develop gross motor skills and strengthening balance and coordination. Taught exercise classes using calisthenics, aerobics, weight training, and stretching to groups of co-educational adults of various ages and physical abilities. Maintained a safe and motivating workout environment during exercise classes while demonstrating and teaching good body mechanics and proper form."
+        },
+        {
+            "title": "Trainer, Bartender, Server",
+            "company": "Company Name",
+            "start_date": "11/2010",
+            "end_date": "01/2012",
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Kinesiology (Sports Studies Concentration)",
+            "school": "Louisiana State University",
+            "year": "2010"
+        }
+    ],
+    "certifications": [
+        "Introduction to Responsive Classroom workshop (2017)",
+        "Lifeguard, First Aid, and CPR Certified (American Red Cross, 2016)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

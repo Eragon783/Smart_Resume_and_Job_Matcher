@@ -1,0 +1,67 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Floral Designer with more than six years experience in artistically arranging real flowers, leaves, and other decorations; making bouquets, wreaths, wedding decorations, and other kinds of floral designs.",
+    "skills": [
+        "Painting",
+        "swimming",
+        "cooking",
+        "photographing",
+        "playing piano"
+    ],
+    "experience": [
+        {
+            "title": "Floral Designer",
+            "company": "Company Name",
+            "start_date": "08/2017",
+            "end_date": "Present",
+            "description": ""
+        },
+        {
+            "title": "Floral Designer Freelancer",
+            "company": "Company Name",
+            "start_date": "06/2017",
+            "end_date": "Present",
+            "description": ""
+        },
+        {
+            "title": "Floral Designer Freelancer",
+            "company": "Company Name",
+            "start_date": "11/2016",
+            "end_date": "Present",
+            "description": "Created exciting wedding arrangements, bridal bouquets and centerpieces."
+        },
+        {
+            "title": "Floral Designer",
+            "company": "Company Name",
+            "start_date": "08/2015",
+            "end_date": "06/2016",
+            "description": "Decorated luxurious rooms for VIP guests (such as Presidents, Princess of Thailand, Arab Sheikhs). Ordered and purchased flowers from growers and wholesalers. Designed lobby flower arrangements. Decorated private hotel rooms and private dinners. Designed, arranged, and wrapped varieties of spiral bouquets for guests."
+        },
+        {
+            "title": "Floral Designer",
+            "company": "Company Name",
+            "start_date": "09/2013",
+            "end_date": "07/2015",
+            "description": "Created exciting wedding and anniversary arrangements, bridal bouqets and centerpieces."
+        },
+        {
+            "title": "Floral Designer",
+            "company": "Company Name",
+            "start_date": "08/2011",
+            "end_date": "06/2013",
+            "description": "Designed holiday, wedding, and graduation event displays using fresh flower arrangements. Decorated hotel halls and private rooms. Stocked, cut, and watered plants and flowers. Itemized and totaled purchases for individual and corporate customers. Ordered and purchased flowers from growers and wholesalers. Ensured health and cleanliness of flowers and foliage before storage. Answered telephones, took orders, wrapped arrangements. Advised customers on how to look after the flowers or plants they buy."
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "school": "Republican Art College",
+            "year": "2003"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

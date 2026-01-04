@@ -1,0 +1,96 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Profile with 3+ years of professional software testing experience, skilled in manual and automation testing for web and mobile applications. Strong scripting and programming capabilities, experience in test planning, test case design, and automated test development. Experienced in GIS testing, and domains including E-commerce, Banking and Insurance. ISTQB certified tester. Proactive, with excellent communication and ability to manage multiple projects and meet tight deadlines.",
+    "skills": [
+        "C",
+        "C++",
+        "C#",
+        "Java",
+        "JavaScript",
+        "Windows PowerShell",
+        "HTML",
+        "XML",
+        "Selenium IDE",
+        "Selenium WebDriver",
+        "GoogleUIAutomator",
+        "Jira",
+        "Buganizer",
+        "Microsoft Office",
+        "Microsoft Project",
+        "Open Office",
+        "MySQL",
+        "SQL Server",
+        "Windows",
+        "Linux",
+        "OS X",
+        "iOS",
+        "Android",
+        "GIS",
+        "Test Plans",
+        "Test Cases",
+        "Functional Testing",
+        "Integration Testing",
+        "Performance Testing",
+        "Regression Testing",
+        "UAT",
+        "System Testing",
+        "Automation",
+        "Manual Testing",
+        "ISTQB",
+        "Android SDK"
+    ],
+    "experience": [
+        {
+            "title": "Test Analyst-Intern/Contractor",
+            "company": "Company Name",
+            "start_date": "August 2014",
+            "end_date": "February 2015",
+            "description": "System testing and functional testing on e-commerce websites; cross-browser and cross-platform testing on desktops, mobile devices and tablets; analyze requirements from client in functional and technical specs; create functional and non-functional test cases; perform integration testing with external systems; tested both responsive and non-responsive websites; tested complex promotions; participated in daily stand-ups and process-improvement initiatives; mentored team members on testing processes."
+        },
+        {
+            "title": "Quality Analyst",
+            "company": "Company Name",
+            "start_date": "October 2011",
+            "end_date": "February 2014",
+            "description": "Responsible for testing Google Play Store and Google Maps mobile and desktop applications; performed functional and integration testing; designed test plans and wrote test cases for new product features; developed automation using GoogleUIAutomator; performed cross-browser testing across Chrome, Firefox, IE and Safari; tested on Android and iOS devices; tracked bugs using Buganizer; managed and mentored a team and contributed to process improvements."
+        },
+        {
+            "title": "Test Engineer",
+            "company": "Company Name",
+            "start_date": "September 2010",
+            "end_date": "July 2011",
+            "description": "Understanding of business and system requirements; prepared test data and wrote test cases; developed QTP scripts; created functional and non-functional test cases; participated in weekly team meetings; prepared daily/weekly status reports; involved in automation and manual testing projects including Insurance Management and Banking domains; worked in USA environment with Windows XP and SQL Server 2005."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Engineering (Software Engineering)",
+            "school": "University of Auckland",
+            "year": null
+        },
+        {
+            "degree": "Master of Engineering Studies - Software Engineering",
+            "school": "University of Auckland",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Engineering",
+            "school": "Jawaharlal Nehru Technological University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Engineering-Information Technology",
+            "school": "Jawaharlal Nehru Technological University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "ISTQB Certified Tester"
+    ],
+    "languages": [
+        "English"
+    ]
+}

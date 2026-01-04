@@ -1,0 +1,105 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced Program Manager and Enterprise Desktop Architect with a track record delivering enterprise-grade on-premises and SaaS solutions. Proven success in enterprise desktop management, infrastructure, systems administration, programming and automation, enterprise architecture, and project management. Experienced in leading large deployments, packaging, imaging, OS deployment, security baselines, and cross-functional leadership.",
+    "skills": [
+        "VB.NET",
+        "ASP.NET",
+        "C#",
+        "VBScript",
+        "Active Directory",
+        "application packaging",
+        "App-V",
+        "MSI",
+        "Windows Installer",
+        "BitLocker",
+        "MBAM",
+        "EFS",
+        "Windows OS",
+        "Windows 7",
+        "Windows 8",
+        "Windows 2000",
+        "MS SQL Server",
+        "Oracle database",
+        "IIS",
+        "VMware",
+        "VMware View",
+        "VDI",
+        "SCCM / System Center Configuration Manager",
+        "MDT",
+        "AppCompat",
+        "UE-V",
+        "AdminStudio",
+        "InstallShield",
+        "Imaging",
+        "image",
+        "reporting",
+        "project management",
+        "leadership",
+        "ITIL",
+        "Knowledge Management",
+        "Networking",
+        "Exchange",
+        "XML",
+        " Perl",
+        "Perl",
+        "OS",
+        "Packaging",
+        "USMT",
+        "Website",
+        "VPN",
+        "x86",
+        "MS SQL Server",
+        "SCCM",
+        "MDT",
+        "AdminStudio",
+        "ITIL"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2011-07",
+            "end_date": "Current",
+            "description": "Architected and implemented client solutions for large enterprises; led Windows 7 deployment initiatives for large organizations (including an 85,000-seat Fortune 100 financial institution) and drove adoption of MDOP, BitLocker, ConfigMgr 2012, and App-V. Founded and led Americas Client Solutions Birds of a Feather community and expanded to Readiness Groups, fostering knowledge sharing and international training. Developed global Windows 7 images and MDT 2010/2012 deployment processes, packaged 20+ applications, and built a remote UAT environment to validate applications."
+        },
+        {
+            "title": "Enterprise Desktop Architect",
+            "company": "Company Name",
+            "start_date": "2006-06",
+            "end_date": "2011-06",
+            "description": "Senior member of the Enterprise Client Systems team responsible for Client Architecture. Architected, implemented, and maintained SMS 2003/SCCM 2007 infrastructure for over 30,000 machines across 22 hospitals and hundreds of clinics. Led packaging for hundreds of applications, integrated App-V with SCCM, and built a streaming infrastructure to support VDI. Involved in image creation, OSD, patch management, encryption (EFS/BitLocker), and HIPAA alignment. Designed VDI client infrastructure on VMware View and created utilities to automate AD group and SCCM deployment processes, reducing manual effort and enabling thousands of deployments per day."
+        },
+        {
+            "title": "Systems Administrator",
+            "company": "Park City Group",
+            "start_date": "2005-09",
+            "end_date": "2006-06",
+            "description": "Analyzed customers' systems and designed implementation strategies for integrating Park City Group solutions. Managed Exchange, Windows 2000/2003 Server, Networking, VPN, and Active Directory. Automated installation processes, supported pre-sales activities, and documented scalability strategies. Led training and knowledge transfer for customer deployments."
+        },
+        {
+            "title": "Senior Systems Technical Analyst",
+            "company": "ExxonMobil",
+            "start_date": "2002-09",
+            "end_date": "2005-09",
+            "description": "Responsible for technical application delivery and infrastructure for 100,000+ desktops worldwide. Led Level 3 support, automated SMS deployment, and managed multiple teams on large IT projects. Repackaged 5,000+ applications into MSI format, implemented a Recycle Coordinator Queue to reduce production failures, and built a centralized Active Directory and deployment processes. Played a key role in Windows XP rollout and license optimization, achieving significant cost savings and improved user satisfaction."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Business/MIS",
+            "school": "Brigham Young University",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "MCTS: Windows 7 Configuration",
+        "MCTS: Windows 7",
+        "MCTS: Office 2010 Deployment"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Newark, NJ, USA",
+    "summary": "Executive profile: An eager, professional and committed Chef with extensive experience in cooking high quality breakfast, lunch and evening meals, focused on maintaining the pulse of the heart of the establishment and driving food values forward; seeking a role with a company offering unique environment and opportunities for career development.",
+    "skills": [
+        "Mentoring and training junior chefs",
+        "Menu design and planning",
+        "Cost control and portion sizing",
+        "Kitchen safety and OSHA compliance",
+        "Quality control and food presentation",
+        "Inventory management and supplier negotiation",
+        "High-volume breakfast, lunch and dinner service",
+        "Team leadership and staff scheduling",
+        "Food safety and sanitation",
+        "Special dietary accommodations",
+        "Effective communication with superiors and subordinates",
+        "Creative dish development and menu experimentation"
+    ],
+    "experience": [
+        {
+            "title": "Sous Chef",
+            "company": "Company Name",
+            "start_date": "May 2015",
+            "end_date": "February 2016",
+            "description": "Mentoring, training and supporting junior chefs. Prepared and cooked nutritious and well balanced meals for patrons. Managed basic preparation of food together with Head Chef. Created and decided design of menus with careful management of the quantities of food to be cooked and size of portions. Created dishes for patrons with special dietary or cultural needs. Supervised kitchen staff to maintain safety, ensuring personnel always wore appropriate clothing and head wear in accordance with the relevant guidelines. Supervised back of the house staff on daily tasks, created and maintained staff scheduling optimizing in house personnel ensuring cost efficiencies. Negotiating with sales representatives on the price of orders and supplies. Hotline management. Created menus by producing taste samplers presented to owners satisfaction which were implemented as part of our daily menu specials."
+        },
+        {
+            "title": "Sous Chef/First Cook",
+            "company": "Company Name",
+            "start_date": "October 2006",
+            "end_date": "February 2016",
+            "description": "In charge of product and produce purchasing. Responsible for maintaining and inspecting kitchen produce as well as \"walk-in\" ensuring the quality and integrity of food supply ensuring optimal cleanliness. Mentoring, training and supporting junior chefs, cooks and other back of the house personnel. Instructing in the proper perceiving and cooking techniques. Managed all action stations while maintaining high standards as well as ensuring food quality. Maintained OSHA and safety regulations. Monitored food preparation methods, portion sizes, garnishing and presentation of food ensuring food was prepared and presented in an optimal pristine manner. Created and maintained food and equipment inventories and reliable records. Established standards for personnel performance and customer service satisfaction. Created and planned menus and food utilization based on the anticipated number of guests, nutritional values, palatability, popularity, and costs efficiencies. Maintained records required by law and local government agencies regarding sanitation, and food subsidies as appropriate. Created \"test taste menus\" by creating food samples for tasting and smelling to ensure palatability and flavor conformity. Reviewed work procedures and operational issues to determine ways to improve service, performance, and or safety. Created specialty dishes and developed recipes which were later used used and placed on permanent menus in dining facilities."
+        },
+        {
+            "title": "Chef/ Cook 2",
+            "company": "Company Name",
+            "start_date": "July 2003",
+            "end_date": "November 2006",
+            "description": "Menu sampling and setting recipe amendments for special events and catering alongside of Executive Chef. Order Synchronization and maintenance of inventory control ensuring cost and stock management. Customer Service satisfaction intake. Hygiene assurance by food inspection withing the guidelines of health and infection control. Hospitality training and mentoring of new personnel. Responsible for maintaining daily breakfast and lunch specials by running assigned stations."
+        },
+        {
+            "title": "Line Cook",
+            "company": "Company Name",
+            "start_date": "June 1999",
+            "end_date": "February 2002",
+            "description": "Assisted management in all manners of running and preserving integrity of the \"hot line\". Managed and maintained mise en place stations. Responsible with assisting Executive Chef in creating daily specials and menus. Responsible for proper food preparation and running work station while maintaining optimal line flow."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science: Culinary Arts",
+            "school": "New York Restaurant School",
+            "year": "1999"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

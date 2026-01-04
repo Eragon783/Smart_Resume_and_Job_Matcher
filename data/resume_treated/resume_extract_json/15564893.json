@@ -1,0 +1,98 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Hardworking and Experienced Construction Worker who is dependable, reliable and knowledgeable about the tools, materials and methods used in construction.Motivated to get along well with others and exceed expectations. With three years of experience in the carpentry trade and construction. Highlights Residential construction Leadership Exceptional problem solver Sandbagging Excellent driving record Strong communication skills Friendly and hardworking Detail-oriented Accomplishments Led a crew of eight general construction laborers. Successfully ran a general contracting business of two houses.",
+    "skills": [
+        "Academic",
+        "Arabic",
+        "carpentry",
+        "English",
+        "Presentation Skills",
+        "Spanish"
+    ],
+    "experience": [
+        {
+            "title": "Construction helper",
+            "company": "Company Name City , State",
+            "start_date": "July 2008",
+            "end_date": "January 2010",
+            "description": "Extensively trained in carpentry, painting, plastering, machine servicing and installation. Cleaned all construction areas to avoid hazards. Removed old roofing materials in an efficient manner. Installed and repaired roofs, flashings and surfaces. Completed indoor and outdoor residential and commercial construction projects. Swept and cleaned roofs to prepare them for the application of new roofing materials. Applied paint to unfinished edges of plastic panels using a hand roller. Arranged and stored materials, machines and tools and equipment. Cut materials to specified sizes for installation using power saws and tile cutters. Transported materials, tools and machines to installation sites. Worked with tools such as pruning saws, hedge and brush trimmers and axes."
+        },
+        {
+            "title": "Carpenter Helper",
+            "company": "Company Name City , State",
+            "start_date": "May 2007",
+            "end_date": "September 2007",
+            "description": "Installed cabinets, base cabinets and crown molding. Built and stained oak casing and hardwood floors. Constructed custom built-in bookshelves for residential home office areas. Set windows and layouts for stairs and common rafters. Ordered materials and made material stock recommendations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "General English course",
+            "school": "Leeds University",
+            "year": "2010"
+        },
+        {
+            "degree": "Computer course",
+            "school": "Al-Azhar University",
+            "year": "2009-2010"
+        },
+        {
+            "degree": "Religions, Al B.A Religions, Al Dawah and Islamic Culture",
+            "school": "Azhar University",
+            "year": "2011"
+        },
+        {
+            "degree": "General English course",
+            "school": "Western Michigan University",
+            "year": "2013"
+        },
+        {
+            "degree": "Academic English course",
+            "school": "Colorado State University",
+            "year": "2013"
+        },
+        {
+            "degree": "American literature course",
+            "school": "American embassy in Cairo",
+            "year": "2013"
+        },
+        {
+            "degree": "Academic Writing course",
+            "school": "AMIDEAST in Cairo",
+            "year": "2013"
+        },
+        {
+            "degree": "English for Islamic purposes",
+            "school": "Unknown",
+            "year": "2012"
+        },
+        {
+            "degree": "General English course",
+            "school": "AMIDEAST in Cairo",
+            "year": "2012"
+        },
+        {
+            "degree": "General English Course",
+            "school": "Al-Azhar English Training Center",
+            "year": "2009-2011"
+        },
+        {
+            "degree": "Democracy dialogue course",
+            "school": "Al-Azhar English Training Center",
+            "year": "2011"
+        },
+        {
+            "degree": "Presentation Skills course",
+            "school": "Al-Azhar English Training Center",
+            "year": "2011"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

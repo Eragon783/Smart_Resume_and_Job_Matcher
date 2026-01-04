@@ -1,0 +1,109 @@
+{
+    "name": null,
+    "email": "joseph.j.hodgson.mil@mail.mil",
+    "phone": null,
+    "location": null,
+    "summary": "A dedicated and experienced Personnel Manager, Education Administrator, trained in Blackboard development, technical writing, Graduate level platform teaching, and flight instruction. Works well with people at all levels of the organization, including stakeholders, customers, and outside vendors. Self-motivated, innovative, and goal-oriented management professional committed to project accomplishment. Dedicated team player, skilled at mediation and conflict resolution. Flexible Operations Officer and Supervisor, driven to manage the design and development of new training programs and modify existing curricula to meet the needs of participants. Training Instructor, who helps participants obtain knowledge and skills required to thrive in a fast-paced setting. Highly organized Subject Matter Expert in aviation operations and extremely successful at managing people and time. Offers prompt feedback on training assessments, participant behavior, and the overall effectiveness. Professional, detail oriented, administrator motivated to drive projects from start to finish as part of a dynamic team.",
+    "skills": [
+        "Upper-level management",
+        "Project management",
+        "Strategic planning",
+        "Quality management",
+        "Tactical-level analysis",
+        "Reconciliation budget management",
+        "Administrative management",
+        "Logistics management",
+        "Conflict resolution",
+        "Secret security clearance",
+        "Exceptionally organized",
+        "Excellent team-builder",
+        "Analytical",
+        "Strong attention to detail",
+        "Technical writing",
+        "Effective time manager",
+        "Training specialist",
+        "Certified Instructional technologies knowledge"
+    ],
+    "experience": [
+        {
+            "title": "Senior Warrant Officer Advisor",
+            "company": "Company Name",
+            "start_date": "2016-05",
+            "end_date": "Present",
+            "description": "Senior training manager responsible for course management documents, Programs of Instruction, Course Administrative Data, Individual Training Plans, and training materials to include: lesson plans, audio visual aids, computer assisted instruction, computer based instruction, training support packages, student evaluation plans, test items and multimedia products. Led needs analysis for long-range training plans, conducted threat, doctrine, and mission analysis, and modified course curricula and instructional techniques to align with Aviation career fields."
+        },
+        {
+            "title": "Aviation Warrant Officer Advanced Course Manager",
+            "company": "Company Name",
+            "start_date": "2015-04",
+            "end_date": "2016-05",
+            "description": "Supervised and certified instructional faculty; provided development counseling and mentorship; managed program of instruction; assessed education needs; designed, developed and administered data collection methods; analyzed courseware to identify training gaps and guided intervention strategies; ensured compliance with organizational and federal guidelines; secured funds through budget meetings and grants; oversaw technological and educational needs."
+        },
+        {
+            "title": "Aviation Warrant Officer Advanced Course Senior Small Group Leader & Instructor/Writer",
+            "company": "Company Name",
+            "start_date": "2013-05",
+            "end_date": "2015-04",
+            "description": "Developed a collaborative model of co-teaching, observation, dialogue, and lesson demonstration to promote quality instruction. Conducted interactive multimedia instructional research, design, development, implementation, training, and assessment. Instructed training on flight planning, aircraft scheduling and movement, tactical procedures, flight records, and administration. Established training methods and tools to design and develop courses, evaluate programs, and complete special projects. Managed procurements and acted as the organization’s purchase cardholder."
+        },
+        {
+            "title": "Battalion Standardization Pilot",
+            "company": "Company Name",
+            "start_date": "2012-06",
+            "end_date": "2013-05",
+            "description": "Advised the commander on new or revised policies; conducted special studies; provided leadership to company commanders and instructor pilots regarding employee development; directed employment and assignment of new pilots and coordinated training activities; advised on leave, classification, retirement, promotion, and evaluation; identified development opportunities for staff."
+        },
+        {
+            "title": "Company Standardization Pilot",
+            "company": "Company Name",
+            "start_date": "2010-06",
+            "end_date": "2012-06",
+            "description": "Managed technical supervision of the organization’s Aircrew Training Plan (ATP) for 90 employees; evaluated work performance; advised on leave, classification, retirement and promotion; arranged evaluations and continued professional development; maintained high technical and tactical proficiency; developed an accelerated aerial gunnery program that saved time and money."
+        },
+        {
+            "title": "Senior Instructor Pilot, Training Instructor, & Instrument Examiner",
+            "company": "Company Name",
+            "start_date": "2003-12",
+            "end_date": "2010-06",
+            "description": "Supervised training and education for 40 employees; maintained Individual Aircrew Training Folders; identified development needs; evaluated performance; planned and executed over 250 complex operations; managed remote strike force and equipment; developed procedures for Low Cost Low Altitude (LCLA) resupply; maintained high proficiency in helicopter operations."
+        },
+        {
+            "title": "Facility Training Manager",
+            "company": "Company Name",
+            "start_date": "1999-09",
+            "end_date": "2002-10",
+            "description": "Supervised programs to train Aeromedical Evacuation Technicians; planned and implemented readiness programs; established on-the-job training and sustainment training; provided emergency care; coordinated with allied health professionals to manage patient care and related issues."
+        },
+        {
+            "title": "Medical Supervisor",
+            "company": "Company Name",
+            "start_date": "1996-01",
+            "end_date": "1999-09",
+            "description": "Responded to accidents and emergencies; provided initial care to increase survivability; performed basic emergency medical treatment; administered CPR; operated emergency medical transport vehicles."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Aeronautics",
+            "school": "Liberty University",
+            "year": 2015
+        }
+    ],
+    "certifications": [
+        "Commercial Pilot License",
+        "CH-47D Instructor Pilot",
+        "CH-47F Instructor Pilot",
+        "Rotary-Wing Instrument Flight Examiner",
+        "National Registry Emergency Medical Technician - Basic",
+        "Advanced Cardiac Life Support Provider",
+        "Prehospital Trauma Life Support Technician",
+        "Department of Transportation National Highway Traffic Safety Administration Emergency Vehicle Operator",
+        "Army Basic Instructor",
+        "Small Group Instructor",
+        "Trainer",
+        "Facility Training & Development Specialist",
+        "Survival Escape Resistance & Evasion",
+        "Blackboard Instruction 101"
+    ],
+    "languages": []
+}

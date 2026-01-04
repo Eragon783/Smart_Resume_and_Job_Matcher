@@ -1,0 +1,117 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "IT Product Manager bringing 13 years in IT project management. Skilled in installation, configuration, migration and implementation of server platforms. Highlights include Enterprise platforms, consumer software, project tracking, hardware and software upgrade planning, and product requirements documentation. Certified Information Security Manager. Self-directed budgeting and resource management. End-to-end product lifecycles. Collaborative, with a track record of reducing IT issues by 95% globally through leading a testing initiative.",
+    "skills": [
+        "10baseT",
+        "ATM",
+        "ATM network",
+        "CD ROMs",
+        "hardware",
+        "client support",
+        "customer services",
+        "documentation",
+        "email",
+        "Ethernet",
+        "network cabling",
+        "firewall",
+        "Frame Relay",
+        "Ghost",
+        "Novell GroupWise",
+        "hard drives",
+        "IBM",
+        "LAN",
+        "laptops",
+        "Lotus Suites",
+        "Meridian",
+        "Microsoft Exchange",
+        "MS Exchange",
+        "Office",
+        "Microsoft Office",
+        "Windows 95",
+        "Windows 98",
+        "Windows NT",
+        "Windows 2000",
+        "UNIX",
+        "modems",
+        "network interface cards",
+        "network security",
+        "network servers",
+        "Nortel",
+        "Novell 5.0",
+        "PBX",
+        "Phone System",
+        "printer",
+        "RAM",
+        "routers",
+        "servers",
+        "switches",
+        "software support",
+        "desktop support",
+        "user training",
+        "technician",
+        "telephones",
+        "token ring",
+        "training manuals",
+        "Troubleshoot",
+        "Troubleshooting",
+        "video cards"
+    ],
+    "experience": [
+        {
+            "title": "IT Manager",
+            "company": "Company Name",
+            "start_date": "10/2003",
+            "end_date": "Present",
+            "description": "Oversaw IT operations and systems administration. Administered Windows 2003 Server and Windows 2003 Exchange Server; managed R6000 IBM UNIX Server. Administered Nortel Meridian PBX phone system and user accounts. Configured and monitored network security (WatchGuard firewall). Troubleshot network and printer connectivity; installed network cabling and phone jacks. Procured company equipment and designed training manuals for new user orientation."
+        },
+        {
+            "title": "System Support Technician",
+            "company": "Company Name",
+            "start_date": "04/2000",
+            "end_date": "07/2002",
+            "description": "Troubleshot connectivity and circuit errors on AT&T Frame Relay/ATM network. Processed customer service orders, interacting with field technicians, and managing corporate accounts. Built private network connections from AT&T domestic office to remote locations internationally. Provided product support and training for remote field technicians. Tested and configured bilateral switches & routers over ATM/Frame Relay platforms."
+        },
+        {
+            "title": "Network Support Specialist",
+            "company": "Company Name",
+            "start_date": "04/2000",
+            "end_date": "02/2002",
+            "description": "Opened and tracked problem tickets to resolution. Provided second-level proprietary application/system support to internal and external customers. Monitored server performance for network connectivity. Installed and configured software upgrades; PC and laptop support. Maintained, monitored, and completed all service documentation for account performance. Participated with management in defining, developing, and executing plans to accomplish support objectives."
+        },
+        {
+            "title": "Network Support Technician",
+            "company": "Company Name",
+            "start_date": "06/1999",
+            "end_date": "10/1999",
+            "description": "Provided system support for Windows NT workstation, including system upgrades, configuration changes, and remote desktop support. Provided user training on Microsoft Office suites, 95-2000, and Lotus Suites 97. Managed and tested Ghost images for standard loads on newly deployed platforms."
+        },
+        {
+            "title": "System Support Technician",
+            "company": "Company Name",
+            "start_date": "05/1999",
+            "end_date": "06/1999",
+            "description": "Installed, configured, and supported Win95/98 clients on Novell 5.0 and NT 2000 platforms using Ghost software to perform system rebuilds network-wide. Upgraded and installed desktops, laptops, and servers with RAM, hard drives, NICs, video cards and CD ROMs. Configured remote access for external users (modems, remote access software, and Intranet service Novell GroupWise). Analyzed network structure and suggested improvements for maximum efficiency."
+        },
+        {
+            "title": "System Administrator Consultant",
+            "company": "Company Name",
+            "start_date": "08/1996",
+            "end_date": "04/1999",
+            "description": "Provided training and support for software to increase user productivity and network efficiency. Administered domain accounts and resolved network security issues. Upgraded desktops, laptops, and servers; Windows NT workstation/server; printer servers. Configured and troubleshot LAN Ethernet 10Base-T and Token Ring. Provided tier-3 helpdesk support for 120 users via email and phone for Microsoft Office suites and MS Exchange. Troubleshot connectivity issues and analyzed network structure to improve performance. Supported six network servers and 120 clients."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors of Science",
+            "school": "DeVry University",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        "Certified Information Security Manager"
+    ],
+    "languages": []
+}

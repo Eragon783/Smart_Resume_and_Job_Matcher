@@ -1,0 +1,96 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Profile: Middle School/Secondary English Language Arts teacher dedicated to nurturing and inspiring students through literature, history, biblical reflection, and creative Christian interpretation. Seeks to challenge learners to engage the world through dynamic dialogue and to discover who they are called to be, guiding them to find their place in the world.",
+    "skills": [
+        "Lesson Planning",
+        "Backward Design",
+        "Common Core Standards Implementation",
+        "IEP Familiarity",
+        "Differentiated Instruction",
+        "Professional Learning Community",
+        "Lead Teacher",
+        "SIOP Trained",
+        "ELL Needs",
+        "MS Office Proficient",
+        "PowerSchool Proficient",
+        "Bilingual in Bahasa Indonesia",
+        "Battle of the Books Coaching",
+        "Soccer Coaching",
+        "Curriculum Development",
+        "Instructional Planning and Implementation",
+        "Writing Style Development"
+    ],
+    "experience": [
+        {
+            "title": "Sixth Grade English Language Arts Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2007",
+            "end_date": "Jun 2015",
+            "description": "Instructed English Language Arts for a diverse population including students with special needs and intellectual gifts. Planned lessons, collaborated across Professional Learning Communities, and communicated regularly with parent/guardians."
+        },
+        {
+            "title": "Sixth Grade English Language Arts Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2003",
+            "end_date": "Jun 2007",
+            "description": "Instructed English Language Arts for a diverse population of students with special needs and intellectual gifts. Planned lessons and collaborated with colleagues through regular team and content-area meetings. Communicated with parent/guardians."
+        },
+        {
+            "title": "Pastoral Care Ministerial Internship",
+            "company": "Company Name, City, State",
+            "start_date": "Jun 2002",
+            "end_date": "Aug 2002",
+            "description": "Internship in pastoral services counseling in the HIV/AIDS clinic. Assisted in gathering data and information for a grant and publications. Created materials and program for education local congregations about HIV/AIDS."
+        },
+        {
+            "title": "Ministerial Intern",
+            "company": "Duke Divinity School, Duke University",
+            "start_date": "Jun 2001",
+            "end_date": "Jun 2002",
+            "description": "Given charge of youth group activities and spiritual education. Planned and conducted an educational mission trip to Washington, D.C. Planned weekly and monthly activities for spiritual and social growth of the youth. Instructed and counseled youth on religious and social issues."
+        },
+        {
+            "title": "Substitute Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "Sep 1999",
+            "end_date": "May 2000",
+            "description": "Several months as a substitute for a teacher assistant in a Behavioral Disorder and Special Needs classroom. Responsible for a 4th Grade class at Lake Ridge Elementary School during a teacher's brief leave of absence for a family emergency. Taught and observed in nearly every grade from Kindergarten to High School."
+        },
+        {
+            "title": "Teaching English to Non-Native Speakers (ELL-Instructor) & Camp Counselor",
+            "company": "Company Name, City, State",
+            "start_date": "Jun 1996",
+            "end_date": "Aug 1996",
+            "description": "Develop teaching materials and programing for an \"Intensive English Holiday Package.\" Create individualized lesson plans for students with varied English competencies. Assist students with English pronunciation and syntax. Supervised students excursions and guided conversation in English."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Education Program in Teacher Licensing, Middle School Lateral Entry",
+            "school": "North Carolina Central University",
+            "year": 2006
+        },
+        {
+            "degree": "Master of Divinity (M.Div.), Theology",
+            "school": "Duke Divinity School, Duke University",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelor of Arts in History & English",
+            "school": "Milligan College",
+            "year": 1999
+        }
+    ],
+    "certifications": [
+        "SIOP training",
+        "Teaching License: Middle School Lateral Entry (NC Teach)",
+        "Middle School English Language Arts Certification (NC)"
+    ],
+    "languages": [
+        "English",
+        "Bahasa Indonesia"
+    ]
+}

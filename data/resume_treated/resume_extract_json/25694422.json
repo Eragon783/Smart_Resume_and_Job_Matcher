@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Substance Abuse Counselor specializing in assessments. Responsible self-starter who communicates well and is dedicated to improving the well-being of clients.",
+    "skills": [
+        "Superior communication skills",
+        "Therapeutic expertise",
+        "Medicaid familiarity",
+        "Psychiatric population familiarity",
+        "Solution-focused counseling",
+        "Exceptional problem solver",
+        "Quality management",
+        "Care team member",
+        "Community resources specialist",
+        "Insurance benefits verification and authorizations",
+        "Business processes",
+        "Case management",
+        "Computer literate",
+        "Counselor",
+        "Criminal justice",
+        "Customer service",
+        "Electronic Medical Records",
+        "Help Desk",
+        "Insurance",
+        "Legal",
+        "Marketing",
+        "Microsoft Office Suite",
+        "Outlook",
+        "Network",
+        "Program development",
+        "Sales",
+        "Technician",
+        "Territory Management",
+        "Transportation"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Company Name",
+            "start_date": "2016-01",
+            "end_date": "Present",
+            "description": "Provide clinical assessment for substance abusing patients entering treatment. Efficiently gathered information from families and social services agencies to inform development of treatment plans. Utilizing clinical guidelines, place patients at an appropriate level of care. Manage patients treatment with insurance companies and unions. Developing a resource referral center model to identify at risk patients at initial point of medical contact. Incorporated HEDIS measures to monitor patients for 1 year post discharge."
+        },
+        {
+            "title": "Clinical Case Management Specialist",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "2016-02",
+            "description": "Collaborated closely with treatment team to appropriately coordinate client care services. Provide case management between managed care organizations, unions and referral sources for patient admission and appropriate levels of care. Communicate regularly with criminal justice referral sources, clients and family members to maintain legal mandates. Obtain insurance authorizations and monitor Level Of Care for all commercially insured patients within the clinic. Correspond with MCOs to support appeal requests and denial of services. Work with fiscal department to ensure compliance with corporate goals. Facilitate DWI Chemical Dependency Awareness Group to assist patients with abstinence."
+        },
+        {
+            "title": "Treatment Consultant",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2014-06",
+            "description": "Territory Management for Long Island and New York City. Responsible for developing referral relationships with established area detoxes, outpatient clinics, hospitals and psychiatric facilities. Marketed residential treatment programs throughout the United States. Coordinated assessment, verification of patient benefits, transportation and aftercare planning upon discharge. Supported families through referrals to local treatment programs, legal supportive services and private therapists. Worked as liaison between the treating facility and all stakeholders."
+        },
+        {
+            "title": "Regional Service Coordinator",
+            "company": "Company Name",
+            "start_date": "2011-02",
+            "end_date": "2013-06",
+            "description": "Developed a New York based clinical Assessment Resource Center in Mid-Town Manhattan. The ARC provided a first point of contact for patients seeking access to treatment. Identified potential referral sources; establish referral relationships to facilitate assessments and admissions throughout the CRC Health Group/White Deer Run Northeast network. Responsible for developing and maintaining referral relationships in New York City and Long Island. Became a resource for insurance companies, EAPs, Unions, Outpatient Clinics and private therapists. Clients Served: 514 patients engaged for assessments since 2011. 208 Commercially Insured patients admitted for inpatient levels of care, 254 referred to a lower level of care and 52 lost to contact."
+        },
+        {
+            "title": "Intake Supervisor",
+            "company": "Company Name",
+            "start_date": "2009-09",
+            "end_date": "2011-02",
+            "description": "Restructured Intake/Assessment department increasing assessments by 86%. Increased retention of clients engaged in treatment by 230% YTD 2010. Second annual increase of face to face interviews with clients and families from 196 in 2009 to 365 in 2010. Increased Intensive Outpatient Admission census from 94 in 2009 to 208 in 2010."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Community and Human Services",
+            "school": "SUNY Empire State College",
+            "year": "2005"
+        }
+    ],
+    "certifications": [
+        "New York State Licensed CASAC #6560",
+        "Internationally Certified Alcohol & Drug Counselor #116816"
+    ],
+    "languages": []
+}

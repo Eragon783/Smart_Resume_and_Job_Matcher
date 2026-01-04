@@ -1,0 +1,102 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Argentina",
+    "summary": "Passionate about the fashion industry, I wish to deploy my skills by working with a dedicated and innovative team of designers and fashion professionals. Seeking to obtain a challenging position as a fashion designer or creative director in a professional, artistic environment where I can use my 15 years of experience in the fashion field in Argentina to benefit the company and its clients. My goal is to participate and support in bringing current international fashion trends to the market, developing unique styles, and providing beautiful and practical clothes to the public.",
+    "skills": [
+        "Creative thinking",
+        "Leadership",
+        "Team management",
+        "Organization",
+        "Communication",
+        "Brand identity development",
+        "Design conception",
+        "Quality Control",
+        "Problem Solving",
+        "Color matching",
+        "Fabric procurement",
+        "Trend analysis",
+        "Moodboard creation",
+        "Market research",
+        "Product development"
+    ],
+    "experience": [
+        {
+            "title": "Creative Director & Fashion Designer",
+            "company": "Company Name",
+            "start_date": "2007-04",
+            "end_date": "2015-02",
+            "description": "Designed the complete collection with clothing and accessories, creating original and design garments that followed well-established fashion trends. Directed and coordinated designers team and product developers. Creative director and head of photoshoot campaign and look-book for 10 years. Developed the line of colors and material selection. Conferred with sales and management executives as well as with clients in order to develop design ideas. Directed, coordinated, drawing, cutting patterns and constructing samples and finished garments. Identified target markets for designs examining factors such as age, gender and socioeconomic status. Provided sample sales meeting products to agents and sales representatives and arranged for showings of. Sample garments at sales meeting and Fashion Shows. Involved with acquiring new and used clothing and accessory items as needed to complete designs."
+        },
+        {
+            "title": "Fashion Designer / Consultant / apparel manufacturer",
+            "company": "Company Name",
+            "start_date": "2012-07",
+            "end_date": "2015-09",
+            "description": "Offered operations advice and designed lines to present to potential investors. Development and production of clothing orders. Consulted on and working with domestic and overseas factories. Bringing market trends, color, fabric, trim, silhouettes, print and embellishment ideas to the design process. Moodboards and trend analysis. Performed fittings and fit approvals."
+        },
+        {
+            "title": "Fashion Designer",
+            "company": "Company Name",
+            "start_date": "2002-02",
+            "end_date": "2007-10",
+            "description": "Responsible for bringing market trends, color, fabric, trim, silhouettes, print and embellishment ideas to the design process. Moodboards and trend analysis. Responsible for various items/categories within the collection as assigned per season by the Design Director. Maintain communication with other in-house design teams to ensure continuity with the parent lines and corporate image. Facilitate and guided the prototype stage of product development. Shopped stores for sample, graphic elaboration of the brand, labels, hangtag. Special projects for celebrities and exclusive boutiques. Selection of materials, trimmings, accessories. Archive materials management. Creative oversight for Photoshoot Campaign and lookbook."
+        },
+        {
+            "title": "Personal Assistant",
+            "company": "Company Name",
+            "start_date": "1999-01",
+            "end_date": "2002-12",
+            "description": "Produced documents, briefing papers, reports and presentations. Organising and attending meetings and ensuring the manager is well prepared for meetings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Social Media Marketing Coursework",
+            "school": "Fashion Institute of Technology",
+            "year": "2016"
+        },
+        {
+            "degree": "Fashion Styling / Home Fashion Business Coursework",
+            "school": "Fashion Institute of Technology",
+            "year": "2016"
+        },
+        {
+            "degree": "Associate of Arts: Fashion Industry Profile",
+            "school": "Parsons NYC",
+            "year": "2015"
+        },
+        {
+            "degree": "Associate of Arts: Fabric Selection and Design Style",
+            "school": "Parsons NYC",
+            "year": "2015"
+        },
+        {
+            "degree": "Marketing & Technology in Fashions Brands",
+            "school": "Central Saint Martins City College",
+            "year": "2014"
+        },
+        {
+            "degree": "Diseñador de Producto e Imagen en Indumentaria",
+            "school": "ORT Argentina",
+            "year": "2008"
+        },
+        {
+            "degree": "En Marketing de Moda",
+            "school": "INTI / Emilia Romagna Argentina College",
+            "year": "2003"
+        },
+        {
+            "degree": "Licenciada en Diseño Textil e Indumentaria",
+            "school": "Universidad de Palermo",
+            "year": "2002"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish",
+        "English",
+        "Italian"
+    ]
+}

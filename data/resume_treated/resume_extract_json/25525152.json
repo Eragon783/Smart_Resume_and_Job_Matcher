@@ -1,0 +1,84 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Focused Journalist with experience developing feature articles, short stories, editorial pieces and broadcast scripts. Strong command of the English language and familiarity with a wide range of writing styles. Committed to maintaining journalistic excellence and integrity.",
+    "skills": [
+        "Final Cut Pro",
+        "Edius",
+        "Photoshop",
+        "Illustrator",
+        "HTML Photojournalism",
+        "videography",
+        "Copy editing",
+        "proofreading",
+        "problem-solving",
+        "organizational skills"
+    ],
+    "experience": [
+        {
+            "title": "Editorial Assistant",
+            "company": "Company Name",
+            "start_date": "08/2017",
+            "end_date": "Current",
+            "description": "Head of submissions department. Act as the first point of contact for author's questions, concerns ect. during the submission process. Update and maintain company's database. Review samples to determine if suitable for publication."
+        },
+        {
+            "title": "Production Assistant",
+            "company": "Company Name",
+            "start_date": "01/2017",
+            "end_date": "08/2017",
+            "description": "Provided video production and digitization services to faculty, staff, and departments at The University of Tennessee."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "01/2016",
+            "end_date": "06/2016",
+            "description": "Contributed articles and photos to Sydney local magazine Peninsula and Northshore Living."
+        },
+        {
+            "title": "Intern Reporter",
+            "company": "Company Name",
+            "start_date": "08/2015",
+            "end_date": "12/2015",
+            "description": "Captured visual content and edited general assignment stories to be shown on air. Gathered and verified factual information regarding stories through interviews, observation and research."
+        },
+        {
+            "title": "Columnist",
+            "company": "Company Name",
+            "start_date": "08/2013",
+            "end_date": "12/2016",
+            "description": "Published weekly op-ed in school newspaper titled School of Sarcasm. Topics covered campus life. Received highest readership for three consecutive years."
+        },
+        {
+            "title": "Freelance Writer",
+            "company": "Wojdylo media",
+            "start_date": "08/2014",
+            "end_date": "Current",
+            "description": "Wrote unique articles for Wojdylo media, pertaining to social media advancements."
+        },
+        {
+            "title": "Deejay",
+            "company": "Company Name",
+            "start_date": "01/2014",
+            "end_date": "06/2014",
+            "description": "Presented local news on campus public radio. Organized playlists for radio and announced song titles."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Journalism",
+            "school": "The University of Tennessee",
+            "year": 2017
+        },
+        {
+            "degree": "Bachelor of Science in Communication and Information with a major in Journalism and Electronic Media and a minor in English",
+            "school": "The University of Tennessee",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

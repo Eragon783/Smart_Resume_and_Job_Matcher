@@ -1,0 +1,115 @@
+{
+    "name": "Julie Collier",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Graphic designer with a strong passion for the profession, specializing in editorial, packaging, marketing, and event coordination. Proficient in Adobe Creative Suite on Mac and PC, with leadership, problem solving, and excellent customer service. Experienced in concept development, typography, branding, and producing promotional materials.",
+    "skills": [
+        "Mac & PC",
+        "Adobe Creative Suite (Photoshop, InDesign, Illustrator, Dreamweaver)",
+        "CSS",
+        "HTML",
+        "Linux",
+        "Microsoft Office",
+        "Sketching",
+        "Photography",
+        "Drafting",
+        "Concept development",
+        "Color theory",
+        "Photo retouching",
+        "CAD",
+        "Time management",
+        "Brochure and newsletter formatting",
+        "Logo design",
+        "Business cards",
+        "Stationery and letterhead",
+        "Website enhancement",
+        "Book design",
+        "Typography",
+        "Project management",
+        "Print design",
+        "Marketing campaigns",
+        "Event coordinating",
+        "Leadership",
+        "Team collaboration"
+    ],
+    "experience": [
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "Present",
+            "description": "Develop and design photo products for the fundraiser 'To Remember This' in partnership with Great American; designed Photo Books, Calendars, Cards, and Stickers; delivered to over 80k schools across the US."
+        },
+        {
+            "title": "Creative Director & Lead Graphic Designer",
+            "company": "Company Name",
+            "start_date": "2014-02",
+            "end_date": "Present",
+            "description": "Oversee design concepts; create templates for purchase orders, invoices, forms, pitch decks, and more. Solely developed and created the company's brand identity; designed all promotional materials including logos, websites, brochures, and business cards."
+        },
+        {
+            "title": "Freelance Graphic Designer",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Redesign Hot Sauce labels and logos; designed promotional material."
+        },
+        {
+            "title": "Freelance Graphic Designer",
+            "company": "Company Name",
+            "start_date": "2014-11",
+            "end_date": "2014-11",
+            "description": "Redesign logo and brought it into electronic form; designed promotional material such as business cards, letterhead, and annual newsletter."
+        },
+        {
+            "title": "Graphic, Web, and Advertising Intern",
+            "company": "Company Name",
+            "start_date": "2013-12",
+            "end_date": "2014-03",
+            "description": "Solely created advertisements, web banners, and promotional content for the band British Dependency; collaborated with the art director on design concepts and marketing tools; produced over 20 web banners."
+        },
+        {
+            "title": "Graphic, Advertising and Marketing Intern",
+            "company": "Company Name",
+            "start_date": "2013-12",
+            "end_date": "2014-03",
+            "description": "Worked under the editor-in-chief for marketing and event planning for celebrities; redesigned and edited magazine covers; coordinated events directing media attention to Caribbean Artists & Musicians in the New York Metropolitan Area."
+        },
+        {
+            "title": "Graphic Design Tutor",
+            "company": "Company Name",
+            "start_date": "2013-03",
+            "end_date": "2013-08",
+            "description": "Provided one-on-one assistance in Adobe CS programs; encouraged students to develop concepts and creativity; helped prepare students' work for presentations."
+        },
+        {
+            "title": "Freelance Graphic Designer",
+            "company": "Company Name",
+            "start_date": "2013-03",
+            "end_date": "2013-08",
+            "description": "Designed and created album cover, mixtape cover, and CD illustrations; generated promotional flyers and posters; redesigned the logo called 'Lexacty' for a clothing line; album cover published on iTunes."
+        },
+        {
+            "title": "Print and Web Designer / Student Ambassador for the Arts",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2012-12",
+            "description": "Built and designed Websites for university groups and administrator offices; created posters, fliers, t-shirt designs and marketing material for campus events; supervised and assisted department chair for university events; led web and graphic designs for Southeastern Louisiana University student life in 2011."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in Visual Arts",
+            "school": "Southeastern Louisiana University",
+            "year": 2015
+        },
+        {
+            "degree": "A.A.S. in Graphic Design",
+            "school": "The Art Institute of New York City",
+            "year": 2014
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

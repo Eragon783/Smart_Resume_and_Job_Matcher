@@ -1,0 +1,55 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Ambitious student looking for an opportunity to use my knowledge and experience to learn about the mental health field.",
+    "skills": [
+        "Superior communication skills",
+        "Solution-focused counseling",
+        "Exceptional problem solver",
+        "Positive attitude"
+    ],
+    "experience": [
+        {
+            "title": "Server",
+            "company": "Company Name City, State",
+            "start_date": "01/2017",
+            "end_date": "Current",
+            "description": "Spoke with patrons to ensure satisfaction with food and service. Displayed enthusiasm and knowledge about the restaurant's menu and products. Communicated with other kitchen team members to ensure food was prepared on time and correctly."
+        },
+        {
+            "title": "Server",
+            "company": "Company Name City, State",
+            "start_date": "08/2016",
+            "end_date": "12/2016",
+            "description": "Provided friendly and attentive service and exceptional hospitality. Set dining tables according to type of event and service standards. Consistently offered professional, friendly and engaging service. Stocked service stations with items such as ice, napkins, and straws."
+        },
+        {
+            "title": "Front Desk",
+            "company": "Company Name City, State",
+            "start_date": "01/2014",
+            "end_date": "05/2015",
+            "description": "Promoted club programs, products and services to participants. Trained all new sales employees on effective techniques. Listened to customer needs and preferences to provide accurate advice. Corrected dangerous movements and suggested alternate exercises."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Jackson Liberty High School",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Science: Psychology",
+            "school": "University of South Florida",
+            "year": null
+        },
+        {
+            "degree": "Associate of Science: Psychology",
+            "school": "Temple University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

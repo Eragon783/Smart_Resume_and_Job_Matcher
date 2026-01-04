@@ -1,0 +1,72 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Executive profile of a Chef with over 30 years of experience developing clean, healthy cooking techniques and leading large-scale food service operations. Skilled in front and back of house management, budgeting and cost control, menu development, staff leadership, vendor negotiations, and delivering high-quality food service in line with consumer needs and health guidelines.",
+    "skills": [
+        "Leadership",
+        "Communication",
+        "Budgeting and analysis",
+        "Expense control",
+        "Food and labor cost management",
+        "Vendor negotiations",
+        "Menu development",
+        "Food safety and sanitation",
+        "Staff management",
+        "Hiring and disciplinary actions",
+        "Scheduling and performance evaluation",
+        "Purchasing and procurement",
+        "Catering and events management",
+        "Operations management"
+    ],
+    "experience": [
+        {
+            "title": "Executive Chef/ Food Service Director",
+            "company": "Company Name",
+            "start_date": "02/2008",
+            "end_date": "Present",
+            "description": "Provides all phases of hiring, disciplinary actions and termination of employees. Trains staff in food service duties. Supervises staff engaged in the preparation and serving of fresh wholesome foods to residents three times daily and for special functions/events. Maintains the cleanliness of food service areas and equipment. Inspects the entire kitchen and three dining rooms. Focuses on budgetary and financial records for the food service area. Creates staff work schedules and evaluates performance. Supervises and maintains menus and recipes with recommendations from the Dietitian as appropriate. Excels in negotiating and purchasing all food service products, including equipment. Maintains updated records in accordance with federal and state regulations. ServSafe Certification in accordance with the state of Florida Food Management guidelines. Attained average food cost of 26.8%."
+        },
+        {
+            "title": "President/Owner/Executive Chef",
+            "company": "Company Name",
+            "start_date": "12/2005",
+            "end_date": "04/2008",
+            "description": "Effectively ran and oversaw daily cafe operations and coordinated and planned events for large catering parties. Responsible for all hiring, disciplinary actions and termination of all employees. Hands-on manager in the kitchen. Trained staff in food service duties. Supervised staff engaged in the preparation and serving of fresh wholesome foods to clients for catering jobs and in the cafe. Maintains cleanliness and safety of food service areas and equipment. Maintains budgetary and financial records for the food service area. Prepares work schedules and evaluates staff performance. Creates menus and recipes for daily cafe menu and events catering 10-600 guests. Negotiates and purchases all food service products, including equipment. Maintains ServSafe Certification in accordance with state and federal laws."
+        },
+        {
+            "title": "Food Services Director/Executive Chef",
+            "company": "Company Name",
+            "start_date": "02/2001",
+            "end_date": "01/2006",
+            "description": "Provides all phases of the hiring, disciplinary actions and termination of employees. Trains staff in the functions of the food service duties. Supervises staff engaged in the preparation and serving of fresh wholesome foods to residents three times daily and special functions/events. Maintaining the cleanliness of food service areas and equipment. Inspecting the entire kitchen and three dining rooms. Focuses on budgetary and financial records for the food service area. Performs work schedules and evaluates staff performance. Supervises and maintains menus and recipes with recommendations of the Dietitian as appropriate. Excellent negotiating and purchasing of all food service products, including equipment. Maintaining updated records in accordance with federal and state regulations. ServSafe Certification in accordance with the state of Florida Food Management guidelines. Attained average food cost of 26.8%. Labor cost varies from kitchen to kitchen and kept labor cost under the company average of 28% to 26.8%."
+        },
+        {
+            "title": "Head Chef",
+            "company": "Company Name",
+            "start_date": "10/1979",
+            "end_date": "01/2001",
+            "description": "Successfully climbed the ladder from cook, to assistant chef to head chef."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "school": "The Academy - Occupational Studies Culinary Arts",
+            "year": 1998
+        },
+        {
+            "degree": "General Education Diploma (GED)",
+            "school": "The Life Skills Center",
+            "year": 1996
+        }
+    ],
+    "certifications": [
+        "NRA ProMgt Certifications (Sanitation, Professional Baking, Nutrition, Professional Service, Professional Cooking, Supervisory Development, Hospitality Management and Cost Control)",
+        "CEU for Sanitation and Hygiene (May 2014)",
+        "CPR Certification",
+        "ServSafe Certification (Florida Food Management guidelines)"
+    ],
+    "languages": []
+}

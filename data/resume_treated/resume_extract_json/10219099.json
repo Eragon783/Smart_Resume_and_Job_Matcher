@@ -1,0 +1,96 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Skilled Maintenance Mechanic/Technician with problem-solving and multi-tasking abilities. Self-directed and motivated; seeks a position emphasizing teamwork, integrity and professionalism, with willingness to take on new challenges and learning experiences.",
+    "skills": [
+        "Material Management (20 years) with State and Federal Government",
+        "Law Enforcement experience (USMC and Army National Guard) (13 years)",
+        "Knowledge of mechanical test equipment",
+        "Mechanical theory and principles",
+        "Interpreting schematics, rough sketches, troubleshooting diagrams, layouts and plans",
+        "PCs, MS Office, 10-key by touch",
+        "Customer service",
+        "Forklift certification",
+        "Crane certification",
+        "NDT Level II",
+        "Robotic systems design, simulation, commissioning and programming",
+        "Factory automation and electrical control systems",
+        "Electrical system troubleshooting",
+        "Leadership, coaching and on-the-job training",
+        "PM development and procedures planning",
+        "Spare parts inventory management",
+        "Parts identification and ordering",
+        "Safety compliance and plant safety program",
+        "Shift-to-shift communication",
+        "Problem solving and maintenance",
+        "Record keeping and documentation",
+        "Troubleshooting and repair",
+        "Interfacing with engineers and technicians"
+    ],
+    "experience": [
+        {
+            "title": "Equipment Engineering Technician",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "Present",
+            "description": "Designs/selects robotic systems, runs simulations, implements, commissions and programs. Supports maintenance team in troubleshooting difficult breakdowns and chronic equipment failures. Installs factory automation and electrical control systems for manufacturing equipment. Troubleshoots electrical systems in plant equipment. Provides direction, coaching and on-the-job training to shift personnel. Plans between shifts/weekends for smooth operations. Assists in developing PMs and procedures; maintains records and spare parts inventory; orders needed parts and maintains tracking system. Ensures safety compliance and coordinates with engineers to resolve technical problems."
+        },
+        {
+            "title": "Mechanical Technician",
+            "company": "Company Name",
+            "start_date": "2013-04",
+            "end_date": "2014-05",
+            "description": "Implemented repair services on production equipment, auxiliary equipment and building equipment using hand tools and testing tools. Provided on-site inspection, installation, repair and replacement of fire alarm equipment; conducted preventive maintenance for multiple manufacturers' equipment."
+        },
+        {
+            "title": "Operating Engineer / Test Technician",
+            "company": "Company Name",
+            "start_date": "2007-11",
+            "end_date": "2012-06",
+            "description": "Operates, repairs and maintains facility/plant machinery, test equipment, lubrication and cooling systems and high-pressure systems for NASA wind tunnel facilities. Installs and aligns mechanical, hydraulic and pneumatic test equipment and models. Installs instrumentation and sensors; inspects test setups; maintains instrumentation for valves, icing indicators, drive units and pumps. Conducts fire protection inspections and generates inspection reports."
+        },
+        {
+            "title": "Logistics Coordinator / Sr. Lab Technician",
+            "company": "Company Name",
+            "start_date": "2006-10",
+            "end_date": "2007-11",
+            "description": "Coordinates shipments of solar arrays, panels and ground support equipment. Interfaces with Metrology to prioritize calibrated equipment. Troubleshoots manufacturing problems caused by test equipment; coordinates proof loading and non-destructive testing of lifting fixtures. Maintains inventory of industrial supplies; manages hazardous materials compliance and ISO 9001 awareness."
+        },
+        {
+            "title": "Production Control Analyst",
+            "company": "Company Name",
+            "start_date": "2004-11",
+            "end_date": "2006-05",
+            "description": "Expedites materials through production processes; resolves aging work orders and generates Non-conforming Material Reports. Interfaces with process engineers, operators and supervisors to control and analyze production flow. Resolves constraints affecting WIP and schedule adherence; uses PROMIS software; trains staff in clean room protocols; handles procurement of clean room articles; supervises courier team for asset transport."
+        },
+        {
+            "title": "Material/Production Planner",
+            "company": "Company Name",
+            "start_date": "2001-07",
+            "end_date": "2004-02",
+            "description": "Expedites materials through production processes; verifies kit hardware and configuration; requests drawings and materials from stores. Resolves aging work orders and generates NCMRs; prepares shipping packing lists and invoice documents. Schedules, releases, updates and closes work orders; tracks progress and communicates status to internal customers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "General Courses",
+            "school": "Monterey Peninsula College",
+            "year": null
+        },
+        {
+            "degree": "Technical Diploma",
+            "school": "San Francisco Police Academy",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Forklift Certification",
+        "Crane Certification",
+        "NDT Level II"
+    ],
+    "languages": [
+        "English"
+    ]
+}

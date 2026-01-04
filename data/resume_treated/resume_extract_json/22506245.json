@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Creative, hardworking designer seeking a full-time desktop job, educated as a graphic artist, past experience in business world as a desktop publisher laying out designs for printed mail and advertisements, in local government designing new websites with graphics for different agencies within the system, and later for the same government printing and reproduction center creating documents to be printed off a press or copiers.",
+    "skills": [
+        "Adobe InDesign",
+        "Photoshop",
+        "Illustrator",
+        "Acrobat",
+        "Acrobat Professional",
+        "Microsoft Word",
+        "Excel",
+        "PowerPoint",
+        "Publisher",
+        "QuarkXPress",
+        "Adobe Dreamweaver",
+        "HTML",
+        "WordPress",
+        "Web development",
+        "Web pages",
+        "Macintosh",
+        "Mac",
+        "UNIX",
+        "Graphic design",
+        "Administrative functions",
+        "Customer service",
+        "Direct mail",
+        "Email",
+        "Fax",
+        "Copiers",
+        "Printers",
+        "Proofing",
+        "Marketing Communications",
+        "PDF",
+        "Posters",
+        "Business cards",
+        "Mail",
+        "Office",
+        "Monitors",
+        "Network",
+        "Newsletters",
+        "Templates"
+    ],
+    "experience": [
+        {
+            "title": "Pre-Press Graphic Designer",
+            "company": "Company Name ï¼​ City , State",
+            "start_date": "01/2008",
+            "end_date": "Current",
+            "description": "Create new designs for variety of items like manuals, newsletters, and posters. Use templates for updated documents like envelopes, letterheads, and business cards. Proof jobs for initial and final customer approval. Manufactures a high-quality PDF file digitally for proofing, photocopying and offset printing. Performs file backup and organizes system for easy recovery. Maintains and monitors supply inventory and orders items when needed. Operates photocopying equipment, includes sending approved documents to printer. Assists in the bindery department, using the folder and manual paper cutter for small jobs. Also can use bindery equipment, like the fastback and GBC binding of spines. Mounts and laminates to foam boards, manually trims to size. Ensures timely submission of files to production."
+        },
+        {
+            "title": "Web Designer",
+            "company": "Company Name ï¼​ City , State",
+            "start_date": "04/2000",
+            "end_date": "01/2008",
+            "description": "Created new sites and made updates to current sites; created graphics to use on web pages; scanned documents and converted digital files for links on sites; maintained updates and corrections on sites; answered email and phone call requests from departments about site changes; proofed pages with emails before sending live to internet."
+        },
+        {
+            "title": "Desktop Publisher",
+            "company": "Company Name ï¼​ City , State",
+            "start_date": "06/1998",
+            "end_date": "02/2000",
+            "description": "Performed set-up and conversion of documents from Mac to PC then to UNIX systems; used QuarkXPress on Mac for the set-up of many jobs; sent to network to be used by programmers for \"targeted\" direct mail printouts; trained new team staff members; helped with clean-up when company shut down."
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name ï¼​ City , State",
+            "start_date": "06/1997",
+            "end_date": "03/2000",
+            "description": "Temporary office jobs using Macintosh computers to design files to be printed for various companies like: Alltel Publishing, Cleveland School District, HKM Marketing Communications, Nationwide Advertising."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Fine Arts",
+            "school": "Alfred University",
+            "year": 1997
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

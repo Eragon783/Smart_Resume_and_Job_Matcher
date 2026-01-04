@@ -1,0 +1,146 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Roosevelt Island, Manhattan, NY",
+    "summary": "Thirty years experience as Manager and Director of Facilities, Project and Construction Management in various challenging environments; twenty two in Higher Education. Successful at managing Facilities, Ops & Systems, M&O and Capital Budgets, Assets, Staffing and Bargaining Agreements. Responsible for 600 acres of property, 150 buildings, 60 Union skilled technical & maintenance staff, budget managers, construction & maintenance managers, grounds and horticulture, custodial staff, transportation & fleet managers, shipping & receiving staff, post office managers, sustainability staff and business managers. Developed and maintained high standards of discretion, integrity, communication, leadership, life safety & building code compliance, staff, student and faculty safety training and OSHA compliance. Proven team building skills, quality personnel acquisition, effective success at administering progressive discipline in union environments, able to create positive organizational change where required and as directed.",
+    "skills": [
+        "Facilities Management",
+        "Facilities Management Professional (FMP)",
+        "Certified Project Manager",
+        "Electrical Engineering Technology",
+        "Construction Management",
+        "Licensed Master Electrician",
+        "Certified Advanced Fire and Security Alarm Designer",
+        "Certified in Fiber Optics and Network Connectivity",
+        "AutoCAD",
+        "GIS ArcView",
+        "MS Office",
+        "MS Project",
+        "CMMS (Computerized Maintenance Management Systems)",
+        "Code Compliance",
+        "Property Inspection",
+        "Budget Management",
+        "Capital Expenditures",
+        "Planning and Zoning",
+        "Procurement",
+        "Project Design",
+        "Renovations",
+        "Repairs",
+        "Life Safety Systems",
+        "Fire Suppression Systems",
+        "HVAC",
+        "Boilers",
+        "Energy Management",
+        "Sustainability",
+        "Infrastructure Management",
+        "Leadership",
+        "Team Building",
+        "Negotiations",
+        "Bargaining Agreements",
+        "Safety Training",
+        "OSHA Compliance",
+        "Electrical Systems",
+        "Fire Alarm",
+        "Security Alarm",
+        "Data Center",
+        "Environmental Services",
+        "Recycling"
+    ],
+    "experience": [
+        {
+            "title": "Senior Facilities and Construction Project Manager",
+            "company": "Company Name",
+            "start_date": "2015-08",
+            "end_date": "Present",
+            "description": "Manage multi-discipline construction, maintenance and life safety projects. Manage technical support staff, contractors, energy providers, life safety & building codes compliance, service contract & project negotiations, professional consulting firms and various State, City and Federal regulatory agencies. Roosevelt Island, Manhattan, NY."
+        },
+        {
+            "title": "Director of Buildings",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "2015-01",
+            "description": "Researched additional property and space for development in accordance with organization objectives. Planned strategy and applied tactical measures to ensure the efficient management of assets and resources. Directed a facilities staff including; trade supervisors, project managers, procurement office, budget management & business office, accounts payable and a skilled union trade staff of 60. Directed construction, renovations, repair, energy management, operations and special events for 150 buildings totaling 2+ million sq. ft. and 600 acres of property."
+        },
+        {
+            "title": "Project Manager and Estimator",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2008-01",
+            "description": "Estimated electric projects with values from $25,000 through $2,000,000. Including; high voltage, HVAC control, electrical distribution, BMS, emergency power, data center, fiber optic, fire alarm, security alarm and card access."
+        },
+        {
+            "title": "Facilities and Maintenance Manager",
+            "company": "Company Name",
+            "start_date": "1998-01",
+            "end_date": "1999-01",
+            "description": "Managed and supervised facilities and plant operations, repairs, renovation projects and maintenance."
+        },
+        {
+            "title": "Assistant Director of Buildings and Grounds",
+            "company": "Company Name",
+            "start_date": "1994-01",
+            "end_date": "2012-01",
+            "description": "Managed all facets of supervision, management and operations related to construction, maintenance and operations. Including; Life Safety systems, fire alarm, security alarm, surveillance, building envelopes, energy management systems, electrical & HVAC systems, plumbing, sustainability and alternative energy projects, environmental services, recycling and codes compliance with state, city and federal agencies. Infrastructure management of; water and sewer systems, 13,200 volt and secondary electrical systems, fiber optic and IT systems, fire suppression systems and safe roads & walks. Union trades management, supervision and bargaining unit negotiations."
+        },
+        {
+            "title": "Lead Electrician",
+            "company": "Company Name",
+            "start_date": "1990-01",
+            "end_date": "1994-01",
+            "description": "Project examples: NY State Prison, Tire Recycling Plant, Re-activated Carbon Plant, Waste Water Treatment Center for the City of New York."
+        },
+        {
+            "title": "Lead Electrician & Business Manager",
+            "company": "Company Name",
+            "start_date": "1986-01",
+            "end_date": "1990-01",
+            "description": ""
+        },
+        {
+            "title": "Apprentice and Journeyman Electrician",
+            "company": "Company Name",
+            "start_date": "1983-01",
+            "end_date": "1986-01",
+            "description": "Commercial, Industrial and Residential Systems."
+        },
+        {
+            "title": "Air-Base Ground Defense",
+            "company": "Company Name",
+            "start_date": "1979-01",
+            "end_date": "1983-01",
+            "description": "Military Police, Leadership Positions, Honorable Discharge as an E-4 Sergeant."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Facilities and Technology Management",
+            "school": "Empire State College",
+            "year": 2015
+        },
+        {
+            "degree": "Electrical Engineering Technology",
+            "school": "Dutchess Community College",
+            "year": 2015
+        },
+        {
+            "degree": "Facilities Management Professional (FMP)",
+            "school": "International Facilities Management Association at Boston University",
+            "year": 2013
+        },
+        {
+            "degree": "Electricity-Electrical Construction and Maintenance",
+            "school": "Mohawk Valley Community College",
+            "year": 1982
+        }
+    ],
+    "certifications": [
+        "Facilities Management Professional (FMP)",
+        "Certified Project Manager",
+        "Licensed Master Electrician",
+        "Certified Advanced Fire and Security Alarm Designer",
+        "Certified in Fiber Optics and Network Connectivity",
+        "Code Compliance Certification"
+    ],
+    "languages": []
+}

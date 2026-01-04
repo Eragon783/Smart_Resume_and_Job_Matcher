@@ -1,0 +1,120 @@
+{
+    "name": "Abiezer (Victor) Mota",
+    "email": null,
+    "phone": "917-773-6397",
+    "location": "City, State",
+    "summary": "Multitalented graphic designer, UX designer, and app developer with experience in print and environmental graphics, web and e-commerce front-end development. Skilled at translating complex concepts into compelling visuals, collaborating with teams from concept to production, and delivering on-brand visuals for marketing and digital channels.",
+    "skills": [
+        "3D Max",
+        "ActionScript",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "CorelDRAW",
+        "CSS",
+        "Dreamweaver",
+        "HTML",
+        "PHP",
+        "e-commerce",
+        "Fashion design",
+        "Final Cut Pro",
+        "Flash",
+        "UX",
+        "Website design",
+        "Photography",
+        "Printers",
+        "QuarkXPress",
+        "Maya",
+        "Microsoft Office Suite",
+        "Excel",
+        "PowerPoint",
+        "Word",
+        "Packaging",
+        "Research",
+        "Sales",
+        "Videographer"
+    ],
+    "experience": [
+        {
+            "title": "Owner Senior Graphic Designer / UX Designer / App Developer",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "Current",
+            "description": "Enhance CSS, HTML, PHP codes for the frontend and backend of e-commerce store. Create graphics for silkscreen and direct to garment (DTG) printing. Work with programmers to design online-tool to enable users to personalize their own designs, and provide access to quality on-demand printing services. Translated complex concepts and data into compelling visuals for media outreach. Designed new on-brand visual elements to effectively convey concepts and messaging. Maintained consistent use of graphic imagery in materials and other marketing outreach."
+        },
+        {
+            "title": "Senior Graphic Designer",
+            "company": "Company Name",
+            "start_date": "10/2006",
+            "end_date": "06/2007",
+            "description": "Designed original graphics for private label top and bottom sleepwear. Created licensed art for toddler and boys, including Warner Bros., Disney, and Hasbro. Researched and shopped stores for new concepts and printing treatments. Tech packs."
+        },
+        {
+            "title": "Senior Graphic Designer",
+            "company": "Company Name",
+            "start_date": "01/2006",
+            "end_date": "09/2006",
+            "description": "Designed girls (tweens) graphics for multiple applications including appliqués, embroideries, patches & silkscreens. Created cads, line sheets, tech packs, labels & hangtags. Worked with designer to develop & illustrate new fashion styles for production & sales. Shopped stores & researched a variety of trend resources to develop new graphics for girls. Designed new on-brand visual elements to effectively convey concepts and messaging. Maintained consistent use of graphic imagery in materials and other marketing outreach."
+        },
+        {
+            "title": "Graphic Designer / Graphic Artist",
+            "company": "Company Name",
+            "start_date": "06/2002",
+            "end_date": "02/2005",
+            "description": "Worked with Designers to create new art concepts for screen tees, embroideries, appliqués for boys and girls jackets, knit tops, bottoms, and jeans. Created licensed art for boys/girls, including Superman and Batman. Worked with screen printers, researched and develop new techniques printing each season. Shopped stores and provided input for graphic trends. Designed new on-brand visual elements to effectively convey concepts and messaging. Maintained consistent use of graphic imagery in materials and other marketing outreach. Formatted text and graphics for blog posts, newsletters and other materials."
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name",
+            "start_date": "10/1998",
+            "end_date": "02/2002",
+            "description": "Designed graphics for boys and girls screen tees, embroideries & appliqués. Conceptualized & illustrated for packaging, labels & hangtags. Sourced & supervised for offset & digital printing. Design licensed and private label art for boys tops and allover prints for bottoms. Translated complex concepts and data into compelling visuals for media outreach. Designed new on-brand visual elements to effectively convey concepts and messaging. Maintained consistent use of graphic imagery in materials and other marketing outreach. Formatted text and graphics for blog posts, newsletters and other materials."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Herbert H. Lehman College",
+            "year": 2012
+        },
+        {
+            "degree": "Certificate in Field Production",
+            "school": "City, State",
+            "year": null
+        },
+        {
+            "degree": "Graphic Specialist Certificate",
+            "school": "The Mac Learning Center",
+            "year": null
+        },
+        {
+            "degree": "CNC Operator Basic Vocational Certificate",
+            "school": "City, State",
+            "year": null
+        },
+        {
+            "degree": "Graphic and Digital Design Certificate",
+            "school": "City, State",
+            "year": null
+        },
+        {
+            "degree": "Certificate in Pattern Making and Fashion Design",
+            "school": "Mayor Fashion Institute",
+            "year": null
+        },
+        {
+            "degree": "Certificates in Fashion and Commercial Photography",
+            "school": "City, State",
+            "year": null
+        },
+        {
+            "degree": "Quality Technology Certificate",
+            "school": "City, State",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Shanna Scruggs",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Motivated customer service specialist with over 20 years experience in a fast-paced, team-based environment with high call volume. Skilled in account reconciliations, accounting, accounts payable, auditing, benefits, billing systems, coaching, data entry, database management, MS Excel, MS Office, MS Word, MySQL, problem solving, and team leadership. Highly organized, dependable, quick learner with strong customer service orientation.",
+    "skills": [
+        "account reconciliations",
+        "accounting",
+        "accounts payable",
+        "auditing",
+        "benefits",
+        "billing systems",
+        "coaching",
+        "credit",
+        "customer satisfaction",
+        "data entry",
+        "database management",
+        "delivery",
+        "fashion",
+        "features",
+        "FTP",
+        "general ledger",
+        "HTTP",
+        "legal documents",
+        "management",
+        "MS Excel",
+        "MS Office",
+        "MS Word",
+        "MySQL",
+        "Owl",
+        "pricing",
+        "processes",
+        "Express",
+        "reconciling",
+        "maintain records",
+        "research",
+        "shipping",
+        "troubleshooting",
+        "team leadership",
+        "quick learner",
+        "Windows"
+    ],
+    "experience": [
+        {
+            "title": "Senior Member Service Advocate",
+            "company": "UnitedHealth Group",
+            "start_date": "10/2015",
+            "end_date": "Present",
+            "description": "Assisting members with their prescription benefits coverage for Medicare Part D plan, commercial plans, state Medicaid plans (Nevada, Georgia, Arizona, Indiana, South Dakota), ChampVA plans, and Ohio Bureau of Workers’ Compensation and Mail Order. Reviewing rejected claims, processing coverage determinations for prescription coverage. Assisting pharmacies with rejected claims and overrides. Guiding and educating customers on prescription benefits, use of plan, formulary, premiums and status of orders, and claims or inquiries. Collaborates with a team of super users to assist other agents with computer and system issues."
+        }
+    ],
+    "education": [
+        {
+            "degree": "GED",
+            "school": "Mesa Community College",
+            "year": 1996
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

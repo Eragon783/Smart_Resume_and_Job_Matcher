@@ -1,0 +1,83 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Restaurant professional with experience as Executive Chef, Sous Chef, and Chef Manager, specializing in healthy cuisine, menu development, operational standards, event planning, labor and cost control, and multi-unit leadership.",
+    "skills": [
+        "agency",
+        "benchmarking",
+        "Budget development",
+        "budget",
+        "competitive",
+        "consultant",
+        "consultation",
+        "cooking",
+        "cost control",
+        "clientele",
+        "client",
+        "customer satisfaction",
+        "designing",
+        "direction",
+        "financial",
+        "focus",
+        "forecasting",
+        "indexing",
+        "Inventory",
+        "inventory control",
+        "managing",
+        "materials",
+        "newspapers",
+        "pricing",
+        "profit",
+        "purchasing",
+        "quality",
+        "receiving",
+        "retail",
+        "safety",
+        "sales",
+        "scheduling",
+        "staff training"
+    ],
+    "experience": [
+        {
+            "title": "Store Chef",
+            "company": null,
+            "start_date": "April 2014",
+            "end_date": "Current",
+            "description": "Duties including menu development, one-on-one consultations with customers designing menus, as well as work scheduling, complete budget for bistro food outlet. On and off campus catering. Successful menu development and execution for clientele, resulting in 20% business increase over 6 months; emphasis on light fare highlighting locally grown ingredients and regional flavors. Implement staff training program, including task competency indexing for increased labor efficiency, flavor development cooking techniques and food presentation concepts. Inventory handling, management and rotation in accordance with HACCP, food cost controls and food quality standards."
+        },
+        {
+            "title": "Executive Chef",
+            "company": null,
+            "start_date": "July 2013",
+            "end_date": "January 2014",
+            "description": "Drove operational performance by executing against Sodexo and regulatory agency standards and programs, continually monitoring operations, and completing assessments and action plans to provide optimal food quality and meal service. Ensured compliance to food safety, sanitation, and workplace safety standards. Supervises, staffs, trains, and manages the performance of the department including Food Service Supervisors and front line staff; handles purchasing, receiving, scheduling, inventory control and food production activities in compliance with Sodexo production systems. Assisted in menu planning, pre-costing and post-costing."
+        },
+        {
+            "title": "Executive Chef / Food Service Manager",
+            "company": null,
+            "start_date": "May 2005",
+            "end_date": "January 2013",
+            "description": "Premium menu design, recipe development, culinary education for kitchen staff; events, live cooking demonstrations; pairing events and upscale private catering functions; culinary nutrition consultant for health improvement results for patients and staff. Designed and implemented menus promoting conscious cuisine standards; developed nutritional standards for all outlets. Achieved high guest satisfaction and increased sales; implemented purchasing protocols and procedures to secure competitive pricing; minimized waste and lowered food cost below budget; developed Standards and Procedures Handbook; 20% reduction in labor costs over 5 years; budgeting and financial benchmarking."
+        },
+        {
+            "title": "Executive Sous Chef",
+            "company": null,
+            "start_date": "November 2001",
+            "end_date": "April 2005",
+            "description": "Directed renovation of dining facilities and kitchens including four restaurants, Culinary Learning Center, bistro, retail space and stations buffet; budget development and forecasting; lean management through cross training and shifting manpower across F&B."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate Degree in Culinary Arts Management",
+            "school": "Sullivan College and the National Center for Hospitality",
+            "year": 1991
+        }
+    ],
+    "certifications": [
+        "ServSafe Certification"
+    ],
+    "languages": []
+}

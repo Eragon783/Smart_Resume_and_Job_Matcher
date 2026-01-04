@@ -1,0 +1,72 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To obtain a challenging position where experience as an Executive Chef and a food handlers license will be utilized. And experience working for multiple James Beard Award winners Alfred Portale and Paul Bartolotta.",
+    "skills": [
+        "Executive Chef",
+        "Menu Development",
+        "Chef de Cuisine",
+        "Schedule",
+        "Food & Labor",
+        "Executive Sous Chef",
+        "Inventory & Ordering",
+        "Sous Chef",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Art",
+        "Cooking",
+        "Costing",
+        "Inventory",
+        "Math",
+        "Payroll",
+        "Personnel",
+        "Reading",
+        "Scheduling"
+    ],
+    "experience": [
+        {
+            "title": "Executive Chef",
+            "company": "Company Name City , State",
+            "start_date": "08/2016",
+            "end_date": "02/2017",
+            "description": "Developed brunch, lunch, dinner and event menus. Supervised, coordinated and participated in cooking activities and prep. Instructed cooking personnel in fine points of following recipes. Structured and maintained accurate payroll, scheduling, food costing, inventory and ordering."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Company Name City , State",
+            "start_date": "09/2015",
+            "end_date": "08/2016",
+            "description": "Developed brunch, dinner and event menus. Supervised, coordinated and participated in cooking activities and prep. Instructed cooking personnel in fine points of following recipes. Structured and maintained accurate payroll, scheduling, food costing, inventory and ordering."
+        },
+        {
+            "title": "Head line cook",
+            "company": "Company Name City , State",
+            "start_date": "05/2013",
+            "end_date": "08/2015",
+            "description": "Carved and cooked meats, poultry, game and meats. Cleaned, cut and ground meats, poultry, game and seafood. Particapated in cooking and prep with CDC and line cooks. Maintained a clean and safe work environment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Gibraltar High School",
+            "year": ""
+        },
+        {
+            "degree": "Liberal Arts",
+            "school": "Loyola University of Chicago",
+            "year": ""
+        },
+        {
+            "degree": "Alliance Française program",
+            "school": "Alliance Francaise Paris, France",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Food handlers license"
+    ],
+    "languages": []
+}

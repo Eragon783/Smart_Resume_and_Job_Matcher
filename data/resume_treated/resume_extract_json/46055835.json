@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Enthusiastic Language Arts educator seeking growth as an education specialist within a school that is dedicated to the academic and socio- emotional success of its student population.",
+    "skills": [
+        "Motivating students",
+        "Learning style assessment",
+        "Active listening",
+        "Differentiated instruction",
+        "Experience working with special needs students",
+        "Classroom management",
+        "Effectively work with parents",
+        "Clear public speaking",
+        "Research journal databases",
+        "Writing APA style",
+        "Speed writing",
+        "Note-taking",
+        "Informal and formal observations",
+        "Oral presentations",
+        "Training and teaching",
+        "Evaluating and analyzing data",
+        "Problem-solving",
+        "Typing",
+        "PowerPoint presentations",
+        "Excel spreadsheet",
+        "Microsoft Word",
+        "Publisher"
+    ],
+    "experience": [
+        {
+            "title": "6 - 8 Language Arts Grade Teacher",
+            "company": "Company Name",
+            "start_date": "2005-01",
+            "end_date": "2009-08",
+            "description": "Developed lesson plans to meet academic, intellectual and social needs of students. Performed student background reviews to develop culturally diverse lessons. Used variety of teaching techniques to encourage critical thinking and discussion in Language Arts class. Empowered learners to reflect and self-assess performance. Established and enforced rules for behavior and procedures for maintaining order among a class of 35 students. Developed, administered and corrected assessments in a timely manner. Earned positive verbal/written feedback from parents and administration regarding classroom instruction, management and student learning outcomes. Collaborated ideas for performance improvement during IEP meetings. Presented effective professional development learning strategies to faculty. Empowered students to engage in community opportunities beyond school."
+        },
+        {
+            "title": "Administrative Assistant to Chief Nursing Officer",
+            "company": "Company Name",
+            "start_date": "2003-07",
+            "end_date": "2004-11",
+            "description": "Supported a team of four administrators with clerical duties, in addition to directly working for the chief nursing officer. Designed a new filing system for efficient work flow. Managed multiple projects for nursing directors. Handled multiple phone line system. Coordinated conferences on and off site. Documented reports on confidential patient concerns. Managed administrative calendars. Created correspondence and presentations using Microsoft Word Programs."
+        },
+        {
+            "title": "Administrative Assistant to Nursing Director",
+            "company": "Company Name",
+            "start_date": "2001-01",
+            "end_date": "2003-01",
+            "description": "Managed the director's calendar and travel arrangements. Organized nursing conferences on site. Handled multi-line phone system. Created correspondence using Microsoft Office programs."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Company Name",
+            "start_date": "1997-01",
+            "end_date": "2001-01",
+            "description": "Headed the recruitment of clerical staff. Trained five employees. Advised the president of staff promotion. Managed the release of press kits. Created and edited content for website. Collaborated with web designer on content layout. Designed stockholder certificates. Lectured at trade shows in Seattle and Paris. Instructed business professionals on the use of products and services."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master in Education: Instruction, Curriculum & Assessment",
+            "school": "Strayer University",
+            "year": 2014
+        },
+        {
+            "degree": "Professional Development: Education",
+            "school": "University of Phoenix",
+            "year": 2009
+        },
+        {
+            "degree": "Bachelor of Science: Broadcast Journalism",
+            "school": "Brooklyn College",
+            "year": 2003
+        },
+        {
+            "degree": "Associate of Applied Science: Print Media Journalism",
+            "school": "Kingsborough Community College",
+            "year": 1996
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

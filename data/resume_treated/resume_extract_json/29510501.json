@@ -1,0 +1,102 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Seeking an Education Coordinator position with a company that will allow me to fully manage curriculum development, coordinate on the job training opportunities, utilize my communication, organizational, and problem solving skills.",
+    "skills": [
+        "Microsoft Office",
+        "Word",
+        "Outlook",
+        "Excel",
+        "PowerPoint",
+        "Publisher",
+        "Access",
+        "Leadership",
+        "Time management",
+        "Teaching strategies GOLD: Creative Curriculum",
+        "Verbal communication",
+        "CDA-Infants & Toddlers Teaching skills",
+        "Maryland Child Care Credential",
+        "Certified Daycare Provider",
+        "Classroom management",
+        "Clerical",
+        "Basic",
+        "Child Care",
+        "arts",
+        "facsimile",
+        "faxing",
+        "filing",
+        "Goal Setting",
+        "instruction",
+        "lesson planning",
+        "notes",
+        "materials",
+        "meetings",
+        "office machines",
+        "photocopiers",
+        "receptionist",
+        "scanners",
+        "scanning",
+        "spreadsheets",
+        "switch",
+        "take messages",
+        "teacher",
+        "Teaching",
+        "telephone",
+        "Time management",
+        "Type",
+        "typewriters",
+        "Verbal communication skills",
+        "voice mail",
+        "workshops"
+    ],
+    "experience": [
+        {
+            "title": "Lead Teacher",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "2015-07",
+            "description": "Consistently received positive feedback from parents. Solved severe child behavioral issues in positive and constructive ways. Managed classes of up to 9 students. Designed 200 weekly lesson plans focused on age and level-appropriate material. Admin tasks included answering multiple phone lines, transferring calls, filing patient records and billing. Planned and conducted activities for a balanced program of instruction, demonstration, and work time; promoted learning following approved curricula. Prepared materials and classrooms; established and enforced rules for behavior and procedures for maintaining order. Organized and led activities promoting physical, mental and social development. Assimilated arriving children to the school environment by greeting them, helping them remove outerwear, and selecting activities of interest. Attended professional meetings, educational conferences, and teacher training workshops to maintain and improve professional competence."
+        },
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2014-01",
+            "description": "Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate. Confer with other staff members to plan and schedule lessons promoting learning, following approved curricula. Prepare materials and classrooms for class activities. Establish and enforce rules for behavior, and procedures for maintaining order. Organize and lead activities designed to promote physical, mental and social development. Assimilate arriving children to the school environment by greeting them, helping them remove outerwear, and selecting activities to them. Attend professional meetings, educational conferences, and teacher training workshops to maintain and improve professional competence. Provide disabled students with assistive devices, supportive technology, and assistance accessing facilities such as restrooms. Spearheaded Better Together Partnership Program. Spearheaded Bright Horizons Foundation."
+        },
+        {
+            "title": "Security and Property Clerk",
+            "company": "Company Name",
+            "start_date": "2007-06",
+            "end_date": "2007-08",
+            "description": "Type, format, proofread, and edit correspondence and other documents, from notes or dictating machines, using computers or typewriters. Drafted meeting agendas, supplied advance materials and executed follow-up for meetings and team conferences. Answer telephones, switch board, direct calls, and take messages. Operate office machines, such as photocopiers and scanners, facsimile machines, voice mail systems, and personal computers."
+        },
+        {
+            "title": "Office Automation Clerk",
+            "company": "Company Name",
+            "start_date": "2006-06",
+            "end_date": "2006-08",
+            "description": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Drafted meeting agendas, supplied advance materials and executed follow-up for meetings and team conferences. Operate office machines, such as photocopiers and scanners, facsimile machines, voice mail systems, and personal computers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Education in Educational Leadership",
+            "school": "Concordia University",
+            "year": "2016"
+        },
+        {
+            "degree": "Bachelor of Arts in Sociology",
+            "school": "University of Maryland Eastern Shore",
+            "year": "2011"
+        }
+    ],
+    "certifications": [
+        "Maryland Child Care Credential",
+        "CDA-Infants & Toddlers Teaching skills",
+        "Certified Daycare Provider"
+    ],
+    "languages": []
+}

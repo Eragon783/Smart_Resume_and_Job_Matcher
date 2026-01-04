@@ -1,0 +1,72 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Well-endowed in taking on leadership positions, both inside my area of specialties and outside. Highly adaptive to changing environments of both work and pace. Over 4 years of educational leadership and customer service. Skilled in communication, collaboration, and independent work. Goal-oriented with excellent customer service, organizational and time management abilities. Able to connect with diverse populations and resolve conflicts. Proficient in Microsoft Word, Excel, and PowerPoint.",
+    "skills": [
+        "scheduling appointments",
+        "C",
+        "Cardiology",
+        "customer service",
+        "directing",
+        "leadership",
+        "managing",
+        "Office",
+        "Patient Care",
+        "surgery",
+        "answering phones",
+        "phones"
+    ],
+    "experience": [
+        {
+            "title": "Office Staff",
+            "company": "Chandler-Gilbert Community College",
+            "start_date": "January 2010",
+            "end_date": "January 2012",
+            "description": "Duties included managing multi-line customer service phones, stage setup, routine office tasks, assisting with school events, coordinating and hosting new student orientations, visiting high schools to recruit new students for CGCC, interviewing students about their college experience, and participating in TV commercials to represent the college."
+        },
+        {
+            "title": "Public Relations Officer/ Vice-President",
+            "company": "Pursuing All Cultures Knowledgably",
+            "start_date": "January 2011",
+            "end_date": "January 2012",
+            "description": "Led efforts to involve more students in campus events, guided scholars toward success, maintained a high GPA, donated time to charity events and community/college services, and represented the group in campus activities."
+        },
+        {
+            "title": "Student Leader",
+            "company": "Light Feet Project",
+            "start_date": "January 2012",
+            "end_date": "May 2012",
+            "description": "Led the Light Feet project at the Pecos/Williams Field Campus, organized fundraisers and shoe drives with a goal of collecting 100 pairs of shoes, socks, and laces for Malawi, Africa."
+        },
+        {
+            "title": "Volunteer Patient Care (Interventional Cardiology and NICU)",
+            "company": "Bayfront Medical Center",
+            "start_date": "May 2015",
+            "end_date": "August 2015",
+            "description": "Volunteered in NICU and interventional cardiology; assisted with patient intake, scheduling, and supportive care; helped nurses and doctors with patient needs."
+        },
+        {
+            "title": "Volunteer",
+            "company": "Camp Kesem",
+            "start_date": "2015",
+            "end_date": "Present",
+            "description": "Volunteer for Camp Kesem to support children affected by cancer; engage with families and provide joy and relief to participants."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Biochemistry",
+            "school": "Arizona State University",
+            "year": 2015
+        },
+        {
+            "degree": "Associate of Science in Biochemistry",
+            "school": "Chandler-Gilbert Community College",
+            "year": "2012-2013"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

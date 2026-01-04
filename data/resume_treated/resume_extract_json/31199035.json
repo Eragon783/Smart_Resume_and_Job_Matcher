@@ -1,0 +1,55 @@
+{
+    "name": "",
+    "email": null,
+    "phone": "414-764-2474, 414-304-1024",
+    "location": "City , State",
+    "summary": "Sales Associate with extensive customer service and caregiver knowledge; self-starter who can multi-task and maintain a neat, organized work environment.",
+    "skills": [
+        "caregiver",
+        "cashier",
+        "credit",
+        "customer services",
+        "debit",
+        "English",
+        "home care",
+        "Neat",
+        "receiving",
+        "Self-Starter",
+        "Telephone",
+        "well organized"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "01/2010",
+            "end_date": "01/2011",
+            "description": "Assisting customers to the area in the store they needed to go to or need help in. Putting merchandise in the correct it was assign to. Assist customers with choices and help them locate them and provide information about the product in question. Helping customers who don't know English as a second language."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "03/2014",
+            "end_date": "03/2015",
+            "description": "My duty was to greet all customers entering into the store. Handling all the cash transactions and receiving payments with cash, credit/debit cards and checks. Guiding and solving queries of customers. Providing training and assistance to new joined cashier. Keep my area neat and organized."
+        },
+        {
+            "title": "Housekeeper",
+            "company": "Company Name",
+            "start_date": "05/2016",
+            "end_date": "07/2016",
+            "description": "My duty as a housekeeper was to clean and maintain the rooms and premises in and around the hotel. Vacuum, empty wastepaper and ashtrays, transport trash to waste disposal equipment, dust, change the bed sheets and pillow cases and dust."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Oak Creek High School",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

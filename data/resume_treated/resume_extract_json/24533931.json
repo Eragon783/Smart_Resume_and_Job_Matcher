@@ -1,0 +1,73 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "An organized, detail-oriented, and conscientious self starter, able to learn and adapt quickly to new skills, also able to strategized and prioritize effectively to accomplish multiple tasks and stay calm under pressure.",
+    "skills": [
+        "Adaptability",
+        "Strong work ethic",
+        "Time management",
+        "Self-confidence",
+        "Handling pressure",
+        "Creativity",
+        "Communication",
+        "Teamwork",
+        "Motivation",
+        "Cash register",
+        "Typing",
+        "Basic computer skills",
+        "Customer Assistance",
+        "Sales",
+        "Stock"
+    ],
+    "experience": [
+        {
+            "title": "Apparel Associate",
+            "company": "Company Name",
+            "start_date": "Aug 2017",
+            "end_date": "Present",
+            "description": "Stocking and Zoning apparel and housewares merchandise"
+        },
+        {
+            "title": "Recruiting Assistant",
+            "company": "Company Name",
+            "start_date": "Oct 2016",
+            "end_date": "May 2016",
+            "description": "Sealing/Mailing off letters to football recruits, Making prints or copies of Letters and/or paperwork, Signing recruits and families in for game day"
+        },
+        {
+            "title": "Cashier/Stocker",
+            "company": "Company Name",
+            "start_date": "Dec 2015",
+            "end_date": "Sep 2017",
+            "description": "Assisting customers in finding what they need, recovering sales floor and keeping the store clean and organize so the shoppers can have a better and easier shopping experience. Make customer purchases and/or returns"
+        },
+        {
+            "title": "Cashier/Sales Associate",
+            "company": "Company Name",
+            "start_date": "May 2014",
+            "end_date": "Aug 2015",
+            "description": "Assisting customers in finding what they need, recovering sales floor and keeping the store clean and organize so the shoppers can have a better and easier shopping experience. Make customer purchases and/or returns"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Adminstration",
+            "school": "South Louisiana Community College",
+            "year": 2018
+        },
+        {
+            "degree": "Business Administration",
+            "school": "University of Louisiana-Lafayette",
+            "year": 2014
+        },
+        {
+            "degree": "High School",
+            "school": "Salmen High School",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

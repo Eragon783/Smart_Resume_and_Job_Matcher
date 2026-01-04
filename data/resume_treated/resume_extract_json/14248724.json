@@ -1,0 +1,70 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "I am a dedicated and energetic Dental Hygienist with a total of sixteen years experience in the dental profession. My focus has always been to provide exceptional patient care, counseling and motivation to each of my patients. I have experience with patients of all ages including those that are medically compromised. I am enthusiastic about dental health and enjoy educating patients as well as dental staff members on dental care and hygiene.",
+    "skills": [
+        "Nutritional Counseling",
+        "Oral Cancer Screenings",
+        "Smoking Cessation",
+        "Preventative Care",
+        "Soft Tissue Management",
+        "Dentrix Dental Software",
+        "Digital Radiographs"
+    ],
+    "experience": [
+        {
+            "title": "Dental Hygienist",
+            "company": "Company Name - City , State",
+            "start_date": "September 2015",
+            "end_date": "Current",
+            "description": "Provide optimal dental hygiene care for every patient, reinforce oral hygiene instructions to every patient and each appointment, educate patients on their periodontal status, treatment possibilities, potential surgical, restorative or cosmetic procedures that may possibly be needed. Educate patients on the benefits of preventative care such as fluoride and sealants."
+        },
+        {
+            "title": "Dental Hygienist",
+            "company": "Company Name - City , State",
+            "start_date": "February 2008",
+            "end_date": "August 2014",
+            "description": "Assess patients oral health conditions, review dental and medical histories, dental charting, periodontal assessment and treatment, soft tissue management, administer local antibiotics, fabricate bleaching trays and occlusal guards, schedule patient appointments."
+        },
+        {
+            "title": "Dental Hygienist",
+            "company": "Company Name - City , State",
+            "start_date": "June 2006",
+            "end_date": "December 2010",
+            "description": "Worked on an as-needed basis as a part-time hygienist providing dental care to patients as well as periodontal treatment and maintenance. Exposed and developed radiographs, recorded conditions for diagnosis and treatment by dentist. Applied fluoride and sealants."
+        },
+        {
+            "title": "Dental Assistant",
+            "company": "Company Name - City , State",
+            "start_date": "February 2003",
+            "end_date": "June 2005",
+            "description": "Provided dental and hygiene assistance during surgery, services, and cleanings. Maintained equipment and sterilized dental instruments. Answered phone calls, schedules appointments, trained new employees on back office duties."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Health Sciences",
+            "school": "Nova Southeastern University",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelor of Applied Science in Dental Hygiene",
+            "school": "St Petersburg College",
+            "year": 2011
+        },
+        {
+            "degree": "Associate of Science in Dental Hygiene",
+            "school": "Florida State College",
+            "year": 2005
+        },
+        {
+            "degree": "Certificate in Dental Assisting",
+            "school": "Tidewater Technical Institute",
+            "year": 1999
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

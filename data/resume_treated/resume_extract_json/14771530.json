@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Personable Project Manager Â successful at building strong professional relationships. Manages large and complex projects while maintaining high team morale and energy. Skilled mentor and mediator who excels at bringing out the best in team members. Highlights Budgeting and forecasting Process improvement Contract management Relationship building Microsoft Office Suite expert Project development and lifecycle Superb time management skills Detail-oriented Sound judgment Organized and efficient Proficient in Adobe Creative Suite Decisive problem solver Exceptional multi-tasker Deadline-driven Special events planning",
+    "skills": [
+        "Budgeting",
+        "Forecasting",
+        "Process Improvement",
+        "Contract Management",
+        "Relationship Building",
+        "Microsoft Office Suite",
+        "Project Development and Lifecycle",
+        "Time Management",
+        "Detail-Oriented",
+        "Sound Judgment",
+        "Organization",
+        "Adobe Creative Suite",
+        "Problem Solving",
+        "Multitasking",
+        "Special Events Planning",
+        "Workamajig",
+        "Basecamp",
+        "DoneDone",
+        "Photoshop",
+        "Illustrator",
+        "HTML"
+    ],
+    "experience": [
+        {
+            "title": "Digital Producer",
+            "company": "Company Name",
+            "start_date": "2015-08",
+            "end_date": "Current",
+            "description": "Managed a project budget of $300,000. Drafted action plans and led meetings with internal teams and clients to review project status and proposed changes. Monitored team progress and enforced deadlines for up to four projects at once. Defined project deliverables and monitored status of tasks."
+        },
+        {
+            "title": "Producer",
+            "company": "Company Name",
+            "start_date": "2014-10",
+            "end_date": "2015-08",
+            "description": "Managed all event logistics from conception to completion Ensured program objectives and strategies are met and all events are produced to the highest quality Maintained and expanded vendor relationships and negotiated contracts, pricing and services Collaborated with agency departments in all project stages to develop creative solutions to meet clients' needs Managed budgets with integrity and transparency at all times"
+        },
+        {
+            "title": "Associate Producer",
+            "company": "Company Name",
+            "start_date": "2013-02",
+            "end_date": "2014-10",
+            "description": "Managed and executed smaller scale events with 2-3 staff. Served as a liaison between vendors, staff and clients regarding event details. Provided production support on-site during events. Anticipated project needs to meet deadlines."
+        },
+        {
+            "title": "Production Coordinator",
+            "company": "Company Name",
+            "start_date": "2011-09",
+            "end_date": "2013-02",
+            "description": "Researched and gathered information in planning phase for the execution of events. Coordinated and attended site visits. Tracked invoices and created check requests."
+        },
+        {
+            "title": "Production Intern",
+            "company": "Company Name",
+            "start_date": "2011-06",
+            "end_date": "2011-09",
+            "description": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "Lewis University",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

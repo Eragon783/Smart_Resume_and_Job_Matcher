@@ -1,0 +1,81 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Lead Designer with experience optimizing complex processes and providing steel framing solutions for residential and commercial applications. Strong technical, analytical and communication skills with 4 years of CAD drafting and engineering experience.",
+    "skills": [
+        "Six Sigma",
+        "Six Sigma Green Belt",
+        "AutoCAD",
+        "AutoCAD 3D",
+        "Inventor Fusion 2013",
+        "SolidWorks",
+        "Blueprints",
+        "Shop drawings",
+        "Hilti Profis Anchor",
+        "Nitro Pro 8",
+        "vu360",
+        "Steel View",
+        "Key Build Steel",
+        "Vertex BD",
+        "Prime (Synopsys Prime)",
+        "Synopsys Prime",
+        "MATLAB",
+        "MathCAD",
+        "Excel",
+        "MS Office",
+        "PowerPoint",
+        "Word",
+        "MiniTab",
+        "Visual Basic",
+        "Adobe Photoshop",
+        "Flow charts",
+        "Time studies",
+        "Spaghetti charts",
+        "Cost analysis",
+        "Project management",
+        "Document control"
+    ],
+    "experience": [
+        {
+            "title": "Lead Designer",
+            "company": "Company Name",
+            "start_date": "2014-04",
+            "end_date": "Present",
+            "description": "Managed multiple projects simultaneously within budgetary restrictions. Designed carts, frames, doors, panels, enclosures and brackets using Inventor and AutoCAD. Created mobile and modular custom container structures for storage, offices and mobile labs. Collaborated with engineers and project managers on design parameters; produced sketches and CAD tasks to meet client specifications and deadlines."
+        },
+        {
+            "title": "AutoCAD Engineer",
+            "company": "Company Name",
+            "start_date": "2013-08",
+            "end_date": "2015-05",
+            "description": "Independently developed new and existing products including commercial and residential framework design. Created engineering and shop drawings for roofs, floors, wall panels and trusses; worked with architects and contractors; prepared CAD work samples; built study and presentation models."
+        },
+        {
+            "title": "Project Engineer",
+            "company": "Company Name",
+            "start_date": "2012-08",
+            "end_date": "2013-05",
+            "description": "Contributed to a $35 Million facility expansion; performed CAD-based facility layout planning; created a team project journal; conducted time studies, cost analysis, Pareto analysis, and simulations."
+        },
+        {
+            "title": "Construction Aide",
+            "company": "Company Name",
+            "start_date": "2006-06",
+            "end_date": "2013-05",
+            "description": "Designed plan for leadership conference; developed budget and sponsorship packages; used Adobe Photoshop for conference logo; tested and monitored product safety, contributing to safer electronic communications products."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Industrial Engineering",
+            "school": "Louisiana Tech University",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "Six Sigma Green Belt"
+    ],
+    "languages": []
+}

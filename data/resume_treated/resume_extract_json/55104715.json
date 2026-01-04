@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Chile",
+    "summary": "Driven sales and marketing professional with strong track record of planning, organizing, generating leads, and building and leading high performing teams with 4+ years of experience in sales, business development and project management in the trucking and mining industry. Bilingual and quick learner with an ability to prioritize simultaneous projects, prospect clients and perform well in a demanding environment. Strong communication, presentation, organizational and problem-solving skills.",
+    "skills": [
+        "Research and Analysis",
+        "Strategic Marketing",
+        "Fluent in Spanish",
+        "Customer service",
+        "Detailed Oriented",
+        "Strategic Sales Leadership",
+        "Business Development",
+        "Key Account Management",
+        "Market Planning Experience",
+        "Office Suite",
+        "SQL",
+        "Google Products"
+    ],
+    "experience": [
+        {
+            "title": "Sales Manager",
+            "company": "Company Name",
+            "start_date": "11/2014",
+            "end_date": "01/2016",
+            "description": "Extraction and international commercialization of bulk Asphaltite Chile Office (USD3MM est. 2016). Led Santiago office sales from inception to USD3MM (est.2016) by successfully identifying and securing customers in USA and Latin America. Formulated detailed sales and profitability forecast for a 5-yr expansion plan successfully achieving goals for the first 18 months. Improved customer service resulting in 43% increase in repeated sales."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Company Name",
+            "start_date": "08/2012",
+            "end_date": "09/2014",
+            "description": "Customized truck body and trailer builder for the mining, electricity distribution, agricultural, sanitation and firefighting sectors integrating equipment from National Crane, Altec, Heil, Mongoose Jetters and others on Mercedes Benz, VW, Freightliners and International truck chassis (USD48MM Sales). Reorganized quality control and developed new quality assurance resulting in 75% reduction of customer returns with USD700K yearly savings. Successfully gathered and translated pre-sales and post-sales on the customer base of the various industries into coherent product designs for each client resulting in improved customer satisfaction. Effectively coordinated work of 40 employees across 5 departments greatly improving internal communications. Managed projects through all stages resulting in 35% reduction in delivery time and 15% business growth."
+        },
+        {
+            "title": "Marketing Consultant",
+            "company": "Law and Finance private consulting office",
+            "start_date": "11/2011",
+            "end_date": "07/2012",
+            "description": "Planed and executed business plans for companies consulting to enter in the Chilean Market by generating a 5-year plan and defining specific sales goals to succeed in the country. Improved office customer acquisition by 17% and generating USD0.8M in new annual revenue."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: International Marketing",
+            "school": "Hult International Business School",
+            "year": "2016"
+        },
+        {
+            "degree": "Master of Science: Marketing",
+            "school": "IEDE Business School",
+            "year": "2012"
+        },
+        {
+            "degree": "Bachelor of Science: Business and Management Administration",
+            "school": "Andres Bello National University",
+            "year": "2011"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "German"
+    ]
+}

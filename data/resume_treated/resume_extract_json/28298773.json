@@ -1,0 +1,112 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Professional Accountant and Bookkeeper with 12 years of experience with accounts receivable and payable. Detail-oriented bookkeeping professional with 3+ years experience applying financial and managerial accounting practices.",
+    "skills": [
+        "SAP",
+        "Great Plains Dynamics",
+        "Sage50",
+        "QuickBooks Pro",
+        "ACT",
+        "Microsoft Word",
+        "Excel",
+        "Pivot tables",
+        "VLookup",
+        "Access",
+        "PowerPoint",
+        "accounting",
+        "accounts payable",
+        "accounts receivable",
+        "accrual",
+        "AP",
+        "AR",
+        "balance sheet",
+        "banking",
+        "bonds",
+        "budget",
+        "cash flow",
+        "closing",
+        "controller",
+        "customer satisfaction",
+        "documentation",
+        "executive management",
+        "finance",
+        "financial",
+        "financial reports",
+        "financial statement preparation",
+        "fixed assets",
+        "funds",
+        "general ledger",
+        "internal audit",
+        "inventory",
+        "ledger",
+        "director",
+        "order entry",
+        "policies",
+        "processes",
+        "reporting",
+        "sales",
+        "SOX compliance",
+        "spreadsheets",
+        "supervision",
+        "tax"
+    ],
+    "experience": [
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "2015-09",
+            "end_date": "2017-09",
+            "description": "Supported Regional Finance Manager with special projects and other responsibilities as assigned. Handled monthly accrual process for 22 expense accounts. Full responsibility for all fixed assets; maintained detailed depreciation schedules. Conducted monthly reconciliations of all balance sheet accounts to ensure their accuracy. Reconciled 4 bank accounts (250+ transactions per month), researched and resolved all issues. AP: Reviewed, processed and reconciled invoices ensuring timely payment (500+K monthly). Monthly analysis of AP process led to an improved aging schedule and 20% increased cash flow. AR: Receipt and posting of all payments to ledger (SAP); Weekly analysis of AR process which led to an increased cash flow by decreasing outstanding AR. Assisted with internal audit by providing all necessary data to minimize billable hours. Streamlined accounting processes and maintained appropriate documentation to improve procedures in accordance with company policies and SOX compliance. Researched and resolved discrepancies as well as financial related inquiries. Performed month-end/year end close, financial statement preparation and budget variances and assisted management to resolve variances."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "2012-09",
+            "end_date": "2014-12",
+            "description": "Worked closely under the supervision of the Controller and Director of Accounting. Experience in GAAP accounting and monthly closing processes. Researched and resolved financial inquiries from management at 48 campus locations. Reconciliation of 40 bank accounts on a monthly basis. Posted necessary monthly journal entries to the general ledger (Great Plains Dynamics). Compiled and analyzed transactions primarily related to: cash, fixed assets, inventory & sales tax. Liaison with external accounting firm during audits. Processed accounts payable; including purchase order entry, invoice approval and entry, follow up with vendors, aging reporting. Paid approximately 100,000K in funds via wire transfers to suppliers on a weekly basis."
+        },
+        {
+            "title": "Treasurer",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "Present",
+            "description": "Implemented the accounting process, policies and procedures in accordance with US GAAP. Bank account maintenance and financial transactions oversight. Developed the annual budget and analyzed actual revenue and expenses against the budget. Kept the board informed of trends, concerns, assessments of organization financial health. Completion of all financial reports in a timely manner and made available to the board."
+        },
+        {
+            "title": "Accounts Receivable/Audit Clerk",
+            "company": "Company Name",
+            "start_date": "2009-02",
+            "end_date": "2011-08",
+            "description": "Researched and implemented a new remote deposit banking system. Processed an average of 200 checks on a daily basis via a bank remote system. Created and balanced several accounting spreadsheets. Prepared and managed reports for executive management. Posted month and year end journal entries. Researched, verified and corrected the validity of account discrepancies. Worked with various departments and built stronger working relationships organization wide."
+        },
+        {
+            "title": "Data Analyst Assistant",
+            "company": "Company Name",
+            "start_date": "2006-12",
+            "end_date": "2007-10",
+            "description": "Project VPO: Assessed 2500 foreign accounts within a 6 month period. Achieved and maintained a 90% Customer Satisfaction rating. Verified and researched data for 500 Savings Bonds accounts on a daily basis. Tracked and updated non-nationals accounts preventing over one million dollars in fines. Indexed, verified and scanned 1200 IRA accounts on a monthly basis. Keyed interest and tax rates for over 350 accounts holders daily."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Accounting",
+            "school": "Nova Southeastern University",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Business Administration in Accounting",
+            "school": "Florida Atlantic University",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Arts in Accounting",
+            "school": "Western International University Online",
+            "year": 2007
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

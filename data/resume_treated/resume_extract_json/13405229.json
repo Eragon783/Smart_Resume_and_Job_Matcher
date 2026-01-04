@@ -1,0 +1,94 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Virginia Beach, Virginia",
+    "summary": "Career Overview: Highly enthusiastic customer service professional with extensive client interface experience; experienced in security baggage handling and personnel screening, retail operations, and aviation ordnance; proficient with MS Office Suite and Adobe Acrobat; currently hold a Secret security clearance.",
+    "skills": [
+        "MS Excel",
+        "MS Access",
+        "MS Word",
+        "MS PowerPoint",
+        "MS Outlook",
+        "Adobe Acrobat",
+        "Navy Enterprise Resource Planning",
+        "Enterprise Resource Planning",
+        "ERP",
+        "FedEx",
+        "United Parcel Service",
+        "Webflis",
+        "DODDAC",
+        "FACTS",
+        "Ordnance",
+        "Weapons",
+        "Airborne Weapons",
+        "Aircraft Mechanical",
+        "Aircrew",
+        "Aviation",
+        "Calibration",
+        "Corrosion",
+        "Corrosion Control",
+        "Inspection",
+        "Inventory",
+        "Missile",
+        "Systems Design",
+        "Testing",
+        "Training",
+        "Weapon",
+        "Cashier",
+        "Database",
+        "F-16",
+        "Maintenance",
+        "Retail",
+        "Retail Marketing",
+        "PCS",
+        "Scanning",
+        "Security",
+        "X-ray",
+        "Access",
+        "Enterprise Resource Planning"
+    ],
+    "experience": [
+        {
+            "title": "Security baggage handler/Personnel Screener",
+            "company": "Company Name",
+            "start_date": "March 2014",
+            "end_date": "Present",
+            "description": "Provide information to space A travelers and PCS customers. Loaded over 5,000 bags weighing 60-75 lb on advanced X-ray equipment. Provided force protection security for the AMC military terminal. Monitored for illegal material using X-ray, explosive and narcotics detection, magnetometer, hand-held scanning equipment, and video monitoring."
+        },
+        {
+            "title": "Aviation Ordnanceman",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "January 2012",
+            "description": "Inspected, maintained and repaired aircraft mechanical and electrical armament/ordnance systems. Serviced aircraft guns and accessories. Loaded aviation ammunition including aerial mines, torpedoes, missiles and rockets. Supervised operation of aviation ordnance shops, armories and stowage facilities. Requisitioned, received, inspected, un-packed, inventory, accounted for, stored, handled, and processed shipments for missiles and related components. Tested, inspected and assembled fuses, loaded/downloaded, and armed/de-armed ammunition and electronic countermeasures equipment. Maintained weight testing/calibration and corrosion control of weapon systems and shipboard equipment. Instructed, supervised, and managed operational training."
+        },
+        {
+            "title": "Armament Division Maintenance Technician",
+            "company": "Company Name",
+            "start_date": "January 2007",
+            "end_date": "January 2010",
+            "description": "Performed scheduled/unscheduled maintenance and ordnance loading/downloading evolutions on 24 F/A-18, 14 F-16, and 4 MH-60 aircraft. Supervised Auxiliary Retail Outlet Top Gun; inventoried, stored, and ordered merchandise; cashier and Excel/database responsibilities; managed over $60,000 in merchandise and $50,000 in MWR funds."
+        },
+        {
+            "title": "Armament Division Maintenance Technician",
+            "company": "Naval Strike and Warfare Center NAS Fallon",
+            "start_date": "2007",
+            "end_date": "2010",
+            "description": "Maintenance technician for ordnance systems; performed scheduled/unscheduled maintenance, testing, and parts handling; supported training and operational readiness."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Criminal Justice",
+            "school": "Saint Leo University",
+            "year": 2015
+        }
+    ],
+    "certifications": [
+        "Security Clearance: Secret"
+    ],
+    "languages": [
+        "Spanish"
+    ]
+}

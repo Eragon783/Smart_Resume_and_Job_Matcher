@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "San Bernardino, CA",
+    "summary": "Aviation Parts Salesman with experience in sales, customer service, inventory management, quality control, and aviation safety. Strong leadership skills from ROTC and hands-on aviation exposure as a Private Pilot.",
+    "skills": [
+        "cash handling",
+        "customer service",
+        "databases",
+        "driving",
+        "email",
+        "inventory",
+        "materials",
+        "payroll",
+        "pricing",
+        "quality control",
+        "safety",
+        "sales",
+        "scheduling",
+        "shipping"
+    ],
+    "experience": [
+        {
+            "title": "Aviation Parts Salesman",
+            "company": "Company Name, City, State",
+            "start_date": "05/2013",
+            "end_date": "01/2014",
+            "description": "Responsible for sales and customer service, providing information on pricing, availability, condition, trace, and other information to customers by phone and email through the use of Quantum and AMICS inventory software. Logged and retrieved price information and customer and vendor quotations. Assessed inventory physically with most purchase orders and most requests for information on parts. Relayed information related to missing parts not in proper locations to material management or inventory specialists. Strengthened shipping department operations by weighing parts and packages, affixing labels, packaging and wrapping parts, and assisting with quality control paperwork when required. Inspected parts for customers with regards to data plates and actual part conditions and included paperwork. Pictures and additional information were provided on customer request to assure complete approval, as well as homogeneity with information already existing in company databases. Introduced to the standard operation process of the warehouse. Aided in placing repair orders or return orders to their respective locations. Fulfilled customer requests regarding condition and trace documents for drop shipments. Instructed about hazardous materials such as Skydrol as well as procedures to protect against them with PPE. Properly lifted and moved heavy parts such as actuators and hydraulic pumps to and from the shipping bay for processing, weighing, and packaging when requested. Accumulated driving experience during hour long commutes to and from work, and traveled that distance twice a day during employment."
+        },
+        {
+            "title": "Package/Front Counter Attendant",
+            "company": "Company Name, City, State",
+            "start_date": "10/2012",
+            "end_date": "05/2013",
+            "description": "Performed standing, walking, bending, stooping, pulling, and lifting movements during restocking of milk crates and roller carts over an extended amount of time in harsh conditions, such as in walk-in freezers. Emptied and moved heavy trash cans as well as regularly cleaned under tables. Moved and lifted ice cream squares during front counter restocking periods. Performed customer service, cash handling, food preparation, cleaning, and other general upkeep responsibilities."
+        },
+        {
+            "title": "Lead Autonomous Ground Vehicle Installer",
+            "company": "Company Name, City, State",
+            "start_date": "08/2011",
+            "end_date": "12/2011",
+            "description": "Lifted and moved heavy boxes containing Pronto 4 autonomous vehicle kits into 50 brand-new Chevy Colorado vehicles for the U.S. Navy's MLT (Mobile Land Target) Program. Frequently operated underneath and inside vehicles at awkward angles to drill holes, lift out seats, remove airbags, and other tasks. Utilized various PPE (glasses, gloves, steel toe boots, etc) around the vehicles during shifts. Interpreted OEM instructions on installation and made on-the-fly changes to brake clamp installations as per request due to offsite testing. Inspected each package and inventoried each part kit and signed off on installations to verify they were complete before moving on to the next vehicle. Supervised our team and acted as a liaison for the Navy representative overseeing the operation. Responsible for scheduling travel and hotel accommodations and payroll hours for the team."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Professional Aeronautics Management and Aviation Safety",
+            "school": "Embry-Riddle Aeronautical University",
+            "year": 2014
+        },
+        {
+            "degree": "Associate's Degree in Professional Aeronautics Management, Safety, Aeronautical Science, and Information Systems",
+            "school": "Embry-Riddle Aeronautical University",
+            "year": 2012
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Silver Valley High School",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        "Private Pilot's License (August 2008)"
+    ],
+    "languages": []
+}

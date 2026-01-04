@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "ROTC-trained leader with experience in customer advocacy, finance processes, and retail operations; developed skills in initiative, teamwork, and problem solving; proven ability to handle challenging situations and ensure accuracy and compliance in loan processing and customer service.",
+    "skills": [
+        "calculators",
+        "cash registers",
+        "closing",
+        "cooking",
+        "credit",
+        "funds",
+        "inventory",
+        "issue receipts",
+        "mark",
+        "money",
+        "windows",
+        "nice",
+        "paint",
+        "policies",
+        "quality",
+        "maintain records",
+        "safety",
+        "sales",
+        "tables",
+        "team work",
+        "wise",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Customer Advocate",
+            "company": "Company Name",
+            "start_date": "2014-12",
+            "end_date": "2015-11",
+            "description": "Processed loan applications and disbursements; verified documents; presented loan and repayment schedules; calculated interest, principal, and closing costs; maintained loan records; received checks and cash; ensured compliance and accuracy; created summary reports and maintained a clean, welcoming environment."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2014-07",
+            "end_date": "2015-01",
+            "description": "Greeted customers, identified needs, described merchandise, explained operation and care, helped locate items, processed sales, maintained records, and contributed to store promotions and customer service."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "2014-12",
+            "description": "Greeted customers, assisted with merchandise selection, processed payments, returns, and exchanges; maintained checkout areas; stocked shelves and assisted with store operations."
+        },
+        {
+            "title": "Food Service / Cashier",
+            "company": "Company Name",
+            "start_date": "2012-04",
+            "end_date": "2014-08",
+            "description": "Maintained sanitation and safety standards; prepared food items; took orders and received payments; stocked and cleaned; ensured quality and proper procedures; provided customer service in a fast-paced setting."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "El Dorado High School",
+            "year": 2014
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

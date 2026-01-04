@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Objective Seeking a challenging environment, which allows me to contribute to the continued success and growth of the organization. To obtain a position that will provide me with the opportunity to apply my education, administrative, & fitness experience, and grow as a professional.",
+    "skills": [
+        "Microsoft Office (Word, Excel, PowerPoint, Outlook)",
+        "Adobe CS3 & CS5 (Illustrator, Photoshop)",
+        "Campus Management System for design and upkeep of website",
+        "CSI Asset Management System",
+        "Fusion for equipment check-out, scheduling services, & analyzing reports"
+    ],
+    "experience": [
+        {
+            "title": "Fitness Coordinator",
+            "company": "Company Name",
+            "start_date": "2012-07",
+            "end_date": "Present",
+            "description": "Responsible for facility operations and guest experiences. Assist with facility supervision. Train staff members to be knowledgeable and perform fitness services. Aid with corporate presentations on health and wellness topics. Support membership sales and retention through facility tours, program promotion, and individualized consultations. Collaborate with Facility Manager, Pro Shop Coordinator, and Head Membership Specialist to provide optimal experiences and services, such as personal training, fitness counseling, and nutritional aspects, to all members."
+        },
+        {
+            "title": "Facility Coordinator Intern/Membership Specialist",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "2012-07",
+            "description": "Assist with facility supervision. Conduct tours, program promotions, and individualized consultations. Support membership sales and retention. Work with Facility Manager, Pro Shop Coordinator, and Head Membership Specialist to provide optimal experiences and services, such as personal training, fitness counseling, and nutritional aspects, to all members."
+        },
+        {
+            "title": "Group Exercise Instructor",
+            "company": "Company Name",
+            "start_date": "2010-12",
+            "end_date": "2012-07",
+            "description": "Instruct/lead patrons through safe and challenging exercises in an abdominals/core toning format as well as in a boot camp setting."
+        },
+        {
+            "title": "Graduate Assistant, Exercise",
+            "company": "Company Name",
+            "start_date": "2010-08",
+            "end_date": "2012-07",
+            "description": "Assist with the training, scheduling, supervision, and evaluation of Fitness Center attendants. Assist with equipment purchase, product research, and equipment layout for the campus fitness center. Facilitate the development of policies and procedures regarding the safety of patrons and aesthetics of the facility. Coordinate facility and equipment maintenance. Assist with website management and program promotions. Supervise the daily operations of the 14,000 square feet Fitness Center. Supervise the university's recreational facility of 125,000 square feet during the weekends. Assist other professional staff with presentations promoting the WellU Student Wellness Program, professional development conferences, and student involvement within the Intramural-Recreational Sports Department. Assist with the inventory and maintenance of Health & Fitness Lab and Fitness Center equipment. Track equipment usage to determine proper layout and rotation of fitness center equipment. Contribute to the daily operations of The Health and Fitness Lab including maintaining a regular schedule for fitness services, such as fitness assessments, exercise prescription, body composition, and individual consultations. Track and evaluate Health and Fitness Lab programs and Fitness Center usage patterns. Perform research on benchmark universities and facilities. Assist with office supervision and various administrative duties."
+        },
+        {
+            "title": "Lab Assistant",
+            "company": "Company Name",
+            "start_date": "2009-08",
+            "end_date": "2010-08",
+            "description": "Conduct fitness assessments including body composition analysis via skinfold calipers and bioelectrical impedance, height & weight measurements, sub-maximal VO2 testing, flexibility evaluation, muscular endurance and strength, and blood pressure screenings. Exercise prescription: offer exercise consultation and program design, implementation of exercise programs, and provide demonstration/guidance with proper usage of the equipment. Assist with the marketing of programs using various advertising mediums, such as Adobe CS3 programs. Design/host wellness & fitness events such as Muscle of the Month Challenge, Big Red Rep Off & Bench Off, and Healthy Days. Received Rookie of the Year Award based on job performance."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Company Name",
+            "start_date": "2009-08",
+            "end_date": "2010-05",
+            "description": "Conduct and assist with research studies such as Exercise Post Oxygen Consumption (EPOC), Callahan Study involving maximal and sub- maximal VO2 testing, and apoptosis. Research was presented at the annual American College of Sports Medicine conference. Assist professors and students with class research labs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Recreation Administration - Concentration: Facilities Management",
+            "school": "Western Kentucky University",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Science: Exercise Science",
+            "school": "Western Kentucky University",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        "ACSM Certified Health Fitness Specialist",
+        "AFAA Certified Personal Fitness Trainer",
+        "USA Weightlifting Level 1 Sports & Conditioning Coach",
+        "Medic First Aid CPR and Automated External Defibrillator",
+        "First Aid",
+        "Blood Borne Pathogens"
+    ],
+    "languages": []
+}

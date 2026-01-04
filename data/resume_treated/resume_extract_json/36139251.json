@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly motivated, team-oriented professional with achievements in management, employee/customer relations, program implementations, training, and employee development. Recognized for leadership, effective communication, and strong work ethic.",
+    "skills": [
+        "Microsoft Windows",
+        "Microsoft PowerPoint",
+        "Microsoft Outlook",
+        "Microsoft Access",
+        "Internet Explorer",
+        "Social media"
+    ],
+    "experience": [
+        {
+            "title": "General Manager/Fitness Director",
+            "company": "Company Name",
+            "start_date": "December 2013",
+            "end_date": "Present",
+            "description": "Manages and supervises approximately 30 fitness club employees. Implements and creates fitness/wellness programs; conducts assessments and offers recommendations for healthier lifestyles; mentors and develops personal training and group fitness programs; coordinates facility repairs/maintenance and equipment procurement; assists in budgeting, planning, and event execution; collaborates with sales/marketing to drive promotions."
+        },
+        {
+            "title": "Assistant Manager / Educator",
+            "company": "lululemon athletica",
+            "start_date": "October 2012",
+            "end_date": "December 2014",
+            "description": "Floor Manager and Educator on the retail floor; educated guests on product, community, and culture; events liaison coordinating in Metro Atlanta; managed manager checklist deliverables; developed daily/weekly/monthly revenue strategies; represented store at meetings; coached Educators & Key Leaders; conducted personnel reviews."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "June 2007",
+            "end_date": "October 2012",
+            "description": "Supervised 13 personnel across club operations; provided guidance, training, and motivation; conducted regular staff meetings; managed budget and revenue; supported member recruitment and sales activities; ensured proper payroll processing and adherence to corporate standards."
+        },
+        {
+            "title": "Fitness Coordinator",
+            "company": "Company Name",
+            "start_date": "March 2006",
+            "end_date": "June 2007",
+            "description": "Coordinated group exercise programs for ~600 employees; supervised 3 Fitness Specialists; created monthly schedules; oversaw internships; produced company-wide monthly newsletter and weekly fitness tips; delivered health/fitness/wellness presentations."
+        },
+        {
+            "title": "Owner / Instructor",
+            "company": "Company Name",
+            "start_date": "March 2004",
+            "end_date": "May 2005",
+            "description": "Owned and operated an aerobic studio offering 8–10 fitness classes daily; managed a staff of 5 instructors; handled general maintenance and marketing; managed an annual budget of $45K."
+        },
+        {
+            "title": "Wellness Director & Aerobic Coordinator",
+            "company": "Company Name",
+            "start_date": "July 2001",
+            "end_date": "February 2004",
+            "description": "Managed Wellness Department (~30 employees); oversaw 30 group fitness classes and 25+ fitness assessments; prepared annual budget of $230K; payroll and staff development; coordinated facility repairs and equipment procurement; led member appreciation initiatives; received Character Development Award in 2002."
+        },
+        {
+            "title": "Corporate Fitness Manager/Director",
+            "company": "Company Name",
+            "start_date": "February 1999",
+            "end_date": "February 2007",
+            "description": "Implemented and coordinated group exercise programs and wellness activities for 25+ corporations/universities; supervised 325+ group fitness classes/week, 120 Exercise Leaders, and 4 Area Directors; managed payroll >$300K and audits; led recruiting, advertising, and marketing efforts."
+        },
+        {
+            "title": "Club Manager / Fitness Coordinator",
+            "company": "Company Name",
+            "start_date": "September 1997",
+            "end_date": "February 1999",
+            "description": "Established member relations from sales to member services; taught ~6 aerobic classes; implemented instructor/member training programs; oversaw club appearance and maintenance; managed daily sales log and payrolls."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Holistic Nutrition",
+            "school": "Clayton College of Natural Health",
+            "year": 2010
+        },
+        {
+            "degree": "Accounting & Management / Human Resources",
+            "school": "California State University",
+            "year": 1992
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "SR. BUSINESS DEVELOPMENT MANAGER Professional Summary Highly organized sales professional with 12 years of inside and outside sales. Exceptional Outside Sales Representative who consistently achieves annual sales quotas and increases the overall customer base in several fields including telecom, advertising, and software solutions. Effectively grows brand awareness through increased market penetration and new market development. Experienced in presenting and selling to senior level(CEO's, CFO's, etc) decision makers in various types of verticals including technology, healthcare, entertainment, logistics, retail chains, hospitality, etc.",
+    "skills": [
+        "Customer targeting",
+        "Contract negotiations",
+        "Prospecting",
+        "Internet marketing",
+        "Natural leader",
+        "Marketing and advertising",
+        "Strong work ethic",
+        "Talented negotiator",
+        "Conflict resolution techniques",
+        "Hiring, training and supervision",
+        "Operations management",
+        "Market research",
+        "Employee recruiting"
+    ],
+    "experience": [
+        {
+            "title": "Sr. Business Development Manager",
+            "company": "Company Name",
+            "start_date": "04/2015",
+            "end_date": "Present",
+            "description": "Surpassed annual quota by 125% in 2015. Scheduled and attended at least 10 appointments per week. Organized joint sale calls with current customers and outside vendors. Including the W hotel, Atlanta Hawks, TruGreen, LG, etc. Vast knowledge and use of Salesfore.com. Successful at working with senior level decision makers in various verticals including hospitality, technology, logistics, healthcare, contractors, etc. Maintain strong ties with M2M/IoT Operations, IT, Sales Engineering, Accounting, and Legal teams in support of your customers. Interact with Finance & Operations to ensure compliance with financial obligations, Accounts Payable, credits."
+        },
+        {
+            "title": "Entrepreneur",
+            "company": "Company Name",
+            "start_date": "11/2016",
+            "end_date": "Present",
+            "description": "Developed and implemented a comprehensive salesperson training program. Prospected to obtain new accounts while maintaining relationships with existing accounts. Directed targeted marketing efforts that introduced new products and promoted product visibility. Optimized the Ride Ad website and all social media accounts to boost traffic to the sites."
+        },
+        {
+            "title": "Sr. Business Development Manager",
+            "company": "Company Name",
+            "start_date": "04/2015",
+            "end_date": "11/2016",
+            "description": "Surpassed annual quota by 125% in 2015. Scheduled and attended at least 10 appointments per week. Organized joint sale calls with current customers and outside vendors. Including the W hotel, Atlanta Hawks, TruGreen, LG, etc. Vast knowledge and use of Salesfore.com. Successful at working with senior level decision makers in various verticals including hospitality, technology, logistics, healthcare, contractors, etc. Maintain strong ties with M2M/IoT Operations, IT, Sales Engineering, Accounting, and Legal teams in support of your customers. Interact with Finance & Operations to ensure compliance with financial obligations, Accounts Payable, credits."
+        },
+        {
+            "title": "Business Account Executive",
+            "company": "Company Name",
+            "start_date": "12/2013",
+            "end_date": "04/2015",
+            "description": "Exceeded quota on a monthly basis, averaging 140% to plan. Handled the highest volume account in assigned territory by closing the."
+        },
+        {
+            "title": "Senior Account Manager",
+            "company": "Company Name",
+            "start_date": "04/2011",
+            "end_date": "01/2014",
+            "description": "Managed a portfolio of over 300 accounts generating $3 million in sales and revenue. Led sales calls with team members to establish sales and customer retention goals. Assisted clients in building networking sites to increasing their overall profitability in their business. Maintaining excellent knowledge of our products and services(SaaS, websites, etc.) in order to understand customers' needs and provide solutions to those needs. Work with senior level decision makers in various verticals including hospitality, logistics, healthcare, retail, contractors, etc. Maintained an average retention rate at over 85%."
+        },
+        {
+            "title": "Sales Consultant",
+            "company": "Company Name",
+            "start_date": "01/2009",
+            "end_date": "03/2011",
+            "description": "Established more than 30 new accounts, earning a combined profit of over $200k a year. Recognized as top sales generator, increasing sales level by 45% in 2009 alone. Received company Employee Performance Award after maintaining record sales achievement of 20% growth five months in a row. Exceeded targeted sales goals by 175%."
+        },
+        {
+            "title": "Senior Account Executive",
+            "company": "Company Name",
+            "start_date": "05/2006",
+            "end_date": "04/2008",
+            "description": "Adhered to all federal and state compliance guidelines relative to retail mortgage lending. Interviewed an average of 40 mortgage loan applicants per month. Received Employee of the Month Award for a 70% rate of closed loans. Executed the loan origination process, including ordering credit reports, appraisals and preliminary title reports. Provided expert financial advice on mortgages governmeand personal loans. Closed or assisted in closing in nearly $10 million in loans. Accomplishments Ranked as a top performer, averaging 140% above sales quota each month. Recipient of the Triple Threat Award at Comcast Business in 2014. Managed a portfolio of over 300 accounts generating $3 million in sales and revenue at Networx Systems. Handled the highest volume account in assigned territory at Comcast Business with selling and managing the Wellstar Health System. Recipient of Account Manager of the Month Award multiple times at Networx Systems. Earned the Winner's Circle Award in 2015. Increased sales volume by adding two of the largest accounts(The W Hotel, LG) in the Southeast region."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "school": "Enterprise State Junior College",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelor of Science",
+            "school": "Troy University",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

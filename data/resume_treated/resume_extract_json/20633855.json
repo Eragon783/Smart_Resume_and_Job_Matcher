@@ -1,0 +1,55 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Results-driven Business Development Representative with a strong track record in sales, prospecting, and account management. Experienced in leading teams, driving revenue growth, and delivering value propositions across enterprise accounts. Recognized for quota attainment and leadership awards, with extensive experience in Dell hardware/software ecosystems and cross-functional collaboration.",
+    "skills": [
+        "Customer communications",
+        "Prospecting and cold calling",
+        "Upselling and consultative selling",
+        "Account management",
+        "Delivering Value Proposition"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Representative",
+            "company": "Company Name",
+            "start_date": "2017-01",
+            "end_date": "Present",
+            "description": "Generating meetings with potential clients, running discovery calls, and moving deals through sales stages. Focus on penetrating companies with $100 million annual revenue or more. Reports to VP of Global Strategic Sales. Achieved quota of 133%, 144%, and 200% over the last 3 quarters. Responsibilities include in-person meetings, conference calls, cold calling, cold emails, LinkedIn marketing, networking, data extraction, and attending trade shows."
+        },
+        {
+            "title": "Senior Sales Representative and Team Lead",
+            "company": "Company Name",
+            "start_date": "2013-07",
+            "end_date": "2017-01",
+            "description": "Senior Sales Rep for Dell across New England, Northeast, and Southern territories. Responsible for quota attainment with multiple quarters above goal, led territory reviews, escalation management, sales training, new hire training, team forecasting, and analytics. Closed deals exceeding $1,000,000 in margin/revenue. Worked with companies such as Miami Stock Exchange, Icahn, Hershey, Waste Management, Take Two Interactive, Workday, Salesforce, Sirius XM, Samsung, Benjamin Moore. Proficient in conference calls, email sales, phone sales, forecasting, lead generation, territory reviews, and other sales tasks. Contributed to warranty renewals with Dell LI by Flexible Billing Program. Took on sales manager in training January 2016; introduced a new categorized email system."
+        },
+        {
+            "title": "Social Media Coordinator",
+            "company": "Company Name",
+            "start_date": "2013-06",
+            "end_date": "2013",
+            "description": "Social media coordinator for Country Jam 2013 in Grand Junction. Managed festival's social media (Facebook, Instagram, Twitter), set up displays, interacted with clients, photographed musicians, and assisted backstage."
+        },
+        {
+            "title": "Server",
+            "company": "Company Name",
+            "start_date": "2011-05",
+            "end_date": "2012-06",
+            "description": "Server position; maintained high customer satisfaction under pressure; recognized as server of the month."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's degree in Journalism and Technical Communication",
+            "school": "Colorado State University",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        "Emerging Leaders Program certified"
+    ],
+    "languages": []
+}

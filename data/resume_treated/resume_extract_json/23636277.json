@@ -1,0 +1,112 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To achieve a job as an Accountant that utilizes my accounting, communication, analytical & leadership skills.",
+    "skills": [
+        "Accounting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Auditing",
+        "Bank Reconciliation",
+        "Bookkeeping",
+        "Corporate Accounting",
+        "Cost Accounting",
+        "Cash Management",
+        "Financial Accounting",
+        "Financial Reporting",
+        "Financial Statements",
+        "General Ledger",
+        "Journal Entries",
+        "MIS",
+        "MS Office",
+        "Excel",
+        "Pivot Table",
+        "VLookup",
+        "PowerPoint",
+        "Word",
+        "SAP R/3",
+        "Prosystems",
+        "Lacerte",
+        "QuickBooks",
+        "Payroll",
+        "W2s",
+        "1099s",
+        "Payroll Processing",
+        "Tax Preparation",
+        "Tax Returns",
+        "Tax Planning",
+        "Tax Filing",
+        "Teambuilding",
+        "Staff Supervision",
+        "Customer Relations",
+        "Secretarial",
+        "Tax Laws",
+        "Mergers",
+        "Ledger"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2014-09",
+            "end_date": "Present",
+            "description": "Handled processing of journal entries, accounts payable & receivables; implemented QuickBooks Accounting v.2013 and v.2016; processed payroll using QuickBooks v.2016; performed bank reconciliation and financial statement analyses; prepared federal and multi-state tax returns using Lacerte; prepared W2s and 1099s; led monthly and yearly close; developed MS Excel-based financial reports; familiar with VLOOKUP and Pivot Table."
+        },
+        {
+            "title": "Accounting Assistant",
+            "company": "LeadForus, Nonprofit Organization",
+            "start_date": "2014-04",
+            "end_date": "2014-11",
+            "description": "Processed accounting entries."
+        },
+        {
+            "title": "SAP Consultant",
+            "company": "Company Name",
+            "start_date": "2011-02",
+            "end_date": "2013-05",
+            "description": "Configured G/L Masters, Accounts Payable, Accounts Receivable, Cash Journals, House banks, Chart of Accounts, Posting Keys, Customer/Vendor Accounts Groups, & Customer/Vendor Masters Creation. Created Input /Output Tax & Withholding Tax, Company Specific Code (Z Code), COPA (Costing Based Profitability Analysis) & Number Ranges. Defined Fiscal year variant, Posting periods, Tolerance groups, Document types & number ranges. Worked on creation of new Vendor Account & Vendor Master & created monthly MIS reports. Posted Incoming Invoice & made payments."
+        },
+        {
+            "title": "Financial Analyst",
+            "company": "Company Name",
+            "start_date": "2011-02",
+            "end_date": "2013-05",
+            "description": "Worked with multiple clients performing two part role: as an auditor & tax preparation. Conducted Audit for various clients. Identified key operational risk factors of clients and suggested focus approach to mitigate the risk. Carried analytical procedures like comparing financial ratios to industry standards to evaluate performance. Reconciled sub-ledger & general ledger account balance. Performed due diligence for a private equity client to understand & evaluate a potential business. Lead for a project of Private Equity which involved work like setting up Companies & LLP's, preparing structure of the entities & valuation report, valuation of funds & client coordination. Prepared, Finalized & filed tax returns. Prepared & Reconciled journal entries, balance sheets & Income statement of various clients. Maintained accurate account & data reconciliation including sub-ledgers, journals & other financial documents. Lead as a coordinator with the internal auditors of various clients. Overviewed day to day operations of finance & secretarial department. Involved in recruiting, training, supervising & evaluating department staff."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2009-04",
+            "end_date": "2010-12",
+            "description": "Reconciled journal entries & lead as coordinator with the internal audit team. Worked on Merger/Amalgamation, prepared agenda, notice, annual reports to compile Annual Account. Prepared balance sheets & Income statement of various group companies. Worked as a liaison officer for Stock Exchange, Bankers, Solicitors & other external regulators/government bodies for mergers/acquisitions, agreements, dematerialization of shares. Worked as a legal member in preparation of Code of Conduct for a company & Drafting Agreements. Interacting with clients to resolve their complex issues & guide on tax planning & business valuations. Worked as a Support Officer to redress investor grievances. Worked as a team leader in preparation of MIS Reports /control charts for shareholding pattern & directorship details for Foreign Companies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certified Public Accountant (CPA) Candidate",
+            "school": "Boston, MA",
+            "year": "2011"
+        },
+        {
+            "degree": "LLB",
+            "school": "City India Law",
+            "year": null
+        },
+        {
+            "degree": "Company Secretary",
+            "school": "Institute of Company Secretaries of India (ICSI)",
+            "year": "2008"
+        },
+        {
+            "degree": "Bachelors in Commerce",
+            "school": "University of Mumbai",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Certified Public Accountant (CPA)"
+    ],
+    "languages": []
+}

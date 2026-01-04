@@ -1,0 +1,111 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "ASSISTANT BANKING CENTER MANAGER I Summary Experienced in Signals analysis, Geo-Spatial analysis, Electronic Warfare analysis, Networks and Threat analysis, and DNR. Limited knowledge of performing DNI analysis. Basic knowledge of computer network applications from the World Wide Web, printers, email, and instant messaging. Knowledge in Local Area Networks as well as Wide Area Networks. Expert working knowledge and experience with Google Earth, Microsoft Office Suite, various SIGINT Geospatial Analyst/Signal Analysis/SIGDEV collection, identification and analysis processing tools, applications, and databases. Experienced in analytic research and development techniques along with management of analysis databases, and products. Excellent oral and written communication skills, regular displays of high levels of professionalism and problem-solving skills. Bloomberg certified as of 2014. Highly adaptive to changing environments, a self-starter and people motivator with a broad set of analytical and technical skills. Proficient in Governmental Health Care programs and regulations; eg. Medicare Advantage. Highlights RT-RG suite, Belleview, Metrics, Anchory, Globalreach, SEDB, SIGNAV, NSAnet, Target Profiler, MS Office Suite, ArcMap, ArcGIS, Google Earth, Analyst Notebook, Dishfire, JWICS, Bloomberg, Archtics, Ticketmaster, MarX, Continuum, FACETS, MEDCO, Med Informatics, Care Advance, Verint, Cisco, CITRIX",
+    "skills": [
+        "RT-RG suite",
+        "Belleview",
+        "Metrics",
+        "Anchory",
+        "Globalreach",
+        "SEDB",
+        "SIGNAV",
+        "NSAnet",
+        "Target Profiler",
+        "MS Office Suite",
+        "ArcMap",
+        "ArcGIS",
+        "Google Earth",
+        "Analyst Notebook",
+        "Dishfire",
+        "JWICS",
+        "Bloomberg",
+        "Archtics",
+        "Ticketmaster",
+        "MarX",
+        "Continuum",
+        "FACETS",
+        "MEDCO",
+        "Med Informatics",
+        "Care Advance",
+        "Verint",
+        "Cisco",
+        "CITRIX",
+        "Medicare Advantage knowledge",
+        "Analytical research",
+        "Management of analysis databases",
+        "Oral and written communication",
+        "Problem-solving",
+        "Team building",
+        "Governmental Health Care programs"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Banking Center Manager I",
+            "company": "Not specified",
+            "start_date": "2016-03",
+            "end_date": "Present",
+            "description": "Knowledgeable in all aspects of running Retail Banking Center Building Operations; Audit policies and procedures, general management, TEAM building, Comerica Securities, and all Retail Financial Products. Preparation of internal instructions, operating policies, Standard Operating Procedures (SOPs), and guidelines. Skilled in assessing Fraudulent Issues; plans and conducts investigations designed to achieve casualty resolution. Analyzed inspections, or investigations to identify problem area's within retail financial programs. Mathematical abilities to perform calculations including application of discounts, interest, proportions, mortgage terms, and percentages. Proficient in the following systems: CISCO, HOGAN, Trio, Elan, Mortgage Referral Tool, Bloomberg, PayPoint, Check Vision, Account Analysis (AAS), and CoStar. Member and Provider Services."
+        },
+        {
+            "title": "Member and Provider Services",
+            "company": "Not specified",
+            "start_date": "2015-10",
+            "end_date": "2016-03",
+            "description": "Certified in the 8 step Ulysses Service Mentor program. Proficient in MACESS, FACETS, CITRIX, MEDCo, CareAdvance, Health Maintenance Organization, Continuum, MarX, Med Informatics, CISCO, and Verint. Sales and customer service skills used to build and maintain exceptional relationships with Subscribers, Providers, Small Groups, Large Groups, and Governmental programs. Knowledge of MDCH, NCQA, and MTM/NMIS. Experienced with the following: Department of Human Services, Center for Medicare and Medicaid Services, and the Health Insurance Marketplace."
+        },
+        {
+            "title": "Box Office Associate",
+            "company": "Not specified",
+            "start_date": "2014-01",
+            "end_date": "2015-07",
+            "description": "Proficient in Archtics, Ticketmaster, and Michigan Lottery Sales. Ability to multi-task and provide top level salesmanship. Directly handled customer complaints and provided problem-solving for a sufficient solution. Worked at all three locations as a Box Office Associate; Meadowbrook Hall, DTE, and The Palace of Auburn Hills."
+        },
+        {
+            "title": "Head Sales Associate",
+            "company": "Not specified",
+            "start_date": "2013-05",
+            "end_date": "2015-12",
+            "description": "Knowledgeable in all aspects of running a small business; payroll, accounts receivable, accounts payable and general leadership. Increased sales over 10% from 2013 to 2015. Understanding of general hospital/health care practices and regulations; OSHA. Skilled with all Microsoft Office Programs. Experienced in medical field sales pitches and marketing strategies. Mathematical abilities to perform simple calculations including application of discounts, interest, commissions, proportions, and percentages."
+        },
+        {
+            "title": "SIGINT Analyst",
+            "company": "Not specified",
+            "start_date": "2009-06",
+            "end_date": "2010-03",
+            "description": "Assisted in the development of over the air waves analysis between satellite, radio, and conducted pattern analysis to identify known and unknown threats. Development and exploration of SIGNIT targets used for the research and development of Intelligence reports and product preparation for support to Military, both, Tactical and Strategic. Expert working knowledge of SIGNIT, to include COMINT, ELINT, and OSINT, as well as ALL-source Analysis and Reporting. Gained working knowledge of reporting to Captains and above. Squad leader of 14 entry level soldiers. Developed and improved IIR's and PIR's for analysis and collection capabilities. Due to injury, was unable to complete the given contract length."
+        },
+        {
+            "title": "Aquatics Associate",
+            "company": "Not specified",
+            "start_date": "2007-10",
+            "end_date": "2009-04",
+            "description": "YMCA Certification, Red Cross/Ellis Lifeguard Certification, Water Aerobics Certification, CPR/First Aid/AED Certification, USA Certified Swim Coach, Swim Instructor Certification. Increased North Oakland Waves Swim Team membership by 47%. Lead swim instructors and lifeguards in monthly CPR/AED/First Aid Training."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "Oakland University",
+            "year": 2008
+        },
+        {
+            "degree": "Master of Business Administration",
+            "school": "Oakland University",
+            "year": 2016
+        }
+    ],
+    "certifications": [
+        "YMCA Certification",
+        "Red Cross/Ellis Lifeguard Certification",
+        "Water Aerobics Certification",
+        "CPR/First Aid/AED Certification",
+        "USA Certified Swim Coach",
+        "Swim Instructor Certification",
+        "Network Plus Certification (expected 2016)",
+        "Security Plus Certification 2016"
+    ],
+    "languages": []
+}

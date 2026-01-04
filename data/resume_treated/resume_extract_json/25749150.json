@@ -1,0 +1,91 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Inpatient and outpatient records coding specialist with ICD-9, ICD-10 and ASC coding expertise. Familiar with commercial and private insurance carriers. Administrative Assistant experience registering patients, scheduling appointments, and filing medical records. Medical Coder with inpatient/outpatient coding experience. Certified in ICD-9 and ICD-10. Seeking increased responsibility in inpatient records coding. Knowledgeable in HIPAA, EMR systems, and medical terminology.",
+    "skills": [
+        "accounting",
+        "accountant",
+        "accounts payable",
+        "accounts receivable",
+        "billing",
+        "bookkeeping",
+        "CPT",
+        "CPT/HCPCS",
+        "HCPCS",
+        "finance",
+        "financial",
+        "financial statements",
+        "ICD-9",
+        "ICD-10",
+        "insurance",
+        "HIPAA",
+        "HIPAA compliance",
+        "EMR",
+        "Electronic Medical Record",
+        "leadership",
+        "Access",
+        "Excel",
+        "MS Office",
+        "office",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "reconciling",
+        "HMOs",
+        "Medicare",
+        "Medi-Cal",
+        "medical terminology",
+        "coding",
+        "data entry",
+        "problem solving"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "2012-08",
+            "end_date": "2014-12",
+            "description": " Assisted the senior accountant in the performance of all financial activities to include financial statements and management reports. Gathered and analyzed information from inter-departmental systems to the G/L to test for inconsistencies/errors and reasonableness. Researched accounting transactions to identify and resolve discrepancies. Reconciled bank and various G/L accounts; created invoices and collected on overdue accounts. Prepared P & L's in addition to various financial and statistical reports for management. Performed accounts receivable and accounts payable functions, balanced cash, and accurately posted transactions. Identified various errors and inconsistencies between reports used to book figures in the G/L; worked with IT to resolve the discrepancy and new reports were created. Improved reconciling variances by monitoring cash control of all office locations and collaborating with office practice managers to increase efficiency and accuracy."
+        },
+        {
+            "title": "Medicare Compliance Coder",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2012-01",
+            "description": " Led a pilot project 'Medicare compliance coder' that increased payments and reduced denials/write-offs. Served as liaison between the business department, billers and third-party payers to resolve billing and reimbursement accuracy. Retrieved patient records to assess insurance coverage and acquired CPT and ICD-9 codes to ensure proper treatment and billing of procedures. Reviewed and processed visits from system-generated work lists, reports, and remittances to insurance companies. Ensured records were complete and compliant with regulations; demonstrated knowledge of HIPAA Privacy and Security Regulations."
+        },
+        {
+            "title": "Hospital Access Representative",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2012-01",
+            "description": " Completed registration quickly for all new patients; confirmed patient information, collected copays and verified insurance. Informed patients of financial responsibilities prior to services. Performed insurance verification and pre-certification/pre-authorization functions. Maintained HIPAA Privacy and Security Regulations compliance. Managed coding and reimbursement periodicals and updates. Responded to inquiries regarding CPT codes and ensured accurate posting of claims."
+        },
+        {
+            "title": "Patient Financial Representative",
+            "company": "Company Name",
+            "start_date": "2006-06",
+            "end_date": "2016-06",
+            "description": " Recorded and filed patient data and medical records. Reviewed medical records for accuracy and completeness as required by insurance companies. Obtained insurance authorizations for procedures and tests. Entered procedure codes, diagnosis codes, and patient information into billing software. Ensured proper coding and sequencing of diagnoses and procedures. Identified errors and re-filed denied/rejected claims. Reviewed remittance codes, completed appeals, and submitted claims. Posted charges, payments and adjustments. Prepared and submitted patient statements. Ensured timely charge submissions through electronic charge capture and BAR system. Investigated past due invoices and minimized unpaid accounts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Accounting",
+            "school": "University of Hartford",
+            "year": "2016"
+        },
+        {
+            "degree": "Bachelor of Arts in Accounting",
+            "school": "Central Connecticut",
+            "year": "2010"
+        }
+    ],
+    "certifications": [
+        "ICD-9",
+        "ICD-10"
+    ],
+    "languages": []
+}

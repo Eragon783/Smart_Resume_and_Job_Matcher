@@ -1,0 +1,74 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "FINANCE ASSISTANT Professional Summary College graduate offers strong technical skills and ability to learn concepts quickly. Proven ability to manage multiple assignments while meeting tight deadlines. Experience in data analysis, economic forecasting, advanced problem solving, collaborative research and presentation skills, customer service.",
+    "skills": [
+        "balance sheets",
+        "client",
+        "database",
+        "delivery",
+        "financial statements",
+        "funds",
+        "Excel",
+        "PowerPoint",
+        "Microsoft Word",
+        "progress",
+        "QuickBooks",
+        "sales",
+        "taxes",
+        "Technician"
+    ],
+    "experience": [
+        {
+            "title": "Finance Assistant",
+            "company": "Company Name",
+            "start_date": "06/2013",
+            "end_date": "09/2013",
+            "description": "Prepare financial statements, maintain accurate records in a database, generate reports and present data. Enter revenue and expense transactions and prepare expense reports. Prepare and file financial statements such as balance sheets and income statements. Complete purchase orders and customer invoices. Calculate sales taxes and make bank deposits."
+        },
+        {
+            "title": "Catering Specialist",
+            "company": "McAlister's Deli",
+            "start_date": "01/2012",
+            "end_date": "06/2012",
+            "description": "Duties included: sandwich making, order organization, order preparation and order delivery. Maintained food handler certification."
+        },
+        {
+            "title": "Technician",
+            "company": null,
+            "start_date": "spring semester",
+            "end_date": null,
+            "description": "Managed a 350-client route. Responsibilities included analyzing lawn, developing treatment programs to address each lawn's specific problems, monitoring lawn status, evaluating its progress during every visit and adjusting custom treatment program."
+        },
+        {
+            "title": "Customer service representative/driver/food line",
+            "company": "Company Name",
+            "start_date": "02/2009",
+            "end_date": "11/2011",
+            "description": "Entered customer orders, prepared pizza dough and toppings, made pizzas and delivered customer orders safely within company time requirements."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in History",
+            "school": "Texas A&M University Corpus Christi",
+            "year": 2014
+        },
+        {
+            "degree": "Diploma",
+            "school": "Lone Star Community College",
+            "year": 2008
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Jersey Village High School",
+            "year": 2008
+        }
+    ],
+    "certifications": [
+        "Food Handler Certification"
+    ],
+    "languages": []
+}

@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Over 10 years of insurance industry experience. Strong analytical, documentation and research skills. Extensive knowledge of insurance industry and regulatory compliance. Experience in quality assurance through audits. Proficient in analyzing issues, tracking trends, and implementing process improvements. Skilled in researching, developing, editing, and publishing department procedures. Strong interpersonal and communication skills, report writing, and managing complex, time-sensitive projects. Effective in communicating updates to procedures.",
+    "skills": [
+        "claims authorization",
+        "claims submission (computerized and paper)",
+        "medical terminology",
+        "CPT-4 coding",
+        "ICD-9 coding",
+        "claims adjudication",
+        "provider contracts and networks",
+        "BCBSF healthcare products",
+        "review contract benefits for claims payment",
+        "examine claim forms",
+        "verify investigative information",
+        "maintain insurance records",
+        "process improvement",
+        "quality assurance",
+        "auditing",
+        "documentation",
+        "report writing",
+        "project management",
+        "training",
+        "education",
+        "collaboration with external partners",
+        "lines of business knowledge",
+        "enrollment processes",
+        "sales and operations experience",
+        "data analysis",
+        "healthcare product research and inquiries",
+        "medical coding"
+    ],
+    "experience": [
+        {
+            "title": "Service Advocate IV- Clinical Support",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "Current",
+            "description": "Assist providers with the entry and update of requests for medical clearances; Research, coordinate and resolve inquiries and claims exceptions; Coordinate with other Provider Service areas to identify formal education opportunities; Identify, document and monitor process improvements; Maintain records, reports, or files; Moderate to heavy keying required.; 9+ years' experience in health insurance, provider's office (handling medical coding, filing insurance claims or referrals) or a managed healthcare telephone service center; Experience working with healthcare products including researching and resolving provider inquiries and working with provider contracts and networks; Experience working with medical terminology, CPT-4 coding, ICD-9 coding and claims adjudication inquiry resolution processes and procedures; Experience working with BCBSF healthcare products; Review contract benefits and approve services for claims payment.; Examine claim forms and other records to determine insurance coverage; Verify investigative information; Maintain insurance records"
+        },
+        {
+            "title": "Service Advocate V- Sales Support Agent",
+            "company": "Company Name",
+            "start_date": "2013-08",
+            "end_date": "2015-01",
+            "description": "Knowledge of all lines of business to include Over 65, MIPPA, Medicare Advantage, Under 65 Health Care Reform plans, BlueCare HMO, Blue Options PPO, Blue Select PPO, Underwritten plans, Ancillary products such as Dental and Life, Small and Large Group, and Claims. Processing systems experience; Detailed knowledge of the enrollment processes and work flow; Assist agents with day to day inquiries; Train and educate agents on products, procedures and applicable rules and regulations.; Research and resolve system issues an agent may have.; Research and resolve all inquiries both sales-related and service-related for all lines of business and all health and ancillary products.; Research information and implement solutions for sales partners whose needs demand agility and persistence.; Collaboration relationship building with external partners, such as sales agents, brokers, consultants, key accounts, providers or vendors.; Experience working with Sales or Sales Operational areas; Demonstrated experience managing multiple priorities and demands."
+        },
+        {
+            "title": "Service Advocate IV- Enrollment Maintenance and Billing",
+            "company": "Company Name",
+            "start_date": "2007-03",
+            "end_date": "2013-08",
+            "description": "Knowledge of all lines of Over 65, MIPPA, MedAdvantage, Under 65 Healthcare Reform plans to include BlueCare HMO, Blue Options PPO, Blue Select PPO, Underwritten plans, Ancillary products such as Dental and Life. Document, monitor and track call performance for compliance; Create, track and implement any identified process improvement items.; Create reports to upper management to identify any delays or estimated completion dates or actual implementations.; Monitor Inventory for timeliness, research any outliers.; Prepare SQM research, collecting and summarizing data, identifying trends and root cause analysis.; Serve as a SME for internal and external customers to resolve consumer market enrollment, maintenance, membership and billing issues.; Leader of the Senior Market Continuous Improvement Team: Supports continuous improvement efforts through the early identification, investigation and resolution of problems by communicating and coordinating with the appropriate contacts for completion.; Serving on a Process improvement work group; Project management and implementation process improvement items.; Monitor Supervisor callbacks and multiple locations for timeliness and completion within metrics and handle escalated issues, etc.; Invoices and reconciles premium income.; Maintain knowledge for government and regulatory laws and changes."
+        }
+    ],
+    "education": [
+        {
+            "degree": "All Lines Claims Adjuster",
+            "school": "Florida State College at Jacksonville",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Arts: Psychology",
+            "school": "University of North Florida",
+            "year": 2004
+        },
+        {
+            "degree": "Bachelor of Science: Nursing",
+            "school": "Jacksonville University",
+            "year": 2001
+        },
+        {
+            "degree": "Associate of Arts: Psychology",
+            "school": "St Johns River Community College",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        "All Lines Claims Adjuster Certification"
+    ],
+    "languages": []
+}

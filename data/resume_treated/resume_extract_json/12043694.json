@@ -1,0 +1,94 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To obtain a challenging, rewarding position in a professional and structured environment, where I can utilize my vast military experience, work ethic and training to become an integral contributor to a growing and productive organization.",
+    "skills": [
+        "Budget management",
+        "Scheduling",
+        "Coordination",
+        "Supervision",
+        "Training",
+        "Management",
+        "Maintenance of projects and programs",
+        "OSHA",
+        "NAVOSH",
+        "Government Owned Property handling",
+        "Employee training",
+        "Interpersonal skills",
+        "Time management",
+        "Delegation",
+        "Discipline",
+        "Windows Server 2008",
+        "Active Directory (Windows 7, Windows Server 2008 R2)",
+        "DNS",
+        "DHCP",
+        "WINS",
+        "RRAS",
+        "IPsec",
+        "TCP/IP",
+        "Network troubleshooting",
+        "Virtualization",
+        "Domain Controllers & AD DS",
+        "Group Policy",
+        "Backup & Security",
+        "Patch management",
+        "Server virtualization",
+        "Network protocols and devices",
+        "Subnetting and CIDR notation"
+    ],
+    "experience": [
+        {
+            "title": "Advanced Level Wheeled Vehicle Mechanic",
+            "company": "Company Name",
+            "start_date": "2008-04",
+            "end_date": "2012-06",
+            "description": "Successfully provided training and schedules, supervised, and guided my team through all aspects of recovery operations, in-process inspection/troubleshooting procedures, repairs and overhaul of all assigned wheeled vehicle mechanical and electrical components and systems, including but not limited to: power plant/packs, compression ignition engines, engine fuel systems, air induction and exhaust systems, cooling systems, vehicle chassis, frame cross members, clutch assemblies, transmissions, transfers, final drives, propeller shaft assemblies, brake systems, steering systems, suspensions systems, fifth wheel assemblies, wheeled vehicle crane, hoist and winch assemblies, and hydraulic systems, and automotive electrical systems. Performed diagnostic troubleshooting using TMDE; conducted BDAR; managed parts and maintenance for over 125 vehicles; coordinated travel logistics for Up Armored Vehicles; conducted inventories; managed Government Owned Property valued around $3 million; provided training to soldiers on use of electronic parts manual; supported mission deployments including Iraq 2009; mentored eight soldiers in civilian and military education."
+        },
+        {
+            "title": "Aviation Mechanic",
+            "company": "Company Name",
+            "start_date": "1994-11",
+            "end_date": "2002-05",
+            "description": "Maintained and serviced aircraft engines, fuel, lubrication systems; performed complete aircraft turbo shaft and turboprop engine repairs; evaluated jet engine performance; corrosion control per OSHA and NAVOSH standards; maintained 60 FA-18 Super Hornets up to U.S. Navy paint scheme and corrosion protection standards; trained airmen on Hazmat disposal; conducted shipboard readiness training and carrier qualifications; managed government owned property including shop tools and tool boxes; supervised Navy personnel; deployed on Westpac and Rim Pac maneuvers."
+        },
+        {
+            "title": "Organizational Apprentice Maintenance Technician",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "",
+            "description": "Maintained and serviced aircraft engine, fuel, and lubrication systems; performed corrosion control; trained crew in OSHA and NAVOSH hazmat disposal requirements; supervised tool and equipment readiness; contributed to shipboard readiness and maintenance of aircraft systems."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Information System Security",
+            "school": "Colorado Technical University",
+            "year": "2016"
+        },
+        {
+            "degree": "Certificate of Completion: Network Administrator",
+            "school": "Centriq Training",
+            "year": "2012"
+        },
+        {
+            "degree": "Bachelor of Science: Information Security",
+            "school": "Columbia Southern University",
+            "year": "2011"
+        }
+    ],
+    "certifications": [
+        "CompTIA A+",
+        "Network Security Certification (pursuing)",
+        "Centriq Administrator Program Certificate",
+        "Military Basic Military Training",
+        "MRAPs (Mine Resistant Ambush Protected) Vehicles Training",
+        "F/A-18 Power Plant Training",
+        "Ship Board Fire Fighting School",
+        "Aviation Maintenance Training (as listed)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

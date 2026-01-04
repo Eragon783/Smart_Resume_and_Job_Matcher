@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Customer Advocate with extensive experience in high-volume call centers and administrative roles. Proven skills in customer service, needs assessment, problem solving, scheduling, billing, and secretarial duties. Technologically proficient in Microsoft Office, accounting software, and device troubleshooting; known for reliability, confidentiality, and process improvement.",
+    "skills": [
+        "Microsoft Office Suite",
+        "Peachtree Accounting",
+        "Quatro Pro",
+        "Excel",
+        "WordPerfect 12",
+        "Timeslips 2007",
+        "ITI Banking Software",
+        "Cellular technology troubleshooting",
+        "Smartphone troubleshooting",
+        "Call center operations",
+        "Customer service",
+        "Accounts receivable",
+        "Accounts payable",
+        "Payroll",
+        "Billing",
+        "Scheduling / calendar management",
+        "Travel booking",
+        "Minute taking",
+        "Secretarial duties",
+        "Document preparation",
+        "File and records management",
+        "Data entry",
+        "Multitasking",
+        "Problem solving",
+        "Critical thinking",
+        "Creative problem solving",
+        "Administrative assistance"
+    ],
+    "experience": [
+        {
+            "title": "Customer Advocate",
+            "company": "Company Name",
+            "start_date": "September 2007",
+            "end_date": "March 2015",
+            "description": "Answered a high volume of incoming calls in a national call center; actively listened to clients to ensure understanding; provided innovative and individualized solutions; conducted complex problem solving; accessed and updated client account databases; maintained professional telephone conversations; administered device-related troubleshooting; kept records of customer interactions; stayed up-to-date on services and products."
+        },
+        {
+            "title": "Legal Secretary",
+            "company": "Company Name",
+            "start_date": "January 2006",
+            "end_date": "May 2007",
+            "description": "Prepared court documents, deeds, real estate transfer statements, purchase agreements, contracts, power of attorney, wills, and routine correspondence. Performed accounting duties including accounts receivable, accounts payable, time slips, monthly billing, payroll, payroll taxes, and balancing of trust accounts and estates. Greeted clients, scheduled appointments, and ensured office efficiency."
+        },
+        {
+            "title": "Administrative Assistant/Customer Service Rep",
+            "company": "Company Name",
+            "start_date": "August 2005",
+            "end_date": "January 2006",
+            "description": "Worked directly with the President and CFO to schedule and plan meetings and events; prepared materials for board meetings; took minutes; handled board inquiries; booked travel and created itineraries."
+        },
+        {
+            "title": "Retail Banking Representative II",
+            "company": "Company Name",
+            "start_date": "June 2002",
+            "end_date": "August 2003",
+            "description": "Provided excellent customer service for account inquiries; opened accounts; solved problems and cross-sold financial products. Scanned checks; daily balancing of drawer, ATM, vault, and total branch balancing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Doane College",
+            "year": "1985"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

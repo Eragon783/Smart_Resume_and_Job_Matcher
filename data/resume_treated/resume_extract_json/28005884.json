@@ -1,0 +1,59 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To obtain a position in the field of civil engineering technician where I can apply and impart the knowledge I have gained through experience and college, as well as to acquire new insight through experience and application.",
+    "skills": [
+        "ArcView",
+        "AutoCad",
+        "Drafting",
+        "GPS",
+        "graphic",
+        "Inspection",
+        "Microsoft Access",
+        "Microstation",
+        "File Maintenance",
+        "repairs",
+        "supervision",
+        "surveys",
+        "utilities"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Technician",
+            "company": "Company Name",
+            "start_date": "August 2007",
+            "end_date": "Current",
+            "description": "Design/Drafting - Design of various capital improvement projects including reconstruction, patching, HMA resurfacing, sewer lining/repair, durable pavement markings, and sidewalk repair. Produced accurate sets of plans drawn to city drafting standards using Microstation and GeoPak. Storm Water Utility Assessment - review of development within the city to determine assessment fees based on impervious area; responsibilities included measurement of impervious area and fee assessment; software used ArcView and Microsoft Access. Surveying - TOPO graphic surveys for capital improvement projects and survey of city infrastructure and utilities to provide accurate base map drawings; performed surveying computations and processed data; surveying equipment used Trimble GPS and Topcon Total Station. File Maintenance - maintained accurate base map drawings of subdivisions, right-of-way parcels, easements, storm sewer, sanitary sewer, fiber optic, and street centerlines; added assets as development progressed and corrected existing assets as survey data was collected; software used ArcView and CrateGraph."
+        },
+        {
+            "title": "Senior Engineering Technician",
+            "company": "Company Name",
+            "start_date": "April 2006",
+            "end_date": "August 2007",
+            "description": "Surveying duties included TOPO graphic surveys, land surveys, and construction surveys; responsibilities include performing surveying computations, processing data, and review of subdivision plats; surveying equipment used Ashtec GPS and Trimble 5600 Total Station. Construction Inspection - projects overseen included asphalt resurfacing, street reconstruction, curb reconstruction, storm sewer and sanitary sewer reconstruction and repairs, construction of new subdivisions, and drainage way construction; responsibilities included keeping daily records, measuring quantities, insuring compliance with plans and specifications. Design/Drafting - design of a street reconstruction project that included street widening, storm sewer reconstruction, sanitary sewer reconstruction, and water main reconstruction; designed several storm sewer projects; responsibilities included performing drainage calculations, sizing storm sewer and sanitary sewer pipe, meeting design criteria and writing specifications for project; drafted many survey plats and section corner certificates; drafting software used AutoCad and Eagle Point."
+        },
+        {
+            "title": "Engineering Technician",
+            "company": "Company Name",
+            "start_date": "May 1998",
+            "end_date": "April 2006",
+            "description": "Surveying - Over 7 years of surveying experience including land surveys, TOPO graphic surveys, and construction surveys; responsibilities include performing surveying computations, processing data, drafting, and supervision of survey crew; surveying equipment used Trimble GPS and Geodimeter total station. Environmental Sampling - Over 6 years of sampling at 7 different sites; responsibilities include sampling of water and soil, maintenance of bioslurp remediation system, and completion of chain of custodies and other required paperwork. Construction Inspection - Over 3 years of construction inspection experience including bridge, bike trail, street, and airport runway, both asphalt and concrete; responsibilities include keeping daily records, measuring quantities, insuring compliance with plans and specifications. Stream Gauging - Over 2 years of stream gauging on 4 different river basins, including the Iowa, Des Moines, Raccoon, and Cedar rivers. Drafting - Over 2 years of drafting experience including assisting a lead drafts person on street improvement projects, plat of surveys, and corner certificate drawings. Drafting software used Microstation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS : Construction Management",
+            "school": "University of Northern Iowa",
+            "year": 2004
+        },
+        {
+            "degree": "AAS : Civil and Construction Engineering Technology",
+            "school": "Hawkeye Community College",
+            "year": 1998
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

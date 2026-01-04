@@ -1,0 +1,132 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Certified Spinning Instructor and personal trainer with the energy, skills and training necessary to keep clients motivated and moving toward their fitness goals. ACE certified Personal Trainer; CPR and First Aid certified. Proficient with Microsoft Office, team building, personable and friendly, dedicated and responsible.",
+    "skills": [
+        "acquisitions",
+        "CMS",
+        "content",
+        "contract negotiations",
+        "contracts",
+        "Contract Management",
+        "clients",
+        "database",
+        "directing",
+        "documentation",
+        "estimating",
+        "financial",
+        "government",
+        "insurance",
+        "leadership and training",
+        "managing",
+        "market",
+        "negotiation",
+        "Enterprise",
+        "Network",
+        "processes",
+        "coding",
+        "quality",
+        "quality assurance",
+        "reporting",
+        "strategic planning"
+    ],
+    "experience": [
+        {
+            "title": "Healthcare Consultant",
+            "company": "Company Name",
+            "start_date": "October 2014",
+            "end_date": "Present",
+            "description": "Network development for a new Medicare Advantage I-SNP in the northeast. Identify and contract with providers to establish a network that meets CMS time/distance standards. Subject matter expert for a study on Medicare Advantage best practices for provider engagement."
+        },
+        {
+            "title": "Cycle Instructor",
+            "company": "Company Name",
+            "start_date": "September 2012",
+            "end_date": "Present",
+            "description": "Provide a high-energy, safe indoor cycle experience for participants. Lead, motivate and push participants. Prepare new routines and new music weekly to ensure participants don't get bored or uninspired. Incorporate various types of formats into my classes (Tabata - HIIT, interval and resistance training, speed work)."
+        },
+        {
+            "title": "Provider Group Engagement Manager",
+            "company": "Company Name",
+            "start_date": "September 2012",
+            "end_date": "October 2014",
+            "description": "Responsible for establishing, maintaining and overseeing various MSO and engaged provider relationships. Oversaw and directed MSO partner activities and internal implementations in order to ensure a successful launch of a gated, referral-based provider network in the Atlanta market. Initiated and provided ongoing support and financial performance data for various strategic relationships, including MSOs, PCP practice acquisitions, direct provider engagement agreements and other clinic developments. Coordinated and provided detailed analysis, reporting, training, and education to large, engaged provider groups in order to promote improvement in clinical, quality, coding and financial performance. Successfully facilitated and implemented various initiatives with provider groups around HEDIS, STARS, etc. Served as the contact for provider risk group questions regarding financial settlement, delegation, claims adjudication and funding. Managed and directed staff of 4 Provider Network Consultants. Lead and directed the committee responsible for improving employee engagement within the Southeast Region."
+        },
+        {
+            "title": "Regional Director",
+            "company": "Company Name",
+            "start_date": "September 2010",
+            "end_date": "April 2012",
+            "description": "Network Services - Southeastern Region. Responsible for managing and directing all contracting and provider relations activities within the Southeast. Identified and executed strategies for network development and improvement. Managed and directed a regional contracting and provider relations staff. Provided in-depth knowledge of Southeastern region and participated in strategic planning. Managed and oversaw complex contract negotiations. Identified new areas for expansion by conducting in-depth market and financial analyses. Maintained positive relationships with providers and facilitated prompt resolutions to contractual issues."
+        },
+        {
+            "title": "Manager, Managed Care",
+            "company": "Company Name",
+            "start_date": "January 2004",
+            "end_date": "January 2010",
+            "description": "Negotiation and maintenance of major managed care contracts, as well as managing WellStar's credentialing department. Negotiated favorable contract language and rates to meet business targets and objectives for Georgia's largest integrated healthcare system. Increased profitability on key payor contracts, maintained relationships and resolved contract issues. Managed all credentialing department activities and staff. Implemented processes to shorten enrollment for government payors."
+        },
+        {
+            "title": "Provider Reimbursement Specialist",
+            "company": "Company Name",
+            "start_date": "January 2000",
+            "end_date": "January 2004",
+            "description": "Responsible for the implementation and quality assurance of various provider contracts. Managed internal reimbursement-related activities for multi-million dollar monthly capitation payment process, including analysis, implementation and reporting of capitation data. Collected and analyzed provider contracting data and computer system data to ensure timely and accurate reimbursement implementations. Performed quality assurance measures on reimbursement implementations. Identified and recommended system modifications to advance provider contracting strategies and best practices. Served as a capitation subject matter expert in the development of the WellPoint Enterprise Data Model."
+        },
+        {
+            "title": "Senior Analyst",
+            "company": "Company Name",
+            "start_date": "January 1997",
+            "end_date": "January 1999",
+            "description": "Responsible for the implementation of various provider contracts in Blue Cross Blue Shield of GA's computer system. Developed and distributed professional fee schedules based on Medicare rates. Produced ad hoc reports and analyses for management on reimbursement data and provider database content. Provided leadership and training to a department of ten."
+        },
+        {
+            "title": "Health Systems Analyst",
+            "company": "Company Name",
+            "start_date": "January 1997",
+            "end_date": "January 1999",
+            "description": "Responsible for the implementation of various provider contracts in Blue Cross Blue Shield of GA's computer system. Implemented preferred reimbursement methodologies and managed multiple projects in collaboration with teams to achieve results."
+        },
+        {
+            "title": "Report Specialist",
+            "company": "Company Name",
+            "start_date": "January 1996",
+            "end_date": "January 1997",
+            "description": "Responsible for reporting quality data."
+        },
+        {
+            "title": "Client Services Representative",
+            "company": "Company Name",
+            "start_date": "January 1995",
+            "end_date": "January 1996",
+            "description": "Responsible for assisting clients with authorizations and insurance questions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "school": "Kennesaw State University",
+            "year": 2000
+        },
+        {
+            "degree": "Bachelor of Science",
+            "school": "Auburn University",
+            "year": 1994
+        },
+        {
+            "degree": "Bachelor of Science",
+            "school": "Kennesaw State University",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        "Certified Spinning Instructor",
+        "ACE Certified Personal Trainer",
+        "CPR and First Aid Certified"
+    ],
+    "languages": [
+        "English"
+    ]
+}

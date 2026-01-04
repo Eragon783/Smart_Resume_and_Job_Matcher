@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Assertive, outgoing professional with ability to work independently and handle simultaneous projects. A dependable worker while skilled in problem solving, troubleshooting, great customer service and computer skills. My computer skills include Microsoft Office/Internet search engines to complete medical terminology and pharmacology verification. Inside sales department successfully managing multiple sales associates. Accurate and efficient with orders. Maintained filing for the inside sales office.",
+    "skills": [
+        "Self-directed",
+        "Excellent communication skills",
+        "Resourceful",
+        "Time management",
+        "Invoice processing",
+        "Advanced clerical knowledge",
+        "Pleasant demeanor",
+        "Understands grammar",
+        "Microsoft Office",
+        "Internet search engines",
+        "Medical terminology",
+        "Pharmacology verification",
+        "Customer service",
+        "Problem solving",
+        "Troubleshooting",
+        "Data entry",
+        "Sales support",
+        "Independent work",
+        "Healthcare industry knowledge"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "01/2005",
+            "end_date": "01/2012",
+            "description": "Responsible for booking appointments, marketing plan and providing solutions for healthcare"
+        },
+        {
+            "title": "Sales Consultant",
+            "company": "Company Name",
+            "start_date": "11/1996",
+            "end_date": "10/2004",
+            "description": "Responsible for booking appointments, creating relationships with clients and delivering products for the healthcare market"
+        },
+        {
+            "title": "Sales Department/Data Entry",
+            "company": "Company Name",
+            "start_date": "10/1992",
+            "end_date": "07/1994",
+            "description": "Provided data entry for invoicing, quoting and general sales reports for multiple sales representatives, filing for the sales department."
+        },
+        {
+            "title": "Travel Agent",
+            "company": "Company Name",
+            "start_date": "08/1990",
+            "end_date": "09/1992",
+            "description": "Responsible for booking airline, hotel, car rental and leisure."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Medical Transcription",
+            "school": "At-Home-Professions",
+            "year": 2013
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "St. Gregory's College",
+            "year": 1985
+        },
+        {
+            "degree": "Executive Secretary",
+            "school": "Oklahoma State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

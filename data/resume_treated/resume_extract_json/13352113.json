@@ -1,0 +1,104 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Licensed United Healthcare Insurance Sales Agent with a proven track record in sales, customer service, and building client relationships. Skilled in identifying customer needs, upselling and cross-selling health insurance products, meeting sales goals, and maintaining HIPAA compliance. Recognized with multiple awards for performance and client satisfaction.",
+    "skills": [
+        "Time Management",
+        "Effective Communication",
+        "Troubleshooting",
+        "Problem Solving",
+        "Cloud technology",
+        "Skype",
+        "Microsoft Office Suite",
+        "Instant Messaging",
+        "Web Chat",
+        "Negotiating",
+        "Up-sell",
+        "Cross-Sell",
+        "Outlook Email",
+        "Lotus Notes",
+        "Quicken",
+        "QuickBooks",
+        "Banking",
+        "CMS",
+        "Customer Service",
+        "Public Speaking",
+        "Information Systems",
+        "IVR",
+        "PDP"
+    ],
+    "experience": [
+        {
+            "title": "Licensed United Healthcare Insurance Sales Agent",
+            "company": "Company Name, City, State",
+            "start_date": "2014-09",
+            "end_date": "2015-10",
+            "description": "Provided services to clients changing or updating healthcare insurance needs by upselling/cross selling a variety of health insurance products (MA, MAPD, MED Sup and PDPs) to groups and individuals. Assisted with outbound campaigns, demonstrated prospecting skills, met or exceeded sales goals, delivered exceptional customer service, built new client relationships, and followed HIPAA guidelines and company policy."
+        },
+        {
+            "title": "Account Executive Sales Agent / FedEx Account",
+            "company": "Company Name, City, State",
+            "start_date": "2014-03",
+            "end_date": "2014-09",
+            "description": "Maintained and deepened existing customer relations; made outbound calls to engage customers with new products and services; increased volume from existing customers; delivered client's family of services using consultative sales approach; built valued proposals and maintained established sales processes."
+        },
+        {
+            "title": "Licensed United Healthcare Insurance Sales Agent",
+            "company": "Company Name, City, State",
+            "start_date": "2013-09",
+            "end_date": "2014-03",
+            "description": "Provided services to clients changing or updating healthcare insurance needs by upselling/cross selling health insurance products (MA, MAPD, MED Sup and PDPs) to groups and individual consumers; followed HIPAA guidelines; achieved sales goals; built rapport and trust with customers."
+        },
+        {
+            "title": "Customer Service Agent",
+            "company": "Company Name, City, State",
+            "start_date": "2013-04",
+            "end_date": "2013-09",
+            "description": "Handled pharmacy/pharmacist contacts via telephone on insurance authorization, benefits, claims; adjudicated prescription claims; determined prior authorizations or overrides; adhered to HIPAA and CMS compliance and regulations; delivered exceptional customer service in a fast-paced environment."
+        },
+        {
+            "title": "Customer Service Task Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "2006-07",
+            "end_date": "2008-08",
+            "description": "Contacted creditors and new/existing clients daily to open/update accounts; negotiated terms; processed payments; educated clients on proposals; consistently met/exceeded quota goals of 200 inbound/outbound calls daily; collaborated with customer care departments and management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Banking and Customer Service Training Certificate",
+            "school": "Wachovia Bank NA",
+            "year": null
+        },
+        {
+            "degree": "Web/IVR Certificate",
+            "school": "Wachovia Bank NA",
+            "year": "2008"
+        },
+        {
+            "degree": "Career Readiness Silver Certificate",
+            "school": "Central Piedmont Community College",
+            "year": "2013"
+        },
+        {
+            "degree": "Computer Office Information Systems Certificate",
+            "school": "Central Piedmont Community College",
+            "year": "2001"
+        },
+        {
+            "degree": "High School Equivalency Diploma",
+            "school": "Central Piedmont Community College",
+            "year": "2001"
+        }
+    ],
+    "certifications": [
+        "Banking and Customer Service Training Certificate",
+        "Web/IVR Certificate",
+        "Career Readiness Silver Certificate",
+        "Computer Office Information Systems Certificate",
+        "High School Equivalency Diploma"
+    ],
+    "languages": []
+}

@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State, United States",
+    "summary": "Energetic Personal Trainer with a background in Physical Education and Sport Training, plus exercise swimming experience. Over 10 years of one-on-one training in upscale fitness settings, with advanced knowledge in metabolic testing, nutrition and weight management. Skilled in fitness assessments, BMI and body fat analysis, fitness programming, and equipment operation. CPR and First Aid certified, AED certified, with strong teamwork, leadership and educational abilities.",
+    "skills": [
+        "Fitness assessments",
+        "BMI and body fat knowledge",
+        "Fitness equipment operation",
+        "Weight management",
+        "CPR and First Aid certified",
+        "AED certification",
+        "Anatomy understanding",
+        "Fitness programming",
+        "Material development",
+        "Team building and leadership",
+        "Health promotion",
+        "Educator and bilingual",
+        "Computer literate (Excel, PowerPoint, Word, MindBody)",
+        "Group exercise instruction",
+        "One-on-one training",
+        "Nutrition and weight management consulting",
+        "Metabolic testing knowledge"
+    ],
+    "experience": [
+        {
+            "title": "Fitness Specialist",
+            "company": "Company Name - City, State",
+            "start_date": "Aug 2015",
+            "end_date": "Mar 2016",
+            "description": "Instruct of group exercise classes. Provide one-on-one consulting, training and motivation. Perform fitness assessments, determine exercise prescriptions, and design workout programs for the clients. Contributed to a 10% increase in sales for the personal training department. Guided clients in safe exercise, taking into account individualized physical limitations. Taught clients how to modify exercises appropriately to avoid injury. Encouraged clients to engage in group fitness classes and other activities in the gym to meet fitness goals. Arrived on time, prepared and attentive for every training appointment. Administered fitness assessments, which included the seven point skin-fold body fat measurements, blood pressure and treadmill tests. Demonstrated and explained fitness program benefits to members, resulting in a 75% increase in member participation in paid classes."
+        },
+        {
+            "title": "Physical Education Teacher",
+            "company": "Company Name - City, State",
+            "start_date": "Jan 2014",
+            "end_date": "Jan 2016",
+            "description": "Contributed to the community in ludic activities. Encouraged the students to engage in FitnessGram and other activities in the gym to meet fitness goals. Demonstrated and explained fitness program benefits to members, resulting in an 80% increase in students' participation. Implemented for the entire school community the program of Health and Wellness. Implemented the A&M Nutrition Program for Schools. Member of Leader in Me (7 Habits)."
+        },
+        {
+            "title": "Physical Education Teacher and Swimming Head Coach",
+            "company": "Company Name - City, State",
+            "start_date": "Jan 2010",
+            "end_date": "Jan 2013",
+            "description": "Recruited and met with prospective student-athletes to discuss their experience and goals. Monitored the academic performance of student-athletes in addition to their athletic progress. Helped develop each participant's physical and psychological fitness. Coordinated scheduling and field and facility use with the activities office. Established and designed various cross-curriculum warm-up activities and trainings with basic skills to enhance connections between school subjects and the student athletes. Maintained accurate statistics, records and results of each season. Played an active role during parent-teacher conferences, and updated parents regularly on their child's progress in the classroom. Protected student athletes' mental, physical and nutritional; also the equipment, materials and facilities. Applied and enforce student discipline during athletic contests and practice sessions. Motivated and encouraged student athletes to do their best during practices and games. Communicated effectively with parents and Boosters, including organizing and leading meetings."
+        },
+        {
+            "title": "Strength and Conditioning Trainer and Assistant Coach of Swimming",
+            "company": "Company Name - City, State",
+            "start_date": "Jan 2005",
+            "end_date": "Jan 2011",
+            "description": "Performed fitness assessments, determine exercise prescriptions, and design workout programs for all the team members. Arrived on time, prepared and attentive for every training. Administered fitness assessments, which included the seven point skin-fold body fat measurements, blood pressure and treadmill tests. Instruct of group exercise classes. Assistant coach of swimming program in the American University. Perform administrative tasks associated with facility operations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Ph. Ed , Sport Training",
+            "school": "University of Turabo",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor in Arts of Education , Physical Education",
+            "school": "American University of Puerto Rico",
+            "year": 2008
+        }
+    ],
+    "certifications": [
+        "CPR and First Aid certified",
+        "AED certification"
+    ],
+    "languages": [
+        "Bilingual"
+    ]
+}

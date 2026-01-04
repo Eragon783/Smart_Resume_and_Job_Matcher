@@ -1,0 +1,50 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "15 years of experience in accounts receivable and accounts payable and related accounting functions. Detail-oriented, with strong communication, problem solving, confidentiality, and ability to work in teams or independently. Experienced in treasury operations, bank reconciliations, and year-end close processes.",
+    "skills": [
+        "accounting",
+        "accounting manager",
+        "accounting system",
+        "accounts payable",
+        "accounts receivable",
+        "auditing",
+        "bank reconciliations",
+        "cash receipts",
+        "documentation",
+        "email",
+        "financial",
+        "mail",
+        "payables",
+        "processes",
+        "spreadsheets",
+        "treasury",
+        "year-end",
+        "phone"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name, City, State",
+            "start_date": null,
+            "end_date": null,
+            "description": "Conducted analysis to address issues which led to positive outcomes. Increased sales by 17% over a two-year period. Provided onsite training. Monitored multiple databases to track company inventory. Led key projects with positive outcomes. Handled accounts payable and accounts receivable processes; cash receipts, wire transfers, and ACH; prepared journal entries including foreign wire transfers and foreign cash receipts; performed bank reconciliations; ensured year-end closings were smooth; liaised with brokers, banks, treasury operations and other finance staff; maintained documentation for audits."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate Degree in Accounting",
+            "school": "National Education Center",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science in Accounting",
+            "school": "University of Kerala",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

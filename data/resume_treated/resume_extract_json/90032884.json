@@ -1,0 +1,86 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To utilize the knowledge and experience to obtain a management level position in an organization; leveraging my abilities to increase the success of the organization that in return allows advancement and personal achievement.",
+    "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Self-starter",
+        "Detail Oriented",
+        "Problem Solving",
+        "Multitasking",
+        "Adaptability",
+        "Work Under Pressure",
+        "Construction",
+        "Concrete",
+        "Loader",
+        "Framing",
+        "Sheetrock",
+        "Cabinets",
+        "Finishing",
+        "Roofing",
+        "Read Blueprints",
+        "Safety"
+    ],
+    "experience": [
+        {
+            "title": "Laborer",
+            "company": "Company Name",
+            "start_date": "2015-02",
+            "end_date": "Present",
+            "description": "Laborer duties consisted of forming and pouring concrete for sidewalks, floors, commercial parking lots and walls. Able to load and unload material, grading and digging while operating a skid loader. Maintained a level of safety and completed projects on time. Read and understand blueprints and implement onsite changes as required at Nehring."
+        },
+        {
+            "title": "Engineer",
+            "company": "United States Army",
+            "start_date": "2007-03",
+            "end_date": "2015-04",
+            "description": "Main duties included management and motivation of 13 soldiers, development of discipline and giving direction. Project management responsibilities included signing and maintaining over 1 million dollars worth of tools and equipment, project/task follow through, and responsibility for project completion. Deployment responsibilities included safety of soldiers, project completion within specified deadlines and intense attention to detail. While deployed to Guantanamo Bay, Cuba I maintained and oversaw construction expansion projects for a multi million-dollar security facility. Construction oriented duties required knowledge of construction tasks, preparation of projects and layouts and the ability to meet deadlines."
+        },
+        {
+            "title": "Carpenter",
+            "company": "Nissen Construction",
+            "start_date": "2006-07",
+            "end_date": "2006-07",
+            "description": "Duties included construction activities including framing, hanging sheetrock, building cabinets and roofing. Customized project work included trim work, decks, stairs and handrail, finishing basements and customizing kitchens."
+        }
+    ],
+    "education": [
+        {
+            "degree": "A.A.S Building Construction",
+            "school": "Southeast Community College",
+            "year": 2007
+        },
+        {
+            "degree": "Basic Combat Training – Military Advanced Individual Training – Engineering",
+            "school": "Naval Construction Training Center",
+            "year": 2007
+        },
+        {
+            "degree": "Honor Graduate, Basic Combat Training",
+            "school": "Naval Construction Training Center, Gulfport, MS",
+            "year": 2007
+        }
+    ],
+    "certifications": [
+        "Army Commendation Medal",
+        "Army Achievement Medal",
+        "Good Conduct Medal",
+        "Noncommissioned Officer Academy Ribbon",
+        "Certificate of Achievement",
+        "Van Autreve Award",
+        "Runner-up",
+        "Silver De Flury Army Service Ribbon",
+        "National Defense Service Ribbon",
+        "North Atlantic Treaty Organization Ribbon",
+        "Afghanistan Campaign Medal",
+        "Overseas Ribbon",
+        "Overseas Expeditionary Ribbon",
+        "Combat Action Badge"
+    ],
+    "languages": [
+        "English"
+    ]
+}

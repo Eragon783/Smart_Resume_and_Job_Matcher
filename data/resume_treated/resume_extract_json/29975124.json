@@ -1,0 +1,135 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Information Technology professional with 20+ years of experience working in various roles. Possesses written and verbal communication skills and excellent interpersonal and leadership skills.",
+    "skills": [
+        "application development",
+        "Lotus Approach",
+        "Asset Management",
+        "Billing systems",
+        "data collection",
+        "DBA",
+        "databases",
+        "database",
+        "XML",
+        "FTP",
+        "GIS",
+        "HP-UX",
+        "HTML",
+        "PHP",
+        "Crystal Reports",
+        "ITIL v",
+        "Access",
+        "SharePoint",
+        "Windows",
+        "Windows 95",
+        "Windows NT",
+        "migration",
+        "Enterprise",
+        "Network",
+        "Oracle",
+        "Oracle 7.3",
+        "Oracle 8",
+        "Oracle database",
+        "PL/SQL",
+        "OS/2",
+        "Pro C",
+        "C",
+        "C++",
+        "Programming",
+        "Project Management",
+        "Reading",
+        "reporting",
+        "requirements gathering",
+        "scanning",
+        "scheduling",
+        "Servers",
+        "scripts",
+        "Shell Scripting",
+        "Software Development",
+        "SQL",
+        "SQL Server",
+        "Sybase SQL Server",
+        "System Administration",
+        "system configuration",
+        "tables",
+        "taxes",
+        "Desktop support",
+        "Uniface 5.2",
+        "Uniface 6.1",
+        "UNIX",
+        "Unix Shell scripts",
+        "upgrades",
+        "upgrade",
+        "Visual Basic"
+    ],
+    "experience": [
+        {
+            "title": "Experience Consultant",
+            "company": "Company Name – City , State",
+            "start_date": "05/2017",
+            "end_date": "Current",
+            "description": "Managed project schedule and local and remote staff to collect Water Main data and update GIS system. Develop business process and productivity reports to manage field book scanning project and Water Main data collection project. Provide Application support for CIS, Infor CMMS, and Neptune AMR applications. Maintained SharePoint site for I/T department. Assist Desktop support team with desktop and application user issues. Developed secure FTP scripts during implementation of CIS and AMR applications after Ransomware attack."
+        },
+        {
+            "title": "Utility Solutions Consultant",
+            "company": "Company Name – City , State",
+            "start_date": "02/2006",
+            "end_date": "04/2017",
+            "description": "Install and configured Cityworks CMMS application, including XML modifications. Led configuration requirements gathering effort for Cityworks application implementation. Prepared and provided training for CIS, Meter Reading software, and CMMS applications. Provided Application support for CIS, CMMS, and AMR applications. Developed data import file layouts and Crystal Reports for Lucity CMMS application. Performed system configuration for Lucity CMMS application. Installed and configured Infor Enterprise Asset Management 11.1 application and SQL Server database. Led System Administration team to design and configure user security for Infor Public Sector application. Led configuration requirements gathering effort for Infor Public Sector application upgrade. Provide Application support for CIS, CMMS, and AMR applications. Assisted the City of Cleveland with the installation of their AMI Fixed Network. Developed the Residential AMI Meter Deployment schedule for City of Cleveland AMI Project. Led team to manage data interfaces between City of Atlanta and Contractor systems during the AMR replacement program. Develop business process and reports to manage Automated Meter Reading meter replacement program for City of Atlanta, Bureau of Drinking Water."
+        },
+        {
+            "title": "CEO/Consultant",
+            "company": "Company Name – City , State",
+            "start_date": "02/2000",
+            "end_date": "02/2006",
+            "description": "Managed Griffin Technology Group budget, taxes, expenses and contracts Hired and managed employees, including scheduling client appointments for on-site PC support service. Developed Crystal Reports for client management team to manage business within the Customer Information System. Installed and configured Crystal Info Server 7. Developed PL/SQL views to handle difficult data issues in reporting. Gathered requirements for management reports, application changes, and tracking software. Developed new applications using Access and Visual basic for Application for clients to track new projects. Provided Application Support for Maximo, Maintenance Management Software and CSTAR, Customer Information System. Assisted System Administrators in infrastructure upgrades and daily administration of HP-UX Servers."
+        },
+        {
+            "title": "Information Technology Consultant",
+            "company": "Company Name – City , State",
+            "start_date": "10/1999",
+            "end_date": "12/1999",
+            "description": "Developed new PL/SQL Stored Procedures and Functions to build financial summary data. Developed SQL queries against Oracle 8 database."
+        },
+        {
+            "title": "Information Technology Consultant",
+            "company": "Company Name – City , State",
+            "start_date": "08/1999",
+            "end_date": "10/1999",
+            "description": "Created a new system functionality using Pro C code. Modified existing program to fix errors with other processes. Worked with DBA to build Oracle triggers and procedures and test programs."
+        },
+        {
+            "title": "Information Technology Consultant",
+            "company": "Company Name – City , State",
+            "start_date": "05/1998",
+            "end_date": "07/1999",
+            "description": "Maintained and Enhanced C and Uniface program code and Unix Shell scripts. Developed new application development environment for future MMI software development. Developed new process to replace outdated or broken processes."
+        },
+        {
+            "title": "Information Technology Specialist",
+            "company": "Company Name – City , State",
+            "start_date": "04/1996",
+            "end_date": "04/1998",
+            "description": "Provided development services to client at client's site. Developed management reports using GQL\\User and Sybase SQL Server database in OS/2 environment. Developed reports database using Lotus Approach 96 in Windows 95 environment. Modified and maintained Uniface 6.1 Code in the Windows NT environment, during migration from Uniface 5.2 in OS/2 environment."
+        },
+        {
+            "title": "Senior Programmer",
+            "company": "Company Name – City , State",
+            "start_date": "03/1994",
+            "end_date": "04/1996",
+            "description": "Develop and maintain application using Uniface 5.2, Oracle 7.3, and image software PowerImage. Maintained an Oracle database, including creating new tables and triggers and Application Support. Led sessions with users to collect requirements, develop new features and improve current features of application."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "school": "GEORGIA INTITUTE OF TECHNOLOGY",
+            "year": 1993
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

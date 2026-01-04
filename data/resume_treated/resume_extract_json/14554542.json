@@ -1,0 +1,126 @@
+{
+    "name": "Mr. Roshto",
+    "email": null,
+    "phone": null,
+    "location": "Virginia Beach, VA",
+    "summary": "Over 29 years of progressive experience in electrical, communications, electronics, and telecommunications, with extensive leadership as Technical Team Lead for USCG shipboard VHF antenna upgrades, DGPS/NDGPS installations, EMI/EMC program support, and shipboard maintenance. Proven ability to lead installation teams, coordinate with clients and inspectors, develop technical documentation, and deliver systems upgrades across multiple vessel classes (225' WLB, 175' WLM, 87' WPB).",
+    "skills": [
+        "automotive",
+        "basic",
+        "broadcast",
+        "cables",
+        "cable",
+        "cabling",
+        "carpentry",
+        "chill",
+        "CA",
+        "conversion",
+        "Council",
+        "SC",
+        "Direction",
+        "documentation",
+        "electrical systems",
+        "electronics",
+        "equipment installation",
+        "experimentation",
+        "FAX",
+        "forms",
+        "government",
+        "GPS",
+        "HVAC",
+        "inspecting",
+        "Inspection",
+        "laboratory testing",
+        "leadership",
+        "team leadership",
+        "Team Lead",
+        "team leader",
+        "lighting",
+        "Logic",
+        "Maple",
+        "mechanical",
+        "Navy",
+        "NDS",
+        "Network",
+        "OSS",
+        "personnel",
+        "plumbing",
+        "Positioning",
+        "Power Supply",
+        "power supplies",
+        "quality",
+        "Radio",
+        "recording",
+        "San",
+        "scheduling",
+        "sorting",
+        "technical documentation",
+        "Technician V",
+        "telecommunications",
+        "transmission",
+        "troubleshooting",
+        "UHF",
+        "upgrades",
+        "upgrade",
+        "VHF",
+        "Video",
+        "welder",
+        "welding",
+        "written communications"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Technician V",
+            "company": "Company Name, City, State",
+            "start_date": "04/1996",
+            "end_date": "07/2015",
+            "description": "Provided technical leadership for USCG shipboard VHF antenna upgrades and installations on 225' Seagoing Buoy Tenders (WLB), 175' Coastal Buoy Tenders (WLM), and 87' Coastal Patrol Boats (WPB). Led relocation and installation of VHF antennas, coordinated and led prototype relocation efforts, and contributed to design and development of antenna relocation projects. Managed scheduling, field testing, and documentation for EMC-EMI program support, including PMT, PITCO, and SOVT activities. Led DGPS/NDGPS installations, installation of electrical systems, cabling, and tower/antenna work; supervised installation teams at multiple DGPS sites, ensuring quality control and safe operations. Developed technical documentation, conducted site surveys, prepared field support reports, and delivered final technical documentation and trip reports. Coordinated with USCG C4IT Service Center and vessel personnel for on-site activities and ensured proper post-installation verification."
+        },
+        {
+            "title": "Maintenance Technician",
+            "company": "Company Name, City, State",
+            "start_date": "08/1995",
+            "end_date": "04/1996",
+            "description": "Installed electrical systems for various equipment and conveyors; participated in facility setup for automotive seating production; supervised the maintenance department second shift as production began; maintained electrical and mechanical systems, conveyors, and PLCs; fabricated tools and installed fixtures to aid production."
+        },
+        {
+            "title": "Installation Technician",
+            "company": "Company Name, City, State",
+            "start_date": "09/1991",
+            "end_date": "08/1995",
+            "description": "Installed electrical systems at shore and ship sites; installed computer equipment and associated cables; deployed Joint Operational Tactical Systems and Combat Direction System on ships and shore facilities; performed overhaul and maintenance of Optical Surveillance systems; led design and installation efforts for Coast Guard DGPS Radio Beacon Transmitter sites; maintained facilities, performed sheet metal fabrication and installation, installed raised computer floors, and supported HVAC, plumbing, and carpentry tasks; installed and maintained various conduits, cable trays, and ductwork."
+        },
+        {
+            "title": "Electrical/Mechanical Foreman",
+            "company": "Company Name, City, State",
+            "start_date": "01/1985",
+            "end_date": "01/1991",
+            "description": "Installed commercial/industrial electrical systems including uninterruptible power supplies, motor generators, and switching systems; performed installation, troubleshooting, and repair of production equipment and conveyors; installed small package sorting systems and interfaced with outbound computer manifests; supported in-house personnel at QVC Network, Hills Bros. Coffee, and Allied Colloids with installation and maintenance of equipment and facilities."
+        },
+        {
+            "title": "Electrical Apprentice",
+            "company": "Company Name, City, State",
+            "start_date": "01/1983",
+            "end_date": "01/1985",
+            "description": "Supported commercial, industrial, and residential electrical installations; performed basic troubleshooting."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma",
+            "school": "Norview High School",
+            "year": 1988
+        },
+        {
+            "degree": "Electrical Apprenticeship",
+            "school": "Virginia Apprenticeship Council",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "TOP SECRET security clearance"
+    ],
+    "languages": [
+        "English"
+    ]
+}

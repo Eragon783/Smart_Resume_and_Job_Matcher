@@ -1,0 +1,87 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Sales professional with extensive experience in merchandising, customer service, POS operations, cash handling, and inventory control. Proven ability to train staff, meet sales targets, and ensure store security and smooth operations.",
+    "skills": [
+        "Sales",
+        "Marketing",
+        "Cash",
+        "Customer Service",
+        "Point Of Sale",
+        "POS Systems",
+        "Receptionist",
+        "Retail Sales",
+        "Cash Register",
+        "Closing",
+        "Credit",
+        "Effective Sales",
+        "Generate Sales",
+        "Incentive Programs",
+        "Inventory",
+        "Inventory Control",
+        "Merchandising",
+        "Operations",
+        "Payments",
+        "Reconciliation",
+        "Sales Techniques",
+        "Training",
+        "Administrative Assistant",
+        "Cash Handling",
+        "Excel",
+        "Communication",
+        "File Systems",
+        "Front Desk",
+        "Greeting",
+        "Microsoft Office",
+        "Telephone",
+        "Cashier",
+        "Client Relations",
+        "Security"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "October 2014",
+            "end_date": "Present",
+            "description": "Supported store merchandising, supervised sales staff in the absence of management, delivered customer service excellence, trained sales staff, managed cash handling and POS transactions, and maintained inventory control and security system operations."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "March 2014",
+            "end_date": "February 2015",
+            "description": "Assisted with merchandising, supervised sales staff, provided customer service, ensured store readiness, trained staff on policies and selling techniques, managed cash handling and POS transactions."
+        },
+        {
+            "title": "Team Member/Cashier",
+            "company": "Company Name",
+            "start_date": "February 2013",
+            "end_date": "December 2013",
+            "description": "Participated in incentive programs, performed cash and card transactions, opened/closed the store, and operated POS systems; collaborated with team to achieve objectives."
+        },
+        {
+            "title": "Administrative Assistant/Receptionist",
+            "company": "Company Name",
+            "start_date": "August 2011",
+            "end_date": "January 2013",
+            "description": "Managed front desk and reception area, drafted meeting agendas, maintained electronic and physical files, handled high-volume communications, and supported office operations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Communications",
+            "school": "University Of Phoenix",
+            "year": "2018"
+        },
+        {
+            "degree": "BA in Communications - Marketing And Sales",
+            "school": "University Of Phoenix",
+            "year": "2014-2018"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

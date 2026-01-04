@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Lead Accountant with extensive experience in financial accounting, budgeting and financial analysis, financial reporting, internal controls and Sarbanes-Oxley compliance. Proficient in revenue recognition, contract review, billing automation, cash flow improvement and external audit support; skilled with ERP and reporting tools including QuickBooks, Peachtree, MAS 90, Great Plains, Hyperion, Essbase, Crystal Reports and MS Office.",
+    "skills": [
+        "QuickBooks",
+        "Peachtree",
+        "In-house Accounting Systems",
+        "MAS 90",
+        "FAR",
+        "WAWF",
+        "Great Plains",
+        "Integration Manager",
+        "FRx reporting",
+        "Hyperion",
+        "Hyperion Workspace",
+        "Hyperion Planning",
+        "Hyperion Enterprise",
+        "Essbase",
+        "Schedules and Reports",
+        "Crystal Reports",
+        "MS Office",
+        "Excel",
+        "Accounting",
+        "Financial Accounting",
+        "Financial Reporting",
+        "Financial Statements",
+        "Database Management",
+        "Budgeting",
+        "Budgets",
+        "Forecasting",
+        "Trend Analysis",
+        "Strategic Planning",
+        "Cash-Flow Analysis",
+        "Variance Analysis",
+        "Sarbanes-Oxley",
+        "Research",
+        "Compliance",
+        "Internal Controls",
+        "Auditing",
+        "Revenue Recognition",
+        "Billing",
+        "Contracts",
+        "Tax Preparation",
+        "GAAP",
+        "General Ledger",
+        "Fixed Assets",
+        "Depreciation",
+        "Reconciliation",
+        "ERP"
+    ],
+    "experience": [
+        {
+            "title": "Lead Accountant",
+            "company": "Company Name",
+            "start_date": "November 2011",
+            "end_date": "Current",
+            "description": "Experience in various areas including, but not limited to: operating budgets, financial analysis/planning, financial statements and reporting, accounting policies and procedure, cash flow, taxes, auditing, and business process improvements. Lead and develop methods and implement revenue test models for complex billing structures. Lead external financial audits; support billing automation; improve cash flows; ensure revenue recognition and compliance with GAAP, Federal and State law."
+        },
+        {
+            "title": "Senior Accountant",
+            "company": "Company Name",
+            "start_date": "September 2006",
+            "end_date": "October 2011",
+            "description": "Compiled and analyzed financial data used in the preparation of corporate financial statements. Supported business operations through KPI and trend analysis. Maintained internal controls over financial reporting and assisted with audits; managed closing schedules; monitored fixed assets and depreciation; prepared budgets and forecasts."
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "March 2006",
+            "end_date": "August 2006",
+            "description": "Performed monthly closing cycle, prepared and analyzed financial statements and management reports; maintained internal controls; reconciled P&L, inventory, and escrow analyses; assisted with Sarbanes-Oxley, SEC compliance and tax procedures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Accounting and Business Administration",
+            "school": "University of Maryland University College",
+            "year": 2005
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

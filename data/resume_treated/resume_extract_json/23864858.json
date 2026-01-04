@@ -1,0 +1,88 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Digital Marketing Manager with extensive experience in SEM, display, retargeting and affiliate marketing, complemented by strong data analysis, dashboarding and cross-functional collaboration. Proficient in Excel, Google Analytics, IBM Coremetrics, MicroStrategy, Salesforce, and marketing automation tools.",
+    "skills": [
+        "Lisp",
+        "HTML",
+        "SQL",
+        "VBA",
+        "Microsoft Word",
+        "Excel",
+        "Pivot table",
+        "Vlookup",
+        "Access",
+        "PowerPoint",
+        "Sharepoint",
+        "Salesforce",
+        "Google Analytics",
+        "IBM Coremetrics",
+        "Microstrategy",
+        "Infoview",
+        "Basecamp",
+        "YouTube Analytics",
+        "Facebook Analytics",
+        "Sitespect",
+        "SEO",
+        "Statistics",
+        "Behavioral Psychology",
+        "SEM",
+        "Affiliate Marketing",
+        "Display Advertising",
+        "Retargeting",
+        "Adwords",
+        "A/B Testing",
+        "Multivariate Testing",
+        "Landing Page Optimization",
+        "Campaign Management",
+        "Budgets",
+        "CPC",
+        "CPA",
+        "CPM",
+        "SiteCatalyst",
+        "Omniture",
+        "Dashboards",
+        "Reporting"
+    ],
+    "experience": [
+        {
+            "title": "Digital Marketing Manager",
+            "company": "Company Name",
+            "start_date": "2012-08",
+            "end_date": "2016-01",
+            "description": "Grew the combined SEM, display, retargeting and affiliate marketing channel by 15% in membership this past year, resulting in an increase of $20 million in lifetime value. Launched acquisition and brand awareness campaigns with marketing partners (Affiliate, Retargeting, SEM Adwords, Facebook, etc.), segmented by market. Optimized campaigns across channels to lower CPA and increase ROI. Collaborated with pricing and creative teams to create/replace creatives aligned with marketing strategies. Worked with partners to understand and compete with competitors' strategies. Maintained budgets and negotiated prices/bonuses with new/existing marketing partners. Exported data from partner systems; created dashboards in Excel to highlight campaign KPIs (CPA, CPC, CPM). Used PowerPoint to present KPI, ROI and recommendations. Managed an associate and implemented A/B and multivariate tests with Sitespect to optimize landing pages, channels and messaging, increasing conversions by 10%. Analyzed metrics (CTR, Conversion Rate, funnel conversion, LTV) with IBM Coremetrics and Google Analytics."
+        },
+        {
+            "title": "Affiliate Marketing Manager",
+            "company": "Company Name",
+            "start_date": "2009-04",
+            "end_date": "2012-07",
+            "description": "Managed and monitored daily affiliate performance; optimized campaigns by adjusting creative, landing pages and offers, resulting in a 10% revenue increase. Negotiated with affiliate networks to optimize CPC/CPM/CPA costs. Used SiteCatalyst/Omniture for daily and weekly reporting and analysis. Built partnerships with high-traffic affiliates; collaborated with creative teams to craft timely, relevant creatives; ran A/B and multivariate tests to identify high-converting landing pages. Analyzed historic performance and developed new business models such as up-selling; worked with technical teams to resolve reporting and application issues."
+        },
+        {
+            "title": "Business Intelligent Analyst",
+            "company": "Company Name",
+            "start_date": "2006-07",
+            "end_date": "2009-04",
+            "description": "Increased call volume by 18% and revenue by 10% by mining data with SQL across multiple databases and Salesforce. Built ad hoc reports with Business Objects Infoview to track impressions, searches, clicks, CTR and revenue. Created live dashboards and designed A/B tests to measure product enhancements. Presented KPI and forecasts to management; identified online product enhancements to improve search relevancy and CTR."
+        },
+        {
+            "title": "Loan Processor/Analyst",
+            "company": "Company Name",
+            "start_date": "2004-07",
+            "end_date": "2006-06",
+            "description": "Validated and verified loan application information; reconciled data against systems; analyzed supporting documentation via Automated Underwriting System. Assessed completeness and accuracy of loan packages; calculated and analyzed debt-to-income ratios. Coordinated with customers and internal teams to close loans; verified funds to close."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Cognitive Science Computational Modeling",
+            "school": "University of California",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

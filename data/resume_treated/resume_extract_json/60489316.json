@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Malaysia",
+    "summary": "Experienced Solution Architect and System z Mainframe Technology Evangelist with over 12 years of IT industry experience focusing on large Banking & Financial Services and Government clients across the ASEAN region. Proven track record of delivering high performance and result-oriented work with exceptional management and consultative selling skills. Demonstrated ability to work independently or as a team player on various projects. Fast learner - Good analytical - Innovative - Goal-oriented - Flexible.",
+    "skills": [
+        "SOA",
+        "Enterprise Application Integration (EAI)",
+        "BPM",
+        "Cloud",
+        "Mobility",
+        "WebSphere",
+        "Rational Enterprise Modernization",
+        "DevOps",
+        "Core Banking",
+        "Capacity Planning",
+        "System z upgrade",
+        "System z (Mainframe) OS - z/OS",
+        "Linux",
+        "CICS",
+        "COBOL",
+        "PL/I",
+        "PL/SQL",
+        "EGL",
+        "DB2",
+        "Oracle",
+        "IDMS/ADSO",
+        "MQ",
+        "ESB",
+        "Message Broker",
+        "Business Rules Management",
+        "Mobile",
+        "WAS",
+        "Web 2.0",
+        "IBM Rational RDz",
+        "RAA",
+        "RBD-EGL",
+        "RTCz",
+        "Quality Management"
+    ],
+    "experience": [
+        {
+            "title": "Manager, Advisory, Performance Improvement",
+            "company": "Company Name – City, State",
+            "start_date": "2014-10",
+            "end_date": "Present",
+            "description": "GST implementation project in RHB Group in Malaysia."
+        },
+        {
+            "title": "Client Solution Architect",
+            "company": "IBM Software Group, ASEAN",
+            "start_date": "2008-05",
+            "end_date": "2014-10",
+            "description": "Led new solution/workload initiatives in key accounts; translated business requirements into IT solutions; oversaw delivery; specialized in enterprise modernization and integration of legacy systems and middleware (ESB, BPM, Cloud Computing, Mobility) for Financial Services and Government across ASEAN; supported demos/POCs/workshops and advised on governance and optimization."
+        },
+        {
+            "title": "Core Banking Consultant",
+            "company": "Company Name – City, State",
+            "start_date": "2007-05",
+            "end_date": "2008-05",
+            "description": "Led technical design for ICBA core banking solution; prepared functional requirements; supported deposits/trade finance/treasury/remittances/GL modules; assisted in deployment and delivery of ICBA-based banking solutions."
+        },
+        {
+            "title": "System Analyst",
+            "company": "Company Name – City, State",
+            "start_date": "2003-06",
+            "end_date": "2007-01",
+            "description": "Developed and maintained Core Banking system on the mainframe; specialized in Core Payment Systems (SWIFT, RENTAS, Interbank GIRO); led Foreign Bills Collection/Mobile Banking projects; team lead for Auto Payments System; performed analysis, design, coding, testing, and documentation; contributed to New Core Banking Replacement project; evaluated vendors and technologies; supported training and knowledge transfer."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science (Majoring in Software Engineering)",
+            "school": "University of Malaya",
+            "year": 2003
+        }
+    ],
+    "certifications": [
+        "IBM Certified IT Specialist (2012)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

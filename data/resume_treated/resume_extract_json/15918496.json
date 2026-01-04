@@ -1,0 +1,109 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "SALES Summary Focused and dedicated insurance professional motivated to provide superior customer service and drive sales through cold calling, referrals and strategic outside marketing activities. Highlights Self-motivated Driven Clear and articulate phone manner Cheerful and energetic Dependable Property and casualty products Exceptional interpersonal skills Excellent communication skills Strong sales-closer Cold calling Accomplishments Consistently qualify for sales bonuses by exceeding sales targets by items as well as monetary goals.",
+    "skills": [
+        "Honest",
+        "Reliable",
+        "Driven",
+        "Enthusiastic",
+        "People person",
+        "Self-motivated",
+        "Clear and articulate communication",
+        "Cheerful and energetic",
+        "Dependable",
+        "Property and casualty insurance",
+        "Exceptional interpersonal skills",
+        "Excellent communication skills",
+        "Strong sales closer",
+        "Cold calling"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Company Name",
+            "start_date": "2015-02",
+            "end_date": "2015-12",
+            "description": "Exceeded sales goals to 24,000 in one month's time. Generated new leads weekly. Contacted new and existing customers to discuss how their needs could be met with specific products and services. Responded to all customer inquiries in a timely manner. Retained policyholders during annual renewal period. Interviewed prospective clients to learn about their financial needs and to discuss any existing coverage."
+        },
+        {
+            "title": "Marketing / Cold Calls",
+            "company": "Company Name",
+            "start_date": "2014-10",
+            "end_date": "2015-02",
+            "description": "Marketing, telemarketing personal and commercial lines. Generated new leads weekly. Developed life insurance and commercial insurance leads to meet monthly sales targets."
+        },
+        {
+            "title": "Receptionist, Telemarketer, Marketing",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "2014-10",
+            "description": "Implemented a consultative selling approach on all inbound calls. Acted as a liaison between inside representative with personal and commercial lines. Implemented a consultative selling approach on all inbound calls. Processed applications, payments, corrections, endorsements and cancellations. Called warm leads each week to expand client base."
+        },
+        {
+            "title": "Cold Calls",
+            "company": "Company Name",
+            "start_date": "2012-11",
+            "end_date": "2014-01",
+            "description": "Called hundreds of warm leads each week to expand client base."
+        },
+        {
+            "title": "Clerical, Claims Representative, Retention Officer",
+            "company": "Company Name",
+            "start_date": "2009-05",
+            "end_date": "2011-11",
+            "description": "Implemented a consultative selling approach on all inbound calls. Promoted client retention through high-quality service and follow through. Maintained detailed account records and contact logs. Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Maintained the front desk and reception area in a neat and organized fashion. Served as central point of contact for all outside vendors needing to gain access to the building. Planned meetings and prepared conference rooms. Created weekly and monthly reports. Dispersed incoming mail to correct recipients throughout the office."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "2007-05",
+            "end_date": "2009-08",
+            "description": "Delivered excellent customer service by greeting and assisting each customer. Addressed customer inquiries and resolved complaints. Stocked and restocked inventory when shipments were received. Directed and supervised employees engaged in sales, inventory-taking and reconciling cash receipts. Completed a series of training sessions to advance from Assistant Manager to Store Manager. Maintained daily record of all transactions. Trained staff to deliver outstanding customer service."
+        },
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "2007-08",
+            "end_date": "2008-03",
+            "description": "Routinely met with students' parents regarding in-class issues and learning interruptions to discuss solutions. Received high remarks for the creativity of classroom lesson plans and instructional techniques from students, parents and faculty. Created and enforced child-based hands-on curriculum to promote student interest and receptive learning. Designed lesson plans focused on age and level-appropriate material."
+        },
+        {
+            "title": "Teacher",
+            "company": "City , State",
+            "start_date": "2006-08",
+            "end_date": "2007-05",
+            "description": "Promoted good behaviors by using the positive reinforcement method. Established a safe play environment for the children. Supervised children on field trips to local parks, fire stations and zoos. Encouraged children to be understanding of others. Maintained a child-friendly environment with access to outdoor activities."
+        },
+        {
+            "title": "Teacher",
+            "company": "City , State",
+            "start_date": "2004-08",
+            "end_date": "2006-05",
+            "description": "Combined discipline plan with effective measures and various lesson plans to increase concentration, participation, and progress student accountability. Received high remarks for the creativity of classroom lesson plans and instructional techniques from students, parents and faculty."
+        },
+        {
+            "title": "Asst. Testing Administrator / Youth Opportunity Asst",
+            "company": "Company Name",
+            "start_date": "1998-09",
+            "end_date": "2001-12",
+            "description": "Maintained regularly-scheduled office hours to advise and assist students. Established course websites to make updated handouts and other resources available to students at all times. Proctored exams of all kinds. Introduced students to the concepts of college writing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Education",
+            "school": "Hyles Anderson College",
+            "year": "1986"
+        },
+        {
+            "degree": "Bachelor's Degree in Education",
+            "school": "Bob Jones University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

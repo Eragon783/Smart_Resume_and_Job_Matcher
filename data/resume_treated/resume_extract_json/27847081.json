@@ -1,0 +1,64 @@
+{
+    "name": "Jocelyn",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "HR Specialist with over 10 years of experience in recruitment, reference checks, onboarding, HR systems administration, policy compliance, and employee development; strong organizational skills and data integrity.",
+    "skills": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Outlook",
+        "Theories of Human Communication",
+        "Oral Communication",
+        "Customer Service",
+        "Resolves Customer Problems",
+        "Detail-Oriented",
+        "Writing Skills",
+        "Employee relations",
+        "Manager coaching and training",
+        "Payroll expertise",
+        "Interpersonal Skills",
+        "Staffing and recruiting professional",
+        "Project management",
+        "Budget management",
+        "Purchasing",
+        "Excellent time management",
+        "Proficient in MS Office",
+        "Fast learner"
+    ],
+    "experience": [
+        {
+            "title": "HR Specialist/ Horizontal Engineer",
+            "company": "Company Name",
+            "start_date": "2007-09",
+            "end_date": "Current",
+            "description": "Carried out all recruitment processes including head-hunting, reaching potential candidates by telephone/email, applicants' resume screening, interviewing applicants, processed background checks, shortlisting, finalizing hiring and closing vacancies. Carried out employee orientations and processed new hire paperwork, ensuring compliance with company requirements on time. Created, organized, updated and maintained personnel files and the HR database. Managed and coordinated employee training and development programs. Communicated with management and executives for creation, refreshing and/or interpreting policy changes. Provided administrative support for all HR functions, including filing, copying, general correspondence and support/preparation for meetings, trainings, orientations, executive travelling, etc. Analyze the information on grade stakes and placing them. Drive bulldozers, road graders and other heavy equipment to level earth. Clear, grub, strip, excavate, backfill, stockpile and push scraper with tractor crawler. Developed new process for employee evaluation which resulted in marked performance improvements. Obtained documents, clearances, certificates and approvals from local, state and federal agencies."
+        },
+        {
+            "title": "Shipping Clerk",
+            "company": "Company Name",
+            "start_date": "2015-03",
+            "end_date": "Current",
+            "description": "Read customer order, work order, shipping order or requisition to determine items to be moved. Go-to person throughout site departments to answer questions and resolve issues associated with shipping processes. Utilizing organizational and communication skills to train new hires on shipping operations and give progress reports to area supervisor. Gathered information via SAP system and checked for accurate data to give nightly reports to team as well as supervisors."
+        },
+        {
+            "title": "Lead/Report Specialist",
+            "company": "Company Name",
+            "start_date": "2014-07",
+            "end_date": "2015-01",
+            "description": "Performed financial data analysis and implemented improved reporting tools. Prepared presentations and developed project plans. Automated manual data processes with help of macros. Collected useful information related to customers, suppliers and industry. Transformed data into charts and graphs for easier analysis and interpretation. Drafted proposals and created web analytics report."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Business Administration",
+            "school": "Grantham University",
+            "year": 2018
+        }
+    ],
+    "certifications": [
+        "Human Resource (2008)"
+    ],
+    "languages": []
+}

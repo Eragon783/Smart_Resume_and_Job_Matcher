@@ -1,0 +1,44 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Attentive Automobile Service Manager with comprehensive knowledge of the automobile industry. Adept at providing an optimal level of customer support that includes speedy resolutions to customer service issues. Specialize in managing an able staff to meet customer expectations.",
+    "skills": [
+        "vehicle repairs",
+        "database",
+        "inventory",
+        "marketing strategies",
+        "sales"
+    ],
+    "experience": [
+        {
+            "title": "Automobile Service Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2013-05",
+            "end_date": "Current",
+            "description": "Ensured that warranty specifications were upheld when work was performed. Managed vehicle repair requests and regular service appointments. Maintained inventory of replacement parts and prepared purchase orders. Prepared shop displays of auto parts. Inspected vehicle repairs. Provided regular employee evaluations. Ensured compliance with shop standards."
+        },
+        {
+            "title": "Automobile Service Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2011-06",
+            "end_date": "2013-05",
+            "description": "Clearly defined employee responsibilities and tracked performance. Assisted with initial diagnostics and supervised vehicle work. Ensured that customer and employee areas were kept clean and organized. Managed service requests and prepared a database listing such requests. Ensured timely completion of vehicle services. Coordinated with sales team to prepare marketing strategies."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "school": "University of California",
+            "year": 2011
+        },
+        {
+            "degree": "Associate's Degree",
+            "school": "University of California",
+            "year": 2014
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,103 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City , State",
+    "summary": "Facility Manager with extensive experience in operations, maintenance, procurement, security, and safety. Proven ability to lead large teams (including volunteers), manage budgets, coordinate construction and renovation projects, implement maintenance systems, and oversee cafe, bookstore, and retail operations across a 50,000 sq ft facility.",
+    "skills": [
+        "Accounts Payable",
+        "Art",
+        "Audio",
+        "Read Blueprints",
+        "Book",
+        "Budget",
+        "Cash Register",
+        "Closing",
+        "Cost Control",
+        "Crisis Intervention",
+        "Customer Service",
+        "Delivery",
+        "HVAC",
+        "Inventory",
+        "Regulatory compliance",
+        "Managing",
+        "Materials",
+        "Mechanical",
+        "Organizing",
+        "Camera",
+        "Plumbing",
+        "POS",
+        "Problem solving",
+        "Procurement",
+        "Project Management",
+        "Receiving",
+        "Renovation",
+        "Retail",
+        "Retail Sales",
+        "Safety",
+        "Scheduling",
+        "Staffing",
+        "Stress Management",
+        "Supervising",
+        "Troubleshooting",
+        "Utilities",
+        "Video",
+        "Wiring"
+    ],
+    "experience": [
+        {
+            "title": "Facility Manager",
+            "company": "Company Name, City , State",
+            "start_date": "2013-01",
+            "end_date": "2017-01",
+            "description": "Led a staff of over 100 paid and volunteer teams to maintain and operate a 50k square foot facility on an 8 acre lot. Recruited, trained and managed volunteers and paid teams in facilities, operations, security, and retail. Nominated, evaluated and monitored contractors for effective cost control. Assisted in procuring equipment and materials to rehabilitate mechanical equipment/systems, central heating and cooling, electrical power system enhancements. Achieved savings through effective planning and organizing within budget constraints. Assisted the Project Manager in overseeing construction and renovation projects. Implemented a Maintenance work order system to optimize the Maintenance and Custodial duties. Organized and approved all setup and rental event activities. Assisted in troubleshooting, maintaining, and installing Audio and Video equipment. Implemented a 25+ member Volunteer Security team; Planned and Led the installation of a 32 and 16 channel CCTV camera system. Assisted in the planning, construction, and procurement of a New state of the art Cafe. Planned and implemented a Cafe menu and POS system. Led, organized and trained staff and managers to run the operation of the cafe. Assisted in the planning, Stocking, build and Staffing of Book Store. Managed the day to day operations of a 50,000 square foot facility situated on an 8 acre lot that included special projects in construction, and other support service requirements such as safety, security, buildings and grounds. Promoted, Resolved and evaluated the necessary preventative routine maintenance of all aspects of the facility including but not limited to a 2 acres Pond, waterfall, fountains, Elevators, Electrical, Roof, Landscaping, and HVAC. Directed and Participated in Selecting of Staff and contractors in all areas of the facilities."
+        },
+        {
+            "title": "Healthcare Program Planner Analyst",
+            "company": "Company Name, City , State",
+            "start_date": "2007-01",
+            "end_date": "2013-01",
+            "description": "Engineering and physical plant responsibilities in Healthcare operating on a 7-day/24 hour basis. Reported to VPs, Directors, Supervisors, and Chief Engineers. Worked with plant operations and maintenance; assisted in physical plant management of a 330 bed hospital facility of 1,200,000 sq ft and off-site locations including large-scale projects, construction, and other support services such as safety, security, buildings and grounds. Assisted with procurement of materials, managed the engineering department, and safety and efficient operations; involved in preventive maintenance. Assisted with project management for new constructions, renovations, alterations, mechanical, electrical, utilities, HVAC/R, plumbing, fire safety, communication and related systems."
+        },
+        {
+            "title": "Shipping and Receiving Coordinator",
+            "company": "Company Name, City , State",
+            "start_date": "2005-01",
+            "end_date": "2007-01",
+            "description": "Assisted management in day-to-day receiving department operations; led staff delivery schedules; operated heavy equipment and lifts; directed distributions of packages and materials to all departments. Handled sensitive supplies (Bio Medical and Surgical). Operated OTPS Receiving and Accounts Payable systems. Located and researched Purchase Order information for budgeting. Shipped packages using FedEx, UPS and USPS."
+        },
+        {
+            "title": "Nutritional Aide",
+            "company": "Company Name, City , State",
+            "start_date": "2000-01",
+            "end_date": "2005-01",
+            "description": "Distributed dietary foods and supplements; maintained inventory logs and reports; participated in nutritional education activities. Assisted in preparing food and beverages per mandated nutritional requirements. Maintained food preparation equipment and storage. Coordinated distribution carts to doctors and students."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "East Village Cafe",
+            "start_date": "1998-01",
+            "end_date": "2000-01",
+            "description": "Managed day-to-day operations of East Village Cafe: opening and closing duties, ordering supplies, customer service, bakery orders, and cash register management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "A.A. Liberal Arts",
+            "school": "National Career Institute",
+            "year": 2012
+        },
+        {
+            "degree": "Trade Certificate: Electrical Assistant & HVAC/R Tech",
+            "school": "Essex County College",
+            "year": 2018
+        },
+        {
+            "degree": "Electrical Assistant and HVAC Certificate",
+            "school": "National Career Institute",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

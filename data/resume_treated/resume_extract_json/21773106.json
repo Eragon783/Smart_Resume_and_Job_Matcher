@@ -1,0 +1,103 @@
+{
+    "name": "Scott Main",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Teacher with 11 years of experience, specializing in Classroom Management, Behavioral Development, Motivating and Mentoring, Educating, Counseling and Teaching. Proficient in age-appropriate lesson planning, positive learning environments, and differentiated instruction.",
+    "skills": [
+        "Leadership",
+        "Motivation",
+        "Management",
+        "Speaking",
+        "Listening",
+        "Counseling",
+        "Teaching",
+        "Computer Literacy",
+        "Training",
+        "Editing",
+        "Organizing",
+        "Development",
+        "Implementing",
+        "Typing",
+        "Classroom Management",
+        "Behavioral/cognitive skills development",
+        "Differentiated instruction",
+        "Student-centered learning",
+        "Interpersonal skills",
+        "Reading comprehension",
+        "Curriculum planning",
+        "Positive reinforcement",
+        "Public speaking",
+        "Time management"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "July 2004",
+            "end_date": "June 2014",
+            "description": "Instructed through lectures, discussions and demonstrations in Math, Science, Social Studies, Language Arts, Reading and Spelling. Assigned lessons and corrected homework. Attended professional development workshops focused on learning goals, classroom management, student motivation and engaging activities. Served on committees and projects including Your Choice, Emergency Planning and Safe School. Facilitated activities promoting students' physical, emotional and social growth. Used positive reinforcement to redirect behavior. Conducted small group and individual activities with differentiated learning needs. Worked with an average of 30 students per class. Participated in ongoing staff training."
+        },
+        {
+            "title": "Coach",
+            "company": "Company Name, City, State",
+            "start_date": "August 2005",
+            "end_date": "February 2014",
+            "description": "Coached Boys Freshmen Basketball and Boys Middle School Basketball."
+        },
+        {
+            "title": "Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "January 2009",
+            "end_date": "January 2011",
+            "description": "Created an After School Detention program to curb bad behavior and avoid suspensions. Served as principal in the building in the principal's absence. Implemented lesson planning strategies to improve total comprehension. Integrated technology to increase student participation and scores. Regular parent communication to discuss student issues and course weaknesses. Encouraged extracurricular involvement. Elected member of Building Leadership Committee. Received an Achievement Award."
+        },
+        {
+            "title": "Campus Security Officer",
+            "company": "Company Name, City, State",
+            "start_date": "March 2002",
+            "end_date": "April 2005",
+            "description": "Patrolled campus interior and exterior. Provided jump starts, escorts, addressed incidents such as break-ins, speeding tickets, parking violations, and reporting. 24-hour campus security throughout the year."
+        },
+        {
+            "title": "Supervisor",
+            "company": "Company Name, City, State",
+            "start_date": "April 2001",
+            "end_date": "August 2002",
+            "description": "Supervised a staff of 3. Scheduled staff hours and ordered products (diapers, food, wipes, cleaning supplies). Arranged trips to pools, parks and picnics. Produced plays for church performances. Wrote staff reviews and reports to the pastor. Marketed to increase enrollment. Supervised children as needed. Assisted with diaper changing and basic care. Communicated daily with parents and prepared daily reports."
+        },
+        {
+            "title": "Loss Prevention Security Officer",
+            "company": "Company Name, City, State",
+            "start_date": "September 2000",
+            "end_date": "March 2002",
+            "description": "Monitored security systems for signs of theft and misappropriation indicators. Provided escorts as needed. Prepared detailed reports for management, MPs, courts, and base commander's office."
+        },
+        {
+            "title": "Supervisor for Outdoor Living Department",
+            "company": "Company Name, City, State",
+            "start_date": "February 1998",
+            "end_date": "August 2000",
+            "description": "Supervised 7 sales associates in the outdoor living department at Scott AFB Main Exchange. Scheduled staff, conducted appraisals, ordered products, phased out unsuccessful items, and reported to management. Performed inventory tasks, loaded and moved pallets, and helped unload pallets of paving stones and outdoor equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Counseling",
+            "school": "Lindenwood University",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Science in Education",
+            "school": "McKendree College",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        "CPR Certified",
+        "Standard Teaching Certificate",
+        "K-9 Self-Contained Middle School",
+        "Lincoln Challenge Academy Mentor"
+    ],
+    "languages": []
+}

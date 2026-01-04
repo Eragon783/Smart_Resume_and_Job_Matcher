@@ -1,0 +1,87 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Executive profile and project management consultant with a career path emphasizing strategy and development. Experienced in supporting high-level influencers in educational and youth-serving non-profit organizations in strategic and tactical decision-making. Over 15 years in high-performance educational organizations. Motivated, results-oriented leader with superior cross-functional and remote team communication skills, focused on organizational success.",
+    "skills": [
+        "Project Management",
+        "Social Entrepreneurship",
+        "Service Quality Improvement",
+        "Budgeting",
+        "Change Management",
+        "Facilitation",
+        "Training",
+        "Instructional Design",
+        "Knowledge Management",
+        "Systems Design and Implementation",
+        "Scrum",
+        "Agile",
+        "PMP",
+        "Cultural Competency",
+        "Leadership",
+        "Strategic Planning"
+    ],
+    "experience": [
+        {
+            "title": "Owner/Principle Consultant",
+            "company": "Company Name",
+            "start_date": "May 2013",
+            "end_date": "Present",
+            "description": "Manages a portfolio of higher education, youth and family-serving non-profit clients. Provides development, IT strategy and knowledge management systems consultation, advice and implementation. Provides operational workflow support, project planning, project management, management training, and technical writing of grant proposals, reports, press kits and master economic development plans."
+        },
+        {
+            "title": "Continuing Education Instructor",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "June 2015",
+            "description": "Consistently receives high evaluation ratings by CT State Employees and professional students for personal leadership and productivity courses. Provides instruction in Traditional and Waterfall Project Management methods. Uses ADDIE instructional design method to roll out continuing education courses that meet the needs of adult learners."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Company Name",
+            "start_date": "June 2005",
+            "end_date": "November 2011",
+            "description": "Developed and directed 6-year $1.225 million grant program designed to teach library and IT staff at 25 colleges and universities skills consistent with meeting needs of 21st century learners. Led team of project staff and a consultant to design a sustainable business model for grant partner organization. Conducted business planning activities. Facilitated strategy sessions with high-level directors and influencer's across multiple educational organizations. Developed financial models. Managed both on location and remote grant project staff. Developed communication plans. Oversaw project team tasks and schedule. Managed vendors. Implemented dashboard task and resource management system. Administered, managed and successfully closed grant program budget. Managed estimated versus actual budget. Reviewed and edited budget reports in collaboration with Financial Specialist. Submitted reports and final deliverables aligned with sponsor requirements. Developed training program for IT and Library staff in digital preservation tools and techniques. Traveled to partner institutions to provide workflow support and acquire resources in support of local institutional preservation program implementation. Designed quality management plan. Reviewed project quality based on plan requirements."
+        },
+        {
+            "title": "Assistant Librarian to Director of Distributed Learning",
+            "company": "Company Name",
+            "start_date": "August 2001",
+            "end_date": "June 2005",
+            "description": "Researched effective delivery models for consultation services, including marketing, production, intellectual property, and service quality evaluation methods in support of DCAPS. Prepared background reports, summaries, and documentation for Director of Distributed Learning. Designed and managed 6-week intensive summer youth educational program."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Course: Management Consulting",
+            "school": "Cornell University Johnson School of Management",
+            "year": 2008
+        },
+        {
+            "degree": "Course: Financial Accounting",
+            "school": "Cornell University Johnson School of Management",
+            "year": 2007
+        },
+        {
+            "degree": "MLIS",
+            "school": "University of Pittsburgh",
+            "year": 2001
+        },
+        {
+            "degree": "MEd",
+            "school": "Northwestern State University",
+            "year": 2000
+        },
+        {
+            "degree": "Bachelor of Arts, Theater",
+            "school": "Northwestern State University",
+            "year": 1999
+        }
+    ],
+    "certifications": [
+        "Scrum Agile Expert Certified",
+        "PMP"
+    ],
+    "languages": []
+}

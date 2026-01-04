@@ -1,0 +1,94 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Executive profile of a Restaurant professional with leadership as Executive Chef / Sous Chef / Chef Manager. Proven track record in healthy cuisine, menu development, staff training, multi-unit management, cost control, and customer service. Experienced in HACCP, food safety, and culinary education with a focus on high-quality dining experiences and operational efficiency.",
+    "skills": [
+        "agency",
+        "benchmarking",
+        "Budget development",
+        "budget",
+        "competitive",
+        "Concept",
+        "consultant",
+        "consultation",
+        "cooking",
+        "cost control",
+        "clientele",
+        "client",
+        "customer satisfaction",
+        "designing",
+        "direction",
+        "Event planning",
+        "financial",
+        "focus",
+        "forecasting",
+        "indexing",
+        "Inventory",
+        "inventory control",
+        "management skills",
+        "managing",
+        "materials",
+        "newspapers",
+        "pricing",
+        "profit",
+        "public speaker",
+        "purchasing",
+        "quality",
+        "receiving",
+        "Retail",
+        "safety",
+        "sales",
+        "scheduling",
+        "staff training"
+    ],
+    "experience": [
+        {
+            "title": "Store Chef",
+            "company": null,
+            "start_date": "April 2014",
+            "end_date": "Present",
+            "description": "Duties including menu development, one-on-one consultation with customers, design of menus, staff scheduling, and budgeting for a bistro; on and off campus catering; successful menu development and execution resulting in a 20% business increase over 6 months; implemented staff training programs, inventory management with HACCP, and food cost controls and quality standards."
+        },
+        {
+            "title": "Executive Chef",
+            "company": null,
+            "start_date": "July 2013",
+            "end_date": "January 2014",
+            "description": "Delivers strong operational performance by executing Sodexo and regulatory standards; monitors operations, rounds to maintain client relationships; ensures food safety, sanitation, and workplace safety; supervises and trains staff; manages purchasing, receiving, scheduling, and inventory control; assists in menu planning, pre-costing and post-costing."
+        },
+        {
+            "title": "Executive Chef / Food Service Manager",
+            "company": null,
+            "start_date": "May 2005",
+            "end_date": "January 2013",
+            "description": "Premium menu design and recipe development; culinary education for kitchen staff; live cooking demonstrations and upscale private catering; nutritional consultancy for health improvement; development and enforcement of nutritional standards across outlets; positive guest feedback and revenue growth; implemented purchasing protocols to secure competitive pricing; reduced waste and maintained food cost below budget by 1–2.5 percentage points; recognized for kitchen standards and labor cost reductions."
+        },
+        {
+            "title": "Executive Sous Chef",
+            "company": null,
+            "start_date": "November 2001",
+            "end_date": "April 2005",
+            "description": "Assisted in directing a $1.5 million renovation of dining facilities and kitchens; lean management through cross-training and reallocating manpower; budget development and forecasting; staffing and coordination across multiple food and beverage areas; managed purchasing, receiving, scheduling, and production."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Culinary Arts Management Associate Degree",
+            "school": "Sullivan College and the National Center for Hospitality",
+            "year": "1991"
+        },
+        {
+            "degree": "Culinary Arts Management Diploma",
+            "school": "Sullivan College and the National Center for Hospitality",
+            "year": "1991"
+        }
+    ],
+    "certifications": [
+        "Serve Safe Certification",
+        "Educational Foundation - National Restaurant Association Certification",
+        "Professional Cook Honors"
+    ],
+    "languages": []
+}

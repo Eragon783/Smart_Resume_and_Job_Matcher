@@ -1,0 +1,97 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Financial Manager focused on fostering trust and cultivating partnerships based on accountability and transparency. Analytical CPA skilled in financial and managerial accounting practices and procedures.",
+    "skills": [
+        "accounting",
+        "GAAP",
+        "financial reporting",
+        "financial analysis",
+        "budgeting",
+        "forecasting",
+        "audits",
+        "tax compliance",
+        "risk assessment",
+        "risk management",
+        "internal controls",
+        "external audit coordination",
+        "accounts payable",
+        "accounts receivable",
+        "cash management",
+        "general ledger",
+        "ERP systems",
+        "EPIC",
+        "Financial Edge",
+        "Tessitura",
+        "Form 990",
+        "IRS reporting",
+        "nonprofit accounting",
+        "compliance audits",
+        "project management",
+        "staff development",
+        "leadership"
+    ],
+    "experience": [
+        {
+            "title": "Finance Manager",
+            "company": "OPG Group / OhioHealth",
+            "start_date": "January 2012",
+            "end_date": "January 2012",
+            "description": "Facilitated monthly financial reporting and prepared monthly GAAP financial statements for two physician enterprises. Led the modeling, planning and execution of all financial processes. Analyzed complex regulation and policy documents that directly impacted budgetary and financial matters. Created detailed financial models and analytical tools to facilitate variance analysis. Collaborated extensively with auditors during preliminary and year-end audit processes. Prepared Form 990 IRS return and Ohio State unclaimed funds reporting. Developed and implemented efficient accounting, financial and operational systems for OhioHealth Marion Area Physicians LLC and Healthworks LLC physician enterprises. Process improvement and re-engineering of accounting procedures for net patient revenue accruals derived from EPIC electronic health records system; the physician practices business segments' implemented the first go-live system wide. Committee Chair for the Business Development and Acquisitions and the Training Policies and procedures Committees. Develop and implement the OhioHealth Physician Group's virtual electronic On-Boarding Training Tool."
+        },
+        {
+            "title": "State Supervising Auditor",
+            "company": "PricewaterhouseCoopers (PwC)",
+            "start_date": "January 2003",
+            "end_date": "January 2004",
+            "description": "Delivered quality service to top tier clients within the PwC Assurance and Business Advisory Services (ABAS) practice; this included supervising annual and financial risk assessment, planning, and analytical procedures. Assignments included large, high profile companies including the following: higher education (Columbia University), charities, foundations, social services organizations, with asset value ranging from $4,000,000,000 to $15,000,000,000. Key responsibilities included development of risk assessments and audit plans, supervised engagements and staff of 3-5 direct reports. Fostered relationships with clients."
+        },
+        {
+            "title": "Supervising Senior Auditor",
+            "company": "Loeb & Troper",
+            "start_date": "January 1999",
+            "end_date": "January 2003",
+            "description": "Prepare consolidated financial statements and corresponding footnotes for Nonprofit Healthcare industries. Supervised preparation of financial statements for GAS (yellow-book), pension, OMB Circular A-133 compliance, and cost report, client size range from small ($1,000,000) to large ($4,000,000,000) social services and health care organizations. Cultivated management skills, including the ability to work with executive leadership team, developed staff (2-4 direct reports per project) managed (8-10) annual engagements from budgets to billing, to completion, nurture client/firm relationships. Develop audit findings and recommendations regarding, internal control, and compliance regulations. Researched state and local IRS- related issues and accounting FASB, not-for-profit and health care industry reporting; and disclose requirements. Converted audit work papers into electronic worksheets which lead to firm-wide use with 30% reduction in audit documentation. Participated in the campus recruitment program; interviewed candidates for entry-level positions."
+        },
+        {
+            "title": "Internal Auditor",
+            "company": "Columbia University",
+            "start_date": "January 2004",
+            "end_date": "January 2006",
+            "description": "Planned and executed operational audits of various business units using risk-based audit methodology. Assisted with the system development education and roll out Business Associate Agreement Policy. Developed recommendations for improvement and presented reports to management; performed follow-up review on the status of implementation of recommendations: maintain working relationships with all levels of management across the organization. Tested the design and effectiveness of internal controls by completing walk-throughs of complex business processes. Analyzed patient revenue and account receivable control procedures; including AR reserv e modeling process and the calculation of net patient revenue. Recruited, retained and developed staff."
+        },
+        {
+            "title": "Financial Controller",
+            "company": "The New 42nd Street, Inc.",
+            "start_date": "January 2006",
+            "end_date": "January 2012",
+            "description": "Facilitated financial reporting and stewardship over this entertainment/real-estate organization's assets ($50,000,000). Managed accounting operations, accounting close, account reporting and reconciliations. Prepared organization's GAAP financial statements and prepared financial and regulatory reports required by GAAP, laws, regulations or boards of directors. Managed yearly financial audit process and relations with external auditor and served as backup for VP of Finance with human resources and benefits administration. Managed a staff of three; weekly deposits, payroll, AR, AP, inventory, credit card reconciliation, bank reconciliations, other balance sheet reconciliations, budget support, quarter end close process, and IRS compliance. Planned, organized and directed the day-to-day finance department and quarterly and annual reporting process for government grants, and city contract compliance reporting. Enforced internal controls over general ledger processing and IRS compliance, and advanced comprehensive written accounting procedures. Directly supervised finance staff of three direct reports including selection, training, and coaching, responsible for performance evaluation, promotions, and disciplinary actions. Mentored and coached finance apprentices as a part of organization-wide apprentices program. Served as project manager for the accounting system (Financial Edge) conversion, and streamlined the quarter closing process to improve efficiency and effectiveness for all financial reporting requirements. Designed and worked with IT to develop general ledger interface with the general ledger (Financial Edge) during the company-wide system conversion and implementation of the Tessitura Enterprise ticketing (patron information system). Served as project manager for payroll integration resulting in increased accuracy and accountability within the processing workflow. As a result, processing time decreased by 50%."
+        },
+        {
+            "title": "Finance Manager",
+            "company": "OPG Group / OhioHealth",
+            "start_date": "January 2012",
+            "end_date": "January 2012",
+            "description": "Facilitated monthly financial reporting and prepared monthly GAAP financial statements for two physician enterprises. Led the modeling, planning and execution of all financial processes. Analyzed complex regulation and policy documents that directly impacted budgetary and financial matters. Created detailed financial models and analytical tools to facilitate variance analysis. Collaborated extensively with auditors during preliminary and year-end audit processes. Prepared Form 990 IRS return and Ohio State unclaimed funds reporting. Developed and implemented efficient accounting, financial and operational systems for OhioHealth Marion Area Physicians LLC and Healthworks LLC physician enterprises. Process improvement and re-engineering of accounting procedures for net patient revenue accruals derived from EPIC electronic health records system; the physician practices business segments' implemented the first go-live system wide. Committee Chair for the Business Development and Acquisitions and the Training Policies and procedures Committees. Develop and implement the OhioHealth Physician Group's virtual electronic On-Boarding Training Tool."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Business Administration",
+            "school": "Keller Graduate School of Management",
+            "year": null
+        },
+        {
+            "degree": "B.A. in Accounting",
+            "school": "Queens College, City University of New York",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Certified Public Accountant (New York)",
+        "Chartered Global Management Accountant (CGMA)"
+    ],
+    "languages": []
+}

@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": "**********",
+    "location": "Hod-Hasharon",
+    "summary": "Six years of proven experience in Java backend, JavaScript/Node.js, and frontend with React/Angular. Proficient in Java, JavaScript, Python, Go; experienced with Spring, Node.js, Angular, React, and microservices architecture. Familiar with Eclipse/IntelliJ/PyCharm and CI/CD tooling. Worked with MySQL, HBase, Cassandra, MongoDB, Couchbase, Kafka, Docker/Kubernetes/OpenShift; Cloud services (Heroku, Firebase); Linux/Windows environments.",
+    "skills": [
+        "Java",
+        "JavaScript",
+        "Python",
+        "Go",
+        "Spring",
+        "Node.js",
+        "Angular",
+        "React",
+        "Microservices",
+        "Eclipse",
+        "IntelliJ IDEA",
+        "Visual Studio",
+        "WebStorm",
+        "PyCharm",
+        "MySQL",
+        "HBase",
+        "Cassandra",
+        "MongoDB",
+        "Couchbase",
+        "Kafka",
+        "Heroku",
+        "Firebase",
+        "Docker",
+        "Kubernetes",
+        "OpenShift",
+        "Linux",
+        "Windows"
+    ],
+    "experience": [
+        {
+            "title": "Java Microservices / Python Developer",
+            "company": "Amdocs",
+            "start_date": "2019",
+            "end_date": "2020",
+            "description": "Worked on CPQ project delivering price configuration for Telecom internet products; implemented RESTful services using Spring Boot, Spring Cloud Stream with Kafka; databases included MySQL and Couchbase; used OpenShift/Docker/Kubernetes, Jenkins; testing with PyTest/JUnit; tracked work with Jira/Confluence/Rally; worked on Linux/Windows."
+        },
+        {
+            "title": "Fullstack Java/JS Developer",
+            "company": "Inetex LTD",
+            "start_date": "2017",
+            "end_date": "2019",
+            "description": "Health Care Monitoring System project enabling doctors to react to abnormal patient data; technologies included Kafka (Spring Cloud Stream), RESTful services (Spring Boot), Spring Security for auth; MySQL and MongoDB; internal social network using Angular, Node.js, Express and MongoDB."
+        },
+        {
+            "title": "Full stack Java/JS Developer",
+            "company": "WebSoft",
+            "start_date": "2014",
+            "end_date": "2017",
+            "description": "Car renting service built for a company owning its own fleet; RESTful services with Spring Boot, security with Spring Security, MySQL via JPA; Web-scraping application to compare prices using Node.js and MongoDB."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters in Business Administration",
+            "school": "Touro College, Germany",
+            "year": 2013
+        },
+        {
+            "degree": "Masters in Computerized Economics",
+            "school": "University of Economics, Russia",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Hebrew",
+        "English",
+        "Russian"
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Professional Summary Program Manager / PMO Director Dynamic, versatile, hands-on Program Manager who leads teams to design and implement successful IT projects that align business and IT objectives and deliver rapid results Project Management | Strategic Planning | PMO Management Energetic, trusted, and detail-oriented Senior Program Manager and strategic solutions provider with outstanding project management and conflict management skills. Hand-picked by executive team to turn around underperforming programs; accomplished leader known and respected for leading successful change in projects and building credibility with executive teams and staff. Solutions driver who bridges the gap between business and technology with expertise in managing complex programs and multiple concurrent projects. Directs PMO teams to develop high-quality programs that solve business problems and provide tangible results for enterprise-level financial systems and legacy workflow systems. Conflict Management … Turnaround Operations … Staffing & Resource Management Risk & Issue Management … Financial Modeling & Analysis … Agile & Waterfall Methodologies Cost/Benefit Analysis … Change Management … Stakeholder Management",
+    "skills": [
+        "budget",
+        "Budgets",
+        "business analysis",
+        "CISA",
+        "contracts",
+        "Contract Management",
+        "Financial",
+        "financial analysis",
+        "forecasting",
+        "functional",
+        "Information Systems",
+        "ITIL V",
+        "leadership",
+        "mentor",
+        "Office",
+        "enterprise",
+        "optimization",
+        "organizational",
+        "performance reviews",
+        "processes",
+        "Program Management",
+        "Project Management",
+        "project plans",
+        "project planning",
+        "quality assurance",
+        "quick",
+        "reporting",
+        "Six Sigma",
+        "strategy",
+        "strategic analysis",
+        "unique",
+        "website development"
+    ],
+    "experience": [
+        {
+            "title": "Director of Finance / PMO Director",
+            "company": "Company Name – City , State",
+            "start_date": "01/2011",
+            "end_date": "Current",
+            "description": "Trusted financial executive with CFO- and CIO-level responsibilities; PMO start-up leadership; contract management; IT project oversight; forecasting and financial analysis; defined project management processes; achieved 60% savings in project costs within five months; renegotiated vendor contracts; enhanced quality assurance and risk management."
+        },
+        {
+            "title": "VP",
+            "company": "Company Name – City , State",
+            "start_date": "01/2010",
+            "end_date": "01/2012",
+            "description": "Off-Shore Project Management; Multimillion-dollar budgets; global PMO staff (44 PMs) within a $15-million department budget; directed programs up to 70 infrastructure and application projects; implemented vendor and financial strategies reducing costs by 60% in five months."
+        },
+        {
+            "title": "PMO Director / Program Manager",
+            "company": "Company Name – City , State",
+            "start_date": "01/2007",
+            "end_date": "01/2011",
+            "description": "Led multi-functional technology teams; PMO mentor for up to 80 resources; managed development of innovative software systems and applications; provided business analysis for projects up to $150-million including requirements, milestones, KPIs, and WBS; supported enterprise-scale solutions totaling approximately $1.2-billion."
+        },
+        {
+            "title": "Manager, Program Management",
+            "company": "Light Technologies, Inc.",
+            "start_date": "1995",
+            "end_date": "2003",
+            "description": "Managed IT planning, forecasting, and business-case management for the largest division (a $5-billion department); directed multimillion-dollar budgets; captured $70-million in cost savings per year through reverse logistics; led initiatives for 350+ projects across 80 programs; pioneered IT financial analysis and internal project tracking processes."
+        },
+        {
+            "title": "Manager, Budgeting / Forecasting / Business Case Modeling",
+            "company": "Minolta Corporation",
+            "start_date": "2004",
+            "end_date": "2004",
+            "description": "Managed budgets, forecasting, and business-case modeling initiatives for North American operations; improved 120 business processes; boosted productivity by 40% in five months."
+        },
+        {
+            "title": "Director, Financial Management",
+            "company": "Children Toys, Inc.",
+            "start_date": "2005",
+            "end_date": "2005",
+            "description": "Directed global planning and analysis for a $550-million real estate and IT portfolio; managed capital investments and post-spending analysis."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration: Business Economics/Finance",
+            "school": "State University - City , State",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science: Finance/Accounting",
+            "school": "Hoboken State University - City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Project Management Professional (PMP)",
+        "Certified Information Systems Auditor (CISA)",
+        "Lean Six Sigma Green Belt (LSSGB)",
+        "ITIL V.8 (Basis) Certified",
+        "Certified Financial Planner (CFP)"
+    ],
+    "languages": []
+}

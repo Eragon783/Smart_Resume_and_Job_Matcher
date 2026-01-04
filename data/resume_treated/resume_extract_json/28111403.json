@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Columbus, Ohio",
+    "summary": "Executive profile: Chief Executive with experience in presenting effectively, communicating, and managing cross-cultural teams. High-energy, results-oriented leader with entrepreneurial attitude. Demonstrated success in leadership, program development, fundraising, and strategic planning with measurable revenue growth and service expansion.",
+    "skills": [
+        "Leadership",
+        "Communication",
+        "Project Management",
+        "Employee relations",
+        "Regulatory Affairs",
+        "Human Resources",
+        "Budgeting",
+        "Market research",
+        "Staff Development",
+        "Executive Level",
+        "Operations",
+        "Proposals",
+        "Coaching",
+        "Teaching",
+        "Quality Control",
+        "Corrective Action",
+        "Strategic Planning",
+        "Finance"
+    ],
+    "experience": [
+        {
+            "title": "President/Chief Executive Officer",
+            "company": "St. Vincent Family Centers",
+            "start_date": "2010-10",
+            "end_date": "Present",
+            "description": "Oversaw administration of all programs; recruited and oriented Board members; provided funding and programmatic information to the Board; monitored program performance and ensured compliance with funding sources and accreditation; supervised budget and expenditures; directed funding proposals; recruited/hired/supervised executive staff; promoted staff development; established personnel policies; served as agency spokesperson; developed and maintained funding relationships."
+        },
+        {
+            "title": "Executive Director (Ohio)",
+            "company": "National Youth Advocate Program (Ohio)",
+            "start_date": "2009-01",
+            "end_date": "2010-10",
+            "description": "Directed administration and supervision of the National Youth Advocate Program/Ohio; expanded and developed services responsive to community needs; developed policies and strategies; administered personnel policies; acted as state program spokesperson; achieved financial goals through sound budgeting and revenue management; planned and proposed annual budget; represented the program in board meetings as an ex-officio member."
+        },
+        {
+            "title": "Assistant Director",
+            "company": "National Youth Advocate Program (Ohio)",
+            "start_date": "2002-06",
+            "end_date": "2009-01",
+            "description": "Managed day-to-day program service delivery in Franklin County; oversaw Foster Care, Clinical Services, and Sexual Offender services; advised on service utilization, staffing, promotions, transfers, and funding to meet performance goals; prepared and managed program budgets; supervised supervisors; coordinated training and supervision; reviewed case data and assisted in case assignments; ensured regular staff meetings and data-driven decision making."
+        },
+        {
+            "title": "Child Welfare Caseworker",
+            "company": "National Youth Advocate Program (Ohio)",
+            "start_date": "1998-07",
+            "end_date": "2002-05",
+            "description": "Supervised staff; advised on policies and procedures for child welfare casework; assessed service needs and provided case direction; conducted hiring interviews; mentored other child welfare social workers; provided direct services including counseling, home visits, foster/relative placements, and linkage conferences; provided crisis intervention, attended court hearings, and supervised placement activities and transportation of children."
+        },
+        {
+            "title": "Program Worker",
+            "company": "National Youth Advocate Program (Ohio)",
+            "start_date": "1996-04",
+            "end_date": "1998-08",
+            "description": "Under unit supervision, trained patients to achieve maximum independence in daily living skills; provided therapeutic crisis intervention; maintained clinical charts including care plans, medications, and incident reports; attended trainings and performed other direct care duties as assigned."
+        },
+        {
+            "title": "Youth Leader",
+            "company": "National Youth Advocate Program (Ohio)",
+            "start_date": "1995-06",
+            "end_date": "1996-04",
+            "description": "Provided one-on-one and group supervision to children with severe behavioral problems; developed behavior modification plans to increase positive behaviors."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A., Psychology",
+            "school": "Bethany College",
+            "year": 1995
+        },
+        {
+            "degree": "M.S., Human Services Management",
+            "school": "Franklin University",
+            "year": 2001
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

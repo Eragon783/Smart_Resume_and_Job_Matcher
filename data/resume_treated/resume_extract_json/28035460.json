@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Abuja, Nigeria",
+    "summary": "CAREER OBJECTIVES An accomplished Chemical Engineer and IT Professional, with 10+ years of International work experience in Chemical Engineer Development. Skilled in research and data analysis and experienced in solving complex problems. Seeking to attain a position where I can use my experience in Chemical Engineering and educational background in IT.",
+    "skills": [
+        "Microsoft Products",
+        "Information Security",
+        "Market development",
+        "Network management",
+        "Databases",
+        "Electronic health records",
+        "Software development",
+        "Technical support",
+        "Troubleshoot",
+        "Problem Solving Skills",
+        "Risk analysis",
+        "Safety",
+        "Security analysis",
+        "Administrative skills",
+        "Interpersonal skills",
+        "Communication",
+        "Cost reduction",
+        "Research",
+        "Quality"
+    ],
+    "experience": [
+        {
+            "title": "Engineer Intern",
+            "company": "Company Name",
+            "start_date": "2000-08",
+            "end_date": "2001-01",
+            "description": "Produced piping and instrumentation diagrams for pumphouse, cooling tower and condensate lines. Led weekly group meetings with interns and management for future improvements. Monitored, troubleshoot, and observed operations and processes for quality, damages and/or defects."
+        },
+        {
+            "title": "Facility Engineer Intern",
+            "company": "Company Name",
+            "start_date": "2002-10",
+            "end_date": "2003-09",
+            "description": "Analyzed process data from newly revamped furnace to improve efficiency of long-term performance monitoring plan by over 50%. Developed and maintained engineering/operating standards through periodic review. Improved 40% reliability/uptime performance and cost reduction efforts for the production units. Managed materials through preventive/corrective maintenance of products."
+        },
+        {
+            "title": "Principal Chemical Engineer / Information Technology Specialist",
+            "company": "National Board for Technology Incubation, Abuja Nigeria (Federal Ministry of Science and Technology)",
+            "start_date": "2005-10",
+            "end_date": "2015-06",
+            "description": "Monitored, implemented, and maintained IT systems. Produced technical reports, analyzed data, and built databases. Facilitated discussions to resolve a safety concern with a key process monitoring instrument. Planned and designed technology related activities aimed at nurturing the growth of innovative businesses. Provided technical support and capacity building in science and technology. Collaborated with market development on new IT technologies for industrial and consumer groups."
+        },
+        {
+            "title": "Information Technology Specialist",
+            "company": "State Build",
+            "start_date": "2015-08",
+            "end_date": "2020-05",
+            "description": "Implemented or supported electronic health records and other systems that store patient's data. Assisted in network management and software development. Took periodic review of set standards and database."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering in Chemical Engineering",
+            "school": "Federal University of Technology",
+            "year": 2001
+        },
+        {
+            "degree": "Master of Science in Chemical Engineering",
+            "school": "University of Lagos",
+            "year": 2005
+        },
+        {
+            "degree": "Master of Science in Computer Science and Information Technology",
+            "school": "University of the District of Columbia",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "COREN (Council for Regulation of Engineering in Nigeria)"
+    ],
+    "languages": []
+}

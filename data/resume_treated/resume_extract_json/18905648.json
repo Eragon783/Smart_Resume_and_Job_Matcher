@@ -1,0 +1,61 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "Microsoft Word",
+        "Excel",
+        "Powerpoint",
+        "Photoshop",
+        "Illustrator",
+        "Facebook",
+        "Instagram",
+        "Twitter",
+        "Qualitative and Quantitative Analysis",
+        "Public Speaking",
+        "employee training",
+        "sales"
+    ],
+    "experience": [
+        {
+            "title": "Social Media Coordinator",
+            "company": "Company Name",
+            "start_date": "2017-06",
+            "end_date": "2017-12",
+            "description": "Created content and strategized social media posts/ advertisements for Facebook, Instagram, and Yelp accounts. Promoted new products with weekly posts of both local and world class wines/ beers. Curated content based on insights such as audiences reached, and peak times of day/ week."
+        },
+        {
+            "title": "Bartender",
+            "company": "Company Name",
+            "start_date": "2017-10",
+            "end_date": "2017-10",
+            "description": "Organized and Inducted wine tastings for both private and corporate events held in store. Communicated with concierge services from surrounding hotels on a weekly basis. Exhibited a vast knowledge of wine and beer varietals to better assist customers with their purchases."
+        },
+        {
+            "title": "Smart Car Brand Ambassador",
+            "company": "Company Name",
+            "start_date": "",
+            "end_date": "",
+            "description": "Informed the SF community about the 2018 all electric Smart Car. Worked with coordinators to set up a pop up for Smart Car promotion with an eco friendly theme. Prompted interested individuals in the market for a Smart Car to test drive the vehicle with me. Curated a social media campaign to advertise the pop up event."
+        },
+        {
+            "title": "Shift Lead",
+            "company": "Company Name",
+            "start_date": "2016-09",
+            "end_date": "2017-09",
+            "description": "Brought employee training attainment from 44% to 100% in three months, surpassing the district stores. Wrote weekly schedules bases off of projected sales. Assisted in developing promotional plans to reach sales goals. Certified as a."
+        },
+        {
+            "title": "Office Assistant",
+            "company": "Company Name",
+            "start_date": "2018-01",
+            "end_date": "2018-01",
+            "description": "Entered data using Excel. Organized files. Answered phone calls."
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "languages": []
+}

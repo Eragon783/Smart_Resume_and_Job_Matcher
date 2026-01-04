@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Assistant Manager with extensive luxury retail experience, including team leadership, inventory control, sales reporting, and event planning for product launches and corporate events.",
+    "skills": [
+        "closing",
+        "competitive",
+        "client",
+        "customer service",
+        "delivery",
+        "direct sales",
+        "english",
+        "expense reports",
+        "inventory control",
+        "market trends",
+        "market",
+        "meetings",
+        "merchandising",
+        "microsoft office suite",
+        "office",
+        "policies",
+        "pricing",
+        "receiving",
+        "sales",
+        "sales reports",
+        "shipping",
+        "spanish",
+        "travel arrangements"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "04/2012",
+            "end_date": "Present",
+            "description": "Manage an $8.4 million volume luxury shoe sales floor; Recruit, train, develop, and manage a team of 15 to meet and exceed sales goals; Communicate weekly with buying office to maximize market-specific product assortment; Plan and execute events such as product launches, product knowledge trainings, corporate events, client luncheons, charity events; Fulfill management responsibilities including store opening/closing procedures, direct sales floor activities, assisting customers, input and prepare sales reports daily, inventory control."
+        },
+        {
+            "title": "Sales Associate - Designer & Salon Shoes",
+            "company": "Company Name",
+            "start_date": "06/2011",
+            "end_date": "04/2012",
+            "description": "Competitive drive to succeed in a commission-based environment; Maintained constant client communication and excelled in providing customer service; Demonstrated in-depth knowledge of product and current market trends to meet customer needs."
+        },
+        {
+            "title": "Sales Associate & Key",
+            "company": "Company Name",
+            "start_date": "12/2010",
+            "end_date": "07/2011",
+            "description": "Responsibility of shipping and receiving; Create incentives to drive key business objectives and motivate sales team; Manage and conduct inventories."
+        },
+        {
+            "title": "Assistant VP",
+            "company": "Company Name",
+            "start_date": "05/2008",
+            "end_date": "06/2009",
+            "description": "Managed details of conference calls, travel arrangements and meetings, itineraries, expense reports, sample garments; Collaborated with buying office concerning availability of product, shipping and delivery dates, and pricing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "school": "Fashion Institute of Design and Merchandising",
+            "year": 2009
+        },
+        {
+            "degree": "",
+            "school": "San Diego Mesa College",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

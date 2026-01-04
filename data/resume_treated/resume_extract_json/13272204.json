@@ -1,0 +1,115 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Executive with over 15 years of Human Resources and office experience, plus 10 years of community service. Dynamic leader, team player and motivator. Detail-oriented with excellent analytical skills and experience with benefits and payroll administration.",
+    "skills": [
+        "Compensation",
+        "Healthcare",
+        "Hr",
+        "Benefits",
+        "Cobra",
+        "Reconciliation",
+        "ADP",
+        "Accounts For",
+        "ADA",
+        "Annuities",
+        "Dental",
+        "FMLA",
+        "Healthcare Accounts",
+        "Healthcare Benefits",
+        "Leave Of Absence",
+        "Life Insurance",
+        "LOA",
+        "Long-term Disability",
+        "Ltd",
+        "New Hires",
+        "Recruitment",
+        "Short-term Disability",
+        "STD",
+        "Award",
+        "Excellent Multitasker",
+        "Simultaneously",
+        "Team Player",
+        "Health And Safety",
+        "Terminations",
+        "Training",
+        "Payroll",
+        "Administrative Assistant",
+        "Answering",
+        "Faxing",
+        "Filing",
+        "Office Supplies",
+        "Receptionist",
+        "Scheduling",
+        "Telephones",
+        "Word",
+        "ADP HR",
+        "Project Manager",
+        "Database",
+        "Employee Benefits",
+        "FLSA",
+        "Liability",
+        "Detail-oriented",
+        "Human Resources",
+        "Office Experience",
+        "Automotive",
+        "Data Entry",
+        "Logistics",
+        "Railroad"
+    ],
+    "experience": [
+        {
+            "title": "Logistics Coordinator",
+            "company": "Company Name",
+            "start_date": "2013-07",
+            "end_date": "2013-11",
+            "description": "Rail logistics work in-bounding and out-bounding trains in three different states, for a local railroad. Ensuring VINs from big three and other automotive companies were on the correct trains. Data Entry of all switch Instructions. Document train information, along with verifying waybills, for VINs correct destination. Matching waybill numbers. Ensuring that all information inputted is accurate giving attention to detail."
+        },
+        {
+            "title": "Administrative Assistant/Receptionist",
+            "company": "Company Name City , State",
+            "start_date": "2011-12",
+            "end_date": "2012-10",
+            "description": "Answering telephones and welcoming guests. Receiving and directing visitors, Word processing, photocopying, filing, and faxing. Assist in scheduling and organizing complex activities such as meetings and department activities for members of the Management Team, Maintaining/reordering office supplies. Coordinate travel arrangement for employees and consultants as necessary. Coordinated work activities of subordinates and staff."
+        },
+        {
+            "title": "Project Lead",
+            "company": "Company Name City , State",
+            "start_date": "2011-01",
+            "end_date": "2011-09",
+            "description": "Project Manager assisting 36th District Court with transition from one HRIS/Payroll System ADP 5.0 to ADP HR-B and Workforce Now; servicing 400 employees"
+        },
+        {
+            "title": "HR Coordinator",
+            "company": "Company Name City , State",
+            "start_date": "2008-03",
+            "end_date": "2008-10",
+            "description": "Administered monthly payroll for 30-employees for 3 different sites. Managed all employee benefits, building, contents, D&O, liability for multiple sites. Reviewed job descriptions developed by hiring manager, and ensured FLSA compliance. Coordinated formal employment offers; pre-employment drug screen and background check(s). Created and maintained employee files; employee database."
+        },
+        {
+            "title": "HR Specialist",
+            "company": "Company Name City , State",
+            "start_date": "2006-06",
+            "end_date": "2008-02",
+            "description": "Facilitated the hiring and placement process for over 100 different positions. Supported disciplinary action and terminations including COBRA administration. Conducted employee training of Benefits eXpert and IPAY systems. Administered employee welfare benefits and open enrollment. Organized return-to-work program, and employee health and safety training. Prepared monthly reconciliation for temporary employment accounts."
+        },
+        {
+            "title": "HR Benefits Administrator",
+            "company": "Company Name City , State",
+            "start_date": "2001-08",
+            "end_date": "2006-06",
+            "description": "Prepared monthly reconciliation for healthcare accounts for BCBS, BCN, HAP, Total Healthcare, Omnicare, Delta Dental, SunLife and Mutual of Omaha Life Insurance. Employee Census Report creation. Responded to inquiries/concerns regarding employee healthcare benefits. Experience with Workers' Compensation, STD/LTD, FMLA, ADA, Child Support Orders, COBRA Administration, LOA, and The Healthcare Reform Act. Handled recruitment and placement of union employees. Prepared paperwork for new hires and terminating employees with completion of paperwork. Completed ADP system reports for HR compliance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Healthcare Administration",
+            "school": "University of Phoenix",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

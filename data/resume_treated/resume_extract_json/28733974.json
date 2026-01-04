@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "An accomplished, skilled leader bringing 28 years of management experience and a willingness to take on added responsibility to meet tight deadlines. Enthusiastic team player with a strong work ethic and advanced complex problem solving skills. Proven success in Association Management, including all business skills necessary in leading a small business. Excellent communicator in both written and verbal form with successful track records acting as both a direct supervisor and as a liaison between staff and Association Board of Directors. Consistently meets or exceeds both short and long term corporate goals for growth. Proven leader in conference and meeting management including all aspects from meeting space and hotel negotiations, to speaker travel and networking, to attendee registration. Successful track record as a grant writer for projects for non-profit organizations.",
+    "skills": [
+        "Effective leader",
+        "Consistently meet goals",
+        "Project management",
+        "Experienced in legislative processes",
+        "Customer service-oriented",
+        "Exceptional interpersonal communication",
+        "Budget development",
+        "Accounting software",
+        "Long-term business planning and execution",
+        "Negotiation",
+        "Effective communication",
+        "Staff training/development",
+        "Executive presentation development",
+        "Constant Contact",
+        "Print advertising",
+        "Public relations",
+        "Special events planning",
+        "Accomplished manager",
+        "Public speaking talent",
+        "Non-profit management",
+        "Contract negotiations",
+        "Excellent planner and coordinator",
+        "Accurate and detailed",
+        "Advanced MS Office Suite knowledge",
+        "Conference planning",
+        "Project planning"
+    ],
+    "experience": [
+        {
+            "title": "Executive Director",
+            "company": "Company Name - City, State",
+            "start_date": "2012-07",
+            "end_date": "2015-02",
+            "description": "Created new revenue streams through the addition of two fundraising events including a gala and a 5K run. Exceeded objectives in selling exhibitor booths and in attendance at the annual convention. Exhibitor booths increased from 2 to 8 percent yearly through drought years 2006-2008 and similar downturn for horticulture 2009-2012 while other industry tradeshows and conferences experienced declines nationwide. Prepared in-house databases to process conference and training session registration and annual conference registration. Largest number of attendees was 3,199 for annual conference; most conferences served about 2,200 attendees. Managed projects for 36 volunteer Board of Directors, 6 committees and 5 regional chapters. Prepared and distributed payroll for staff of three direct reports. Complied annual recommendations for end of fiscal year budgets. Prepared meeting minutes and action lists for staff. Oversaw daily office operations for staff of three employees. Planned and conducted industry training meetings and Association Chapter meetings up to two per month, including handling all meeting details and registration processes. Negotiated prices and terms of sales for all meeting space, food and beverage purchases and hotel contracts. Launched new website in October 2014 to enhance online presence of Association. Networked with other professionals through the Nursery and Landscape Association Executives of North America to optimize industry connections. Prepared income statements and balance sheets and projected cash flow. Managed business finances, including paying vendors and suppliers for products and services rendered. Directed planning, budgeting, vendor selection and quality assurance efforts. Represented the organization to customers, the public, government officials and other external sources. Developed legislative policy with Director of Public Affairs and managed implementation of policy. Wrote and edited articles, web content, advertising copy, periodicals and publications for internal and external audiences. Wrote press materials and made presentations to media representatives. Attended 3-5 external trade shows each year to preserve company relations with distributors, customers and media personnel. Planned and organized seminars, meetings and annual planning retreats. Created messages, position statements and other corporate communications based on company objectives. Created new revenue streams through grant writing with both the State of Georgia and the United States Department of Agriculture. Successful in adding over 250,000 in grant revenues for the Association."
+        },
+        {
+            "title": "President, Owner",
+            "company": "Company Name - City, State",
+            "start_date": "1998-06",
+            "end_date": "2012-07",
+            "description": "Provided association management, meeting planning, conference planning and in-house registration processes for various associations including National Association of Pond Professionals, Georgia Green Industry Association, Georgia Turfgrass Association, Georgia Turfgrass Foundation Trust, Georgia Vegetation Management Association as well as providing only registration services to several other organizations. Responsible for all aspects of association management including staffing, budgets, AP/AR, public relations and public affairs, to include lobbying at both the state and national level."
+        },
+        {
+            "title": "Executive Director",
+            "company": "Company Name - City, State",
+            "start_date": "1986-08",
+            "end_date": "1998-06",
+            "description": "Association management as outlined in GGIA position from 2012-2015."
+        },
+        {
+            "title": "Statistician",
+            "company": "Company Name - City, State",
+            "start_date": "1983-04",
+            "end_date": "1988-06",
+            "description": "Managed state database of over 150,000 agricultural professionals. Prepared programming through Martin Marietta Data Services to select survey respondents for agricultural production services in Georgia that would ensure mathematically accurate survey results. Prepared quarterly Consumer Report Index that calculates pricing increases and decreases in consumer goods such as dairy products, meat products, etc."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Marketing Education with Business Electives",
+            "school": "The University of Georgia",
+            "year": 1985
+        },
+        {
+            "degree": "Associate of Science: Core Curriculum with Business Electives",
+            "school": "Abraham Baldwin Agricultural College",
+            "year": 1982
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,86 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City , State",
+    "summary": "Technical Support Analyst with technical and troubleshooting repair expertise. Team player who is flexible, reliable and adaptable to dynamic environments.",
+    "skills": [
+        "research and familiarize skill sets towards core technologies based on enthusiasm, dedication, and motivation",
+        "installation and configuration of Windows-based operating systems (Windows XP, Vista, 7, and 8)",
+        "installation and configuration of Ubuntu Linux",
+        "Mac OS X interactions",
+        "virtualization",
+        "VMware",
+        "Active Directory",
+        "AD",
+        "asset management",
+        "automate",
+        "hardware",
+        "CSS",
+        "documentation",
+        "hard drives",
+        "Linux",
+        "Mac OS",
+        "Macintosh OS",
+        "director",
+        "meetings",
+        "Microsoft Office",
+        "Windows 7",
+        "Microsoft Windows",
+        "Windows",
+        "Windows XP",
+        "network and support",
+        "Network & Support",
+        "network",
+        "networking",
+        "operating systems",
+        "organizational",
+        "processes",
+        "programming",
+        "research",
+        "scheduling",
+        "supervision",
+        "phone",
+        "test equipment",
+        "troubleshooting",
+        "tutoring",
+        "Vista"
+    ],
+    "experience": [
+        {
+            "title": "Support & Network Services Intern",
+            "company": "Company Name",
+            "start_date": "September 2014",
+            "end_date": "December 2014",
+            "description": "Troubleshot hardware and software issues within a network and support services environment; documented and communicated effectively; worked on asset management and user onboarding tailored to the Student Affairs department; collaborated with Network & Support Services to learn campus operations; attended regular meetings to understand Microsoft SCSM; created runbooks and custom templates in a minimalized test environment; shadowed student workers with incident management workflows in Cherwell Service Management; familiarized with ticket creation, priority, review, and remote desktop connections; imaged computers using ImageNow and updated Active Directory; explored AD DS, SCCM, and SCSM; assisted with new computer installations and documentation; handled phone requests for ticket closure."
+        },
+        {
+            "title": "Information Technology Lead Intern",
+            "company": "Company Name",
+            "start_date": "June 2012",
+            "end_date": "June 2013",
+            "description": "Collaborated with the director to minimize Windows XP machines and migrate to Windows 7 using Spiceworks solution; coordinated with Central IT to diagnose distance education connections and supporting equipment; deployed re-imaged hard drives or assets for classrooms or professors based on priority scheduling; assisted lab desk student workers with issues and scheduling accommodations; managed IT department equipment in SharePoint; performed room checks to test equipment and replace faulty campus property; set up purchased assets within classrooms and retirement/recycling of older systems."
+        },
+        {
+            "title": "Information Technology Student Center Intern",
+            "company": "Company Name",
+            "start_date": "September 2011",
+            "end_date": "December 2011",
+            "description": "Resolved student center questions and arranged peer-to-peer tutoring/assistance with specific students in CSS program; prepared and delivered a Microsoft Office training session and training videos for the general public in a workforce environment; created and enabled multiple custom virtual machines in a sandboxed environment to distinguish networking and connectivity; continued research and interacted with Microsoft Windows, Macintosh OS X, mobile, and Linux operating systems."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science Information Science & Technology",
+            "school": "University of Wisconsin",
+            "year": "2014"
+        },
+        {
+            "degree": "AAS IT-Computer Support Specialist",
+            "school": "Waukesha County Technical College",
+            "year": "2011"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

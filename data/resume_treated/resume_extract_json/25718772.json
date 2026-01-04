@@ -1,0 +1,73 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Multidisciplinary professional with IT support, network security, and security operations experience, plus hands-on coordination in high-pressure culinary environments. Proficient in technical help desk, CCNA, SCJD, UNIX/Linux, TCP/IP, and web content management. Seeking roles that leverage analytical problem solving, training, and cross-functional collaboration.",
+    "skills": [
+        "Sun Certified Java Developer (SCJD)",
+        "Cisco Certified Network Associate (CCNA)",
+        "Technical help desk",
+        "UNIX/Linux",
+        "GUI and tools",
+        "Web content management",
+        "TCP/IP protocols",
+        "Document management",
+        "Performance tuning",
+        "Testing",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Personal Computer Support Technician",
+        "Network security",
+        "Security operations",
+        "Surveillance",
+        "Quality assurance",
+        "Customer service"
+    ],
+    "experience": [
+        {
+            "title": "Security Officer",
+            "company": "G4S",
+            "start_date": "2009-12",
+            "end_date": "2011-05",
+            "description": "Patrolled facility; served as general security presence and deterrent; reported incidents and emergencies; monitored security cameras and alarm systems; issued badges; checked credentials and controlled access; observed and secured posts."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "2008-08",
+            "end_date": "2009-03",
+            "description": "Collected customer feedback, implemented process changes to improve satisfaction; handled inquiries, provided information, and enforced policies; demonstrated mastery of customer service scripts."
+        },
+        {
+            "title": "Aviation Mechanic / Military Police Officer",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2015-01",
+            "description": "Trained and instructed subordinates; managed ammunition processes; patrolled restricted areas; led MP teams in battlefield operations; maintained sensitive items and equipment; evaluated terrain and topography for operations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma: Personal Computer Support Technician",
+            "school": "Lincoln Technical Institute",
+            "year": 2004
+        },
+        {
+            "degree": "Certificate: Electronic Systems Technician",
+            "school": "Job Corps",
+            "year": 2003
+        },
+        {
+            "degree": "Diploma: General Education",
+            "school": "Fairmont Heights High School",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        "Sun Certified Java Developer (SCJD)",
+        "Cisco Certified Network Associate (CCNA)"
+    ],
+    "languages": []
+}

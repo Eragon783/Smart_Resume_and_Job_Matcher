@@ -1,0 +1,80 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A spirited and motivated leader able to handle multiple projects simultaneously. Able to mentor diverse, competitive managers into a mutually supportive team. Long-standing record of creating marketing and communication plans, successful events, major website roll outs and upgrades, facility management and office supervision.",
+    "skills": [
+        "Communications",
+        "Editor",
+        "Event Planning",
+        "Special Events",
+        "Director",
+        "Fundraising",
+        "Graphics",
+        "Brochures",
+        "Catalogs",
+        "Marketing",
+        "Marketing Plans",
+        "Materials",
+        "Mentoring",
+        "Newsletters",
+        "Presentations",
+        "Processes",
+        "Public Relations",
+        "Recruitment",
+        "Strategic Plans",
+        "Supervision",
+        "Website",
+        "Annual Reports"
+    ],
+    "experience": [
+        {
+            "title": "Public Relations and Alumni Affairs Coordinator",
+            "company": "Company Name",
+            "start_date": "2003-01",
+            "end_date": "2006-09",
+            "description": "Coordinated public relations, marketing and fund development for the college. Produced, wrote and approved various marketing mediums, such as newsprint, internet, annual reports, catalogs, strategic plans and brochures. Served as Editor-in-Chief of quarterly newsletter distributed to 3,000+ alumni, faculty, and friends of college. Developed and maintained Public Information website, and produced annual report and strategic plan. Organized class reunions and alumni events. Managed and budgeted other campus events. Facilitated 2005 annual campaign, which resulted in the highest annual donations received."
+        },
+        {
+            "title": "Public Information Coordinator",
+            "company": "Company Name",
+            "start_date": "2006-09",
+            "end_date": "2012-06",
+            "description": "Directed and supervised school district's communications program. Managed award-winning website, including daily updates to 7,300 pages. Created graphics, tracked analytics, and managed 14 website coordinators. Added major enhancements to website, such as flash movies, archives, blogs, videos and podcasting. Served as co-editor for the district's Facebook page. Facilitated website trainings. Trained principals and secretaries on automated phone system. Delivered bi-weekly training educating volunteers about District and YouthFriends policies. Coordinated annual and special events recognizing teachers, students, parents and volunteers. Designed, wrote and approved marketing materials including flyers, brochures and messages for the mass notification system. Managed 12 coordinators for YouthFriends Mentoring Program. Supported district's Educational Foundation by coordinating fundraising events and promoting student programs. Completed yearly process to receive a grant from Kansas City for the Foundation."
+        },
+        {
+            "title": "Online Facilitator",
+            "company": "Company Name",
+            "start_date": "2008-03",
+            "end_date": "2013-09",
+            "description": "Taught online classes for the Communication Department. Developed syllabi and facilitated courses including Mass Media Overview & History, Information Products and Presentations, Communication Processes, Information Strategies, Information Sources, Communication Variety and Foundations of Interpersonal Communications, Foundations of Mass Communication and Essentials of Managerial Communication."
+        },
+        {
+            "title": "Director",
+            "company": "KC Metro Center",
+            "start_date": "2012-06",
+            "end_date": "Current",
+            "description": "Manages daily operations, public relations and marketing efforts of the KC Metro Center. Develops marketing plans and materials to recruit students in collaboration with the Director of Continuing Studies and Marketing committee. Supervises facility and clerical staff; coordinates with faculty and departments; develops articulation agreements with local colleges; plans events; and leads recruitment and alumni efforts in the greater Kansas City area."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. in Adult & Community Education",
+            "school": "Kansas State University",
+            "year": 2018
+        },
+        {
+            "degree": "Master of Arts",
+            "school": "Missouri State University",
+            "year": 2004
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Missouri Western State University",
+            "year": 2002
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Personable, detail-oriented, proactive team-player eager to bring strong administrative skills and dedicated work ethic to a growing company in need of top-level support.",
+    "skills": [
+        "Macintosh",
+        "PC",
+        "Microsoft Word",
+        "Microsoft PowerPoint",
+        "Microsoft Excel",
+        "Google Drive",
+        "WordPress",
+        "GoDaddy Website Builder",
+        "Data Entry",
+        "Active Learner",
+        "Creative Problem Solving",
+        "Customer Service",
+        "Organizational Skills"
+    ],
+    "experience": [
+        {
+            "title": "Lead Administrator",
+            "company": "Company Name",
+            "start_date": "November 2015",
+            "end_date": "Current",
+            "description": "Multi-tasking, Calm Conflict Resolution, Working Under Pressure. Clear Written and Spoken Communication. Research, Networking, Promoting. Compose, distribute, and file contracts; design and create operations manuals to guide participants through app use; and follow up with contributing artists or curators through email to ensure that information is clearly understood. Build contact profiles and update contact list information in Salesforce to support organization email lists. Reconfigured/restructured/redesigned the filing system for streamlined use, making projects easier to both archive and find. Anticipate and resolve questions through regular and clear communication with artists and curators about their projects, researching solutions for answers that are otherwise not readily available. Initiate and facilitate the timely payment of artists, verify with executive director that they receive their payment, and update relevant financial records."
+        },
+        {
+            "title": "Chaplain Intern",
+            "company": "Company Name",
+            "start_date": "March 2015",
+            "end_date": "June 2015",
+            "description": "Assessed spiritual, emotional, physical needs of people going through crisis within a hospital setting to provide emotional and spiritual support through active listening, advocacy, empathy, or prayer based on the needs of the individual."
+        },
+        {
+            "title": "Festival Coordinator",
+            "company": "Company Name",
+            "start_date": "January 2015",
+            "end_date": "June 2015",
+            "description": "Enhanced the school's annual week-long arts festival by integrating it with the annual All Nations Banquet, rebranding the All Nations Banquet as the All Nations Food and Art Festival, advocating for the inclusion of the artistic Master's Thesis Capstone Cohort, coordinating student group involvement, and safeguarding event cohesion through brainstorming and development of a festival theme. Supported efforts for contracting poet Scott Cairns for a reading by recruiting academically informed panelists for discussion, planning a book signing, and coordinating a book sales table with artist's book publisher and a local book store. Conceptualized creative problem solving to cut expenses, secured department financial support, targeted allocation of funds, recruited volunteers, and tracked receipts in order to stay under budget and resolve all expenses at the conclusion of the festival."
+        },
+        {
+            "title": "Master's Thesis Art Project",
+            "company": "Company Name",
+            "start_date": "June 2014",
+            "end_date": "June 2015",
+            "description": "Originated concept, then recruited and collaborated with fifteen volunteer artists of varying genres to produce a high-quality, multi-media artistic project. Utilized correspondence and verbal conversations with volunteers to develop clear project expectations, scheduled and confirmed meetings via Google Calendar, uploaded artistic media to Google Drive, and transferred information within agreed upon deadlines. Hospitality through provision of refreshments and expressed appreciation to ensure artist volunteers felt valued. Secured last-minute travel arrangements for an artist traveling from out of town when her own travel plans fell through."
+        },
+        {
+            "title": "Co-Chair of Fuller Arts Collective (FAC)",
+            "company": "Company Name",
+            "start_date": "June 2014",
+            "end_date": "June 2015",
+            "description": "Established two FAC events every ten weeks through calendar event planning, coordinating space, catering, and advertising to provide student empowerment through connection and performance opportunities. Composed group news emails and scheduled social media posts to create a strong brand presence for FAC."
+        },
+        {
+            "title": "Worship Arts Intern",
+            "company": "Company Name",
+            "start_date": "September 2013",
+            "end_date": "June 2014",
+            "description": "Expanded the role of the Worship Arts Department in engaging with various genres of art, designed an online form to streamline registration for a yearly artist showcase, and created a semi-permanent gallery. Initiated team meetings to ensure sensitivity and respect to church tradition in potentially controversial exploration of art and liturgy. Networked with and coordinated volunteer artists in curating their works for various art exhibits within the church. Mediated between the Worship Arts Department and various church departments to ensure a clear communication of ideas and to provide professionalism regarding church engagement with artists."
+        },
+        {
+            "title": "Barista",
+            "company": "Company Name",
+            "start_date": "August 2009",
+            "end_date": "September 2013",
+            "description": "Served as integral member of a team that produced high-quality products under tight time constraints, with a focus on customer satisfaction; trained new team members to ensure they can perform necessary tasks at expected standards of service; inventoried and organized raw materials."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Theatre Arts",
+            "school": "Vanguard University",
+            "year": "2009"
+        },
+        {
+            "degree": "Master of Divinity (Worship Theology and the Arts)",
+            "school": "Fuller Theological Seminary",
+            "year": "2015"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

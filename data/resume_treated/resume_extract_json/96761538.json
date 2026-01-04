@@ -1,0 +1,62 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Reliable and friendly customer service and sales professional with a quick ability to learn new concepts and skills. Passionate about helping customers and creating a satisfying experience. Seeking part-time/full-time budtender role leveraging customer service skills and knowledge in medical marijuana to build lasting relationships with patients and community members.",
+    "skills": [
+        "Vast knowledge of strains and their effects",
+        "Trimming experience",
+        "Professional, friendly and clean",
+        "Careful and active listener",
+        "Cash handling and POS system knowledge",
+        "Microsoft Word literate",
+        "Customer service oriented"
+    ],
+    "experience": [
+        {
+            "title": "Kids Club Attendant",
+            "company": "Company Name",
+            "start_date": "07/2016",
+            "end_date": "10/2016",
+            "description": "Supervise activities of all assigned children in the Kid's Club area and ensures child remains in designated area. Responsible for general cleaning duties in Kids Club including disinfecting toys. Report all member complaints to Kid's Club Supervisor or Operations Manager."
+        },
+        {
+            "title": "Service Representative",
+            "company": "Company Name",
+            "start_date": "04/2016",
+            "end_date": "10/2016",
+            "description": "Greet all incoming members and guests and ensure all check in procedures are followed. Operate POS system and ensure open/close/break procedures are followed. Promote and sell merchandise."
+        },
+        {
+            "title": "Retail Sales Associate",
+            "company": "Company Name",
+            "start_date": "07/2015",
+            "end_date": "04/2016",
+            "description": "Helped customers select products that best fit their personal needs. Maintained visually appealing and effective displays for the entire store. Replenished floor stock and processed shipments to ensure product availability for customers."
+        },
+        {
+            "title": "Kindergarten Teacher's Assistant",
+            "company": "Company Name",
+            "start_date": "09/2010",
+            "end_date": "05/2011",
+            "description": "Assisted teachers with classroom activities and student supervision."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Africana Studies",
+            "school": "University of Arizona",
+            "year": "2016"
+        },
+        {
+            "degree": "Kinesiology and Wellness",
+            "school": "Pasadena City College",
+            "year": "Present"
+        }
+    ],
+    "certifications": [
+        "Medical Marijuana Recommendation - Valid"
+    ],
+    "languages": []
+}

@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Certified fitness professional with leadership and strong people skills. Trained as NESTA Certified Fitness Trainer, TRX and Kettlebell certifications. Experienced in group and private training, high-performance and weight loss regimens, plus office management, massage therapy, and membership management. Passionate about helping clients achieve lasting health and fitness goals.",
+    "skills": [
+        "Professional Fitness Trainer (NESTA)",
+        "TRX Certified Trainer",
+        "Kettlebell Certified Trainer",
+        "Office Management",
+        "Accounting",
+        "Scheduling Appointments",
+        "Insurance Billing",
+        "Certified Massage Therapist (IPSB, Los Angeles)",
+        "Computer Proficient",
+        "Creative Problem Solving",
+        "Customer Service and Satisfaction"
+    ],
+    "experience": [
+        {
+            "title": "Professional Fitness Trainer, Group Instructor",
+            "company": "Wellfit Malibu",
+            "start_date": "February 2015",
+            "end_date": "Current",
+            "description": "Lead group and private classes. Administer tests using InBody machine, measure body composition and explain results. Provide advanced testing options such as aVO2 Max and/or RMR testing. Classes include HIIT, strength training, kickboxing, circuit training, plyometrics and agility training, aqua fitness, and restorative stretch."
+        },
+        {
+            "title": "Manager/Certified Personal Trainer",
+            "company": "Company Name, City, State",
+            "start_date": "October 1995",
+            "end_date": "Current",
+            "description": "Part-time Office Manager and Professional Fitness Trainer. Responsibilities include answering phones, scheduling appointments for chiropractors, physical therapists, massage therapists, acupuncturist, skin specialist; maintaining office accounting and insurance billing; retail product management; Beach Plyo program development; geriatric training programs; coached youth in track and field, soccer, swimming and cross country; managed celebrity clients."
+        },
+        {
+            "title": "Massage Therapist",
+            "company": "Company Name, City, State",
+            "start_date": "January 1993",
+            "end_date": "September 1994",
+            "description": "Owned and managed an independent massage therapy business out of the Total Woman Gym; advertised and maintained a serene massage space; provided therapeutic massage services with professional customer relations."
+        },
+        {
+            "title": "Professional Triathlete",
+            "company": "Company Name, City, State",
+            "start_date": "January 1989",
+            "end_date": "December 1995",
+            "description": "Competed professionally across the United States and internationally; trained with performance experts in track and field, swimming, cycling and triathlon; sponsors included Saucony, Oakley, Danskin, Power Bar, Hamilton Bikes, and Impex."
+        },
+        {
+            "title": "Hostess",
+            "company": "Company Name, City, State",
+            "start_date": "September 1994",
+            "end_date": "October 1995",
+            "description": "Set up tables and stations, answered phones, made reservations, tasted and ensured quality, and seated guests; developed confidence, poise and strong customer service in an upscale restaurant environment."
+        },
+        {
+            "title": "Membership Manager",
+            "company": "Company Name, City, State",
+            "start_date": "September 1987",
+            "end_date": "October 1990",
+            "description": "Sold, managed and updated gym memberships; conducted phone calls and meetings with members; ensured member satisfaction and positive experience."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "BUENA HIGH SCHOOL",
+            "year": "1988"
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "VENTURA COMMUNITY COLLEGE",
+            "year": ""
+        },
+        {
+            "degree": "Sports Medicine",
+            "school": "CAL POLY SAN LUIS OBISPO",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "NESTA Certified Fitness Trainer",
+        "TRX Certified Trainer",
+        "Kettlebell Certified Trainer",
+        "Certified Massage Therapist (IPSB, Los Angeles)"
+    ],
+    "languages": []
+}

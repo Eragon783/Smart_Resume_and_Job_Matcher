@@ -1,0 +1,85 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To further my career in the insurance industry.",
+    "skills": [
+        "Hootsuite",
+        "Buffer",
+        "Twitter",
+        "Facebook",
+        "Instagram",
+        "SnapChat",
+        "Pinterest",
+        "Email marketing",
+        "Mailchimp",
+        "Salesforce",
+        "Public Speaking",
+        "Microsoft Office",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "Adobe Creative Suite",
+        "After Effects",
+        "Dreamweaver",
+        "Illustrator",
+        "InDesign",
+        "Photoshop",
+        "Marketing Plan Development",
+        "Analytical Thinking",
+        "Creative Thinking",
+        "Special Events Planning",
+        "Natural Leader",
+        "Excellent Communication",
+        "Self-Starter",
+        "Advertising",
+        "Business Intelligence",
+        "Content",
+        "Documentation",
+        "Film",
+        "Insurance",
+        "Marketing",
+        "Market Research",
+        "Marketing Strategies",
+        "Website design",
+        "TV",
+        "Underwriting"
+    ],
+    "experience": [
+        {
+            "title": "Digital Strategy Consultant",
+            "company": "Company Name",
+            "start_date": "January 2015",
+            "end_date": "Present",
+            "description": "Help to define & implement a metric, ROI-driven organic growth marketing strategy through use of real-time business intelligence and content marketing strategies. Direct targeted marketing efforts that introduced new products and promoted product visibility. Execute e-mail marketing programs. Research emerging trends in digital media, marketing, advertising, and social media. Website design, development & optimization."
+        },
+        {
+            "title": "Director of Marketing",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "January 2015",
+            "description": "Was responsible for the overall management of internal and external marketing efforts through various mediums as required for all of InSpire Enterprise, LLC InSpire Magazine, InSpire Us Foundation, ILEAD Institute, InSpire Attire, Be-EnCouraged Talk TV, InSpire Film. Supervised 10-15 staff members, including offering feedback and enforcing deadlines. Traveled nationally to meet with potential employees & interns and deliver clear company messages. Created high-quality marketing strategy documentation, including product marketing briefs, FAQs and overall marketing plan."
+        },
+        {
+            "title": "Foreign Casualty Production Underwriter",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "January 2013",
+            "description": "Served in a dual functional role while participating in ACE's Early Career Development / Trainee program by processing multinational service requests, and assisting experienced underwriters. Analyze hundreds of risks by underwriting comprehensive international new business and renewal package policies including general liability, property, cargo, foreign voluntary worker's comp, auto, kidnap and ransom, and accidental death & dismemberment. Conducted a offsite broker meetings each month to market ACE's insurance products while also making sales calls to brokers, participating in monthly production meetings, conducting market research and cross selling activities. Heavily contributed to our regional premium goal with $580,448 in bound premium."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Business Management, Marketing",
+            "school": "Delaware State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "CPCU 500 - Foundations of Risk Management & Insurance",
+        "CPCU 520 - Insurance Operations, Regulation, and Statutory Accounting"
+    ],
+    "languages": []
+}

@@ -1,0 +1,79 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Hudson County, New Jersey",
+    "summary": "ACCOUNT REPRESENTATIVE Professional Summary I am a social media and public relations professional, experienced in creating direct-to-consumer and internal communications for global brands. I am also the founder of @Wandering_for_Eats, a foodie Instagram brand with over 3.5k followers and multiple partnerships with local businesses in Hudson County, New Jersey.",
+    "skills": [
+        "Social Media Strategy",
+        "Digital Marketing",
+        "Content Development",
+        "Copywriting",
+        "Photo Editing",
+        "Microsoft Office Suite",
+        "Ads",
+        "Client Delivery",
+        "Email",
+        "Finance",
+        "Leadership",
+        "Marketing Strategy",
+        "Marketing",
+        "Materials",
+        "Meetings",
+        "Network",
+        "Proposals",
+        "Recruitment",
+        "Research",
+        "Sales",
+        "Stories",
+        "Strategy",
+        "Television",
+        "Articles"
+    ],
+    "experience": [
+        {
+            "title": "Account Representative",
+            "company": "Company Name",
+            "start_date": "04/2016",
+            "end_date": "Current",
+            "description": "Organically increased Instagram following over 200% from 1k to 3.5k in the past four months, and achieved an average engagement rate of 12.2%. Continuously growing followers by optimizing my social media strategy. Collaborate with brands and local restaurants on sponsored posts, including creating content and copy, photo editing, and quick and informative engagement with the audience of each post. Produce weekly sponsored “snack hack” videos published on my Instagram Story in collaboration with a local food delivery service, and provide weekly analytics reports to the brand's marketing manager. Research local restaurants and create value-added content for daily Instagram Stories and Feed posts."
+        },
+        {
+            "title": "Account Representative",
+            "company": "Company Name",
+            "start_date": "03/2019",
+            "end_date": "05/2020",
+            "description": "Developed campaign materials including social media plans with paid Twitter ads, program announcements, pitch letters, and satellite media tour alert copy for multiple Johnson & Johnson pharmaceutical brands. Created internal communications for Janssen, including daily media monitoring reports for C-suite executives, company-wide emails, LinkedIn articles published by leadership, training videos, and internal television slides •Provided updates on running projects and set project-based goals in weekly client meetings. Compiled research on pharmaceutical brands and their campaigns to find new business opportunities."
+        },
+        {
+            "title": "Management Trainee",
+            "company": "Company Name",
+            "start_date": "06/2016",
+            "end_date": "10/2018",
+            "description": "Led operations of 4 Café departments concurrently, including overseeing 4 Team Leaders and 30+ employees. Successfully planned and led Café operations for Super Bowl 2018 and Catering operations for Thanksgiving 2017, increasing sales 40% year-to-year and ranking #2 in the company for sales, respectively. Trained 10+ managers and 50+ employees for 2 store openings and led teams for the first month of openings."
+        },
+        {
+            "title": "Human Resource and Recruiting Intern",
+            "company": "Company Name",
+            "start_date": "01/2015",
+            "end_date": "12/2015",
+            "description": "Created and implemented social media network growth plans for 5 Financial Advisors via LinkedIn. Secured over 10 interviews per week for Advisor candidates, via email marketing strategy that I curated. Founded the Women in Finance Internship to drive recruitment of entry-level women Financial Advisors. Developed and pitched grant and internship program proposals for non-profit and corporate funding, securing over $6k in funding."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's Degree",
+            "school": "Rutgers University",
+            "year": "2018"
+        },
+        {
+            "degree": "Bachelor's Degree",
+            "school": "Institute for Women's Leadership",
+            "year": "2016"
+        }
+    ],
+    "certifications": [
+        "Leadership Scholars Certificate"
+    ],
+    "languages": []
+}

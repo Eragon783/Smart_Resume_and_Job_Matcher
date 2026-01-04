@@ -1,0 +1,53 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Team-oriented Applied Behavior Analysis Therapist with strong track record of establishing solid relationships, motivated, determined, enthusiastic and passionate about my work.",
+    "skills": [
+        "Conversational in American Sign Language",
+        "All Microsoft Programs",
+        "CPR/AED Certified",
+        "First Aid Certified",
+        "Safe Sitter Certified",
+        "BBP Certified",
+        "Babysitting",
+        "Running",
+        "Lifting",
+        "Crossfit",
+        "Watching documentaries",
+        "Playing with animals"
+    ],
+    "experience": [
+        {
+            "title": "ABA Therapist (Summer Internship)",
+            "company": "Company Name",
+            "start_date": "May 2015",
+            "end_date": "August 2017",
+            "description": "Worked one-on-one with a morning child and an afternoon child; followed and implemented all behavior/treatment plans and guidelines; maintained daily and detailed records of child's activities, targets, behaviors, meals and other activities; supervised/outings; helped child reach milestones in self-care, educational and social areas; developed professional relationships with parents/families, teachers/other therapists; collaborated monthly with Program managers about child's progress and ideas for growth."
+        },
+        {
+            "title": "Fitness Consultant",
+            "company": "Company Name",
+            "start_date": "March 2015",
+            "end_date": "Current",
+            "description": "Keep watch for safety infractions; answer patron needs/questions; provide a fun and safe environment for patrons to workout."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "Purdue University",
+            "year": "2018"
+        }
+    ],
+    "certifications": [
+        "CPR/AED Certified",
+        "First Aid Certified",
+        "Safe Sitter Certified",
+        "BBP Certified"
+    ],
+    "languages": [
+        "American Sign Language"
+    ]
+}

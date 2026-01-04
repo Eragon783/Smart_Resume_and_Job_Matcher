@@ -1,0 +1,82 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Executive Profile: A position in Warehouse Management requiring a self-starter with a reputation for dependability. Highly qualified warehouse professional with cross functional and cross industry management experience including staff training, inventory control, shipping, receiving and customer service. Responsible for achieving production goals, coaching and motivating staff through workshops, setting up incentive programs, and supervising all operations with accountability to management. Extensive inventory control including ordering supplies, disbursing materials and equipment, factory returns, vendor contact and negotiations, and maintaining stock levels. Maintained focus on achieving bottom line results while formulating and implementing technology and business solutions to meet a variety of needs. Personnel management experience includes recruiting, interviewing hiring / dismissing, training, scheduling, performance evaluation, promotion, and employee relations. Excellent organizational talents demonstrated in ability to prioritize high volume workload, schedule and plan projects, multitask delegate as needed, and pay close attention to details while meeting commitment and deadlines. Strong communication skills include ability to interact in a positive and productive manner, listen effectively, give or take direction, articulate ideas clearly, and write concisely. Perform all job functions according to SOP / Procedure Manuals as well as contributing to the technical writing of manuals and to profitability of company.",
+    "skills": [
+        "Self-Starter",
+        "Personable and professional",
+        "Exceptional Analytical Skills",
+        "Process Redesign and Improvement",
+        "Safety and compliance",
+        "Excellent Computer Skills",
+        "Team Building and Leadership",
+        "Performance Standards",
+        "Creative Thinker",
+        "Quality Control and Compliance",
+        "Logistics and shipping/receiving",
+        "Warehouse operations",
+        "Vendor management",
+        "Training and staff development",
+        "Multi-tasking",
+        "Strong communication skills",
+        "Attention to detail",
+        "SOP compliance",
+        "Mac and PC software (Word, PowerPoint, Publisher, Outlook, Access, ACT!)",
+        "Research"
+    ],
+    "experience": [
+        {
+            "title": "WAREHOUSE LEAD",
+            "company": "Company Name",
+            "start_date": "April 2011",
+            "end_date": "Present",
+            "description": "Reduced operating budget by [Number]% and misships by [Number] by implementing new policies and procedures. Established transportation cost standards and economical shipping practices. Negotiated bulk shipping discounts with contracted carriers."
+        },
+        {
+            "title": "Warehouse / Support Service",
+            "company": "Company Name",
+            "start_date": "June 2008",
+            "end_date": "April 2011",
+            "description": "Evaluated operational records and made scheduling adjustments to maximize efficiency."
+        },
+        {
+            "title": "MARKETING & EVENT MANAGER",
+            "company": "Company Name",
+            "start_date": "October 2006",
+            "end_date": "June 2008",
+            "description": "Worked effectively in a heavily cross-functional, fast paced environment."
+        },
+        {
+            "title": "WAREHOUSE & LOGISTICS MANAGER",
+            "company": "Company Name",
+            "start_date": "September 2002",
+            "end_date": "October 2006",
+            "description": "Negotiated bulk shipping discounts with contracted carriers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate of Completion in Business Software Applications",
+            "school": "Shoreline Community College",
+            "year": 2010
+        },
+        {
+            "degree": "Associate of Applied Arts and Science (in progress)",
+            "school": "Shoreline Community College",
+            "year": "current"
+        }
+    ],
+    "certifications": [
+        "TQM-Management",
+        "Lift Truck Certification",
+        "Safety Awareness",
+        "Customer Service Training",
+        "OSHA Certification",
+        "HAZMAT Training",
+        "Trade and Consumer Show Production / Management",
+        "Sales and Advertising Seminars and Training"
+    ],
+    "languages": []
+}

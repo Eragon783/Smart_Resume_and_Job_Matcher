@@ -1,0 +1,61 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Objective Expand my career in television, broadcasting, and/or the film industry.",
+    "skills": [
+        "Extremely productive in a high volume, high stress environments",
+        "Proficient in the use of PC and Mac desktops (Own a 2015 MacBook Pro)",
+        "Skilled in both Windows and IOS",
+        "Adobe- Premiere, After Effects, Photoshop",
+        "Avid Media Composer- Avid Media Composer User Certified",
+        "Can easily navigate, upload and post to Social Media Sites",
+        "Self-starter with a can do attitude possessing excellent time management skills",
+        "Efficient using DSLR's (Can operate other cameras as well)",
+        "Excellent written and verbal communication skills with an eye for detail",
+        "Efficient troubleshooter",
+        "Productive problem solver",
+        "Can type 72 wpm",
+        "Competent in the use of Microsoft Word, PowerPoint, Excel, and Outlook"
+    ],
+    "experience": [
+        {
+            "title": "Social Media Producer",
+            "company": "Company Name",
+            "start_date": "Nov 2016",
+            "end_date": "Current",
+            "description": "Produce content for Instagram and Facebook; Set clear content objectives; Videographer and Photographer; Film, edit and upload to Social Media Sites."
+        },
+        {
+            "title": "Photographer, Videographer, Editor",
+            "company": "Company Name",
+            "start_date": "Feb 2016",
+            "end_date": "Current",
+            "description": "Shoots still photography for individual hire for weddings, fitness shoots, headshots, family portraits, real estate, etc.; Camera Operator for weddings, short films, short documentaries, YouTube, vlogs etc.; Edit shoots, both photography and video using adobe or avid producing quality work for individual use."
+        },
+        {
+            "title": "Club Coordinator",
+            "company": "Company Name",
+            "start_date": "May 2007",
+            "end_date": "Nov 2016",
+            "description": "Billing, member updates, data entry, reports, Excel sheets, Microsoft outlook, payroll, Aphelion, Money Movers, Paychex, Quick Books. Collect bank account information, credit card information, as well as cash for memberships and recurring payments. Multitask regularly answering phone calls while working with members and staff. Greet customers with a smile and implement a friendly company culture. Supervise, direct and encouraged other team members to stay on top of task."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts, Television, Film and Media Studies",
+            "school": "California State University of Los Angeles",
+            "year": 2016
+        },
+        {
+            "degree": "Associates of Arts Degree",
+            "school": "Riverside Community College",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        "Avid Media Composer Certified"
+    ],
+    "languages": []
+}

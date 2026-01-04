@@ -1,0 +1,49 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced in all aspects of sales cycle from business development, prospect pipeline building, lead creation, and close.",
+    "skills": [
+        "agency",
+        "delivery",
+        "insurance",
+        "materials",
+        "policies",
+        "roofing",
+        "selling",
+        "sales"
+    ],
+    "experience": [
+        {
+            "title": "Business Development Consultant",
+            "company": "Company Name ï¼​ City , State",
+            "start_date": "07/2015",
+            "end_date": "Current",
+            "description": "Initiated and closed sales for a large independent insurance agency in Western Wisconsin. Used consultative selling skills to identify exposure to risk and tailored insurance policies to address those concerns. Managed customer accounts, built lasting relationships with customers, and grew account base within territory."
+        },
+        {
+            "title": "P&C Producer and Sales Agent",
+            "company": "Company Name ï¼​ City , State",
+            "start_date": "07/2010",
+            "end_date": "07/2015",
+            "description": "Initiated and closed sales for a large independent insurance agency in Western Wisconsin. Used consultative selling skills to identify exposure to risk and tailored insurance policies to address those concerns. Managed customer accounts, built lasting relationships with customers, and grew account base within territory."
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name ï¼​ City , State",
+            "start_date": "07/2006",
+            "end_date": "07/2010",
+            "description": "Initiated and closed sales for a commercial and residential roofing contractor. Established positive relations with customers and developed a timeline for project completion. Arranged delivery of materials, availability of labor, and managed projects through completion."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts, Liberal Arts Environmental Studies Geography",
+            "school": "University of Minnesota Duluth",
+            "year": "2006"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

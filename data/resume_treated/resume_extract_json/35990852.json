@@ -1,0 +1,113 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Software developer well-versed in the entire workflow for developing and implementing websites, including: consulting with the customer, designing mock-ups, programming the site, and incorporating customer feedback.",
+    "skills": [
+        ".NET",
+        "ASP.Net",
+        "MVC 4.0",
+        "VB.Net",
+        "Visual Basic.Net",
+        "C#",
+        "Microsoft SQL Server",
+        "SQL",
+        "Stored Procedures",
+        "TFS (Team Foundation Server)",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "JQuery",
+        "AngularJS",
+        "LINQ",
+        "PHP",
+        "MySQL",
+        "Adobe Design Suite",
+        "Agile Software Development Methodology",
+        "XML",
+        "XSLT",
+        "Visual Studio",
+        "ASP",
+        "Crystal Reports 8.5",
+        "JIRA",
+        "Entity Framework 5",
+        "Web Forms",
+        "VB 6",
+        "Adobe Photoshop"
+    ],
+    "experience": [
+        {
+            "title": "Website Designer",
+            "company": "Company Name",
+            "start_date": "12/2016",
+            "end_date": "Current",
+            "description": "Freelance website redesigns; collaborated with clients through all stages of development; discussed requirements, created mockups, conducted testing, and delivered the final website within budget and timeframe; used C#, ASP.Net, HTML5, CSS3, JavaScript, JQuery, MySQL, and Adobe Design Suite."
+        },
+        {
+            "title": "Senior Software Developer",
+            "company": "Company Name",
+            "start_date": "07/2016",
+            "end_date": "11/2016",
+            "description": "Contracted to Fiserv on the Velocity Loan Software Migration project; upgraded clients from version 2 to 3; transformed XSLT/XML files into LUXML; reduced migration hours from 800 to 500; helped develop unit tests; supervised 3 offshore developers in India; used XML, XSLT, Visual Basic, SQL Server, TFS, JIRA."
+        },
+        {
+            "title": "Support Engineer Tier III",
+            "company": "Company Name",
+            "start_date": "02/2016",
+            "end_date": "04/2016",
+            "description": "Investigated and resolved tickets escalated from Tier II engineers; improved metrics and faster issue-resolution time for customers; used C#, Visual Studio 2014, SQL Server 2012, TFS, Agile development, and .NET Framework 4.5."
+        },
+        {
+            "title": "Lead Software Developer",
+            "company": "Company Name",
+            "start_date": "12/2014",
+            "end_date": "02/2016",
+            "description": "Led and mentored a team of developers; acted as project manager on a model-creation project; created and redesigned websites using C#, ASP.Net, AngularJS, and PHP; created digital models for a hospital interior and coordinated client requirements."
+        },
+        {
+            "title": "Software Developer",
+            "company": "Company Name",
+            "start_date": "08/2014",
+            "end_date": "12/2014",
+            "description": "Assigned to Bank of America's CaseCura application; designed new UIs by replacing obsolete pages with data-bound dynamic grid web controls; led design and documentation sessions; led user-acceptance review meetings; participated in daily scrum; used C#, MVC, TFS, .NET Framework 4.5, JIRA."
+        },
+        {
+            "title": "Software Developer",
+            "company": "Company Name",
+            "start_date": "10/2013",
+            "end_date": "02/2014",
+            "description": "Contracted to AgriLogic on the AgAdvantage Legacy application; processed crop insurance policies; collaborated with business analysts and QA to ensure code quality; reduced maintenance tickets from ~50 to 3–4 per day; participated in the Lunch & Learn meetings; used VB.Net, Visual Studio 2012, MVC, SQL Server, Atlassian JIRA, .NET Framework 4.5."
+        },
+        {
+            "title": "Programmer Analyst",
+            "company": "Company Name",
+            "start_date": "02/2013",
+            "end_date": "09/2013",
+            "description": "FBC Mortgage: created web-based applications to increase productivity; generated reports for underwriters and CFO; built a Customer Mortgage Application UI; mentored junior developers; used Visual Studio 2012, ASP.Net, C#, MVC, Javascript, jQuery, Entity Framework 5, TFS, Adobe Photoshop, web forms, SQL Server."
+        },
+        {
+            "title": "Lead Software Developer",
+            "company": "Company Name",
+            "start_date": "09/2004",
+            "end_date": "02/2013",
+            "description": "Led a team of developers; designed and developed websites using HTML, ASP, and C#, as well as MySQL; managed vendors who created digital models and products for sale; designed and programmed the Vanishing Point website from scratch, including a marketplace, image gallery, and sales reports."
+        },
+        {
+            "title": "Software Developer",
+            "company": "Company Name",
+            "start_date": "02/2002",
+            "end_date": "09/2004",
+            "description": "Contracted to AT&T in Orlando, FL as a developer on the Remittance Resolution System (RRS); monitored daily reports; upgraded and redesigned reports; used VB 6, Windows NT, SQL Server 7, Crystal Reports 8.5; redesigned trouble-ticket database into a web-based ASP/SQL Server solution; added features, security, auditing, and consolidated multiple systems into one database."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A.",
+            "school": "University of Maryland",
+            "year": "1995"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

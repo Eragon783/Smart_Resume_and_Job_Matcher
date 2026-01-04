@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Registered Professional Engineer with extensive experience in global project and construction management. Proven leader in coordinating multi-national teams, delivering complex onshore/offshore projects safely, on schedule, and within budget. Proficient in bid/specification preparation, contract negotiations, budget development and control, MOC, QA/QC, risk management, and cross-functional stakeholder communication within refinery, water/wastewater, and pipeline environments.",
+    "skills": [
+        "budgeting",
+        "budget",
+        "contracts",
+        "negotiating contracts",
+        "client",
+        "clients",
+        "design and construction",
+        "functional",
+        "government",
+        "Korean",
+        "legal",
+        "office",
+        "works",
+        "oil",
+        "Organizational",
+        "personnel",
+        "project management",
+        "proposal",
+        "quality assurance",
+        "QA",
+        "quality control",
+        "Risk Management",
+        "routing",
+        "Safety",
+        "sales",
+        "Transportation",
+        "weld"
+    ],
+    "experience": [
+        {
+            "title": "Construction and Site Manager / Site Execution Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "2005-03",
+            "end_date": "2016-07",
+            "description": "Led FARM offshore project (largest Brownfield offshore project in company history); $1B initiative involving installing ten flare booms and major platform and piping modifications. Oversaw design and field works in Angola; assisted in defining management of change (MOC) terms and contract negotiations. Directed a multinational workforce of more than 350 contractors and employees. Provided onshore and offshore construction of 14 offshore platforms and a 24-inch pipeline. Boosted production by almost one million barrels and helped meet WHO objectives to reduce flaring. Achieved ~8.7 million safe man-hours without a day away from work and a TRIR of 0.18. Planned and executed multiple platform shut-ins ahead of schedule with minimal production loss. Completed the project $100K under budget and delivered $250M in cost savings. Led QA/QC and systems completion teams; reviewed marine plans, execution plans, RMPs, HAZIDs, PSM and PSRs. Directed a total workforce of 3,000+ including 145 company office personnel. Negotiated contracts with three Korean shipyards; prepared bid packages and contract documents. Served on a four-person team that negotiated a $2B single-source contract delivering estimated savings of $750M. Directed operations, safety, engineering, planning, budgeting, site fabrication, and QA/QC for five modules totaling $2.5B for Mafumeira Sul in South Korea. Coordinated with 100+ operations, marine, safety, and contractor teams from Korea and the US."
+        },
+        {
+            "title": "Senior Project Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2001-03",
+            "end_date": "2005-03",
+            "description": "Spearheaded the establishment of the project management group 'pointOne'; assisted sales in securing new projects. Negotiated contracts, saving a large client $1M on the design and construction of new shutdown valves and piping. Developed a proposal for a $200M US government contract to repair pipelines in post-war Iraq. Drafted the proposal and preliminary design for a 90-inch water main re-route at Chicago O'Hare Airport, preventing long-term water disruption to five cities. Guided the group to deliver approximately $2M in revenue annually within two years of startup. Led engineering and construction for multiple inland water projects, a new production barge, and offshore platform modifications, extending a two-month contract to four years. Consistently completed projects under budget and on time."
+        },
+        {
+            "title": "Consulting Project and Construction Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2001-03",
+            "end_date": "2005-03",
+            "description": "Spearheaded engineering and construction projects for clients across Oklahoma and Louisiana, including Mobil, Continental Carbon, Envirotech, and Phillips Petroleum. Ensured fabrication and construction compliance with engineering drawings, standards, specifications, and QA guidelines. Delivered engineering and construction of thermal oxidizers and a plant water pipeline. Advised on ROW routing to avoid issues; improved productivity of a four-tank weld-out by reorganizing crews. Prepared budgets and presentations that secured new water lines and elevated tanks; developed bid packages and long-term maintenance contracts for five elevated water tanks."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science : Civil Engineering",
+            "school": "University of Missouri",
+            "year": ""
+        },
+        {
+            "degree": "Bachelor of Science : Civil Engineering",
+            "school": "University of Arkansas",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Transportation Worker Identification Credential (TWIC) – TSA/USCG",
+        "Global Entry Card – United States Customs and Border Protection",
+        "Capital Stewardship and Organizational Capabilities (CSOC)",
+        "Supreme Certified, Chevron Corp - PMI/PMP developed Operational Excellence (OE) certified",
+        "Professional Engineering Licenses – Arkansas",
+        "Professional Engineering Licenses – Missouri",
+        "Professional Engineering Licenses – Kansas",
+        "Professional Engineering Licenses – Texas",
+        "Professional Engineering Licenses – Oklahoma",
+        "Professional Engineering Licenses – Illinois",
+        "Professional Engineering Licenses – Massachusetts",
+        "Professional Engineering Licenses – NCEES",
+        "American Society of Civil Engineers (ASCE) – member",
+        "Concrete Reinforcing Steel Institute (CRSI) – member"
+    ],
+    "languages": []
+}

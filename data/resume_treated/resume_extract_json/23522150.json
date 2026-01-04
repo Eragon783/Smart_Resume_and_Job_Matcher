@@ -1,0 +1,90 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Mature and professional administrative assistant with over 8 years of experience seeking an employment opportunity where my skills and versatility. Core strengths include Microsoft Office proficiency, telecommunication skills, customer service, strong written communication, self-direction, and meticulous attention to detail. Experienced in market research, product sales, and multi-tasking; historically successful in tasks such as greeting customers, handling cash, assisting customers by phone, and improving recruiting processes.",
+    "skills": [
+        "Microsoft Office",
+        "Telecommunication",
+        "Phone inquiries",
+        "Customer service",
+        "Strong written communication",
+        "Market research",
+        "Product sales",
+        "Cross-selling",
+        "Multitasking",
+        "Cash handling",
+        "Reception",
+        "Time management",
+        "Organizational skills",
+        "Problem solving",
+        "Self-starter",
+        "Attention to detail"
+    ],
+    "experience": [
+        {
+            "title": "Recruiter",
+            "company": "Company Name, City, State",
+            "start_date": "2012-02",
+            "end_date": "",
+            "description": "Communicated duties, compensation, benefits and working conditions to all potential candidates. Employed feedback mechanisms and analysis to improve the recruiting process. Maintained an accurate candidate tracking system. Contacted all job applicants to inform them of application status."
+        },
+        {
+            "title": "pastry decorator",
+            "company": "Company Name, City, State",
+            "start_date": "2014-10",
+            "end_date": "2015-02",
+            "description": "Diligently completed all assigned tasks, working overtime as needed. Prepared ingredients to make different icing. Researched, calmed and rapidly resolved client conflicts to prevent loss of key accounts. Decorated thousands of pastries per week with a steady, quick pace; maintained organization and attention to detail."
+        },
+        {
+            "title": "Catering associate and specialty chef",
+            "company": "Company Name, City, State",
+            "start_date": "2012-10",
+            "end_date": "2013-04",
+            "description": "Assisted customers, mainly large businesses, in the planning of the menu for events. Required excellent communication skills, sales and superb customer service. Prepared all the desserts for the restaurant every morning as well as party platters for events. Managed preparation and presentation of desserts for catered events; checked quantity and quality of received products."
+        },
+        {
+            "title": "Automobile Salesperson",
+            "company": "Company Name, City, State",
+            "start_date": "2008-01",
+            "end_date": "2009-01",
+            "description": "Participated in incentive programs and contests designed to support achievement of production goals. Developed tools to track and monitor personal sales opportunities, deals in progress and finished contracts."
+        },
+        {
+            "title": "Personal Banker",
+            "company": "Company Name, City, State",
+            "start_date": "2006-04",
+            "end_date": "2006-12",
+            "description": "Developed highly empathetic client relationships and earned a reputation for exceeding sales goals. Cross-trained and provided backup for other customer service representatives when needed. Maintained up-to-date knowledge of bank products and services. Identified prospective customers using lead generating methods and performing an average of 60 cold calls per day. Participated in incentive programs and contests; developed tools to track and monitor personal sales opportunities, deals in progress and finished contracts."
+        },
+        {
+            "title": "Administrative Assistant and Medical Transcriptionist",
+            "company": "Company Name, City, State",
+            "start_date": "1998-08",
+            "end_date": "2002-06",
+            "description": "Wrote reports and correspondence from dictation and handwritten notes. Managed and distributed incoming/outgoing correspondence. Maintained the front desk and reception area. Designed electronic file systems and maintained paper and electronic records. Recorded and filed patient data and medical records; followed guidelines for release of information. Wrote clinical phone messages for physicians and edited physician correspondence."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Pilgrim High School",
+            "year": "1987"
+        },
+        {
+            "degree": "General Studies",
+            "school": "University of Rhode Island",
+            "year": ""
+        },
+        {
+            "degree": "Mathematics and English Literature",
+            "school": "Collin County Community College",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

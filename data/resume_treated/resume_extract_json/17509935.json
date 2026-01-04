@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Outgoing and people-oriented person who effectively develops lasting professional relationships with clients and customers. Highlights Quick learner Outstanding customer service Business management Team player Inventory control familiarity Strong organizational skills Active listening skills Strong leadership skills Accomplishments I learned how to communicate with staff as well as customers. I have a very enthusiastic personality and can make the people around me happy and excited. It is my full belief that there is no \"I\" in Team. I would have never been able to achieve all of the wonderful goals by myself; it takes a wonderful group of people to achieve the highest goals.",
+    "skills": [
+        "Quick learner",
+        "Outstanding customer service",
+        "Business management",
+        "Team player",
+        "Inventory control",
+        "Strong organizational skills",
+        "Active listening",
+        "Strong leadership",
+        "Interviewing",
+        "Hiring",
+        "Goal setting",
+        "Scheduling",
+        "Problem solving",
+        "Staff development",
+        "Staff encouragement",
+        "Relationship building",
+        "Customer relationship management"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2017-01",
+            "end_date": "Current",
+            "description": "Help customers, run the registers, throw freight, help with shelf resets, make sure things are clean and organized."
+        },
+        {
+            "title": "Sales associate/ad's superviser",
+            "company": "Company Name",
+            "start_date": "2016-08",
+            "end_date": "2016-12",
+            "description": "Key holder, Help with customers needs, run the registers, throw the freight, I also overseen the ordering and set up of all the ads for each month."
+        },
+        {
+            "title": "Indepentdant Contractor",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "2015-01",
+            "description": "document reviews, computer skills, also had to learn fast and be self motivated"
+        },
+        {
+            "title": "Manager",
+            "company": "Company Name",
+            "start_date": "2002-10",
+            "end_date": "2015-04",
+            "description": "Built schedules, set goals, inventory, cash handling, over seen a group of people, customer service, employee services In the six years I grew the salon with a 150% increase in customer counts as well as 30% sales growth, we meet and overcame several goals including topping the chart for top salon in the state of Utah."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "South Summit High School",
+            "year": 2000
+        },
+        {
+            "degree": "Cosmotology",
+            "school": "Heiritage College of Beauty",
+            "year": 2002
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To obtain a job within my chosen field that will challenge me and allow me to use my education, skills and past experiences in a way that is mutually beneficial to both myself and my employer for future growth and advancement.",
+    "skills": [
+        "Patient assessment",
+        "Blood draws",
+        "Fecal sample analysis",
+        "Instrument packing",
+        "Surgical set-up and assisting",
+        "Anesthetic nursing",
+        "Blood smears",
+        "Swine teeth clipping",
+        "Swine tail docking",
+        "Radiology",
+        "Surgical prep",
+        "Digital X-ray",
+        "Film X-ray",
+        "Ultrasound",
+        "Vaccination set-up and administration",
+        "Post-surgical care",
+        "Wound care",
+        "Swine ear notching",
+        "Ovine and caprine ear tagging",
+        "Parasite identification",
+        "Small and large animal restraining",
+        "Animal CPCR",
+        "Administer microchip",
+        "Dentistry",
+        "Refractometer reading",
+        "Compound microscope",
+        "Centrifuge",
+        "Anesthetic machine"
+    ],
+    "experience": [
+        {
+            "title": "Veterinary Assistant",
+            "company": "Spay and neuter clinic",
+            "start_date": "09/2015",
+            "end_date": "Present",
+            "description": "Assisting the doctor in surgery, answering phones, checking in patients, checking out patients, scheduling appointments, prepping animals for surgery, anesthesia monitoring, packing instruments, cleaning kennels, post-surgical care, administering vaccines and microchips, IV catheter placement, intubating dogs and cats, client education"
+        },
+        {
+            "title": "Trainer/Waitress/Bartender/Shift leader",
+            "company": "Popular family restaurant chain",
+            "start_date": "02/2000",
+            "end_date": "02/2005",
+            "description": "As a trainer, I was given the opportunity to help open new stores all across the United States. I was also one of the few that was able to teach classrooms to new employees and provide training during their training period."
+        },
+        {
+            "title": "Receptionist",
+            "company": "Full service fitness center",
+            "start_date": "02/1999",
+            "end_date": "02/2000",
+            "description": "Front desk receptionist Greet clients Answer phone."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science: Veterinary Technology",
+            "school": "Oklahoma State University-OKC",
+            "year": "2017"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Coweta High School",
+            "year": "1996"
+        }
+    ],
+    "certifications": [
+        "Registered Veterinary Technician; VTSE passed on August 8, 2017",
+        "VTNE passed on August 14, 2017"
+    ],
+    "languages": []
+}

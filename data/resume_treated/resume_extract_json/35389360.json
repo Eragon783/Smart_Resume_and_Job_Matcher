@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Baton Rouge, Louisiana",
+    "summary": "Seasoned Information Technology professional with over 7 years of experience in various industries. Specializes in computer hardware/software installation, network administration, servers, Windows and Mac OS, IT support, QA testing, and troubleshooting with strong communication and leadership skills.",
+    "skills": [
+        "Microsoft Applications (Word, Excel, PowerPoint, Access, Exchange, InfoPath, Lync, OneNote, Outlook, Project, Publisher, SharePoint, Visual Studio)",
+        "Network Security",
+        "Networking",
+        "PC hardware and software installation, configuration, and troubleshooting",
+        "Remote Desktop and Help Desk Management",
+        "Verbal Communication",
+        "Technical Support",
+        "Team Leadership",
+        "PHP, HTML, HTML5, CSS, JavaScript, MySQL",
+        "Linux",
+        "Windows & Mac OS",
+        "VoIP, TCP/IP, IPSec, VPN",
+        "DNS, BIND, DHCP, LAN/WAN",
+        "Web Development",
+        "Inventory Management",
+        "QA Testing"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Systems Installer",
+            "company": "",
+            "start_date": "August 2006",
+            "end_date": "January 2013",
+            "description": "Installed, configured, upgraded, troubleshot and repaired software and hardware. Maintained hardware components; diagnosed connectivity issues; remote access into client computers. New hire and client training. Worked with Windows and Mac OS; managed printers; designed and deployed LANs/WANs; handled project tickets; supervised home automation, surveillance, and custom PC installations. On-call 24/7 support and 1st/2nd line help desk for multiple end-users."
+        },
+        {
+            "title": "IT Technician/QA Tester",
+            "company": "",
+            "start_date": "August 2013",
+            "end_date": "September 2014",
+            "description": "Wrote progress and issue reports; authored procedures for data entry into databases; installed, configured, upgraded and repaired software/hardware; PC/Mac/laptop deployment; OS/Server (Windows 95/2000/XP/Vista/7/8/8.1) and Mac OS/Linux; remote access; project ticket management; web development (HTML, HTML5, CSS3, PHP, MySQL, Java, JavaScript); team leadership."
+        },
+        {
+            "title": "Installation/Service Technician",
+            "company": "",
+            "start_date": "July 2014",
+            "end_date": "Present",
+            "description": "Installed, programmed, serviced and repaired home security systems, home surveillance, and home automation; wire splicing (coaxial, CAT5/6, RJ12); customer and new hire training; timecard and inventory management; NSF/credit card/ACH processing; resolved inquiries; managed company vehicle."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Electronics and Communications Engineering Technology",
+            "school": "ITT Technical Institute",
+            "year": "2018"
+        },
+        {
+            "degree": "Associate Degree in Software Development",
+            "school": "ITT Technical Institute",
+            "year": ""
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Glen Oaks High School",
+            "year": ""
+        },
+        {
+            "degree": "CompTIA Certification (In Progress)",
+            "school": "CompTIA",
+            "year": "In Progress"
+        }
+    ],
+    "certifications": [
+        "Microsoft Office Certification (May 2013)",
+        "CompTIA Certification (A+, Cloud+, Network+, Security+, Linux+) - In Progress"
+    ],
+    "languages": [
+        "English"
+    ]
+}

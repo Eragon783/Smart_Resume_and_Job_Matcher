@@ -1,0 +1,82 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Conscientious attorney with experience in government relations, educational law and advocacy for families with special needs children, two years practice in health law and public policy for military families, two years federal government experience in human rights and foreign affairs with the U.S. Department of State.",
+    "skills": [
+        "Maryland Bar",
+        "Statutory Public Policy",
+        "Foreign Affairs",
+        "Human Rights Law",
+        "Diplomacy",
+        "Government Relations",
+        "Special Education Law",
+        "Health Law",
+        "Statutory Procedure",
+        "Multitasking",
+        "Public Policy",
+        "Liaison",
+        "Federal Government"
+    ],
+    "experience": [
+        {
+            "title": "Advocate",
+            "company": "Company Name, City, State",
+            "start_date": "2011-01",
+            "end_date": "2013-01",
+            "description": "Represented the needs of military families with policy makers and national organizations regarding legislation and programs for military special needs dependent children; Assisted families with navigating military health care insurance; Strategized with parents concerning individual education plans, 504 documents and educational behavioral plans; Led the first Military Family Leadership Institute training on Fort Meade and taught parent seminars on effective communication and advocacy; Trained professionals statewide concerning military culture and customs; Represented the Maryland Coalition on the Maryland Military Child State Education Committee Board, the DC area Inter-service Family Action Board, The Kimbrough Military Treatment Patient Family Action Council and the National Military Officer Association of America Spouse Advisory Panel."
+        },
+        {
+            "title": "Student",
+            "company": "Department of State, Foreign Service Institute",
+            "start_date": "2003-01",
+            "end_date": "2005-01",
+            "description": "Studied German language and culture; Studied Europe and German/American Relations and American/EU relations; Presented in-depth study of German Contemporary Issues; Learned European history and culture to include Western Europe, Eastern Europe and the Balkans."
+        },
+        {
+            "title": "Foreign Affairs Officer",
+            "company": "Department of State, International Religious Freedom Office",
+            "start_date": "2003-01",
+            "end_date": "2005-01",
+            "description": "In charge of monitoring religious freedom in Africa; Edited and added to the Annual Congressional Religious Freedom Report concerning religious intolerance in Western and Sub-Saharan Africa; Met with International Non-Governmental Organizations regarding religious freedom and atrocities against religious minorities; Coordinated with U.S. embassies to investigate religious persecution in Africa, worked in partnership with other State Department bureaus and country desk officers to ensure religious freedom for Africans."
+        },
+        {
+            "title": "Staff Assistant",
+            "company": "Department of State, Political/Military Bureau",
+            "start_date": "2003-01",
+            "end_date": "2005-01",
+            "description": "Worked directly with the Secretary of State's Executive Staff regarding documents from the Political/Military Bureau; Reported directly for the Office of the Assistant Secretary; Provided technical guidance and deadlines to a bureau of ten office directors and 300 people; Set bureau priorities and was project manager for projects tasked to the bureau for and from the Secretary of State, Deputy Secretary, National Security Council and Undersecretary; Ensured timeliness and accuracy of classified documents and sensitive communications, made certain documents were properly classified; Managed bureau contributions to overseas briefing books for the Vice President, Secretary of State and Deputy Secretary of State; Liaison with Legislative Affairs Bureau for the bureau's responses to Congressional inquiries; Supervised nine interns, trained incoming staff assistants and managed scheduling of intern hours."
+        },
+        {
+            "title": "Volunteer Public Advocate/Attorney",
+            "company": "Exceptional Family Member Services, City, State",
+            "start_date": "1997-01",
+            "end_date": "2002-01",
+            "description": "Provided legal representation to families with special needs children regarding education services; Negotiated Individual Education Plans and 504 documents; Interpreted and applied federal statutory requirements and administrative regulations for clients before school administrative hearings; Drafted appropriate goals for education plans."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Juris Doctor",
+            "school": "Georgia State University College of Law",
+            "year": null
+        },
+        {
+            "degree": "International Arbitration",
+            "school": "Johannes Kepler University, School of Law",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts in Government and Communications",
+            "school": "Evangel University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Maryland Bar"
+    ],
+    "languages": [
+        "German"
+    ]
+}

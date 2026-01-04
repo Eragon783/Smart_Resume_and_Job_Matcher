@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Presentation Designer with a background in customer service and retail, specializing in design and technology. Team-oriented with strong collaborative skills and a track record of achieving personal sales goals; proficient in creating engaging graphics and multimedia content.",
+    "skills": [
+        "Adobe Creative Suite CC",
+        "Adobe Dreamweaver",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "PowerPoint",
+        "Keynote",
+        "Prototyping",
+        "Wireframes",
+        "Illustrations",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "Axure RP",
+        "Graphic Design",
+        "UI/UX"
+    ],
+    "experience": [
+        {
+            "title": "Presentation Designer",
+            "company": "Company Name",
+            "start_date": "February 2016",
+            "end_date": "Current",
+            "description": "Designing Keynote and PowerPoint slides; creating graphic assets for presentations; animating slides; conceptualizing and visualizing clients' briefs/scripts into storyboards; collaborating with producers to deliver presentations before deadlines."
+        },
+        {
+            "title": "Multimedia Designer",
+            "company": "Company Name",
+            "start_date": "October 2015",
+            "end_date": "Current",
+            "description": "Create marketing or product tutorial videos (storyboards, audio, video shooting and editing); catalog/brochure design; marketing collateral, online banners, and print advertising; collaborate with project teams to plan, analyze, organize, and complete projects; design and develop marketing materials for campaigns, events, and internal communications; work with Jesus House Dallas team on design requests."
+        },
+        {
+            "title": "User Experience and User Interaction Designer (Team Lead)",
+            "company": "Company Name",
+            "start_date": "June 2013",
+            "end_date": "July 2015",
+            "description": "Lead project team to develop UX; translate business objectives and user requirements into site blueprints; website evaluation and benchmarking; gather information, identify user types and needs; define user scenarios, goals, tasks, and customer journeys; create site maps, navigation, wireframes, user journeys/process flows, and specifications; prototyping and usability testing; develop implementation guidelines; ensure high-quality deliverables."
+        },
+        {
+            "title": "Customer care and Digital media",
+            "company": "Company Name",
+            "start_date": "October 2011",
+            "end_date": "June 2013",
+            "description": "Worked with MTN Nigeria Systems and Processes to ensure product launches meet quality standards; performed UATs and FUTs; supported product lifecycle; developed requirements; researched new products; produced awareness videos; tracked cases and metrics; designed information packs and FAQs; monitored product performance; contributed to MTN HR Career Portal and MTN MNP teaser animation."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "school": "Covenant University",
+            "year": "2009"
+        }
+    ],
+    "certifications": [
+        "InfoGraphics Person of the Quarter (2014)",
+        "MTN Yello Star Award (2014)",
+        "Customer Care Satisfaction Training"
+    ],
+    "languages": [
+        "English"
+    ]
+}

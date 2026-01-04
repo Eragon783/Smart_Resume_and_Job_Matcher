@@ -1,0 +1,54 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Professional Summary My objective is to continue to move up within BB&T. I have been a Relationship Banker with BB&T since January 2006. I was promoted from Relationship Banker I to a Relationship Banker II in January 2012. My long term goal is to work my way into our training department and helping new hires learn about BB&T. I am very passionate about BB&T and love working here.",
+    "skills": [
+        "Team leadership",
+        "Self-motivated",
+        "Strong verbal communication",
+        "Positive Attitude",
+        "Strong work ethic",
+        "Excellent Customer Service skills"
+    ],
+    "experience": [
+        {
+            "title": "Branch Banker III",
+            "company": "Company Name – City , State",
+            "start_date": "2006-01",
+            "end_date": "Present",
+            "description": "Proactively initiate, develop, and manage long-term, profitable relationships. Manage existing client relationships to identify future needs and consultatively address them. Profile prospects and clients to identify additional financial needs and refer to appropriate financial partners. Deliver superior quality service in person or by phone such that client needs are met on a consistent, positive basis. Serve as primary contact for new account openings and cross sale of other products and services to clients and prospects. Proactively and reactively contact clients and prospects daily by phone or in person to identify additional client financial needs and strengthen client relationships. Support team sales process by acting upon or referring identified client needs to other lines of business, including but not limited to, retail loan, mortgage, investments, private banking, insurance, small business, merchant services, and other areas. Participate in team sales efforts such as team call nights, sales meetings, and debriefs. Employ BB&T supported sales techniques and processes whenever possible to better serve the client and branch team. Serve as contact for client problem resolution and perform maintenance for current clients as dictated by the needs of the office. Serve as contact in responding to client and non-client service inquiries as dictated by the needs of the office. Support team service process by participating in team service efforts such as service meetings. Must adhere to all BB&T Policies and Procedures, security guidelines, banking regulations and internal control procedures. Responsible for attending applicable training classes and completing computer based training, etc. Stay abreast of all changes in policies and procedures to ensure compliance with current guidelines."
+        },
+        {
+            "title": "Customer Account Specialist",
+            "company": "Company Name – City , State",
+            "start_date": "2005-07",
+            "end_date": "2006-01",
+            "description": "Provide customer service by greeting, assisting and soliciting persons entering the office or on the telephone. Meet personal performance goals through handling complete loan cycle. Receive and process credit and employment verifications and records information obtained. Perform routine transactions at an on-line terminal. Process payments and disbursements. Prepare reports, type correspondence and transactions documents maintain files, handle mail, notarize documents and handle recording and filing."
+        },
+        {
+            "title": "Financial Services Representative",
+            "company": "Company Name – City , State",
+            "start_date": "2004-10",
+            "end_date": "2006-01",
+            "description": "Provide a superior client service experience while assisting in and supporting all aspects of service and sales-related activities in the branch. Develop new and strengthen/expand existing personal and business client relationships through daily client relationship management, providing financial solutions that meet clients' needs and goals, penetrating all product and service lines. Provide financial solutions that meet clients' needs and objectives using sales activities to include conducting consultative conversations, online charts, teleconsulting and making referrals when appropriate. Support the efforts and goals of the branch team through personal sales of a wide variety of SunTrust Bank's products and services and use of referrals, as appropriate across lines of business. Provide service excellence; perform routine client maintenance requests, problem resolution and basic sales functions. Commit to advancing individual knowledge of sales techniques and product knowledge to better serve consumer and business clients. Perform Teller functions as required. Ensure compliance with internal controls, operational procedures and risk management policies. Pursue on-going education of SunTrust products, services, and other lines of business. Additionally, Financial Services Representatives (FSR) in In-Store locations are responsible for service and sales to include in-store prospecting, and assisting clients on platform and teller transactions Responsible for ensuring that all business transactions and practices in the individual's span of control comply with all regulations and the SunTrust Code of Conduct."
+        },
+        {
+            "title": "Floor Supervisor",
+            "company": "Company Name – City , State",
+            "start_date": "2003-01",
+            "end_date": "2004-10",
+            "description": "Floor Supervisor is an entry-level management position. A Floor Supervisor shares in the responsibility for the overall performance the store and assists Store Management with generating sales potential, recruiting and developing staff, maintaining store appearance, controlling expenses and shortages. Welcomed customers into the store and helped them locate items. Handled all customer relations issues in a gracious manner and in accordance with company policies. Identified potential shoplifters and alerted management. Cleaned and organized the store, including the checkout desk and displays. Alerted customers to upcoming sales events and promotions. Stocked and replenished merchandise according to store merchandising layouts. Priced merchandise, stocked shelves and took inventory of supplies. Trained and developed new associates on POS system and key sales tactics. Instructed staff on appropriately handling difficult and complicated sales. Counted cash drawers and made bank deposits."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Eastgate Christian Academy",
+            "year": 1999
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,76 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Investment Banking Summer Analyst with experience in sell-side and buy-side M&A, financial modeling, equity research, and client communications. Proven ability to build levered models, accretion/dilution analyses, and investor materials; contributed to deal processes and client interactions. Background in finance research and sales with strong Excel and programming skills.",
+    "skills": [
+        "Java",
+        "C++",
+        "Python",
+        "App development",
+        "Calculus",
+        "Data analysis",
+        "Economics",
+        "Equity",
+        "Finance",
+        "Financing",
+        "Financial analysis",
+        "French",
+        "Leadership",
+        "Macros",
+        "Excel",
+        "Research",
+        "Sales",
+        "Spanish",
+        "Statistics",
+        "Valuation",
+        "Strategic",
+        "Technical Training"
+    ],
+    "experience": [
+        {
+            "title": "Investment Banking Summer Analyst",
+            "company": "Company Name",
+            "start_date": "May 2013",
+            "end_date": "August 2013",
+            "description": "Advised on a $1.2B sell-side M&A deal; completed buy-side M&A screen; built levered model projecting operations, financing and returns; completed multiple model iterations and sensitivities; coded Excel macros to improve client experience; communicated with clients and partner banks to create investor materials and facilitate deal processes; performed M&A screen for $20B client with 7 criteria; built accretion-dilution mini-model; reviewed equity research and 10-Ks to create profiles and growth commentary."
+        },
+        {
+            "title": "Finance Research Assistant",
+            "company": "Company Name",
+            "start_date": "May 2012",
+            "end_date": "May 2013",
+            "description": "Analyzed SEC filings to assess target company valuations; reviewed takeover background, identifying data points to calculate takeover premiums; organized information in Excel to facilitate data analysis; reviewed final paper for topic and provided content improvements."
+        },
+        {
+            "title": "Sales Clerk",
+            "company": "Company Name",
+            "start_date": "May 2011",
+            "end_date": "August 2011",
+            "description": "Advised customers and completed sales; increased sales earnings by 20% in the Junior's Department; named Employee of the Month for friendly and helpful service."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Aeronautical Engineering",
+            "school": "United States Air Force Academy",
+            "year": 2015
+        },
+        {
+            "degree": "Study Abroad Program",
+            "school": "London School of Economics",
+            "year": 2014
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Colorado Academy, Denver",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "French (fluent)",
+        "Spanish (conversational)"
+    ]
+}

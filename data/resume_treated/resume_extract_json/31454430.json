@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Accomplished and energetic sales representative with a solid history of achievement in retail. Motivated leader with strong organizational and prioritization abilities.",
+    "skills": [
+        "cash handling accuracy",
+        "time management",
+        "detail-oriented",
+        "organized",
+        "multi-tasking",
+        "customer service",
+        "reliable",
+        "punctual",
+        "sales",
+        "billing",
+        "credit",
+        "forms",
+        "insurance",
+        "prepare invoices",
+        "issue receipts",
+        "listening",
+        "policy knowledge",
+        "reading",
+        "recording",
+        "telephone",
+        "English"
+    ],
+    "experience": [
+        {
+            "title": "Sales representative",
+            "company": "Company Name, City, State",
+            "start_date": "2014-12",
+            "end_date": "2016-11",
+            "description": "Confer with customers by telephone or in person to provide information about products or services, take or enter orders, cancel accounts, or obtain details of complaints. Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments, as well as actions taken. Review insurance policy terms to determine whether a particular loss is covered by insurance. Determine charges for services requested, collect deposits or payments, or arrange for billing. Resolve customers' service or billing complaints by performing activities such as exchanging merchandise, refunding money, or adjusting bills. Complete contract forms, prepare change of address records, or issue service discontinuance orders, using computers. Solicit sales of new or additional services or products."
+        },
+        {
+            "title": "Sales representative",
+            "company": "Company Name, City, State",
+            "start_date": "2013-09",
+            "end_date": "2014-05",
+            "description": "Confer with customers by telephone or in person to provide information about products or services, take or enter orders, cancel accounts, or obtain details of complaints. Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments, as well as actions taken. Review insurance policy terms to determine whether a particular loss is covered by insurance. Determine charges for services requested, collect deposits or payments, or arrange for billing. Resolve customers' service or billing complaints by performing activities such as exchanging merchandise, refunding money, or adjusting bills. Compare disputed merchandise with original requisitions and information from invoices and prepare invoices for returned goods. Solicit sales of new or additional services or products. Order tests that could determine the causes of product malfunctions."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name, City, State",
+            "start_date": "2013-05",
+            "end_date": "2014-11",
+            "description": "Receive payment by cash, check, credit cards, vouchers, or automatic debits. Issue receipts, refunds, credits, or change due to customers. Assist customers by providing information and resolving their complaints. Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and that there is adequate change. Answer customers' questions, and provide information on procedures or policies. Calculate total payments received during a time period, and reconcile this with total sales. Weigh items sold by weight to determine prices."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Quest Academy",
+            "year": "2013"
+        },
+        {
+            "degree": "Associate of Arts",
+            "school": "Chabot College - Political Science",
+            "year": "2018"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

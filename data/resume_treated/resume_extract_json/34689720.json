@@ -1,0 +1,82 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "K-12 Vocal Music Teacher with a BS in Music Education from Kansas State University and Sterling College (1999). Experienced in teaching K-12 Vocal Music and 9-12 Band across Elementary, Middle, and High School. Uses Explicit Instruction, HOTS, brain research strategies, and Multiple Intelligences; skilled in MTSS, leadership, and professional development. Passionate about building foundational music knowledge, fostering performance, and applying dual language strategies to diverse classrooms.",
+    "skills": [
+        "Explicit Instruction",
+        "HOTS Instruction",
+        "MTSS Leadership",
+        "Corporate Trainer",
+        "Customer Service Manager",
+        "Quality Control Specialist",
+        "Corporate Scheduler",
+        "Motivational Strategist"
+    ],
+    "experience": [
+        {
+            "title": "Teacher (K-12 Vocal Music and 9-12 Band Assistant)",
+            "company": "Company Name City, State",
+            "start_date": "2002-08",
+            "end_date": "Present",
+            "description": "Taught K-12 Vocal Music and 9-12 Band; Responsible for two schools, one Elementary and one Middle and High School. 6-8 Vocal at Coleman MS, K-8 Vocal Music at Horace Mann Dual Language Magnet and K-5 at Jackson Elem. At Coleman MS had a Choir of 85-90 students and a rotation of 6th Grade Students. Taught General Music and also Choir and performed 3 concerts a year and assisted with Musicals. Horace Mann, rebuilt a new Vocal Music Program from K-8th Grade. Improved Choral Quality and built concert attendance from 40% to 98% in 1.5 Years. Started a select performing group of 3-5Th Graders called Singing Ambassadors. Served as Latchkey Co Director for 3 years and Latchkey Assistant Director for 1 year. Worked in a Dual Language environment for the past 11 years and implemented Dual Language Strategies in my content area."
+        },
+        {
+            "title": "Teacher",
+            "company": "Company Name City, State",
+            "start_date": "2001-08",
+            "end_date": "2002-07",
+            "description": "Taught K-12 Vocal Music and restructured HS Music Curriculum. Responsible for Elementary at Windom and MS/HS at Little River. Was HS Band Assistant."
+        },
+        {
+            "title": "Teacher",
+            "company": "Company Name City, State",
+            "start_date": "2000-08",
+            "end_date": "2001-05",
+            "description": "Taught six sections of each grade level of Kinder through 2nd Grade Students. Gave three programs a year and helped tutor individual students. Accompanied for a select group of 3-5 Grades."
+        },
+        {
+            "title": "Vocal Music / 5-8 Band and 5/6 PE Teacher",
+            "company": "Company Name City, State",
+            "start_date": "1999-08",
+            "end_date": "2000-05",
+            "description": "Vocal Music to Kinder through 8 Grade. Took MS students to contest, and District Choir. Taught Beginning and Advance Band to MS students and took to contest and District Band. Taught 5-6 PE."
+        },
+        {
+            "title": "Vice President of Human Resources",
+            "company": "Company Name City, State",
+            "start_date": "1995-05",
+            "end_date": "1996-10",
+            "description": "Hired all levels of new hires for the CU. Also served as part of the management team. Assisted in new accounts when needed. Provided all hospitality for visitors and Board meetings as well as special events. Worked closely with all people to maintain positive work environment and keep morale high. Assisted with complaints and provided customer service when needed."
+        },
+        {
+            "title": "Scale Interface Installation Specialist and Customer service Specialist",
+            "company": "Company Name City, State",
+            "start_date": "1994-01",
+            "end_date": "1995-01",
+            "description": "Traveled a 3 state area to put COOP scales on computer interface, then train staff how to use our product. Troubleshoot over phone or travel to address issues and follow up."
+        },
+        {
+            "title": "Quality Control Compliance and Assistant Corporate Trainer",
+            "company": "Company Name City, State",
+            "start_date": "1991-08",
+            "end_date": "1993-11",
+            "description": "I answered all Presidential Complaints, forwarded complaints to President, was part of the Presidents Council and traveled to Cherry Hill, NJ twice monthly to meet with corporate to make sure we were compliant with other GE Customer Service based companies. Assisted in Corporate Training of Customer Service Representatives. Managed 14 phone reps. Used phone monitors to monitor service provided by my team of 14 phone representatives. Provided feedback and used motivational strategies to improve customer service."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Music Education",
+            "school": "Sterling College",
+            "year": "1999"
+        },
+        {
+            "degree": "Music Education",
+            "school": "Kansas State University",
+            "year": "1989"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

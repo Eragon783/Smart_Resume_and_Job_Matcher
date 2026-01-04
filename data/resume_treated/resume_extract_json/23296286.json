@@ -1,0 +1,67 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "Sales understanding",
+        "Multi-tasking",
+        "Organizational skills",
+        "Customer- and service-oriented",
+        "Excellent communication skills",
+        "Listening skills",
+        "Reliable and punctual",
+        "Organized",
+        "Flexible schedule",
+        "Bilingual",
+        "Customer service",
+        "Customer Satisfaction",
+        "Quick Learner",
+        "Good interpersonal skills",
+        "Good communication skills",
+        "Works well under pressure",
+        "Attention to detail",
+        "Collaborative team member"
+    ],
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "08/2015",
+            "end_date": "Current",
+            "description": "Maintained up-to-date knowledge of store policies regarding payments, returns and exchanges. Excelled in exceeding daily credit card application goals. Managed quality communication, customer support and product representation for each client. Served as the company's only bilingual Spanish/English customer service representative. Assisted customers with store and product complaints. Processed and issued money orders for customers. Responsible for ringing up customers in a timely manner and guaranteeing high level of customer service. Organized the store by returning all merchandise to its proper place. Processed merchandise returns and exchanges."
+        },
+        {
+            "title": "Team Member",
+            "company": "Company Name",
+            "start_date": "11/2014",
+            "end_date": "03/2015",
+            "description": "Maintained up-to-date knowledge of store policies regarding payments, returns and exchanges. Worked as a team member performing cashier duties, product assistance and cleaning."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "02/2017",
+            "end_date": "Current",
+            "description": "Worked as a team member performing cashier duties, product assistance and cleaning. Assisted customers with store and product complaints. Organized the store by returning all merchandise to its proper place. Processed merchandise returns and exchanges."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Monroe High School",
+            "year": "2015"
+        },
+        {
+            "degree": "Associate of Science",
+            "school": "South Piedmont Community College",
+            "year": "Ongoing"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish",
+        "English"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "IT Support Technician/Specialist with 20+ years of experience delivering customer-focused IT support, hardware/software maintenance, and helpdesk operations. Trained in Networking (Cisco and Microsoft) at Southern Crescent Technical College; pursuing Network Management certification at Western Governors University. Skilled at explaining complex technical concepts to users, managing Cisco switches, VOIP installs, remote desktop tools, and class management software; strong focus on professionalism, problem-solving, and service quality.",
+    "skills": [
+        "LAN aptitude",
+        "MS Office proficiency",
+        "Exceptional troubleshooter",
+        "Virus/Spyware Removal",
+        "Desktop and Laptop systems",
+        "Active Directory",
+        "Computer installation",
+        "Computer Troubleshooting",
+        "Software installation/upgrading",
+        "Windows Server 2008 R2",
+        "Microsoft Office Suite",
+        "VOIP Phone Installation",
+        "Printers",
+        "PC Security systems",
+        "Kaseya remote desktop operations",
+        "RiseVision signage software",
+        "iTALC class management software",
+        "Cisco switches"
+    ],
+    "experience": [
+        {
+            "title": "I.T. Support Technician/Specialist",
+            "company": "Company Name",
+            "start_date": "2011-01-01",
+            "end_date": "Present",
+            "description": "Respond to tickets via helpdesk; support Faculty and Staff with computer and networking problems; installed VOIP phones; RiseVision software for signage; oversaw installation procedures and currently supervise iTALC class management software; worked with Kaseya management system for remote desktop operations and automated workstation updates; involved in inventory control; maintained professional, knowledgeable interactions with users; ensured problem resolution and user satisfaction."
+        },
+        {
+            "title": "Children's Program Developer/Operations Manager",
+            "company": "Company Name",
+            "start_date": "2009-01-01",
+            "end_date": "2011-01-01",
+            "description": "Oversaw day-to-day operations; sold memberships and retail goods; upgraded packages; taught martial arts classes and designed curriculum; resolved issues between customers and management; communicated one-on-one with customers; increased sales revenue and membership count."
+        },
+        {
+            "title": "Instructor/Owner",
+            "company": "Company Name",
+            "start_date": "2005-01-01",
+            "end_date": "2009-01-01",
+            "description": "Oversaw daily operations; sold memberships and retail goods; designed curriculum; taught martial arts to children and adults; resolved customer-management issues; contributed to business sale to a new owner."
+        },
+        {
+            "title": "Technical Support",
+            "company": "Company Name",
+            "start_date": "2005-01-01",
+            "end_date": "2006-01-01",
+            "description": "Solved problems over the phone for a software package used to build picture frames; addressed computer and physical design issues; developed effective phone communication and customer service skills."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Network Administration",
+            "school": "Western Governors University",
+            "year": 2017
+        },
+        {
+            "degree": "Associates of Applied Technology: Networking Cisco and Microsoft",
+            "school": "Southern Crescent Technical College",
+            "year": 2012
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Griffin High School",
+            "year": 1991
+        }
+    ],
+    "certifications": [
+        "CompTIA Project+ Certification",
+        "CIS Web Design Specialist Certification"
+    ],
+    "languages": []
+}

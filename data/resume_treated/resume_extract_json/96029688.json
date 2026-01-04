@@ -1,0 +1,83 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Mechanical Engineering graduate seeking opportunity that will utilize my skills in Mechanical Design, Manufacturing Processes, DOE and Project Management. Skilled in CAD, GD&T, Analysis & Simulation, Quality Control, and Maintenance.",
+    "skills": [
+        "Finite Element Analysis (FEA)",
+        "IBM Maximo 7.6",
+        "SharePoint",
+        "Oracle",
+        "3-D Design for Manufacturability (DFM)",
+        "Lean Manufacturing",
+        "CAD (Computer-Aided Design)",
+        "Geometric Dimensioning & Tolerancing (GD&T)",
+        "PFMEA (Process Failure Mode and Effects Analysis)",
+        "CNC",
+        "AutoCAD",
+        "NX/Unigraphics",
+        "Catia",
+        "SolidWorks",
+        "ANSYS",
+        "MathCAD",
+        "MATLAB",
+        "Minitab",
+        "Design of Experiments (DOE)",
+        "Quality Function Deployment (QFD)",
+        "5S",
+        "JMP",
+        "Pam-Stamp",
+        "Microsoft Project",
+        "Microsoft Office Suite",
+        "SPC (Statistical Process Control)",
+        "Project Management",
+        "Product Design",
+        "Documentation",
+        "Problem Solving"
+    ],
+    "experience": [
+        {
+            "title": "Maintenance Engineering Co-Op",
+            "company": "Company Name",
+            "start_date": "2019-01",
+            "end_date": "2019-11",
+            "description": "Functioned as CMMS technical expert; liaison to Global IT and Maximo Support; managed Maximo workflows; resolved Maximo 7.6 issues; expanded facility Maximo users by 50% and enabled 1000+ global users; provided problem-solving support and training; created, assigned and scheduled Preventive and Predictive Maintenance plans; performed PFMEA using downtime trends; champion for Spindle Vibration Analysis; trained tradesmen to collect and analyze vibration data; implemented 5S in toolroom; performed GP-12 quality inspection in PPAP; investigated part failures by studying electrical, hydraulic and pneumatic prints using AutoCAD; planned maintenance with Production to minimize downtime; identified and coordinated purchase of new/obsolete parts using Oracle."
+        },
+        {
+            "title": "Student Team Leader",
+            "company": "Company Name",
+            "start_date": "2018-05",
+            "end_date": "2018-12",
+            "description": "Raised $5,000+ for student scholarships; coached fundraising techniques to 15 Student Ambassadors."
+        },
+        {
+            "title": "Mechanical Intern",
+            "company": "Company Name",
+            "start_date": "2016-01",
+            "end_date": "2016-02",
+            "description": "Fixed design errors considering design parameters of vehicle transmission unit using SolidWorks; registered data for FMEA and BOM; assisted Continuous Improvement team in reviewing and refining processes; generated in-depth Root Cause Analysis reports."
+        },
+        {
+            "title": "Manufacturing Intern",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "2015-02",
+            "description": "Utilised GD&T and Unigraphics NX to identify and fix measurement and design errors; analysed models using ANSYS; implemented Lean Manufacturing and reduced waste by 5%; performed geometric and algebraic calculations on CNC machines."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Mechanical Engineering",
+            "school": "Western Michigan University",
+            "year": 2019
+        },
+        {
+            "degree": "Bachelor of Engineering in Automotive Engineering",
+            "school": "Dayananda Sagar College of Engineering, Visvesvaraya Technological University",
+            "year": 2017
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

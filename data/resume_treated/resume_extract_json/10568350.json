@@ -1,0 +1,61 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Enthusiastic customer service/telesales representative with in-depth knowledge of sales, account management and training. Results-driven manager with proven ability to establish rapport with clients. Energetic, highly organized professional skilled at multi-tasking, balancing client needs and driving sales.",
+    "skills": [
+        "balance",
+        "clients",
+        "fast",
+        "safety",
+        "sales",
+        "statistics"
+    ],
+    "experience": [
+        {
+            "title": "Manager / Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "Current",
+            "description": "Cultivated positive relationships with participants; instructed group fitness classes; promoted safety; trained staff; educated clients on exercise during travel; reviewed weekly sales numbers and club statistics to identify areas for improvement."
+        },
+        {
+            "title": "Cocktail Waitress",
+            "company": "Company Name",
+            "start_date": "July 2013",
+            "end_date": "October 2013",
+            "description": "Maintained knowledge of menu items and beverages; provided exceptional service; resolved situations with intoxicated guests; upsold products; created a warm atmosphere."
+        },
+        {
+            "title": "Waitress",
+            "company": "Company Name",
+            "start_date": "February 2013",
+            "end_date": "July 2013",
+            "description": "Monitored dining room for seating and safety; maintained menu knowledge; promoted items; ensured cleanliness and sanitation; delivered professional, friendly service."
+        },
+        {
+            "title": "Waitress",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "July 2013",
+            "description": "Provided professional service; promoted restaurant items; built positive working relationships; delivered attentive service."
+        },
+        {
+            "title": "Waitress / Cocktail Server / Beer Tub",
+            "company": "Company Name",
+            "start_date": "May 2012",
+            "end_date": "December 2012",
+            "description": "Greeted and served customers; maintained knowledge of menu and garnishes; suggested additional items to increase sales; participated in bar incentives."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Eagan High School",
+            "year": "2011"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

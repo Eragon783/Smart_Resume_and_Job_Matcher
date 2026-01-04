@@ -1,0 +1,71 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Dedicated educator committed to creating a classroom atmosphere that is stimulating, encouraging and supportive for all students. Skilled ESL Instructor who uses effective and efficient methods of teaching, while focusing on the individual needs of each student.",
+    "skills": [
+        "Microsoft Office",
+        "Academic assessment methods",
+        "Whole Brain Teaching techniques as classroom management/procedures",
+        "Certified ESL Instructor",
+        "Proficiency in differentiated instruction",
+        "Co-teaching experience in kindergarten",
+        "SMART Board",
+        "MS Word",
+        "PowerPoint",
+        "Excel",
+        "Technology Integration",
+        "Classroom Management",
+        "Character Development",
+        "ELL instruction",
+        "Excellent student and parent relations"
+    ],
+    "experience": [
+        {
+            "title": "Kindergarten Teacher",
+            "company": "Company Name",
+            "start_date": "09/2013",
+            "end_date": "Current",
+            "description": "Implemented Daily 5 Language Arts and Daily 3 Math; Multi-Tier System of Supports(MTSS); Proficient in Dibel and TRC assessments; Differentiated tasks/activities; Collaborating Member of the Schedule Committee for SPEC/LRE; Co-Teach with LBs1 in Language Arts and Math."
+        },
+        {
+            "title": "First Grade Teacher",
+            "company": "Company Name",
+            "start_date": "09/2007",
+            "end_date": "09/2013",
+            "description": "Collaborated with colleagues on developing new classroom projects and monthly themes. Encouraged children to be understanding of others. Promoted good behaviors by using the positive reinforcement method."
+        },
+        {
+            "title": "Third Grade Teacher",
+            "company": "Company Name",
+            "start_date": "09/1999",
+            "end_date": "09/2007",
+            "description": "Created and implemented developmentally-appropriate curriculum that addressed all learning styles. Distributed quarterly educational assessments, similar to report cards, to each parent."
+        }
+    ],
+    "education": [
+        {
+            "degree": "ELL Endorsement",
+            "school": "North Park University",
+            "year": 2015
+        },
+        {
+            "degree": "M.A. in Teacher Leadership",
+            "school": "Roosevelt University",
+            "year": 2002
+        },
+        {
+            "degree": "B.A. in Early Childhood Education",
+            "school": "National-Louis University",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        "Certified ESL Instructor",
+        "ELL Endorsement"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": null,
+    "skills": [
+        "Computer Skills",
+        "documentation",
+        "staff training",
+        "English",
+        "Hebrew",
+        "inventory control",
+        "Law",
+        "legal",
+        "legal documents",
+        "notes",
+        "Microsoft Office",
+        "Spanish",
+        "Stata"
+    ],
+    "experience": [
+        {
+            "title": "Intern",
+            "company": "Hoet, Pelaez, Castillo y Linares Law Firm",
+            "start_date": "June 2014",
+            "end_date": "August 2014",
+            "description": "Assisted lawyers in their cases paperwork and legal documents. Transcribed court notes and minutes, managed schedules. Attended to local courts with lawyers to evaluate legal proceedings."
+        },
+        {
+            "title": "Intern",
+            "company": "Unknown",
+            "start_date": "May 2013",
+            "end_date": "August 2013",
+            "description": "Organized documentation for legal filings and procedures for lawyers and their cases. Collaborated with several of the associates by going to local courts and following their assigned cases."
+        },
+        {
+            "title": "Deli Staff",
+            "company": "Company Name - City, State",
+            "start_date": "May 2015",
+            "end_date": "August 2015",
+            "description": "Performed deli servings, event organization, inventory control, and new staff training."
+        },
+        {
+            "title": "Active Member",
+            "company": "Latin American Association, Boston University",
+            "start_date": "2015",
+            "end_date": "Present",
+            "description": "Active member of the Latin American Association at Boston University (LatAm)."
+        },
+        {
+            "title": "Basic Training",
+            "company": "Israeli Army",
+            "start_date": "September 2013",
+            "end_date": "December 2013",
+            "description": "Basic training in the Israeli Army."
+        },
+        {
+            "title": "Leadership Camp",
+            "company": "Leadership Camp in Israel",
+            "start_date": "August 2012",
+            "end_date": "August 2012",
+            "description": "Leadership camp experience in Israel."
+        },
+        {
+            "title": "Models of the United Nations",
+            "company": "Models of the United Nations",
+            "start_date": "2013",
+            "end_date": "2013",
+            "description": "Participation in Model United Nations."
+        },
+        {
+            "title": "Community Service Experiences",
+            "company": "Various",
+            "start_date": "2012",
+            "end_date": "2013",
+            "description": "Community service experiences."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Economics and Political Science",
+            "school": "Boston University",
+            "year": "2014-Present"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Colegio Moral y Luces",
+            "year": "July 2013"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish",
+        "English",
+        "Hebrew"
+    ]
+}

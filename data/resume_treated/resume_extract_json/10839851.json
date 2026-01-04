@@ -1,0 +1,54 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Information Technology Specialist seeking a career in Information Assurance with a focus on Cyber Network Defense.",
+    "skills": [
+        "Desktops",
+        "Ethernet cables",
+        "Cisco routers",
+        "Video & Sound Cards",
+        "CD-ROM Drives",
+        "Multiplexors",
+        "Scanners",
+        "Monitors",
+        "Switches",
+        "TCP/IP Configuration",
+        "Active Directory",
+        "Avaya",
+        "Microsoft Office",
+        "Remedy",
+        "IT Service Management (ITSM)"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Specialist",
+            "company": "Company Name",
+            "start_date": "2018-02",
+            "end_date": "Present",
+            "description": "Defines scope, plans and deliverables for assigned projects; Coordinates and collaborates with others in analyzing collected requirements to ensure plans and identified solutions meet customer needs and expectations; Confirms and prioritizes project plans and deliverables with the customer, participates in business and technical information technology solution implementations, upgrades, enhancement and conversions; Understands and uses appropriate tools to analyze, identify and resolve business and or technical problems; Applies metrics to monitor performance and measure key project criteria; Performs maintenance and troubleshoots network connectivity, printer, and other hardware issues for both uses on site and those that are remote; Assists users with deployment and maintenance of desktop workstations."
+        },
+        {
+            "title": "Information Technology Specialist",
+            "company": "Diplomatic Security Service for the Department of State",
+            "start_date": "2016-06",
+            "end_date": "2018-01",
+            "description": "Protected U.S. diplomats while visiting foreign dignitaries for diplomatic missions; Maintained security awareness in a federal environment; Assisted in employee management; Interacted with VIP personnel such as members of the Senate, foreign and domestic diplomats, and the Secretary of State."
+        },
+        {
+            "title": "Information Technology Interpreter",
+            "company": "Company Name",
+            "start_date": "2010-08",
+            "end_date": "2016-03",
+            "description": "Assisted United States military in training foreign nationals on information technology such as basic troubleshooting and basic system set up; Diagnosed computer errors and provided technical support; Backed up and restored organizational data files and systems; Installed, configured and upgraded PC software and operating systems; Created and updated IT support tickets per Standard Operating Procedures; Provided customer support for email, hosted applications, desktop, system and network problems within defined Service Level Agreements."
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "languages": [
+        "Dari",
+        "Dutch",
+        "Russian"
+    ]
+}

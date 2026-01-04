@@ -1,0 +1,100 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Certified Nursing Assistant with 3+ years of experience in fast-paced environments handling confidential paperwork, administering medication, and providing quality patient care. Skilled in wound care, mobility assistance, charting, and vital signs monitoring. Experienced in home health and hospice care; reliable with strong rapport with patients, families, and staff. CPR/BLS certified; HIPAA compliant; seeking permanent care position in a health care facility.",
+    "skills": [
+        "Clinical training",
+        "Strong medical ethic",
+        "Enthusiastic caregiver",
+        "Extensive medical terminology knowledge",
+        "Practiced inpatient and outpatient caregiver",
+        "Patient/family-focused",
+        "Blood Withdrawal certification",
+        "Infection control standards",
+        "Flow sheet charting",
+        " CPR/BLS certified",
+        "Vital signs charting",
+        "Patient positioning understanding",
+        "Specimen collection/processing",
+        "AED certification",
+        "Problem resolution ability",
+        "Medical assisting",
+        "Quality control procedures",
+        "Strong organizational skills",
+        "Active listening skills",
+        "Courteous demeanor",
+        "Energetic work attitude",
+        "Inventory control familiarity",
+        "Adaptive team player",
+        "Results-oriented",
+        "Self-directed",
+        "Excellent communication skills",
+        "Computer-savvy",
+        "Strong problem solver",
+        "Resourceful",
+        "HIPAA compliance",
+        "Grooming and bathing assistance",
+        "Valid AL driver's license",
+        "Medical terminology knowledge",
+        "Calm and level-headed under duress"
+    ],
+    "experience": [
+        {
+            "title": "Home Healthcare Technician",
+            "company": "Company Name",
+            "start_date": "September 2015",
+            "end_date": "Present",
+            "description": "Currently working full-time as a home health patient care technician; seeking a position in a medical center or office setting with benefits."
+        },
+        {
+            "title": "Certified Nursing Assistant",
+            "company": "Professional ExPerience",
+            "start_date": "April 2015",
+            "end_date": "May 2015",
+            "description": "Certified Nursing Assistant with home health care and hospice care experience; proven reliability and ability to establish rapport with patients, families, and staff. Also certified in Phlebotomy, EKG and CPR."
+        },
+        {
+            "title": "Admitting Clerk I / Emergency Room Clerk I",
+            "company": "Company Name City, State",
+            "start_date": "March 1998",
+            "end_date": "July 2002",
+            "description": "Interacted with patients, nurses, doctors and families; supported admitting and ER processes; empathetic and supportive in challenging situations."
+        },
+        {
+            "title": "Certified Nursing Assistant",
+            "company": "Company Name City, State",
+            "start_date": "February 1989",
+            "end_date": "March 1993",
+            "description": "Cared for residents of all ages; helped with daily activities (bathing, dressing, oral care, exercise); maintained room cleanliness and supported patients reading and engagement."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Patient care technician / EKG Tech., Phlebotomy Tech.",
+            "school": "Jeremiah's Hope Academy",
+            "year": "2015"
+        },
+        {
+            "degree": "Paralegal studies",
+            "school": "Wallace State Community College",
+            "year": ""
+        },
+        {
+            "degree": "GED: General Studies",
+            "school": "Dora High School / Wallace Community College",
+            "year": "1993"
+        }
+    ],
+    "certifications": [
+        "CPR",
+        "BLS",
+        "AED",
+        "Phlebotomy",
+        "EKG"
+    ],
+    "languages": [
+        "English"
+    ]
+}

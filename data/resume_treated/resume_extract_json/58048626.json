@@ -1,0 +1,89 @@
+{
+    "name": "Natalia Garcia",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Versatile and solutions-driven professional with strong background in strategic planning, sales management, general business administration, CRM, HR, and operations planning. Proficient at identifying cost-effective strategies to promote savings and able to define, develop and implement action plans and policies to maximize productivity and efficiency.",
+    "skills": [
+        "CRM",
+        "Sales management",
+        "General business administration",
+        "HR",
+        "Operations planning",
+        "Coordination",
+        "Monitoring",
+        "Budgeting",
+        "Cost control",
+        "Customer database management",
+        "Accountancy",
+        "Accounting systems",
+        "Contract negotiation",
+        "Client relations",
+        "Data analysis",
+        "Presentations",
+        "Reporting",
+        "Office administration",
+        "Team leadership",
+        "Recruitment",
+        "Safety compliance",
+        "Communication",
+        "English",
+        "Spanish",
+        "French (Conversational)",
+        "Italian (Conversational)",
+        "Travel planning",
+        "Intranet management",
+        "Booking systems",
+        "Event planning",
+        "Vendor management",
+        "Procurement",
+        "Reconciliations"
+    ],
+    "experience": [
+        {
+            "title": "Assistant to Managing Director",
+            "company": "Company Name, City",
+            "start_date": "December 2013",
+            "end_date": "April 2014",
+            "description": "Provided dedicated support to the Managing Director and other executives; conducted research; issued corporate presentations; arranged meetings and travel; managed phone calls and calendar; liaised with vendors and contractors; prepared requisition purchases and filing; produced reports and weekly/monthly presentations; improved overall quality and efficiency; reconciled vendor invoices."
+        },
+        {
+            "title": "Business Manager",
+            "company": "Company Name, City",
+            "start_date": "April 2008",
+            "end_date": "December 2011",
+            "description": "Organized and supervised central services (reception, security, maintenance, mail) and day-to-day office operations; ensured contracts, insurance requirements and safety standards compliance; managed 10 staff; developed and updated customer database; implemented cash loss prevention and security policies; analyzed sales figures and forecasted volumes; participated in recruitment and staff development; produced performance reports and supported budgeting and cost estimates; liaised with authorities and expanded relationships."
+        },
+        {
+            "title": "Travel Consultant",
+            "company": "Viajes Marsans, S.A.",
+            "start_date": "October 2004",
+            "end_date": "April 2008",
+            "description": "Key person after office Director; travel market knowledge and management of booking systems (Global Amadeus, Sire); managed intranet and accounting system; planning, organization and sale of travels, packages, plane tickets and events; established a new department to service European tour operators with Spain-related services."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters in Digital Marketing and 2.0 Communications",
+            "school": "ENyD Business School & Universidad Europea Miguel de Cervantes",
+            "year": 2013
+        },
+        {
+            "degree": "MBA",
+            "school": "EAE (school of business administration)",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelors of Arts: Tourism Business Management",
+            "school": "National University of Distance Education",
+            "year": 2002
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "French (Conversational)",
+        "Italian (Conversational)"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Innovative and artistic professional with 6 years in the fashion industry, and an energetic recruiter who is self-motivated and results-driven with strong communication, analytical, problem solving and reasoning skills.",
+    "skills": [
+        "Administrative Management",
+        "Problem Solving",
+        "POS",
+        "Human Resources",
+        "Time Management",
+        "Customer Service",
+        "Critical Thinking",
+        "Great Organizational Skills",
+        "People Skills"
+    ],
+    "experience": [
+        {
+            "title": "HR Associate",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "Present",
+            "description": "Recruit and interview at least 10 applicants per week. Answer employee questions regarding benefits and company protocol as well as resolving any issues. Conduct new employee orientation to foster positive attitude toward organizational objectives. Direct personnel, training, and labor relations activities. Identify staff vacancies and recruit, interview, and select applicants. Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems."
+        },
+        {
+            "title": "Cashier Captain",
+            "company": "Company Name",
+            "start_date": "2014-02",
+            "end_date": "2014-09",
+            "description": "Maintained knowledge of current promotions, policies regarding payment and exchanges, and security practices. Operated a cash register to process cash, check and credit card transactions. Administered all point of sale opening and closing procedures. Offered exceptional customer service to differentiate and promote the company brand. Offered direction and gave constructive feedback to motivate team members."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2013-11",
+            "end_date": "2014-02",
+            "description": "Explained information about the quality, value and style of products to influence customer buying decisions. Guided customers in choosing items that reflected personal style and shape. Recommended merchandise based on customer needs."
+        },
+        {
+            "title": "Cashier, Shipment Associate",
+            "company": "Company Name",
+            "start_date": "2010-11",
+            "end_date": "2014-01",
+            "description": "Computed sales prices, total purchases and processed payments. Maintained knowledge of current promotions, policies regarding payment and exchanges, and security practices. Operated a cash register to process cash, check and credit card transactions. Replenished floor stock and processed shipments to ensure product availability for customers."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name",
+            "start_date": "2011-08",
+            "end_date": "2012-12",
+            "description": "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information. Designed electronic file systems and maintained electronic and paper files. Maintained the front desk and reception area in a neat and organized fashion. Dispersed incoming mail to correct recipients throughout the office. Organized files, developed spreadsheets, faxed reports and scanned documents. Made copies, sent faxes and handled all incoming and outgoing correspondence."
+        },
+        {
+            "title": "1st and 2nd Grade Sunday School Teacher",
+            "company": "Company Name",
+            "start_date": "2009-10",
+            "end_date": "2010-05",
+            "description": "Planned lessons and created classroom materials to instruct students about Judaism. Established and enforced rules for behavior and procedures for maintaining order among a class of 18 students. Created and enforced child-based hands-on curriculum to promote student interest and receptive learning."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Culture and Media Studies",
+            "school": "Eugene Lang College, The New School for Liberal Arts",
+            "year": 2015
+        },
+        {
+            "degree": "Minor in Psychology",
+            "school": "Lang College, The New School for Liberal Arts",
+            "year": 2015
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

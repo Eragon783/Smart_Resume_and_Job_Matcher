@@ -1,0 +1,108 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced software engineer, and hands-on engineering manager with 20+ years of product development experience in broadcast media, and 10+ years of experience in leading development teams (20+ engineers), hiring (10+ offers, 40+ interviews), HR personnel procedures, performance reviews, and project transitions.",
+    "skills": [
+        "API",
+        "Approach",
+        "ATL",
+        "audio",
+        "backup",
+        "broadcast",
+        "C++",
+        "CLI",
+        "com",
+        "CA",
+        "Hardware",
+        "concept",
+        "Content",
+        "clients",
+        "documentation",
+        "dynamic HTML5",
+        "editing",
+        "XML",
+        "FTP",
+        "functional",
+        "drawing",
+        "GUI",
+        "http",
+        "IDs",
+        "Innovation",
+        "explorer",
+        "IP",
+        "JavaScript",
+        "json",
+        "LAN",
+        "MB",
+        "C#",
+        "MFC",
+        "office",
+        "Win",
+        "Windows",
+        "2000",
+        "migration",
+        "NAS",
+        "OOP",
+        "page",
+        "Proxy",
+        "rendering",
+        "SAN",
+        "Scrum",
+        "servers",
+        "specification",
+        "team management",
+        "threads",
+        "troubleshoot",
+        "Video",
+        "Video Editing",
+        "Visual C++",
+        "workflow",
+        "writer"
+    ],
+    "experience": [
+        {
+            "title": "Software Engineering Manager",
+            "company": "Company Name, City, State",
+            "start_date": "09/2009",
+            "end_date": "Current",
+            "description": "Led Nexio video server applications across multiple sites; adopted Scrum since 2014; migrated source control to Mercurial and Jenkins; delivered Nexio Software Suite 6.0-8.0 and Global Proxy Suite 2.5-3.5; initiated SOA with 2 web services and 10 services; developed Content Manager, Helper, Picon, and Requestor services; evolved services: Encoder, GPRX, Helios, MB, Scavenger, Transcoder; published REST API and URI specifications and 10 JSON protocol API documents; generated a scalable UMID-based workflow for primary-backup scenarios; received Reuse Innovation Award for IP reuse."
+        },
+        {
+            "title": "Software Engineering Manager",
+            "company": "Company Name, City, State",
+            "start_date": "11/2005",
+            "end_date": "08/2009",
+            "description": "Development and team management for Nexio editing applications; built core editing team to size 8 and coordinated with Beijing; established development process documentation and peer code review guidelines; implemented crash dump analysis for hard-to-reproduce issues; released Video Editing Suite 2.5; developed server integration modules for video broadcast workflows."
+        },
+        {
+            "title": "Principal Software Engineer",
+            "company": "Harris Corporation (acquired Leitch)",
+            "start_date": "08/1997",
+            "end_date": "10/2005",
+            "description": "Architected, designed, and implemented DLL components for evolution of a video editing product; built interactive playback architecture; developed media file reader/writer components; created scalable decoder/encoder architectures; developed video and audio rendering engines; built hardware integration modules; performed 64-bit and Unicode migration affecting over 4 million lines of code."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Star Media",
+            "start_date": "08/1994",
+            "end_date": "07/1997",
+            "description": "Star Media startup; created Velocity video editing software for post-production; projects included project media management tools, Render Bank, and video effects."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S",
+            "school": "Illinois Institute of Technology",
+            "year": null
+        },
+        {
+            "degree": "B.E",
+            "school": "National Institute of Technology",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

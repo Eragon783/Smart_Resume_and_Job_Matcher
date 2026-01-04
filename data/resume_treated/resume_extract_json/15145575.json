@@ -1,0 +1,105 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Damoh, Madhya Pradesh, India",
+    "summary": "Experienced IT Support Officer with over 6 years in site and networking operations, installation, configuration, technical support and incident management. Cisco CCNA certified, proficient in Windows Server 2003/2008, Ubuntu server, DHCP/DNS/File servers, AD, NAS, VMware, routers, switches and firewalls. Strong communicator with analytical and problem-solving abilities; experienced in data security, network monitoring, virtualization, and IT infrastructure deployment. Notable achievements include upgrading enterprise domain server from Windows 2003 to 2008 and automating tasks to save time and resources.",
+    "skills": [
+        "Active Directory",
+        "Backup",
+        "CCNA",
+        "Cisco",
+        "Cisco Certified",
+        "Computer Hardware",
+        "Hardware",
+        "Client",
+        "Customer satisfaction",
+        "DHCP",
+        "DNS",
+        "EIGRP",
+        "ERP",
+        "Firewalls",
+        "FTP",
+        "GUI",
+        "Hindi",
+        "IP",
+        "LAN",
+        "Microsoft Certified Professional",
+        "MCP",
+        "Microsoft Office",
+        "Office",
+        "Outlook",
+        "Windows 8",
+        "Windows XP",
+        "Windows 7",
+        "ESS",
+        "Network Associates",
+        "Network Printers",
+        "Network Troubleshooting",
+        "Networking",
+        "OSPF",
+        "RIP",
+        "Routers",
+        "Routing",
+        "SAP",
+        "SAP Basis",
+        "Servers",
+        "Switches",
+        "Technical Support",
+        "TELNET",
+        "Terminal Server",
+        "Troubleshooting",
+        "Vista",
+        "WAN",
+        "Windows Server"
+    ],
+    "experience": [
+        {
+            "title": "IT Support Officer",
+            "company": "Company Name",
+            "start_date": "March 2011",
+            "end_date": "August 2015",
+            "description": "Comprehensive knowledge of CISCO networking technologies and Protocols. Handling the network infrastructure LAN/WAN, migration & configuration of network Devices (Routers, Switches, Firewalls etc.). Skilled in planning and implementing LAN/WAN solutions. Configuring Routing protocols (RIP, EIGRP, OSPF, Static and Default Route). Assisting in the design & implementation of the network and troubleshooting. Troubleshooting and extending high-end technical support on various servers and ensuring high customer satisfaction through prompt resolution of problems. Configuring and troubleshooting IP Phones, Network Printers and Virtual Interface (VMware) related issues. Managing LAN, Active Directory, DNS, DHCP, FTP, TELNET, user profiles, remote connectivity, IP addressing, and group policies. Configuring Windows Server 2003/2008 with AD, Terminal Services, Group Policy and data server security. SAP Basis client GUI installation, SAP Online Support, Backup and DR/HADR data synchronization and monitoring. User management and security policies, File server/share permissions, and remote access tools."
+        },
+        {
+            "title": "System Administrator",
+            "company": "Company Name",
+            "start_date": "April 2010",
+            "end_date": "January 2011",
+            "description": "Comprehensive knowledge of CISCO networking technologies and Protocols. Handling the network infrastructure LAN/WAN, migration & configuration of network Devices (Routers, Switches, Firewalls etc.). Skilled in planning and implementing LAN/WAN solutions. Configuring Routing protocols (RIP, EIGRP, OSPF, Static and Default Route). Assisting in the design & implementation of the network and troubleshooting. Troubleshooting and high-end technical support on various Servers and ensuring customer satisfaction."
+        },
+        {
+            "title": "Lab Technician Technical Support",
+            "company": "Company Name",
+            "start_date": "April 2009",
+            "end_date": "March 2010",
+            "description": "Provided laboratory technical support and hardware/network assistance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A",
+            "school": "EIILM University",
+            "year": ""
+        },
+        {
+            "degree": "Higher Secondary",
+            "school": "M.P. Board, Bhopal",
+            "year": ""
+        },
+        {
+            "degree": "High School",
+            "school": "M.P. Board, Bhopal",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "MCP (Microsoft Certified Professional)",
+        "CCNA - Cisco Certified Network Associate",
+        "JCHNP - Jetking Certified Hardware Networking Professional"
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "name": "David",
+    "email": "",
+    "phone": "",
+    "location": "Tel Aviv",
+    "summary": "Frontend / Full-Stack Developer with 3 years of frontend experience and the last 6 months working Go as a Full Stack Developer. Proficient in React, JavaScript, TypeScript; backend experience with Golang and Node.js.",
+    "skills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Golang",
+        "Node.js",
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "LESS",
+        "Webpack",
+        "WebSockets",
+        "GraphQL",
+        "RxJs",
+        "NgRx",
+        "Redux",
+        "Thunk",
+        "Saga",
+        "CSS-modules",
+        "Styled Components",
+        "Bootstrap",
+        "Animations (CSSTransition, CSS Animate)",
+        "Express",
+        "Koa",
+        "Nest",
+        "Mongoose",
+        "Sequelize",
+        "Logrus",
+        "Validator",
+        "Echo",
+        "Unit Tests",
+        "REST API",
+        "gRPC",
+        "MongoDB",
+        "Docker",
+        "Docker-Compose",
+        "Nginx"
+    ],
+    "experience": [
+        {
+            "title": "Full-stack Developer",
+            "company": "OZON.ru",
+            "start_date": "October 2021",
+            "end_date": "Present",
+            "description": "Creating the Cart / Checkout part of Ozon.ru Marketplace Frontend: Vue, TypeScript, WebPack, SCSS Backend - Golang, Postgres, MemCached"
+        },
+        {
+            "title": "Frontend Engineer (Angular, Vue)",
+            "company": "Beeline Russia",
+            "start_date": "October 2020",
+            "end_date": "October 2021",
+            "description": "Developing of React SPA application TypeScript, MobX, Styled WebPack, GraphQL Before june: Development of main client app, an Angular SPA, and back office on Vue 2"
+        },
+        {
+            "title": "Frontend Engineer",
+            "company": "",
+            "start_date": "November 2019",
+            "end_date": "October 2020",
+            "description": "Adding new features and legacy code support to government web service - National Accreditation System Adding functionality to micro SPA on React JavaScript, TypeScript Angular 2+, React, RxJs HTML5/SCSS Git, GitLab, TeamCity, Docker"
+        },
+        {
+            "title": "Frontend Engineer",
+            "company": "24",
+            "start_date": "August 2019",
+            "end_date": "October 2019",
+            "description": "Development of SPA Angular 7 web-application for business client managers JavaScript, TypeScript, Angular 7, RxJs SCSS, Bootstrap 4 Page 2 of 3 Git, tfs, agile"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's degree, technical systems",
+            "school": "Moscow State Institute of Radio Engineering, Electronics and Automation (Technical University)",
+            "year": "2015 - 2019"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Russian"
+    ]
+}

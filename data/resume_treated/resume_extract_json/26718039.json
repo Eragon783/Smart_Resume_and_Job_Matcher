@@ -1,0 +1,51 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced catering chef skilled in preparing large volumes of food quickly and efficiently. Highly skilled in international cuisine. Seeking a position at a restaurant where I can call it 'home'.",
+    "skills": [
+        "delivery",
+        "Detail oriented",
+        "English",
+        "inventory",
+        "Inventory Management",
+        "logistics",
+        "producing",
+        "purchasing",
+        "quality",
+        "retail",
+        "scheduling",
+        "Spanish",
+        "work-flow"
+    ],
+    "experience": [
+        {
+            "title": "Chef",
+            "company": "Company Name, City, State",
+            "start_date": "May 2009",
+            "end_date": "Current",
+            "description": "Manage daily kitchen operations including inventory, purchasing, and scheduling Ensure proper food handling methods are observed Assist kitchen staff in producing food for catering Systematically control food quality and costs Develop new menu items to enhance catering and retail food service revenue and productivity goals."
+        },
+        {
+            "title": "Catering Chef",
+            "company": "Company Name, City, State",
+            "start_date": "Jun 2000",
+            "end_date": "May 2009",
+            "description": "Effectively managed and produced food for catered events Enforced appropriate work-flow and quality controls for food quality Conducted daily inventory and ordering Assisted catering staff in setup and delivery Managed catering schedule and logistics."
+        },
+        {
+            "title": "Line Cook",
+            "company": "Company Name, City, State",
+            "start_date": "Jan 1990",
+            "end_date": "Jun 2000",
+            "description": "Set up and prep work for all food items. Prepared various daily lunch special items. Assisted in producing food for catered events. Conducted daily food inventory and ordering."
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

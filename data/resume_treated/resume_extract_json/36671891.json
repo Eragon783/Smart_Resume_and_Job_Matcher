@@ -1,0 +1,72 @@
+{
+    "name": "Marianne L. Elbertson",
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Senior Food Defense Analyst with extensive experience in public relations, strategic planning, program development, and cross-agency outreach. Skilled at building networks, leading initiatives, influencing senior leadership, and delivering results in dynamic, budget-constrained environments. Experienced in creating and managing outreach materials, media relations, training, and policy guidance to address global food defense challenges.",
+    "skills": [
+        "Self starter",
+        "Effective strategic planning",
+        "Strong leadership skills",
+        "Excellent relationship building skills",
+        "Resourceful and persistent"
+    ],
+    "experience": [
+        {
+            "title": "Senior Food Defense Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "December 2003",
+            "end_date": "Present",
+            "description": "Serve as Subject Matter Expert and Detailee to the FBI on countermeasures to prevent intentional contamination of the food supply. Lead interagency teams for designing and conducting training and outreach to foreign governments, academia, and industry. Act as communications liaison for internal teams. Initiated integration of the FBI as a partner, resulting in law enforcement elements and funding added to the initiative. Managed international outreach under budget constraints, developed long-range objectives, and attracted additional federal partners. Developed strategy, proposals, and supporting materials including budgets. Led policy and strategy work on global supply chain vulnerabilities and secured significant funding for major international initiatives. Presented briefings to intelligence, law enforcement, foreign, academic, and industry officials, and congressional staff."
+        },
+        {
+            "title": "Public Affairs Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "January 2000",
+            "end_date": "November 2003",
+            "description": "Conducted public relations activities to promote effective communications with media and constituent groups. Managed preparation and publication of weekly newsletter. Served as agency lead representative to develop emergency communication protocols used department-wide for media communications during significant incidents. Coordinated and supported agency communication activities and constituent outreach campaigns. Responded to constituent and media inquiries; established relationships with stakeholders; supported speech writing, press releases, talking points, presentations, and responses to congressional inquiries."
+        },
+        {
+            "title": "Government Relations Associate",
+            "company": "Company Name, City, State",
+            "start_date": "January 1995",
+            "end_date": "December 1999",
+            "description": "Assisted Director and Manager of Regulatory Affairs in promoting and advancing company interests in federal government issues. Influenced legislation and regulations by engaging government officials. Analyzed potential legislation and coordinated research projects to support company goals."
+        },
+        {
+            "title": "Public Affairs Specialist",
+            "company": "Company Name, City, State",
+            "start_date": "January 1990",
+            "end_date": "April 1994",
+            "description": "Responded to media inquiries, researched and wrote talking points, issue papers, news releases, fact sheets, and reports. Interacted with member-company executives and representatives to support organizational mission and goals."
+        },
+        {
+            "title": "Assistant Publicist",
+            "company": "Company Name, City, State",
+            "start_date": "August 1987",
+            "end_date": "March 1989",
+            "description": "Researched and pitched story ideas and tour publicity for clients. Drafted media relations materials, organized shoots, and coordinated media campaigns. Built and maintained relationships with regional and national media to secure coverage."
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "July 1986",
+            "end_date": "August 1987",
+            "description": "Prepared documents for purchasers of syndicated television packages; maintained accuracy and on-time completion of assignments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Graduate Certificate, Washington Representatives Program",
+            "school": "George Washington University",
+            "year": 1994
+        },
+        {
+            "degree": "Bachelor of Arts, Radio/Television/Film Production",
+            "school": "University of Maryland",
+            "year": 1986
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

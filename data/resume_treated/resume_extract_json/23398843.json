@@ -1,0 +1,72 @@
+{
+    "name": "Mariela Perez",
+    "email": "mariela28perez@gmail.com",
+    "phone": "",
+    "location": "",
+    "summary": "Highly motivated teaching professional with over 10 years of experience in a fast-paced consulting environment. Extensive experience supporting young children and parents, clients and consultants in high-profile technology projects. Excellent analytical abilities and talent for managing information.",
+    "skills": [
+        "Administrative Support",
+        "Project Coordination",
+        "Project Management",
+        "Proposal Development",
+        "Research",
+        "Scheduling",
+        "Document Management",
+        "Budgeting",
+        "Microsoft Project",
+        "Microsoft Office",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Typing (35 WPM)",
+        "English",
+        "Spanish",
+        "Art Design for Children",
+        "Early Childhood Education",
+        "Childcare",
+        "Special Needs Children",
+        "Home School Education",
+        "Course Planning"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Kid's Imaginations Daycare",
+            "start_date": "2008-05",
+            "end_date": "2012-07",
+            "description": "Advanced administrative and project support for young children-level consultants for special holiday projects; activities, music, and language arts. Led a project to streamline and reorganize the SharePoint project management system; coordinated project plans, scheduling, and budgeting for a high-profile project. Prepared best-practice guidelines for archiving project documents; contributed to company-wide adoption. Trained staff, guided classroom routines, encouraged positive behaviors, and maintained a safe play environment. Communicated with parents about daily activities; ensured toy safety and sanitation; prepared nutritious meals."
+        },
+        {
+            "title": "Teacher",
+            "company": "Top Class Daycare",
+            "start_date": "2005-03",
+            "end_date": "2007-05",
+            "description": "Advanced administrative support to senior classroom staff in a fast-paced daycare. Coordinated research on activities, streamlined proposal development, and created a client tracking system. Encouraged positive behaviors, established a safe play environment, organized recreational activities, and maintained child-focused care including diapering, nutrition, hygiene, and parent communication."
+        },
+        {
+            "title": "Teacher Aid",
+            "company": "Daycare",
+            "start_date": "2003-07",
+            "end_date": "2005-03",
+            "description": "Advanced administrative support; consultants for special holiday projects; activities, music, art, and language arts. Encouraged good behaviors with positive reinforcement; established a safe play environment; organized games and puzzles; diapering; sanitation; outdoor recreation; nutritious meals; ongoing parent communication."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science in Early Childhood Education",
+            "school": "St Augustine College",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Applied Science in Early Childhood Education (AASECE)",
+            "school": "St Augustine College",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        "Certified Associate Of Applied Science In Early Childhood Education (AAS-ECE)"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

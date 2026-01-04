@@ -1,0 +1,78 @@
+{
+    "name": "Pavel Barannikov",
+    "email": null,
+    "phone": null,
+    "location": "Netanya, Israel",
+    "summary": "Web developer with almost 10 years of experience, specializing in PHP/MySQL, with strong knowledge of jQuery and CSS. Experienced with the 1C-Bitrix, Joomla, WordPress and Drupal ecosystems. Based in Netanya, Israel, with willingness to learn new languages as needed.",
+    "skills": [
+        "PHP",
+        "MySQL",
+        "jQuery",
+        "CSS",
+        "HTML5",
+        "PostgreSQL",
+        "AJAX",
+        "Git",
+        "1C-Bitrix",
+        "Joomla",
+        "WordPress",
+        "Drupal",
+        "Docker",
+        "Team leadership",
+        "System administration",
+        "English"
+    ],
+    "experience": [
+        {
+            "title": "Web-developer",
+            "company": "Digital Dream LLC",
+            "start_date": "August 2012",
+            "end_date": "August 2013",
+            "description": "Website development on the 1C-Bitrix platform. Worked with Git; completed 17 projects with medium Git Flow complexity and higher."
+        },
+        {
+            "title": "Seo Web-developer",
+            "company": "Individual entrepreneur",
+            "start_date": "August 2012",
+            "end_date": "July 2014",
+            "description": "Freelance development; built at least two dozen sites ranging from corporate Docker web applications to highly loaded online stores."
+        },
+        {
+            "title": "Effective Team Leader Web-developer",
+            "company": "IntimeFinance",
+            "start_date": "April 2014",
+            "end_date": "October 2015",
+            "description": "Team-based web application development for internal company needs, corporate site development; system administration."
+        },
+        {
+            "title": "Web-developer, Teamleader",
+            "company": "iBrush",
+            "start_date": "October 2015",
+            "end_date": "December 2018",
+            "description": "Russian website development; management of a development team (3 programmers, 2 layout designers); design, maintenance; interview new staff."
+        },
+        {
+            "title": "Web-developer, Teamlead",
+            "company": "Eapteka Ltd",
+            "start_date": "January 2019",
+            "end_date": "Present",
+            "description": "Work on a highly loaded project – daily visitors number in the hundreds of thousands."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Second degree",
+            "school": "Ulyanovsk State Technical University, Ulyanovsk",
+            "year": "2009"
+        },
+        {
+            "degree": "CSS training",
+            "school": "Ulyanovsk",
+            "year": "2010-2012"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

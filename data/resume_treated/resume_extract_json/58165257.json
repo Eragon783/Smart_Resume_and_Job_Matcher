@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Strategic and analytical finance professional with 6+ years of success in financial planning and analysis. Highly motivated Finance Business Partner who thrives in dynamic environments. Excellent financial reporting, budget forecasting and relationship-building skills.",
+    "skills": [
+        "SAP Business Intelligence",
+        "Business Planning Consolidation",
+        "Capital IQ",
+        "Thomson ONE",
+        "Bloomberg",
+        "Microsoft Office",
+        "Host Analytics",
+        "Financial Planning",
+        "Budgeting",
+        "Forecasting",
+        "FP&A",
+        "Financial Reporting",
+        "Analytics",
+        "Data Analysis",
+        "Pro Forma",
+        "Real Estate",
+        "Ecommerce",
+        "Retail",
+        "SAP",
+        "Business Intelligence",
+        "Strategic Thinking",
+        "Leadership",
+        "Communication",
+        "Due Diligence",
+        "Microsoft Excel",
+        "SQL",
+        "ERP"
+    ],
+    "experience": [
+        {
+            "title": "Finance Business Partner",
+            "company": "Company Name",
+            "start_date": "06/2015",
+            "end_date": "Current",
+            "description": "Led and managed team in providing strategic insights into Americas DTC (ecommerce and retail) and eyewear product business lines, increasing visibility to the business and building models that analyzed potential growth opportunities and their financial impact, such as cannibalization and margin impact of opening up distribution to new wholesale customers; analyzing the economics of licensing one of the company's product lines; online loyalty program contribution models; off-price liquidation strategy determining a tiered sell-off prioritization with consideration of brand dilution, that resulted in incremental margin dollars. Worked directly with GM of Americas and VP of Retail to develop 5-year retail long-range strategic plan, building out pro formas and capex requirements for four different store concepts that served as guidelines for real estate selection and store builds. Led finance function in designing and building integrated planning solution in SAP Business Intelligence, added planning capabilities, training FP&A team, and standardizing monthly reporting; helped redesign monthly close from 10 to 5 days; performed ad-hoc analyses including a data-driven material ID project; integrated data from multiple financial systems to improve decision-making, focusing on profitability of product lines."
+        },
+        {
+            "title": "Financial Analyst",
+            "company": "Company Name",
+            "start_date": "06/2012",
+            "end_date": "06/2015",
+            "description": "Collaborated with budget managers to plan annual budgets, quarterly and rolling forecasts for Americas DTC sales channels and back office functions; built projected P&L statements with dilution factors; assisted in consolidation and validation of forecasts; established strong relationships with budget managers to review results and identify risks and opportunities; contributed to leveraged buyout of TOMS to Bain Capital including due diligence and centralized sales database."
+        },
+        {
+            "title": "Analyst",
+            "company": "Company Name",
+            "start_date": "01/2012",
+            "end_date": "06/2012",
+            "description": "Performed closed shop analysis for 55 U.S. malls in Westfield portfolio and analyzed leasing revenue and costs for recently vacated spots and new tenants moving in."
+        },
+        {
+            "title": "Analyst",
+            "company": "Company Name",
+            "start_date": "06/2011",
+            "end_date": "10/2011",
+            "description": "Performed research and analysis on various industries and markets and compiled data into publication format for delivery to over 40,000 firm clients, including C-level executives, financial professionals and industry analysts."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Administration, Finance",
+            "school": "University of Southern California, Marshall School of Business",
+            "year": 2010
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

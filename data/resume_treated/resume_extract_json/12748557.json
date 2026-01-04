@@ -1,0 +1,74 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Regional Engineering Manager / Engineering Director with over 25 years of experience delivering high-profile ITS/SCADA projects for Transportation and Water/Waste Water sectors. Expertise includes technical solution architecting and cost estimating, mission-critical ITS/SCADA system design and delivery, disaster recovery planning, technical program management, and cross-team leadership. Proven track record of executing projects on time and under budget, with a focus on innovative technology solutions that enable clients to achieve and exceed business outcomes.",
+    "skills": [
+        "Architecting best practice technical solutions",
+        "Technical program management",
+        "QA/QM",
+        "Client management",
+        "Vendor management",
+        "Testing and commissioning planning and execution",
+        "Team leadership / cross-team collaboration",
+        "Engineering cost estimating",
+        "Engineering resource management and forecasting",
+        "Process improvement"
+    ],
+    "experience": [
+        {
+            "title": "Regional Engineering Manager",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Directing ITS solution deliveries in Texas, Australia, New Zealand, and Chile. Lead systems solution architect responsible for technical proposal write-ups, presentations, and engineering cost estimates, contributing to bids ranging from $1M to $25M in Western NA, SA, and Oceania regions. Improved engineering resource coordination and proactive planning. Implemented targeted, JIT training to reduce learning curves for new staff. Recent projects include Santiago ITS ($1M), CityLink OMCS Upgrade ($4.5M), and LBJ/NTE Managed Lanes ($25M)."
+        },
+        {
+            "title": "Engineering Supervisor",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2013-12",
+            "description": "Improved engineering department productivity by reorganizing staff activity reporting and project resource planning. Won major civil project bids by proposing a unified technology platform, delivering several ITS/SCADA projects on time and under budget with QA/QC oversight. Responsible for engineering estimates and technical write-ups for bid proposals, and conducting product demos during sales presentations. Major projects included Caltrans Devil's Slide Tunnel ($7M) and Eastern Distributor Tunnel ($3.5M)."
+        },
+        {
+            "title": "Senior Engineer",
+            "company": "Company Name",
+            "start_date": "2003-07",
+            "end_date": "2010-12",
+            "description": "Senior engineering role supporting ITS/SCADA projects, including system design, integration, testing, and commissioning activities."
+        },
+        {
+            "title": "Systems Engineer II",
+            "company": "Company Name",
+            "start_date": "1999-07",
+            "end_date": "2003-06",
+            "description": "Systems engineering responsibilities focusing on control systems integration and project support within ITS/SCADA environments."
+        },
+        {
+            "title": "Control Systems Engineer I / II",
+            "company": "Company Name",
+            "start_date": "1992-07",
+            "end_date": "1999-06",
+            "description": "Progressed through roles handling control systems engineering tasks for ITS/SCADA projects, including design and commissioning activities."
+        },
+        {
+            "title": "Associate Systems Engineer",
+            "company": "Company Name",
+            "start_date": "1991-06",
+            "end_date": "1992-06",
+            "description": "Entry-level systems engineering role supporting project tasks and learning ITS/SCADA domain."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Electrical and Computer Engineering",
+            "school": "University of California at Santa Barbara",
+            "year": "1990"
+        }
+    ],
+    "certifications": [
+        "Various Project Management/Leadership Courses"
+    ],
+    "languages": []
+}

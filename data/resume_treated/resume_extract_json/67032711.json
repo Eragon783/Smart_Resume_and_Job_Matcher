@@ -1,0 +1,71 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "I am affable, responsible and enthusiastic, with an impeccable ability to learn new tasks quickly, while growing customer relationships and maintaining constant satisfaction. I represent any establishment with a congenial, professional demeanor at all times, with a contagious smile glued to my face. I have had experience in customer service now, for a little over two years. I am at the prime of my life where every learning experience I encounter is not only a blessing, but an honor to say the least. I am a highly driven individual who strives for the best in all that I do. I am a people-person and can form relationships with nearly everyone I come into contact with. I am a valuable asset to any team that wishes to obtain only the finest, and most organic individuals. I am trustworthy, honest, and as hardworking as they come. Challenges are passed along my way because it is known that I will find the best and most effective ways in solving them.",
+    "skills": [
+        "Leadership",
+        "Proficient in writing",
+        "Excellent communicator",
+        "Avid listener",
+        "Expert",
+        "Multi-tasker",
+        "Mutual mediator",
+        "Problem-Solver"
+    ],
+    "experience": [
+        {
+            "title": "Fitness Instructor",
+            "company": "Company Name",
+            "start_date": "2017-05",
+            "end_date": "Current",
+            "description": "As a fresh faced fitness instructor, I am new to the game. I have a deep love for health and wellness and after weeks of training alongside strong, qualified women. I was chosen to lead men and women alike in the teaching of various fitness workouts including: barre, strength training, and HIIT. I resume my position when I return to school in the fall. Within this position I must display immense responsibility, mindfullness, and compassion to all that step into my studio."
+        },
+        {
+            "title": "Sub Maker",
+            "company": "Jersey Mike's",
+            "start_date": "2017-03",
+            "end_date": "",
+            "description": "Here at Jersey Mike's, I learned how to deal with intense, fast-paced food service. Showing not only speed but quality and efficiency. With a constant flow of customers going in and out, it is not only important to be quick thinking, but also being attentive to detail and customer satisfaction. I worked register, as well as a sub dresser and handled various situations. I had a smile painted on my face, and truly made my customers' experience at Jersey Mike's a great one. I aim for excellence in all that I do, and when I do something I want it done right the first time around."
+        },
+        {
+            "title": "Sales Associate",
+            "company": "Company Name",
+            "start_date": "2015-07",
+            "end_date": "2016-07",
+            "description": "Specialized in sales of Alex and Ani jewelry, Brighton jewelry and Pandora jewelry. Worked as a sales representative, greeter, and cashiered at the register. Provided excellent customer service."
+        },
+        {
+            "title": "Sterilization Technician",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "2015-06",
+            "description": "Answered telephones and give appropriate information to callers. Greeted visitors and handled their inquiries or directed them to appropriate persons according to their needs. Order and dispense supplies. Sterilize tools for usage."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Human Resources and International Business Law",
+            "school": "Liberty University",
+            "year": 2018
+        },
+        {
+            "degree": "Associate of Arts: Liberal Arts",
+            "school": "College of the Canyons",
+            "year": 2016
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Valencia High School",
+            "year": 2015
+        },
+        {
+            "degree": "Dual Enrollment / Middle College",
+            "school": "Academy of the Canyons",
+            "year": "2013-2014"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,82 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "San Francisco, CA, USA",
+    "summary": "To attain a full-time position in the accounting and finance field where I can utilize the concepts I have learned and the experience I have gained to add value to the company. 25 years of work experience. Fields of expertise include government accounting, auditing and budget management. Assigned as Finance Officer and Acting Bureau of Internal Revenue Representative for 8 1/2 years at the Philippine Consulate General, San Francisco. Succeeded in increasing BIR income tax collections by 500%. 17 years with the Philippine Department of Tourism as an Administrative and Finance Officer. Responsible for finance & budget management. Outstanding organization skills and excellent communication skills. Detail oriented and dependable team player.",
+    "skills": [
+        "accounting",
+        "accounts payable",
+        "general ledger",
+        "bank reconciliation",
+        "budget analysis",
+        "budget",
+        "payroll",
+        "financial statements",
+        "funds",
+        "inventory",
+        "logistics",
+        "procurement",
+        "promotional materials",
+        "office equipment",
+        "Microsoft Office",
+        "Excel",
+        "PowerPoint",
+        "Word",
+        "QuickBooks",
+        "Tax",
+        "annual reports"
+    ],
+    "experience": [
+        {
+            "title": "Finance Officer",
+            "company": "Company Name – City, State",
+            "start_date": "1997-01",
+            "end_date": "2014-04",
+            "description": "Managed working funds of the office. Maintained general ledger of the office. Reconciled sub-ledgers to general ledger account. Reviewed financial status to ensure there are no discrepancies. Prepared monthly financial statements such as reports of disbursement, liquidation report and bank reconciliation. Prepared annual budget analysis and proposal. Prepared bi-monthly payroll to four staff. Reviewed and processed accounts payables. Assisted internal auditors during audits. Researched accounting and audit issues and complied accordingly with generally accepted accounting principles. Maintained and regularly updated inventory of promotional materials. Handled maintenance and procurement of office equipment and office supplies. Processed personnel records consisting of computation of leave credits, submission of daily time records, and leave of absences. Attended various travel shows to promote the Philippines as one of the best tourism destination in Asia. Handled logistics during big events such as finding the right venue, caterers, performers, sound system among others. Organized familiarization tours targeting mainstream tour operators in raising awareness that the Philippines is a great tourism destination."
+        },
+        {
+            "title": "Tourism Assistant",
+            "company": "Company Name – City, State",
+            "start_date": "1994-01",
+            "end_date": "1997-01",
+            "description": "Handled accounting and financial reports. Entertained visitors of the Tourism Director. Answered phone inquiries and mailed brochures and promotional materials they requested. Processed personnel record consisting of computation of leave credits. Assisted on various functions of the office when needed."
+        },
+        {
+            "title": "Finance Officer and Acting BIR Representative",
+            "company": "Company Name – City, State",
+            "start_date": "1985-06",
+            "end_date": "1993-12",
+            "description": "Managed Consulate funds averaging $600,000 per month. Transferred funds among other foreign offices averaging $50,000 per transaction. Coordinated activities for fiscal agents (Bureau of Internal Revenue, Department of Foreign Affairs and Commission on Audit) who visited San Francisco. Dealt with local banks and other Finance Officers within San Francisco in particular and the whole USA in general. Handled accounts payable. Prepared monthly financial report such as disbursements, status of working funds and bank reconciliation. Prepared annual reports such as budget proposal, comparative report of collection, statement of income, statement of expense and statement of working funds. Checked and receipted daily collections and prepared daily deposits. Prepared bi-monthly payroll for 40 staff."
+        },
+        {
+            "title": "Account Examiner",
+            "company": "Company Name – City, State",
+            "start_date": "1980-01",
+            "end_date": "1985-01",
+            "description": "Examined financial reports of Foreign Service posts such as New York, Stockholm, Pakistan and San Francisco. Prepared reports of disbursements and collections of the above-mentioned posts. Liquidated cash advances of assistant secretaries and ambassadors. Acted as Finance Officer of UNGA (United Nations General Assembly) and UNCLOS (United Nations Law of the Sea). Entertained phone inquiries."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Commerce (Accounting)",
+            "school": "University of Batangas (formerly Western Philippine Colleges)",
+            "year": "1975"
+        },
+        {
+            "degree": "US Individual Income Tax Course",
+            "school": "H&R Block",
+            "year": "1982"
+        },
+        {
+            "degree": "CPA Board Exam",
+            "school": "Philippine CPA Board Exam",
+            "year": "1994"
+        }
+    ],
+    "certifications": [
+        "US Individual Income Tax Course (H&R Block), 1982",
+        "CPA Board Exam (Philippines), 1994"
+    ],
+    "languages": []
+}

@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Software Engineering Team Lead with 10+ years of experience in IT infrastructure consulting and operations. Proficient with Microsoft technologies (SCOM, SCCM, SCVMM, Hyper-V, Active Directory, DNS, DHCP, WINS), virtualization, and Windows clustering. Currently on assignment with Accenture Technologies in the USA, leading monitoring and infrastructure management for a US client since March 2012. Experienced in designing, implementing, and operating SCOM infrastructure, building management packs, and datacenter consolidation.",
+    "skills": [
+        "Active Directory",
+        "DNS",
+        "DHCP",
+        "WINS",
+        "File and Print Services",
+        "PowerShell",
+        "VBScript",
+        "System Center Operations Manager (SCOM)",
+        "System Center Configuration Manager (SCCM)",
+        "System Center Virtual Machine Manager (SCVMM)",
+        "Hyper-V",
+        "Windows Server 2003/2008",
+        "Scripting",
+        "Orchestrator (System Center Orchestrator)",
+        "VSAE",
+        "VMPD",
+        "Authoring console",
+        "P2V migrations",
+        "V2V migrations",
+        "Datacenter consolidation",
+        "Migration and upgrade planning",
+        "SLA reporting",
+        "Monitoring and dashboards",
+        "Remote administration",
+        "Team leadership",
+        "Networking fundamentals"
+    ],
+    "experience": [
+        {
+            "title": "Software Engineering Team Lead",
+            "company": "Avanade (on assignment to Accenture Technologies and US client)",
+            "start_date": "2008-07",
+            "end_date": "2015-01",
+            "description": "Onshore technical lead and SME for Microsoft System Center Operations Manager (SCOM 2012). Designed, implemented, and operated SCOM infrastructure; developed management packs using VSAE, VMPD, and Authoring Console; expanded monitoring to non-trusted domains and cross-platform servers; performed SCOM migrations (RTM to Release 2); managed daily operations, SLA reporting, and dashboards. Prior to joining monitoring, supported core IO services (AD, DNS, DHCP, WINS, File/Print), provided 24x5 remote administration for a US-based nuclear client, and led a team of 6 in shifts. Involved in decommissioning Windows 2003 domain controllers, DNS scavenging, SCCM site systems deployment, and large-scale P2V/V2V migrations for datacenter consolidation."
+        },
+        {
+            "title": "IT Analyst",
+            "company": "Company Name",
+            "start_date": "2007-04",
+            "end_date": "2008-07",
+            "description": "Part of the messaging and collaboration team; administered internal Windows infrastructure; handled tickets escalated from 1st line support; monitored systems and SCOM alerts; performed monthly software updates; managed Active Directory operations."
+        },
+        {
+            "title": "Windows Administrator",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2007-03",
+            "description": "Part of the messaging and collaboration team; administered internal Windows infrastructure; performed AD operations; handled escalations; monitored SCOM alerts; managed software updates and routine maintenance."
+        },
+        {
+            "title": "Technical Support Engineer",
+            "company": "Company Name",
+            "start_date": "2004-01",
+            "end_date": "2006-01",
+            "description": "AD maintenance (account creation, folder access, security groups), troubleshooting mail flow issues, Outlook, and password problems; mailbox management; network devices and routers; desktop support; helped customers globally with small office networks."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering (B.E)",
+            "school": "National Institute of Technology (NIT)",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "ITIL v3 Foundations",
+        "MCSE SCCM"
+    ],
+    "languages": []
+}

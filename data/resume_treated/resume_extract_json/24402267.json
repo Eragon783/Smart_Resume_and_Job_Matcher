@@ -1,0 +1,63 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State, India",
+    "summary": "Professional HR coordination and management professional offering a strong background in employee training and development, new hire orientations and employee relations. A committed HR professional with around 3.5 years of qualitative experience in HRD/Administration including Recruitment & Selection, Performance Management System, MIS & HRIS, Employee Master, Training & Development and HR ISO documentation. Proficient in MS Word, MS Excel and MS PowerPoint.",
+    "skills": [
+        "HRIS",
+        "ISO",
+        "Recruitment",
+        "Performance Appraisal",
+        "Training & Development",
+        "Leave & Attendance",
+        "Entry & Exit",
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "HR policies and procedures"
+    ],
+    "experience": [
+        {
+            "title": "HR Assistant",
+            "company": "Company Name, City, State",
+            "start_date": "Mar 2008",
+            "end_date": "Jun 2010",
+            "description": "Recruitment: Sourcing and shortlisting resumes, coordinating interviews; Preliminary screening of candidates; Preparing and issuing offer letters; On-boarding and joining formalities; Salary break up. Performance Management System: assisted in design and development of appraisal forms and competency framework; conducted PMS awareness workshops; guided employees to fill appraisal forms; assisted in designing KRAs. MIS/HRIS/Employee Master: consolidated additions, separations, transfers; generated reports; managed attrition details. Training & Development: identified needs, planned training programs, budget, calendar, arranged trainers. Leave & Attendance: maintained attendance, processed paysheets and payroll; updated leave balances. HRIS: tested and uploaded live data; ISO documentation: maintained files and dashboard; exit interviews and formalities; drafted department announcements."
+        },
+        {
+            "title": "Management Trainee, QA",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2007",
+            "end_date": "Dec 2007",
+            "description": "Monitored quality processes according to ISO 9001:2000 standards; tracked fortnightly reports and quality objectives; QMS induction for new joinees; arranged project kick-off meetings; ensured statutory compliance of documents; received training on Software Development Life Cycle."
+        },
+        {
+            "title": "HR Coordinator",
+            "company": "Company Name, City, State",
+            "start_date": "Nov 2006",
+            "end_date": "Apr 2007",
+            "description": "Screened profiles from job portals and short-listed candidates; coordinated with recruitment head for walk-ins; conducted telephonic interviews and scheduling; prepared offer and appointment letters; completed joining formalities and shared training schedules; induction to HR policies; maintained hard and soft copies of employee records; addressed staff concerns; managed HR administrative tasks including personal files, contracts, confirmations and exit letters; managed exit formalities and conducted exit interviews."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA, Human Resource",
+            "school": "Bankatlal Bhadruka Collage",
+            "year": "2005"
+        },
+        {
+            "degree": "B.COM, Commerce",
+            "school": "Pt.Ravishanker Shukla Uiversity",
+            "year": "2003"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hindi",
+        "Telugu",
+        "Bengali",
+        "Spanish"
+    ]
+}

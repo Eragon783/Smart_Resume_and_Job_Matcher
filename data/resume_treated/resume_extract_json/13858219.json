@@ -1,0 +1,64 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Assistant Manager with emphasis in Business Admin. and Communications; over 13 years in retail/customer service; experienced in leading teams, driving sales, and delivering customer service; volunteer experience with Junior Achievement and teaching; proficient in banking, merchandising, loss prevention, and store operations.",
+    "skills": [
+        "Banking",
+        "Closing",
+        "customer satisfaction",
+        "customer service",
+        "direction",
+        "fashion",
+        "leadership",
+        "Loss prevention",
+        "merchandising",
+        "quality",
+        "retail"
+    ],
+    "experience": [
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "February 2015",
+            "end_date": "Present",
+            "description": "Closing and opening store and all daily operations. Loss prevention. Banking and merchandising."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "February 2015",
+            "description": "Communicated information to customers about product quality, value and style. Communicated merchandise needs and issues to appropriate supervisors in a timely fashion. Completed floor replenishment to guarantee size availability and promote customer satisfaction."
+        },
+        {
+            "title": "Store Manager",
+            "company": "Company Name",
+            "start_date": "January 2011",
+            "end_date": "January 2013",
+            "description": "Educated customers on product and service offerings. Offered exceptional customer service to differentiate and promote the company brand. Communicated store policy violations to the leadership team in a timely manner."
+        },
+        {
+            "title": "Swing Manager",
+            "company": "Company Name",
+            "start_date": "January 2008",
+            "end_date": "January 2011",
+            "description": "Worked hands on with H.S Students in their training and development to manager trainees. Recruited, hired, developed and retained retail talent for the company. Held each team member accountable for achieving brand and performance goals. Offered direction and gave constructive feedback to motivate team members."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Communications",
+            "school": "Siena Height University",
+            "year": null
+        },
+        {
+            "degree": "General Associates",
+            "school": "Lansing Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

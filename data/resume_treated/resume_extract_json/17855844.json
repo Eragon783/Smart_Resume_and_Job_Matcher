@@ -1,0 +1,106 @@
+{
+    "name": "Tonya Bell",
+    "email": null,
+    "phone": null,
+    "location": "Dallas, TX",
+    "summary": "Accomplished HR professional with expertise in strategic planning, organizational development, and management of HR operations. Skilled at leading teams, attracting qualified talent, and providing HR leadership across multiple sites from due diligence to integration. Innovative problem solver with strategic thinking and strong communication.",
+    "skills": [
+        "ADA",
+        "administrative",
+        "Adobe Illustrator",
+        "art",
+        "agency",
+        "benefits",
+        "Ceridian",
+        "Change Management",
+        "decision-making",
+        "DCA",
+        "Employee Relations",
+        "special events",
+        "fast",
+        "focus",
+        "hiring",
+        "HRIS",
+        "hub",
+        "hubs",
+        "Human Resources",
+        "HR",
+        "Information Systems",
+        "KRONOS",
+        "leadership",
+        "legal",
+        "mental health",
+        "mental illness",
+        "Access",
+        "Excel",
+        "PowerPoint",
+        "Publisher",
+        "MS Word",
+        "Oracle",
+        "Organizational Development",
+        "Organization Development",
+        "organizational",
+        "Performance Management",
+        "personnel",
+        "policies",
+        "processes",
+        "recruiting",
+        "recruitment",
+        "sales",
+        "SAP",
+        "seminars",
+        "staffing",
+        "strategic",
+        "Strategic Planning",
+        "supervisor",
+        "surveys",
+        "workshops",
+        "Benefits",
+        "Retention",
+        "Recruitment",
+        "Compensation",
+        "Labor Relations",
+        "Training & Development",
+        "Talent Management"
+    ],
+    "experience": [
+        {
+            "title": "HR Manager",
+            "company": "The world's largest airline",
+            "start_date": "03/2013",
+            "end_date": "Present",
+            "description": "Managed all aspects of Human Resources and Employee Relations for Customer Ops at DCA and LGA for US Airways. Partnered with legal to create and manage the new ADA and Religious accommodation training and process under the new American Airlines. Aligned with Line Maintenance administration to reduce the number of outstanding ADA cases from 25 to zero in three months. HR Business Partner Manager supporting Base and Line Maintenance for the Northeast and Southeast regions. Provided ongoing training around harassment and discrimination at AFW/Taesl which has resulted in a 50% decrease in complaints/investigations. Investigate and draft responses for external complaints to represent and defend the company's interest and position."
+        },
+        {
+            "title": "Human Resources Consultant",
+            "company": "McDonald's",
+            "start_date": "06/2005",
+            "end_date": "10/2012",
+            "description": "Consulted, coached and established strategic relationships with key operations staff and leadership in order to impact and influence decision-making. Managed and executed the annual performance review and talent management cycle with staff and restaurant managers for 100 restaurants. Managed the compliance of company policies and initiatives as well as changes around state and federal employment laws. Conceived, developed, and introduced a hiring process that became the platform for McDonald's 'Wow' Crew Orientation. Facilitated and supported the succession planning process for assigned markets, with a focus on achieving diversity and creating developmental plans for high performing, high potential staff resulting in 21 staff promotions in three years. Partnered with operations to design and develop a training system to increase employee awareness resulting in a 10% improvement in food costs and a 6% increase in sales. Developed, implemented and evaluated compensation policies/benefits programs and pay structures that impacted more than 30,000 restaurants globally. Conceptualized, communicated, and implemented a brand ambassador program increasing retention by 60% and cut staffing costs by 31%."
+        },
+        {
+            "title": "Human Resources Manager",
+            "company": "St. Luke's House",
+            "start_date": "03/2001",
+            "end_date": "06/2005",
+            "description": "Orchestrated a culture change initiative to reform processes by introducing employee intranet allowing folks to electronically sign up for benefits and review their personnel information. Improved retention by 75% and decreased recruiting costs 21% annually. Headed an HR department where I took innovative approaches to recruitment/retention, improving employee morale and enhancing employee benefits by conducting impact studies and cost-benefit analysis for all programs in the department. Co-facilitated the organizational and strategic planning process for the agency's five-year plan. Managed an HR department of four staff as well as function as indirect supervisor to 20 agency administrative staff and volunteers. Developed and implemented employee relations programs that promoted a positive organizational culture (e.g. awards, recognition, special events). Wrote and oversaw policies, standards and practices for performance evaluations and pay for performance as well as conducted annual wage and salary surveys. Grew St. Luke's House professional education program from a few training sessions per year to a state of the art training program offering more than 50 workshops, seminars, and educational events annually."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Communications",
+            "school": "University of Phoenix",
+            "year": "2013"
+        },
+        {
+            "degree": "HR Certificate/PHR Certification",
+            "school": "University of Maryland",
+            "year": "2003"
+        }
+    ],
+    "certifications": [
+        "PHR Certification",
+        "Certified Career Development Facilitator"
+    ],
+    "languages": []
+}

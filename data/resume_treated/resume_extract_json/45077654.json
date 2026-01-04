@@ -1,0 +1,107 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced Customer Service Representative with over 10 years of experience in the healthcare industry, including 8+ years with Humana, Passport and Excellus BCBS of NY. Skilled in training seasonal associates during Open Enrollment and serving as a Client Subject Matter Expert for SHPS, Inc.",
+    "skills": [
+        "HCPCS Coding Guidelines",
+        "ICD-10 (International Classification of Diseases)",
+        "Familiar with commercial and private insurance carriers",
+        "Insurance and collections procedures",
+        "DRG and PC grouping",
+        "Ambulance coding familiarity",
+        "Research and data analysis",
+        "Close attention to detail",
+        "Medical terminology",
+        "Billing and collection procedures",
+        "Office support (phones, faxing, filing)",
+        "Excellent verbal communication",
+        "Records management",
+        "Claims processing",
+        "Team leadership / training",
+        "Open Enrollment knowledge",
+        "CMS Pricers, DRG Calculator, ICD-9, CPT",
+        "MS Word, Excel, PowerPoint, Outlook"
+    ],
+    "experience": [
+        {
+            "title": "Claims Subject Matter Expert",
+            "company": "Company Name",
+            "start_date": "09/2016",
+            "end_date": "12/2016",
+            "description": "Adept multi-tasker; Office support (phones, faxing, filing); Fast Learner; Records management professional; ICD-10; Familiar with commercial and private insurance carrier; Insurance and collections procedures; DRG and PC grouping; Understands insurance benefits; Ambulance coding familiarity; Composed and professional demeanor; Research and data analysis; Excellent problem solver; Close attention to detail; Worked on special projects; Responsible for meeting claims production goal of 200 claims per day; Processed professional HCFA 1500, ambulance, anesthesia, labs, office visits; Responsible for claims processing for Medicaid plans for HMO 7 University Health and HMO 9 AHCSS; Worked as a claims subject matter expert for Banner Health Benefit Plan Admin./Client Service Expert."
+        },
+        {
+            "title": "Client Service Expert",
+            "company": "Banner Health Benefit Plan Admin./Client Service Expert",
+            "start_date": "05/2016",
+            "end_date": "09/2016",
+            "description": "Responsible for duties in support of all departmental efficiencies as assigned by management; Scheduled refills per the patients' plan benefit; Keyed orders and sent for fulfillment; Processed RX refills for customers; Assisted with outbound calling to providers, patient and pharmacies to obtain additional info need to process the RX refill; Answered incoming calls."
+        },
+        {
+            "title": "Provider Claims Service Unit Representative I",
+            "company": "Company Name",
+            "start_date": "03/2008",
+            "end_date": "11/2012",
+            "description": "Responsible for immediate responses to incoming provider calls regarding claims issues; Reprocessing claims as identified through incoming calls or submitted by provider relations staff; Passport Health (Medicaid) and Passport Advantage; Documenting calls, problems, and resolutions for future reference; Proficient in Microsoft Word, Excel, PowerPoint, Outlook; Worked on special projects."
+        },
+        {
+            "title": "Benefits Plan Administration / Eligibility & Enrollment / Client Service Expert",
+            "company": "Company Name",
+            "start_date": "05/2004",
+            "end_date": "03/2008",
+            "description": "Answered incoming calls regarding eligibility, claims processing, and billing inquiries; Administered employee group benefits; Resolved issues for billing, carrier eligibility, etc.; Organized special projects; Team lead / initiated training for full-time and temporary associates for ongoing call center and open enrollment."
+        },
+        {
+            "title": "Customer Service Claims Specialist - Chicago Medicare/ Commercial/ Medicaid",
+            "company": "Company Name",
+            "start_date": "04/2001",
+            "end_date": "02/2003",
+            "description": "Supported Chicago Medicare, Medicaid and Commercial Markets; Received inbound and outbound calls from insured members, clients, brokers, agents and providers; Processed medical claims that needed adjustment; Knowledgeable of DRG, ICD-9, CPT coding; Managed high call volume with tact and professionalism; Documented, researched and resolved customer service issues."
+        },
+        {
+            "title": "Claims Subject Matter Expert",
+            "company": "Excellus BCBS of NY",
+            "start_date": "05/2013",
+            "end_date": "05/2014",
+            "description": "Contracted claims expert for Excellus BCBS of NY; Responsible for claims processing for the HOME Commercial, Medicare and Medicaid plans; Processed claims with the HOST side of the plan updating provider files and credentials to support claims adjustment; Worked on special projects as assigned."
+        },
+        {
+            "title": "Claims Examiner",
+            "company": "Kaiser Permanente Southern California",
+            "start_date": "07/2014",
+            "end_date": "05/2015",
+            "description": "Responsible for data processing incoming Hospital UB's for Medicare/ KPSA Plan; Contract interpretation to validate proper payment logic for claim adjudication; Identify billing and coding errors and submit documentation to providers for corrected claims; Adjudicate Replacement, Late charge claims etc. per client guidelines; Proficient in Microsoft Word, Excel, PowerPoint, Outlook, CMS Pricers, DRG Calculator, ICD-9, CPT; Thorough understanding of Medicare compliance guidelines."
+        },
+        {
+            "title": "Claims Subject Matter Expert / DST",
+            "company": "DST Solutions",
+            "start_date": "07/2015",
+            "end_date": "07/2015",
+            "description": "Worked as a Claims Examiner for DST Solutions based out of Delaware; Responsible for processing Commercial and Medicare Plans; Adjusted backlog claims using the client's claims system for adjudication; Knowledgeable of Citrix platform for applications; Utilized Claims Matrix to determine authorization for Delivery, Well Baby Newborn, Inpatient Claims, Nursing Home, etc."
+        },
+        {
+            "title": "Patient Access Representative I",
+            "company": "Company Name",
+            "start_date": "07/2015",
+            "end_date": "03/2016",
+            "description": "Responsible for duties in support of departmental efficiencies which may include scheduling, registration, patient pre-admission and admission, reception and discharge functions; Verify medical benefits and eligibility with payers and calculate patient liability collection amounts; Completes the whole patient financial clearance process; Educates patients on liability and collection of patient liabilities; Secures insurance authorizations; Performs payment reconciliation & secured payment entry."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Psychology",
+            "school": "Liberty University",
+            "year": "Current"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Medical Coding Certification",
+            "issuing_organization": "Ashworth College",
+            "year": "May 2017"
+        }
+    ],
+    "languages": []
+}

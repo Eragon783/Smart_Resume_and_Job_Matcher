@@ -1,0 +1,123 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "To secure a position related to the personal care of clients hair, skin, and nails, and continue my education at the post secondary level towards additional certifications and /or an advance degree.",
+    "skills": [
+        "Licensed Cosmetologist",
+        "Strong communication",
+        "Make-up application",
+        "Bridal makeup specialist",
+        "Self-motivated",
+        "Sales",
+        "Client care",
+        "Attention to detail",
+        "Hair coloring (temporary, semi-permanent, permanent)",
+        "Styling techniques",
+        "Infection control sanitation procedures",
+        "Facial waxing",
+        "Permanent waving",
+        "Chemical relaxing",
+        "Shaping hair with shears, razors, clippers",
+        "Call center",
+        "Cash handling",
+        "Communication skills",
+        "Contracts",
+        "CPR Certified",
+        "Resolving customer complaints",
+        "Customer Service",
+        "Data entry",
+        "Decision making",
+        "Direction",
+        "Instruction",
+        "Insurance",
+        "Leadership",
+        "MEDISOFT",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Retail",
+        "Safety",
+        "Phone"
+    ],
+    "experience": [
+        {
+            "title": "Recreation Activity Coordinator",
+            "company": "Company Name",
+            "start_date": "2013-03",
+            "end_date": "Present",
+            "description": "Applied the positive reinforcement method to redirect negative behaviors. Assisted 10 children per station during small group learning periods. Helped prepare daily lesson plans for activities and lessons. Encouraged students to be understanding of and helpful to others. Supplied one-on-one attention to each student, while maintaining overall focus on the entire group. Physically and verbally interacted with students throughout the day to keep them engaged. Wrote daily and weekly lesson plans. Implemented club rec and teen warehouse programs to encourage student participation. Administered minor first aid to injured students."
+        },
+        {
+            "title": "Billing & Coding Intern",
+            "company": "Company Name",
+            "start_date": "2011-11",
+            "end_date": "2011-12",
+            "description": "Greeted clients and data entry. Thoroughly investigated past due invoices and minimized number of unpaid accounts. Recorded and filed patient data and medical records. Strictly followed all federal and state guidelines for release of information. Wrote clear and detailed clinical phone messages for physicians. Acquired insurance authorizations for procedures and tests ordered by the attending physician. Scheduled patient appointments."
+        },
+        {
+            "title": "Guidance Counselor",
+            "company": "Company Name",
+            "start_date": "2006-02",
+            "end_date": "2013-02",
+            "description": "Assisting in the schools guidance program by providing individual and/or small group instruction. Maintaining manual and computerized records. Assisting school staff with pupils' discipline problems. Assisting with classroom instructional learning and development."
+        },
+        {
+            "title": "Retail Customer Service",
+            "company": "Company Name",
+            "start_date": "2010-06",
+            "end_date": "2013-03",
+            "description": "Retail Customer Service: Assisting throughout the store with answering the phone and resolving customer complaints, cash handling and balancing. Assisting with displays and processing damaged merchandise. Helped customers select products that best fit their personal needs. Maintained visually appealing and effective displays for the entire store. Offered exceptional customer service to differentiate and promote the company brand. Collaborated with customer service team members to give exceptional service throughout the entire shopping and purchasing experience."
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name",
+            "start_date": "2006-06",
+            "end_date": "2006-10",
+            "description": "Responded to inquiries with genuine interest and concern. Accurately completed rental contracts and found acceptable resolutions to customer's problems or complaints. Identified and properly completed any computer entries and or paperwork required for rental returns."
+        },
+        {
+            "title": "Call Service Counselor",
+            "company": "Company Name",
+            "start_date": "2006-06",
+            "end_date": "2007-01",
+            "description": "Worked in a call center responding to membership questions about services and products offered. Dispatched tow service to stranded members. Verified membership, fees and services covered under membership. Upgraded membership and services for towing, auto and boat insurance."
+        },
+        {
+            "title": "Flight Attendant",
+            "company": "Company Name",
+            "start_date": "2000-04",
+            "end_date": "2006-06",
+            "description": "Customer Service Ticket Agent: Excellent decision making skills with a positive attitude. Communication skills with the ability to deliver onboard announcements in a professional manner. Provided leadership, direction and assisted in the performance of all safety and passenger services."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licensed Cosmetology",
+            "school": "American Academy of Cosmetology",
+            "year": 2014
+        },
+        {
+            "degree": "Certificate of Completion: Medical Billing and Coding",
+            "school": "UEI College, Medical Billing and Coding",
+            "year": 2011
+        },
+        {
+            "degree": "Certificate",
+            "school": "Grossmont Health Occupations Center",
+            "year": 2007
+        }
+    ],
+    "certifications": [
+        "CPR Certified",
+        "MEDCIN Certificate",
+        "HIPAA Certificate",
+        "Microsoft Excel & Word Certificate",
+        "MEDISOFT Certificate",
+        "Certificate of Completion: Medical Billing and Coding",
+        "Certificate of appreciation SDUSD 2006 through 2011",
+        "Perfect Attendance and Honor Roll UEI 2011",
+        "Customer Service Excellence Northwest Airlines 2003"
+    ],
+    "languages": []
+}

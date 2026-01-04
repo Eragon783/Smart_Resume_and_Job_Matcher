@@ -1,0 +1,76 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Software Engineering Analyst with experience in QA automation, functional testing, and project leadership. Proficient in Python, SQL, C, R, and Tableau; experienced with HP QTP/HP ALM, VBScript, and automation tooling. Has contributed to social impact projects and worked with cross-functional teams; strong analytical, communication, and project management skills.",
+    "skills": [
+        "C",
+        "SQL",
+        "Python",
+        "R",
+        "Tableau",
+        "HP ALM Quality Center",
+        "HP QTP",
+        "MS Office",
+        "Trello",
+        "Streak CRM",
+        "VB Script",
+        "Quick Test Professional",
+        "Quality Assurance",
+        "Automation tools",
+        "Project management",
+        "CRM",
+        "English",
+        "Event management",
+        "Team lead",
+        "Mathematics",
+        "Chemistry",
+        "Oil",
+        "Developer",
+        "Functional testing",
+        "Simulation"
+    ],
+    "experience": [
+        {
+            "title": "Software Engineering Analyst",
+            "company": "Enactus chapter of Thapar University",
+            "start_date": "2017-02",
+            "end_date": "2017-07",
+            "description": "Founded project Soul of the clay as the team lead to upskill artisans, increasing their income; executed projects Naritva for women sanitation and Jaivika to bolster farmers with low-cost manure production; led Student Alumni Interaction Cell and managed events."
+        },
+        {
+            "title": "Software Engineering Analyst",
+            "company": "Global Site System Services",
+            "start_date": "2016-12",
+            "end_date": "2017-02",
+            "description": "Delivered automation tools using HP Quick Test Professional and VB Script to achieve 95% test coverage and increase process efficiency by 25%."
+        },
+        {
+            "title": "Associate Software Engineer",
+            "company": "Global Site System Services",
+            "start_date": "2015-12",
+            "end_date": "2016-11",
+            "description": "Worked as part of the QA team for a leading Oil and Gas company; performed functional testing in a simulation lab; drafted test scenarios in collaboration with business analysts; ensured smooth functioning of 300 sites globally."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.E. in Chemical Engineering",
+            "school": "Syracuse University",
+            "year": 2015
+        },
+        {
+            "degree": "M.S. in Chemical Engineering",
+            "school": "Thapar University",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        "Coursera - Introduction to Interactive Programming Using Python, Rice University",
+        "Udemy - SQL Certification"
+    ],
+    "languages": [
+        "English"
+    ]
+}

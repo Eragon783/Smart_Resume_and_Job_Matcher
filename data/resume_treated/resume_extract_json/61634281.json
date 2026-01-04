@@ -1,0 +1,85 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Eclectic individual with 10+ years operations, finance and account management experience in small agency / start-up environments. Possess strong knowledge of and interest in digital marketing, broadcast media and communications.",
+    "skills": [
+        "Quickbooks",
+        "Workamajig",
+        "MS Office Suite",
+        "InDesign",
+        "Photoshop",
+        "Concrete5 CMS",
+        "Google Analytics",
+        "GoogleDocs",
+        "Intervals",
+        "SEO/SEM",
+        "Social media",
+        "Digital and film photography",
+        "Proficient in both Mac and PC environments"
+    ],
+    "experience": [
+        {
+            "title": "Finance Manager",
+            "company": "Company Name",
+            "start_date": "Mar 2015",
+            "end_date": "Present",
+            "description": "Responsible for all AP/AR functions, monthly bank reconciliations, and financial reporting including cash management and forecasting. Manage company payroll and administer employee benefits. Collaborate with Project Managers on budgets/actuals for project-level metrics. Responsible for year-end reporting in collaboration with CPA."
+        },
+        {
+            "title": "Project Manager",
+            "company": "Company Name",
+            "start_date": "Jun 2014",
+            "end_date": "Dec 2014",
+            "description": "Developed project proposals, estimates and timelines for a full suite of branding, marketing, messaging, and design services for both print and web. Performed press-checks and reviewed proofs to ensure quality color reproduction. Reviewed all work for typographical, grammar, spelling, and layout errors. Sought competitive bids for print and negotiated rates with vendors. Identified, developed and evaluated marketing strategies based on knowledge of client objectives and market trends. Collaborated with marketing and communications teams on standardization, design and production of marketing materials. Analyzed performance of all marketing programs to identify the best opportunities for optimization. Promoted brand awareness through SEO/SEM campaigns and attractive web design."
+        },
+        {
+            "title": "Bookkeeper",
+            "company": "Company Name",
+            "start_date": "Apr 2014",
+            "end_date": "Jun 2014",
+            "description": "Processed bank reconciliations and financial reports to verify practice of proper due diligence. Maintained accounts receivable documentation electronically and on paper. Researched and resolved collections and billing disputes."
+        },
+        {
+            "title": "Operations Manager",
+            "company": "Company Name",
+            "start_date": "Nov 2011",
+            "end_date": "Apr 2014",
+            "description": "Reconciled 11 corporate bank accounts retroactively to establish Quickbooks as a reliable and accurate representation of financial position. Streamlined and executed all Human Resources processes including benefits implementation and administration, recruiting, payroll. Produced seasonal promotional materials, from copy to design, leading to increased customer engagement and revenue. Coordinated and collaborated with advertising operations team on weekly email marketing communications; updated website regularly to feature new deals and discounts as per vendor advertising contracts. Coordinated all social, professional, and team-building events."
+        },
+        {
+            "title": "Service Administrator",
+            "company": "Company Name",
+            "start_date": "Jan 2008",
+            "end_date": "Jun 2011",
+            "description": "Served as liaison between clients and in-house service technicians regarding repairs, orders, and technical inquiries. Offered production support to clients to ensure camera packages were complete and ready for shoots. Staged and photographed high-end camera packages for sale on company website. Coordinated special events and orchestrated training classes on specialized camera systems for clients."
+        },
+        {
+            "title": "Office Manager",
+            "company": "Company Name",
+            "start_date": "Oct 2006",
+            "end_date": "Dec 2007",
+            "description": "Provided customer service and managed daily office operations of this design company focused on custom graphics- based fashion and home accessories. Developed long-term relationships with vendors and clients to help grow the overall business. Processed orders for multiple sales outlets including retail website, wholesale showrooms and boutiques. Maintained product inventory and supply management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Long-Form Improv",
+            "school": "Washington Improv Theater",
+            "year": "Present"
+        },
+        {
+            "degree": "Bachelor of Arts, Audio Arts & Acoustics",
+            "school": "Columbia College Chicago",
+            "year": "2002"
+        },
+        {
+            "degree": "General Studies, Human Development & Family Studies",
+            "school": "University of Illinois",
+            "year": "1999"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,83 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "A Compassionate Security Aide that has strong experience working with developmentally disabled adults and creating individualized recreational plans to assist them with community integration.",
+    "skills": [
+        "Strong verbal communication",
+        "Data management",
+        "Extremely organized",
+        "Project management",
+        "Client assessment and analysis",
+        "Powerful negotiator",
+        "Self-motivated",
+        "Staff development",
+        "Conflict resolution",
+        "Team leadership",
+        "Risk management processes and analysis",
+        "Process implementation"
+    ],
+    "experience": [
+        {
+            "title": "Security Aide I",
+            "company": "Company Name",
+            "start_date": "2017",
+            "end_date": "Present",
+            "description": "Huge experience with therapeutic recreational services, activities and programs. Outstanding knowledge of psychiatric patient care techniques. Thorough knowledge of working in acute care, assisted living and other healthcare setting. Good understanding of abuse reporting protocols. Familiarity with recreational therapy and therapeutic recreation programs. Amazing ability to develop recreational therapy plans. Ability to design, implement, and coordinate therapeutic programming. Immense ability to build positive working relations with patients and colleagues. Remarkable ability to provide therapies independently or in groups. Obtained documents, clearances, certificates and approvals from local, state and federal agencies. Performed initial client assessment and analysis to begin research process. Analyzed departmental documents for appropriate distribution and filing. Worked directly with department, clients, management to achieve result. Developed new process for employee evaluation which resulted in marked performance improvements. Responsible for creative design for prominent project. Supported Chief Operating Officer with daily operational functions."
+        },
+        {
+            "title": "Student Worker",
+            "company": "Company Name",
+            "start_date": "01/2016",
+            "end_date": "01/2017",
+            "description": "Complete clerical and data entry tasks, interoffice mail and file important documents. Support and provide coverage of the administrative desk; Adhere to the code of confidentiality in certain cases where discretion is required. Record odometer reading and maintenance support provided to University's vehicles and driver assistance during event functions when additional support as needed."
+        },
+        {
+            "title": "Resident Advisor",
+            "company": "Company Name",
+            "start_date": "08/2015",
+            "end_date": "01/2017",
+            "description": "Provide guidance, social support and security within Residential Life community, and foster an environment that allows 40 students to meet their academic goals. Increase students' knowledge of policies and procedures of Residential Life and increase students involvement in University, Residential Life committees and activities/events. Managing and documenting policy violations; Reporting maintenance and facility concerns and conducting Health and Safety Inspections. Other duties as assigned by Residence Director."
+        },
+        {
+            "title": "Student Worker",
+            "company": "Company Name",
+            "start_date": "08/2014",
+            "end_date": "01/2016",
+            "description": "Created biochar Pyrolysis, the process of creating a fine-grained highly porous charcoal that helps soils retain nutrients and water. Entered biochar data into excel spread sheet. Helped make chemical for research and maintained cleanliness of chemical laboratory equipment."
+        },
+        {
+            "title": "Physiotherapist Rehabilitation Internship",
+            "company": "Lincoln University",
+            "start_date": "12/2015",
+            "end_date": "12/2015",
+            "description": "Internship in Physiotherapist Rehabilitation, Athletic Trainers Room. Set up equipment for students athletes; assisted in treatment for students athletes; treatments include wrapping and taping ankles, applying ice packs and conducting ultrasound treatments."
+        },
+        {
+            "title": "Shadow/Intern of Occupational Therapist and Physiotherapist Rehabilitation Treatments",
+            "company": "JCMG Orthopaedic Center",
+            "start_date": "12/2017",
+            "end_date": "12/2017",
+            "description": "Shadow/Intern assisting in occupational therapy and physiotherapist rehabilitation treatments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Wellness-Kinesiology",
+            "school": "Lincoln University",
+            "year": "2017"
+        },
+        {
+            "degree": "Wellness-Kinesiology Diploma: Coaching",
+            "school": "GC Foster College of Physical Education and Sports",
+            "year": "2013"
+        }
+    ],
+    "certifications": [
+        "CPR Certificate 2017",
+        "Basic Psychiatric Training Course Certificate 2017",
+        "Certificate of Excellence 2017"
+    ],
+    "languages": []
+}

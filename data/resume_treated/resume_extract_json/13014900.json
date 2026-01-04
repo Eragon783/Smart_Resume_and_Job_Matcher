@@ -1,0 +1,89 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Cody, Wyoming, USA",
+    "summary": "Product and Web Designer with 34+ years of experience in graphic art, fine arts, and teaching. Creative and outside-the-box thinker, skilled in graphic design for print and web, product development, and freelance design. Proficient in Adobe Creative Suite and able to work remotely with strong project management and collaboration skills.",
+    "skills": [
+        "Adobe Photoshop",
+        "Adobe InDesign",
+        "Adobe Illustrator",
+        "Dreamweaver",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "HTML",
+        "Website design",
+        "Web maintenance",
+        "Logo design",
+        "Branding",
+        "Brochure design",
+        "Newsletter formatting",
+        "Photography and photo enhancement",
+        "Typography",
+        "Print design",
+        "Graphic design",
+        "Product development",
+        "Project proposals",
+        "Art direction",
+        "Color theory",
+        "Layout and composition"
+    ],
+    "experience": [
+        {
+            "title": "Product and Web Designer",
+            "company": "Company Name",
+            "start_date": "1995-01",
+            "end_date": "2014-01",
+            "description": "Created graphic materials for the company website. Designed and printed online interactive sales and marketing collateral. Designed unique print materials, including advertisements, brochures and logo designs. Determined styles, size and arrangement of illustrations and graphics. Assisted in developing and maintaining user-friendly websites. Translated prototypes and PSDs into launch-ready, pixel-perfect formats. Maintained site appearance by developing and enforcing content and display standards. Consistently adhered to all internal delivery schedules. Collaborated with a team of designers to offer improvements and direction on others' projects. Prepared layouts and drawings in compliance with established templates and design standards. Adhered to all corporate brand guidelines when preparing graphic materials. Recommended techniques, methods and media best suited to produce desired visual effects. Designed artistic signage for special corporate events. Developed creative graphics that simplified complex messages. Worked with overseas factories to deliver polished final products. Contributed ideas during strategic and conceptual brainstorming sessions. Coordinated with the production factories and delivery managers to follow through from conception to manufacture and delivery to online sales. Created concept mock-ups and banners for web and mobile applications. Created all communications collateral, including web pages, brochures and fliers. Prioritized graphic workload and effectively coordinated multiple projects. Supported production of various projects under tight time constraints. Produced product and packaging for domestic and international markets. Meticulously followed corporate brand guidelines to enable brand consistency across campaigns and marketing programs."
+        },
+        {
+            "title": "Part-time in Food and Beverage",
+            "company": "Company Name",
+            "start_date": "2005-01",
+            "end_date": "2013-10",
+            "description": "Food and Beverage part-time work in a very busy tourist hotel. In this business a person must be very organized, personable and energetic."
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name",
+            "start_date": "1990-01",
+            "end_date": "1995-04",
+            "description": "Designed souvenir mugs and t-shirts for large scale tourism distribution. Clients included Sea World and Busch Gardens. Harrah's, Stratosphere, MGM Grand, and numerous other Las Vegas attractions."
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name",
+            "start_date": "1984-07",
+            "end_date": "1987-06",
+            "description": "Licensed Disney t-shirts. Designed for T-shirt company who supplied Universal Studios and many tourist attractions in Southern California and beyond with Disney themed t-shirts, from cartoon characters such as Mickey Mouse to Betty Boop and numerous others."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts (Advertising Design)",
+            "school": "Colorado Institute of Art",
+            "year": "1985"
+        },
+        {
+            "degree": "Illustration & Cartooning",
+            "school": "Ventura College",
+            "year": null
+        },
+        {
+            "degree": "Online Adult Education (not degree focused)",
+            "school": "Northwest College",
+            "year": null
+        },
+        {
+            "degree": "Computer Science",
+            "school": "Ventura College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Substitute Teaching Certification Permit (Wyoming, 2004-2011)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

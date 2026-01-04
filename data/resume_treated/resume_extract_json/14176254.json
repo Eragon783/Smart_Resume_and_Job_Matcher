@@ -1,0 +1,104 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly-motivated, coaching, and analytical health insurance leader.",
+    "skills": [
+        "quality analysis",
+        "training",
+        "teaching",
+        "mentoring",
+        "coaching",
+        "life coaching",
+        "advertising",
+        "agency",
+        "customer satisfaction",
+        "customer service",
+        "databases",
+        "insurance",
+        "marketing",
+        "meetings",
+        "multitasking",
+        "communicator",
+        "policies",
+        "rapport",
+        "sales",
+        "spreadsheet",
+        "strategic",
+        "team player",
+        "phone"
+    ],
+    "experience": [
+        {
+            "title": "Customer Service Advocate",
+            "company": "Company Name, City, State",
+            "start_date": "Mar 2016",
+            "end_date": "Present",
+            "description": "Coached and assisted new customer service representatives; managed casework and calls; trained departments regarding PCMH."
+        },
+        {
+            "title": "Missionary Pastor/Church Planter",
+            "company": "River Chapel, City, State",
+            "start_date": "Jun 2016",
+            "end_date": "Present",
+            "description": "Assisted River Chapel in church revitalization; developed and taught discipleship curriculum; preached weekly; started a non-profit organization called The Sparrows; taught on manhood, womanhood, marriage, and parenting; roasts and sells coffee for non-profit organizations; retreat center."
+        },
+        {
+            "title": "Customer Service Specialist Contractor",
+            "company": "Company Name, City, State",
+            "start_date": "Sep 2014",
+            "end_date": "Mar 2016",
+            "description": "Created and maintained databases tracking and trending first contact resolution; analyzed customer service calls; contributed ideas for exceptional service; evaluated data entry accuracy; followed up on unresolved issues; supported policy changes and customer satisfaction improvements."
+        },
+        {
+            "title": "Outreach Pastor",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2014",
+            "end_date": "Mar 2016",
+            "description": "Led a team of paid staff and volunteers to focus on church outreach; spoke to groups; established relationships with local advertising; managed external marketing; organized events and guest services; facilitated Starting Point class."
+        },
+        {
+            "title": "Quality Assurance Analyst",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2013",
+            "end_date": "Aug 2014",
+            "description": "Identified and corrected claims processing errors; evaluated data quality; followed up with customers; reported policy changes; conducted annual policy reviews; analyzed customer service calls; developed a system for first call resolution; coached and trained staff on policy changes."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2011",
+            "end_date": "Aug 2013",
+            "description": "Answered ~100 calls per day; described product and care details; provided an elevated customer experience; resolved inquiries and complaints; asked open-ended questions to assess needs."
+        },
+        {
+            "title": "Shift Supervisor/Manager",
+            "company": "Company Name, City, State",
+            "start_date": "Jun 2008",
+            "end_date": "Aug 2011",
+            "description": "Ensured sales goals were met; ran daily reports; maintained customer satisfaction; interviewed potential employees; trained and mentored staff; implemented programs to increase loyalty and reduce turnover."
+        },
+        {
+            "title": "Teacher and Coach",
+            "company": "Company Name, City, State",
+            "start_date": "Aug 2007",
+            "end_date": "Jun 2008",
+            "description": "Acted as a positive role model; taught sport-specific skills; built rapport with athletes; developed game plans; improved student participation; organized outreach programs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Historical Theology",
+            "school": "Moody Bible Institute",
+            "year": "2007"
+        },
+        {
+            "degree": "Master of Divinity",
+            "school": "The Southern Baptist Theological Seminary",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,119 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Highly proactive professional with 10+ years of experience in accounting and economics, seeking a Staff Accountant role. Strong mathematical, numerical, accounting and analytical abilities with outstanding communication and attention to detail. Experienced in tax accounting, financial operations, and process improvement.",
+    "skills": [
+        "Accounting",
+        "billing",
+        "C programming",
+        "closing",
+        "consultant",
+        "Consulting",
+        "credit",
+        "Client",
+        "clients",
+        "customer care",
+        "data entry",
+        "database",
+        "debit",
+        "delivery",
+        "documentation",
+        "editing",
+        "Senior Management",
+        "fetch",
+        "filing",
+        "Financial",
+        "Forms",
+        "Full Life Cycle",
+        "funds",
+        "General Ledger accounts",
+        "legal",
+        "managing",
+        "Excel",
+        "office",
+        "Windows",
+        "Microsoft Word",
+        "month-end closing",
+        "Oracle",
+        "Oracle database",
+        "Designer 2000",
+        "Developer",
+        "OS/2",
+        "processing payments",
+        "policies",
+        "processes",
+        "proposals",
+        "Quality assurance",
+        "read",
+        "real estate",
+        "reporting",
+        "requirement",
+        "Sales",
+        "scheduling",
+        "scripts",
+        "Solomon",
+        "SQL",
+        "System Integration",
+        "tables",
+        "Tax accounting",
+        "Tax",
+        "tax returns",
+        "Technical documentation"
+    ],
+    "experience": [
+        {
+            "title": "Staff Accountant",
+            "company": "Company Name",
+            "start_date": "2006-04",
+            "end_date": "2016-09",
+            "description": "Managed the annual property tax cycle by filing personal property tax returns, managing the assessment process and approving property tax bills. Provided essential support for senior tax professionals in the administration and coordination of tax engagements. Tracked and maintained client real estate tax data from various sources; municipalities, legal, US Counties, etc. Coordinated with administration associates for data tracking, scheduling, and billing. Reconciled receipts, processed postal tax bills and other correspondences. Reported in senior management communications and reporting on tax accounting discrepancies in billing. Performed tax accounting data entry utilizing PTMS; updated account numbers, collector information, and real property specifics. Created/executed NOV variance reporting; followed through on refunds and assessing property records; monitored appeal deadlines."
+        },
+        {
+            "title": "Financial Aid Accounting Administrator",
+            "company": "Company Name",
+            "start_date": "2004-06",
+            "end_date": "2006-04",
+            "description": "Provided daily accounting processes and procedures in the Financial Aid Accounting Department. Executed and analyzed financial delinquency reports; verified debits/credits on inactive tuition accounts. Performed month-end close procedures, posted to the General Ledger, reconciled accounts, and prepared financial statement reconcilations. Wrote/reviewed check requests for refunds and routed checks; prepared and filed monthly Sales & Use Tax."
+        },
+        {
+            "title": "Customer Care Consultant",
+            "company": "Company Name",
+            "start_date": "2002-09",
+            "end_date": "2003-04",
+            "description": "Processed requests for real estate accounts and loans via telephone and electronic communications. Provided staff assistance and advice, adhered to policies and procedures. Served as mortgage consultant, explaining terms, products and options to clients."
+        },
+        {
+            "title": "Computer Programmer",
+            "company": "Company Name",
+            "start_date": "1998-04",
+            "end_date": "2001-05",
+            "description": "Maintained and supported Banner CIS utility system, performed upgrades, and implemented system changes using Oracle Forms Developer/Designer 2000 with Oracle database. Involved in full life cycle development, QA testing, and client system enhancements."
+        },
+        {
+            "title": "Computer Programmer Analyst",
+            "company": "Company Name",
+            "start_date": "1996-06",
+            "end_date": "1998-04",
+            "description": "Developed and enhanced software for clients; full life cycle system development, embedded SQL within C, client support and system upgrades. Created technical documentation and specifications; worked across OS/2 and Windows platforms."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma in Accounting",
+            "school": "Kings College",
+            "year": 2004
+        },
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "school": "South Carolina State University",
+            "year": 1995
+        }
+    ],
+    "certifications": [
+        "Notary (NC)",
+        "Institute for Professionals in Taxation (IPT) membership"
+    ],
+    "languages": []
+}

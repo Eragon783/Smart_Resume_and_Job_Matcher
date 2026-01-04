@@ -1,0 +1,54 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Finance focal driven to improve morale, decrease turnover and improve productivity. Background in leadership development, training, and strategic thinking. Highlights Exceptional interpersonal skills; Employee relations; Training and development; Data analysis; Predictive planning; Public speaking; Budget planning.",
+    "skills": [
+        "Project management",
+        "Customer satisfaction",
+        "Mentoring"
+    ],
+    "experience": [
+        {
+            "title": "Finance / Project Management",
+            "company": "Company Name",
+            "start_date": "2008-07",
+            "end_date": "2015-10",
+            "description": "Held various Finance and Project Management related roles including: Integrated Scheduling Contracts Business Partner Advised managers on program specific matters and recommend needed changes. Developed metrics to reduce risk. Directed personnel training activities. Served as a link between management and employees by handling questions, interpreting and executing program requirements, and helping resolve work-related problems."
+        },
+        {
+            "title": "Adjunct Professor",
+            "company": "Company Name",
+            "start_date": "2013-08",
+            "end_date": "Present",
+            "description": "Conducted adult learner leadership courses to foster positive attitude toward organizational leadership. Presented leadership and human behavior material. Coordinated material to meet student needs and goals."
+        },
+        {
+            "title": "Human Resource Generalist Intern",
+            "company": "Company Name",
+            "start_date": "2014-07",
+            "end_date": "2015-03",
+            "description": "Served as a link between management and employees by handling questions and helping resolve work-related problems. Advised managers on organizational policy matters and recommend needed changes. Directed job description development to maximize maneuverability of personnel."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Doctor of Philosophy: Organizational Leadership",
+            "school": "The Chicago School of Professional Psychology",
+            "year": 2013
+        },
+        {
+            "degree": "Master of Arts: Industrial Organizational Psychology",
+            "school": "The Chicago School of Professional Psychology",
+            "year": 2008
+        },
+        {
+            "degree": "Bachelor of Science: Psychology",
+            "school": "Belmont University",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

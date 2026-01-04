@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Bilingual Domestic Violence Advocate with experience providing crisis intervention, risk assessment, safety planning, and supportive counseling to a caseload of approximately 30 clients. Proficient with EPIC, electronic medical records, and data systems (ETO); working knowledge of SAS and R. Experienced in trauma-informed care, program development, and presenting on gender identity.",
+    "skills": [
+        "Word processing (Word)",
+        "Excel",
+        "Access",
+        "EPIC",
+        "electronic medical records",
+        "Efforts to Outcome (ETO)",
+        "SAS",
+        "R",
+        "crisis intervention",
+        "risk assessment",
+        "safety planning",
+        "counseling",
+        "trauma-informed care",
+        "bilingual Spanish-English",
+        "presentation/public speaking"
+    ],
+    "experience": [
+        {
+            "title": "Bilingual Domestic Violence Advocate",
+            "company": "Company Name",
+            "start_date": "2015-09",
+            "end_date": "2016-11",
+            "description": "Provided advocacy services to a caseload of approximately 30 clients, including crisis intervention, risk assessment, safety planning, supportive counseling, and assistance accessing community resources. On-call service one to two times a week; first responder for intimate partner violence referrals from hospital and self-referrals from the community. Documented in Passageway database (ETO) and EPIC; utilized clinical strategies; provided psycho-educational resources; worked with clients on coping skills and behaviors. Developed and led a presentation on gender identity; participated in Brigham and Women's Hospital Schwartz Rounds."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "2014-09",
+            "end_date": "2015-05",
+            "description": "Assessed mental health, physical health, and supportive services needs of up to ten children and families per week via biopsychosocial assessments. Collaborated to provide trauma-informed care; engaged families in strengths-based relationships; referred to local mental health agencies, community programs, and government organizations. Conducted weekly pediatric mental health screenings; participated in weekly meetings and monthly pediatric team meetings; developed and led a presentation on youth and self-harm."
+        },
+        {
+            "title": "Corps Member, City Year",
+            "company": "City Year",
+            "start_date": "2013-07",
+            "end_date": "2014-06",
+            "description": "Mentored and tutored 7th grade students; referred students to counselors; collaborated to aid trauma symptoms, behavior, academic performance, and quality of life. Engaged with families to discuss behavior and mental health; created extracurricular behavior programming; five students met goals; directed a High School Fair with attendance from eight local schools and roughly 80 parents and students."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Company Name",
+            "start_date": "2010-06",
+            "end_date": "2011-05",
+            "description": "Collected, transcribed, and coded interviews with parents and children on animal behavior and evolution. Analyzed data to measure understanding of evolution; contributed to a research paper: Shtulman, A., & Checa, I. (2012)."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Public Health, Epidemiology, Maternal and Child Health",
+            "school": "Boston University",
+            "year": "2017"
+        },
+        {
+            "degree": "Master of Social Work, Clinical Social Work",
+            "school": "Boston University",
+            "year": "2016"
+        },
+        {
+            "degree": "Bachelor of Arts, Psychology",
+            "school": "Occidental College",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Spanish"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Petah Tikva",
+    "summary": "Java Backend Developer with 3 years of hands-on experience. A fast self-learner and an excellent team player with a passion for the quality of the code and the product. Looking for a full-time back-end developer position.",
+    "skills": [
+        "Java",
+        "Go",
+        "JavaScript",
+        "TypeScript",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Couchbase",
+        "Spring",
+        "Hibernate",
+        "JDBC",
+        "Apache Kafka",
+        "Apache Camel",
+        "Broadleaf",
+        "Angular 4",
+        "Maven",
+        "JUnit",
+        "REST",
+        "WSDL",
+        "Eclipse",
+        "IntelliJ IDEA",
+        "WebStorm",
+        "VS Code",
+        "Postman",
+        "Git",
+        "SVN",
+        "Perforce",
+        "Jenkins",
+        "Docker",
+        "IBM WebSphere",
+        "JBoss Fuse",
+        "TFS",
+        "JIRA"
+    ],
+    "experience": [
+        {
+            "title": "Java Back-End Developer",
+            "company": "Amdocs (Raanana)",
+            "start_date": "2019",
+            "end_date": "2020",
+            "description": "Working as a Java Back-End Developer inside a cross-functional scrum team, I participated in development and maintenance of a web application for customer management and commerce. Following the Agile methodology, I designed some new features of the app, refactored existing code, and often was a go-to person for some of my teammates. Technologies: Java 8, Spring Boot, Hibernate, REST, Broadleaf, Apache Camel."
+        },
+        {
+            "title": "Java Developer",
+            "company": "Most Technologies (Petah Tikva)",
+            "start_date": "2018",
+            "end_date": "2019",
+            "description": "As a part of a small team, I participated in development and maintaining of a desktop client-service application for insurance companies and pension funds. The work included deep understanding and refactoring of the existing code, designing some new essential features, solving critical problems in the app's infrastructure itself, version control and deployment. Besides, I have written several manuals for my fellow developers in order to help them understand some parts of the system better. Technologies: Java 6, IBM WebSphere, Web-Services (WSDL), Printboss utilities, Mainframe, UDB."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Java Full-Stack",
+            "school": "Tel-Ran Educational Center (Rehovot)",
+            "year": "2017-2018"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "Hebrew",
+        "English",
+        "Russian"
+    ]
+}

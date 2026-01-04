@@ -1,0 +1,126 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "I am a current Mechanical Designer for I.A.S. I am extremely versatile, reliable and efficient with 15+ years' experience supporting managers, business owners and executives in high paced environments in a wide variety of professional positions. Diversified skills include client relations, utilizing different design mediums, being hands on, project management, and working extremely well in both team environments and on my own.",
+    "skills": [
+        "blueprints",
+        "budgeting",
+        "budgets",
+        "budget",
+        "content",
+        "Negotiate contracts",
+        "Clients",
+        "customer service",
+        "documentation",
+        "drafting",
+        "equipment operation",
+        "features",
+        "fertilizers",
+        "forms",
+        "Inspect",
+        "inventory management",
+        "layout",
+        "Employee management",
+        "managing",
+        "mark",
+        "mechanical",
+        "modeling",
+        "personnel",
+        "policies",
+        "product design",
+        "product development",
+        "product improvement",
+        "progress",
+        "proposals",
+        "quality",
+        "quality control",
+        "Read",
+        "maintain records",
+        "renovations",
+        "safety",
+        "Scheduling",
+        "supervisor",
+        "supervising",
+        "upgrades",
+        "water quality"
+    ],
+    "experience": [
+        {
+            "title": "Mechanical Designer",
+            "company": "Company Name",
+            "start_date": "02/2016",
+            "end_date": "Current",
+            "description": "My primary responsibility is to ensure that Clients are thrilled through design, planning and implementation while making sure Interstate's services are the highest quality possible. Maintain schedules thru interaction with clients and project managers, personnel and clients. Maintain ongoing project requirements and specifications for multiple projects. Review design efforts for team to ensure that quality is being maintained. Manage and scope investigations into form or function of a feature or set of features in a design. To create and refine technical and mechanical parts as well as assembly drawings to capture design intent and documentation. Guide other Interstate Staff."
+        },
+        {
+            "title": "Lead Horticulturalist/Manager",
+            "company": "Company Name",
+            "start_date": "02/2016",
+            "end_date": "08/2016",
+            "description": "Develop improved measurement techniques, soil conservation methods, soil sampling devices, or related technology. Identify or classify species of insects or allied forms, such as mites or spiders. Investigate soil problems and poor water quality to determine sources and effects. Develop improved measurement techniques, soil conservation methods, soil sampling devices, or related technology. Perform chemical analyses of the microorganism content of soils to determine microbial reactions or chemical mineralogical relationships to plant growth. Tour work areas to observe work being done, to inspect crops, and to evaluate plant and soil conditions. Apply pesticides and fertilizers to plants. Hire employees, and train them in gardening techniques. Select and purchase seeds, plant nutrients, disease control chemicals, and garden and lawn care equipment. Explain and enforce safety regulations and policies. Confer with horticultural personnel in order to plan facility renovations or additions. Cut and prune trees, shrubs, flowers, and plants. Construct structures and accessories such as greenhouses and benches. Negotiate contracts such as those for land leases or tree purchases."
+        },
+        {
+            "title": "R&D Designer",
+            "company": "Company Name",
+            "start_date": "02/2014",
+            "end_date": "02/2016",
+            "description": "Responsible for the overall design, development & testing (DDT): I design, draft, develop and test many concurrent product development and product improvement projects. Design and ensure fit, form and functions are correct. Perform calculations and work with vendors to develop production part design and allocate resources when necessary. Work with engineers to address product updates and concerns and work with quality and customer service departments to identify product improvement opportunities. Create and track ECN's (engineering changing notice), update drawings and documents, ensure they meet drafting standards, brainstorm ideas and modeling concepts, prototype new designs, and train manufacturing personnel on product design changes and upgrades."
+        },
+        {
+            "title": "Landscape Supervisor",
+            "company": "Company Name",
+            "start_date": "05/2013",
+            "end_date": "02/2014",
+            "description": "Responsibilities included maintaining and supervising all indoor and outdoor landscape needs. This includes but is not limited to all budgeting, design, maintenance, horticultural practices for all on-site plants and oversight of all on-sight jobs. Working with vendors and managing a cost-to-savings budget working toward a LEED certified campus and providing safety and cost solutions for Microsoft. Establish and enforce operating procedures and work standards that will ensure adequate performance and personnel safety. Train workers in tasks such as transplanting or pruning trees or shrubs, finishing cement, using equipment, or caring for turf. Confer with other supervisors to coordinate work activities with those of other departments."
+        },
+        {
+            "title": "Designer/Project Manager",
+            "company": "Company Name",
+            "start_date": "03/2013",
+            "end_date": "07/2013",
+            "description": "Coordinate or direct development, energy assessment, engineering, or construction activities to ensure that landscape project needs and objectives are met. Manage site assessments and/or environmental studies for new designs. Update schedules, estimates, forecasts, or budgets for landscape designs and proposals."
+        },
+        {
+            "title": "Technician",
+            "company": "Company Name",
+            "start_date": "01/2011",
+            "end_date": "12/2011",
+            "description": "Operate digital printing and categorization systems. Collect and maintain records of clients and designs. Complete quality control activities, monitor equipment operation, and report malfunctioning equipment to supervisor."
+        },
+        {
+            "title": "Foreman/Designer",
+            "company": "Company Name",
+            "start_date": "06/2007",
+            "end_date": "09/2007",
+            "description": "Supervise, coordinate, or schedule the activities of construction and landscape workers. Read specifications, such as blueprints, to determine construction requirements or to plan procedures. Inspect work progress, equipment, or construction sites to verify safety or to ensure that specifications are met. Locate, measure, and mark site locations or placement of structures or equipment, using measuring and marking equipment."
+        },
+        {
+            "title": "Key holder",
+            "company": "Company Name",
+            "start_date": "01/2005",
+            "end_date": "01/2013",
+            "description": "Responsibilities include inventory management. Employee management. Oversight of day-to-day store operations. Store layout. Scheduling. Bank depository. Intermediate between corporate and store locations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's degree: Landscape Architecture",
+            "school": "NDSU",
+            "year": "May 2012"
+        },
+        {
+            "degree": "Bachelor's degree: Environmental Design",
+            "school": "NDSU",
+            "year": "December 2010"
+        },
+        {
+            "degree": "Associate's degree: Biological Science (Zoology)",
+            "school": "MSCTC",
+            "year": "May 2008"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,75 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Russia",
+    "summary": "Business analyst with 6.5 years of software industry experience and 4.5 years as business and system analyst; focused on web applications; seeking senior business and system analyst / product management roles.",
+    "skills": [
+        "requirement elicitation",
+        "business analysis",
+        "functional requirements",
+        "non-functional requirements",
+        "BPMN",
+        "UML",
+        "REST API",
+        "SQL",
+        "user-story mapping",
+        "agile (Scrum, Kanban)",
+        "reengineering business processes",
+        "use cases",
+        "BFF REST integrations",
+        "Axure RP",
+        "relational database design",
+        "team leadership",
+        "QA support",
+        "communication"
+    ],
+    "experience": [
+        {
+            "title": "Senior Business Analyst Team Lead",
+            "company": "Mvideo-Eldorado",
+            "start_date": "2018-10",
+            "end_date": "Present",
+            "description": "Responsibilities and Experience: requirement elicitation and elaboration; created new version of the online store www.mvideo.ru based on the microservices (as business analyst); all main pages of product selection process; BPMN; UML; built the analysis process from scratch; created the site knowledge base; REST API; led the analyst team, expanded it from 2 to 27 members; SQL; responsible for user-story mapping; reengineering and creating new business processes; use case; agile (Scrum, Kanban); gathering and elaborations of different requirements: business, functional, non-functional; requirements for BFF-level REST integrations; supporting dev and QA teams during the entire feature life cycle; estimating workloads and planning analyst tasks for product teams."
+        },
+        {
+            "title": "Business analyst",
+            "company": "Gemotest laboratory",
+            "start_date": "2017-10",
+            "end_date": "2018-10",
+            "description": "English - fluent; Russian - native; created and deployed to production the new algorithm for delivering patients results; created and deployed to production new payment process for cash registers and new process of fulfilling field orders day to day; was responsible for business requirements elicitation, functional and non-functional requirements elaborations; relational database design (using UML diagrams, SQL); creating the interface (using Axure RP)."
+        },
+        {
+            "title": "Junior software engineer",
+            "company": "TS consulting",
+            "start_date": "2016-01",
+            "end_date": "2017-06",
+            "description": "Created the software, using Siebel eScript and JavaScript, SQL queries."
+        },
+        {
+            "title": "Junior QA automation engineer",
+            "company": "Aplana Development Center",
+            "start_date": "2013-06",
+            "end_date": "2013-08",
+            "description": "Developed unit tests, based on the acceptance criteria; resolved bugs identified as a result of testing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's degree in Computer Software eCommerce",
+            "school": "National Research Nuclear University MEPhI",
+            "year": "2015-2017"
+        },
+        {
+            "degree": "Bachelor's degree in Applied Mathematics and Computer Science",
+            "school": "National Research Nuclear University MEPhI",
+            "year": "2011-2015"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English (fluent)",
+        "Russian (native)",
+        "German (basic)"
+    ]
+}

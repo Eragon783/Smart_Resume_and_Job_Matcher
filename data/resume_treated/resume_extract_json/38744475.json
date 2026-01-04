@@ -1,0 +1,73 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Talented Designer and Retail Merchandiser skilled at using product placement and creating uniquely inspiring displays. Collaborates with company headquarters and sales managers to create product display solutions that boost sales revenue. Highlights Store layout design Interactive displays Common store planning AutoCad Store communication Store maintenance Graphic displays Working remotely Accomplishments Selected for national brand building campaign, responsible for planning, implementing, and producing makeover videos and marketing content.",
+    "skills": [
+        "Adobe Creative Suite",
+        "AutoCAD",
+        "Planograms",
+        "Store layout design",
+        "Interactive displays",
+        "Common store planning",
+        "Store communication",
+        "Store maintenance",
+        "Graphic displays",
+        "Working remotely"
+    ],
+    "experience": [
+        {
+            "title": "Interior Designer",
+            "company": "IKEA Sunrise store",
+            "start_date": "08/2013",
+            "end_date": "Present",
+            "description": "Supported growth and development as leader of local market research project. Designed unique and centrally planned displays. Created inspiring homes and rooms that showcase products in function and boost sales. Worked with vitality to motivate people to visit the store more frequently. Worked to promote IKEA as leaders of life at home. Remodeled employee resource center to promote a better everyday life at work."
+        },
+        {
+            "title": "Interior designer, host, video producer, and video editor",
+            "company": "Company Name",
+            "start_date": "12/2013",
+            "end_date": "12/2014",
+            "description": "Interior designer, host, video producer, and video editor for IKEA Home Tour marketing campaign. Pioneered unique marketing project in various markets in the US. Supporting a crew with various skills with little direct supervision. Planning and implementing in-home makeover projects. Distributing marketing content for social media. Creating brand specific communication. Speaker and promoter for live and on air marketing events. Contributed to a positive ROI for the project."
+        },
+        {
+            "title": "Visual Merchandiser",
+            "company": "Company Name",
+            "start_date": "01/2011",
+            "end_date": "08/2013",
+            "description": "Planned, implemented, and maintained store layouts to support commercial priorities. Adapted and implemented centrally planned display areas throughout the commercial calendar. Strategically merchandised product displays to maximize sales. Created inspirational and clear brand communication within the store showroom and shopping areas. Adapted plans on the fly to account to architectural discrepancies. Distinguished as a key contributor on assignment to Orlando store marketplace remodel."
+        },
+        {
+            "title": "Freelance Designer",
+            "company": "Company Name",
+            "start_date": "07/2007",
+            "end_date": "01/2011",
+            "description": "Residential interior design. Specialized in layouts and finishes. Maximized design for small space living. Organized and coordinated contractors and installers. Fine art consultation."
+        },
+        {
+            "title": "Interior Designer Sales",
+            "company": "Company Name",
+            "start_date": "07/2008",
+            "end_date": "07/2009",
+            "description": "Interior Designer and Sales Specialist for custom modern and contemporary furniture store. Selected high-end furnishings and finishes for residential and commercial interior design projects. Developed business relationships with local real estate developers. Coordinated remodeling projects between clients contractors. Implemented in-store sales space for Kartell."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Fine Arts, Design",
+            "school": "University of Central Florida",
+            "year": "2007"
+        },
+        {
+            "degree": "Associate of Arts: Graphic Design",
+            "school": "Broward College",
+            "year": "2004"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

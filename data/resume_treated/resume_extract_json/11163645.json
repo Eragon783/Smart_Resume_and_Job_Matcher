@@ -1,0 +1,100 @@
+{
+    "name": "Gail L. Lugo",
+    "email": "",
+    "phone": "864-472-7092",
+    "location": "",
+    "summary": "Seasoned accounting professional with extensive experience in accounts payable and receivable, loan underwriting, mortgage and auto insurance underwriting, and claims examination. Proficient in Excel, Word, Access, Outlook, PowerPoint, QuickBooks, and enterprise software. Strong analytical, organizational, and customer service skills; proven ability to reconcile financial records, process payments, and support banking operations in fast-paced environments.",
+    "skills": [
+        "accounts payables",
+        "accounts receivables",
+        "administrative functions",
+        "trial balance",
+        "banking",
+        "budget",
+        "BI",
+        "closing",
+        "Computer Applications",
+        "Credit",
+        "clients",
+        "Customer Service",
+        "data entry",
+        "delivery",
+        "driving",
+        "email",
+        "insurance",
+        "inventory",
+        "ledger",
+        "Access",
+        "Excel",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "mortgage loan",
+        "Enterprise",
+        "policies",
+        "QuickBooks",
+        "Sales",
+        "sales reports",
+        "telecommunications",
+        "phone",
+        "workflow",
+        "written"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name, City, State",
+            "start_date": "January 2011",
+            "end_date": "November 2015",
+            "description": "Processed accounts receivable payments received by ACH, Lockbox, credit card and checks. Maintained banking activity. Documented loan and other payments to the proper G/L Accounts. Reviewed and maintained positive pay processing with the bank. Reviewed and processed accounts payable reports. Processed all accounts payable by check, domestic and international wires, ACH, and credit card. Reconciled bank statements. Maintained all credit card activity for all credit card holders; documented transactions to the proper G/L Accounts. Calculated and processed all sales quarterly commission reports. Reviewed and completed all credit checks and reference checks on new customers. Maintained quarterly Job Development Credit reports with the State of South Carolina. Assisted with passport and visa processing for international travel."
+        },
+        {
+            "title": "Accounts Receivable Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "January 2008",
+            "end_date": "January 2010",
+            "description": "Performed data entry. Processed accounts receivable payments. Reconciled delivery drivers' cash and checks with daily invoices. Corresponded with customers via email and phone on overdue invoices. Sent bi-weekly and monthly statements. Created and maintained monthly inventory depletion and sales reports to suppliers. Balanced and resolved problems with customer accounts. Filed customer and supplier invoices. Ran daily trial balance and end-of-day closing reports."
+        },
+        {
+            "title": "Mortgage Underwriter",
+            "company": "Company Name, City, State",
+            "start_date": "January 2006",
+            "end_date": "January 2008",
+            "description": "Processed new residential mortgage loan submissions. Provided clear and consistent written and verbal communications with customers/clients. Demonstrated strong analytical ability in reviewing credit reports, bank statements, preliminary title reports and appraisals. Corresponded with customers, loan officers, and account managers for information needed."
+        },
+        {
+            "title": "Commercial Auto Underwriter",
+            "company": "Company Name, City, State",
+            "start_date": "January 2004",
+            "end_date": "January 2006",
+            "description": "Processed new business commercial auto applications and issued endorsements. Performed data entry, reviewed applications, loss runs and driving records. Provided clear and consistent written and verbal communications with customers/brokers."
+        },
+        {
+            "title": "Personal Auto Underwriter",
+            "company": "Company Name, City, State",
+            "start_date": "January 2001",
+            "end_date": "January 2004",
+            "description": "Processed new business, renewals and endorsements. Performed data entry, reviewed applications, loss runs and driving records. Processed accounts receivable premium checks for insurance premiums. Resolved customer concerns and questions by properly reviewing policies, endorsements and premium payments."
+        },
+        {
+            "title": "Claims Examiner",
+            "company": "Company Name, City, State",
+            "start_date": "January 1983",
+            "end_date": "January 2001",
+            "description": "Trained coworkers on multiple tasks and administrative functions. Reviewed medical records and made decisions regarding disability payments. Performed data entry. Created, designed and maintained insurance documents conforming to Truth in Lending regulations. Responded to and resolved all customer inquiries via telecommunications and written correspondence. Developed and maintained measures of self-directed team performance to improve workflow. Consistently exceeded the company goal of paid claims per hour. Performed journal entries and ledger postings. Reconciled bank statements, budget accounts, and accounts receivable/payable records. Rapidly promoted from Level I to Level III within a one-year period due to excellent performance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Applications Specialist Certificate Program",
+            "school": "Martinez Adult Education, Business Training Center",
+            "year": "2008"
+        }
+    ],
+    "certifications": [
+        "Computer Applications Specialist Certificate Program"
+    ],
+    "languages": [
+        "English"
+    ]
+}

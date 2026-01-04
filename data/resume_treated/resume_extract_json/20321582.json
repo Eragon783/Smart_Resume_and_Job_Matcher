@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "A Dynamic and accomplished catering and food service professional with prior work in social and corporate markets. Notable successes in large scale event planning, food production, food preparation and menu development. Currently seeking a management position in food service.",
+    "skills": [
+        "Conflict Resolution",
+        "Leadership",
+        "Staff Training",
+        "Premier Ordering",
+        "FMS (Food Management Systems)",
+        "Hospitality Suite",
+        "Payroll and scheduling",
+        "ServSafe Certification",
+        "High energy",
+        "Vendor relations",
+        "Sysco/U.S. Foods"
+    ],
+    "experience": [
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "2016-06",
+            "end_date": "Present",
+            "description": "Hired, trained and managed kitchen staff; performed performance reviews; menu planning; developed signature dishes; monitored linework; generated schedules; ensured safety, sanitation and proper food handling; planned promotional menu additions based on seasonal pricing and product availability; managed vendor orders and inventory."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "2015-01",
+            "end_date": "2016-03",
+            "description": "Ensured recipes followed and portions adhered; participated in staff meetings; identified opportunities to increase revenue, reduce expenses and improve productivity; collaborated with nutritionists for special-needs meals; oversaw weekly cleaning schedules and inventory purchasing/receiving."
+        },
+        {
+            "title": "Executive Chef",
+            "company": "Company Name",
+            "start_date": "2012-08",
+            "end_date": "2015-01",
+            "description": "Collaborated with Food and Beverage Director; maintained sanitation and safety compliance; built open, collaborative relationships with kitchen team; conducted daily inspections and maintained safety reports; managed production for a high-volume $15 million account."
+        },
+        {
+            "title": "Sous Chef/Interim Executive Chef",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2012-08",
+            "description": "Instructed cooks and staff; managed food production for a high-volume $3 million account; oversaw BOH and FOH; experience managing branded retail locations; maintained inventory and ordering; helped roll out FMS 4.0; developed menus and pricing; managed banquet and catered events."
+        },
+        {
+            "title": "Kitchen Supervisor",
+            "company": "Company Name",
+            "start_date": "2005-06",
+            "end_date": "2009-06",
+            "description": "Delivered quality service in a warm environment; maintained cleanliness; updated daily logs and tracking systems; ensured food safety, sanitation, and proper handling."
+        },
+        {
+            "title": "Kitchen Manager",
+            "company": "Company Name",
+            "start_date": "2005-06",
+            "end_date": "2008-08",
+            "description": "Responsible for food and service product ordering; created HACCP program; developed inventory system; managed food production and kitchen staff; trained staff on cooking procedures, safety regulations and productivity strategies."
+        },
+        {
+            "title": "Security Police/E4 Senior Airman",
+            "company": "Company Name",
+            "start_date": "2000-05",
+            "end_date": "2005-10",
+            "description": "Commanded operations post; coordinated training schedules and crucial administrative paperwork; led military police teams in support of battlefield operations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts: Culinary Arts",
+            "school": "Savannah Technical University",
+            "year": 2005
+        },
+        {
+            "degree": "Security Police/Culinary",
+            "school": "United States Air Force",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "ServeSafe Certified"
+    ],
+    "languages": []
+}

@@ -1,0 +1,59 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Experienced Operations Manager with background in human resources, sales, and strategic planning. Proven ability to establish objectives, improve processes, and drive sales growth. Adept at leading teams, conducting marketing initiatives, and maintaining high productivity.",
+    "skills": [
+        "Human Resources",
+        "Microsoft Office",
+        "Community Outreach",
+        "Community Relations",
+        "Sales",
+        "Strategic Planning",
+        "Administrative",
+        "Bank Reconciliations",
+        "Business Presentations",
+        "Cash Flow",
+        "Insurance",
+        "Leadership",
+        "Marketing",
+        "Meetings",
+        "PR",
+        "Processes",
+        "Product Development",
+        "Quality"
+    ],
+    "experience": [
+        {
+            "title": "Operations Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2016-07",
+            "end_date": "2016-12",
+            "description": "Established operational objectives and work plans and delegated assignments to all employees, developed new process for employee evaluation which resulted in marked performance improvements, supported Chief Operating Officer with daily operational functions."
+        },
+        {
+            "title": "Operations Manager",
+            "company": "Company Name, City, State",
+            "start_date": "2016-08",
+            "end_date": "Current",
+            "description": "Identified prospective customers using lead generating methods and performing an average of 60 cold calls per day. Recognized as top sales generator, increasing sales level by 70% in 2016. Consistently met and exceeded department expectations for productivity and accuracy levels. Maintained sales record of 20% 6 months in a row."
+        },
+        {
+            "title": "Administrator",
+            "company": "Company Name, City, State",
+            "start_date": "2015-06",
+            "end_date": "2015-12",
+            "description": "Directed marketing initiatives, forecasted needs and adjusted future plans, created professional business presentations, maintained detailed administrative and procedural processes to improve accuracy and efficiency, filed insurance, coordinated meetings with other department managers and served as main liaison between."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Sports Management",
+            "school": "George Mason University",
+            "year": "2016"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

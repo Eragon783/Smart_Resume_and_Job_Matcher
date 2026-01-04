@@ -1,0 +1,69 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Proficient in the configuration and operation of DAWs and software such as Pro Tools, Logic Pro, Melodyne, Autotune, Traktor, Serato, and Sibelius. Capable of operating API Vision, AWS 900, AMEK 9098i, and SSL Duality consoles. Advanced understanding of sound systems and their configurations (PA systems to car stereo). Knowledge in recording and creating sound effects as well as putting sound to picture.",
+    "skills": [
+        "DAWs",
+        "Pro Tools",
+        "Logic Pro",
+        "Melodyne",
+        "Autotune",
+        "Traktor",
+        "Serato",
+        "Sibelius",
+        "API Vision",
+        "AWS 900",
+        "AMEK 9098i",
+        "SSL Duality",
+        "PA systems",
+        "Car Stereo",
+        "sound effects",
+        "sound to picture"
+    ],
+    "experience": [
+        {
+            "title": "Audio/Visual Technician",
+            "company": "Company Name",
+            "start_date": "04/2017",
+            "end_date": "Current",
+            "description": "Installation of high-end home audio and video solutions. Knowledge of audio/video signal flow and control systems for home networks."
+        },
+        {
+            "title": "Tow Truck Driver and Shop Hand",
+            "company": "Company Name",
+            "start_date": "06/2014",
+            "end_date": "03/2017",
+            "description": "Specialized in servicing brakes and fuel systems. Ordered accurate amounts of parts and supplies to maintain necessary inventory. Transported customers to and from the shop for the customer service program. Removed and replaced tires, shocks, struts and brakes."
+        },
+        {
+            "title": "Promoter and Event Coordinator",
+            "company": "Company Name",
+            "start_date": "10/2012",
+            "end_date": "05/2014",
+            "description": "Promoter and Event Coordinator for night club venue showcasing electronic music. Resident DJ and stage hand."
+        },
+        {
+            "title": "Internship",
+            "company": "Company Name",
+            "start_date": "06/2010",
+            "end_date": "08/2010",
+            "description": "Responsible for editing and mixing pre-recorded programming. Understands proper broadcast etiquette and basic workflow of operating on-air programming."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Recording Arts",
+            "school": "Full Sail University",
+            "year": "2014"
+        },
+        {
+            "degree": "Associate of Science and Arts: Music",
+            "school": "Northwestern Michigan College",
+            "year": "2012"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

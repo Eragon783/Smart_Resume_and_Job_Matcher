@@ -1,0 +1,74 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Seeking an Education Coordinator position with a company that will allow me to fully manage curriculum development, coordinate on-the-job training opportunities, and utilize my communication, organizational, and problem-solving skills.",
+    "skills": [
+        "Microsoft Office (Word, Outlook, Excel, PowerPoint, Publisher, Access)",
+        "Teaching Strategies GOLD",
+        "CDA-Infants & Toddlers",
+        "Maryland Child Care Credential PCS",
+        "Leadership skills",
+        "Time management",
+        "Verbal communication",
+        "Organizational skills",
+        "Teamwork",
+        "Teaching",
+        "Patience",
+        "Resourcefulness",
+        "Multi-Tasking",
+        "Office machines",
+        "Photocopiers and scanners",
+        "Typewriters",
+        "Voice mail"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate. Confer with other staff members to plan and schedule lessons promoting learning, following approved curricula. Prepare materials and classrooms for class activities. Establish and enforce rules for behavior, and procedures for maintaining order. Organize and lead activities designed to promote physical, mental and social development, such as games, arts and crafts, music, storytelling, and field trips. Assimilate arriving children to the school environment by greeting them, helping them remove outerwear, and selecting activities of interest to them. Attend staff meetings, and serve on committees as required. Attend professional meetings, educational conferences, and teacher training workshops to maintain and improve professional competence. Offered detailed daily reports that outlined each child's activities. Read stories to the children and taught them painting, drawing and crafts. Incorporated music and art activities to encourage creativity and expression."
+        },
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2014-01",
+            "description": "Escorted children on outings and trips to local parks and zoos. Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate. Confer with other staff members to plan and schedule lessons promoting learning, following approved curricula. Prepare materials and classrooms for class activities. Establish and enforce rules for behavior, and procedures for maintaining order. Organize and lead activities designed to promote physical, mental and social development, such as games, arts and crafts, music, storytelling, and field trips. Assimilate arriving children to the school environment by greeting them, helping them remove outerwear, and selecting activities of interest to them. Attend staff meetings, and serve on committees as required. Attend professional meetings, educational conferences, and teacher training workshops to maintain and improve professional competence. Offered detailed daily reports that outlined each child's activities. Read stories to the children and taught them painting, drawing and crafts. Incorporated music and art activities to encourage creativity and expression."
+        },
+        {
+            "title": "Security and Property Clerk",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2007-01",
+            "description": "Type, format, proofread, and edit correspondence and other documents, from notes or dictating machines, using computers or typewriters. Prepare meeting agendas, attend meetings, and record and transcribe minutes. Answer telephones, switchboard, direct calls, and take messages. Operate office machines, such as photocopiers and scanners, facsimile machines, voice mail systems, and personal computers."
+        },
+        {
+            "title": "Office Automation Clerk",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2006-01",
+            "description": "Type, format, proofread, and edit correspondence and other documents, from notes or dictating machines, using computers or typewriters. Prepare meeting agendas, attend meetings, and record and transcribe minutes. Answer telephones, switchboard, direct calls, and take messages. Operate office machines, such as photocopiers, scanners, facsimile machines, voice mail systems, and personal computers."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.Ed in Educational Leadership",
+            "school": "Concordia University",
+            "year": "2015"
+        },
+        {
+            "degree": "B.A. in Sociology",
+            "school": "University of Maryland Eastern Shore",
+            "year": "2011"
+        }
+    ],
+    "certifications": [
+        "CDA-Infants & Toddlers",
+        "Maryland Child Care Credential PCS",
+        "Teaching Strategies GOLD"
+    ],
+    "languages": []
+}

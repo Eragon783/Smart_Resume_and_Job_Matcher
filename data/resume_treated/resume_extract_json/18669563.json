@@ -1,0 +1,94 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Obtain a position in a professional organization where I can apply my skills and loyalty in exchange for career guidance, training and opportunity for advancement.",
+    "skills": [
+        "accounting",
+        "accountant",
+        "administrative",
+        "Army",
+        "Agency",
+        "backup",
+        "book",
+        "budget",
+        "Business Administration",
+        "cash flow",
+        "contracts",
+        "DC",
+        "documentation",
+        "filing",
+        "financial",
+        "GL",
+        "home office",
+        "IMS",
+        "International Business",
+        "materials",
+        "Access",
+        "Excel",
+        "Microsoft Office",
+        "PowerPoint",
+        "Word",
+        "procurement",
+        "purchasing",
+        "receiving",
+        "record keeping",
+        "transportation",
+        "workshops"
+    ],
+    "experience": [
+        {
+            "title": "Project Accountant",
+            "company": "Company Name City",
+            "start_date": "July 2012",
+            "end_date": "December 2013",
+            "description": "The project funded by USACE- United State Army Corps of Engineers Performed weekly Cash Counts and monthly Bank account reconciliations and reports back to the MTN / DC home office project accountant. Entered all transactions into the WEBFCR and uploaded backup to the WEBFCR on a daily basis Prepared cash flow projects for upcoming months (Cash forecast) and submitted the budget request every month. Uploaded all vendor/ contractor invoices to IMS and Ensured all payments are made in a timely manner to vendors and employees. Reviewed a limited variety of accounting documents and/or transactions to ensure proper supporting documentation has been submitted."
+        },
+        {
+            "title": "Subcontract Accountant",
+            "company": "Company Name City",
+            "start_date": "February 2011",
+            "end_date": "June 2012",
+            "description": "Reviewed all supplier/subcontractor invoices, bill and requests for payment transfer from LBG-B&V office to be reviewed and approved by Contract Manager, Task Order Manager and Chief of Party. Kept track of all sub-contracts documents, all payments confirmations sent from Head Quarter (DC office) and reviewed vouchers for wire transfer from Headquarter DC. Prepared all vouchers (disbursement, Cash, Bank and Advance journal vouchers) for expenditures and ensured that expenses are reasonable, allowable and allocable to the project, and coded all payments by account type using the GL Accounts. Preparation of weekly financial reports with Backups and send to HQ. Responsible to disbursement of all B&V Cash Payments and Petty Cash, Cash Book, Bank book and other B&V financial Activities."
+        },
+        {
+            "title": "Administrative & Finance Coordinator",
+            "company": "Company Name City",
+            "start_date": "June 2010",
+            "end_date": "November 2010",
+            "description": "Organized and preparing technical, administrative and financial files. Facilitated the lodging arrangements for any visitor, book flights for local and international staff traveling to the field and local transportation for international visitors. Maintained record keeping system of all office administrative and financial files. Handled the sending, receiving and distributing of all correspondence between the Kabul and Washington DC; served as the main point of contact for EDC/Washington. Assisted in purchasing materials for training workshops and other activities. Prepared payments for the procurement of materials, equipment, furniture and stationary for the project on timely basis. Prepared monthly and regular reports of Expense Vouchers, Advance Vouchers, and Bank Vouchers."
+        },
+        {
+            "title": "Administrative Officer",
+            "company": "CETENA GROUP – Kabul, Afghanistan",
+            "start_date": "September 2006",
+            "end_date": "May 2010",
+            "description": "Developed a filing system, established, and maintained a standard system to ensure Files tracking of IED (Improvised Explosive Devices) Project. Organized data and information, prepared and maintained records, documents and control plans for the monitoring of IED (Improvised Explosive Devices) project. Facilitated new/ extend visa for the International Staff, follow-up with the flight booking, confirmation and cancellation and ensured the work permits and visa for international staffs were up-to-date. Performed other Administration duties."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration (International Business)",
+            "school": "Virginia International University",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Business Administration (Finance)",
+            "school": "Kardan University",
+            "year": 2012
+        },
+        {
+            "degree": "Diploma in Business Administration",
+            "school": "Capital Institute of Information Technology",
+            "year": 2006
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Khurasan High School",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

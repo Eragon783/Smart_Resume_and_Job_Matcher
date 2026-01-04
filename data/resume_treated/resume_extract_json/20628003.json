@@ -1,0 +1,53 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Digital marketing professional experienced in sales, marketing and account management. Google AdWords and Analytics certified with skills including PPC/SEM, lead generation, analytics, SEO, social media, landing page optimization, and creative work. Out-of-the-box creative problem solver, capable of meeting deadlines under pressure. Detail oriented with exceptional communication skills (verbal/written).",
+    "skills": [
+        "Digital Marketing Strategy",
+        "Search Engine Marketing",
+        "Search Engine Optimization",
+        "Social Media Marketing"
+    ],
+    "experience": [
+        {
+            "title": "Digital Marketing Specialist",
+            "company": "Company Name",
+            "start_date": "2017-06",
+            "end_date": "Current",
+            "description": "Maintain clients' online presence, and ensuring that their products and services are effectively communicated to their target audiences. Optimize advertising spending by implementing proper Adwords account structures, negative keywords, and A/B split testing. Use Google Analytics data to modify site content, achieve goals, and reach KPI's, including CPC, CTR, quality score, and ROI. Familiar with SEO strategies like competitive keyword research, domain authority analysis, and link building."
+        },
+        {
+            "title": "Store Manager",
+            "company": "Company Name",
+            "start_date": "2016-02",
+            "end_date": "2017-07",
+            "description": "Supervises and motivate team members to meet daily high standards of cleanliness, efficiency, and customer service at all times. Manage work schedules within established budgets for optimal store coverage. Monitor sales and labor cost issues daily with a goal to maximize profitability without sacrificing customer service."
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name",
+            "start_date": "2013-09",
+            "end_date": "2015-11",
+            "description": "Responsible for customer support, orders, and quotations via phone, fax, email, and person-to-person interaction. Meets and/or exceeds sales and profit goals by following up on sales leads, monitoring market trends and growing the positive reputation of the company."
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "school": "Mt. San Antonio College",
+            "year": "2016"
+        },
+        {
+            "degree": "",
+            "school": "Digital Marketing Career Blueprint",
+            "year": "2017"
+        }
+    ],
+    "certifications": [
+        "Google AdWords Certification",
+        "Google Analytics Certification"
+    ],
+    "languages": []
+}

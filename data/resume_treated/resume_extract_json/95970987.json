@@ -1,0 +1,98 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Bronx, NY",
+    "summary": "Clinical Service Advocate with extensive experience in domestic violence, mental health, substance abuse, homelessness, and community resources. Skilled in crisis intervention, case planning, housing and entitlement services, and advocacy for women, families, and underserved populations. Motivated to utilize education and past experience to support individuals in need and contribute to organizational growth.",
+    "skills": [
+        "Domestic Violence",
+        "Sexual Abuse",
+        "Rape",
+        "Prostitution",
+        "Mental Health",
+        "Substance Abuse",
+        "Depression",
+        "Anxiety",
+        "Bipolar Disorder",
+        "Schizophrenia",
+        "Homelessness",
+        "Community Inclusion",
+        "Shelter System",
+        "HRA",
+        "SSI",
+        "NYCHA",
+        "Section 8",
+        "Community Resources",
+        "Mental Retardation",
+        "Down Syndrome",
+        "Medication Dispensing",
+        "Residential services",
+        "Autism",
+        "Runaway Teenagers",
+        "ADHD",
+        "ADD",
+        "Truancy",
+        "Family Intervention"
+    ],
+    "experience": [
+        {
+            "title": "Clinical Service Advocate",
+            "company": "Company Name",
+            "start_date": "2015-07",
+            "end_date": "2016-06",
+            "description": "Provided quality services to elderly populations living in their own homes; escorted clients to medical appointments and coordinated housing and entitlements; communicated changes to family, doctors, and service providers; prepared housing and entitlement letters and documented significant events in the client's treatment plan."
+        },
+        {
+            "title": "Women's Empowerment Counselor/ Advocate",
+            "company": "City, State",
+            "start_date": "2011-01",
+            "end_date": "2015-05",
+            "description": "Provided crisis intervention for women and children in shelter; facilitated groups for survivors of domestic violence, sexual abuse, and incest; connected clients with resources (HRA, Legal, BOE, shelter, Section 8, NYCHA, HASA, ACS); assisted non-English speakers to navigate legal systems and access services."
+        },
+        {
+            "title": "Office Manager",
+            "company": "Company Name",
+            "start_date": "2008-08",
+            "end_date": "2011-12",
+            "description": "Managed office operations, coordinated communications with court parts and DA's offices; prepared documentation for cases; translated documents; served as interpreter; drafted legal summaries and notices; handled office banking and payments."
+        },
+        {
+            "title": "Bilingual Clinical Services Coordinator",
+            "company": "Company Name",
+            "start_date": "2005-11",
+            "end_date": "2009-07",
+            "description": "Coordinated community-based services for clients with substance use disorders, mental illness, homelessness, and criminal history; provided 24-hour crisis intervention; supported ACT team operations; assisted with entitlements (SSI/SSD, Food Stamps, Housing, NYCHA, Shelter Plus Care); advocated for client independence."
+        },
+        {
+            "title": "Volunteer",
+            "company": "ST Barnabas",
+            "start_date": "2008-01",
+            "end_date": "Present",
+            "description": "Volunteered in the Psych ER and maternity ward; developed intern teams; collaborated with local officials to provide resources, drop-in centers, and shelter assistance for homeless and DV survivors."
+        },
+        {
+            "title": "Volunteer",
+            "company": "Catholic Guardian",
+            "start_date": "2006-01",
+            "end_date": "2010-12",
+            "description": "Worked with Clinical Manager Enid Cruz LCSW as Case Planner, Home Finder, and ISP development; conducted home visits and supported program operations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Human Services, Psychology and Sociology",
+            "school": "Boricua College",
+            "year": "2007"
+        },
+        {
+            "degree": "Master of Science in Psychology and Clinical Social Work",
+            "school": "Columbia University",
+            "year": "2012"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

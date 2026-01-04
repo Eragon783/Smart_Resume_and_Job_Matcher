@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Seeking an Internship/Co-op in the field of Electrical/Instrumentation & Control Engineering for Spring & Summer 2017.",
+    "skills": [
+        "MATLAB",
+        "Simulink",
+        "Siemens PSS@E",
+        "Power World",
+        "ETAP",
+        "LabVIEW",
+        "Multisim",
+        "RT-LAB",
+        "C++",
+        "MS Office",
+        "PLC programming (Allen Bradley & Siemens PLC)",
+        "HMI",
+        "SCADA",
+        "Servo drives",
+        "VFD",
+        "Hydraulic control",
+        "Pneumatic control",
+        "AutoCAD",
+        "SPI Intools"
+    ],
+    "experience": [
+        {
+            "title": "Engineering Instructor",
+            "company": "Company Name",
+            "start_date": "Jun 2016",
+            "end_date": "Jul 2016",
+            "description": "Instructed and supervised high school students to build engineering projects. Provided projects link: http://www.bluestampengineering.com/meet-the-students/palo-alto-16/."
+        },
+        {
+            "title": "Graduate Teaching Assistant",
+            "company": "Company Name",
+            "start_date": "Jun 2015",
+            "end_date": "Present",
+            "description": "Assisted professor in teaching courses including Control Systems, Electrical & Electronic Circuits, Computer-based Industrial Power System Protection, and Introduction to C++ programming."
+        },
+        {
+            "title": "Instrumentation & Control Engineer",
+            "company": "City Company Name",
+            "start_date": "Oct 2012",
+            "end_date": "Dec 2014",
+            "description": "Execution experience with DCS (Honeywell Experion PKS C300 controller) & ESD systems. Supervised Electrical & Instrumentation Installation & Commissioning activities including Control & motor loop checks, Panel testing, Field Instrument & Control Valve testing for Shah Gas Development Project, Abu Dhabi, UAE. Prepared instrumentation documents such as Instrument Index, Instrument & Control Valve Datasheets, Cause and Effect drawings, Hook up Drawing, MTO, Material Requisition, Vendor offer evaluation, Technical write up, preparation of control system philosophy, FAT procedure etc. IEEE, API, ISA, IEC, NEC standards."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "Dec 2011",
+            "end_date": "Dec 2011",
+            "description": "Interacted & worked with plant operator and chief engineer on SCADA, HMI, PLC, control panel wiring, flow, pressure, level transmitter & control valves."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Electrical Engineering",
+            "school": "University of Houston",
+            "year": "2017"
+        },
+        {
+            "degree": "Bachelor of Technology in Instrumentation & Control Engineering",
+            "school": "Nirma University",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "Certificate in SPI Intools from Smart Brains Engineering Pvt. Ltd. (April 2014 - May 2014)",
+        "Certificate in Industrial Automation & Control from Apollo Knowledge Institute (July 2012 - Sept 2012)"
+    ],
+    "languages": []
+}

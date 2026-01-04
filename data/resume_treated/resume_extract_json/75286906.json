@@ -1,0 +1,112 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Experienced, highly motivated work ethic, with results-driven professionalism, recognized for commitment to excellence, and demonstrates expertise in communicating and collaborating with, peers, and clients. Portrays excellent business acumen, and successfully provide accurate Accounts Receivables, Collections and Accounts Payable initiatives that achieves targeted company goals. Self-motivated professional, able to work independently or in a team environment, demonstrating broad based and transferable qualifications.",
+    "skills": [
+        "Account Management",
+        "accounts payable",
+        "accounts receivable",
+        "administrative",
+        "ADP",
+        "A/P",
+        "Bank Reconciliation",
+        "Basic",
+        "Billing",
+        "Closing",
+        "CMS",
+        "CPT",
+        "credit",
+        "Customer service",
+        "database",
+        "Debit",
+        "English",
+        "GL",
+        "ICD-9",
+        "Invoicing",
+        "Mac",
+        "Medical Billing",
+        "Microsoft Access",
+        "Excel",
+        "Exchange",
+        "money",
+        "Microsoft Office",
+        "office",
+        "Power Point",
+        "Microsoft Windows",
+        "Word",
+        "Enterprise",
+        "operating system",
+        "Payroll",
+        "payroll processing",
+        "Peachtree",
+        "Coding",
+        "QuickBooks",
+        "reconciling",
+        "record keeping",
+        "Russian",
+        "sales",
+        "spreadsheets",
+        "Staff Training",
+        "supervisor",
+        "VI",
+        "year-end"
+    ],
+    "experience": [
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "November 2013",
+            "description": "Account reconciliation, general ledger accounting; flexible team player; managed over 10 million per month in revenue. Accurately applied payments to vendor accounts; researched and resolved incorrect payments, EOB rejections, and other issues with outstanding accounts. Boosted collections from 40% to 90% within 2 years. Trained new and existing employees on procedures and computer programs. Generated monthly aging reports to compile billing statements for vendors with outstanding invoices. Prepared and submitted claims for MLTC billing using HCFA (CMS 1500), ICD-9, CPT, HCPCS coding, and UB-04; ensured claims were entered and submitted within 48 hours. Ran A/P checks for vendor payment using RealWorld; prepared A/P checks for signature. Responsible for month-end and year-end closing, reconciliation of the GL and journal entries. Ensured HIPAA compliance. Daily use of HHA Exchange, Santrax, Crescent programs. Investigated discrepancies in monthly bank accounts under tight deadlines."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "March 2006",
+            "end_date": "November 2008",
+            "description": "Followed up and explained AX, VI & MC credit card accounts; issued Debit Memos to travel agencies for chargebacks debited to EL AL Israel Airlines. Handled large volumes of credit card disputes by communicating with credit card department, travel agencies and passengers. Created an Excel database to update disputes log. Assisted the supervisor with month-end and year-end close; prepared and posted journal entries, ran reports, and reconciled airline tickets in the database. Reconciled accounts such as airline tickets, personal expense accounts, petty cash accounts and more. Created a company procedure manual and trained new and existing coworkers on the new procedures. Met department deadlines. Reconciled general ledgers; paid personal expenses to employees. Performed payroll for hourly employees using the ADP system."
+        },
+        {
+            "title": "Bookkeeper",
+            "company": "Company Name",
+            "start_date": "January 2003",
+            "end_date": "August 2005",
+            "description": "Assisted in accounts payable and accounts receivable. Maintained spreadsheets and records of store sales and expenses. Ensured proper handling of customer calls. Contacted customers to collect money owed. Performed administrative duties. Reconciled bank statements. Enter invoices."
+        },
+        {
+            "title": "Accountant",
+            "company": "Company Name",
+            "start_date": "November 2013",
+            "end_date": "Current",
+            "description": "Reduced closing time for monthly and quarterly close by implementing new consolidation procedures. Analyzed costs and revenues to project future trends. Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions. Completed monthly, quarterly and annual bank reconciliations for 11 subsidiary companies. Reviewed book entries to ensure accuracy of the G/L. Prepared monthly and annual expense forecasts, including any necessary recommended action required to manage costs to achieve budget. Post journal entries in MAS200, the company general ledger accounting software. Assisted management with preparation of month-end financial statements, cash flow statements, budgets."
+        },
+        {
+            "title": "Assistant Bookkeeper",
+            "company": "Company Name",
+            "start_date": "September 1999",
+            "end_date": "November 2002",
+            "description": "Assisted with payroll processing. Assisted with accounts payable/accounts receivable. Prepare and verify bank deposits, balancing receipts and sending cash, checks or other terms of payment. Maintain organizations record keeping. Price or re-price merchandise as necessary. Handle merchandise returns and exchanges within company guidelines. Customer service, both on the sales floor and in assigned departments. Complete daily paperwork within company guidelines."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Accountancy",
+            "school": "City University of New York, Brooklyn College",
+            "year": 2006
+        },
+        {
+            "degree": "Liberal Arts",
+            "school": "Kingsborough Community College",
+            "year": 2001
+        }
+    ],
+    "certifications": [
+        "ADP Payroll Course"
+    ],
+    "languages": [
+        "English",
+        "Russian"
+    ]
+}

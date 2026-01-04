@@ -1,0 +1,55 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Seeking a position as an accountant, utilizing knowledge of general accounting procedures to assist the office with its periodic accounting processes. Proficient in Microsoft Office (Excel, Word, PowerPoint). Strong problem solving abilities, critical thinking, mathematical skills, budgeting.",
+    "skills": [
+        "Proficient in Microsoft Office (Excel, Word, PowerPoint)",
+        "Excellent mathematical skills",
+        "Capable of analyzing trends and variances",
+        "Excellent communication and organizational skills",
+        "Able to work in a high volume environment",
+        "Physically dexterous",
+        "Strong interpersonal, communication and multi-tasking skills",
+        "Operate effectively within an agricultural laboratory setting",
+        "Willing participant in environmentally sustainable work practices",
+        "Thoroughly perform standard calibrations",
+        "Excellent communication and collaboration skills",
+        "Efficient and precise when recording and presenting data",
+        "Proficient in the use laboratory application software and instruments",
+        "Strong contributor to the achievement of quality objectives"
+    ],
+    "experience": [
+        {
+            "title": "Accountant helper",
+            "company": "Company Name, City, State",
+            "start_date": "May 2014",
+            "end_date": "July 2014",
+            "description": "Assisted the Accounting Clerk in accounting tasks: entered A/P and A/R, processed payments, organized client billing folders, procedure documentation. Performed general office duties: filing, scanning, mail processing and data entry. Assisted Accounting Manager with different assignments. Reconciled bank statements and ledger accounts. Assisted with daily cash balancing."
+        },
+        {
+            "title": "Laboratory Technician III",
+            "company": "Company Name, City, State",
+            "start_date": "September 2012",
+            "end_date": "Current",
+            "description": "Receive and prepare laboratory samples for analysis, following proper protocols to ensure that they will be stored, prepared, and disposed of efficiently and effectively. Record data pertaining to experimentation, research, or animal care. Measure or weigh ingredients used in testing or for purposes such as animal feed and waste. Operate laboratory equipment such as spectrometers, nitrogen determination apparatus, air samplers, centrifuges, and potential hydrogen (pH) meters to perform tests. Adjust testing equipment, and prepare culture media, following standard procedures. Maintain or repair agricultural facilities, equipment, or tools to ensure operational readiness, safety, and cleanliness. Prepare or present agricultural demonstrations. Respond to inquiries and requests from the public that do not require specialized scientific knowledge or expertise. Supervise student workers and train new technicians."
+        },
+        {
+            "title": "Laboratory Technician II",
+            "company": "Company Name, City, State",
+            "start_date": "July 2007",
+            "end_date": "September 2012",
+            "description": "Receive and prepare laboratory samples for analysis, following proper protocols to ensure that they will be stored, prepared, and disposed of efficiently and effectively. Prepare samples to be analyzed on the ICP. Analyze samples via AS-3000 PH Dual analyzer. Maintain or repair agricultural facilities, equipment, or tools to ensure operational readiness, safety, and cleanliness. Prepare laboratory reagents for analytical purposes. Service walk-in customers. Prepare or present agricultural demonstrations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Accounting",
+            "school": "Ashford University",
+            "year": 2014
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

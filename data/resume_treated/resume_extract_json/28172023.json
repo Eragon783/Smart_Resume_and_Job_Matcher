@@ -1,0 +1,65 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Knoxville, Iowa",
+    "summary": "Seeking a full-time opportunity that relates to Business Administration. Core qualifications include critical thinking, eye for detail, effective multi-tasking, verbal communication, territory growth, business development, strategic planning, and time management.",
+    "skills": [
+        "Critical thinking",
+        "Eye for detail",
+        "Effective multi-tasking",
+        "Verbal communication",
+        "Territory growth",
+        "Business development",
+        "Strategic planning",
+        "Time management",
+        "Microsoft Office (Word, Excel, Outlook, PowerPoint)",
+        "organizational skills",
+        "self-starter",
+        "problem solving"
+    ],
+    "experience": [
+        {
+            "title": "Product Specialist",
+            "company": "Company Name",
+            "start_date": "October 2015",
+            "end_date": "Present",
+            "description": "Checked in vendors; Changed and verified prices; Created and tested promotions; Emphasized fast, friendly customer service; Offered product recommendations when appropriate."
+        },
+        {
+            "title": "Sales Representative",
+            "company": "Company Name",
+            "start_date": "October 2014",
+            "end_date": "October 2015",
+            "description": "Cold-called prospective customers to build relationships; Maintained productive relationships with existing customers through exceptional follow-up after sales; Delivered products to customers in a timely manner; Established new customer accounts; Evaluated competitors and performed market research; Achieved monthly sales goals."
+        },
+        {
+            "title": "Fitness Coach",
+            "company": "Company Name",
+            "start_date": "May 2014",
+            "end_date": "May 2016",
+            "description": "Suggested exercise modifications to individual students to avoid strain and injury; Encouraged members to continue attending group fitness classes; Corrected dangerous movements and suggested alternate exercises; Talked one-on-one with members about their fitness needs and eating habits."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "November 2009",
+            "end_date": "October 2014",
+            "description": "Executed cash transactions quickly and accurately; Greeted all customers; Oversaw overnight store operations, including staff assignments and production lists; Delegated tasks to team members to optimize productivity; Supervised 5-7 employees per shift; Ordered and shelved weekly sale items for customers; Developed positive vendor relationships; Verified inventory counts; Bookkeeping back-up."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Administration",
+            "school": "AIB College of Business",
+            "year": "2015"
+        },
+        {
+            "degree": "Business Administration",
+            "school": "Des Moines Area Community College",
+            "year": "2014"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

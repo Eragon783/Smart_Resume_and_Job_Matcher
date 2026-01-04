@@ -1,0 +1,86 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Flint, MI",
+    "summary": "Knowledge of modern office methods and procedures, filing, telephone techniques, and office equipment. Strong communication skills; ability to speak clearly and concisely. Able to perform duties with speed and accuracy without immediate and constant supervision. Uses good judgment in recognizing scope of authority. Learns quickly, interprets and applies office practices and procedures. Ability to establish and maintain good working relationships with coworkers and the general public. Performs duties under critical deadlines. Accomplishments include quick learner, reports generation and analysis, and computer proficiency with Microsoft Office.",
+    "skills": [
+        "Telephones",
+        "Invoices",
+        "Greeting",
+        "Incoming Calls",
+        "Security",
+        "Switchboards",
+        "Clerk",
+        "Medical Records",
+        "MS Word",
+        "Office",
+        "Billing",
+        "Shipping",
+        "Shipping And Receiving",
+        "Database Systems",
+        "Filing",
+        "Incoming Mail",
+        "Inventory",
+        "Receptionist",
+        "ADP",
+        "Clients",
+        "JMS",
+        "Microsoft Office",
+        "Office Assistant",
+        "Office Management Skills"
+    ],
+    "experience": [
+        {
+            "title": "Monitor Tech",
+            "company": "",
+            "start_date": "January 2014",
+            "end_date": "Present",
+            "description": "Document or otherwise report observations of patient behavior, complaints or physical symptoms to nurses."
+        },
+        {
+            "title": "Health Unit Clerk",
+            "company": "",
+            "start_date": "March 2007",
+            "end_date": "December 2013",
+            "description": "Answer telephones and direct calls to appropriate staff. Operate office equipment, such as voice mail messaging systems, and use word processing, spreadsheet, or other software applications to prepare reports, invoices, financial statements, letters, case histories, or medical records. Schedule and confirm patient diagnostic appointments, surgeries, or medical consultations. Receive and route messages or documents, such as laboratory results, to appropriate staff. Prepare correspondence or assist physicians or medical scientists with preparation of reports, speeches, articles, or conference proceedings. Retrieve patient medical records for physicians, technicians, or other medical personnel. Release information to persons or agencies according to regulations. Process patient admission or discharge documents. Assign the patient to diagnosis-related groups (DRGs), using appropriate computer software. Transcribe medical reports."
+        },
+        {
+            "title": "P.B.X. Operator",
+            "company": "",
+            "start_date": "May 1999",
+            "end_date": "March 2008",
+            "description": "Operate telephone switchboards and systems to advance and complete connections, including those for local, long distance, pay telephone, mobile, person-to-person, and emergency calls. Answer incoming calls, greeting callers, providing information, transferring calls or taking messages as necessary. Page individuals to inform them of telephone calls, using paging or interoffice communication equipment. Monitor alarm systems to ensure that secure conditions are maintained. Contact security staff members when necessary, using radio-telephones. Offer special assistance to persons such as those who are unable to dial or who are in emergency situations. Interrupt busy lines if an emergency warrants. Route emergency calls appropriately."
+        },
+        {
+            "title": "Warehouse Supervisor",
+            "company": "",
+            "start_date": "January 2006",
+            "end_date": "February 2007",
+            "description": "Keep records of employees' attendance and hours worked. Confer with other supervisors to coordinate operations and activities within or between departments. Direct and coordinate the activities of employees engaged in the production or processing of goods, such as inspectors, machine setters, and fabricators."
+        },
+        {
+            "title": "Warehouse Shipping and Receiving",
+            "company": "",
+            "start_date": "January 2004",
+            "end_date": "December 2005",
+            "description": "Obtain customers' names, addresses, and billing information, product numbers, and specifications of items to be purchased, and enter this information on order forms. Prepare invoices, shipping documents, and contracts. Receive and respond to customer complaints. Verify customer and order information for correctness, checking it against previously obtained information as necessary. Collect payment for merchandise, record transactions, and send items such as checks or money orders for further processing. Inspect outgoing work for compliance with customers' specifications."
+        },
+        {
+            "title": "Front Office Receptionist",
+            "company": "",
+            "start_date": "January 2002",
+            "end_date": "December 2003",
+            "description": "Communicate with customers, employees, and other individuals to answer questions, disseminate or explain information, take orders, and address complaints. Answer telephones, direct calls, and take messages. Operate office machines, such as photocopiers and scanners, facsimile machines, voice mail systems, and personal computers. Open, sort, and route incoming mail, answer correspondence, and prepare outgoing mail. Maintain and update filing, inventory, mailing, and database systems, either manually or using a computer. Complete and mail bills, contracts, policies, invoices, or checks."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Flint Central High",
+            "year": "1985"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

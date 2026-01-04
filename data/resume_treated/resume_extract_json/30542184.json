@@ -1,0 +1,81 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Skilled security professional with 20 years providing security services in federal buildings, corporate settings, apartment complexes, retail facilities and construction sites. Security Officer accomplished in securing and protecting governmental science and technology facilities. Brings techniques gained from a background in law enforcement training. Protective services professional with strong law enforcement background. Approaches each case with a high level of professionalism, offering each case its proper due diligence.",
+    "skills": [
+        "Security management",
+        "Construction supervision",
+        "Reading and interpreting construction drawings",
+        "Estimating materials, time, labor, and equipment",
+        "Facility inspections and compliance",
+        "Radio and communications maintenance",
+        "LMR HF/VHF communications",
+        "Use of test instruments (oscilloscopes, multimeters, signal generators)",
+        "Engineering tools development",
+        "Team leadership",
+        "ISO 9001:2008 & AS9100 familiarity",
+        "QMS internal audit processes",
+        "Hazmat familiarization/safety",
+        "Security clearance (DOD/State Dept)"
+    ],
+    "experience": [
+        {
+            "title": "Construction Engineering Supervisor",
+            "company": "Company Name, City, State",
+            "start_date": "January 2012",
+            "end_date": "January 2013",
+            "description": "Supervised the construction, repair, and utility of buildings, warehouses, and fixed bridges, port facilities, and petroleum pipelines. Read and interprets construction drawings. Estimate material, time, labor, and equipment requirements. Inspects structures and facilities to ensure compliance with specifications."
+        },
+        {
+            "title": "Combat Engineer",
+            "company": "Company Name, City, State",
+            "start_date": "January 2000",
+            "end_date": "Present",
+            "description": "Detailed understanding of the interrelationships of circuits. Perform such tasks as making circuit analyzes, and tracing relationships in signal flow. Use complex test instruments such as high frequency pulse generators, frequency synthesizers, distortion analyzers, and complex computer control equipment. Reads, interprets, and plots maps, overlays, and photos; develops and uses engineering tools. Determines limiting slopes, curves, stream velocity, and gap widths. Assembled structural parts and components to meet requirements for preserving structural integrity and low observable qualities, posted entries and maintained maintenance and inspection records. Provide the US Army with hands-on and over-the-shoulder radio and communications maintenance training utilizing Aero flex analyzers, Fluke multi-meters, Bird watt meters, Marconi signal generators and BKP frequency counters, Boonton modulation meters and TEK 4ch oscilloscopes. Assist in developing communication system maintenance management and repair program. Advise maintenance personnel on the basic and intermediate maintenance, troubleshooting, repair and service of LMR HF/ VHF communications equipment."
+        },
+        {
+            "title": "Combat Engineer",
+            "company": "Company Name, City, State",
+            "start_date": "January 1992",
+            "end_date": "January 2000",
+            "description": "Detailed understanding of the interrelationships of circuits. Perform such tasks as making circuit analyzes, and tracing relationships in signal flow. Use complex test instruments such as high frequency pulse generators, frequency synthesizers, distortion analyzers, and complex computer control equipment. Reads, interprets, and plots maps, overlays, and photos; develops and uses engineering tools. Determines limiting slopes, curves, stream velocity, and gap widths. Assembled structural parts and components to meet requirements for preserving structural integrity and low observable qualities, posted entries and maintained maintenance and inspection records. Provide the US Army with hands-on and over-the-shoulder radio and communications maintenance training utilizing Aero flex analyzers, Fluke multi-meters, Bird watt meters, Marconi signal generators and BKP frequency counters, Boonton modulation meters and TEK 4ch oscilloscopes. Assist in developing communication system maintenance management and repair program. Advise maintenance personnel on the basic and intermediate maintenance, troubleshooting, repair and service of LMR HF/ VHF communications equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma",
+            "school": "Strong Vincent High School",
+            "year": 2001
+        },
+        {
+            "degree": "Intermediate Electronic Principles",
+            "school": "Keesler AFB",
+            "year": 2010
+        },
+        {
+            "degree": "Telephone Central Office Repair",
+            "school": "Unknown",
+            "year": 1987
+        },
+        {
+            "degree": "Hazmat Familiarization/Safety Transport",
+            "school": "Unknown",
+            "year": 2007
+        },
+        {
+            "degree": "Forward Area Alerting Radar Repairer",
+            "school": "Unknown",
+            "year": 1990
+        }
+    ],
+    "certifications": [
+        "DOD Secret Security Clearance",
+        "US Passport",
+        "First Aid Training (2016)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

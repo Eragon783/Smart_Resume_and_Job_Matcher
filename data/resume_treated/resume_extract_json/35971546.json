@@ -1,0 +1,85 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Result-Driven Certified Construction Manager in Training with over 2 years of progressive experience in the construction industry. Proven track record in delivering projects on time, strong leadership across subcontractors, vendors and suppliers, effective problem solving, commitment to quality and customer satisfaction, and excellent presentation, communication, negotiation and persuasion skills.",
+    "skills": [
+        "Primavera P6",
+        "PlanSwift 9",
+        "Site safety/OSHA compliance",
+        "Microsoft Project",
+        "QA/QC",
+        "Field Engineering",
+        "AutoCAD",
+        "Revit (BIM)",
+        "MicroStation V8i",
+        "Microsoft Office",
+        "Report Writing",
+        "Interpersonal/Communication",
+        "Construction Manager in Training",
+        "Contract management",
+        "Contract administration",
+        "Subcontractor management",
+        "Cost savings ideas",
+        "Scheduling",
+        "Project planning",
+        "Material procurement",
+        "Quality assurance",
+        "Quality control",
+        "Safety",
+        "Problem solving",
+        "Documentation",
+        "Negotiation",
+        "PlanSwift",
+        "Network analysis"
+    ],
+    "experience": [
+        {
+            "title": "Construction Inspector",
+            "company": "Company Name",
+            "start_date": "November 2015",
+            "end_date": "Present",
+            "description": "Provided quality assurance services by performing on-site inspections of material and workmanship and conducted material testing per ASTM standards for reinforcing bars and concrete. Performed epoxy Anchor/Dowels and concrete field technician duties (Slump test, Temperature, Air content, and Concrete sampling). Tested and inspected construction material, placement and foundation work. Performed reinforcing steel inspections to ensure rebar met requirements of approved drawings. Conducted in-place density tests on various soils to determine compaction and moisture content. Developed onsite solutions to unforeseen issues. Performed proctor, sieve and compressive strength tests with senior technician in laboratory. Prepared timely inspection reports for engineers and project manager to ensure compliance with design authority requirements."
+        },
+        {
+            "title": "Project Engineer",
+            "company": "Company Name",
+            "start_date": "May 2015",
+            "end_date": "October 2015",
+            "description": "Processed, tracked, and distributed submittals and RFIs. Managed document control including change orders, subcontractor billings, field production tracking, purchasing, and contract administration. Coordinated project close-out documentation including deficiencies, warranties, maintenance and final payments. Assisted with documentation of accidents, safety violations, unsafe conditions and activities. Conducted quality control inspections of completed work. Processed vendor invoices, reconciled monthly subcontractor progress billings, and managed jobsite office. Performed quantity take-offs using Digitizer. Negotiated and tracked subcontractor contracts, agreements, change orders and insurance. Prepared project schedule in Primavera to ensure on-time completion. Monitored progress and performed variance analysis against baseline schedule. Ensured equipment and materials complied with contract drawings and specifications; reviewed subcontractor safety programs; facilitated communication between owner and contractor."
+        },
+        {
+            "title": "Traffic Engineer",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "April 2013",
+            "description": "Collected and appraised data reports, surveys and investigations; conducted traffic survey analysis and report preparation. Assessed feasibility of Outer Ring Road project from Shamirpet to Keesara and prepared investment proposals based on future travel demands. Conducted traffic studies, volume counts, willingness-to-pay, origin-destination and axle load surveys. Analyzed ADT, AADT, O-D matrix, growth rate, traffic demand and coordinated recommendations for new roads and flyovers."
+        },
+        {
+            "title": "Project Engineer",
+            "company": "Company Name",
+            "start_date": "February 2012",
+            "end_date": "October 2012",
+            "description": "Oversaw million-dollar residential construction projects in collaboration with architects, engineers, subcontractors, owners, consultants, and municipalities. Supervised contractors, timelines, budgets and quality control; administered construction documentation. Procured and tracked materials, facilitated punch list completion and ensured accurate, timely delivery. Led project planning, estimation, contract management and material procurement; created baseline schedule and analyzed critical paths and float. Performed resource loading and leveling, logic diagram analysis, critical path analysis and two-week look-ahead planning. Proposed cost-effective methods and improved performance through strategic workforce management; assisted project manager with on-site visits and subcontractor meetings; inspected sites to ensure conformance to design and safety standards."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Construction Engineering and Management",
+            "school": "The University of Texas",
+            "year": "2016"
+        },
+        {
+            "degree": "Bachelor of Technology in Civil Engineering",
+            "school": "Jawaharlal Nehru Technological University",
+            "year": "2013"
+        }
+    ],
+    "certifications": [
+        "Construction Manager In Training (CMIT) License 184492",
+        "OSHA 10-Hour",
+        "OSHA 30-Hour"
+    ],
+    "languages": []
+}

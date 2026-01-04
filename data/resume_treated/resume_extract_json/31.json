@@ -1,0 +1,99 @@
+{
+    "name": "Nikita Doroshenko",
+    "email": null,
+    "phone": null,
+    "location": "Rehovot, Israel",
+    "summary": "Full-Stack Developer with 3+ years of experience looking for a full-time position; 80% backend Java development, 20% frontend React development.",
+    "skills": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "HTML 5",
+        "CSS 3",
+        "Bootstrap 5",
+        "OOP",
+        "AOP",
+        "Java Collection",
+        "Java Stream API",
+        "Rest",
+        "Maven",
+        "Project Lombok",
+        "Spring MVC",
+        "Spring Framework",
+        "Spring Boot",
+        "Spring Web",
+        "Data MongoDB",
+        "Spring Cloud Stream",
+        "Spring Security",
+        "Spring Starter Mail",
+        "Spring Validation",
+        "Awaitility",
+        "Mockito",
+        "MongoEmbedded",
+        "Hibernate",
+        "Apache Tomcat",
+        "Kafka",
+        "Multithreading",
+        "Docker",
+        "Heroku",
+        "JPA",
+        "ORM",
+        "MongoDB Atlas",
+        "JUnit",
+        "React",
+        "Redux",
+        "IntelliJ IDEA",
+        "Eclipse",
+        "Visual Studio Code",
+        "GitHub",
+        "Postman",
+        "DBeaver",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "H2",
+        "Windows",
+        "Linux"
+    ],
+    "experience": [
+        {
+            "title": "Full-Stack Developer",
+            "company": "Inetex",
+            "start_date": "2021",
+            "end_date": "Present",
+            "description": "Developing a service network for CV with microservices architecture. Responsibilities included development of several services (employer service, cv service, security service, schedule); implementing new functionality; working with MongoDB (geo search, aggregation); integrating services into the application (notification service); implementing frontend functionality (register, change password, update employee data, routes); writing and running JUnit tests; refactoring code and bug fixing."
+        },
+        {
+            "title": "Java Backend Developer",
+            "company": "Miratorg",
+            "start_date": "2019",
+            "end_date": "2021",
+            "description": "Production reporting automation: installing and maintaining databases; populating a database with new information or transferring existing data into it; creation and implementation of methods for working with data for the planning department."
+        },
+        {
+            "title": "Data Analyst",
+            "company": "Miratorg",
+            "start_date": "2014",
+            "end_date": "2019",
+            "description": "Developing and implementing reports; collecting and adding data from various sources; database support (adding, deleting data). Technologies: Microsoft Excel, Visual Basic for Applications, Power BI, SQL, CSB, NAV, SAP."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Applied Information Science in Economics",
+            "school": "Baikal State University",
+            "year": "2013"
+        },
+        {
+            "degree": "Special program for software developers' adaptation in accordance with Israel IT technologies",
+            "school": "Tel Ran Educational Center",
+            "year": "2021"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "Hebrew",
+        "Russian"
+    ]
+}

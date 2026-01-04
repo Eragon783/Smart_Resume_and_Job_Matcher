@@ -1,0 +1,87 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Organizer and Capacity Building Strategist with extensive experience in civil rights and disability advocacy, program development, training, and coalition building. Demonstrated ability to lead initiatives, secure funding, develop advocacy materials, and provide technical assistance across diverse communities.",
+    "skills": [
+        "agency",
+        "attorney",
+        "business plans",
+        "consultant",
+        "client",
+        "detail oriented",
+        "grant proposals",
+        "legal",
+        "organizing",
+        "policies",
+        "press releases",
+        "problem solving",
+        "research",
+        "strategy",
+        "strategic",
+        "technical assistance",
+        "training programs",
+        "workshops"
+    ],
+    "experience": [
+        {
+            "title": "Organizer and Capacity Building Strategist",
+            "company": "Company Name",
+            "start_date": "01/2011",
+            "end_date": "Present",
+            "description": "Civil Rights and Disability Advocate; conduct case reviews, research state and agency violations, develop strategy and provide technical assistance for clients; attend IPP, IEP, and mediations as advocate; maintain case files and referral documentation; convene NCLR member organizations to develop statewide action strategies; develop advocacy materials and organize actions and campaigns; provide training and technical assistance; coordinate organizations to advance policy."
+        },
+        {
+            "title": "Special Education Advocate",
+            "company": "Company Name",
+            "start_date": "01/2009",
+            "end_date": "01/2011",
+            "description": "Researched client issues and managed legal correspondence; completed outreach and training on disability and special education rights; wrote media releases for organization events and training; strategized positive outcomes with attorneys and staff."
+        },
+        {
+            "title": "Community Organizer/Founder",
+            "company": "Company Name",
+            "start_date": "01/2000",
+            "end_date": "01/2011",
+            "description": "Wrote grant proposals, business plans, and press releases; presented strategic plan and goals to a variety of audiences; organized constituents around special education, environmental and health issues; collaborated with 85+ local community leaders and organizations; designed and taught advocacy skills training program to over 300 parents annually; secured over 100k in funding for parent advocacy training programs."
+        },
+        {
+            "title": "Community Organizer",
+            "company": "Company Name",
+            "start_date": "01/2008",
+            "end_date": "01/2009",
+            "description": "Trained constituents on civil rights and education issues pertaining to Latino children; promoted self-determination of families and communities; collaborated with community leaders and organizations around education policy issues; strategized with attorneys and staff on organizing campaigns."
+        },
+        {
+            "title": "Legal Advocate",
+            "company": "Company Name",
+            "start_date": "01/2006",
+            "end_date": "01/2008",
+            "description": "Trained constituents on disability and special education rights; managed caseload of clients with disability-related issues; strategized positive outcomes with attorneys and staff; maintained working knowledge of current disability laws and legislation."
+        },
+        {
+            "title": "Family Advocate",
+            "company": "Company Name",
+            "start_date": "01/2004",
+            "end_date": "01/2006",
+            "description": "Developed and presented workshops for professionals on needs of high-needs families; worked with homeless families to obtain housing; facilitated cooperative working relationships with other agencies; served as internal consultant to team on special education and disability laws; provided technical assistance to families on policies and procedures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "JD",
+            "school": "St. Edward's University",
+            "year": 2007
+        },
+        {
+            "degree": "Juris Doctor",
+            "school": "People's College of Law",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Graduate, Partners in Policymaking (2005)"
+    ],
+    "languages": []
+}

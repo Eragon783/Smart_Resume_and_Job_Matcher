@@ -1,0 +1,65 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Cincinnati, Ohio, USA",
+    "summary": "Seasoned HR professional with 7+ years of HR experience, currently Head of Talent Acquisition and Resource Management Group - BPS North America at Tata Consultancy Services in Cincinnati, Ohio. Expertise in full-cycle recruiting, employee relations, performance management, organization development, change management, and HR operations. Experienced in leading analytics hiring, campus and niche hiring, and driving cost reductions through internal referrals and optimization of processes.",
+    "skills": [
+        "Windows",
+        "Mac OS",
+        "MS Office Suite",
+        "HRMS Oracle Applications",
+        "Leadership",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Organization Development",
+        "Change Management",
+        "Policy Development",
+        "Process Improvement",
+        "Time Management",
+        "Multi-tasking",
+        "Communication Skills",
+        "Vendor Management",
+        "HR Compliance",
+        "Analytics Hiring",
+        "Employer Branding",
+        "Budgeting",
+        "Strategic Hiring",
+        "Hiring Analytics",
+        "Relationship Building"
+    ],
+    "experience": [
+        {
+            "title": "Head Talent Acquisition and Resource Management Group - BPS North America",
+            "company": "Tata Consultancy Services",
+            "start_date": "2008-09",
+            "end_date": "Present",
+            "description": "Head TA & RMG for BPS North America; recruitment for Mortgage and Pharma clients in Cincinnati, OH and Midland, MI; Leadership hiring; Analytics hiring; reduced hiring costs; managed attrition, performance appraisals, audits, and policy compliance; steered associate deployment for 98% resource utilization; supervised end-to-end recruitment across locations (Cincinnati, Midland, Mumbai, Chennai)."
+        },
+        {
+            "title": "HR Employee Relations Specialist",
+            "company": "Satyam BPO",
+            "start_date": "2007-03",
+            "end_date": "2008-09",
+            "location": "Hyderabad, India",
+            "description": "End-to-end Employee Relations activities; induction; background checks; employee engagement; performance management; audits; incentive plans; client interface."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MS - HRM (Master of Science in Human Resources Management)",
+            "school": "ICFAI University Dehradun (ICFAI School of HRD)",
+            "year": "2007"
+        },
+        {
+            "degree": "Bachelor of Science in Information Technology",
+            "school": "University of Mumbai, Birla College of Arts",
+            "year": null
+        }
+    ],
+    "certifications": [
+        "Basic Leadership Skills (2011) - Jamshedpur"
+    ],
+    "languages": []
+}

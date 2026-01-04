@@ -1,0 +1,95 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Creative fashion designer with background in swim, intimate apparel, loungewear, and sportswear; experienced in designing wovens and cut-and-sew knits, creating technical drawings and packages; strong time management, organizational skills, and work ethic.",
+    "skills": [
+        "Technical design",
+        "Technical packages",
+        "Flat sketches",
+        "Illustrator",
+        "Line sheets",
+        "Garment fittings",
+        "Garment specification",
+        "Sourcing fabrics and trims",
+        "Production management",
+        "Overseas vendor coordination",
+        "Fittings",
+        "Pattern coordination",
+        "Mood boards",
+        "Color boards",
+        "Concept boards",
+        "Print/story boards",
+        "Trend research",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Microsoft Excel",
+        "Microsoft Office"
+    ],
+    "experience": [
+        {
+            "title": "Experience Designer / Technical Designer",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2015-08",
+            "description": "Responsible for research, development, and design for each season; prepared technical packages for all styles (Excel & Illustrator); sourced and placed orders for fabrics and trims for sampling and production; oversaw domestic development and production (NYC); communicated with factories to ensure proper fit and construction as well as maintaining timelines; attended fittings and ensured overall fit; reviewed and approved all samples (Fit, Pre-pro, and T.O.P.)."
+        },
+        {
+            "title": "Costume Designer and Wardrobe Supervisor",
+            "company": "Company Name",
+            "start_date": "2001-06",
+            "end_date": "2015-08",
+            "description": "Presented and finalized costumes for all characters; purchased and/or made all costumes within budget; fit all garments and made alterations; created costume plot from script using Synch OnSet; facilitated loans from several designers and showrooms."
+        },
+        {
+            "title": "Production Assistant",
+            "company": "Company Name",
+            "start_date": "2012-10",
+            "end_date": "2013-03",
+            "description": "Assisted in product development at all stages of sportswear; daily correspondence with domestic factories in New York City garment district; attended fittings and took notes; made updates to sketches for technical packages and relayed changes to vendors; created line sheets and mailers to send out to buyers."
+        },
+        {
+            "title": "Associate Designer",
+            "company": "Company Name",
+            "start_date": "2010-04",
+            "end_date": "2012-10",
+            "description": "Ralph Lauren Sleepwear / Loungewear: Responsible for design development of FOA and FOE loungewear programs as well as assisting head designer in development of Lauren Sleepwear line. Research and develop existing and emerging concepts and trends as inspiration for color, fabric, and silhouette; use research to develop seasonal trends and produce product presentations including color boards, concept boards, print/story boards, and full figure / flat sketch designs to help sell concepts to buyers; partner with Merchandising to edit line; create detailed flat sketches (Illustrator) from illustrations or mock ups for tech packs as well as catalog and line sheets; prepare and pass design detail sheets and trim sheets for all designs to technical design; work with technical design to achieve highest quality and best fit possible; responsible for administration and follow up of product design process including daily communication with multiple overseas vendors to ensure product development for all design related questions; attend all prototype and pre production sample meetings to review garments and note changes; participate in fittings - make revisions to sketches and design packages as needed; create and manage trim sheets, line sheets, boards, seasonal books, and tear books."
+        },
+        {
+            "title": "Assistant Archivist",
+            "company": "Company Name",
+            "start_date": "2009-05",
+            "end_date": "2009-08",
+            "description": "Photographed and described all incoming assets from designers - vintage/inspiration and prototype/heritage pieces; assisted designers in searching and pulling garments to fit a particular theme or query - style, cut, color, print, or detailing; created mood and detail boards from garments in archive for designers as requested."
+        },
+        {
+            "title": "Assistant Designer",
+            "company": "Company Name",
+            "start_date": "2006-08",
+            "end_date": "2008-10",
+            "description": "Assisted designer through all phases of the design process from concept to creation; created detailed flat sketches with specs (by hand and computer - Adobe Illustrator); completed all initial stages of product development including tech packs, cutters must and issuing style numbers; attended fittings, took notes, and communicated updates to patternmakers; communicated with head patternmaker and seamstresses daily to oversee production of orders; created line sheets and invoices for wholesale orders, and researched new stores for future sales; maintained fabric library and sourced new vendors when necessary; consulted clients concerning style, fit, and color."
+        },
+        {
+            "title": "Assistant Patternmaker - Women's sportswear division",
+            "company": "Oxford / Li & Fung",
+            "start_date": "2006-03",
+            "end_date": "2006-08",
+            "description": "General Assistant to nine patternmakers in large sample room; assisted patternmakers in draping and revising patterns after fittings; transferred patterns from muslins to paper and ensured guideline specs according to tech packages; responsible for specing all incoming sample garments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science in Fashion Design",
+            "school": "F.I.T.",
+            "year": null
+        },
+        {
+            "degree": "BA in Eastern European Studies",
+            "school": "Saint Edward's University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

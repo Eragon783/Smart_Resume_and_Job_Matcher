@@ -1,0 +1,60 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Finance BSBA graduate with hands-on experience in investment clubs and asset management; background in operations and customer service; pursuing life and health insurance license.",
+    "skills": [
+        "insurance",
+        "managing",
+        "office"
+    ],
+    "experience": [
+        {
+            "title": "Landscaper",
+            "company": "Company Name",
+            "start_date": "05/2017",
+            "end_date": "Present",
+            "description": "Landscape employee managing over 200 properties, both commercial and residential. Received landscape and hardscape training and education; provided training to new employees."
+        },
+        {
+            "title": "Delivery Driver",
+            "company": "Company Name",
+            "start_date": "05/2016",
+            "end_date": "08/2016",
+            "description": "Delivered to local homes and businesses and worked within the cafe, keeping up with various daily tasks."
+        },
+        {
+            "title": "Intern",
+            "company": "Dayton area life and health insurance office",
+            "start_date": "05/2015",
+            "end_date": "08/2016",
+            "description": "Internship with a Dayton area life and health insurance office, performing tactical activities for agents. Pursuing life and health insurance license."
+        },
+        {
+            "title": "Pro Shop Crew Member",
+            "company": "Company Name",
+            "start_date": "06/2013",
+            "end_date": "08/2015",
+            "description": "Managed various daily duties; caddy for members, cart and range management, and train new employees."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSBA in Finance and Economics",
+            "school": "Miami University",
+            "year": "2016"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Chaminade Julienne Catholic High School",
+            "year": "2016"
+        }
+    ],
+    "certifications": [
+        "FMC Level I Certification from Adventis (November 2016)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

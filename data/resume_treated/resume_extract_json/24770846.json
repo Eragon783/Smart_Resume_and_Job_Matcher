@@ -1,0 +1,55 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "With 17 years' experience in the field, I have accumulated an extensive working experience, education and team building abilities in safety. I will aid in the most effective implementation of procedures to my fullest ability.",
+    "skills": [
+        "Building inspector ICC/IBC and ICC/IRC",
+        "NAVFAC Army Corps Engineering Contractor Quality Management (CQM)",
+        "Electrical Safety High Voltage & Low Voltage",
+        "Overhead Cranes & Jib Hoist Inspection",
+        "NFPA 70E Electrical Safety",
+        "Grounding and Bonding Electrical Systems"
+    ],
+    "experience": [
+        {
+            "title": "Construction Safety Manager",
+            "company": "Company Name, City, State",
+            "start_date": "07/2015",
+            "end_date": "02/2017",
+            "description": "As the Safety Manager I was responsible for all safety matters in the Northern California area. Trained my workers in fall protection, excavations, confine space and all energy LOTO. Would also inspect all certifications on crane operator. Would read all MOP, JHA for all major task. Performed daily walk through at all work areas. Would look to identify unsafe conditions or acts and assist in correcting them. Assisted Project Managers and Superintendents with accidents and near miss investigation for root cause analysis. Work in conjunction with Project Managers and sub- contractor management to maintain compliance to Federal, State and Local regulations."
+        },
+        {
+            "title": "Construction Safety Manager",
+            "company": "Company Name, City, State",
+            "start_date": "04/1998",
+            "end_date": "11/2014",
+            "description": "As Safety Manager I am responsible for all documentation and credentials in order to work on our job sites. Assist job site Superintendent with pre-construction safety. Safety orientation and training for new hires. Performed daily walk through several times a day. I would assist in correcting all environmental issues. Have safety tailgate meetings every morning at each job site. Go over all JSA & MOP for that day and it was written. Would make sure every worker was on and read the JSA. Performed accident reports and investigations. Would write a root cause analysis. Review Contractor safety submittals and resolve deficiencies. Responsible for Storm Water Pollution Prevention. Administer Hazard Communication Program. Maintained all OSHA & ANSI safety standards for all. Make sure everyone are in compliance with all Federal, State, Local and SLAC regulations. Accomplishments Worked on a variety of projects like the LCLS tunnel and LCLS Building #901 (Linac Coherent Light Source). Managed the safety for the installation of all electrical feeders in the 26 acre site of Linac Coherent light Source. Was able to save time, increase productivity and save funds. Employee of the year in 2005"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science in Construction Management",
+            "school": "San Jose State University",
+            "year": "2004"
+        }
+    ],
+    "certifications": [
+        "Hazardous Waste Certification (2015)",
+        "OSHA 500/510 Authorized to Train Environmental & Spill Response Investigation and Accident Reports",
+        "OSHA 7505 CPR / First Aid",
+        "Excavation, Trenching and Soil Mechanics (OSHA 3515)",
+        "LOTO (Electrical & Mechanical)",
+        "OSHA 7115 Safety Inspection Techniques",
+        "Fall Protection",
+        "AED Trainer",
+        "OSHA Construction Safety 500 Certification (2007)",
+        "Hazardous Materials Waste OSHA (2015)",
+        "Environmental & Spill Response Essentials"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

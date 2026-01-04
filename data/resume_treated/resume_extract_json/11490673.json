@@ -1,0 +1,92 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "FINANCE MANAGER Executive Profile Financial Lead with company oversight, committed to strategic management and quality performance. Partner with organization leaders to effectively align with and support key initiatives. Builds and retains high performance teams by hiring, developing and motivating skilled professionals.",
+    "skills": [
+        "Accounting",
+        "accounts payable",
+        "accounts receivable",
+        "administrative",
+        "A/P",
+        "approach",
+        "balance sheet",
+        "bank reconciliation",
+        "budgets",
+        "cash flow",
+        "contracts",
+        "customer service",
+        "Database",
+        "financials",
+        "financial",
+        "financial statement preparation",
+        "preparation of financial statements",
+        "FSA",
+        "hiring",
+        "Human Resource Management",
+        "human resource",
+        "Inventory",
+        "inventory levels",
+        "inventory control",
+        "Director",
+        "management reporting",
+        "marketing",
+        "medical billing",
+        "Payroll",
+        "performance management",
+        "policies",
+        "pricing",
+        "product management",
+        "reporting",
+        "research",
+        "sales",
+        "sales reporting",
+        "tax",
+        "variance analysis"
+    ],
+    "experience": [
+        {
+            "title": "Finance Manager",
+            "company": "Company Name, City , State",
+            "start_date": "September 2013",
+            "end_date": "Current",
+            "description": "Financial and accounting lead for the division responsible for P&L performance, achieving EBTIA and working capital targets. Partner with executive team driving strategic growth and initiatives. Customer MDA negotiations, margin schedules and profit models. Monitors divisional SOX compliance, month end procedures and gap closure performance. Manages and supports the inventory control team, accounting clerk staff, contract coordinators, and IT."
+        },
+        {
+            "title": "Senior Administrator",
+            "company": "Company Name, City , State",
+            "start_date": "October 2011",
+            "end_date": "September 2013",
+            "description": "In this role, the Senior Administrator is responsible for internal accounting and human resource functions. Review G/L and distribute P&L reports for USA headquarters and South East Asia (SEA) distribution center. Prepares budgets and forecasts at departmental and executive level Supervise administrative and customer service staff ensuring daily operations and production department standards are maintained Implemented control procedures; training decision makers on key ratios and operating activities. Developed and maintains interactive sales reporting and analysis system. Database is used by marketing, sales managers and operational department Evaluate inventory levels and monitor COGS. Ensures raw material price fluctuations are inline with product pricing Negotiate vendor contracts and research alternative cost saving programs Review aging reports and oversee collection efforts. Maintains sufficient cash flow and minimal bad debt Established a solid human resource position. Implemented necessary policies, ensuring company compliance with state and federal regulations Performs the full gamut of human resource tasks from hiring to termination."
+        },
+        {
+            "title": "Director of Accounting",
+            "company": "Company Name, City , State",
+            "start_date": "February 2007",
+            "end_date": "June 2011",
+            "description": "As Director of Accounting, primary role is to monitor control systems and management reporting, ensuring accurate and timely preparation of financial statements. Supervised and monitored accounting staff's daily club financial activity for efficient business performance: A/P, A/R, Payroll, G/L Analysis, Inventory, cash and bank reconciliation Reconcile and assemble period end balance sheet packages Monitored and created monthly inventory analysis for four inventory accounts. Establish and maintain internal controls according to GAAP, SOX and for annual audits Prepared weekly financials; maintained budgets, prepared forecasts for club and department heads Filed monthly and annual tax documents Processed new hires and terminations; performed all human resource functions Trained Director of Accountants at nearby affiliate clubs."
+        },
+        {
+            "title": "Accounting & Benefits Manager",
+            "company": "Company Name, City , State",
+            "start_date": "June 2006",
+            "end_date": "February 2007",
+            "description": "Performed accounting support for three company locations: accounts payable, accounts receivable, financial statement preparation for executive staff, financial/variance analysis, and budgets for future projections Managed medical billing collections, deposit and reviewed reports through medical billing system Provided reconciliation for six bank accounts; administered company's FSA employee accounts Set- up and monitored budgets for departmental managers; developed and provided training for \"cost conscious\" approach Identified, wrote and implemented an employee Exit Interview Process; evaluated termination reasons, and prepared reports and data for appropriate retention methods; reviewed and created company policies for time and attendance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Business Administration - Human Resource Management",
+            "school": "Western International University",
+            "year": null
+        },
+        {
+            "degree": "Accounting Certificate",
+            "school": "George Mason University",
+            "year": "2010"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

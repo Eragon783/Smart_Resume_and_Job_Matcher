@@ -1,0 +1,108 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Energetic educator with over 9 years of experience in administrative and teaching roles. Skilled at following district curricula, delivering daily lesson plans, administering tests, analyzing student performance, and communicating with parents. Highly organized, professional, and results-oriented with strong problem-solving and interpersonal skills; seeking a role with increased responsibility.",
+    "skills": [
+        "attention to detail",
+        "results-oriented",
+        "self-directed",
+        "time management",
+        "professionalism",
+        "problem solving",
+        "resourcefulness",
+        "interpersonal skills",
+        "bookkeeping",
+        "conferences",
+        "email",
+        "instruction",
+        "lesson plans",
+        "materials",
+        "meetings",
+        "mail",
+        "money",
+        "office",
+        "notary public",
+        "payroll",
+        "policies",
+        "reading",
+        "secretarial",
+        "tax",
+        "teacher",
+        "telephone",
+        "phones",
+        "phone",
+        "English 3",
+        "English 4"
+    ],
+    "experience": [
+        {
+            "title": "Teacher and Reading Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "08/2016",
+            "end_date": "Current",
+            "description": "Followed the district's curriculum for 9th grade and implemented daily lesson plans; administered tests and analyzed student performance. Fostered a classroom environment conducive to learning and promoted effective student/teacher interaction. Participated in faculty/parent conferences. Contacted parents by phone and email to discuss student issues or concerns. Followed district policies and procedures for teachers. Documented student performance and concerns for student records. Maintained professionalism and ethical standards. Also contributed to Adult Education Summer School at James Irvin Education Center, housed at Wesley Chapel High School; taught English 3 and English 4."
+        },
+        {
+            "title": "ELA Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "08/2016",
+            "end_date": "06/2016",
+            "description": "Followed the district's curriculum for 7th grade and implemented daily lesson plans; administered tests and analyzed student performance. Fostered a classroom environment conducive to learning and promoting excellent student/teacher interaction. Participated in faculty/parent conferences. Contacted parents by phone and email to discuss student issues or concerns. Followed district policies and procedures for teachers. Documented student performance/concerns for student records. Maintained professionalism and ethical standards."
+        },
+        {
+            "title": "2nd Grade Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "10/2014",
+            "end_date": "06/2015",
+            "description": "Followed the district's curriculum for 2nd grade and implemented daily lesson plans; administered tests and analyzed student performance. Conducted group reading activities. Fostered a classroom environment conducive to learning and promoting excellent student/teacher interaction. Participated in faculty/parent conferences. Contacted parents by phone and email to discuss student issues or concerns. Followed district policies and procedures for teachers. Documented student performance/concerns for student records. Remained professional and ethical at all times."
+        },
+        {
+            "title": "City Clerk",
+            "company": "Company Name, City, State",
+            "start_date": "02/2014",
+            "end_date": "10/2014",
+            "description": "Receives mail and telephone calls; composes correspondence upon instruction; prepares correspondence, reports, and other material. Oversees maintenance of office files and official City documents; issues and indexes ordinances, resolutions and agreement numbers and dates of adoption by the City Commission. Compiles and records information concerning municipal actions; keeps abreast of and maintains city laws, ordinances, policies, and procedures, municipal services. Records City Commission meetings; prepares and distributes minutes. Issues cemetery permits and deeds and maintains cemetery records. Issues business tax receipts. Compile and forward required materials to the Municode Corporation on a quarterly basis. Compiles and distributes City Commission meeting agendas and documents. Serves as election official for City elections. Obtains and maintains State of Florida notary public certification."
+        },
+        {
+            "title": "Reading Teacher",
+            "company": "Company Name, City, State",
+            "start_date": "02/2012",
+            "end_date": "01/2014",
+            "description": "Followed the district's curriculum for reading and implemented daily lesson plans for 9th grade, administered tests and analyzed student performance. Conducted group reading activities. Fostered a classroom environment conducive to learning and promoting excellent student/teacher interaction. Participated in faculty/parent conferences. Contacted parents by phone and email to discuss student issues and or concerns. Followed district policies and procedures for teachers. Documented student performance/concerns for student records. Remained professional and ethical at all times."
+        },
+        {
+            "title": "Bookkeeper",
+            "company": "Company Name, City, State",
+            "start_date": "01/2004",
+            "end_date": "02/2012",
+            "description": "Worked with all teachers responsible for school accounts. Issued purchase orders and communicated with companies to purchase materials. Collected and deposited money; ensured accounts stayed balanced. Check writing—paying invoices, reimbursements for purchases, athletic travel expenses, etc. Balanced school internal accounts. Checked in all merchandise that was ordered. Communicated with the district office on purchases and procedures. Followed district policies and procedures for bookkeeping. Entered payroll for the school, processed new employee paperwork, transfer paperwork, etc. Secretarial duties as assigned by the Principal."
+        },
+        {
+            "title": "Secretary III",
+            "company": "Company Name, City, State",
+            "start_date": "10/2002",
+            "end_date": "01/2004",
+            "description": "Answered phones. Directed parents and visitors to school. Performed duties issued by the principal."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Elementary Education with Reading Endorsement and ESOL Endorsement",
+            "school": "Saint Leo University",
+            "year": 2011
+        },
+        {
+            "degree": "Associates Degree in Advertising Design",
+            "school": "Cazenovia College",
+            "year": 1991
+        }
+    ],
+    "certifications": [
+        "Notary Public Certification"
+    ],
+    "languages": [
+        "English"
+    ]
+}

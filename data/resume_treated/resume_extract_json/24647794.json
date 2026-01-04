@@ -1,0 +1,94 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "ENGINEERING INTERN Profile Proficient Entry Level Electrical Engineer with excellent technical, analytical and communication skills. Willing to relocate anywhere in the US.",
+    "skills": [
+        "Testing",
+        "Troubleshooting",
+        "Embedded Hardware & Software",
+        "Microprocessors",
+        "Computer systems",
+        "Hardware & Software design",
+        "Digital signal processing",
+        "Analog and Digital Filter design",
+        "Reading Circuit Schematics",
+        "Circuit Design and Analysis",
+        "Digital logic",
+        "Soldering",
+        "Project management",
+        "Electronics",
+        "Low and High voltage devices",
+        "Low voltage power consumption",
+        "Power Systems Analysis",
+        "Active Noise Cancelling (ANC)",
+        "Research and Development",
+        "Solar PV systems Design",
+        "National Electric Code (NEC)",
+        "Engineering Ethics",
+        "Failure Analysis",
+        "Logistics",
+        "Oscilloscope",
+        "Logic analyzer",
+        "Multimeters",
+        "MS Visual Studio",
+        "MS Office",
+        "Mac OS",
+        "Matlab",
+        "Simulink",
+        "Mathcad",
+        "Verilog",
+        "Orcad",
+        "PSPICE",
+        "SolidWorks",
+        "AutoCAD",
+        "Inventor",
+        "PowerWorld",
+        "ETAP",
+        "HelioScope",
+        "C++",
+        "C#",
+        "C language"
+    ],
+    "experience": [
+        {
+            "title": "Research Project",
+            "company": "Company Name",
+            "start_date": "July 2015",
+            "end_date": "July 2015",
+            "description": "Conducted a successful research project on innovative use of Active Noise Control (ANC), 3-D Noise Mapping and Passive Noise Control systems as a solution for acoustical noise control issues in fast growing cities."
+        },
+        {
+            "title": "Electrical Engineer",
+            "company": "Company Name",
+            "start_date": "October 2014",
+            "end_date": "October 2014",
+            "description": "Successfully engineered a new transmission line to feed a new load in a city's transmission system using PowerWorld simulation software, and ETAP. Performed Three-Phase Power Systems circuit analysis of the new system. Performed cost analysis and allocation for the project."
+        },
+        {
+            "title": "Engineering Intern",
+            "company": "Company Name",
+            "start_date": "September 2014",
+            "end_date": "August 2015",
+            "description": "Lead AutoCAD Drafting team of 3 in drafting 2D maps of Oil and Gas production sites. Contributed in building Spill Prevention, Control and Countermeasure (SPCC) plans for Oil and Gas Production Facilities, data entry, and various office duties assigned by my manager. Enhanced my communication and leadership skills within my team and my manager."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Electrical Engineering",
+            "school": "Oklahoma Christian University",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelor of Science in Electrical Engineering",
+            "school": "Oklahoma Christian University",
+            "year": 2014
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English",
+        "French"
+    ]
+}

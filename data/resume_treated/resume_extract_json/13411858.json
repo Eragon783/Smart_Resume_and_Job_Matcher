@@ -1,0 +1,71 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Adept at organizing and facilitating management and team building training programs as well as staff and customer appreciation activities that have created exceptional team camaraderie, customer loyalty, and company growth! An award-winning and recognized salesperson and Corporate trainer. Organized, fun, and driven! Effective at using efficient techniques in both sales and training while focusing on the needs of the team members, the corporation, and the customer. Â Dependable, resourceful, approachable, liked, and hands-on! Highlights 21 years of sales, corporate training, and team building with Pampered Chef , a Berkshire-Hathaway Company. Proficient in organizing group events and staff training activities with clear objectives and outcome goals. Experienced in creating and presenting training workshops to groups from 1 to 3,000 in product knowledge, sales techniques, customer service, smart business practices, and team building. Featured consultant on Pampered Chef's 2014 nationwide Training DVD. Enthusiastic, approachable, and easy-to-learn from. Consistent Excellence Awards achiever (Top 1.5%) in sales, team production, and recruiting. Featured on several corporate-sponsored (and produce) literature pieces as a sales and training expert in the industry. Utilize Creative Training Techniques and business games to create a fun, learning-centered environment. My live cooking shows and workshop presentations were selected and made available on our corporate website's Online Training Center. Committee's served: Consultant Awards & Incentives Committee, Product Development Committee, and Recipe Advisory Committee",
+    "skills": [
+        "Enthusiastic people person",
+        "Strong public speaking skills",
+        "Motivational and inspirational",
+        "Goal-setting, goal-achieving",
+        "Great organizational skills",
+        "Creative training techniques",
+        "Group instruction",
+        "Learning strategies",
+        "Writing",
+        "Team building",
+        "Problem solving",
+        "Group and one-on-one coaching",
+        "Curriculum development",
+        "Encouraging group participation",
+        "Implementing team incentives",
+        "Self-driven",
+        "Creating performance motivation",
+        "High level of professionalism"
+    ],
+    "experience": [
+        {
+            "title": "Consultant",
+            "company": "Pampered Chef",
+            "start_date": "02/1995",
+            "end_date": "Current",
+            "description": "Continually organizes and coordinates regional customer appreciation and employee training events; develops training materials to help team members improve business practices and job skills; trains team members in person or virtually to become marketing, selling, recruiting, and product-line experts; experienced training individuals and groups up to 3,000; creates clear explanations and fosters a positive, income-producing learning environment; promotes team camaraderie and positive work culture to drive loyalty and production."
+        },
+        {
+            "title": "Chief Concierge, Team Leader",
+            "company": "Company Name",
+            "start_date": "06/1992",
+            "end_date": "06/1995",
+            "description": "Concierge for an 875-room property; created a positive, service-oriented, classy and fun environment; ensured guest requests were easy to fulfill; encouraged my team to bring the 'Wow' factor to life; aimed for guests to respond with a 'Wow!' when requests were completed; a creative, outside-of-the-box-thinking role."
+        },
+        {
+            "title": "Founder/Public Relations/Lead Instructor",
+            "company": "Company Name",
+            "start_date": "01/1988",
+            "end_date": "06/2003",
+            "description": "Opened a dance and tumbling school at 18; grew from 30 students to hundreds; built courteous and positive client relationships; secured loyalty and patronage; sold clientele to another local dance school after 10 years; conducted fundraising and national performances."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Athletic Training/Sports Medicine",
+            "school": "San Diego State University",
+            "year": "1992"
+        },
+        {
+            "degree": "General Education",
+            "school": "Grossmont College",
+            "year": "1990"
+        },
+        {
+            "degree": "Fire Science/Emergency Medical Technician (EMT)",
+            "school": "Miramar Community College",
+            "year": "1989"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

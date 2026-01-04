@@ -1,0 +1,74 @@
+{
+    "name": "",
+    "email": null,
+    "phone": null,
+    "location": "",
+    "summary": "Personable, high-energy nursing professional. An ambitious individual who has a demonstrated ability to address patient's needs in a timely manner. Proven success in dealing with patients and families from different backgrounds. Eager to work in a busy environment to achieve the highest level of patients' satisfaction.",
+    "skills": [
+        "CPR Certification (American Heart Association)",
+        "Medical Terminology",
+        "Vital Signs & Patient Monitoring",
+        "Electronic Health Record",
+        "HIPAA Regulations/ Privacy",
+        "Patient Safety & Care",
+        "Patient Advocacy and Support",
+        "Medication Administration"
+    ],
+    "experience": [
+        {
+            "title": "Bank Teller",
+            "company": "Bank of America",
+            "start_date": "2015-09",
+            "end_date": "Present",
+            "description": "Provide positive customer experience, process transactions accurately and efficiently in a fast-paced environment, introduce products and services, build rapport, identify customer financial priorities, and aim to meet or exceed sales goals."
+        },
+        {
+            "title": "Retail Sales Consultant",
+            "company": "Company Name",
+            "start_date": "2014-09",
+            "end_date": "2015-05",
+            "description": "Interacted with clients to drive business retention and new initiatives; educated customers on promotions and product plans; maintained product knowledge; provided efficient, courteous customer service; recognized for top performance."
+        },
+        {
+            "title": "Aviation Resource Manager",
+            "company": "Company Name",
+            "start_date": "2011-12",
+            "end_date": "Present",
+            "description": "Review, plan, and implement aircraft and crew schedules up to six months in advance; manage crew rest requirements, schedules, and aircraft maintenance; processed 9,500 flight requirements with zero delays; conducted 62 flight record reviews; supervised 12 personnel; organized base training."
+        },
+        {
+            "title": "Administrative Executive",
+            "company": "Company Name",
+            "start_date": "2011-07",
+            "end_date": "2011-12",
+            "description": "Provided high-level administrative support to five leading military officials; conducted research, prepared statistical reports, handled information requests, and performed clerical functions; authenticated 487 authorizations; organized office filing and correspondence."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "school": "Jefferson County High School",
+            "year": 2012
+        },
+        {
+            "degree": "Aviation Management",
+            "school": "Community College of the Air Force",
+            "year": 2015
+        },
+        {
+            "degree": "Associates in Pre Nursing",
+            "school": "East Georgia State College",
+            "year": 2016
+        },
+        {
+            "degree": "Nursing",
+            "school": "Georgia Southern University",
+            "year": 2017
+        }
+    ],
+    "certifications": [
+        "CPR Certification - American Heart Association",
+        "BLS - American Heart Association"
+    ],
+    "languages": []
+}

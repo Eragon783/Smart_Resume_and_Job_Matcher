@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "To secure a position with a respected business that will benefit from my organizational and leadership skills, delivering accuracy, efficiency, and friendliness to promote customer loyalty and cultivate an enthusiastic, goal-oriented team environment.",
+    "skills": [
+        "Operations management",
+        "Staff development",
+        "Inventory control",
+        "Change management",
+        "Food cost analysis",
+        "Strong customer relationship builder",
+        "Ability to handle fast-paced environment",
+        "Customer-oriented",
+        "Strong leader",
+        "Proven sales record",
+        "Employee recruitment expertise",
+        "Hiring and training",
+        "Cash handling",
+        "Food production quality knowledge",
+        "Performance tracking and evaluation",
+        "P&L management",
+        "Advertising",
+        "Graphic design",
+        "Human resource",
+        "Inventory",
+        "Negotiating",
+        "Organizational",
+        "Budget",
+        "Policies",
+        "Posters",
+        "Publicity",
+        "Quality",
+        "Thai",
+        "Transportation",
+        "Website",
+        "Workshops"
+    ],
+    "experience": [
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "2015-04",
+            "end_date": "Present",
+            "description": "Accomplished in restaurant and human resource objectives by recruiting, selecting, orienting, training, assigning, scheduling, coaching, counseling, and disciplining management staff; communicating job expectations; planning, monitoring, appraising, and reviewing job contributions; planning and reviewing compensation actions; enforcing policies and procedures. Extreme focus on having a safe, secure, and healthy facility environment by establishing, following, and enforcing sanitation standards and procedures; complying with health and legal regulations; maintaining security systems. Maintained patron satisfaction by monitoring, evaluating, and auditing food, beverage, and service offerings; initiating improvements and building relationships with patrons. Controlled purchases and inventory by negotiating prices and contracts; developing preferred supplier lists; reviewing and evaluating usage reports; analyzing variances; taking corrective actions."
+        },
+        {
+            "title": "Administrative Secretary Assistant, Fundraising Coordinator",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "2015-04",
+            "description": "Worked with program director creating intensive learning workshops and the graphic design department producing print materials such as apparel, flyers, and posters. Coordinated and contracted professional choreographers and organized transportation and hospitality. Forwarded information by receiving and distributing communications, collecting and mailing correspondence and copying information. Maintained supplies by checking stock to determine inventory level, anticipating requirements, placing and expediting orders, verifying receipts, stocking items, and delivering supplies to work stations. Assisted in writing or contributing to publications which accompanied arts-related events and activities. Marketed performances or events through social media, direct mail, advertising, and use of a website, producing posters or publicity promotional material and attracting media coverage. Created documents in Microsoft Word, Excel, and PowerPoint for organizational, advertising and data input purposes."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "2007-09",
+            "end_date": "2015-04",
+            "description": "Responsible for managing the daily operations of a fast paced high volume Thai restaurant, including selection, development and performance management of employees. Conducted weekly inventory and ordering of food and beverage supplies to optimize profits, stay within budget and ensure guest satisfaction. Coordinated and designed menus for catering events (25 to 150 persons) such as weddings, memorials, anniversaries, birthdays, a variety of other life events and non-profit community benefits. As the Head Waiter, my expectations were to display ingenuity, have an extremely high attention to detail, maintain a high profile during service and uphold and establish a regular customer base. Created weekly specials with the Head Chef the focused on in-season product from local farmers markets in the community."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Organizational Leadership",
+            "school": "Fordham University",
+            "year": "2016"
+        }
+    ],
+    "certifications": [
+        "New York City Food Handler Certified",
+        "National ServSafe Food Safety Manager Certified",
+        "California Food Handlers Card",
+        "ServSafe Food Safety Manager Certified"
+    ],
+    "languages": []
+}

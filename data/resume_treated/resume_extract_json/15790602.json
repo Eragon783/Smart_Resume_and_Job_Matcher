@@ -1,0 +1,130 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Executive profile: forward-thinking senior leader with expertise in marketing, partner acquisition, contract negotiation, communications, project management, collaboration and consensus building; MBA holder with extensive experience in discounts programs, partner marketing and strategic growth.",
+    "skills": [
+        "America Online",
+        "AOL",
+        "Auto Repair",
+        "Branding",
+        "budget",
+        "business development",
+        "com",
+        "content",
+        "contract negotiations",
+        "contracts",
+        "credit",
+        "Database",
+        "delivery",
+        "Dell",
+        "financial",
+        "focus",
+        "government",
+        "Internet Development",
+        "Internet Service Provider",
+        "leadership",
+        "marketing plans",
+        "marketing",
+        "market",
+        "Marketing Manager",
+        "marketing materials",
+        "MBA",
+        "Money",
+        "office",
+        "multimedia",
+        "multi-media",
+        "pricing",
+        "product development",
+        "project management",
+        "publications",
+        "receiving",
+        "retail",
+        "RFP",
+        "sales",
+        "sales/development",
+        "sales reporting",
+        "Shell",
+        "stories",
+        "strategy development",
+        "telemarketing",
+        "web site",
+        "writer",
+        "zip"
+    ],
+    "experience": [
+        {
+            "title": "DIRECTOR",
+            "company": "Company Name",
+            "start_date": "1999-02",
+            "end_date": "Present",
+            "description": "Lead discounts initiatives involving technology, branding, marketing, strategy development and evaluation of new member benefit programs; collaborate with clubs on partner marketing, branding, technology efforts, contract negotiations and partner acquisition; lead multiple club work teams; develop topics for the Discounts Sub-Committee; oversee vendor evaluation for the discounts technology solution; oversee multi-channel marketing materials; provide analytics and insights on partner performance; lead sales acquisition adding brands to Show Your Card & Save program; negotiate partner contracts and launch programs."
+        },
+        {
+            "title": "INTERNET DEVELOPMENT PROJECT MANAGER",
+            "company": "Company Name",
+            "start_date": "1997-09",
+            "end_date": "1999-02",
+            "description": "Managed Internet project and AAA.com functionality for online travel bookings; supervised team of four developers and designers; delivered enhanced national web site on time; conducted focus groups; oversaw RFP for ISP; evaluated internet costs; collaborated to deploy Internet as a service delivery channel."
+        },
+        {
+            "title": "ELECTRONIC PUBLISHING MANAGER",
+            "company": "Company Name",
+            "start_date": "1996-04",
+            "end_date": "1997-09",
+            "description": "Managed AOL/AAA.com projects; accelerated creative and technical development; built relationships with Internet Development Committee; managed TourBook, zip code, AAA offices and dues; created content and promotional programs; initiated online contests; developed secure web site for credit card transactions and online membership applications."
+        },
+        {
+            "title": "MARKETING / PRODUCT DEVELOPMENT MANAGER",
+            "company": "Company Name",
+            "start_date": "1991-07",
+            "end_date": "1996-03",
+            "description": "Performed marketing and project management within Publishing; conducted financial/market feasibility for opportunities including electronic travel kiosk and multimedia venture; became Marketing Manager in 1993; developed club travel store program and direct-to-member publications sales tests; managed sponsorships and product development."
+        },
+        {
+            "title": "VICE PRESIDENT BRANCH ADMINISTRATOR",
+            "company": "Company Name",
+            "start_date": "1990-07",
+            "end_date": "1991-06",
+            "description": "Managed operations for seven branches with 45 employees and $184 million in deposits; implemented plan to maintain customer base during government intervention."
+        },
+        {
+            "title": "VICEPRESIDENT",
+            "company": "Company Name",
+            "start_date": "1986-10",
+            "end_date": "1990-06",
+            "description": "Directed statewide marketing for 36-branch institution; previously led marketing for Daytona region; managed $750,000 marketing budget; developed and executed marketing plans; led multimedia campaigns including a deposit-boosting campaign; launched business development program generating $14 million in sales; established outbound telemarketing department generating $2 million deposits in first months."
+        },
+        {
+            "title": "BUSINESS DEVELOPMENT REPRESENTATIVE",
+            "company": "Company Name",
+            "start_date": "1984-01",
+            "end_date": "1986-09",
+            "description": "Created Newcomer Program to attract business; managed sales efforts generating $20 million in deposits in first five years; promoted to Vice President, Regional Marketing Manager in 1993."
+        },
+        {
+            "title": "NEWSPAPER REPORTER",
+            "company": "Company Name",
+            "start_date": "1981-01",
+            "end_date": "1984-01",
+            "description": "Covered city government, general news and feature stories; promoted to business writer and reported on financial topics while studying for MBA."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's Degree in Business Administration",
+            "school": "Stetson University",
+            "year": "1984"
+        },
+        {
+            "degree": "Bachelor of Science Degree: Journalism and Business",
+            "school": "Florida Southern College",
+            "year": "1981"
+        }
+    ],
+    "certifications": [],
+    "languages": [
+        "English"
+    ]
+}

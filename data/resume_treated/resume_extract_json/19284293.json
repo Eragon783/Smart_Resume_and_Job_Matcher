@@ -1,0 +1,91 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Profile: Seasoned aerospace professional with extensive experience in fixed and rotary wing flight testing, test management, systems integration and UAV operations. Over 20 years in flight test planning, execution and reporting, with more than 6 years of high-altitude, long-endurance UAS operations and 10 years total UAS operations experience.",
+    "skills": [
+        "Flight test management",
+        "UAS operations",
+        "Flight test engineering",
+        "Systems integration and test",
+        "Aircraft modification management",
+        "Team leadership"
+    ],
+    "experience": [
+        {
+            "title": "Lead Operations Engineer - Global Hawk Project",
+            "company": "Global Hawk Project",
+            "start_date": "2006-06",
+            "end_date": "2015-01",
+            "description": "Managed all operational aspects of Global Hawk high-altitude, long-endurance UAS deployments (2 operational air vehicles, 3 ground control stations) and scientific payload integration. Served as overall leader for the Global Hawk flight operations team, coordinating with maintenance, avionics, and operations engineers. Acted as primary liaison to FAA and Transport Canada for COA/WAIVER processes and operating certificates. Functioned as Global Hawk Mission Director, overseeing mission conduct in the Ground Control Station, and interfacing between payload specialists and aircrew. Led over 150 Global Hawk missions and supervised an eight-person Aeronautics Mission Directorate team with performance management responsibilities."
+        },
+        {
+            "title": "Operations Engineer",
+            "company": "Missile Defense Agency / DC-10 WASP Structural Restoration / B-52H LOA",
+            "start_date": "1997-01",
+            "end_date": "2006-06",
+            "description": "Project management and technical liaison across multiple defense air systems. Managed the DC-10 WASP Structural Restoration with a $5M budget, drafted statements of work, coordinated funding, and facilitated customer testing with Raytheon Aircraft. Served as technical liaison between pylon engineering design contractors and NASA fabrication personnel for B-52H launch platform aircraft, including hardware QA, installation hardware design, and pneumatic system concepts. Led B-52H Cooperative Launch Platform Aircraft qualification, directing ground and flight test efforts, and preparing flight test plans, profiles and briefs. Generated and refined System Requirements Verification Documents and ensured schedule adherence."
+        },
+        {
+            "title": "Senior Engineer",
+            "company": "Company Name City, State",
+            "start_date": "1996-06",
+            "end_date": "1997-01",
+            "description": "Planned test programs to evaluate operability, suitability, and engine/airframe integration for F-16 propulsion systems. Served as Government test monitor for contractor programs and acted as customer propulsion system consultant. Monitored propulsion data in real-time during flight tests and analyzed results to support test objectives."
+        },
+        {
+            "title": "Project Manager / Senior Flight Test Engineer",
+            "company": "Company Name City, State",
+            "start_date": "1986-10",
+            "end_date": "1996-06",
+            "description": "Project manager on 18 test programs, including leading test operations and developing test plans, flight profiles, and data reduction methods. Directed test instrumentation, data analysis and reporting; led a diverse team of pilots, engineers, technicians and contractors; produced final test reports and briefings to sponsors and stakeholders. Also served as Flight Test Engineer onboard test aircraft and as Flight Test Director via telemetry, establishing data reduction techniques and developing FORTRAN data reduction subroutines."
+        },
+        {
+            "title": "Flight Test Engineer",
+            "company": "Company Name City, State",
+            "start_date": "1983-01",
+            "end_date": "1987-09",
+            "description": "Flight Test Engineer responsible for planning and executing flight tests, coordinating instrumentation, and supporting data collection and analysis for various test programs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Aeronautical Engineering",
+            "school": "California Polytechnic State University",
+            "year": 1982
+        },
+        {
+            "degree": "Defining System Requirements",
+            "school": "NASA",
+            "year": 1994
+        },
+        {
+            "degree": "Advanced System Safety Practices",
+            "school": "NASA",
+            "year": 2004
+        },
+        {
+            "degree": "Personnel Management for Executives (Resident Course)",
+            "school": "US Army",
+            "year": 2001
+        },
+        {
+            "degree": "Test and Evaluation Management",
+            "school": "US Air Force Institute of Technology",
+            "year": 1994
+        },
+        {
+            "degree": "Hazards of High-Intensity Electromagnetic Radiation to Flight",
+            "school": "CKC Laboratories",
+            "year": 1991
+        }
+    ],
+    "certifications": [
+        "NASA Exceptional Service Medal, 2011",
+        "NASA Dryden Directors Safety Award, 2000",
+        "US Army Commanders Award for Civilian Service, 1996",
+        "US Army Commanders Award for General Excellence, 1987"
+    ],
+    "languages": []
+}

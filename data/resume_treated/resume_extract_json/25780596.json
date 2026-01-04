@@ -1,0 +1,92 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Skilled at identifying customer needs and presenting appropriate company product and service offerings. Demonstrated ability to address customer concerns, analyze situational elements, and provide effective responses and solutions. Proficient skills to communicate orally and in writing. Expertise in resolving escalated customer service issues. Proficient with Microsoft Office Suite. Knowledgeable and innovative finance, sales and marketing professional whose success is based on integrity, exceptional customer service, efficiency and ambition.",
+    "skills": [
+        "accountant",
+        "arbitration",
+        "banking",
+        "budget",
+        "cash receipts",
+        "cash registers",
+        "coaching",
+        "credit",
+        "customer service",
+        "direction",
+        "documentation",
+        "filing",
+        "financial accounting",
+        "financial statements",
+        "forms",
+        "government",
+        "instruction",
+        "insurance",
+        "inventory",
+        "layout",
+        "market",
+        "Excel",
+        "mail",
+        "Word",
+        "new business development",
+        "payroll",
+        "processors",
+        "Reading",
+        "reporting",
+        "retail",
+        "sales reports",
+        "settlements",
+        "shadow",
+        "supervision",
+        "taxes"
+    ],
+    "experience": [
+        {
+            "title": "Branch Manager/Operations Manager",
+            "company": "Company Name City, State",
+            "start_date": "April 1973",
+            "end_date": "June 2000",
+            "description": "Taught banking-related courses for adult continuing-education classes affiliated with Alvernia College and Reading Area Community College. 15+ years as accountant/business manager for Fleetwood Bible Church managing a $500,000 annual budget. Used Excel to create and maintain financial accounting and reporting forms and documents. Prepared cash receipts and cash disbursements, maintained and prepared financial statements for church board and congregation review, and managed loan and deposit banking relationships. Responsible for payroll preparation for all staff. Proficient with Word and Excel. 26 years banking experience in credit investigation and approval and branch management. Assisted manager of retail loan credit department; reviewed loan applications for accuracy/compliance; supervised credit investigation; participated in settlements as bank representative; represented bank for PMI providers and realtors; monitored secondary market compliance; contributed to a mortgage how-to manual; performed commercial branch duties including new business development, collection and review of credit documentation, and analysis of commercial accounts."
+        },
+        {
+            "title": "Claims Arbitration Specialist",
+            "company": "Company Name City, State",
+            "start_date": "January 2007",
+            "end_date": "January 2015",
+            "description": "Review and analyze unsettled claims for arbitration; investigate facts of loss, evidence and documentation; prepare contentions and evidence for Arbitration Forums; complete online filing; respond to communications; amend responses for counterclaims; provide documentation and instruction to claims handlers; prepare management reports; communicate with policyholders on status; exceeded production goals and arbitration submissions; achieved favorable arbitration results compared to peers; served as job-shadow for new specialists; provided training on arbitration procedures."
+        },
+        {
+            "title": "Claims Subrogation Supervisor",
+            "company": "Company Name City, State",
+            "start_date": "May 2005",
+            "end_date": "March 2007",
+            "description": "Oversee seven claim handlers; provide instruction and supervision; determine team objectives; review and assign subrogation files; act as one-level-up contact for customers; prepare weekly and monthly management reports; collaborate with other supervisors for department objectives; support other teams and new hires."
+        },
+        {
+            "title": "Subrogation Claims Representative",
+            "company": "Company Name City, State",
+            "start_date": "April 2002",
+            "end_date": "May 2005",
+            "description": "Review and analyze assigned claims for subrogation; negotiate with customers and other insurance carriers to obtain effective settlements; coordinate with team members; contribute input for disputed resolutions."
+        },
+        {
+            "title": "Office Supervisor / Bookseller",
+            "company": "Company Name City, State",
+            "start_date": "April 2001",
+            "end_date": "April 2002",
+            "description": "Supervise cash operations; prepare cash registers; reconcile sales with cash totals; prepare daily bank deposits; manage staff time cards; provide professional customer service; manage inventory, store layout, and procedures."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: Psychology",
+            "school": "Kutztown University",
+            "year": "1973"
+        }
+    ],
+    "certifications": [
+        "Professional Claims Adjuster's License"
+    ],
+    "languages": []
+}

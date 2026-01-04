@@ -1,0 +1,103 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "Camas, WA",
+    "summary": "Experienced IT Specialist and Systems Analyst with diverse industry experience in government, maritime, forestry, and research environments. Expertise includes systems applications, disaster recovery planning, and customer service across remote, phone, and in-person channels.",
+    "skills": [
+        "Web",
+        "Content Management Systems",
+        "SharePoint",
+        "MS Access",
+        "MS Office",
+        "Adobe Suite",
+        "Drupal",
+        "Linux",
+        "Windows",
+        "Mac",
+        "Skype",
+        "WebEx",
+        "Adobe Connect",
+        "MS Lync",
+        "RITS",
+        "eBooks",
+        "Team collaboration",
+        "Training",
+        "Problem solving",
+        "Self-starter"
+    ],
+    "experience": [
+        {
+            "title": "Information Technology Specialist (Web), GS-11",
+            "company": "Forest Service",
+            "start_date": "08/2013",
+            "end_date": "02/2016",
+            "description": "Planned and coordinated IT functions for the Forest Service's Climate Change Resource Center. Transformed web services to a CMS (Drupal on Linux), established prototype training site, expanded knowledge base of Drupal, SharePoint, and eBooks; trained program departments on MS SharePoint; ensured compliance with copyright and Section 508."
+        },
+        {
+            "title": "Computer Assistant, GS-5",
+            "company": "Forest Service",
+            "start_date": "03/2010",
+            "end_date": "08/2013",
+            "description": "Managed internet and intranet sites; created/modified publication database entries in RITS; administered SharePoint; provided group and one-on-one training; converted print publications to eBooks with embedded media."
+        },
+        {
+            "title": "Computer Department Intern",
+            "company": "Camas School District",
+            "start_date": "09/2008",
+            "end_date": "06/2009",
+            "description": "Designed and prototyped a web-based IT assets inventory tracking system using Linux, Apache, MySQL, PHP, HTML, and CSS. Planned and deployed technology for teachers and students; established a fleet of Linux laptops saving over $250,000; assisted with Citrix, MS Office, Adobe; installed and repaired network hardware across multiple campuses; set up 80+ media presentation carts."
+        },
+        {
+            "title": "Database Intern",
+            "company": "Naturopathic Clinic",
+            "start_date": "06/2008",
+            "end_date": "08/2009",
+            "description": "Created an MS Access relational database to track patients for marketing support."
+        },
+        {
+            "title": "Office/Building Manager",
+            "company": "Homelink River Charter School",
+            "start_date": "01/2005",
+            "end_date": "10/2005",
+            "description": "Managed church office, created newsletters, scheduled and set up satellite seminars and media presentations; coordinated building use; supervised events for church and school."
+        },
+        {
+            "title": "Geek Squad Tech",
+            "company": "Best Buy",
+            "start_date": "10/2004",
+            "end_date": "12/2004",
+            "description": "Troubleshot computer problems, upgraded hardware and software, removed viruses/spyware, sold computers and accessories, set up new computers per Best Buy specifications."
+        },
+        {
+            "title": "Marine Science Technician, E-6",
+            "company": "U.S. Coast Guard",
+            "start_date": "11/1984",
+            "end_date": "05/2004",
+            "description": "Provided level I-III IT support as Regional System Manager for 400 workstations across Coast Guard campuses and ships; trained system operators; performed backups, user profile setups; created and supported multiple MS Access databases to track business needs."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Management and Organizational Leadership",
+            "school": "Warner Pacific University",
+            "year": "2015"
+        },
+        {
+            "degree": "Bachelor of Science in Technology",
+            "school": "Eastern Washington University",
+            "year": "2009"
+        },
+        {
+            "degree": "Technology Site Builder and Theming: Drupal, Content Management",
+            "school": "OpenSourcery",
+            "year": "2012"
+        }
+    ],
+    "certifications": [
+        "ITIL Foundation (2016)"
+    ],
+    "languages": [
+        "English"
+    ]
+}

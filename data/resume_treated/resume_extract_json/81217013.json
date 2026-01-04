@@ -1,0 +1,105 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Motivated executive professional with 20 years of progressive experience in Publishing and Non-Profit environments, including extensive experience in project management, budgeting and financial administration. Consistently achieved optimal utilization of developing, delivering, and managing operations through process improvement planning, program coordination, and cultivation of strong business relationships. Possess an established track record of creating and implementing programs and long- term business strategies aimed at company growth. High-energy, results-oriented leader that continues to be a ambitiously collaborating team player who creates strategic alliances with organization leaders to effectively align with and support key business initiatives.",
+    "skills": [
+        "Project management",
+        "Budgeting expertise (Capital and Operating)",
+        "Risk Management",
+        "Analytical Skills",
+        "Time Management",
+        "Leadership/communication skills",
+        "Negotiations expert",
+        "Employee relations",
+        "Self-motivated",
+        "Customer-oriented",
+        "Team Building",
+        "Team Leadership",
+        "Microsoft Office Suite",
+        "Blackbaud Financial Software",
+        "PowerPlan Budget/Forecasting Solutions",
+        "Datatel Financial Solutions",
+        "Media Services Group (Magazine) software"
+    ],
+    "experience": [
+        {
+            "title": "Director, Finance Operations",
+            "company": "Audubon",
+            "start_date": "August 2015",
+            "end_date": "Present",
+            "description": "Lead the areas of gift processing, banking and risk management for a national multi-state non-profit; consolidated banking relationships by implementing an online invoicing system and a procurement card program; launched an online invoicing solution; implemented a check processing application; contributed to aligning insurance policies with fiscal year cycle; helped close 35 bank accounts."
+        },
+        {
+            "title": "Director of Business Management and Field Solutions",
+            "company": "Audubon",
+            "start_date": "October 2009",
+            "end_date": "July 2015",
+            "description": "Team leader of 3 professionals serving as liaison between programs and the central office; involvement in HR, Legal and Technology concerns; led the budget process from kickoff through board presentation; created clear financial reports (cash flow, restricted and reserves funding) to assist management decisions."
+        },
+        {
+            "title": "Director of Budgets",
+            "company": "Audubon",
+            "start_date": "May 2003",
+            "end_date": "October 2009",
+            "description": "Overhauled operating and capital budget process with a formal structure aligned to the mission; led the entire process from kickoff to consolidated reporting package for National Board approval; transformed Excel-based budget process to ABM (Advanced Budget Module) integrated with Financial Edge; enhanced tracking, consolidation and reporting of budgets and forecasts."
+        },
+        {
+            "title": "Budget Manager",
+            "company": "Audubon",
+            "start_date": "January 2000",
+            "end_date": "May 2003",
+            "description": "Promoted to Audubon's first Budget Director position; oversaw capital and budget process; led conversion of annual budget to a monthly tracking schedule improving cash management for programs and organization."
+        },
+        {
+            "title": "Business Manager",
+            "company": "Audubon",
+            "start_date": "July 1999",
+            "end_date": "January 2000",
+            "description": "Managed all financial aspects of Audubon magazine and membership program; budget represented 1/3 of Audubon's total operating budget; implemented cost-reduction measures to offset a shortfall in ad sales."
+        },
+        {
+            "title": "Senior Financial Analyst",
+            "company": "Jobson Medical Information, LLC",
+            "start_date": "February 1997",
+            "end_date": "July 1999",
+            "description": "Responsible for the entire budget process for each product; budget grew from $30M to $60M; growth driven by acquisitions and startups during nearly five years of tenure."
+        },
+        {
+            "title": "Financial Analyst",
+            "company": "Jobson Medical Information, LLC",
+            "start_date": "August 1995",
+            "end_date": "February 1997",
+            "description": "Promoted to financial analyst; collaborated with operations management to prepare the company's annual budget."
+        },
+        {
+            "title": "Billing Coordinator",
+            "company": "Audubon",
+            "start_date": "November 1994",
+            "end_date": "August 1995",
+            "description": "Joined Audubon as billing coordinator for the Optical division; quickly implemented changes leading to early promotion within 10 months."
+        },
+        {
+            "title": "Accounting Clerk",
+            "company": "Unknown",
+            "start_date": "February 1991",
+            "end_date": "October 1994",
+            "description": "Worked in a bond counsel law firm on Wall Street; supported accounts payable/receivable, cash management and payroll; progressed to AR, cash management and system administrator for IBM mainframe solution."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA Coursework",
+            "school": "Wagner College",
+            "year": ""
+        },
+        {
+            "degree": "BBA in Operations Management",
+            "school": "Bernard M. Baruch College, CUNY",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

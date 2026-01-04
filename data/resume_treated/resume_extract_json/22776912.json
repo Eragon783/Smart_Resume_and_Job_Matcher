@@ -1,0 +1,71 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Executive IT leader with expertise in strategic planning, security, compliance, infrastructure, databases and telecom. Proficient in designing and implementing digital business technologies, driving customer satisfaction, and building high-performing teams. Experienced in leading technology across the full lifecycle, enabling mergers and acquisitions, cloud-enabled migrations, and scalable, secure IT environments to support multi-state operations.",
+    "skills": [
+        "Contract Negotiation",
+        "Cloud Technology",
+        "Digital PBX",
+        "Cellular",
+        "Smart Devices",
+        "VoIP",
+        "ERP deployment, implementation and development",
+        "Data Integration",
+        "Web site design and intranets",
+        "SWOT analysis",
+        "Enterprise Application Development and Deployment",
+        "Enterprise Data Warehouses and SQL Repositories",
+        "Enterprise Backup, Recovery and Storage Methodologies",
+        "Enterprise Compliance and Regulatory Solutions",
+        "Security Analysis and Deployment",
+        "LAN/WAN design and management",
+        "Citrix and Virtual servers",
+        "Point to Point Wireless Antenna Systems",
+        "WiFi deployment",
+        "Mobile App deployment",
+        "POS & Bar-Coding systems",
+        "Business Analysis and Process Modeling",
+        "Lean Manufacturing / Lean Office",
+        "Zero Based budgeting and EBIDTA",
+        "ITIL",
+        "Project, Network, Asset, Change and Security and Governance Management",
+        "IT Consulting"
+    ],
+    "experience": [
+        {
+            "title": "Director of Information Technology / Chief Technology Officer",
+            "company": "Company Name",
+            "start_date": "2007-01",
+            "end_date": "2015-01",
+            "description": "Provide expertise, vision and leadership for developing, implementing and executing strategic and tactical information technology initiatives that align with the mission. Accountable to design a scalable robust infrastructure with secured platforms for rapid yet controllable office expansion into multiple states. Deliver Enterprise technology advancements in streamlining processes plus data sharing integrations. Cultivate relationships and negotiate contracts with key vendors/suppliers to support all-inclusive corporate and branch offices. Create outstanding customer service satisfaction. Support included several businesses; Law Firm, Car Washes, Real Estate holdings and USA Direct Funding. Key Achievements: Moved from fully outsourced IT to in-house IT. Align company strategic goals and objectives. Recruit, train, and mentor team members. Develop the architecture to implement strategic IT support plan. Direct staff, vendors and project teams through due-diligence, prioritization and development of best practices. Initiate and facilitate relationships across functional and divisional organizations as well as develop relationships with key vendors/suppliers. Establish support for expanding branch offices throughout the Pacific Northwest with multiple associated companies. Development of multiple applications using data mapping to input and extract data from various databases. Provided 7x24x365 data/telecom reliability. Migration of physical servers to virtual and cloud-based technologies. LOS customization providing better data entry, detailed milestones, alerts, dashboard information, etc. Paperless office introductions and deployment. CRM implementation with integration to LOS (Loan Origination Software). ERP implementation using data repository technology. MPLS private network implemented for data and VoIP phone system developing a virtual company network with 4 digit calling, Instant messaging, video conferencing and unified communications both internal and bridged to cell phones and smart devices. Company-wide deployment of NEC VoIP phone system. Company-wide training center deployment. Lean Office deployment and data modeling to locate and improve processes. Intranet designed/Implemented providing sharable information company wide. Designed/Implemented high performance secured data network including fail-over redundancy. Enterprise Disaster Recovery plan along with Business Continuity Plan Implementation. High speed printers and imaging technologies. Evaluate both established and emerging technologies to enhance current technologies and architecture. Implemented Electronic Data Integration to Accounting, internal and external websites with SQL data repositories. Performed compliance and regulatory solutions to align business to compliance standards. Deployed security risk monitoring and management systems. Deployed user support ticketing system with inventory/asset tracking and remote user management."
+        },
+        {
+            "title": "Manager/Director",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2006-01",
+            "description": "Ensure full delivery of all IT initiatives for an international spa manufacture including retail markets. Responsible for IT directives in alignment with company strategic plan. Recruit, train, and mentor technology team members. Develop and implement strategic IT support plan. Direct staff, vendors and project teams through due-diligence, prioritization and development. Initiate and facilitate relationships across functional and divisional organizations as well as develop relationships with key outside vendors/suppliers. Member of Strategic Planning, Budget and ESOP committees. Key Achievements: Infrastructure development; implemented Nortel PBX system with VoIP switching; designed and integrated mission-critical applications; implemented MAS200-500 ERP; implemented high-level data security; implemented Lean Manufacturing and Lean Office; VPNs between Corp headquarters and Retail Stores; E-commerce and EDI; implemented and managed a VPN network; established real-time accounting and vendor information; developed an ECM program; implemented Lean Office processes."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Information Technology",
+            "school": "Western Oregon University",
+            "year": null
+        },
+        {
+            "degree": "Information Technology",
+            "school": "Belford University",
+            "year": null
+        },
+        {
+            "degree": "Journeyman",
+            "school": "Portland Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

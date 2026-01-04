@@ -1,0 +1,160 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Detail oriented and self-motivated, with a strong background in the energy sector leading managed pressure drilling operations. Resourceful and adaptable due to the ever-changing nature of the military and the oil and gas industry. Desire to expand upon multi-skilled background through new challenges and opportunities.",
+    "skills": [
+        "Managed Pressure Drilling (MPD)",
+        "Project Management",
+        "Engineering Assistance",
+        "Logistics Coordination",
+        "Technical Consulting",
+        "Inventory Control",
+        "Continuous Improvement",
+        "Lean Six Sigma",
+        "Team Leadership",
+        "Customer Relations",
+        "Sales Support",
+        "Troubleshooting",
+        "Equipment Troubleshooting",
+        "Reports Generation and Analysis",
+        "Training and Development",
+        "Process Improvement",
+        "Personnel Management",
+        "Computer Proficiency",
+        "Technical Savvy",
+        "Pressure Control Systems",
+        "Rotating Control Devices (RCD, Hold devices)",
+        "PLC, HMI, Hydraulic Systems",
+        "Electrical Installations",
+        "Flow Meters",
+        "Networking and Communications"
+    ],
+    "experience": [
+        {
+            "title": "Managed Pressure Drilling Field Supervisor",
+            "company": "Company Name, City, State",
+            "start_date": "2014-07",
+            "end_date": "Present",
+            "description": "Supervised the design, implementation, and execution of Managed Pressure Drilling projects for offshore drilling operations. Led teams of 3-5 personnel in the integration and operation of pressure control systems and equipment tailored to the client's needs. Built strong customer relations with clients in the energy sector delivering MPD products and expertise. Adapted to multiple roles including project management, engineering assistance, logistics coordination, and technical consulting. Developed inventory control programs for emerging markets abroad and continual process improvements for maintenance facilities. Managed client relationships and supported marketing and sales functions. Identified and pursued continuous improvement opportunities within the operation; assisted Sales and Marketing in identifying opportunities to expand market share."
+        },
+        {
+            "title": "MPD Control Systems Technician",
+            "company": "Company Name, City, State",
+            "start_date": "2012-06",
+            "end_date": "2014-06",
+            "description": "Technical knowledge of pressure control systems including PLCs, HMIs, Hydraulic Power Units, Pressure Control Chokes, Electrical Installations, Flow Meters, and Computer Networking/Communications. Integrated hydraulic modeling, well data, and design with control systems. Operated rotating control devices (HOLD 1500, HOLD 2500, RCD 5K Big Bore, ATR RCD 5K). Used MPD techniques with client/operator to drill previously un-drillable wells to completion. Applied Lean Six Sigma to reduce waste and downtime in tool inventory and parts requisition processes."
+        },
+        {
+            "title": "Electrical Branch Supervisor / Plane Captain / Aviation Electrician",
+            "company": "Carrier Airborne Early Warning Squadron 115",
+            "start_date": "2008-07",
+            "end_date": "2011-07",
+            "description": "Supervised the Electrical Division in repair and maintenance of aircraft electrical systems across 6 cruises while deployed to the Western Pacific Ocean aboard USS George Washington. Accountable for 7 sailors and 5 E-2C Hawkeye aircraft. Aircraft systems included flight controls, engine electrical installations, flight instrumentation, navigation, equipment cooling, and power generation/supply. Awarded Navy and Marine Corps Achievement medals and Enlisted Aviation Warfare Specialist. 2010 Junior Sailor of the Year."
+        },
+        {
+            "title": "Line Division Supervisor / Plane Captain / Aviation Electrician",
+            "company": "Carrier Airborne Early Warning Squadron 120",
+            "start_date": "2005-08",
+            "end_date": "2008-07",
+            "description": "Supervised a crew of 15 in the daily inspection and servicing of twelve E2-C Hawkeye and four C-2A Greyhound aircraft during 14 detachments. Completed training prerequisites four months ahead of schedule, resulting in promotion to night supervisor. Reduced fleet downtime by 30% by maintaining the aircraft in a ready status through improvements to maintenance and inspection processes."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Business Administration",
+            "school": "Pennsylvania State University",
+            "year": 2017
+        },
+        {
+            "degree": "Well Control School - IADC WellSHARP Supervisor Level Drilling Operations, Surface, Subsea",
+            "school": "Well Control School",
+            "year": 2016
+        },
+        {
+            "degree": "HUET & BOSIET",
+            "school": "MSTC",
+            "year": 2016
+        },
+        {
+            "degree": "MPD / DPM Training",
+            "school": "Schlumberger DPM Training",
+            "year": 2013
+        },
+        {
+            "degree": "Intro to Directional Drilling",
+            "school": "Schlumberger DPM Training",
+            "year": 2013
+        },
+        {
+            "degree": "Well Bore Construction Drilling Fluids",
+            "school": "Schlumberger DPM Training",
+            "year": 2013
+        },
+        {
+            "degree": "BHA & Drill String Engineering",
+            "school": "Schlumberger DPM Training",
+            "year": 2013
+        },
+        {
+            "degree": "Hydraulics for Drilling Operations",
+            "school": "Schlumberger DPM Training",
+            "year": 2013
+        },
+        {
+            "degree": "Well Control Basics",
+            "school": "Schlumberger DPM Training",
+            "year": 2013
+        },
+        {
+            "degree": "Dynamic Pressure Drilling",
+            "school": "Schlumberger DPM Training",
+            "year": 2013
+        },
+        {
+            "degree": "Advanced Single Phase MPD / Multiphase MPD Operations",
+            "school": "Schlumberger DPM Training",
+            "year": 2013
+        },
+        {
+            "degree": "Pressure Mud Cap Drilling",
+            "school": "Schlumberger DPM Training",
+            "year": 2013
+        },
+        {
+            "degree": "Advanced Auto-choke, Pressure Control 101",
+            "school": "Schlumberger DPM Training",
+            "year": 2013
+        },
+        {
+            "degree": "Control Systems Tech Basic & Advanced",
+            "school": "Schlumberger DPM Training",
+            "year": 2012
+        },
+        {
+            "degree": "USN Advanced Electronics and Technical Training",
+            "school": "US Navy",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        "IADC WellSHARP Supervisor Level Drilling Operations, Surface, Subsea",
+        "HUET & BOSIET",
+        "MPD / DPM Training (Schlumberger DPM Training)",
+        "Well Bore Construction Drilling Fluids",
+        "Intro to Directional Drilling",
+        "BHA & Drill String Engineering",
+        "Hydraulics for Drilling Operations",
+        "Well Control Basics",
+        "Dynamic Pressure Drilling",
+        "Advanced Single Phase MPD / Multiphase MPD Operations",
+        "Pressure Mud Cap Drilling",
+        "Advanced Auto-choke, Pressure Control 101",
+        "Control Systems Tech Basic & Advanced",
+        "US Navy Advanced Electronics and Technical Training"
+    ],
+    "languages": [
+        "English"
+    ]
+}

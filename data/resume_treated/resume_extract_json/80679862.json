@@ -1,0 +1,94 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "City, State",
+    "summary": "Digital Marketing Specialist with extensive experience across digital channels including social media, analytics, SEO/SEM, email marketing, and cross-border marketing. Skilled in data analysis, campaign optimization, and cross-functional collaboration to drive acquisition, engagement, and ROI.",
+    "skills": [
+        "Slack",
+        "Google Analytics",
+        "AdWords",
+        "Site Catalyst / Omniture / Adobe Analytics",
+        "Microsoft Excel",
+        "Word",
+        "Apple Pages",
+        "Numbers",
+        "Adobe Creative Suite (Photoshop, Lightroom, Illustrator)",
+        "Final Cut Pro",
+        "Avid",
+        "MailChimp",
+        "Constant Contact",
+        "Work Zone",
+        "Mind Jet",
+        "Salesforce",
+        "GitLab",
+        "GitHub",
+        "CVS",
+        "WordPress",
+        "Dreamweaver",
+        "Bronto Software",
+        "Sublime Text",
+        "ObservePoint",
+        "New Relic",
+        "SEO",
+        "PPC",
+        "Link-building",
+        "HTML",
+        "CSS",
+        "CMS",
+        "UserTesting.com",
+        "A/B Testing",
+        "Analytics",
+        "Marketing Automation",
+        "Email Marketing",
+        "Social Media",
+        "Content Marketing",
+        "Go-To-Market",
+        "Sales Enablement",
+        "Project Planning",
+        "Presentation Skills",
+        "Strategy"
+    ],
+    "experience": [
+        {
+            "title": "Digital Marketing Specialist",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "Current",
+            "description": "Strategic management of e-commerce and digital marketing initiatives; integrate search marketing with broader channels; analyze data to uncover opportunities; coordinate cross-functional project plans; ensure timely project completion and senior management communication. Responsibilities span digital operations, content architecture, site optimization, cross-platform compatibility, demand generation, and marketing automation."
+        },
+        {
+            "title": "Marketing and Innovative Partnership Manager",
+            "company": "Company Name",
+            "start_date": "January 2014",
+            "end_date": "",
+            "description": "Created resources to educate teachers, prospective students, and parents on opportunities and high-tech education; gathered competitor and student demographic data; designed surveys; produced multimedia presentations for awards and partnerships; supported Ringling College collaboration initiatives."
+        },
+        {
+            "title": "Marketing Director",
+            "company": "Company Name",
+            "start_date": "January 2013",
+            "end_date": "January 2014",
+            "description": "Proposed and implemented pricing tier changes for sponsorships; planned and executed marketing strategies to improve profitability; directed Sarasota Film Festival marketing communications; developed a 2014 Festival marketing plan that increased box office revenue; ensured consistent messaging across print, radio, TV, and digital media."
+        },
+        {
+            "title": "Marketing Consultant and Creative Manager",
+            "company": "Company Name",
+            "start_date": "January 2009",
+            "end_date": "January 2014",
+            "description": "Advised small businesses on SEO and digital marketing strategies; managed websites and social media; built WordPress sites; developed organization-wide social media standards; designed digital image assets for clients."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "school": "University of Florida",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Certified Professional Photographer (CPP)",
+        "FedEx Rising Star for teamwork"
+    ],
+    "languages": []
+}

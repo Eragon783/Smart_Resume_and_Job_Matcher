@@ -1,0 +1,172 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "12 years of experience in Software Quality Assurance requirements analysis, test planning, creating test cases, and test process coordination. Experienced with functional, end to end, regression and user acceptance testing of Web based and Client Server interfaces. Familiar with the Waterfall and Agile SDLC. 7 years experience in customer support/service and handling escalated issues. 5 years of running formal training and development programs for system users. Advanced Windows OS and MS Office applications user/troubleshooting skills. Ability to learn new software quickly. Able to handle multiple projects. Take ownership attitude. Flexible team player.",
+    "skills": [
+        "account reconciliation",
+        "ad",
+        "Agile",
+        "automation",
+        "banking",
+        "basic",
+        "billing",
+        "bonds",
+        "budget",
+        "Call Center",
+        "cashier",
+        "com",
+        "CA",
+        "hardware",
+        "Controller",
+        "clients",
+        "excellent customer service",
+        "databases",
+        "Database",
+        "document management",
+        "documentation",
+        "DOS",
+        "features",
+        "financial",
+        "Frontpage",
+        "FTP",
+        "functional",
+        "funds",
+        "Information Technology",
+        "Team Lead",
+        "Notes",
+        "Mac",
+        "Macintosh",
+        "managing",
+        "meeting facilitation",
+        "Access",
+        "Microsoft Excel",
+        "Excel",
+        "Office",
+        "Outlook",
+        "PowerPoint",
+        "SharePoint",
+        "Windows",
+        "2k",
+        "Windows 98",
+        "Windows 7/XP",
+        "Word",
+        "navigation",
+        "office equipment",
+        "DB",
+        "payment processing",
+        "PC maintenance",
+        "processes",
+        "coding",
+        "programmer",
+        "progress",
+        "Quality",
+        "reconciling",
+        "record keeping",
+        "reporting",
+        "Research",
+        "Retail",
+        "safety",
+        "sales",
+        "servers",
+        "scripts",
+        "software development",
+        "software testing",
+        "SQL",
+        "System Integration",
+        "desktop support",
+        "user training",
+        "telephone",
+        "Test Director",
+        "T- SQL",
+        "Troubleshoot",
+        "troubleshooting",
+        "upgrade",
+        "Visio",
+        "website",
+        "workflow"
+    ],
+    "experience": [
+        {
+            "title": "Software Quality Assurance Analyst II",
+            "company": "Company Name",
+            "start_date": "2012-01",
+            "end_date": "Present",
+            "description": "Agile, Windows-based QA for Acuity Electronic Health Record System suite testing and administration; Ontime.com used for incident/bug reporting; T-SQL used to query/insert/update SQL DB to verify test inputs/outputs; WinAutomation and TestComplete used for automated testing; testing across local machines and Cloud Share environments; creation and maintenance of test cases, procedures and automation scripts; tracking testing progress and defects; database loads and test environment setup; collaboration with application programmers; functional, regression, and ad-hoc testing across EHR modules."
+        },
+        {
+            "title": "User Support Specialist II, Payments Specialist",
+            "company": "Company Name",
+            "start_date": "2011-01",
+            "end_date": "2012-01",
+            "description": "Call center support; Macintosh-based ZenDesk ticketing for user incidents; troubleshooting Airbnb.com navigation and billing issues; handling escalated calls and support level I agents; documentation of user accounts; ensuring customer satisfaction."
+        },
+        {
+            "title": "Test Execution Manager",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2010-01",
+            "description": "Managed onshore and offshore testers during System Integration Test phase for CA Banking Center New Accounts and Teller Platforms; provided work estimates and staffing; reviewed and approved test plans and scripts; defined business requirements; represented end users in design, development, testing and implementation; led training for new test analysts; provisioning of hardware/software for test labs and coordination of test environments."
+        },
+        {
+            "title": "Software Test Analyst",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2006-01",
+            "description": "Matrix team testing environment; Quality Center used for test cases and bug/incident reporting; extensive use of Excel, Word and Visio; managed PC lab; identified test scenarios from business requirements; created test plans and scripts; performed Black Box functional, regression, and ad-hoc testing; managed production data access and user access levels."
+        },
+        {
+            "title": "Internal Operations Analyst",
+            "company": "Company Name",
+            "start_date": "1999-01",
+            "end_date": "2000-01",
+            "description": "Call center operations; queried databases for user issues; researched and responded to inquiries regarding bank policy and procedures; identified and resolved operational, software, new account, sales, and service issues."
+        },
+        {
+            "title": "Sr. Operations Officer",
+            "company": "Company Name",
+            "start_date": "1998-01",
+            "end_date": "1999-01",
+            "description": "Office-based role with reconciliation tasks and record keeping; managed misdirected wire account for corporate clients; on-site desktop support during Windows 98 upgrade; hardware/software installations; user training."
+        },
+        {
+            "title": "Money Transfer Customer Liaison",
+            "company": "Company Name",
+            "start_date": "1997-01",
+            "end_date": "1998-01",
+            "description": "Call center role handling customer wire transfer requests; ensured proper identification and account relationships; processed amendments/cancellations; delivered customer service."
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "Company Name",
+            "start_date": "1995-01",
+            "end_date": "1997-01",
+            "description": "Retail banking center; deposits processing; cash handling; selling banking products; customer service and daily balancing."
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS, Computer Information Systems",
+            "school": "Golden Gate University",
+            "year": 2004
+        },
+        {
+            "degree": "AAS, Computer Technology",
+            "school": "Heald College",
+            "year": 2002
+        },
+        {
+            "degree": "AAS, Electronics Technology",
+            "school": "Heald College",
+            "year": 2001
+        },
+        {
+            "degree": "Certificate Health Care Information Technology",
+            "school": "Cosumnes River College",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

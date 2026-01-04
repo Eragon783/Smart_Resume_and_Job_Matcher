@@ -1,0 +1,56 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "GLOBAL BUSINESS DEVELOPMENT MANAGER/MARKETING Summary Professional Account Manager trained in building strategic network ties and increasing sales revenues. Cultivates and maintains strong customer relationships. Skills Prospecting and cold calling Strategic account development Team building expertise Proven sales track record Strong communicator Â Skilled in MS Office Strong interpersonal skills Relationship selling Product training and placement Strong deal closer Exceptional customer service skills Accomplishments Established thirty new accounts in a single year through successful business development/management skills. A company record. (GigaSpaces Technologies) Â â€‹â€‹Â â€‹ Turned a one thousand dollar a year territory into a one million dollar territory in just a little under 2 years. (Buzz Food Service)â€‹ Earned the 2012 \"Spirit Of Generosity Award.\" Given once a year to a salesperson who demonstrated an outstanding commitment to customer service in a way that improved both company reputation and work environment. (Buzz Food Service) Master of Brand Advantage/Master's level meat course. (Buzz Food Service) Â 2006 Employee of the Year, Education, Employment and Training Department. (Goodwill of the Kanawha Valley)Â",
+    "skills": [
+        "Prospecting and cold calling",
+        "Strategic account development",
+        "Team building expertise",
+        "Proven sales track record",
+        "Strong communicator",
+        "Skilled in MS Office",
+        "Strong interpersonal skills",
+        "Relationship selling",
+        "Product training and placement",
+        "Strong deal closer",
+        "Exceptional customer service skills"
+    ],
+    "experience": [
+        {
+            "title": "Global Business Development Manager/Marketing",
+            "company": "Company Name",
+            "start_date": "2015-09",
+            "end_date": "Present",
+            "description": "Grew customer base from 10 accounts to 35 accounts in a year's time. Established over 30 new international sales relationships. Closed deals with several Fortune 500 companies. Recognized for aggressive lead generation and work ethic. Trained sales teams on educational products at seminars and special events. Worked closely with company executives to identify new business opportunities. Gathered all relevant materials for bid processes and coordinated bidding and contract approval."
+        },
+        {
+            "title": "Sales Rep.",
+            "company": "Company Name",
+            "start_date": "2012-09",
+            "end_date": "2017-08",
+            "description": "Grew assigned sales territory over 75%. Consistently second in sales among sales team; demonstrated ability to foster and close new business accounts. 201-2013 Employee of the Year for Generosity of Service. One of 150 salesmen nationwide to complete Certified Angus Beef Masters of Brand Program. Managed a portfolio of 60 accounts, which generated $1.2 million in revenue per year. Grew customer base from 5 accounts to 60 accounts in a little under two years. Collaborated with other account managers to prepare and deliver performance updates and quarterly business reviews. Ranked in top 5% of sales representatives out of 10 representatives in the West Virginia, Kentucky and Ohio region. Wrote, proofed and edited sales proposals and correspondence. Surpassed annual quota by 75%. Answered customers' questions about products prices, availability, uses and credit terms."
+        },
+        {
+            "title": "Instruction and Job Development Coordinator",
+            "company": "Company Name",
+            "start_date": "2005-05",
+            "end_date": "2011-10",
+            "description": "Managed a team of 10 job coaches to assist clients with disabilities earn and maintain employment. Established relationships in the community to develop new career opportunities for clients with disabilities. Taught classes on life skills, interpersonal and professional relationship building. Recommended individuals to customers based on their needs and interests, resulting in a long lasting employee and happy employer. Delivered exceptional account service to strengthen customer loyalty. Planned, created and delivered sales presentations on the value of hiring someone with a disability."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "school": "West Virginia State University",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        "Certified Angus Beef Masters of Brand Program"
+    ],
+    "languages": [
+        "English"
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Over 2 years of combined professional and educational experience in 3D Modelling and Product Design; 1 year of hands-on experience in FEA, Stress Analysis, Numerical Modelling and Static / Dynamic Analysis; Certified in Product Design / Analysis, Engineering Mechanics and OCTG; Researched in CFD and Design of Heat Transfer Mechanisms; Internship experience as Maintenance Engineer; Well rounded professional with a passion to innovate and improve performance / quality.",
+    "skills": [
+        "AutoCAD",
+        "AutoDesk Inventor",
+        "Pro Engineer",
+        "Creo",
+        "MicroStation",
+        "SolidWorks",
+        "Catia V5",
+        "Matlab",
+        "Ansys",
+        "Pipesim",
+        "Orcaflex",
+        "Comsol",
+        "Microsoft Office",
+        "Excel",
+        "Access",
+        "Outlook",
+        "PowerPoint",
+        "Visio",
+        "Microsoft Project",
+        "OLGA",
+        "PTC Windchill Quality Solutions",
+        "PLM",
+        "Simulink",
+        "MathCAD",
+        "PLC Programming",
+        "LabVIEW",
+        "PeopleSoft",
+        "SAP",
+        "SQL",
+        "C",
+        "Python",
+        "Linux",
+        "Windows XP",
+        "Windows 7",
+        "Windows 8",
+        "Mac OS",
+        "Chrome OS",
+        "Android",
+        "iOS",
+        "API",
+        "Design of Experiments",
+        "First Aid",
+        "Machining",
+        "Project Management",
+        "Quality",
+        "Safety",
+        "Simulation",
+        "Wiring Diagrams"
+    ],
+    "experience": [
+        {
+            "title": "Mechanical Design Engineer Intern",
+            "company": "Company Name",
+            "start_date": "2014-09",
+            "end_date": "2015-08",
+            "description": "Subsea Pipeline 'S lay' installation analysis using DNV OS F101; Drilling Riser Design for High current environment. Experience in Recoil, Hang off and Drift off analysis. Steady State Multiphase Flow Simulation of pipelines using Pipesim considering Flow Assurance Strategies. Designed 3D models of Subsea Systems using SolidWorks. Analyzed the mechanical systems including FEA for Structural and Fatigue. Delivered a Drilling Riser design document in 3 days that usually takes 1-2 weeks. Standardized MS Excel template to expedite the design calculation process in few hours that would take days. Recommended efficient design to reduce cost while manufacturing. Gained knowledge pertaining to 3D Modelling, Product Design, OCTG, Project Management, Project Engineering, Stress Analysis, Wall thickness evaluation and Tension force calculations. Gained experience in applying industry codes for offshore oil and gas projects. Conversant with Flow Assurance Strategies, API RP 2A, API RP 1111, DNV-OS-F101, ASME B31.8, DNV-RP-F110, DNV-RP-E305, DNV-RP-F101; riser analysis codes: API-RP-2RD and drilling riser analysis code: API-RP-16Q."
+        },
+        {
+            "title": "Fitness Zone Attendant",
+            "company": "Fitness Zone",
+            "start_date": "2014-01",
+            "end_date": "2014-06",
+            "description": "Certified in First Aid and Emergency evacuation. Enforced safety policies and assisted customers during workout sessions. Acknowledged for communication skills while interacting with people from different nationalities. Emerged as a strong professional balancing rigorous work schedules and academics."
+        },
+        {
+            "title": "Maintenance Engineer Intern",
+            "company": "Company Name",
+            "start_date": "2011-06",
+            "end_date": "2011-08",
+            "description": "Investigated operations and maintenance problems of Heat Exchangers and Refrigerators. Monitored, Analyzed and Initiated actions for increasing efficiency of operation. Studied P&ID's, Wiring Diagrams and Manuals; recommended economic maintenance solutions. Developed prototype of a heat exchanger with an integrated hydrophobic coating that costed $10 per foot. Succeeded in increasing condensation rate by 27%, making it more environment friendly. Proposed a model that was 21% compact and 22% ($18k) less expensive, that performs equally well in comparison with present heat exchangers. Submitted a report with scope for improvement in innovative design and reduced cost."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Mechanical Engineering",
+            "school": "University of Houston Main Campus - Texas",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Engineering in Mechanical Engineering",
+            "school": "Anna University, India",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        "Certified in Product Design / Analysis",
+        "Certified in Engineering Mechanics",
+        "Certified in OCTG",
+        "First Aid"
+    ],
+    "languages": []
+}

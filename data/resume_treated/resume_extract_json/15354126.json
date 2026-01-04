@@ -1,0 +1,78 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Chef with 6 years of critically acclaimed experience preparing delicious, healthy dishes in multiple restaurants and starting own business; specializes in menu creation to attract and retain customers. Line Cook with 15 years of experience in high-pressure culinary environments; skilled in producing large volumes of food quickly and efficiently. Seeking to leverage culinary skills and leadership in a culinary management role.",
+    "skills": [
+        "Sous vide technique",
+        "Butchery",
+        "Contemporary sauce work",
+        "ServSafe certified",
+        "Food handler",
+        "Inventory management",
+        "High volume production",
+        "Portion and cost control",
+        "Team leadership",
+        "Menu development",
+        "Sanitation and hygiene",
+        "Catering management"
+    ],
+    "experience": [
+        {
+            "title": "Owner/Chef",
+            "company": "Company Name",
+            "start_date": "08/2012",
+            "end_date": "08/2015",
+            "description": "Opened and closed the store, counted cash drawers, and made bank deposits. Addressed customers' questions and problems in person and via phone. Maintained displays; educated customers on product and service offerings. Oversaw daily operations; motivated employees through feedback. Provided prompt, efficient and friendly service; anticipated customer needs and catered to them. Maintained high sanitary standards in the kitchen and serving area. Managed catering services; informed management about areas where service could be improved; maintained food items and equipment; stored reusable items."
+        },
+        {
+            "title": "Chef",
+            "company": "Company Name",
+            "start_date": "10/2011",
+            "end_date": "06/2012",
+            "description": "Led a team of 10 in food preparation and recipe adherence; performed duties as required by guidelines. Cooks for high schools when called out. Served food in quantities that meet requirements. Accepted responsibility for stocking shelves and general cleaning. Maintained required forms and records as assigned by manager."
+        },
+        {
+            "title": "Chef",
+            "company": "Company Name",
+            "start_date": "04/2009",
+            "end_date": "02/2010",
+            "description": "CafÃ© Main: Supervises a team of 8; supervises ordering, purchasing, receiving, and inventory; supervises sanitation and cleaning; trains employees. Participates in menu development, recipe testing, and evaluation; maintains records and computer input; maintains food costs, safe handling and preparation standards."
+        },
+        {
+            "title": "First-Cook",
+            "company": "Company Name",
+            "start_date": "08/2008",
+            "end_date": "05/2009",
+            "description": "Responsible for all subsistence from receipt to consumption. Conducts quality assurance evaluation of food preparation and finished products. Trains and supervises the cooks; ensures only the highest quality products are served. Closes the kitchen and ensures it is left in good working condition. Ensures lunch outputs on time and dinner advances; cooks and prepares according to daily menu. Cooks for 700 to 1000 kids and catering functions."
+        },
+        {
+            "title": "Sous Chef",
+            "company": "Company Name",
+            "start_date": "03/2008",
+            "end_date": "08/2008",
+            "description": "Elegant catering company with thirty years of history, catering fine dining and small parties. Oversees catering events for off-premise upscale jobs. Supervises and participates in production with the team. Manages cooks and wait staff, kitchen stewards; trains, develops, empowers, coaches and counsels; resolves problems."
+        },
+        {
+            "title": "Cook/Pastry-Cook",
+            "company": "Company Name",
+            "start_date": "10/2007",
+            "end_date": "03/2008",
+            "description": "Fine dining Mediterranean restaurant with Italian influence. Externship with Todd English. Set up station according to guidelines; prepares all food items as directed, follows recipes, portion controls, and presentation specifications. Restocks items as needed; maintains safety and sanitation; responsible for making specialty pasta sauces, stocks and soups."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Occupational Science",
+            "school": "Le Cordon Blue College of Arts",
+            "year": "2008"
+        }
+    ],
+    "certifications": [
+        "ServSafe",
+        "Allergen awareness",
+        "Food handler"
+    ],
+    "languages": []
+}

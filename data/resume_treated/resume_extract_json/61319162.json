@@ -1,0 +1,92 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "Seattle, WA",
+    "summary": "Marketing and Communications Director with a track record of developing strategic communications plans, managing large budgets, and increasing audience engagement across state-wide campaigns.",
+    "skills": [
+        "Marketing",
+        "Public Relations",
+        "Branding",
+        "Copywriting",
+        "Proactive",
+        "Self Motivated",
+        "Liaison",
+        "Budget",
+        "Governance",
+        "Proposals",
+        "Public Relations Strategy",
+        "Finance",
+        "Business Development",
+        "Crisis Management",
+        "Marketing Strategy",
+        "Media Strategy",
+        "Securities",
+        "Strategic Planning",
+        "White Papers",
+        "Contract Management",
+        "Operations",
+        "Registrations",
+        "Staffing",
+        "Organizational Skills",
+        "MS Office",
+        "Public Policy",
+        "Corporate Finance"
+    ],
+    "experience": [
+        {
+            "title": "Marketing and Communications Director",
+            "company": "Stand for Children Washington",
+            "start_date": "2014-01",
+            "end_date": "Present",
+            "description": "Developed and executed a robust marketing and communications strategy; created compelling content; conducted market research to inform outreach; strengthened brand and messaging for policy and electoral campaigns across Washington; collaborated with executives and national cohorts; managed budgets and engaged stakeholders."
+        },
+        {
+            "title": "Associate Director of Corporate Relations",
+            "company": "Company Name",
+            "start_date": "2009-01",
+            "end_date": "2013-01",
+            "description": "Led all communications activities including marketing, public relations, and social media; pitched stories to journalists; managed executive media profiles; developed speaking plans; created branding materials and messaging; served as a creative copywriter for pitches, brochures, and web promotions; planned cross-channel presence across traditional and digital media."
+        },
+        {
+            "title": "New York Director for Management and Planning",
+            "company": "Company Name",
+            "start_date": "2008-01",
+            "end_date": "2008-01",
+            "description": "Led establishment of the New York Office; oversaw a $10 million operating budget; secured grants; developed evaluation tools; drafted speeches and policy documents; ensured international compliance; managed internal and external communications for the office."
+        },
+        {
+            "title": "Governance Manager",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2008-01",
+            "description": "Organized governance activities; liaised with the Board of Directors; edited grant proposals; tracked board priorities; represented the CEO in internal and external settings."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Public Policy",
+            "school": "University of Pennsylvania",
+            "year": "2003"
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Annenberg School of Communications, University of Pennsylvania",
+            "year": "1999"
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "school": "Smith College",
+            "year": "1999"
+        },
+        {
+            "degree": "Certificate Marketing/Leadership Executive Program",
+            "school": "Kellogg School of Management, Northwestern University",
+            "year": "2007"
+        }
+    ],
+    "certifications": [
+        "Marketing/Leadership Executive Program certificate, Kellogg School of Management, Northwestern University, 2007"
+    ],
+    "languages": []
+}

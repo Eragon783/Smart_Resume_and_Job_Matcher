@@ -1,0 +1,171 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Dedicated security enforcement professional with more than 5 years managing security teams and 20 years protecting professional environments. Personable leader who comfortably interacts with people from diverse cultures and backgrounds. Highlights CPR and Child CPR Training Defensive driving training Report analysis OSHA training Investigative procedures AED certified Interviews and interrogations Fire Response.",
+    "skills": [
+        "CPR",
+        "First Aid",
+        "report writing",
+        "documentation",
+        "leadership",
+        "Child CPR",
+        "Defensive driving",
+        "Report analysis",
+        "OSHA training",
+        "Investigative procedures",
+        "AED certification",
+        "Interviews and interrogations",
+        "Fire Response"
+    ],
+    "experience": [
+        {
+            "title": "Sales",
+            "company": "Sales Company Name",
+            "start_date": "2015-10",
+            "end_date": "2015-11",
+            "description": "Identified prospective customers using lead generating methods and performing an average of 50 cold calls per day. Participated in various incentive programs and contests designed to support achievement of production goals. Sold first car immediately after training by personal referral."
+        },
+        {
+            "title": "Sales",
+            "company": "Sales Company Name",
+            "start_date": "2015-01",
+            "end_date": "2015-09",
+            "description": "Identify customer needs; match needs to Company products and services, and overcome customer objections and resistance. Meet established performance objectives."
+        },
+        {
+            "title": "Sales",
+            "company": "Sales Company Name",
+            "start_date": "2014-07",
+            "end_date": "2015-01",
+            "description": "Identify and acquire high quality, long-term, \"preferred\" customers to support growth through Costco Road show program participation. Primary responsibility is to make sales presentations to prospective DSW customers at pre- identified Costco locations. On occasion similar duties may be performed at other retailers. Communicate front-line conditions and customer problems to manager; create and maintain contracts, accounting and service documentation and logs as required by manager. Serve as a Company representative with Costco management to ensure that DS Services of America is represented in a professional manner at all times. Communicate with store management as needed. Ensure in store booth set up is completed according to DS Services of America and Costco standards."
+        },
+        {
+            "title": "Catering Chef",
+            "company": "Company Name",
+            "start_date": "2014-06",
+            "end_date": "2014-07",
+            "description": "Prepared food items such as sandwiches, salads, soups, and beverages"
+        },
+        {
+            "title": "Server",
+            "company": "Company Name",
+            "start_date": "2014-05",
+            "end_date": "2014-06",
+            "description": "Served items requested by customers and processed payment."
+        },
+        {
+            "title": "Loss Prevention Officer",
+            "company": "Company Name",
+            "start_date": "2011-10",
+            "end_date": "2014-05",
+            "description": "First responder to medical and fie emergencies. Recommended improvements in security systems and procedures. Supplied internal and external security in a hotel with 410 guest rooms. Reduced general liability claims by 5% through safety audits and training. Conducted site reviews and security audits and made recommendations to management based on findings. Developed procedures for the emergency response and crisis management, physical security, information protection, incident management and investigation units. Counseled management on how to cut spending without compromising the safety and security of the company's assets. Developed and implemented training procedures for all newly hired personnel."
+        },
+        {
+            "title": "Construction Security Supervisor",
+            "company": "Company Name",
+            "start_date": "2008-06",
+            "end_date": "2010-01",
+            "description": "Managed staff schedules for all shifts and events to minimize overtime costs. Managed more than 6 security officers for construction of 12 story high-rise building. Developed and implemented training procedures for all newly hired personnel. Counseled management on how to cut spending without compromising the safety and security of the company's assets. Developed procedures for the emergency response and crisis management, physical security, information protection, incident management and investigation units."
+        },
+        {
+            "title": "Security Officer",
+            "company": "Company Name",
+            "start_date": "2008-06",
+            "end_date": "2009-06",
+            "description": "Implemented video surveillance, motion detection and closed-circuit television systems to aid in monitoring the premises. Recommended improvements in security systems and procedures. Issued criminal trespass warnings to possible suspects and assisted police in apprehending and processing shoplifters. Monitored the entire facility using CCTV while simultaneously performing dispatch duties. Communicated and enforced compliance with state and local laws while emphasizing company standards of professionalism and safety."
+        },
+        {
+            "title": "Security Officer",
+            "company": "Company Name",
+            "start_date": "2006-04",
+            "end_date": "2008-06",
+            "description": "Monitored the entire facility using CCTV while simultaneously performing dispatch duties. Issued criminal trespass warnings to possible suspects and assisted police in apprehending and processing shoplifters."
+        },
+        {
+            "title": "Security Officer",
+            "company": "Company Name",
+            "start_date": "2006-01",
+            "end_date": "2006-06",
+            "description": "Issued criminal trespass warnings to possible suspects and assisted police in apprehending and processing shoplifters. Monitored the entire facility using CCTV while simultaneously performing dispatch duties."
+        },
+        {
+            "title": "Loss Prevention Officer",
+            "company": "Company Name",
+            "start_date": "2003-08",
+            "end_date": "2006-01",
+            "description": "Issued criminal trespass warnings to possible suspects and assisted police in apprehending and processing shoplifters. Monitored the entire facility using CCTV while simultaneously performing dispatch duties."
+        },
+        {
+            "title": "Security",
+            "company": "Security Company Name",
+            "start_date": "2003-02",
+            "end_date": "2003-07",
+            "description": "Monitored the entire facility using CCTV while simultaneously performing dispatch duties."
+        },
+        {
+            "title": "Room Service Assistant Manager",
+            "company": "Company Name",
+            "start_date": "2000-02",
+            "end_date": "2003-02",
+            "description": "Oversaw delivery of food. Quality control. Inventory control. Scheduling."
+        },
+        {
+            "title": "Owner",
+            "company": "Company Name",
+            "start_date": "2000-01",
+            "end_date": "2003-01",
+            "description": "Owner of catering business"
+        },
+        {
+            "title": "Line Cook",
+            "company": "Company Name",
+            "start_date": "1999-01",
+            "end_date": "2000-01",
+            "description": "Catering Chef and server for catering and deli."
+        },
+        {
+            "title": "Line Cook",
+            "company": "Company Name",
+            "start_date": "1997-01",
+            "end_date": "1999-01",
+            "description": "Line cook"
+        },
+        {
+            "title": "Line cook",
+            "company": "Company Name",
+            "start_date": "1996-04",
+            "end_date": "1996-09",
+            "description": "Line cook"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Culinary Certificate",
+            "school": "Culinary Western Culinary",
+            "year": 1996
+        },
+        {
+            "degree": "Bachelor's (History/Foreign Policy) - Attended",
+            "school": "San Francisco State University",
+            "year": 1991
+        },
+        {
+            "degree": "Associate of Arts: History",
+            "school": "Skyline College",
+            "year": 1989
+        }
+    ],
+    "certifications": [
+        "CPR",
+        "Child CPR Training",
+        "AED certification",
+        "Defensive driving training",
+        "OSHA training",
+        "Investigative procedures",
+        "Interviews and interrogations",
+        "Fire Response"
+    ],
+    "languages": []
+}

@@ -1,0 +1,59 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Top-performing banking professional with over 6 years of experience in banking and finance. Seeking to advance to a Regional Banking Branch Manager role. Experienced business advocate with knowledge of retail and small business products, mortgage industry insights, and retail banking operations. Proven ability to source small business clientele and deliver excellent customer satisfaction to build and grow banking relationships.",
+    "skills": [
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft Outlook",
+        "Customer relationship management",
+        "Sourcing and acquiring small business clients",
+        "Retail and small business banking operations",
+        "Notary Public",
+        "Notary Service"
+    ],
+    "experience": [
+        {
+            "title": "Business Banking Specialist",
+            "company": "Company Name, City",
+            "start_date": "2016-01",
+            "end_date": "Present",
+            "description": "Effective organizational, multitasking, and prioritization skills; Proactively sourcing, acquiring, building, and maintaining relationships with customers and colleagues; Strong verbal and written communication; Self-motivated with ability to work independently; Proficient with Microsoft Office; Notary service; Provide personal financial counseling and lending assistance; Review and approve checks; Assist customers during loan and account application processes; Build long-term customer relationships to sustain high satisfaction and retention; Attend Business Hubs and educate customers in the local market."
+        },
+        {
+            "title": "Personal Banker",
+            "company": "Company Name, City",
+            "start_date": "2014-01",
+            "end_date": "2016-01",
+            "description": "Led events and activities for local networks and professional organizations; Oversaw the branch platform and teller operations in management's absence; Mitigated losses and risks; Coached bankers and tellers; Partnered with branch manager to coach and mentor team members; Conducted morning huddles; Attended the Business Hubs; Provided customer service excellence, retail product sales, and referrals; Built long-term customer relationships and deepened understanding of clients' financial needs; Notary services for customers and non-customers."
+        },
+        {
+            "title": "Lead Teller",
+            "company": "Company Name, City",
+            "start_date": "2013-01",
+            "end_date": "2014-01",
+            "description": "Managed teller workflow, daily cash balancing, and built rapport with customers to meet referral and sales goals; Ensured ethical and positive work environment; Followed procedures to minimize errors and reduce fraud; Provided customers with new products and services; Created, trained, and coached a service and sales team; Ensured compliance with audit and operational regulations; Supported Service Manager with daily operational tasks; Resolved difficult customer service issues with quick, professional results."
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma (Math)",
+            "school": "",
+            "year": ""
+        },
+        {
+            "degree": "",
+            "school": "University of California, Riverside",
+            "year": ""
+        }
+    ],
+    "certifications": [
+        "Notary Public"
+    ],
+    "languages": [
+        "English",
+        "Spanish"
+    ]
+}

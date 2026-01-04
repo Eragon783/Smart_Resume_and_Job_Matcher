@@ -1,0 +1,77 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Certified nurse assistant/home health aide Highly motivated honorable veteran seeking to transition into healthcare as a Nursing Assistant initially and Registered Nurse ultimately. Accomplished equipment operator outfitted with 5 years of comprehensive expertise and achievements in operations, fitness management, process improvement, and superb trainer. Adept in program and project management complemented with fitness acumen across diverse cultures and economies. Established record of reliability and creating positive rapport with clients, staff, and family. Extremely effective in demanding and fast-paced environments with proven patience and compassion for work and personnel.",
+    "skills": [
+        "attention to detail",
+        "backhoe",
+        "customer service",
+        "directing",
+        "forklift",
+        "organizing",
+        "problem solving skills",
+        "repairs",
+        "sales",
+        "utilities",
+        "Problem Solving and Decision Making",
+        "Risk Management and Assessment",
+        "Extensive Leadership Experience",
+        "Interpersonal Awareness and Relations",
+        "Security Clearance",
+        "Computer Competency",
+        "Flexibility",
+        "Client Service"
+    ],
+    "experience": [
+        {
+            "title": "Equipment Operator and Fitness Leader",
+            "company": "Company Name",
+            "start_date": "2013-01",
+            "end_date": "Present",
+            "description": "Trained 30 members on equipment operations; performed monthly serialized inspections of weapons including 175 M9 pistols, 420 M16 rifles, 3 AT4s and 12 MK19s with zero discrepancies; supported multiple projects; loaded, transported, and dumped heavy materials for erosion control and site preparation; managed 14 tons of scrap metal and 200 cubic yards of top soil to support primary operations; pursued ongoing education and community involvement."
+        },
+        {
+            "title": "Equipment Operator, Fitness Leader",
+            "company": "Company Name",
+            "start_date": "2010-01",
+            "end_date": "2013-01",
+            "description": "Lead operator for utilities branch water distribution system repairs; restored water service and firefighting capabilities during two water breaks; replaced 5 fire hydrants; operated grader, backhoe, roller, and mud hog for 34 hours, removing 11,250 square feet of spoilage and managing 4,000+ gallons of storm runoff to prevent base flooding; developed and led fitness programs for members on limited duty; increased overall fitness participation and reduced limited-duty personnel by 90%; delivered creative fitness classes for 33 members to improve readiness; managed 365 pieces of equipment and coordinated schedules for 58 customer across 25 Naval commands; provided 600 hours of on-the-job training."
+        },
+        {
+            "title": "Merchandiser",
+            "company": "Costco",
+            "start_date": "2008-01",
+            "end_date": "2010-01",
+            "description": "Stocked, organized, and displayed merchandise; assembled 100+ display models; provided prompt customer service and assistance to members and vendors; enhanced seasonal sales through creative merchandising and product presentation; maintained clean and safe sales floor."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Nursing",
+            "school": "California State University Stanislaus",
+            "year": 2018
+        },
+        {
+            "degree": "Associate's Degree in General Studies",
+            "school": "University of Maryland University",
+            "year": 2014
+        },
+        {
+            "degree": "Certified Nurse Assistant",
+            "school": "NCP College of Nursing",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        "U.S. Navy Certified Fitness Leader",
+        "U.S. Navy Certified Operational Fitness and Fueling Series",
+        "U.S. Navy Certified Mission Nutrition",
+        "U.S. Navy Hazardous Material/Waste Training",
+        "U.S. Navy Expeditionary Combat Skills Course",
+        "U.S. Navy Certified Equipment Operator: Home Health Aide",
+        "Certified Nurse Assistant (CNA)"
+    ],
+    "languages": []
+}

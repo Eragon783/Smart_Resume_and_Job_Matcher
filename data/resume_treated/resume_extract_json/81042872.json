@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Highly motivated Research Scientist possessing proficiency in numerous disciplines of the biotechnology and in-vitro diagnostic ( IVD ) industry. Self starter •knowledgeable •analytical •decision maker •effective natural leader Adaptable, Analytical, Dedicated, Driven, Effective, Focused, Hardworking, Highly motivated, Innovative Meticulous, Multi-task-oriented, Organized, Outstanding, Performance driven, Personable, Pragmatic, Proactive, Productive, Proficient, Skilled, Versatile Highlights EndNote, Softmax Pro, MS-Office Suite ( Excel, PowerPoint & Word ), C/C++, Windows & Mac OS.",
+    "skills": [
+        "Effective communicator",
+        "quick learner",
+        "adaptable",
+        "effective leader",
+        "C",
+        "C++",
+        "communication skills",
+        "designing",
+        "ELISA",
+        "GLP",
+        "GMP",
+        "Mac OS",
+        "Excel",
+        "MS-Office Suite",
+        "PowerPoint",
+        "Windows",
+        "Word",
+        "OS",
+        "presenting",
+        "presentations",
+        "RT-PCR",
+        "statistical analysis",
+        "troubleshoot",
+        "Validation"
+    ],
+    "experience": [
+        {
+            "title": "Research Scientist",
+            "company": "Saladax Biomedical, Inc.",
+            "start_date": "June 2013",
+            "end_date": "Present",
+            "description": "Develop automated immunochemical based diagnostic assays (ELISA) for oncology drugs enabling patients to receive chemotherapy drugs in doses individualized to their personal needs. De facto leader for a project to troubleshoot an existing diagnostic assay to improve sensitivity and reproducibility as well as to accommodate a new dosing regimen for the same drug. Responsible for designing and carrying out experiments in a GLP/GMP environment as well as analyzing data and presenting it. Key communication point to the management. Responsible for writing regulatory reports. Currently a member of another team developing an assay for an oncology drug."
+        },
+        {
+            "title": "Investigative Toxicology Intern",
+            "company": "Company Name",
+            "start_date": "June 2012",
+            "end_date": "August 2012",
+            "description": "Gained expertise in preclinical drug development with emphasis on toxicology. Enhanced molecular biology laboratory skills in techniques such as RT-PCR, & ELISA. Using statistical analysis, successfully identified a gene signature from RT-PCR data for drug induced liver oxidative stress. Successfully carried out Assay Qualification and Validation for MesoScale Discovery Assay (ELISA). Enhanced communication skills through regular presentations in the organization."
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Company Name",
+            "start_date": "August 2010",
+            "end_date": "January 2011",
+            "description": "Acquired substantial experience in R&D working on a project titled 'Isolation, Characterization & Cross Inoculation Studies of Rhizobia under Salinity Conditions'. Successfully isolated rhizobial species that survived up to a salinity of 40 dS/m, almost as high as sea water."
+        },
+        {
+            "title": "Intern",
+            "company": "Company Name",
+            "start_date": "June 2009",
+            "end_date": "July 2009",
+            "description": "Worked as part of a team in the Biochemistry, Immunology & Hematology departments. Successfully carried out statistical analysis of lipid profiles of patients and submitted a report on the same."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science, Biotechnology",
+            "school": "University of Pennsylvania",
+            "year": "2013"
+        },
+        {
+            "degree": "Bachelor of Engineering (Honors), Biotechnology",
+            "school": "Birla Institute of Technology & Science",
+            "year": ""
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

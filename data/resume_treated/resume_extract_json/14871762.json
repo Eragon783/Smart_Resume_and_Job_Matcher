@@ -1,0 +1,75 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Process oriented Data Analyst and Delivery Lead with 5+ years proven track record of analyzing Business Intelligence to increase top line and bottom line of the business vertical. Reduced costs of manufacturing signaling systems by 10% and increased sales by 25% by analyzing operating data. Closely worked with business clients and SMEs to collect, clarify and translate business requirements into functional and technical requirements. Demonstrated logical and strategic thinking, leadership and organizational skills, contingency planning and adaptability to new technologies. Distinguishing ability to simultaneously manage multiple Clients, work closely with the Leadership team and be a complete Team Player, to successfully design, implement and deliver complicated projects against challenging deadlines, whilst keeping the teams in sync and motivated. Pursuing MS in Information Systems in Big Data Analytics and looking to leverage skills and experience to grow in the field of Data Analytics by contributing towards effective business decisions.",
+    "skills": [
+        "Python",
+        "SQL",
+        "Java",
+        "R",
+        "Excel",
+        "Tableau",
+        "Statistical Analysis",
+        "Multiple Linear Regression",
+        "Business Development",
+        "BI",
+        "Client management",
+        "Delivery",
+        "Dimensions",
+        "Documentation",
+        "ERP",
+        "Inspection",
+        "Inventory",
+        "Team Development",
+        "Director",
+        "Process Control",
+        "Processes",
+        "Profit",
+        "Project Management",
+        "Quality",
+        "Sales",
+        "Supply Chain",
+        "Vendor Management"
+    ],
+    "experience": [
+        {
+            "title": "Management Trainee",
+            "company": "Company Name",
+            "start_date": "Sep 2008",
+            "end_date": "Dec 2008",
+            "description": "Role details not provided in CV."
+        },
+        {
+            "title": "Delivery Lead",
+            "company": "Company Name",
+            "start_date": "Jan 2009",
+            "end_date": "Feb 2011",
+            "description": "Role details not provided in CV."
+        },
+        {
+            "title": "Business Development Executive",
+            "company": "New project",
+            "start_date": "Nov 2011",
+            "end_date": "Jun 2014",
+            "description": "Involved in gathering business requirements from client, creating process documents for the product, working with supply chain and operations team to forecast delivery schedule. Analyzed BI data of similar projects and reduced implementation and delivery time by 22% by introducing additional station for bottleneck processes and dividing inspection stage into steps. Created test documentation for the product based on client testing requirements. Managed multiple (5+) vendors to ensure on time delivery. Closely monitored quality issues using statistical analysis, achieving 98% first pass rate which resulted in increasing profit margin by 11% in comparison with initial projection. Lead a team involved in Transfer of Technology between the Client and the Organization. Ensured satisfactory Test and Deployment on client site, in France."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science, Information Systems",
+            "school": "Georgia State University, J. Mack Robinson College of Business",
+            "year": "2018"
+        },
+        {
+            "degree": "Bachelor of Engineering, Information Science",
+            "school": "Vidyavardhaka College of Engineering",
+            "year": "2008"
+        }
+    ],
+    "certifications": [
+        "Sun Certified Java Associate"
+    ],
+    "languages": []
+}

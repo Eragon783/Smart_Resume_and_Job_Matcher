@@ -1,0 +1,73 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "Enthusiastic student majoring in Chemistry; great at performing many task in a timely matter and as efficient as possible. Strong background in computer tasks and data analysis as well as business management. Highlights General Chemistry and Organic Basic HTML coding, Microsoft Office, 3D Chemistry Laboratories including synthesis, animation, database analysis. purification, and extraction. Inventory management and sales/profit IR spectroscopy as well as analyzing NMR analysis using SQL server and various POS and Mass Spec. data. software. Graphic designing using Photoshop and Illustrator.",
+    "skills": [
+        "3D",
+        "Photoshop",
+        "advertising",
+        "animation",
+        "business management",
+        "Chemistry",
+        "computer networking",
+        "customer service",
+        "database analysis",
+        "designing",
+        "Graphic",
+        "Basic HTML",
+        "Illustrator",
+        "Inventory management",
+        "inventory",
+        "materials",
+        "Microsoft Office",
+        "NMR",
+        "Payroll",
+        "POS",
+        "profit",
+        "coding",
+        "Sales",
+        "scheduling",
+        "SQL server"
+    ],
+    "experience": [
+        {
+            "title": "Graphic Designer",
+            "company": "Company Name",
+            "start_date": "August 2009",
+            "end_date": "March 2013",
+            "description": "In charge of advertising and designing and publishing Point of Sale materials."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "August 2009",
+            "end_date": "August 2011",
+            "description": "Installing POS systems, computer networking, fuel inventory management, and Payroll management."
+        },
+        {
+            "title": "General Manager",
+            "company": "Company Name",
+            "start_date": "March 2006",
+            "end_date": "October 2014",
+            "description": "Team/ scheduling/ payroll management."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Chemistry",
+            "school": "El Camino College",
+            "year": 2015,
+            "location": "City , State"
+        },
+        {
+            "degree": "Molecular, Cellular, and Developmental Biology",
+            "school": "University Of California Los Angeles",
+            "year": 2017,
+            "location": "City , State, USA"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

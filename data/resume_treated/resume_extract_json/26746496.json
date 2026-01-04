@@ -1,0 +1,63 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Software Engineer with 2 years of web development experience focusing on front-end development. Proficient in SDLC and Agile methodologies. Experienced in designing, developing, and implementing .NET-based solutions using C#, ASP.NET, MVC, JavaScript, jQuery, CSS, HTML, XML, and AJAX. Strong background in data retrieval and manipulation with ADO.NET, Entity Framework, and LINQ; proficient in database access layers, web services, and security features including authentication and authorization. Effective collaborator in Scrum teams, delivering demos to QA and coordinating with cross-functional teams.",
+    "skills": [
+        "C#",
+        "Java",
+        "VB.Net",
+        "C",
+        "C++",
+        ".NET Framework 4.0/4.5",
+        "ASP.Net",
+        "ASP.NET MVC",
+        "ADO.Net",
+        "Entity Framework",
+        "AJAX",
+        "Web Service",
+        "LINQ",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "Bootstrap",
+        "Visual Studio",
+        "Eclipse",
+        "NetBeans",
+        "Dreamweaver",
+        "SQL",
+        "MySQL",
+        "Windows",
+        "Tortoise SVN",
+        "GitHub",
+        "Microsoft Word",
+        "Excel",
+        "Access",
+        "PowerPoint"
+    ],
+    "experience": [
+        {
+            "title": "Database Programmer/Analyst (.NET Developer)",
+            "company": "Company Name, City, State",
+            "start_date": "Jun 2014",
+            "end_date": "Feb 2016",
+            "description": "Worked as Graduate Research Assistant performing the duties of Database Programmer/Analyst at Application Development Network (ADN), DoIT, supporting University of Missouri System faculty and students through agile and rapid creation of new applications. Projects included Atlas (tutoring scheduling with roles Tutee/Tutor/Scheduler and automated emails), Occupational Therapy, AppInventory, GoAdmin, and Mizzou Checkout. Responsibilities included creating an Availability Calendar Grid, developing a C# console task for scheduled emails, modularizing the main project into class libraries for reuse, integrating CKEditor, using jQuery for filtering and search, implementing role-based authorization, participating in daily scrums, and collaborating with QA; deploying databases with Redgate SQL Compare. Employed Entity Framework with database-first approach and ADO.NET for data access, and implemented data import/export as needed."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Computer Engineering",
+            "school": "University of Missouri State",
+            "year": "Present"
+        },
+        {
+            "degree": "Bachelor of Technology in Electrical and Electronics Engineering",
+            "school": "Jawaharlal Nehru Technological University, India",
+            "year": "2013"
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

@@ -1,0 +1,66 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": null,
+    "summary": "7+ years of experience as a HR Partner with a broad background across all facets of HR, including recruitment, onboarding, performance management, employee relations and retention, staff development, mediation, conflict resolution, benefits and compensation, HR records management, HR policies, and job design and competencies. Proven ability to implement HR programs, drive engagement, and optimize processes such as performance management and 360-degree feedback.",
+    "skills": [
+        "HR Generalist",
+        "Recruitment / Talent Acquisition",
+        "Onboarding",
+        "Performance Management",
+        "Employee Relations",
+        "Staff Retention",
+        "Compensation & Benefits",
+        "Payroll Administration",
+        "HR Policies & Compliance",
+        "HRIS / SAP HR",
+        "Organizational Development",
+        "Training & Development",
+        "Data Analysis & Reporting",
+        "MS Office Suite",
+        "Sourcing & Market Research",
+        "360-Degree Feedback",
+        "Employee Engagement",
+        "Relocation & Transfers",
+        "Leave & Attendance / Timesheets",
+        "Negotiations"
+    ],
+    "experience": [
+        {
+            "title": "HR Generalist / HR Consultant",
+            "company": "HR Consulting Company Name",
+            "start_date": "2009-07",
+            "end_date": "2014-01",
+            "description": "Led HR initiatives for a 500+ employee business unit, focusing on performance management, career path development, high-potential programs, rewards and recognition optimization, internal job portal development, and 360-degree feedback for managers. Achievements include reducing employee attrition by 5%, streamlining performance management iterations, and defining clear career paths for technical and managerial tracks. Managed end-to-end compensation cycles, promotions, and disciplinary processes; conducted awareness sessions on performance management; supported succession planning and engagement surveys. Coordinated relocation, benefits administration, HRIS records, MIS reporting, and training needs."
+        },
+        {
+            "title": "HR Coordinator",
+            "company": "Company Name",
+            "start_date": "2008-07",
+            "end_date": "2009-05",
+            "description": "Handled end-to-end HR operations for the business unit, including onboarding, performance management, promotions and increments with budget considerations, 360-degree feedback, rewards and recognition, employee engagement, retention and attrition management, relocation support, HRIS data maintenance, payroll inputs, benefits administration, and training coordination. Ensured compliance and partnered with leadership to optimize HR processes for 500+ employees."
+        },
+        {
+            "title": "HR Assistant",
+            "company": "Company Name",
+            "start_date": "2007-05",
+            "end_date": "2008-06",
+            "description": "Provided HR support across recruitment, onboarding, payroll inputs, benefits administration, policy maintenance, timesheet management, and coordination of Training and Development. Assisted in maintaining HRIS records, compliance, and reporting to support daily HR operations."
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA in Human Resource Management",
+            "school": "KIMS University",
+            "year": 2007
+        },
+        {
+            "degree": "Bachelor of Commerce",
+            "school": "BNDC University / Karnataka University",
+            "year": 2005
+        }
+    ],
+    "certifications": [],
+    "languages": []
+}

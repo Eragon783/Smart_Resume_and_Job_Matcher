@@ -1,0 +1,88 @@
+{
+    "name": null,
+    "email": null,
+    "phone": null,
+    "location": "City, State",
+    "summary": "Forward thinking Mechanical Engineer with several years of experience in product design and development, process improvement, project management, and quality assurance, comprehensive understanding of design processes, manufacturing methods and sound engineering principles. Skilled in use of engineering tools such as FEA, UG NX, GD&T Lean Six Sigma with a strong understanding of engineering mechanics, principles, and materials. Demonstrated leadership skills that optimize collaboration between departments to produce high-quality aerospace hardware.",
+    "skills": [
+        "Solid Edge",
+        "UG NX6-NX10",
+        "Teamcenter",
+        "Digital Engine Visualization",
+        "GD&T",
+        "FEA",
+        "ANSYS",
+        "Modifying designs",
+        "Lean Six Sigma",
+        "Adobe Photoshop",
+        "AUTOCAD",
+        "Microsoft Projects",
+        "Microsoft Visio",
+        "Microsoft Office",
+        "Abacus",
+        "LabVIEW",
+        "Visual Basic",
+        "C++",
+        "Matlab",
+        "Data Acquisition",
+        "SolidWorks"
+    ],
+    "experience": [
+        {
+            "title": "LEAD ENGINEER - Fluid Systems and Thermal Accessories",
+            "company": "Company Name",
+            "start_date": "2016-09",
+            "end_date": "Present",
+            "description": "Design Premix Liquid Fuel delivery system for GE 9F.04 and 9HA.02. Instrument Air system design and specification for GE Gas 9F.04. Provides hazmat specification based on IBC for various gas turbine skids. Design water supply skids and accessories for purging and cooling of combustor nozzles. Conduct FMEA analysis of new products. Size and select various gas turbine accessories such fuel pump, filters, pressure transducers, water pump based off CFD and combustion requirement. Work with supplier design control valves and mixing valves for various fluid system."
+        },
+        {
+            "title": "DESIGN ENGINEER - Military & Commercial Engine Fluid Systems",
+            "company": "Company Name",
+            "start_date": "2015-06",
+            "end_date": "2016-09",
+            "description": "Provide design and redesign requirements and specifications for fluid system test hardware. Review and provide engineering substantiation for Material Review Board documents for vendor components. Investigate field related failures of military engine fluid system components. Leads component upgrades and improvement projects for fuel systems. Establishes test procedure for afterburner fuel components, fuel pumps, Mechanical engine control units. Provide technical and engineering requirement for Vendor Substantiation documents. Review and approves functional and dimensional changes to fluid system component request by vendor. Reviews and approve component repair request from vendor of military engine fluid system hardware. Provides engineering support to manufacturing engineering. Design specification for CF34 Fuel metering unit. Design specification for gear and centrifugal pumps. Investigate field related component failures. Lead cost reduction and product improvement projects. Establish test procedure such pump ripple, vibration and compressor discharge dynamic response for new hardware. Support and approve vendor design changes. Redesigned fuel metering unit components such fuel metering valves, pressuring discharge valves, electrohydraulic servo valves. Design wet rig to emulate aircraft engine environment to test hardware responses for aircraft duty cycles such as start, acceleration, idle, take-off, burst, chop, slew, and deceleration."
+        },
+        {
+            "title": "DESIGN ENGINEER - New Product Definition",
+            "company": "Company Name",
+            "start_date": "2012-02",
+            "end_date": "2015-01",
+            "description": "Performed preliminary and detail design of engine hardware. Performed and interprete FEA Analysis for design reviews and assessment. Ensured technical requirements of components are being met Assigned ITAR/Export license for both technical data and hardware. Signed off on engineering drawings. Maintained in depth knowledge of product, technical details. Conducted weekly reviews of configuration hardware to identify design and assembly issues for correction. Reviewed and approved engineering drawings for manufacturing. Collaborated with other GE partners to identify and resolve assembly issues. Reviewed Engine Assembly Drawings. Assigned work and supervise Contractors for Controls PDE. Headed Technical Document review team. Mentored new hires and co-ops. Conducted design review of hardware"
+        },
+        {
+            "title": "DESKSIDE SUPPORT TECHNICIAN / IT SUPPORT",
+            "company": "Company Name",
+            "start_date": "2007-06",
+            "end_date": "2012-01",
+            "description": "Set up, tested and configured networks, desktops, laptops and printers. Performed routine software and hardware updates. Performed routing preventative maintenance on computers. Coordinated hardware and software repair processes with outside vendors. Resolved technical issues for clients in person, on the phone and through e-mail."
+        },
+        {
+            "title": "Account Associate",
+            "company": "Company Name",
+            "start_date": "2004-09",
+            "end_date": "2007-06",
+            "description": "Set up new Xerox printers and copiers for client use. Identified equipment options to satisfy client needs. Developed new equipment training materials for clients. Gathered usage data and generate monthly usage cost. Performed maintenance of equipment."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science: Mechanical Engineering",
+            "school": "University of Dayton",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Science: Mechanical Engineering",
+            "school": "Miami University",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Science: Agricultural Engineering",
+            "school": "Kwame Nkrumah University of Science and Technology",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        "Lean Six Sigma"
+    ],
+    "languages": []
+}

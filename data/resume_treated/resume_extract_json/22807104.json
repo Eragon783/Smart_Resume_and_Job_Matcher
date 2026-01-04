@@ -1,0 +1,86 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "Experienced Assistant Manager adept at problem solving, customer service and hiring and training hardworking, quality staff. Store Manager with extensive experience in retail management and sales. Known for leadership, multitasking, and strong interpersonal skills. Motivated Shift Manager with expertise in customer relations, sales and inventory control. Demonstrated ability to improve store operations, increase top-line sales and reduce costs. 5 years in retail sales. Coaching and staff development oriented. Noted for loss prevention improvements and customer service excellence.",
+    "skills": [
+        "Accounting",
+        "Attention to detail",
+        "Back-up",
+        "Cash handling",
+        "Cash register",
+        "Cashier",
+        "Closing",
+        "Coaching",
+        "Communication",
+        "Conflict resolution",
+        "Cooking",
+        "Credit",
+        "Client",
+        "Customer satisfaction",
+        "Customer service",
+        "Documentation",
+        "English",
+        "Health and safety standards",
+        "Inventory management",
+        "Mathematics",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "POS",
+        "Policies",
+        "Pricing",
+        "Knowledge of store",
+        "Retail",
+        "Sales",
+        "Teaching",
+        "Teamwork",
+        "Written"
+    ],
+    "experience": [
+        {
+            "title": "Teacher",
+            "company": "Company Name",
+            "start_date": "August 2008",
+            "end_date": "June 2009",
+            "description": "Managed classrooms of 10 to 20 students during the absence of assigned teachers. Implemented a variety of teaching methods such as lectures, discussions and demonstrations. Established clear objectives for all lessons, units and projects. Set and communicated ground rules for the classroom based on respect and personal responsibility. Tutored children individually and in small groups to help them with difficult subjects. Taught after-school and summer enrichment programs. Established positive relationships with students, parents, fellow teachers and school administrators. Collaborated with other staff members to plan and schedule lessons promoting learning and student engagement. Employed a broad range of instructional techniques to retain student interest and maximize learning. Took appropriate disciplinary measures when students misbehaved. Worked outside normal hours to be available to answer parent and student questions. Disciplined children and recommended other measures to correct behavior. Carefully monitored children's play activities. Escorted children on outings and trips to local parks and zoos."
+        },
+        {
+            "title": "Assistant Manager",
+            "company": "Company Name",
+            "start_date": "January 2010",
+            "end_date": "Current",
+            "description": "Managed duties across multiple roles with responsibilities ranging from classroom-like supervision to operational store tasks. Maintained positive relationships with staff and clients, planned and scheduled activities, and ensured adherence to company policies. Implemented customer service initiatives, contributed to sales targets, and collaborated with colleagues to optimize store operations."
+        },
+        {
+            "title": "Cashier",
+            "company": "Company Name",
+            "start_date": "July 2014",
+            "end_date": "Current",
+            "description": "Up-sold additional menu items, beverages and desserts to increase restaurant profits. Took necessary steps to meet customer needs and effectively resolve food or service issues. Recorded customer orders and repeated them back in a clear, understandable manner. Promptly reported complaints to management. Correctly received orders, processed payments and responded appropriately to guest concerns. Served fresh, hot food with a smile in a timely manner. Communicated clearly and positively with co-workers and management. Resolved guest complaints promptly and professionally. Served orders to customers at windows, counters and tables. Operated large-volume cooking equipment. Measured ingredients, prepared beverages and portioned take-out foods. Processed payments, performed POS tasks, and maintained sanitation and safety standards. Performed general maintenance duties and ensured a neat, well-groomed appearance."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates",
+            "school": "ECU City, State, USA",
+            "year": 2019
+        },
+        {
+            "degree": "Certificate in Microsoft Excel and Word",
+            "school": "Wilson Technical Community College, State, USA",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "James B. Hunt High School, State, USA",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        "Great Customer Service Award (2015)"
+    ],
+    "languages": [
+        "English"
+    ]
+}
