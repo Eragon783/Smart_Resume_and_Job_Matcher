@@ -1,3 +1,5 @@
+> :warn: You need to download [jobs_index.faiss](https://devinci-my.sharepoint.com/personal/sarah_ounes_edu_devinci_fr/_layouts/15/guestaccess.aspx?share=IQAZta4fxG5oS6-ZUeO0vV_4AV56LaHPKu4snt0XCqS0k0c&e=mrp7Rg) and [jobs_index_mapping.json](https://devinci-my.sharepoint.com/personal/sarah_ounes_edu_devinci_fr/_layouts/15/guestaccess.aspx?share=IQBzqWv453dXQLbCvYgcOth4Af7FRNZ33Hms8iGNrjI3m0U&e=rUF7Le) and put them in "data/job_treated/" to run the project.
+
 ### Project 4: Smart Resume and Job Matcher
 
 This project focuses on building an AI-powered Resume and Job Matching System that uses embeddings, semantic search, and Generative AI reasoning to match candidates’ resumes with the most relevant job opportunities.
