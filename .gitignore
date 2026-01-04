@@ -1,7 +1,9 @@
+__pycache__/
 .env
 .venv/
-data/linkedin_offers
-old_notebooks/
-__pycache__/
 chroma/
+data/job_offer/job_descriptions.csv
+data/linkedin_offers
 faiss_index/
+old_notebooks/
+python_env
