@@ -65,7 +65,7 @@ def main():
 
     mode = {
         "Find the best job offers for your resume": "cv_to_jobs",
-        "Find the best resumes for a job offer": "job_to_cvs_upload",
+        "Find the best resumes for a job offer": "job_to_cvs",
         "Find the best resumes in the dataset for a job offer": "job_to_cvs_dataset",
         "Find the best LinkedIn's dataset job offers for your resume": "cv_to_linkedin_jobs_dataset",
         "Evaluate resume–job compatibility": "cv_job_fit",
@@ -118,7 +118,7 @@ def main():
     # ---------------------------
     # Mode: job_to_cvs_upload uplaod one job offer and several resumes
     # ---------------------------
-    elif mode == "job_to_cvs_upload":
+    elif mode == "job_to_cvs":
         st.markdown("### Job offer")
         job_offer_file = st.file_uploader("Upload a job offer (TXT)", type=["txt"])
 
@@ -224,7 +224,7 @@ def main():
         # ---------------------------
         # Display by mode
         # ---------------------------
-        if out.get("mode") in {"job_to_cvs_dataset", "cv_to_jobs", "job_to_cvs_upload", "cv_to_linkedin_jobs_dataset"}:
+        if out.get("mode") in {"job_to_cvs_dataset", "cv_to_jobs", "job_to_cvs", "cv_to_linkedin_jobs_dataset"}:
             hits = out.get("hits")
             if isinstance(hits, list):
                 st.caption(f"Pipeline returned {len(hits)} result(s).")

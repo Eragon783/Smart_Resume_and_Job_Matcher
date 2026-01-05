@@ -9,46 +9,14 @@ from langchain_openai import ChatOpenAI # type: ignore
 import json
 import re
 import json5 # type: ignore
-import prompt # type: ignore
-
-def safe_json_parse(text: str):
-    if text is None:
-        return {}, "raw_text_is_none"
-    raw = str(text).strip()
-    if not raw:
-        return {}, "raw_text_is_empty"
-
-    raw2 = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw, flags=re.IGNORECASE).strip()
-
-    try:
-        return json.loads(raw2), None
-    except Exception:
-        pass
-
-    try:
-        return json5.loads(raw2), None
-    except Exception:
-        pass
-
-    m = re.search(r"\{.*\}", raw2, flags=re.DOTALL)
-    if m:
-        chunk = m.group(0)
-        try:
-            return json.loads(chunk), None
-        except Exception:
-            try:
-                return json5.loads(chunk), None
-            except Exception as e:
-                return {}, f"extracted_json_parse_failed: {type(e).__name__}"
-
-    return {}, "no_json_object_found"
-
-#########################################################################
+from agents.prompt_templates import format_messages
+from utils.json_utils import ollama_chat
+from utils.json_utils import safe_json_parse
 
 
 load_dotenv()
 
-Mode = Literal["job_to_resumes", "resume_to_jobs", "pair_compatibility"]
+Mode = Literal["job_to_cvs", "cv_to_jobs", "cv_job_fit"]
 
 # ---------------------------
 # Output schemas
@@ -95,15 +63,15 @@ def explain_match_with_llm(
     backend: str = "OLLAMA",  # switch to OPENROUTER or OLLAMA later
 ) -> Dict[str, Any]:
 
-    if mode in ("job_to_resumes", "pair_compatibility") and not job_text:
+    if mode in ("job_to_cvs", "cv_job_fit") and not job_text:
         raise ValueError("job_text is required for this mode")
-    if mode in ("resume_to_jobs", "pair_compatibility") and not resume_text:
+    if mode in ("cv_to_jobs", "cv_job_fit") and not resume_text:
         raise ValueError("resume_text is required for this mode")
 
     llm = _build_llm(backend)
 
     if llm is None:
-        if mode == "pair_compatibility":
+        if mode == "cv_job_fit":
             decision = "medium_match" if similarity_score >= 0.45 else "weak_match"
             parsed = ExplainPair(
                 explanation=f"LLM disabled. Similarity score={similarity_score:.3f}.",
@@ -120,74 +88,46 @@ def explain_match_with_llm(
             ).model_dump()
         return {"raw_json": "", "parsed": parsed, **parsed}
 
-    # --- Prompt (better, more “human-like”)
-    system = (
-        "You are a recruitment assistant. "
-        "Be concrete: refer to specific skills/experiences mentioned. "
-        "Return ONLY valid JSON matching the required schema. No markdown."
-    )
-
-    if mode == "pair_compatibility":
+    if mode == "cv_job_fit":
         schema = ExplainPair
-        task = (
-            "Task:\n"
-            "1) explanation (4-6 lines)\n"
-            "2) strengths: 3 bullets\n"
-            "3) gaps: 3 bullets\n"
-            "4) decision: strong_match|medium_match|weak_match\n"
-            "5) advice: 3 actionable improvements for the resume to better fit THIS job\n"
-        )
     else:
         schema = ExplainRanked
-        task = (
-            "Task:\n"
-            "1) explanation (3-5 lines)\n"
-            "2) strengths: 3 bullets\n"
-            "3) gaps: 2 bullets\n"
-        )
-
-    user = (
-        f"{task}\n"
-        "Context:\n"
-        "- rank: {rank}\n"
-        "- similarity_score: {score}\n\n"
-        "JOB OFFER:\n{job}\n\n"
-        "RESUME:\n{resume}\n"
-    )
 
     backend_u = (backend or "OFF").upper()
 
-    # OPENAI/OPENROUTER: ok
     if backend_u in ("OPENAI", "OPENROUTER"):
         structured = llm.with_structured_output(schema)
-        out_obj = structured.invoke(
-            prompt.format_messages(
-                rank=top_k_rank if top_k_rank is not None else "",
-                score=f"{similarity_score:.3f}",
-                job=job_text or "",
-                resume=resume_text or "",
-            )
+
+        messages = format_messages(
+            mode=mode,
+            resume_text=resume_text or "",
+            job_text=job_text or "",
+            similarity_score=similarity_score,
+            top_k_rank=top_k_rank,
         )
+
+        out_obj = structured.invoke(messages)
         parsed = out_obj.model_dump()
         return {"raw_json": "", "parsed": parsed, **parsed}
 
-    # OLLAMA: prompt JSON + parse (NO with_structured_output)
-    messages = prompt.format_messages(
-        rank=top_k_rank if top_k_rank is not None else "",
-        score=f"{similarity_score:.3f}",
-        job=job_text or "",
-        resume=resume_text or "",
+
+    messages = format_messages(
+        mode=mode,
+        resume_text=resume_text or "",
+        job_text=job_text or "",
+        similarity_score=similarity_score,
+        top_k_rank=top_k_rank,
     )
 
-    # Force JSON-only output
-    messages[-1].content = (
+    # Force JSON-only output (messages are dicts)
+    messages[-1]["content"] = (
         "Return ONLY a valid JSON object. No markdown. No extra text.\n"
-        + messages[-1].content
+        + messages[-1]["content"]
     )
 
     raw_text = llm.invoke(messages).content or ""
-
     parsed, err = safe_json_parse(raw_text)
+
 
     # Fallback if parse failed
     if err or not isinstance(parsed, dict) or not parsed:
@@ -196,7 +136,7 @@ def explain_match_with_llm(
             "strengths": [],
             "gaps": [],
         }
-        if mode == "pair_compatibility":
+        if mode == "cv_job_fit":
             parsed.update({"decision": "weak_match", "advice": []})
 
     return {"raw_json": raw_text, "parsed": parsed, "parse_error": err, **parsed}
