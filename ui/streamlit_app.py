@@ -3,7 +3,51 @@ import pandas as pd
 from app.pipeline import run
 import json
 import re
+import urllib.request
+#######################################################
+import os, sys, platform
+st.caption(f"Python: {sys.executable}")
+st.caption(f"Platform: {platform.platform()}")
+st.caption(f"CWD: {os.getcwd()}")
 
+import requests
+
+def ollama_generate_test(model="llama3.1:8b"):
+    payload = {
+        "model": model,
+        "prompt": "Reply with exactly: OK_OLLAMA",
+        "stream": False
+    }
+    r = requests.post("http://localhost:11434/api/generate", json=payload, timeout=20)
+    r.raise_for_status()
+    return r.json().get("response", "")
+
+if st.button("Test Ollama generation"):
+    try:
+        txt = ollama_generate_test()
+        st.write(txt)
+    except Exception as e:
+        st.error(str(e))
+
+
+def ollama_healthcheck(base_url: str = "http://localhost:11434", timeout: int = 2):
+    try:
+        with urllib.request.urlopen(f"{base_url}/api/tags", timeout=timeout) as r:
+            data = json.loads(r.read().decode("utf-8"))
+        models = [m.get("name") for m in data.get("models", [])]
+        return True, models, None
+    except Exception as e:
+        return False, [], str(e)
+
+ok, models, err = ollama_healthcheck()
+if ok:
+    st.success(f"Ollama OK @ http://localhost:11434 — {len(models)} models")
+    with st.expander("Models"):
+        st.write(models)
+else:
+    st.error(f"Ollama NOT reachable: {err}")
+
+################################################################################
 def normalize_llm_payload(llm_any):
     """
     Accepts various LLM formats and returns a dict or None.
