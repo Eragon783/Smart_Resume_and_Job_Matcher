@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 from app.pipeline import run
+import json
+import re
 
 def normalize_llm_payload(llm_any):
     """
@@ -118,16 +120,12 @@ def render_hits_cards(hits):
             with st.expander("Debug (raw hit)"):
                 st.json(h)
 
-
 def label_from_score(score: float) -> str:
-    if score >= 0.65:
+    if score >= 0.60:
         return "Strong fit"
     if score >= 0.30:
         return "Moderate fit"
     return "Weak fit"
-
-import json
-import re
 
 def _as_list(x):
     if x is None:
@@ -170,22 +168,8 @@ def render_cv_job_fit(out: dict):
     score = float(out.get("similarity_score", 0.0))
     st.metric("Cosine similarity", f"{score:.4f}", label_from_score(score))
 
-    llm = out.get("llm")
-
-    # ---- normalize llm into the "final" dict we want to display
-    llm_final = None
-
-    if isinstance(llm, dict):
-        # Your case: {"raw_json": "```json {...} ```"}
-        if "raw_json" in llm and isinstance(llm["raw_json"], str):
-            llm_final = _extract_json_from_markdown(llm["raw_json"])
-        else:
-            # normal dict case
-            llm_final = llm
-
-    elif isinstance(llm, str) and llm.strip():
-        # sometimes it's directly a string
-        llm_final = _extract_json_from_markdown(llm)
+    llm = out.get("llm_explanation") or out.get("llm")
+    llm_final = normalize_llm_payload(llm)
 
     if not isinstance(llm_final, dict):
         st.info("LLM output is present but could not be parsed into JSON.")

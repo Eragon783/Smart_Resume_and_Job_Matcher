@@ -69,7 +69,6 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     explanations_errors = []
 
     if add_explanations:
-        client = build_llm_client()
         for i in range(min(explain_top_n, len(scored))):
             try:
                 llm_out = explain_match_with_llm(
