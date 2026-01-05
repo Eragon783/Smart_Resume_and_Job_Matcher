@@ -1,39 +1,35 @@
 import json
+import json5
 import re
-import requests # type: ignore
-import json5 # type: ignore
+from typing import Any, Tuple
 
-def safe_json_parse(text: str):
-    if text is None:
-        return {}, "raw_text_is_none"
-    raw = str(text).strip()
-    if not raw:
-        return {}, "raw_text_is_empty"
+def safe_json_parse(text: str) -> Tuple[Any, str | None]:
+    if not text or not isinstance(text, str):
+        return None, "empty_text"
 
-    raw2 = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw, flags=re.IGNORECASE).strip()
+    s = text.strip()
 
+    # Removing ```json fences if present
+    s = re.sub(r"^```(?:json)?\s*", "", s, flags=re.IGNORECASE).strip()
+    s = re.sub(r"\s*```$", "", s).strip()
+
+    # Extracting the largest JSON object candidate
+    start = s.find("{")
+    end = s.rfind("}")
+    if start == -1 or end == -1 or end <= start:
+        return None, "no_json_object_found"
+
+    candidate = s[start:end+1].strip()
+
+    # Trying strict JSON first, then json5
     try:
-        return json.loads(raw2), None
+        return json.loads(candidate), None
     except Exception:
-        pass
-
-    try:
-        return json5.loads(raw2), None
-    except Exception:
-        pass
-
-    m = re.search(r"\{.*\}", raw2, flags=re.DOTALL)
-    if m:
-        chunk = m.group(0)
         try:
-            return json.loads(chunk), None
-        except Exception:
-            try:
-                return json5.loads(chunk), None
-            except Exception as e:
-                return {}, f"extracted_json_parse_failed: {type(e).__name__}"
+            return json5.loads(candidate), None
+        except Exception as e:
+            return None, f"extracted_json_parse_failed: {type(e).__name__}"
 
-    return {}, "no_json_object_found"
 
 def ollama_chat(
     *,

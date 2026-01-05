@@ -27,22 +27,32 @@ def format_messages(
     # -------------------------
     if mode == "cv_job_fit":
         user_prompt = f"""
-Analyze the compatibility between the following resume and job offer.
+    You must evaluate the FIT between the RESUME and the JOB OFFER.
 
-Cosine similarity score: {similarity_score}
+    Cosine similarity score: {similarity_score}
 
-JOB OFFER:
-{job_text}
+    JOB OFFER:
+    {job_text}
 
-RESUME:
-{resume_text}
+    RESUME:
+    {resume_text}
 
-Return:
-1. A short explanation (3–6 lines)
-2. Strengths (bullet points)
-3. Gaps / missing elements (bullet points)
-4. Concrete suggestions to improve the resume for this job (bullet points)
-"""
+    Return ONLY raw JSON with EXACTLY these keys (no extra keys):
+    {{
+    "explanation": "string (4-6 lines)",
+    "strengths": ["string", "string", "string"],
+    "gaps": ["string", "string", "string"],
+    "decision": "strong_match|medium_match|weak_match",
+    "advice": ["string", "string", "string"]
+    }}
+
+    Rules:
+    - Do NOT output keys like TEXT_A, TEXT_B, job_title, required_skills, ideal_candidate, compatibility, reasons.
+    - Use ONLY info from the provided texts (no invention).
+    - No markdown, no code block, only JSON.
+    """
+
+
 
     # -------------------------
     # MODE: One Job → Many Resumes

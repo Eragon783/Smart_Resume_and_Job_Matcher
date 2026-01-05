@@ -49,7 +49,7 @@ def _build_llm(backend: str = "OFF"):
 
     if backend == "OLLAMA":
         model = os.getenv("OLLAMA_MODEL", "llama3.1")
-        return ChatOllama(model=model, temperature=0.2)
+        return ChatOllama(model=model, temperature=0.0)
 
     raise ValueError(f"Unknown backend: {backend}")
 
@@ -120,10 +120,20 @@ def explain_match_with_llm(
     )
 
     # Force JSON-only output (messages are dicts)
-    messages[-1]["content"] = (
-        "Return ONLY a valid JSON object. No markdown. No extra text.\n"
-        + messages[-1]["content"]
-    )
+
+    if mode == "cv_job_fit":
+        messages[-1]["content"] = (
+            "IMPORTANT: return JSON with keys: explanation, strengths, gaps, decision, advice. "
+            "No other keys.\n"
+            + messages[-1]["content"]
+        )
+    else:
+        messages[-1]["content"] = (
+            "Return ONLY a valid JSON object. No markdown. No extra text.\n"
+            + messages[-1]["content"]
+        )
+
+    print("DEBUG PROMPT (last user msg):", messages[-1]["content"][:300])
 
     raw_text = llm.invoke(messages).content or ""
     parsed, err = safe_json_parse(raw_text)
