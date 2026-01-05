@@ -12,22 +12,19 @@ st.caption(f"CWD: {os.getcwd()}")
 
 import requests
 
-def ollama_generate_test(model="llama3.1:8b"):
-    payload = {
-        "model": model,
-        "prompt": "Reply with exactly: OK_OLLAMA",
-        "stream": False
-    }
-    r = requests.post("http://localhost:11434/api/generate", json=payload, timeout=20)
+def ollama_generate_test(model="llama3.1:latest"):
+    url = "http://localhost:11434/api/generate" 
+    payload = {"model": model, "prompt": "Reply with exactly: OK_OLLAMA", "stream": False}
+    r = requests.post(url, json=payload, timeout=60)
     r.raise_for_status()
     return r.json().get("response", "")
 
 if st.button("Test Ollama generation"):
     try:
-        txt = ollama_generate_test()
-        st.write(txt)
+        st.success(ollama_generate_test()) 
     except Exception as e:
         st.error(str(e))
+
 
 
 def ollama_healthcheck(base_url: str = "http://localhost:11434", timeout: int = 2):
@@ -61,10 +58,21 @@ def normalize_llm_payload(llm_any):
         return None
 
     if isinstance(llm_any, dict):
+        # ✅ NEW: si l'agent renvoie déjà un dict exploitable, on le garde tel quel
+        if any(k in llm_any for k in ("explanation", "summary", "strengths", "gaps", "decision", "advice")):
+            return llm_any
+
+        # ✅ NEW: si l'agent fournit un champ "parsed", on le prend
+        if "parsed" in llm_any and isinstance(llm_any["parsed"], dict):
+            return llm_any["parsed"]
+
+        # (ton ancien comportement)
         if "raw_json" in llm_any and isinstance(llm_any["raw_json"], str):
             parsed = _extract_json_from_markdown(llm_any["raw_json"])
             return parsed if isinstance(parsed, dict) else None
+
         return llm_any
+
 
     if isinstance(llm_any, str) and llm_any.strip():
         parsed = _extract_json_from_markdown(llm_any)
@@ -213,15 +221,35 @@ def render_cv_job_fit(out: dict):
     st.metric("Cosine similarity", f"{score:.4f}", label_from_score(score))
 
     llm = out.get("llm_explanation") or out.get("llm")
+
+    # ✅ Cas 1: aucun output LLM
+    if llm is None:
+        st.warning("LLM did not return any output.")
+        with st.expander("Diagnostics", expanded=True):
+            st.json(out.get("diagnostics", {}))
+        return
+
     llm_final = normalize_llm_payload(llm)
 
+    # ✅ Cas 2: output présent mais non parsable en dict
     if not isinstance(llm_final, dict):
-        st.info("LLM output is present but could not be parsed into JSON.")
+        st.warning("LLM returned output but it could not be parsed into JSON.")
         with st.expander("LLM raw output", expanded=True):
             st.write(llm)
         with st.expander("Diagnostics", expanded=False):
             st.json(out.get("diagnostics", {}))
         return
+
+    # ✅ Cas 3: dict OK, mais parse_error disponible (si ton agent l'ajoute)
+    parse_error = llm_final.get("parse_error") or (llm.get("parse_error") if isinstance(llm, dict) else None)
+    raw_json = (llm.get("raw_json") if isinstance(llm, dict) else None)
+
+    if parse_error:
+        st.warning(f"LLM JSON parsing warning: {parse_error}")
+        if raw_json:
+            with st.expander("LLM raw output", expanded=False):
+                st.write(raw_json)
+
 
     decision = llm_final.get("decision", "N/A")
     explanation = llm_final.get("explanation", "")

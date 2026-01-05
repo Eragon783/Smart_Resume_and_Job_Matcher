@@ -11,29 +11,25 @@ import re
 import json5
 import prompt
 
-def safe_json_parse(text: str) -> tuple[dict, str | None]:
+def safe_json_parse(text: str):
     if text is None:
         return {}, "raw_text_is_none"
     raw = str(text).strip()
     if not raw:
         return {}, "raw_text_is_empty"
 
-    # remove ```json fences
     raw2 = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw, flags=re.IGNORECASE).strip()
 
-    # try json
     try:
         return json.loads(raw2), None
     except Exception:
         pass
 
-    # try json5 (tolerant)
     try:
         return json5.loads(raw2), None
     except Exception:
         pass
 
-    # extract first {...}
     m = re.search(r"\{.*\}", raw2, flags=re.DOTALL)
     if m:
         chunk = m.group(0)
@@ -46,6 +42,7 @@ def safe_json_parse(text: str) -> tuple[dict, str | None]:
                 return {}, f"extracted_json_parse_failed: {type(e).__name__}"
 
     return {}, "no_json_object_found"
+
 #########################################################################
 
 
@@ -160,7 +157,7 @@ def explain_match_with_llm(
 
     backend_u = (backend or "OFF").upper()
 
-    # ✅ OpenAI / OpenRouter : tu peux garder structured output
+    # OPENAI/OPENROUTER: ok
     if backend_u in ("OPENAI", "OPENROUTER"):
         structured = llm.with_structured_output(schema)
         out_obj = structured.invoke(
@@ -172,19 +169,9 @@ def explain_match_with_llm(
             )
         )
         parsed = out_obj.model_dump()
-        return {
-            "raw_json": json.dumps(parsed, ensure_ascii=False),
-            "parsed": parsed,
-            **parsed
-        }
+        return {"raw_json": "", "parsed": parsed, **parsed}
 
-    # ✅ Ollama : PAS de with_structured_output → prompt JSON + parse
-    # On demande un JSON strict (sans markdown)
-    json_instruction = (
-        "Return ONLY a valid JSON object with the EXACT keys required by the schema. "
-        "No extra text, no markdown, no explanations outside JSON."
-    )
-
+    # OLLAMA: prompt JSON + parse (NO with_structured_output)
     messages = prompt.format_messages(
         rank=top_k_rank if top_k_rank is not None else "",
         score=f"{similarity_score:.3f}",
@@ -192,13 +179,17 @@ def explain_match_with_llm(
         resume=resume_text or "",
     )
 
-    # On injecte l’instruction JSON dans le dernier message utilisateur
-    messages[-1].content = json_instruction + "\n\n" + messages[-1].content
+    # Force JSON-only output
+    messages[-1].content = (
+        "Return ONLY a valid JSON object. No markdown. No extra text.\n"
+        + messages[-1].content
+    )
 
-    raw_text = llm.invoke(messages).content  # <- Ollama renvoie du texte
+    raw_text = llm.invoke(messages).content or ""
+
     parsed, err = safe_json_parse(raw_text)
 
-    # fallback minimal si parsing échoue
+    # Fallback if parse failed
     if err or not isinstance(parsed, dict) or not parsed:
         parsed = {
             "explanation": raw_text.strip()[:1200] if raw_text else "No LLM output.",
@@ -207,11 +198,5 @@ def explain_match_with_llm(
         }
         if mode == "pair_compatibility":
             parsed.update({"decision": "weak_match", "advice": []})
-        err = err or "invalid_or_empty_json"
 
-    return {
-        "raw_json": raw_text,
-        "parsed": parsed,
-        "parse_error": err,
-        **parsed
-    }
+    return {"raw_json": raw_text, "parsed": parsed, "parse_error": err, **parsed}
