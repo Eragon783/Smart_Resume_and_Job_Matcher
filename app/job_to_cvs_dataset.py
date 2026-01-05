@@ -1,7 +1,7 @@
 from typing import Dict, Any
 import os
 from ingestion.loaders import clean_text
-from agents.explainer_agent import explain_match_with_llm, build_llm_client
+from agents.explainer_agent import explain_match_with_llm
 from app.matching import search_index, _decode_txt_bytes
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:

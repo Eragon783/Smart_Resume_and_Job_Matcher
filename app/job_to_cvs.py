@@ -2,7 +2,7 @@ from __future__ import annotations
 from typing import Dict, Any, List
 from sentence_transformers import SentenceTransformer
 from ingestion.loaders import clean_text
-from agents.explainer_agent import explain_match_with_llm, build_llm_client
+from agents.explainer_agent import explain_match_with_llm
 from app.cv_job_fit import _extract_pdf_text_from_bytes, _cosine_similarity
 from app.matching import _decode_txt_bytes
 

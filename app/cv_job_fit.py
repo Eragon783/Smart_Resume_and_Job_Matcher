@@ -2,7 +2,7 @@ from __future__ import annotations
 from typing import Dict, Any
 from sentence_transformers import SentenceTransformer
 from ingestion.loaders import clean_text  # reuse 
-from agents.explainer_agent import explain_match_with_llm, build_llm_client  # reuse 
+from agents.explainer_agent import explain_match_with_llm  # reuse 
 from app.matching import _decode_txt_bytes, _extract_pdf_text_from_bytes, _cosine_similarity
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
