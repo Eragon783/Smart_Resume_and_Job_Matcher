@@ -1,15 +1,15 @@
 from __future__ import annotations
 from typing import Literal, Optional, Dict, Any
-from langchain_ollama import ChatOllama
+from langchain_ollama import ChatOllama # type: ignore
 import os
-from dotenv import load_dotenv
-from pydantic import BaseModel, Field
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_openai import ChatOpenAI
+from dotenv import load_dotenv # pyright: ignore[reportMissingImports]
+from pydantic import BaseModel, Field # type: ignore
+from langchain_core.prompts import ChatPromptTemplate # type: ignore
+from langchain_openai import ChatOpenAI # type: ignore
 import json
 import re
-import json5
-import prompt
+import json5 # type: ignore
+import prompt # type: ignore
 
 def safe_json_parse(text: str):
     if text is None:
