@@ -54,7 +54,7 @@ def explain_match_with_llm(
     job_text: Optional[str] = None,
     resume_text: Optional[str] = None,
     top_k_rank: Optional[int] = None,
-    backend: str = "OFF",  # switch to OPENROUTER or OLLAMA later
+    backend: str = "OLLAMA",  # switch to OPENROUTER or OLLAMA later
 ) -> Dict[str, Any]:
 
     if mode in ("job_to_resumes", "pair_compatibility") and not job_text:
@@ -64,7 +64,6 @@ def explain_match_with_llm(
 
     llm = _build_llm(backend)
 
-    # --- OFFLINE fallback (so your app never breaks)
     if llm is None:
         if mode == "pair_compatibility":
             decision = "medium_match" if similarity_score >= 0.45 else "weak_match"

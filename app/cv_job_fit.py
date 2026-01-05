@@ -43,7 +43,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
                 similarity_score=sim,
                 job_text=job_text,
                 resume_text=resume_text,
-                backend="OPENROUTER",
+                backend="OLLAMA",
             )
         except Exception as e:
             llm_error = str(e)
