@@ -148,38 +148,32 @@ def process_resumes(input_folder: str, output_folder: str):
 
 def normalize_llm_payload(llm_any):
     """
-    Accepts various LLM formats and returns a dict or None.
-    Supported:
-      - dict already parsed
-      - dict with {"raw_json": "```json {...}```"}
-      - string containing ```json {...}```
-      - string that is JSON
+    Normalize LLM outputs for DISPLAY purposes only.
+    We only accept explanation-style outputs.
     """
     if llm_any is None:
         return None
 
+    # Case 1: agent already returned parsed explanation
     if isinstance(llm_any, dict):
-        # ✅ NEW: si l'agent renvoie déjà un dict exploitable, on le garde tel quel
-        if any(k in llm_any for k in ("explanation", "summary", "strengths", "gaps", "decision", "advice")):
+        if "explanation" in llm_any:
             return llm_any
 
-        # ✅ NEW: si l'agent fournit un champ "parsed", on le prend
-        if "parsed" in llm_any and isinstance(llm_any["parsed"], dict):
-            return llm_any["parsed"]
+        # If wrapped format {raw_json, parsed}
+        parsed = llm_any.get("parsed")
+        if isinstance(parsed, dict) and "explanation" in parsed:
+            return parsed
 
-        # (ton ancien comportement)
-        if "raw_json" in llm_any and isinstance(llm_any["raw_json"], str):
-            parsed = _extract_json_from_markdown(llm_any["raw_json"])
-            return parsed if isinstance(parsed, dict) else None
+        return None  # 🚫 reject CV parsing outputs
 
-        return llm_any
-
-
+    # Case 2: raw string → try extract JSON
     if isinstance(llm_any, str) and llm_any.strip():
         parsed = _extract_json_from_markdown(llm_any)
-        return parsed if isinstance(parsed, dict) else None
+        if isinstance(parsed, dict) and "explanation" in parsed:
+            return parsed
 
     return None
+
 
 
 def render_hits_table(hits):
@@ -331,6 +325,12 @@ def render_cv_job_fit(out: dict):
         return
 
     llm_final = normalize_llm_payload(llm)
+    if not llm_final:
+        st.warning("LLM output ignored (invalid explanation format).")
+        with st.expander("Raw LLM output"):
+            st.write(llm)
+        return
+
 
     # ✅ Cas 2: output présent mais non parsable en dict
     if not isinstance(llm_final, dict):

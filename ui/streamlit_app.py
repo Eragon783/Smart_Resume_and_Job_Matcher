@@ -193,7 +193,11 @@ def main():
     # ---------------------------
     if st.button("Run"):
         inputs = {
-            "resume_file_bytes": resume_file.getvalue() if resume_file else None,
+            #"resume_file_bytes": resume_file.getvalue() if resume_file else None,
+            "resume_file": (
+                {"filename": resume_file.name, "bytes": resume_file.getvalue()}
+                if resume_file else None
+            ),
             "job_offer_file": (
                 {"filename": job_offer_file.name, "bytes": job_offer_file.getvalue()}
                 if job_offer_file else None

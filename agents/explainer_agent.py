@@ -133,8 +133,6 @@ def explain_match_with_llm(
             + messages[-1]["content"]
         )
 
-    print("DEBUG PROMPT (last user msg):", messages[-1]["content"][:300])
-
     raw_text = llm.invoke(messages).content or ""
     parsed, err = safe_json_parse(raw_text)
 
