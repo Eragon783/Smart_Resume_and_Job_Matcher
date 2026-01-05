@@ -78,7 +78,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
                     job_text=job_text,
                     resume_text=scored[i]["resume_text"],
                     top_k_rank=i + 1,
-                    client=client,
+                    backend="OPENROUTER",  # ou "OLLAMA" plus tard
                 )
                 hits[i]["llm_explanation"] = llm_out
             except Exception as e:

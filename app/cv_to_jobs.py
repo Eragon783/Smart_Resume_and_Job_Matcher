@@ -79,11 +79,12 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
                 # Using existing explainer. We rely on your agent to include advice.
                 # If it returns raw_json in markdown, your Streamlit renderer already handles it.
                 llm_out = explain_match_with_llm(
-                    mode="pair_compatibility",
+                    mode="resume_to_jobs",
                     similarity_score=scored[i]["score"],
                     job_text=scored[i]["job_text"],
                     resume_text=resume_text,
-                    client=client,
+                    top_k_rank=i + 1,
+                    backend="OPENROUTER",
                 )
                 hits[i]["llm_explanation"] = llm_out
             except Exception as e:

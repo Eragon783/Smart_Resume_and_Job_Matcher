@@ -38,13 +38,12 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
 
     if add_explanations:
         try:
-            client = build_llm_client()
             llm = explain_match_with_llm(
                 mode="pair_compatibility",
                 similarity_score=sim,
                 job_text=job_text,
                 resume_text=resume_text,
-                client=client,
+                backend="OPENROUTER",
             )
         except Exception as e:
             llm_error = str(e)

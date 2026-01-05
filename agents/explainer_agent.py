@@ -1,47 +1,51 @@
 from __future__ import annotations
-
 from typing import Literal, Optional, Dict, Any
-import os
-import json
-from openai import OpenAI
-from dotenv import load_dotenv
 
+import os
+from dotenv import load_dotenv
+from pydantic import BaseModel, Field
+from langchain_core.prompts import ChatPromptTemplate
 
 load_dotenv()
+
 Mode = Literal["job_to_resumes", "resume_to_jobs", "pair_compatibility"]
 
+# ---------------------------
+# Output schemas
+# ---------------------------
+class ExplainRanked(BaseModel):
+    explanation: str = Field(..., description="3-5 lines explaining the match")
+    strengths: list[str] = Field(default_factory=list, description="3 bullets")
+    gaps: list[str] = Field(default_factory=list, description="2 bullets")
 
-def build_llm_client() -> OpenAI:
-    # ✅ Ensuring .env is loaded even if imported weirdly
-    load_dotenv()
+class ExplainPair(BaseModel):
+    explanation: str = Field(..., description="4-6 lines explaining compatibility")
+    strengths: list[str] = Field(default_factory=list, description="3 bullets")
+    gaps: list[str] = Field(default_factory=list, description="3 bullets")
+    decision: Literal["strong_match", "medium_match", "weak_match"]
+    advice: list[str] = Field(default_factory=list, description="3 actionable tips to improve the resume for THIS job")
 
-    base_url = os.getenv("OPENAI_BASE_URL", "https://openrouter.ai/api/v1")
-    api_key = os.getenv("OPENAI_API_KEY")
+def _build_llm(backend: str = "OFF"):
+    backend = (backend or "OFF").upper()
 
-    if not api_key:
-        raise RuntimeError(
-            "OPENAI_API_KEY is missing. Put it in your .env or export it in your environment."
-        )
-
-    return OpenAI(base_url=base_url, api_key=api_key)
-
-
-def _try_parse_json(raw: str) -> Optional[Dict[str, Any]]:
-    if not raw:
-        return None
-    text = raw.strip()
-
-    # Handling ```json ... ``` fences
-    if text.startswith("```"):
-        text = text.strip("`").strip()
-        if "\n" in text:
-            text = text.split("\n", 1)[1].strip()
-
-    try:
-        return json.loads(text)
-    except Exception:
+    if backend == "OFF":
         return None
 
+    if backend in ("OPENROUTER", "OPENAI"):
+        from langchain_openai import ChatOpenAI
+        base_url = os.getenv("OPENAI_BASE_URL", "https://openrouter.ai/api/v1")
+        api_key = os.getenv("OPENAI_API_KEY")
+        model = os.getenv("OPENAI_MODEL", "openai/gpt-4o-mini")
+        if not api_key:
+            raise RuntimeError("Missing OPENAI_API_KEY in .env")
+        return ChatOpenAI(base_url=base_url, api_key=api_key, model=model, temperature=0.2)
+
+    if backend == "OLLAMA":
+        from langchain_community.chat_models import ChatOllama
+        model = os.getenv("OLLAMA_MODEL", "llama3.1")
+        return ChatOllama(model=model, temperature=0.2)
+
+    raise ValueError(f"Unknown backend: {backend}")
 
 def explain_match_with_llm(
     *,
@@ -50,100 +54,81 @@ def explain_match_with_llm(
     job_text: Optional[str] = None,
     resume_text: Optional[str] = None,
     top_k_rank: Optional[int] = None,
-    model: str = "openai/gpt-4o-mini",
-    client: Optional[OpenAI] = None,
+    backend: str = "OFF",  # switch to OPENROUTER or OLLAMA later
 ) -> Dict[str, Any]:
-    """
-    Returns always:
-      - raw_json: str
-      - parsed: dict|None
 
-    And if parsed is valid JSON:
-      - explanation, strengths, gaps, decision (optional)
-    """
-
-    if client is None:
-        client = build_llm_client()
-
-    # Basic validation
     if mode in ("job_to_resumes", "pair_compatibility") and not job_text:
         raise ValueError("job_text is required for this mode")
     if mode in ("resume_to_jobs", "pair_compatibility") and not resume_text:
         raise ValueError("resume_text is required for this mode")
 
-    if mode == "job_to_resumes":
-        header = f"""
-You are a recruitment assistant.
-We queried the system with a JOB OFFER and retrieved a candidate RESUME.
-Your goal is to explain why this resume is relevant to the job.
+    llm = _build_llm(backend)
 
-Context:
-- This resume is ranked #{top_k_rank} among the retrieved candidates.
-- Similarity score (cosine similarity) = {similarity_score:.3f}
-"""
-        task = """
-Task:
-1) Explain in 3-5 lines why this resume matches the job.
-2) List 3 key strengths (bullet points).
-3) List 2 gaps / missing points (bullet points).
-Return ONLY valid JSON with keys: explanation, strengths, gaps.
-"""
+    # --- OFFLINE fallback (so your app never breaks)
+    if llm is None:
+        if mode == "pair_compatibility":
+            decision = "medium_match" if similarity_score >= 0.45 else "weak_match"
+            parsed = ExplainPair(
+                explanation=f"LLM disabled. Similarity score={similarity_score:.3f}.",
+                strengths=["Semantic similarity suggests overlap."],
+                gaps=["LLM reasoning disabled (backend=OFF)."],
+                decision=decision,
+                advice=["Enable backend=OPENROUTER or backend=OLLAMA to get real advice."]
+            ).model_dump()
+        else:
+            parsed = ExplainRanked(
+                explanation=f"LLM disabled. Similarity score={similarity_score:.3f}.",
+                strengths=["Semantic similarity suggests overlap."],
+                gaps=["LLM reasoning disabled (backend=OFF)."],
+            ).model_dump()
+        return {"raw_json": "", "parsed": parsed, **parsed}
 
-    elif mode == "resume_to_jobs":
-        header = f"""
-You are a recruitment assistant.
-We queried the system with a RESUME and retrieved a JOB OFFER.
-Your goal is to explain why this job offer fits the candidate profile.
-
-Context:
-- This job offer is ranked #{top_k_rank} among the retrieved offers.
-- Similarity score (cosine similarity) = {similarity_score:.3f}
-"""
-        task = """
-Task:
-1) Explain in 3-5 lines why this job offer matches the resume.
-2) List 3 key strengths / fit elements (bullet points).
-3) List 2 risks / mismatches (bullet points).
-Return ONLY valid JSON with keys: explanation, strengths, gaps.
-"""
-
-    else:  # pair_compatibility
-        header = f"""
-You are a recruitment assistant.
-We are evaluating the compatibility between ONE resume and ONE job offer.
-
-Context:
-- Similarity score (cosine similarity) = {similarity_score:.3f}
-"""
-        task = """
-Task:
-1) Provide a short explanation (4-6 lines).
-2) List 3 strengths (bullet points).
-3) List 3 gaps (bullet points).
-4) Give a final decision among: strong_match, medium_match, weak_match.
-Return ONLY valid JSON with keys: explanation, strengths, gaps, decision.
-"""
-
-    content = header + "\n" + task + "\n\n"
-    if job_text:
-        content += f"JOB OFFER:\n{job_text}\n\n"
-    if resume_text:
-        content += f"RESUME:\n{resume_text}\n\n"
-
-    resp = client.chat.completions.create(
-        model=model,
-        temperature=0.2,
-        messages=[{"role": "user", "content": content}],
+    # --- Prompt (better, more “human-like”)
+    system = (
+        "You are a recruitment assistant. "
+        "Be concrete: refer to specific skills/experiences mentioned. "
+        "Return ONLY valid JSON matching the required schema. No markdown."
     )
 
-    raw = (resp.choices[0].message.content or "").strip()
-    parsed = _try_parse_json(raw)
+    if mode == "pair_compatibility":
+        schema = ExplainPair
+        task = (
+            "Task:\n"
+            "1) explanation (4-6 lines)\n"
+            "2) strengths: 3 bullets\n"
+            "3) gaps: 3 bullets\n"
+            "4) decision: strong_match|medium_match|weak_match\n"
+            "5) advice: 3 actionable improvements for the resume to better fit THIS job\n"
+        )
+    else:
+        schema = ExplainRanked
+        task = (
+            "Task:\n"
+            "1) explanation (3-5 lines)\n"
+            "2) strengths: 3 bullets\n"
+            "3) gaps: 2 bullets\n"
+        )
 
-    out: Dict[str, Any] = {"raw_json": raw, "parsed": parsed}
+    user = (
+        f"{task}\n"
+        "Context:\n"
+        "- rank: {rank}\n"
+        "- similarity_score: {score}\n\n"
+        "JOB OFFER:\n{job}\n\n"
+        "RESUME:\n{resume}\n"
+    )
 
-    if isinstance(parsed, dict):
-        for k in ("explanation", "strengths", "gaps", "decision"):
-            if k in parsed:
-                out[k] = parsed[k]
+    prompt = ChatPromptTemplate.from_messages([("system", system), ("user", user)])
+    structured = llm.with_structured_output(schema)
 
-    return out
+    out_obj = structured.invoke(
+        prompt.format_messages(
+            rank=top_k_rank if top_k_rank is not None else "",
+            score=f"{similarity_score:.3f}",
+            job=job_text or "",
+            resume=resume_text or "",
+        )
+    )
+
+    parsed = out_obj.model_dump()
+    return {"raw_json": "", "parsed": parsed, **parsed}
