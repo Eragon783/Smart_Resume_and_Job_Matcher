@@ -21,11 +21,6 @@ Mode = Literal["job_to_cvs", "cv_to_jobs", "cv_job_fit"]
 # ---------------------------
 # Output schemas
 # ---------------------------
-class ExplainRanked(BaseModel):
-    explanation: str = Field(..., description="3-5 lines explaining the match")
-    strengths: list[str] = Field(default_factory=list, description="3 bullets")
-    gaps: list[str] = Field(default_factory=list, description="2 bullets")
-
 class ExplainPair(BaseModel):
     explanation: str = Field(..., description="4-6 lines explaining compatibility")
     strengths: list[str] = Field(default_factory=list, description="3 bullets")
@@ -42,7 +37,7 @@ def _build_llm(backend: str = "OFF"):
     if backend in ("OPENROUTER", "OPENAI"):
         base_url = os.getenv("OPENAI_BASE_URL", "https://openrouter.ai/api/v1")
         api_key = os.getenv("OPENAI_API_KEY")
-        model = os.getenv("OPENAI_MODEL", "openai/gpt-4o-mini")
+        model = os.getenv("OPENAI_MODEL", "openai/gpt-oss-120b")
         if not api_key:
             raise RuntimeError("Missing OPENAI_API_KEY in .env")
         return ChatOpenAI(base_url=base_url, api_key=api_key, model=model, temperature=0.2)

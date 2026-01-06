@@ -71,6 +71,8 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     add_explanations = bool(inputs.get("add_explanations") or False)
     explain_top_n = int(inputs.get("explain_top_n") or 3)
     explanations_errors = []
+    
+    backend = (inputs.get("llm_backend") or "OLLAMA").upper()
 
     if add_explanations:
         for i in range(min(explain_top_n, len(scored))):
@@ -83,7 +85,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
                     job_text=scored[i]["job_text"],
                     resume_text=resume_text,
                     top_k_rank=i + 1,
-                    backend="OLLAMA",
+                    backend= backend,
                 )
                 hits[i]["llm_explanation"] = llm_out
             except Exception as e:

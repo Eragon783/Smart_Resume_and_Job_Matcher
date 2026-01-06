@@ -33,22 +33,7 @@ The system performs the following steps:
 
 Only step 2 requires access to a remote LLM API.
 
----
 
-## Project Structure
-
-Smart_Resume_and_Job_Matcher  
-├── .env                  (local file, not committed)  
-├── .gitignore  
-├── README.md  
-├── requirements.txt  
-├── agents/               (LLM-related logic: structuring, matching)  
-├── ingestion/            (loaders, cleaners, embeddings)  
-├── notebooks/            (execution and evaluation notebooks)  
-├── data/                 (resumes, jobs, generated outputs)  
-└── app/                  (pipeline orchestration, optional)
-
----
 
 ## Requirements
 

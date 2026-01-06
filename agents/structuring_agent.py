@@ -50,6 +50,16 @@ def build_ollama_llm() -> ChatOllama:
     model = os.getenv("OLLAMA_MODEL", "llama3.1")
     return ChatOllama(model=model, temperature=0.0)
 
+from langchain_openai import ChatOpenAI
+
+def build_openrouter_llm():
+    return ChatOpenAI(
+        base_url=os.getenv("OPENAI_BASE_URL", "https://openrouter.ai/api/v1"),
+        api_key=os.getenv("OPENAI_API_KEY"),
+        model=os.getenv("OPENAI_MODEL", "openai/gpt-oss-20b"),
+        temperature=0.1,
+    )
+
 
 # ---------------------------
 # Prompt + Chain
@@ -91,8 +101,10 @@ def build_parsing_chain(llm: ChatOllama):
 # ---------------------------
 # Parsing functions
 # ---------------------------
-def parse_resume_with_llm(text: str, *, llm: Optional[ChatOllama] = None) -> Optional[dict]:
-    llm = llm or build_ollama_llm()
+def parse_resume_with_llm(text: str, *, use_openrouter: bool = False, llm=None):
+    if llm is None:
+        llm = build_openrouter_llm() if use_openrouter else build_ollama_llm()
+
     prompt, structured_llm = build_parsing_chain(llm)
 
     try:
@@ -106,19 +118,15 @@ def parse_resume_with_llm(text: str, *, llm: Optional[ChatOllama] = None) -> Opt
         return None
 
 
-def parse_single_resume(path: str, max_retries: int = 5) -> Optional[dict]:
+def parse_single_resume(path: str, *, use_openrouter: bool = False, max_retries: int = 5) -> Optional[dict]:
     with open(path, "r", encoding="utf-8", errors="ignore") as f:
         text = f.read().strip()
 
-    # Optional: avoid extremely long inputs (can slow/kill local models)
-    # You can tune this threshold if needed.
     if len(text) > 50_000:
         text = text[:50_000]
 
-    llm = build_ollama_llm()
-
-    for _ in range(1, max_retries + 1):
-        parsed = parse_resume_with_llm(text, llm=llm)
+    for _ in range(max_retries):
+        parsed = parse_resume_with_llm(text, use_openrouter=use_openrouter)
         if parsed:
             return parsed
         sleep(1)
@@ -139,7 +147,7 @@ def process_resumes(input_folder: str, output_folder: str):
         if os.path.exists(output_path):
             continue
 
-        parsed = parse_single_resume(input_path)
+        parsed = parse_single_resume(input_path, use_openrouter=False)
         if not parsed:
             continue
 

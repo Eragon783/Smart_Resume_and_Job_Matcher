@@ -7,17 +7,19 @@ def format_messages(
     top_k_rank: int | None = None,
 ):
     system_prompt = (
-        "You are an expert recruitment assistant.\n"
+        "You are a senior technical recruiter and career coach.\n"
+        "Your explanations are precise, evidence-based, and non-generic.\n"
         "You MUST return ONLY valid raw JSON (no markdown, no code fences).\n"
         "Use ONLY the information available in the provided fields.\n"
-        "If some information is missing, say so explicitly and give best-effort advice.\n"
-        "Do not invent companies, degrees, years, or specific technologies not present.\n"
+        "Do NOT invent companies, degrees, years, job titles, or technologies not present.\n"
+        "Avoid generic claims (e.g., 'team player') unless explicitly supported.\n"
+        "When possible, include short evidence quotes (3–10 words) from the texts.\n"
+        "Always map strengths/gaps to job requirements.\n"
     )
 
     rank_info = f"Rank: #{top_k_rank}" if top_k_rank else "Rank: N/A"
     sim_info = f"{similarity_score:.3f}" if isinstance(similarity_score, (int, float)) else "N/A"
 
-    # Important: allow empty texts (dataset modes)
     resume_block = resume_text.strip() if resume_text and resume_text.strip() else "N/A"
     job_block = job_text.strip() if job_text and job_text.strip() else "N/A"
 
@@ -26,27 +28,38 @@ Mode: {mode}
 {rank_info}
 Cosine similarity score: {sim_info}
 
-JOB CONTEXT (may be partial, may be only a title/url/filename):
+MODE-SPECIFIC GOAL:
+- If mode == "cv_to_jobs": explain why THIS job offer matches THIS resume (use resume evidence).
+- If mode == "job_to_cvs": explain why THIS resume matches THIS job (map to job requirements).
+- If mode == "cv_job_fit": be the most detailed and strict.
+
+JOB CONTEXT:
 {job_block}
 
-RESUME CONTEXT (may be partial, may be only a filename/id):
+RESUME CONTEXT:
 {resume_block}
 
 Return ONLY raw JSON with EXACTLY these keys (no extra keys):
 {{
-  "explanation": "string (4-6 lines, mention if context is partial)",
+  "explanation": "string (4-6 lines, must mention if context is partial)",
   "strengths": ["string", "string", "string"],
   "gaps": ["string", "string", "string"],
   "decision": "strong_match|medium_match|weak_match",
   "advice": ["string", "string", "string"]
 }}
 
-Rules:
-- If JOB or RESUME context is partial/missing, your explanation MUST say it clearly.
-- Strengths/gaps/advice MUST be best-effort and grounded in what is present.
-- You may use the similarity score to decide strong/medium/weak when context is limited.
-- Never output keys like TEXT_A, TEXT_B, job_title, required_skills, ideal_candidate, compatibility, reasons.
+HARD RULES (quality requirements):
+- No generic bullets. 
+- Each gap must reference a missing/unclear requirement from the JOB text.
+- Advice must be actionable for THIS exact pair (what to add/rewrite, keywords, proof projects).
+- You may use the similarity score only as a weak signal when context is limited.
+- Never output extra keys (TEXT_A, TEXT_B, job_title, required_skills, ideal_candidate, compatibility, reasons, etc.).
 - No markdown, no code block, ONLY JSON.
+- No generic bullets. Every bullet must be specific to THIS pair.
+- Avoid generic claims (team player, communication, motivated, fast learner) unless explicitly supported in the text.
+- In "explanation", cover in order: (1) top 2 requirements, (2) best evidence, (3) biggest gap, (4) justify decision.
+- If context is partial/"N/A", mention low confidence and do NOT output strong_match.
+
 """
 
     return [

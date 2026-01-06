@@ -61,7 +61,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
         for i in range(min(explain_top_n, len(scored))):
             try:
                 llm_out = explain_match_with_llm(
-                    mode="job_to_resumes",
+                    mode="job_to_cvs",
                     similarity_score=scored[i]["score"],
                     job_text=job_text,
                     resume_text=scored[i]["resume_text"],

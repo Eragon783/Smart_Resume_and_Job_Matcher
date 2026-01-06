@@ -1,14 +1,15 @@
-from app.pipeline import run
-import pathlib
+from dotenv import load_dotenv
+load_dotenv()
 
-resume = {
-    'filename':'10553553.pdf',
-    'bytes':pathlib.Path('/home/lllm/Documents/SH/Smart_Resume_and_Job_Matcher/data/resume/10553553.pdf').read_bytes()
-}
-job={
-    'filename':'sample_job.txt',
-    'bytes':pathlib.Path('/home/lllm/Documents/SH/Smart_Resume_and_Job_Matcher/data/job_test/sample_job.txt').read_bytes()
-}
+from langchain_openai import ChatOpenAI
+import os
 
-out = run('cv_job_fit', {'resume_file': resume,'job_offer_file': job,'add_explanations':True})
-print(out.get('status'), out.get('similarity_score'))
+llm = ChatOpenAI(
+    base_url="https://openrouter.ai/api/v1",
+    api_key=os.getenv("OPENAI_API_KEY"),
+    model=os.getenv("OPENAI_MODEL", "openai/gpt-oss-120b"),
+    temperature=0.2,
+)
+
+resp = llm.invoke("Reply with exactly: OK_OPENROUTER")
+print(resp.content)

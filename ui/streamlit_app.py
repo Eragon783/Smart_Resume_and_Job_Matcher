@@ -7,6 +7,11 @@ import urllib.request
 from agents.structuring_agent import render_hits_table, render_hits_cards, render_cv_job_fit
 
 #######################################################
+import os
+st.write("OPENAI_MODEL =", os.getenv("OPENAI_MODEL"))
+st.write("OPENAI_BASE_URL =", os.getenv("OPENAI_BASE_URL"))
+
+
 import os, sys, platform
 st.caption(f"Python: {sys.executable}")
 st.caption(f"Platform: {platform.platform()}")
@@ -83,6 +88,15 @@ def main():
     top_k = None
     add_explanations = False
     explain_top_n = None
+    
+    st.markdown("### LLM settings")
+    llm_backend = st.selectbox(
+        "Choose LLM backend",
+        ["OLLAMA", "OPENROUTER"],
+        index=1,  # OPENROUTER par défaut
+    )
+
+    
 
     # ---------------------------
     # Mode: cv_to_jobs upload one resume and several job offers
@@ -213,6 +227,9 @@ def main():
             "top_k": top_k,
             "add_explanations": add_explanations,
             "explain_top_n": explain_top_n,
+            
+            "llm_backend": llm_backend,
+
         }
 
         out = run(mode, inputs)
