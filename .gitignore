@@ -7,5 +7,5 @@ data/linkedin_offers
 faiss_index/
 old_notebooks/
 python_env
-jobs_index.faiss
-jobs_index_mapping.json
+data/job_treated/jobs_index.faiss
+data/job_treated/jobs_index_mapping.json
