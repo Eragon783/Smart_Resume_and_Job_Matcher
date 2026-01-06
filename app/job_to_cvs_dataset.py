@@ -30,28 +30,24 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     add_explanations = bool(inputs.get("add_explanations") or False)
     explain_top_n = int(inputs.get("explain_top_n") or 3)
 
-    # IMPORTANT: explanations require resume text files; if you don't want to preview,
-    # we still need to load the text internally for the LLM.
     resume_txt_folder = inputs.get("resume_txt_folder") or "./data/resume_treated/resume_extract_text"
 
     explanations_errors = []
     if add_explanations and hits:
-        client = build_llm_client()
         for h in hits[:min(explain_top_n, len(hits))]:
             filename = h.get("filename")
             try:
-                # Internal load only, no UI preview
-                path = f"{resume_txt_folder}/{filename}"
+                path = os.path.join(resume_txt_folder, filename)
                 with open(path, "r", encoding="utf-8", errors="ignore") as f:
                     resume_text = clean_text(f.read())
 
                 h["llm_explanation"] = explain_match_with_llm(
                     mode="job_to_resumes",
-                    similarity_score=h["score"],
+                    similarity_score=float(h["score"]),
                     job_text=job_text,
                     resume_text=resume_text,
-                    top_k_rank=h["rank"],
-                    client=client,
+                    top_k_rank=int(h.get("rank") or 0),
+                    backend="OLLAMA",   # ✅ this triggers Ollama only when enabled
                 )
             except Exception as e:
                 explanations_errors.append(f"{filename}: {e}")

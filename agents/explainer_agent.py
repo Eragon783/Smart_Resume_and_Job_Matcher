@@ -71,27 +71,18 @@ def explain_match_with_llm(
     llm = _build_llm(backend)
 
     if llm is None:
-        if mode == "cv_job_fit":
-            decision = "medium_match" if similarity_score >= 0.45 else "weak_match"
-            parsed = ExplainPair(
-                explanation=f"LLM disabled. Similarity score={similarity_score:.3f}.",
-                strengths=["Semantic similarity suggests overlap."],
-                gaps=["LLM reasoning disabled (backend=OFF)."],
-                decision=decision,
-                advice=["Enable backend=OPENROUTER or backend=OLLAMA to get real advice."]
-            ).model_dump()
-        else:
-            parsed = ExplainRanked(
-                explanation=f"LLM disabled. Similarity score={similarity_score:.3f}.",
-                strengths=["Semantic similarity suggests overlap."],
-                gaps=["LLM reasoning disabled (backend=OFF)."],
-            ).model_dump()
+        decision = "medium_match" if similarity_score >= 0.45 else "weak_match"
+        parsed = ExplainPair(
+            explanation=f"LLM disabled. Similarity score={similarity_score:.3f}.",
+            strengths=["Semantic similarity suggests overlap."],
+            gaps=["LLM reasoning disabled (backend=OFF)."],
+            decision=decision,
+            advice=["Enable backend=OPENROUTER or backend=OLLAMA to get real advice."]
+        ).model_dump()
+
         return {"raw_json": "", "parsed": parsed, **parsed}
 
-    if mode == "cv_job_fit":
-        schema = ExplainPair
-    else:
-        schema = ExplainRanked
+    schema = ExplainPair
 
     backend_u = (backend or "OFF").upper()
 

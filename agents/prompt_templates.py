@@ -1,4 +1,3 @@
-
 def format_messages(
     *,
     mode: str,
@@ -7,111 +6,47 @@ def format_messages(
     similarity_score: float | None = None,
     top_k_rank: int | None = None,
 ):
-    """
-    Build chat-style messages for Ollama / LLM.
-
-    Returns:
-        List[dict]: [{"role": "system"|"user", "content": "..."}]
-    """
-
     system_prompt = (
         "You are an expert recruitment assistant.\n"
-        "Your task is to explain resume/job compatibility clearly and concisely.\n"
-        "Only use information present in the provided texts.\n"
-        "Do not invent skills or experiences.\n"
-        "Use bullet points when appropriate."
+        "You MUST return ONLY valid raw JSON (no markdown, no code fences).\n"
+        "Use ONLY the information available in the provided fields.\n"
+        "If some information is missing, say so explicitly and give best-effort advice.\n"
+        "Do not invent companies, degrees, years, or specific technologies not present.\n"
     )
 
-    # -------------------------
-    # MODE: Resume ↔ Job Fit
-    # -------------------------
-    if mode == "cv_job_fit":
-        user_prompt = f"""
-    You must evaluate the FIT between the RESUME and the JOB OFFER.
+    rank_info = f"Rank: #{top_k_rank}" if top_k_rank else "Rank: N/A"
+    sim_info = f"{similarity_score:.3f}" if isinstance(similarity_score, (int, float)) else "N/A"
 
-    Cosine similarity score: {similarity_score}
+    # Important: allow empty texts (dataset modes)
+    resume_block = resume_text.strip() if resume_text and resume_text.strip() else "N/A"
+    job_block = job_text.strip() if job_text and job_text.strip() else "N/A"
 
-    JOB OFFER:
-    {job_text}
-
-    RESUME:
-    {resume_text}
-
-    Return ONLY raw JSON with EXACTLY these keys (no extra keys):
-    {{
-    "explanation": "string (4-6 lines)",
-    "strengths": ["string", "string", "string"],
-    "gaps": ["string", "string", "string"],
-    "decision": "strong_match|medium_match|weak_match",
-    "advice": ["string", "string", "string"]
-    }}
-
-    Rules:
-    - Do NOT output keys like TEXT_A, TEXT_B, job_title, required_skills, ideal_candidate, compatibility, reasons.
-    - Use ONLY info from the provided texts (no invention).
-    - No markdown, no code block, only JSON.
-    """
-
-
-
-    # -------------------------
-    # MODE: One Job → Many Resumes
-    # -------------------------
-    elif mode == "job_to_cvs":
-        rank_info = f"Rank: #{top_k_rank}" if top_k_rank else ""
-
-        user_prompt = f"""
-Explain why the following resume matches the job offer.
-
+    user_prompt = f"""
+Mode: {mode}
 {rank_info}
-Cosine similarity score: {similarity_score}
+Cosine similarity score: {sim_info}
 
-JOB OFFER:
-{job_text}
+JOB CONTEXT (may be partial, may be only a title/url/filename):
+{job_block}
 
-RESUME:
-{resume_text}
+RESUME CONTEXT (may be partial, may be only a filename/id):
+{resume_block}
 
-Return:
-- A short explanation (3–5 lines)
-- Key matching points (bullet points)
-"""
+Return ONLY raw JSON with EXACTLY these keys (no extra keys):
+{{
+  "explanation": "string (4-6 lines, mention if context is partial)",
+  "strengths": ["string", "string", "string"],
+  "gaps": ["string", "string", "string"],
+  "decision": "strong_match|medium_match|weak_match",
+  "advice": ["string", "string", "string"]
+}}
 
-    # -------------------------
-    # MODE: One Resume → Many Jobs
-    # -------------------------
-    elif mode == "cv_to_jobs":
-        rank_info = f"Rank: #{top_k_rank}" if top_k_rank else ""
-
-        user_prompt = f"""
-Explain why the following job offer matches the resume.
-
-{rank_info}
-Cosine similarity score: {similarity_score}
-
-RESUME:
-{resume_text}
-
-JOB OFFER:
-{job_text}
-
-Return:
-- A short explanation (3–5 lines)
-- Key matching points (bullet points)
-"""
-
-    # -------------------------
-    # Fallback (safety)
-    # -------------------------
-    else:
-        user_prompt = f"""
-Explain the relationship between the following texts.
-
-TEXT A:
-{resume_text}
-
-TEXT B:
-{job_text}
+Rules:
+- If JOB or RESUME context is partial/missing, your explanation MUST say it clearly.
+- Strengths/gaps/advice MUST be best-effort and grounded in what is present.
+- You may use the similarity score to decide strong/medium/weak when context is limited.
+- Never output keys like TEXT_A, TEXT_B, job_title, required_skills, ideal_candidate, compatibility, reasons.
+- No markdown, no code block, ONLY JSON.
 """
 
     return [
