@@ -14,6 +14,21 @@ def _l2_normalize(v: np.ndarray, eps: float = 1e-12) -> np.ndarray:
     n = np.linalg.norm(v, axis=1, keepdims=True)
     return v / np.clip(n, eps, None)
 
+def _get_resume_pdf_bytes(inputs: Dict[str, Any]) -> bytes | None:
+    # New format: resume_file = {"filename": "...", "bytes": b"..."}
+    f = inputs.get("resume_file")
+    if isinstance(f, dict):
+        b = f.get("bytes")
+        if isinstance(b, (bytes, bytearray)):
+            return bytes(b)
+
+    # Old format: resume_file_bytes
+    b2 = inputs.get("resume_file_bytes")
+    if isinstance(b2, (bytes, bytearray)):
+        return bytes(b2)
+
+    return None
+
 
 def _title_from_linkedin_url(url: str) -> str:
     """
@@ -47,19 +62,10 @@ def _mapping_get(mapping: Dict[str, Any], idx: int) -> Any:
 
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
-    """
-    Mode: cv_to_linkedin_jobs_dataset
 
-    Needs only:
-      - data/job_treated/jobs_index.faiss
-      - data/job_treated/jobs_index_mapping.json  (dict: idx -> LinkedIn URL)
-
-    Returns:
-      - hits: [{rank, score, url, title, index_id}]
-    """
-    resume_pdf_bytes = inputs.get("resume_file_bytes")
+    resume_pdf_bytes = _get_resume_pdf_bytes(inputs)
     if not resume_pdf_bytes:
-        return {"status": "ERROR", "error": "Missing resume_file_bytes (PDF)"}
+        return {"status": "ERROR", "error": "Missing resume_file bytes (expected resume_file dict OR resume_file_bytes)"}
 
     resume_text = _extract_pdf_text_from_bytes(resume_pdf_bytes)
     if not resume_text.strip():

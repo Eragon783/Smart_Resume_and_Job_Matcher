@@ -228,12 +228,41 @@ def main():
         # ---------------------------
         # Display by mode
         # ---------------------------
-        if out.get("mode") in {"job_to_cvs_dataset", "cv_to_jobs", "job_to_cvs", "cv_to_linkedin_jobs_dataset"}:
+        if out.get("mode") in {
+            "job_to_cvs_dataset",
+            "cv_to_jobs",
+            "job_to_cvs",
+            "cv_to_linkedin_jobs_dataset",
+        }:
             hits = out.get("hits")
             if isinstance(hits, list):
                 st.caption(f"Pipeline returned {len(hits)} result(s).")
+
+                # Table view (unchanged)
                 render_hits_table(hits)
-                render_hits_cards(hits)
+
+                st.markdown("### Ranked results")
+
+                # Card view + LLM explanation if present
+                for i, hit in enumerate(hits, start=1):
+                    with st.container(border=True):
+                        filename = hit.get("filename", f"Result #{i}")
+                        score = hit.get("score")
+
+                        st.markdown(f"#### #{i} — {filename}")
+
+                        if score is not None:
+                            st.metric(
+                                label="Compatibility score",
+                                value=f"{round(score * 100, 1)} %"
+                            )
+
+                        # NEW: LLM explanation (if exists)
+                        llm_expl = hit.get("llm_explanation")
+                        if llm_expl:
+                            with st.expander("🤖 LLM explanation"):
+                                st.write(llm_expl)
+
 
         elif out.get("mode") == "cv_job_fit" and out.get("status", "").startswith("OK"):
             render_cv_job_fit(out)

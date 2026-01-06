@@ -27,3 +27,4 @@ langchain-openai
 langchain-ollama
 docx
 pymupdf
+pypdf

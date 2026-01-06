@@ -2,62 +2,61 @@ from __future__ import annotations
 from typing import Dict, Any
 from sentence_transformers import SentenceTransformer
 from ingestion.loaders import clean_text  # reuse 
-from agents.explainer_agent import explain_match_with_llm  # reuse 
-from app.matching import _decode_txt_bytes, _extract_pdf_text_from_bytes, _cosine_similarity
+from agents.explainer_agent import explain_match_with_llm
+from sentence_transformers import SentenceTransformer, util #type: ignorereuse 
+from utils.json_utils import extract_text_from_file, sanitize_text_for_llm, smart_trim
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
-    """
-    Mode: cv_job_fit
-    Input: resume PDF bytes + job offer TXT bytes
-    Output: cosine similarity + optional LLM decision/strengths/gaps/advice
-    """
-    resume_pdf_bytes = inputs.get("resume_file_bytes")
-    job_offer = inputs.get("job_offer_file")
+    try:
+        resume_file = inputs.get("resume_file")
+        job_file = inputs.get("job_offer_file")
+        add_explanations = bool(inputs.get("add_explanations", True))
 
-    if not resume_pdf_bytes:
-        return {"status": "ERROR", "error": "Missing resume_file_bytes (PDF)"}
-    if not job_offer or not job_offer.get("bytes"):
-        return {"status": "ERROR", "error": "Missing job_offer_file (TXT)"}
+        if not resume_file or not job_file:
+            return {"status": "ERROR", "mode": "cv_job_fit", "error": "Missing resume or job offer"}
 
-    resume_text = _extract_pdf_text_from_bytes(resume_pdf_bytes)
-    job_text = clean_text(_decode_txt_bytes(job_offer["bytes"]))
+        # 1) Extract + sanitize
+        resume_text = sanitize_text_for_llm(extract_text_from_file(resume_file))
+        job_text = sanitize_text_for_llm(extract_text_from_file(job_file))
 
-    if not resume_text.strip():
-        return {"status": "ERROR", "error": "Could not extract resume text from PDF (empty)."}
-    if not job_text.strip():
-        return {"status": "ERROR", "error": "Job offer text is empty/unreadable."}
+        # 2) Similarity
+        model_name = "all-MiniLM-L6-v2"
+        st_model = SentenceTransformer(model_name)
+        emb_r = st_model.encode(resume_text, convert_to_tensor=True)
+        emb_j = st_model.encode(job_text, convert_to_tensor=True)
+        similarity_score = float(util.cos_sim(emb_r, emb_j).item())
 
-    model_name = inputs.get("model_name") or "all-MiniLM-L6-v2"
-    model = SentenceTransformer(model_name)
+        # 3) Optional LLM
+        llm_out = None
+        llm_error = None
+        if add_explanations:
+            resume_trim = smart_trim(resume_text, 4500)
+            job_trim = smart_trim(job_text, 3000)
 
-    sim = _cosine_similarity(model, job_text, resume_text)
-
-    add_explanations = bool(inputs.get("add_explanations") or False)
-    llm = None
-    llm_error = None
-
-    if add_explanations:
-        try:
-            llm = explain_match_with_llm(
-                mode="pair_compatibility",
-                similarity_score=sim,
-                job_text=job_text,
-                resume_text=resume_text,
+            llm_out = explain_match_with_llm(
+                mode="cv_job_fit",
+                similarity_score=similarity_score,
+                resume_text=resume_trim,
+                job_text=job_trim,
                 backend="OLLAMA",
             )
-        except Exception as e:
-            llm_error = str(e)
+            if isinstance(llm_out, dict):
+                llm_error = llm_out.get("parse_error")
 
-    return {
-        "status": "OK",
-        "mode": "cv_job_fit",
-        "similarity_score": sim,
-        "llm": llm,
-        "diagnostics": {
-            "model_name": model_name,
-            "resume_chars": len(resume_text),
-            "job_chars": len(job_text),
-            "llm_enabled": add_explanations,
-            "llm_error": llm_error,
-        },
-    }
+        return {
+            "status": "OK",
+            "mode": "cv_job_fit",
+            "similarity_score": similarity_score,
+            "llm": llm_out,
+            "diagnostics": {
+                "model_name": model_name,
+                "resume_chars": len(resume_text),
+                "job_chars": len(job_text),
+                "llm_enabled": bool(add_explanations),
+                "llm_error": llm_error,
+            },
+        }
+
+    except Exception as e:
+        return {"status": "ERROR", "mode": "cv_job_fit", "error": repr(e)}
+
