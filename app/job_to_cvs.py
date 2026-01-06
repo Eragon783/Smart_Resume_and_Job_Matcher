@@ -7,18 +7,7 @@ from app.matching import _extract_pdf_text_from_bytes, _cosine_similarity, _deco
 
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
-    """
-    Mode: job_to_cvs_upload
-
-    Inputs:
-      - job_offer_file: {"filename": str, "bytes": bytes} (TXT)
-      - resume_files: list of {"filename": str, "bytes": bytes} (PDF)
-      - add_explanations: bool [optional]
-      - explain_top_n: int [optional]
-
-    Output:
-      - hits: ranked resumes (rank/filename/score) + optional llm_explanation for top N
-    """
+    
     job_offer = inputs.get("job_offer_file")
     resume_files = inputs.get("resume_files")
 
@@ -85,7 +74,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
 
     return {
         "status": "OK",
-        "mode": "job_to_cvs_upload",
+        "mode": "job_to_cvs",
         "hits": hits,
         "diagnostics": {
             "model_name": model_name,
