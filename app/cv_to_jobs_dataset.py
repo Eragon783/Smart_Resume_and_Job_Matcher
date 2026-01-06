@@ -6,7 +6,6 @@ from typing import Any, Dict, List
 from urllib.parse import urlparse, unquote
 import numpy as np
 from sentence_transformers import SentenceTransformer
-
 from app.matching import _extract_pdf_text_from_bytes
 
 def _l2_normalize(v: np.ndarray, eps: float = 1e-12) -> np.ndarray:
@@ -50,16 +49,21 @@ def _title_from_linkedin_url(url: str) -> str:
     except Exception:
         return "LinkedIn job"
 
-def _load_mapping_as_dict(mapping_path: str) -> Dict[str, Any]:
+def _load_mapping(mapping_path: str) -> Any:
     with open(mapping_path, "r", encoding="utf-8") as f:
         mapping = json.load(f)
-    if not isinstance(mapping, dict):
-        raise ValueError("jobs_index_mapping.json must be a dict like {'0': 'https://...'} for this mode.")
+
+    if not isinstance(mapping, (dict, list)):
+        raise ValueError("jobs_index_mapping.json must be a dict or a list.")
     return mapping
 
-def _mapping_get(mapping: Dict[str, Any], idx: int) -> Any:
-    return mapping.get(str(idx), None)
 
+def _mapping_get(mapping: Any, idx: int) -> Any:
+    if isinstance(mapping, list):
+        return mapping[idx] if 0 <= idx < len(mapping) else None
+    if isinstance(mapping, dict):
+        return mapping.get(str(idx)) or mapping.get(idx)
+    return None
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
 
@@ -71,8 +75,8 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     if not resume_text.strip():
         return {"status": "ERROR", "error": "Could not extract resume text from PDF (empty)."}
 
-    index_path = inputs.get("jobs_faiss_path") or "./data/job_treated/jobs_index.faiss"
-    mapping_path = inputs.get("jobs_mapping_path") or "./data/job_treated/jobs_index_mapping.json"
+    index_path = inputs.get("jobs_faiss_path") or "./data/linkedin_offers/jobs_index.faiss"
+    mapping_path = inputs.get("jobs_mapping_path") or "./data/linkedin_offers/jobs_index_mapping.json"
     top_k = int(inputs.get("top_k") or 10)
     model_name = inputs.get("model_name") or "all-MiniLM-L6-v2"
 
@@ -87,7 +91,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     except Exception:
         return {"status": "ERROR", "error": "faiss is not installed. Install with: pip install faiss-cpu"}
 
-    mapping = _load_mapping_as_dict(mapping_path)
+    mapping = _load_mapping(mapping_path)
     index = faiss.read_index(index_path)
 
     # Embed query
@@ -124,7 +128,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
 
     return {
         "status": "OK",
-        "mode": "cv_to_linkedin_jobs_dataset",
+        "mode": "cv_to_jobs_dataset",
         "hits": hits,
         "diagnostics": {
             "index_path": index_path,

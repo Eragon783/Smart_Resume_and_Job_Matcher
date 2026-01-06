@@ -67,7 +67,7 @@ def main():
         "Find the best job offers for your resume": "cv_to_jobs",
         "Find the best resumes for a job offer": "job_to_cvs",
         "Find the best resumes in the dataset for a job offer": "job_to_cvs_dataset",
-        "Find the best LinkedIn's dataset job offers for your resume": "cv_to_linkedin_jobs_dataset",
+        "Find the best LinkedIn's dataset job offers for your resume": "cv_to_jobs_dataset",
         "Evaluate resume–job compatibility": "cv_job_fit",
     }[mode_label]
 
@@ -166,14 +166,14 @@ def main():
     # ---------------------------
     # Mode: cv_to_linkedin_jobs 
     # ---------------------------
-    elif mode == "cv_to_linkedin_jobs_dataset":
+    elif mode == "cv_to_jobs_dataset":
         st.markdown("### Resume")
         resume_file = st.file_uploader("Upload Resume (PDF)", type=["pdf"])
 
         st.markdown("### Ranking settings")
         top_k = st.slider("Top K LinkedIn job offers", 1, 20, 10, 1)
 
-        st.caption("This mode searches the prebuilt LinkedIn jobs FAISS index (data/job_treated).")
+        st.caption("This mode searches the prebuilt LinkedIn jobs FAISS index (data/linkedin_offers).")
 
     # ---------------------------
     # Mode: cv_job_fit
@@ -193,7 +193,7 @@ def main():
     # ---------------------------
     if st.button("Run"):
         inputs = {
-            #"resume_file_bytes": resume_file.getvalue() if resume_file else None,
+            "resume_file_bytes": resume_file.getvalue() if resume_file else None,
             "resume_file": (
                 {"filename": resume_file.name, "bytes": resume_file.getvalue()}
                 if resume_file else None
@@ -232,7 +232,7 @@ def main():
             "job_to_cvs_dataset",
             "cv_to_jobs",
             "job_to_cvs",
-            "cv_to_linkedin_jobs_dataset",
+            "cv_to_jobs_dataset",
         }:
             hits = out.get("hits")
             if isinstance(hits, list):
@@ -240,29 +240,9 @@ def main():
 
                 # Table view (unchanged)
                 render_hits_table(hits)
-
+                
                 st.markdown("### Ranked results")
-
-                # Card view + LLM explanation if present
-                for i, hit in enumerate(hits, start=1):
-                    with st.container(border=True):
-                        filename = hit.get("filename", f"Result #{i}")
-                        score = hit.get("score")
-
-                        st.markdown(f"#### #{i} — {filename}")
-
-                        if score is not None:
-                            st.metric(
-                                label="Compatibility score",
-                                value=f"{round(score * 100, 1)} %"
-                            )
-
-                        # NEW: LLM explanation (if exists)
-                        llm_expl = hit.get("llm_explanation")
-                        if llm_expl:
-                            with st.expander("🤖 LLM explanation"):
-                                st.write(llm_expl)
-
+                render_hits_cards(hits)
 
         elif out.get("mode") == "cv_job_fit" and out.get("status", "").startswith("OK"):
             render_cv_job_fit(out)

@@ -13,8 +13,8 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     if not job_text.strip():
         return {"status": "ERROR", "error": "Job offer text is empty/unreadable"}
 
-    index_path = inputs.get("resume_faiss_path") or "./data/resume_index.faiss"
-    mapping_path = inputs.get("resume_mapping_path") or "./data/resume_index_mapping.json"
+    index_path = inputs.get("resume_faiss_path") or "./data/resume_treated/resume_index.faiss"
+    mapping_path = inputs.get("resume_mapping_path") or "./data/resume_treated/resume_index_mapping.json"
     top_k = int(inputs.get("top_k") or 10)
     model_name = inputs.get("model_name") or "all-MiniLM-L6-v2"
 
@@ -32,7 +32,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
 
     # IMPORTANT: explanations require resume text files; if you don't want to preview,
     # we still need to load the text internally for the LLM.
-    resume_txt_folder = inputs.get("resume_txt_folder") or "./data/resume_extract_text"
+    resume_txt_folder = inputs.get("resume_txt_folder") or "./data/resume_treated/resume_extract_text"
 
     explanations_errors = []
     if add_explanations and hits:

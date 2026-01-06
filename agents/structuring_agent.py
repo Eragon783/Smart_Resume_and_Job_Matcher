@@ -9,7 +9,7 @@ from pydantic import BaseModel, Field # type: ignore
 from langchain_core.prompts import ChatPromptTemplate # type: ignore
 from langchain_community.chat_models import ChatOllama # type: ignore
 import streamlit as st # type: ignore
-
+import pandas as pd
 
 # ---------------------------
 # Schema (structured output)

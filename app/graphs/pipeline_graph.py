@@ -20,7 +20,7 @@ def build_pipeline_graph():
     g.add_node("cv_job_fit", nodes.node_cv_job_fit)
     g.add_node("cv_to_jobs", nodes.node_cv_to_jobs)
     g.add_node("job_to_cvs", nodes.node_job_to_cvs)
-    g.add_node("cv_to_jobs_dataset", nodes.node_cv_to_linkedin_jobs_dataset)
+    g.add_node("cv_to_jobs_dataset", nodes.node_cv_to_jobs_dataset)
     g.add_node("not_implemented", nodes.node_not_implemented)
 
     # entry is a conditional router

@@ -3,9 +3,8 @@ __pycache__/
 .venv/
 chroma/
 data/job_offer/job_descriptions.csv
-data/linkedin_offers
+data/linkedin_offers/jobs_index.faiss
+data/linkedin_offers/jobs_index_mapping.json
 faiss_index/
 old_notebooks/
 python_env
-data/job_treated/jobs_index.faiss
-data/job_treated/jobs_index_mapping.json

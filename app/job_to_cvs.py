@@ -3,7 +3,7 @@ from typing import Dict, Any, List
 from sentence_transformers import SentenceTransformer
 from ingestion.loaders import clean_text
 from agents.explainer_agent import explain_match_with_llm
-from utils.json_utils import _extract_pdf_text_from_bytes
+from app.matching import _extract_pdf_text_from_bytes
 from app.matching import _decode_txt_bytes
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
