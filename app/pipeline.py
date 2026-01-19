@@ -2,8 +2,6 @@ from __future__ import annotations
 from typing import Dict, Any
 from app.graphs.pipeline_graph import build_pipeline_graph
 
-
-
 _GRAPH = None
 
 def _get_graph():

@@ -13,9 +13,6 @@ from docx import Document
 from typing import Any, Dict, Union, Tuple
 import io
 
-
-
-
 def _cosine_similarity(model: SentenceTransformer, a: str, b: str) -> float:
     """
     Cosine similarity via dot product of L2-normalized embeddings.
@@ -27,12 +24,17 @@ def _cosine_similarity(model: SentenceTransformer, a: str, b: str) -> float:
     vb /= (np.linalg.norm(vb, axis=1, keepdims=True) + 1e-12)
     return float(np.sum(va * vb))
 
-
-
-def _normalize(v: np.ndarray) -> np.ndarray:
+def _l2_normalize(v: np.ndarray, eps: float = 1e-12) -> np.ndarray:
     v = v.astype("float32")
     n = np.linalg.norm(v, axis=1, keepdims=True)
-    return v / np.clip(n, 1e-12, None)
+    return v / np.clip(n, eps, None)
+
+def _mapping_get(mapping, idx: int):
+    if isinstance(mapping, list):
+        return mapping[idx] if 0 <= idx < len(mapping) else None
+    if isinstance(mapping, dict):
+        return mapping.get(str(idx)) or mapping.get(idx)
+    return None
 
 def search_index(
     query_text: str,
@@ -40,7 +42,7 @@ def search_index(
     mapping_path: str,
     top_k: int = 5,
     model_name: str = "all-MiniLM-L6-v2",
-): 
+):
 
     # load index + mapping
     index = faiss.read_index(index_path)
@@ -50,7 +52,7 @@ def search_index(
     # embed query
     model = SentenceTransformer(model_name)
     q = model.encode([query_text], convert_to_numpy=True).astype("float32")
-    q = _normalize(q)
+    q = _l2_normalize(q)  # keep ONE normalize function
 
     scores, ids = index.search(q, top_k)
 
@@ -58,27 +60,15 @@ def search_index(
     for rank, (i, s) in enumerate(zip(ids[0], scores[0]), start=1):
         if i < 0:
             continue
+        item = _mapping_get(mapping, int(i))
         results.append({
             "rank": rank,
             "score": float(s),
-            "filename": mapping[i],
+            "filename": item,
+            "index_id": int(i),
         })
 
     return results
-
-def read_txt(path: str) -> str:
-    with open(path, "r", encoding="utf-8", errors="ignore") as f:
-        return f.read().strip()
-
-def _get_mapping_item(mapping, idx: int):
-    # mapping can be list OR dict of {"0": "...", "1": "..."}
-    if isinstance(mapping, list):
-        return mapping[idx]
-    if isinstance(mapping, dict):
-        return mapping.get(str(idx)) or mapping.get(idx)
-    return None
-
-
 
 def safe_json_parse(text: str) -> Tuple[Any, str | None]:
     if not text or not isinstance(text, str):
@@ -107,29 +97,6 @@ def safe_json_parse(text: str) -> Tuple[Any, str | None]:
         except Exception as e:
             return None, f"extracted_json_parse_failed: {type(e).__name__}"
 
-
-def ollama_chat(
-    *,
-    base_url: str,
-    model: str,
-    messages: list[dict],
-    temperature: float = 0.2,
-    timeout: int = 120,
-) -> str:
-    url = base_url.rstrip("/") + "/api/chat"
-    payload = {
-        "model": model,
-        "messages": messages,
-        "stream": False,
-        "options": {"temperature": temperature},
-    }
-    r = requests.post(url, json=payload, timeout=timeout)
-    r.raise_for_status()
-    data = r.json()
-
-    # Ollama /api/chat returns: {"message": {"role": "...", "content": "..."}, ...}
-    return (data.get("message") or {}).get("content", "").strip()
-
 def sanitize_text_for_llm(text: str) -> str:
     # Removing weird whitespace / control chars
     text = text.replace("\x00", " ")
@@ -144,6 +111,8 @@ def smart_trim(text: str, max_chars: int = 12000) -> str:
     head = int(max_chars * 0.7)
     tail = max_chars - head
     return text[:head].rstrip() + "\n...\n" + text[-tail:].lstrip()
+
+
 # =======================================================================
 # Extract text fromm various file bytes (pdf, docx, txt)
 
