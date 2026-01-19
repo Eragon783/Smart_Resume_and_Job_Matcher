@@ -1,9 +1,5 @@
 import streamlit as st # type: ignore
-import pandas as pd # type: ignore
 from app.pipeline import run
-import json
-import re
-import urllib.request
 from agents.structuring_agent import render_hits_table, render_hits_cards, render_cv_job_fit
 
 def main():
