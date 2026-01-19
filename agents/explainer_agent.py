@@ -7,7 +7,7 @@ from pydantic import BaseModel, Field # type: ignore
 from langchain_core.prompts import ChatPromptTemplate # type: ignore
 from langchain_openai import ChatOpenAI # type: ignore
 from agents.prompt_templates import format_messages
-from utils.json_utils import safe_json_parse
+from app.matching import safe_json_parse
 
 
 load_dotenv()
@@ -23,6 +23,19 @@ class ExplainPair(BaseModel):
     gaps: list[str] = Field(default_factory=list, description="3 bullets")
     decision: Literal["strong_match", "medium_match", "weak_match"]
     advice: list[str] = Field(default_factory=list, description="3 actionable tips to improve the resume for THIS job")
+
+class CoachingQA(BaseModel):
+    category: Literal["Strength", "Project", "Technical", "Behavioral", "Gap", "Motivation", "Scenario"] = "Strength"
+    difficulty: Literal["easy", "medium", "hard"] = "medium"
+    question: str
+    suggested_answer: str
+    cv_evidence: str = ""
+    job_requirement: str = ""
+    follow_up: str = ""
+
+class InterviewCoaching(BaseModel):
+    questions: list[CoachingQA] = Field(default_factory=list, description="10 tailored interview Q/A pairs")
+
 
 def _build_llm(backend: str = "OFF"):
     backend = (backend or "OFF").upper()
@@ -128,5 +141,92 @@ def explain_match_with_llm(
         }
         if mode == "cv_job_fit":
             parsed.update({"decision": "weak_match", "advice": []})
+
+    return {"raw_json": raw_text, "parsed": parsed, "parse_error": err, **parsed}
+
+def generate_interview_coaching(
+    *,
+    similarity_score: float,
+    job_text: str,
+    resume_text: str,
+    backend: str = "OLLAMA",
+    n_questions: int = 10,
+) -> Dict[str, Any]:
+    """
+    Generates interview coaching Q/A pairs tailored to the resume + job offer.
+    Always returns JSON with: {"questions": [...]}
+    """
+
+    llm = _build_llm(backend)
+    n_questions = max(3, min(int(n_questions or 10), 20))
+
+    # backend OFF -> deterministic empty coaching
+    if llm is None:
+        parsed = InterviewCoaching(questions=[]).model_dump()
+        return {"raw_json": "", "parsed": parsed, **parsed}
+
+    schema = InterviewCoaching
+    backend_u = (backend or "OFF").upper()
+
+    # Messages: keep it simple and strict JSON
+    messages = [
+        {
+            "role": "system",
+            "content": (
+                "You are an interview coach. "
+                "You must return ONLY valid JSON. No markdown. No extra text."
+            ),
+        },
+        {
+            "role": "user",
+            "content": (
+                f"Task: Build {n_questions} interview questions AND suggested answers tailored to the resume and job offer.\n"
+                "Use STAR-style answers when relevant. Include a mix:\n"
+                "- Strength/Project questions (value strengths)\n"
+                "- Technical questions (match job requirements)\n"
+                "- Behavioral questions\n"
+                "- Gap/objection handling questions (turn weaknesses into a positive plan)\n"
+                "\n"
+                "Output schema (JSON only):\n"
+                "{\n"
+                '  "questions": [\n'
+                "    {\n"
+                '      "category": "Strength|Project|Technical|Behavioral|Gap|Motivation|Scenario",\n'
+                '      "difficulty": "easy|medium|hard",\n'
+                '      "question": "...",\n'
+                '      "suggested_answer": "...",\n'
+                '      "cv_evidence": "short quote or evidence from resume",\n'
+                '      "job_requirement": "the requirement this targets",\n'
+                '      "follow_up": "one follow-up question"\n'
+                "    }\n"
+                "  ]\n"
+                "}\n"
+                "\n"
+                f"Similarity score (semantic): {similarity_score:.3f}\n\n"
+                "RESUME:\n"
+                f"{resume_text}\n\n"
+                "JOB OFFER:\n"
+                f"{job_text}\n"
+            ),
+        },
+    ]
+
+    # Structured output for OpenRouter/OpenAI path
+    if backend_u in ("OPENAI", "OPENROUTER"):
+        structured = llm.with_structured_output(schema)
+        out_obj = structured.invoke(messages)
+        parsed = out_obj.model_dump()
+        return {"raw_json": "", "parsed": parsed, **parsed}
+
+    # Ollama path: strict JSON + parse
+    raw_text = llm.invoke(messages).content or ""
+    parsed, err = safe_json_parse(raw_text)
+
+    if err or not isinstance(parsed, dict) or "questions" not in parsed:
+        parsed = {"questions": []}
+
+    # Ensure list type
+    if not isinstance(parsed.get("questions"), list):
+        parsed["questions"] = []
 
     return {"raw_json": raw_text, "parsed": parsed, "parse_error": err, **parsed}

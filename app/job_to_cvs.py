@@ -75,7 +75,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
                 hits[i]["llm_explanation"] = llm_out
             except Exception as e:
                 explanations_errors.append(f"{scored[i]['filename']}: {e}")
-    print("LLM backend used:", backend)
+
     return {
         "status": "OK",
         "mode": "job_to_cvs",

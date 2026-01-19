@@ -54,7 +54,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
                 )
             except Exception as e:
                 explanations_errors.append(f"{filename}: {e}")
-    print("LLM backend used:", backend)
+
     return {
         "status": "OK",
         "mode": "job_to_cvs_dataset",

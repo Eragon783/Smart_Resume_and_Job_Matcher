@@ -366,6 +366,9 @@ def render_cv_job_fit(out: dict):
     strengths = llm_final.get("strengths", [])
     gaps = llm_final.get("gaps", [])
     advice = llm_final.get("advice") or llm_final.get("recommendations") or llm_final.get("improvements")
+    coaching = out.get("coaching")
+    render_interview_coaching(coaching)
+
 
     st.markdown("### LLM decision")
     st.write("**Decision:**", decision)
@@ -449,4 +452,78 @@ def render_llm_explanation_pretty(llm: dict):
     with st.expander("LLM raw output (parsed)"):
         st.json(llm)
 
+def render_interview_coaching(coaching: dict | None):
+    """
+    Display interview coaching Q/A pairs returned by generate_interview_coaching().
+    Expected shape:
+      coaching = {"questions": [ {category,difficulty,question,suggested_answer,cv_evidence,job_requirement,follow_up}, ... ]}
+    """
+    if not isinstance(coaching, dict):
+        st.info("No interview coaching available.")
+        return
 
+    questions = coaching.get("questions")
+    if not isinstance(questions, list) or len(questions) == 0:
+        st.info("No interview coaching questions were generated.")
+        return
+
+    st.markdown("### Interview coaching (Q/A)")
+    st.caption("Tailored questions and suggested answers based on your CV + the job offer.")
+
+    # Simple filters (optional, but useful)
+    categories = sorted({q.get("category", "Unknown") for q in questions if isinstance(q, dict)})
+    diffs = sorted({q.get("difficulty", "Unknown") for q in questions if isinstance(q, dict)})
+
+    col1, col2 = st.columns([1, 1])
+    with col1:
+        cat_filter = st.selectbox("Filter by category", ["All"] + categories, index=0)
+    with col2:
+        diff_filter = st.selectbox("Filter by difficulty", ["All"] + diffs, index=0)
+
+    def _keep(q: dict) -> bool:
+        if cat_filter != "All" and q.get("category") != cat_filter:
+            return False
+        if diff_filter != "All" and q.get("difficulty") != diff_filter:
+            return False
+        return True
+
+    shown = 0
+    for i, q in enumerate(questions, start=1):
+        if not isinstance(q, dict):
+            continue
+        if not _keep(q):
+            continue
+
+        shown += 1
+        category = q.get("category", "Unknown")
+        difficulty = q.get("difficulty", "Unknown")
+        question = q.get("question", "")
+        suggested = q.get("suggested_answer", "")
+        cv_ev = q.get("cv_evidence", "")
+        job_req = q.get("job_requirement", "")
+        follow_up = q.get("follow_up", "")
+
+        title = f"Q{i} — {category} ({difficulty})"
+        with st.expander(title, expanded=False):
+            st.markdown("**Question**")
+            st.write(question)
+
+            st.markdown("**Suggested answer**")
+            st.write(suggested)
+
+            meta_lines = []
+            if isinstance(job_req, str) and job_req.strip():
+                meta_lines.append(f"**Targets job requirement:** {job_req.strip()}")
+            if isinstance(cv_ev, str) and cv_ev.strip():
+                meta_lines.append(f"**CV evidence:** {cv_ev.strip()}")
+            if meta_lines:
+                st.markdown("**Why this question**")
+                for line in meta_lines:
+                    st.write(line)
+
+            if isinstance(follow_up, str) and follow_up.strip():
+                st.markdown("**Follow-up**")
+                st.write(follow_up)
+
+    if shown == 0:
+        st.info("No questions match the current filters.")
