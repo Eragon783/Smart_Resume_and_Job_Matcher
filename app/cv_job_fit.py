@@ -1,10 +1,8 @@
 from __future__ import annotations
 from typing import Dict, Any
-from sentence_transformers import SentenceTransformer
-from ingestion.loaders import clean_text  # reuse 
 from agents.explainer_agent import explain_match_with_llm
-from sentence_transformers import SentenceTransformer, util #type: ignorereuse 
-from utils.json_utils import extract_text_from_file, sanitize_text_for_llm, smart_trim
+from sentence_transformers import SentenceTransformer #type: ignore
+from app.matching import extract_text_from_file, sanitize_text_for_llm, smart_trim, _cosine_similarity
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     try:
@@ -24,7 +22,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
         st_model = SentenceTransformer(model_name)
         emb_r = st_model.encode(resume_text, convert_to_tensor=True)
         emb_j = st_model.encode(job_text, convert_to_tensor=True)
-        similarity_score = float(util.cos_sim(emb_r, emb_j).item())
+        similarity_score = float(_cosine_similarity(st_model, resume_text, job_text))
 
         backend = (inputs.get("llm_backend") or "OLLAMA").upper()
 

@@ -3,7 +3,8 @@ from typing import Dict, Any, List
 from sentence_transformers import SentenceTransformer
 from ingestion.loaders import clean_text
 from agents.explainer_agent import explain_match_with_llm
-from app.matching import _extract_pdf_text_from_bytes, _cosine_similarity, _decode_txt_bytes
+from app.matching import extract_text_from_file, _cosine_similarity
+
 
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
@@ -20,7 +21,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     # Safety cap
     resume_files = resume_files[:10]
 
-    job_text = clean_text(_decode_txt_bytes(job_offer["bytes"]))
+    job_text = clean_text(extract_text_from_file(job_offer))
     if not job_text.strip():
         return {"status": "ERROR", "error": "Job offer text is empty/unreadable."}
 
@@ -29,7 +30,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     for f in resume_files:
         name = f.get("filename", "unknown.pdf")
         b = f.get("bytes", b"")
-        resume_text = _extract_pdf_text_from_bytes(b)
+        resume_text = clean_text(extract_text_from_file(f))
         resume_text = clean_text(resume_text)
 
         if resume_text.strip():

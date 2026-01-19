@@ -3,7 +3,7 @@ from typing import Dict, Any, List
 from sentence_transformers import SentenceTransformer
 from ingestion.loaders import clean_text
 from agents.explainer_agent import explain_match_with_llm
-from app.matching import _extract_pdf_text_from_bytes, _cosine_similarity, _decode_txt_bytes
+from app.matching import extract_text_from_file, _cosine_similarity
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     """
@@ -17,11 +17,11 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     Output:
       - hits: ranked job offers with similarity scores (+ optional llm_explanation)
     """
-    resume_pdf_bytes = inputs.get("resume_file_bytes")
+    resume_file = inputs.get("resume_file")
     job_offer_files = inputs.get("job_offer_files")
 
-    if not resume_pdf_bytes:
-        return {"status": "ERROR", "error": "Missing resume_file_bytes (PDF)"}
+    if not resume_file:
+        return {"status": "ERROR", "error": "Missing"}
 
     if not job_offer_files or not isinstance(job_offer_files, list):
         return {"status": "ERROR", "error": "Missing job_offer_files (upload 1–10 TXT files)"}
@@ -30,7 +30,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     job_offer_files = job_offer_files[:10]
 
     # Extracting + cleaning
-    resume_text = _extract_pdf_text_from_bytes(resume_pdf_bytes)
+    resume_text = clean_text(extract_text_from_file(resume_file))
     if not resume_text.strip():
         return {"status": "ERROR", "error": "Could not extract resume text from PDF (empty)."}
 
@@ -38,7 +38,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     for f in job_offer_files:
         name = f.get("filename", "unknown.txt")
         b = f.get("bytes", b"")
-        txt = clean_text(_decode_txt_bytes(b))
+        txt = clean_text(extract_text_from_file(f))
         if txt.strip():
             job_texts.append({"filename": name, "text": txt})
 

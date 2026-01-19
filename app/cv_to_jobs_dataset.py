@@ -6,25 +6,27 @@ from typing import Any, Dict, List
 from urllib.parse import urlparse, unquote
 import numpy as np
 from sentence_transformers import SentenceTransformer
-from app.matching import _extract_pdf_text_from_bytes
+from app.matching import extract_text_from_file
+
 
 def _l2_normalize(v: np.ndarray, eps: float = 1e-12) -> np.ndarray:
     v = v.astype("float32")
     n = np.linalg.norm(v, axis=1, keepdims=True)
     return v / np.clip(n, eps, None)
 
-def _get_resume_pdf_bytes(inputs: Dict[str, Any]) -> bytes | None:
-    # New format: resume_file = {"filename": "...", "bytes": b"..."}
+def _get_resume_file_obj(inputs: Dict[str, Any]) -> Dict[str, Any] | None:
+    # New format (preferred): resume_file = {"filename": "...", "bytes": b"..."}
     f = inputs.get("resume_file")
     if isinstance(f, dict):
+        filename = f.get("filename")
         b = f.get("bytes")
-        if isinstance(b, (bytes, bytearray)):
-            return bytes(b)
+        if isinstance(filename, str) and isinstance(b, (bytes, bytearray)):
+            return {"filename": filename, "bytes": bytes(b)}
 
-    # Old format: resume_file_bytes
+    # Old format (fallback): resume_file_bytes (assumed PDF)
     b2 = inputs.get("resume_file_bytes")
     if isinstance(b2, (bytes, bytearray)):
-        return bytes(b2)
+        return {"filename": "resume.pdf", "bytes": bytes(b2)}
 
     return None
 
@@ -67,11 +69,11 @@ def _mapping_get(mapping: Any, idx: int) -> Any:
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
 
-    resume_pdf_bytes = _get_resume_pdf_bytes(inputs)
-    if not resume_pdf_bytes:
-        return {"status": "ERROR", "error": "Missing resume_file bytes (expected resume_file dict OR resume_file_bytes)"}
+    resume_file = _get_resume_file_obj(inputs)
+    if not resume_file:
+        return {"status": "ERROR", "error": "Missing resume_file (expected resume_file dict OR resume_file_bytes)"}
 
-    resume_text = _extract_pdf_text_from_bytes(resume_pdf_bytes)
+    resume_text = extract_text_from_file(resume_file)
     if not resume_text.strip():
         return {"status": "ERROR", "error": "Could not extract resume text from PDF (empty)."}
 

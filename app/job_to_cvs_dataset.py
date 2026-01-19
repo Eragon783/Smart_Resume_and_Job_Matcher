@@ -2,14 +2,14 @@ from typing import Dict, Any
 import os
 from ingestion.loaders import clean_text
 from agents.explainer_agent import explain_match_with_llm
-from app.matching import search_index, _decode_txt_bytes
+from app.matching import search_index, extract_text_from_file
 
 def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
     job_offer = inputs.get("job_offer_file")
     if not job_offer or not job_offer.get("bytes"):
         return {"status": "ERROR", "error": "Missing job_offer_file (TXT)"}
 
-    job_text = clean_text(_decode_txt_bytes(job_offer["bytes"]))
+    job_text = clean_text(extract_text_from_file(job_offer))
     if not job_text.strip():
         return {"status": "ERROR", "error": "Job offer text is empty/unreadable"}
 
@@ -50,7 +50,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
                     job_text=job_text,
                     resume_text=resume_text,
                     top_k_rank=int(h.get("rank") or 0),
-                    backend=backend,   # ✅ this triggers Ollama only when enabled
+                    backend=backend,   # this triggers Ollama only when enabled
                 )
             except Exception as e:
                 explanations_errors.append(f"{filename}: {e}")
