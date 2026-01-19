@@ -125,7 +125,6 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
             hit["mapping_item"] = item
 
         hits.append(hit)
-
     return {
         "status": "OK",
         "mode": "cv_to_jobs_dataset",

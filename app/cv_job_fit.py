@@ -26,6 +26,8 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
         emb_j = st_model.encode(job_text, convert_to_tensor=True)
         similarity_score = float(util.cos_sim(emb_r, emb_j).item())
 
+        backend = (inputs.get("llm_backend") or "OLLAMA").upper()
+
         # 3) Optional LLM
         llm_out = None
         llm_error = None
@@ -38,11 +40,11 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
                 similarity_score=similarity_score,
                 resume_text=resume_trim,
                 job_text=job_trim,
-                backend="OLLAMA",
+                backend=backend,
             )
             if isinstance(llm_out, dict):
                 llm_error = llm_out.get("parse_error")
-
+        print("LLM backend used:", backend)
         return {
             "status": "OK",
             "mode": "cv_job_fit",

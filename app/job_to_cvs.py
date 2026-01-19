@@ -54,8 +54,11 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
 
     # Optional LLM explanation + advice for top N
     add_explanations = bool(inputs.get("add_explanations") or False)
-    explain_top_n = int(inputs.get("explain_top_n") or 3)
+    explain_top_n = int(inputs.get("explain_top_n") or 0)
     explanations_errors = []
+    
+    backend = (inputs.get("llm_backend") or "OLLAMA").upper()
+
 
     if add_explanations:
         for i in range(min(explain_top_n, len(scored))):
@@ -66,12 +69,12 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
                     job_text=job_text,
                     resume_text=scored[i]["resume_text"],
                     top_k_rank=i + 1,
-                    backend="OLLAMA",  # ou "OLLAMA" plus tard
+                    backend= backend,  # ou "OLLAMA" plus tard
                 )
                 hits[i]["llm_explanation"] = llm_out
             except Exception as e:
                 explanations_errors.append(f"{scored[i]['filename']}: {e}")
-
+    print("LLM backend used:", backend)
     return {
         "status": "OK",
         "mode": "job_to_cvs",

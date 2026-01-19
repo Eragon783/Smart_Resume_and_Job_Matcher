@@ -69,7 +69,7 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
 
     # Optional LLM explanations for top N
     add_explanations = bool(inputs.get("add_explanations") or False)
-    explain_top_n = int(inputs.get("explain_top_n") or 3)
+    explain_top_n = int(inputs.get("explain_top_n") or 0)
     explanations_errors = []
     
     backend = (inputs.get("llm_backend") or "OLLAMA").upper()
@@ -90,7 +90,9 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
                 hits[i]["llm_explanation"] = llm_out
             except Exception as e:
                 explanations_errors.append(f"{scored[i]['filename']}: {e}")
-
+                
+    print("LLM backend used:", backend)
+    
     return {
         "status": "OK",
         "mode": "cv_to_jobs",

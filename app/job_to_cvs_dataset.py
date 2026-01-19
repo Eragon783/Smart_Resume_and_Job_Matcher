@@ -28,11 +28,14 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
 
     # Optional explanations (top N only)
     add_explanations = bool(inputs.get("add_explanations") or False)
-    explain_top_n = int(inputs.get("explain_top_n") or 3)
+    explain_top_n = int(inputs.get("explain_top_n") or 0)
 
     resume_txt_folder = inputs.get("resume_txt_folder") or "./data/resume_treated/resume_extract_text"
 
     explanations_errors = []
+    
+    backend = (inputs.get("llm_backend") or "OLLAMA").upper()
+
     if add_explanations and hits:
         for h in hits[:min(explain_top_n, len(hits))]:
             filename = h.get("filename")
@@ -47,11 +50,11 @@ def handle(inputs: Dict[str, Any]) -> Dict[str, Any]:
                     job_text=job_text,
                     resume_text=resume_text,
                     top_k_rank=int(h.get("rank") or 0),
-                    backend="OLLAMA",   # ✅ this triggers Ollama only when enabled
+                    backend=backend,   # ✅ this triggers Ollama only when enabled
                 )
             except Exception as e:
                 explanations_errors.append(f"{filename}: {e}")
-
+    print("LLM backend used:", backend)
     return {
         "status": "OK",
         "mode": "job_to_cvs_dataset",

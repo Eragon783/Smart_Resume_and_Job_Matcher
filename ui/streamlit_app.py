@@ -6,53 +6,6 @@ import re
 import urllib.request
 from agents.structuring_agent import render_hits_table, render_hits_cards, render_cv_job_fit
 
-#######################################################
-import os
-st.write("OPENAI_MODEL =", os.getenv("OPENAI_MODEL"))
-st.write("OPENAI_BASE_URL =", os.getenv("OPENAI_BASE_URL"))
-
-
-import os, sys, platform
-st.caption(f"Python: {sys.executable}")
-st.caption(f"Platform: {platform.platform()}")
-st.caption(f"CWD: {os.getcwd()}")
-
-import requests # type: ignore
-
-def ollama_generate_test(model="llama3.1:latest"):
-    url = "http://localhost:11434/api/generate" 
-    payload = {"model": model, "prompt": "Reply with exactly: OK_OLLAMA", "stream": False}
-    r = requests.post(url, json=payload, timeout=60)
-    r.raise_for_status()
-    return r.json().get("response", "")
-
-if st.button("Test Ollama generation"):
-    try:
-        st.success(ollama_generate_test()) 
-    except Exception as e:
-        st.error(str(e))
-
-
-
-def ollama_healthcheck(base_url: str = "http://localhost:11434", timeout: int = 2):
-    try:
-        with urllib.request.urlopen(f"{base_url}/api/tags", timeout=timeout) as r:
-            data = json.loads(r.read().decode("utf-8"))
-        models = [m.get("name") for m in data.get("models", [])]
-        return True, models, None
-    except Exception as e:
-        return False, [], str(e)
-
-ok, models, err = ollama_healthcheck()
-if ok:
-    st.success(f"Ollama OK @ http://localhost:11434 — {len(models)} models")
-    with st.expander("Models"):
-        st.write(models)
-else:
-    st.error(f"Ollama NOT reachable: {err}")
-
-################################################################################
-
 def main():
     st.set_page_config(page_title="Resume & Job Matcher", layout="wide")
     st.title("Smart Resume & Job Matcher")
