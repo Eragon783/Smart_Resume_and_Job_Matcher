@@ -1,240 +1,186 @@
-> :warn: You need to download [jobs_index.faiss](https://devinci-my.sharepoint.com/personal/sarah_ounes_edu_devinci_fr/_layouts/15/guestaccess.aspx?share=IQAZta4fxG5oS6-ZUeO0vV_4AV56LaHPKu4snt0XCqS0k0c&e=mrp7Rg) and [jobs_index_mapping.json](https://devinci-my.sharepoint.com/personal/sarah_ounes_edu_devinci_fr/_layouts/15/guestaccess.aspx?share=IQBzqWv453dXQLbCvYgcOth4Af7FRNZ33Hms8iGNrjI3m0U&e=rUF7Le) and put them in "data/job_treated/" to run the project.
+# Smart Resume and Job Matcher (Project 4)
 
-### Project 4: Smart Resume and Job Matcher
+This project implements a **Smart Resume and Job Matching System** based on **Generative AI**, semantic embeddings, and vector similarity search.  
+Its objective is to match resumes to job offers in a contextual and human-like manner, going beyond traditional keyword-based approaches.
 
-This project focuses on building an AI-powered Resume and Job Matching System that uses embeddings, semantic search, and Generative AI reasoning to match candidates’ resumes with the most relevant job opportunities.
+The system is designed to be **reproducible, modular, and cross-platform**, running consistently on **Windows, Linux, and macOS**.
 
-The goal is to go beyond traditional keyword matching by using language understanding models to interpret the meaning, skills, and experience in resumes and job descriptions, enabling contextual, human-like matching.
-
-The system will first parse and process resumes (PDF, DOCX, or text files) to extract structured information such as skills, education, experience, certifications, and interests. Job descriptions (from uploaded files or online sources) will be similarly analyzed. Both resumes and job postings will then be encoded into embeddings using models like Ollama embeddings, SentenceTransformers, or Vertex AI embeddings.
-
-Using these vector representations, the system will compute semantic similarity between candidates and jobs, ranking matches based on contextual relevance rather than exact wording. The AI will also generate explanations for each match, highlighting the reasoning behind compatibility (e.g., “This candidate’s experience in data analytics aligns with the Python and SQL requirements of this role”).
-
-Datatsets for resume : https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset | https://github.com/NataliaVanetik/vacancy-resume-matching-dataset/tree/main/CV
-
-Dataset for job offer : https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
-
-
-# Smart Resume and Job Matcher
-
-This repository contains a **Generative AI system** that matches resumes to job offers using a structured, reproducible pipeline. The project relies on a remote Large Language Model (LLM) for one specific step (resume text → structured JSON) and is designed to run consistently on **Windows, Linux, and macOS**.
+Only one step of the pipeline relies on a remote Large Language Model (LLM); all other components operate locally.
 
 ---
 
-## Project Overview
+## Project Objectives
 
-The system performs the following steps:
+The main goals of this project are:
 
-1. Extract raw text from resumes (PDF, DOCX, TXT)
-2. Use an LLM to convert resume text into structured JSON
-3. Prepare structured text for embeddings
-4. Match resumes to job offers using similarity scoring
-5. Provide notebooks for demonstration, evaluation, and reproducibility
-
-Only step 2 requires access to a remote LLM API.
-
-
-
-## Requirements
-
-- Python 3.9 or newer
-- pip
-
-After cloning the repository, install dependencies with:
-
-pip install -r requirements.txt
+- Automatically extract meaningful information from resumes
+- Structure unformatted resume text into a clean JSON representation
+- Represent resumes and job offers using semantic embeddings
+- Perform similarity-based matching between candidates and job descriptions
+- Provide explainable results highlighting strengths, gaps, and match quality
+- Ensure reproducibility and portability across different operating systems
 
 ---
 
+## Global Pipeline Overview
 
+The system follows a clear and structured pipeline:
 
-## Environment Setup
+1. Resume files are parsed and their raw text is extracted  
+2. Raw resume text is transformed into a structured JSON format using an LLM  
+3. Structured data is converted into a textual representation suitable for embeddings  
+4. Semantic embeddings are computed for resumes and job offers  
+5. A vector similarity search ranks the most relevant matches  
+6. The system generates a human-readable explanation for each match  
 
-### Windows
-powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-
-
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-
-
-## LLM API Setup and Reproducibility Guide
-
-This project uses a **remote LLM API** only to transform raw resume text into structured JSON (Notebook 2). Because the LLM is accessed over the Internet, **each user must provide their own API key**. The key is never included in the repository. This is standard practice in academic and industrial GenAI projects.
-
-To avoid operating-system-specific issues and ensure reproducibility, the API key is loaded from a **local `.env` file**.
+Only the resume structuring step requires an external API.  
+Embedding, indexing, matching, and explanation logic run locally.
 
 ---
 
-## What Is an API Key and Why Is It Needed?
+## Datasets Used
 
-An API key is a personal secret token that authorizes your machine to call a remote LLM service.
+This project relies on publicly available datasets for experimentation and evaluation.
 
-- It works like a password
-- It identifies who is making the request
-- It must never be shared publicly
+### Resume datasets
+- Kaggle Resume Dataset  
+  https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset  
+- Vacancy–Resume Matching Dataset  
+  https://github.com/NataliaVanetik/vacancy-resume-matching-dataset/tree/main/CV  
+
+### Job offer dataset
+- Job Description Dataset  
+  https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024 
+
+Some datasets and derived CSV files are not included in the repository due to storage constraints and must be kept locally.
+
+---
+
+## Large Files and External Resources
+
+To keep the repository lightweight and compliant with GitHub storage limits, some large artifacts are not stored directly in the repository.
+
+The following files **must be downloaded manually**:
+
+- jobs_index.faiss  
+- jobs_index_mapping.json  
+
+These files must be placed in the following directory:
+
+- data/job_treated/
+
+Download links:
+- https://devinci-my.sharepoint.com/personal/sarah_ounes_edu_devinci_fr/_layouts/15/guestaccess.aspx?share=IQAZta4fxG5oS6-ZUeO0vV_4AV56LaHPKu4snt0XCqS0k0c&e=mrp7Rg  
+- https://devinci-my.sharepoint.com/personal/sarah_ounes_edu_devinci_fr/_layouts/15/guestaccess.aspx?share=IQBzqWv453dXQLbCvYgcOth4Af7FRNZ33Hms8iGNrjI3m0U&e=rUF7Le  
+
+This approach reflects standard practice in machine learning projects where large indexes and datasets cannot be versioned with Git.
+
+---
+
+## Use of Ollama (Local Models)
+
+The project optionally supports **Ollama** to run local language models and generate embeddings without relying on external services.
+
+Ollama can be used for:
+- Local chat-based models
+- Local embedding generation
+
+Using Ollama improves privacy, reproducibility, and offline experimentation.  
+The exact model choice depends on the user’s configuration and available system resources.
+
+---
+
+## Use of Remote LLM APIs
+
+A remote LLM API is used **only** for transforming raw resume text into a structured JSON representation.
+
+Each user must provide their own API key.  
+The key is stored locally and never included in the repository.
+
+This design ensures:
+- Clear separation between local and remote components
+- Reproducibility across machines
+- Compliance with security best practices
+
+---
+
+## API Key Management and Reproducibility
+
+API keys are stored in a local environment file that is ignored by version control.
+
+Key principles:
+- The API key is personal and confidential
 - It must never be committed to GitHub
+- It is required only for the resume structuring step
+- All other steps run independently of the API
 
-The API key is required only for the resume structuring step. All other parts of the pipeline run locally.
-
----
-
-## Step 1 – Clone the Repository
-
-Clone the repository and move into the project directory:
-
-git clone <REPOSITORY_URL>  
-cd Smart_Resume_and_Job_Matcher
-
-All following steps must be executed from the project root directory.
+This approach guarantees consistent behavior across operating systems and development environments.
 
 ---
 
-## Step 2 – Create a Local `.env` File
+## Vector Indexing Backends
 
-At the root of the project, create a file named `.env`.
+The project supports two interchangeable vector indexing backends:
 
-This file exists only on your local machine and is ignored by Git via `.gitignore`.
+### FAISS
+FAISS is optimized for high-performance nearest-neighbor search and is commonly used in large-scale research and industrial systems.
 
----
-
-## Step 3 – Create an API Key
-
-You can use either of the following providers:
-
-OpenRouter (recommended):  
-- Go to https://openrouter.ai  
-- Create an account  
-- Open the API Keys section  
-- Create a new API key  
-- Copy the key (usually starts with sk-or-)
-
-OpenAI:  
-- Go to https://platform.openai.com/api-keys  
-- Create an API key  
-- Copy the key (usually starts with sk-)
-
----
-
-## Step 4 – Add the API Key to the `.env` File
-
-Open the `.env` file and add exactly one line:
-
-OPENAI_API_KEY=sk-or-xxxxxxxxxxxxxxxx
-
-Rules:
-- No quotes
-- No spaces
-- One line only
-- Never commit this file
-
----
-
-## Step 5 – How the API Key Is Used
-
-The project uses the python-dotenv library to automatically load the `.env` file at runtime.
-
-- The key is read using os.getenv("OPENAI_API_KEY")
-- The key is never hardcoded
-- The key is never stored in the repository
-
-This approach works reliably on Windows, Linux, and macOS, including when running notebooks in VS Code or Jupyter.
-
----
-
-## Step 6 – Verify the Configuration
-
-Before running Notebook 2, verify that the API key is correctly loaded.
-
-In a Python shell or notebook cell:
-
-import os  
-print(os.getenv("OPENAI_API_KEY"))
-
-If the key is printed, the configuration is correct. If None is printed, the `.env` file is missing or incorrectly configured.
-
----
-
-## Vector Index Backend (FAISS vs Chroma)
-
-This project supports **two interchangeable vector index backends** for resume embeddings:
-**FAISS** and **Chroma**.
-
-Both backends are fully compatible with the pipeline and can be selected
-at runtime without changing the core logic of the project.
-
-The goal is to ensure:
-- cross-platform compatibility (Windows / Linux / macOS)
-- reproducibility for all users
-- flexibility between performance-oriented and persistence-oriented setups
-
----
-
-## Available Backends
-
-### FAISS (Facebook AI Similarity Search)
-
-FAISS is a high-performance vector similarity library optimized for fast
-nearest-neighbor search.
-
-**Characteristics:**
+Strengths:
 - Very fast similarity search
-- In-memory index
-- Ideal for performance benchmarks and large-scale experiments
-- Widely used in research and industry
+- Suitable for large embedding collections
 
-**Limitations:**
-- Installation can be problematic on some Windows environments
-- Requires manual saving/loading of the index
-
-**Files produced:**
-- `data/resume_index.faiss`
-- `data/resume_index_mapping.json`
-
----
+Limitations:
+- Installation may be more complex on some systems
+- Index persistence must be handled manually
 
 ### Chroma
+Chroma is a lightweight vector database designed for LLM and RAG pipelines.
 
-Chroma is a lightweight vector database designed for LLM and RAG applications.
+Strengths:
+- Persistent storage by default
+- Easy installation across platforms
+- Supports metadata management
 
-**Characteristics:**
-- Persistent on disk by default
-- Easy to install on all platforms
-- Supports metadata (e.g. filenames)
-- Well suited for RAG-style pipelines and demos
-
-**Limitations:**
+Limitations:
 - Slightly slower than FAISS for pure similarity search
-- Less optimized for very large-scale indexing
 
-**Files produced:**
-- `data/chroma_resume_db/`
-- `data/resume_index_mapping.json`
+Both backends produce equivalent results and can be swapped without modifying the core logic of the project.
 
 ---
 
-## Why Two Backends?
+## Backend Selection
 
-Supporting both FAISS and Chroma provides important benefits:
+The vector backend can be changed through a configuration variable in the codebase.
 
-- **Reproducibility**: if FAISS cannot be installed on a system, Chroma can be used instead
-- **Cross-platform compatibility**: Chroma works reliably on Windows, Linux, and macOS
-- **Flexibility**: FAISS for performance experiments, Chroma for persistence and RAG workflows
-- **Pedagogical value**: illustrates different vector indexing strategies
-
-The rest of the pipeline (LLM structuring, embedding model, matching logic)
-remains identical regardless of the backend.
+This flexibility allows:
+- Performance-oriented experiments using FAISS
+- Persistence-oriented workflows using Chroma
+- Guaranteed reproducibility when one backend is unavailable
 
 ---
 
-## How to Select the Backend
+## Cross-Platform Design
 
-The backend is selected by changing a single variable:
+Special care has been taken to ensure that the project runs consistently on:
+- Windows
+- Linux
+- macOS
 
-```python
-BACKEND = "faiss"    # or "chroma"
+This includes:
+- Environment-based configuration
+- Avoidance of OS-specific paths
+- Explicit handling of external resources
 
+---
+
+## Summary
+
+This project demonstrates how Generative AI, semantic embeddings, and vector databases can be combined to build an intelligent, explainable resume–job matching system.
+
+It emphasizes:
+- Modularity and clarity
+- Reproducibility
+- Responsible use of external APIs
+- Practical constraints of real-world ML projects
+
+The resulting system provides a strong foundation for further extensions such as large-scale deployment, advanced ranking strategies, or full RAG-based recruitment pipelines.
